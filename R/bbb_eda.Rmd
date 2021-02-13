@@ -46,6 +46,19 @@ Mode <- function(x) {
 skimr::skim(bbb)
 ```
 
+
+```{r}
+bbb %>% group_by(bowl_class, outcome) %>% summarise(n = n())
+
+```
+
+
+```{r}
+bbb %>% filter(outcome == "W") %>% group_by(dism_mode) %>% summarise(n = n())
+
+```
+
+
 # Univariate Relationships
 
 ## Histograms
