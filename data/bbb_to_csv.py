@@ -1,6 +1,14 @@
-from pandas import DataFrame, Series, read_csv, isna
+# =============================================================================
+# bbb_to_csv.py
+#
+#
+# =============================================================================
+
+from os import path, fsencode, fsdecode, listdir, remove
+
+from pandas import DataFrame, read_csv, isna
 from yaml import safe_load
-from os import path, fsencode, fsdecode, listdir
+#from datetime import 
 
 # Each value to be extracted for each delivery
 DATA_COLS = ['Outcome', 'Dismissal', 'Innings', 'HostCountry', 'Venue', \
@@ -38,7 +46,7 @@ NUM_MONTHS = {'01': 'Jan', \
               '09': 'Sep', \
               '10': 'Oct', \
               '11': 'Nov', \
-              '12': 'Dec'}    
+              '12': 'Dec'}
 
 DIR = path.dirname(path.realpath(__file__))
 
@@ -53,11 +61,11 @@ def concat_bbb_stats(yaml_dir):
     def team_score_to_nums(string):
 
         if string == '-':
-            (runs, wkts, fo) = (0,0,0)
+            (runs, wkts, fo) = (0, 0, 0)
 
         else:
             fo = False
-            if ('(f/o)' in string):
+            if '(f/o)' in string:
                 # Follow-on innings
                 fo = True
                 string = string.split(" ")[0]
@@ -81,17 +89,17 @@ def concat_bbb_stats(yaml_dir):
 
     # Match info
     info = data['info']
-    #print(info)
 
     teams = info['teams']
 
+    # Process date
     start_date = (info['dates'])[0]
-    start_date = start_date.isoformat()
+    if not isinstance(start_date, str): start_date = start_date.isoformat()
     start_date_list = start_date.split("-")
     date_format = start_date_list[2] + " " + NUM_MONTHS[start_date_list[1]] + " " + start_date_list[0]
 
     # Remove 0 from start of day if present
-    if (date_format[0] == '0'):
+    if date_format[0] == '0':
         date_format = date_format[1:]
 
 
@@ -100,13 +108,13 @@ def concat_bbb_stats(yaml_dir):
 
     # Search for corresponding team in match list
     possible_matches = MATCHES.loc[(MATCHES['Team1'].isin([home_team, away_team])) & (MATCHES['Team2'].isin([home_team, away_team])) & (MATCHES['StartDate'] == date_format)]
-    
+
     # If no or multiple matches, raise exception
     if len(possible_matches.index) != 1:
-        raise AttributeError("Unable to find unique match to %s in match_list.csv. Found %i corresponding matches." % (yaml_dir, len(possible_matches.index) ))
+        raise AttributeError("Unable to find unique match to %s in match_list.csv. Found %i corresponding matches." % (yaml_dir, len(possible_matches.index)))
 
     match_detail = possible_matches.iloc[0,]
-    
+
     # Find player statistics
     players_dir = DIR + "/players/players_" + match_detail['Team1'] + match_detail['Team2'] + "_" + date_format.replace(" ", "") + ".csv"
     try:
@@ -145,6 +153,7 @@ def concat_bbb_stats(yaml_dir):
     batters = {}
     bowlers = {}
 
+    # Manually correct some known name discrepencies between CricInfo and ball-by-ball data
     BROKEN_NAMES = ["Sarfraz Ahmed", "Imran Khan (2)", "Mehedi Hasan Miraz", "Nazmul Hossain Shanto", "Tanvir Ahmed (1)", "Suhrawadi Shuvo"]
     CORRECT_NAMES = [("Sarfaraz", "Ahmed"), ("Imran", "Khan"), ("Mehidy", "Hasan Miraz"), ("Najmul", "Hossain Shanto"), ("Tanvir", "Ahmed"), ("Sohrawordi", "Shuvo")]
 
@@ -159,21 +168,12 @@ def concat_bbb_stats(yaml_dir):
 
         last_team = bat_team
 
-        bowl_team = COUNTRY_CODES[teams[1] if (bat_team == teams[0]) else teams[0]]
-        
+        bowl_team = COUNTRY_CODES[teams[1] if (bat_team == COUNTRY_CODES[teams[0]]) else teams[0]]
 
         # Reset score trackers
         score = 0
         wkts = 0
         balls = 0
-        
-        # Reset stats trackers
-#        for key in batters.keys():
-#            batters[key][1:2] = [0]*2
-
-#        for key in bowlers.keys():
-#            bowlers[key][1:3] = [0]*3
-#            bowlers[key][8:] = [0]*3
 
         batters = {}
         bowlers = {}
@@ -181,8 +181,7 @@ def concat_bbb_stats(yaml_dir):
         pos = 1
 
         for deliv_dict in inns_dict['deliveries']:
-            row = {'Innings': num + 1, 'MatchBalls': match_balls, "InnBalls": balls, 'BatTeam': bat_team, 'TeamWkts': wkts, 'TeamScore': score, 'TeamLead': lead, 'BowlTeam':
-bowl_team}
+            row = {'Innings': num + 1, 'MatchBalls': match_balls, "InnBalls": balls, 'BatTeam': bat_team, 'TeamWkts': wkts, 'TeamScore': score, 'TeamLead': lead, 'BowlTeam': bowl_team}
             deliv = list(deliv_dict.keys())[0]
             deliv_info = deliv_dict[deliv]
 
@@ -193,7 +192,7 @@ bowl_team}
                 # New batter to crease
 
                 # Find in pregame stats
-      
+
 
                 try:
                     batter_pregame = players_pregame.loc[(players_pregame['Initials'] == batter.split(" ")[0]) & (players_pregame['Surname'] == " ".join(batter.split(" ")[1:]))].iloc[0,]
@@ -211,7 +210,7 @@ bowl_team}
 
                     except IndexError:
                         print(players_pregame)
-                        print(batter) 
+                        print(batter)
                         raise IndexError()
 
 
@@ -237,7 +236,7 @@ bowl_team}
                             bowler_pregame = players_pregame.loc[(players_pregame['Initials'] == bowler.split(" ")[0]) & (isna(bowler_pregame['Surname']))].iloc[0,]
                     except IndexError:
                         print(players_pregame)
-                        print(bowler) 
+                        print(bowler)
                         raise IndexError("")
 
                 bowlers.update({bowler: [0, 0, 0, bowler_pregame['OversBowled'], bowler_pregame['BowlAvg'], bowler_pregame['BowlSR'], bowler_pregame['BowlType'], 0, 0, 0]})
@@ -278,7 +277,7 @@ bowl_team}
             # Check for extras
             elif 'extras' in deliv_info.keys():
                 extras_dict = deliv_info['extras']
-                
+
                 # No ball
                 if 'noballs' in extras_dict.keys():
                     bowlers[bowler][1] += extras_dict['noballs']
@@ -294,11 +293,11 @@ bowl_team}
                     batters[batter][2] -= 1
 
                 # Byes
-                if 'byes' in extras_dict.keys(): 
+                if 'byes' in extras_dict.keys():
                     outcome = str(extras_dict['byes']) + 'b'
 
                 # Legbyes
-                if 'legbyes' in extras_dict.keys(): 
+                if 'legbyes' in extras_dict.keys():
                     outcome = str(extras_dict['legbyes']) + 'lb'
 
             else:
@@ -319,20 +318,20 @@ bowl_team}
 
             output.append(row)
 
-            
+
 
 
     # Convert list of dictionaries to dataframe
-    ret_df = DataFrame(data = output)            
+    ret_df = DataFrame(data=output)
 
 
     # Fill in match information
     ret_df['StartDate'] = start_date
-    ret_df['HostCountry'] = home_team 
+    ret_df['HostCountry'] = home_team
     ret_df['Venue'] = match_detail['Venue']
     ret_df['TossWin'] = COUNTRY_CODES[info['toss']['winner']]
     ret_df['TossElect'] = info['toss']['decision']
-    
+
     ret_df['Winner'] = match_detail['Winner']
     ret_df['Margin'] = match_detail['Margin']
 
@@ -341,14 +340,9 @@ bowl_team}
 
 
 
-
-
-
-
-
-
-# Create output .csv file
+# Create output .csv file - first delete if it already exists
 output_dir = DIR + '/bbb_full.csv'
+try: remove(output_dir) except FileNotFoundError: continue
 
 # Loop through each file in ballbyball directory
 bbb_dir = fsencode(DIR + "/ballbyball")
@@ -369,7 +363,7 @@ for (id, file) in enumerate(listdir(bbb_dir)):
         print('Success!')
 
     except Exception as e:
-        #print(e)
+        print(e)
         continue
 
 print('Completed parsing of ball-by-ball data.')

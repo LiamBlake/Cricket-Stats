@@ -42,12 +42,12 @@ prep_data <- function(df, filename, no_outs, add_class = "") {
   
   
   # Export to .csv
-  save_to_csv(df_train, paste("data/", filename, "_train", sep = ""))
-  save_to_csv(df_test, paste("data/", filename, "_test", sep = ""))
+  save_to_csv(df_train, paste("../data/", filename, "_train", sep = ""))
+  save_to_csv(df_test, paste("../data/", filename, "_test", sep = ""))
 }
 
 # Load raw data
-bbb <- read_csv('../../../bbb_full.csv', na = c("", "-")) %>% as_tibble()
+bbb <- read_csv('../data/bbb_full.csv', na = c("", "-")) %>% as_tibble()
 bbb <- bbb %>% clean_names()
 
 # Factors
