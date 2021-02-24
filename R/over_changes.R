@@ -6,7 +6,7 @@
 #
 
 # Load libraries
-pacman::p_load(tidyverse, textclean)
+pacman::p_load(tidyverse)
 
 #process_match <- function(bbb, gameid)
 
@@ -49,7 +49,11 @@ for (id in unique(bbb$game_id)) {
   }
   stats <- read_csv(filename)
   
-  
+  # Iterate through each innings
+  for (inns in 1:4) {
+    
+    # Determine which bowlers bowl in innings
+  }
   
 }
 

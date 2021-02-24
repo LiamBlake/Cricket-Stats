@@ -15,8 +15,8 @@ bbb <- readRDS('bbb_cleaned.rds') %>% as_tibble() %>% #na.omit(game_id) %>%
   filter(!is.na(game_id)) # Remove rows without a game_id
 
 # Storage of data
-declarations <- tibble(innings = integer(), match_balls = numeric(), lead = numeric(), wkts = factor())
-followons <- tibble()
+declarations <- tibble(innings = integer(), match_balls = numeric(), lead = numeric(), wkts = factor(), is_dec = factor())
+followons <- tibble(match_balls = numeric(), last_score = numeric(), lead = numeric(), follow_on = factor())
 
 # Process each match
 for (id in unique(bbb$game_id)) {
@@ -39,12 +39,31 @@ for (id in unique(bbb$game_id)) {
     
     # Check for declarations
     last_ball <- bbb_inns %>% slice_tail(n = 1)
+    remain <- bbb_inns %>% slice_head(n = nrow(bbb_inns) - 1)
+    declarations <- declarations %>% add_row(innings = inns, match_balls = remain$match_balls, lead = remain$team_lead, wkts = remain$team_wkts, is_dec = "no")
+    
     if (last_ball$team_wkts != 9 | last_ball$outcome != "W") {
       # Declaration has occured - record the circumstances
       declarations <- declarations %>% 
-        add_row(innings = inns, match_balls = last_ball$match_balls, lead = last_ball$team_lead, wkts = last_ball$team_wkts)
+        add_row(innings = inns, match_balls = last_ball$match_balls + 1, lead = last_ball$team_lead, wkts = last_ball$team_wkts, is_dec = "yes")
+    }
+    
+    # Follow-on
+    if (inns == 2) {
+      if (bbb_inns$bat_team[1] == (bbb_filt %>% filter(innings == "3"))$bat_team[1]) {
+        fo <- "yes"
+      }  else {
+        fo <- "no"
+      }
+      
+      followons <- followons %>% add_row(match_balls = last_ball$match_balls + 1, last_score = last_ball$team_score, lead = last_ball$team_lead, follow_on = fo)
+      
+      
     }
 
   }  
 }
 
+# Export
+saveRDS(declarations, 'declarations.rds')
+saveRDS(followons, 'follow_ons.rds')

@@ -12,7 +12,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
-pacman::p_load(tidyverse, corrplot)
+pacman::p_load(tidyverse, corrplot, tidymodels)
 
 # Load
 bbb <- readRDS("bbb_cleaned.rds")
@@ -293,6 +293,32 @@ toss_df %>% ggplot(aes(bin,field_prob)) + geom_col() + geom_line(aes(x,y), data 
 
 
 
+
+# Follow-on data
+```{r}
+follow_ons <- readRDS("follow_ons.rds") %>% filter(lead < -199)
+
+```
+
+```{r}
+follow_ons %>% ggplot(aes(x = lead, fill = follow_on)) + geom_density(alpha = 0.2)
+follow_ons %>% ggplot(aes(x = match_balls, fill = follow_on)) + geom_density(alpha = 0.2)
+follow_ons %>% ggplot(aes(x = last_score, fill = follow_on)) + geom_density(alpha = 0.2)
+```
+
+
+Let's try a decision tree
+```{r}
+follow_ons_recipe <- recipe(follow_on ~ ., data = follow_ons)
+follow_ons_model <- logistic_reg() %>%
+set_engine("glm")
+
+follow_ons_wf <- workflow() %>% 
+  add_recipe(follow_ons_recipe) %>% 
+  add_model(follow_ons_model)
+
+follow_ons_wf %>% fit(follow_ons) %>% pull_workflow_fit()
+```
 
 
 
