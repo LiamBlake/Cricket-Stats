@@ -307,19 +307,8 @@ follow_ons %>% ggplot(aes(x = last_score, fill = follow_on)) + geom_density(alph
 ```
 
 
-Let's try a decision tree
 ```{r}
-follow_ons_recipe <- recipe(follow_on ~ ., data = follow_ons)
-follow_ons_model <- logistic_reg() %>%
-set_engine("glm")
-
-follow_ons_wf <- workflow() %>% 
-  add_recipe(follow_ons_recipe) %>% 
-  add_model(follow_ons_model)
-
-follow_ons_wf %>% fit(follow_ons) %>% pull_workflow_fit()
+follow_ons %>% ggplot(aes(x = lead, y = match_balls, color = follow_on)) + geom_point()
 ```
-
-
 
 

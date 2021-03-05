@@ -1,0 +1,128 @@
+---
+title: "Predicting Wickets"
+author: "L.Blake"
+date: "03/03/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+pacman::p_load(tidyverse, tidymodels, vip, visNetwork)
+
+# Load data and removed ignored variables
+bbb <- readRDS("../data_process/bbb_cleaned.rds") %>%
+  select(-c(start_date, venue, toss_win, toss_elect, winner, margin, game_id,
+            dism_mode, pitch_factor, runs, extras, bat_team_total_runs,
+            bat_team_total_wkts, bowl_team_total_wkts, bowl_team_total_runs, bowl_class,
+            spell_balls, spell_runs, spell_wkts, outcome, batter, bowler, bat_team, bowl_team, bat_win_toss, bat_home_away, host_country))# %>%
+  #mutate_at(c("team_wkts", "bowl_wkts"), as.integer)
+
+# Split into training, testing
+bbb_split <- initial_split(bbb, strata = is_wkt)
+bbb_train <- training(bbb_split)
+bbb_test <- testing(bbb_split)
+
+# Load predictors
+# train_x1 <- read_csv("../data/is_wkt_train_preds1.csv") %>% as_tibble()
+# train_x2 <- read_csv("../data/is_wkt_train_preds2.csv") %>% as_tibble()
+# x_train <- bind_rows(train_x1, train_x2)
+# 
+# x_test <- read_csv("../data/is_wkt_test_preds.csv") %>% as_tibble()
+# 
+# # Load labels and unencode
+# unencode <- function(y, names) {
+#   return(tibble(is_wkt = names[max.col(y)]))
+# }
+# y_train <- read_csv("../data/is_wkt_train_labs.csv") %>% as_tibble()
+# outlabs <- c("no", "W")
+# y_train <- unencode(y_train, outlabs)
+# y_test <- read_csv("../data/is_wkt_test_labs.csv") %>% as_tibble
+# y_test <- unencode(y_test, outlabs)
+# 
+# train <- x_train %>% add_column(is_wkt = as.factor(y_train$is_wkt)) #%>% mutate_at(c("is_wkt"), base::as.factor)
+# test <- x_test %>% add_column(is_wkt = as.factor(y_test$is_wkt))# %>% mutate_at(c("is_wkt"), base::as.factor)
+# 
+# rm(train_x1, train_x2, x_train, x_test, y_train, y_test)
+# 
+# 
+# # Balanced data
+# train_bal <- bind_rows(train %>% filter(is_wkt == "W"), sample_n(train %>% filter(is_wkt == "no"), size = nrow(train %>% filter(is_wkt == "W"))))
+
+```
+
+# Preprocessing
+```{r}
+wkt_recp <- recipe(is_wkt ~ ., data = bbb_train) %>%
+  step_naomit(everything()) %>%
+  step_dummy(all_nominal(), -all_outcomes())
+```
+
+
+# Logistic Regression
+Initially try a fit with all variables, no interactions. Tune the penalty term (penalty). 
+```{r}
+wf_logit <- workflow() %>% add_recipe(recipe = wkt_recp)
+wf_logit <- wf_logit %>% add_model(logistic_reg(penalty = 0) %>% set_engine("glmnet"))
+
+wf_logit <- wf_logit %>% fit(data = bbb_train)
+fit_logit_all_noint <- wf_logit %>% pull_workflow_fit()
+summary(fit_logit_all_noint$fit)
+```
+
+## Variable importance
+```{r}
+vi(fit_logit_all_noint) %>% 
+  ggplot(aes(Importance, fct_reorder(Variable, Importance), fill = Sign)) + 
+  geom_col() + 
+  labs(y = "Character")
+```
+
+## Evaluate on Test Set
+```{r}
+test_logit_all_notint <- bbb_test %>% add_column(
+  fit_logit_all_noint %>% predict(new_data = wkt_recp %>% prep(bbb_test), type = "prob")
+)
+```
+
+## Evaluate on test set
+
+
+# CART Decision Tree
+```{r}
+# Balanced training set
+train_bal <- bind_rows(bbb_train %>% filter(is_wkt == "W"), sample_n(bbb_train %>% filter(is_wkt == "no"), size = nrow(bbb_train %>% filter(is_wkt == "W"))))
+
+fit_tree_all <- decision_tree(mode = "classification", tree_depth = 30) %>%
+  set_engine("rpart") %>% 
+  fit(is_wkt ~ ., data = train_bal)
+```
+
+```{r}
+fit_tree_all$fit
+visTree(fit_tree_all$fit)
+```
+
+## Variable importance
+```{r}
+vip(fit_tree_all)
+```
+
+
+## Fit on test set
+```{r}
+test_tree_all <- bbb_test %>% add_column(
+  fit_tree_all %>% predict(new_data = bbb_test, type = "prob")
+)
+
+test_tree_all %>% 
+  roc_curve(is_wkt, .pred_W) %>% 
+  autoplot()
+
+test_tree_all %>% 
+  roc_auc(is_wkt, .pred_W)
+
+```
+
+
+
+# Random Forest
