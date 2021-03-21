@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1187,230,ENG,6,98,270,GP Swann,Mohammad Amir,8,0,0,28.86,740,85.81,Right-hand bat,72,25,1,2304.5,33.63,64.1,lf,0,ENG,seam,yes,20.781065088757398,1.7317554240631166
+3,1188,231,ENG,6,98,270,GP Swann,Mohammad Amir,8,0,1,28.86,740,85.81,Right-hand bat,73,25,1,2304.5,33.63,64.1,lf,4,ENG,seam,yes,20.781065088757398,1.7317554240631166
+3,1189,232,ENG,6,102,274,GP Swann,Mohammad Amir,8,4,2,28.86,740,85.81,Right-hand bat,74,29,1,2304.5,33.63,64.1,lf,4lb,ENG,seam,yes,20.781065088757398,1.7317554240631166
+3,1190,233,ENG,6,106,278,GP Swann,Mohammad Amir,8,4,3,28.86,740,85.81,Right-hand bat,75,29,1,2304.5,33.63,64.1,lf,0,ENG,seam,yes,20.781065088757398,1.7317554240631166
+3,1191,234,ENG,6,106,278,GP Swann,Mohammad Amir,8,4,4,28.86,740,85.81,Right-hand bat,76,29,1,2304.5,33.63,64.1,lf,0,ENG,seam,yes,20.781065088757398,1.7317554240631166
+3,1192,235,ENG,6,106,278,GP Swann,Mohammad Amir,8,4,5,28.86,740,85.81,Right-hand bat,77,29,1,2304.5,33.63,64.1,lf,1,ENG,seam,yes,20.781065088757398,1.7317554240631166
+3,1200,243,ENG,6,116,288,GP Swann,Mohammad Amir,8,13,12,28.86,740,85.81,Right-hand bat,79,31,1,2304.5,33.63,64.1,lf,0,ENG,seam,yes,20.781065088757398,1.7317554240631166
+3,1201,244,ENG,6,116,288,GP Swann,Mohammad Amir,8,13,13,28.86,740,85.81,Right-hand bat,80,31,1,2304.5,33.63,64.1,lf,1,ENG,seam,yes,20.781065088757398,1.7317554240631166
+3,1204,247,ENG,6,118,290,GP Swann,Mohammad Amir,8,14,14,28.86,740,85.81,Right-hand bat,83,33,1,2304.5,33.63,64.1,lf,0,ENG,seam,yes,20.781065088757398,1.7317554240631166

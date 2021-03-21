@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,267,267,SRL,7,157,157,HMRKB Herath,Imran Tahir,9,0,0,16.2,1076,52.69,Left-hand bat,25,16,1,294.3,31.66,49.5,rls,2,RSA,spin,no,22.23,2.4699999999999998
+1,268,268,SRL,7,159,159,HMRKB Herath,Imran Tahir,9,2,1,16.2,1076,52.69,Left-hand bat,26,18,1,294.3,31.66,49.5,rls,0,RSA,spin,no,22.23,2.4699999999999998
+1,269,269,SRL,7,159,159,HMRKB Herath,Imran Tahir,9,2,2,16.2,1076,52.69,Left-hand bat,27,18,1,294.3,31.66,49.5,rls,0,RSA,spin,no,22.23,2.4699999999999998
+1,270,270,SRL,7,159,159,HMRKB Herath,Imran Tahir,9,2,3,16.2,1076,52.69,Left-hand bat,28,18,1,294.3,31.66,49.5,rls,1,RSA,spin,no,22.23,2.4699999999999998
+1,284,284,SRL,7,169,169,HMRKB Herath,Imran Tahir,9,7,9,16.2,1076,52.69,Left-hand bat,34,21,1,294.3,31.66,49.5,rls,0,RSA,spin,no,22.23,2.4699999999999998
+1,285,285,SRL,7,169,169,HMRKB Herath,Imran Tahir,9,7,10,16.2,1076,52.69,Left-hand bat,35,21,1,294.3,31.66,49.5,rls,1,RSA,spin,no,22.23,2.4699999999999998

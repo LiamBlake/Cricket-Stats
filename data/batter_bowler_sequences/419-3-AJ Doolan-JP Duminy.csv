@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1281,175,AUS,1,126,317,AJ Doolan,JP Duminy,3,44,76,58,205,56.58,Right-hand bat,0,0,0,1458,40.38,69.4,rob,0,RSA,spin,no,26.474048442906575,5.673010380622837
+3,1282,176,AUS,1,126,317,AJ Doolan,JP Duminy,3,44,77,58,205,56.58,Right-hand bat,1,0,0,1458,40.38,69.4,rob,0,RSA,spin,no,26.474048442906575,5.673010380622837
+3,1283,177,AUS,1,126,317,AJ Doolan,JP Duminy,3,44,78,58,205,56.58,Right-hand bat,2,0,0,1458,40.38,69.4,rob,0,RSA,spin,no,26.474048442906575,5.673010380622837
+3,1284,178,AUS,1,126,317,AJ Doolan,JP Duminy,3,44,79,58,205,56.58,Right-hand bat,3,0,0,1458,40.38,69.4,rob,0,RSA,spin,no,26.474048442906575,5.673010380622837
+3,1285,179,AUS,1,126,317,AJ Doolan,JP Duminy,3,44,80,58,205,56.58,Right-hand bat,4,0,0,1458,40.38,69.4,rob,1,RSA,spin,no,26.474048442906575,5.673010380622837
+3,1297,191,AUS,1,134,325,AJ Doolan,JP Duminy,3,46,82,58,205,56.58,Right-hand bat,10,6,0,1458,40.38,69.4,rob,1,RSA,spin,no,26.474048442906575,5.673010380622837
+3,1309,203,AUS,1,146,337,AJ Doolan,JP Duminy,3,47,83,58,205,56.58,Right-hand bat,16,9,0,1458,40.38,69.4,rob,0,RSA,spin,no,26.474048442906575,5.673010380622837
+3,1310,204,AUS,1,146,337,AJ Doolan,JP Duminy,3,47,84,58,205,56.58,Right-hand bat,17,9,0,1458,40.38,69.4,rob,1,RSA,spin,no,26.474048442906575,5.673010380622837
+3,1452,346,AUS,2,243,434,AJ Doolan,JP Duminy,3,89,153,58,205,56.58,Right-hand bat,18,10,0,1458,40.38,69.4,rob,W,RSA,spin,no,26.474048442906575,5.673010380622837

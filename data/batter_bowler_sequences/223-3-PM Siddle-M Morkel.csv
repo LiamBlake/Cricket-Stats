@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1690,538,AUS,9,278,372,PM Siddle,M Morkel,11,0,0,13.5,64,42.18,Right-hand bat,85,27,1,2184.1,31.6,50.8,rf,0,AUS,seam,yes,33.64359861591695,7.209342560553633
+3,1691,539,AUS,9,278,372,PM Siddle,M Morkel,11,0,1,13.5,64,42.18,Right-hand bat,86,27,1,2184.1,31.6,50.8,rf,0,AUS,seam,yes,33.64359861591695,7.209342560553633
+3,1692,540,AUS,9,278,372,PM Siddle,M Morkel,11,0,2,13.5,64,42.18,Right-hand bat,87,27,1,2184.1,31.6,50.8,rf,0,AUS,seam,yes,33.64359861591695,7.209342560553633
+3,1712,560,AUS,9,293,387,PM Siddle,M Morkel,11,1,10,13.5,64,42.18,Right-hand bat,95,36,1,2184.1,31.6,50.8,rf,1,AUS,seam,yes,33.64359861591695,7.209342560553633
+3,1718,566,AUS,9,298,392,PM Siddle,M Morkel,11,2,11,13.5,64,42.18,Right-hand bat,101,39,1,2184.1,31.6,50.8,rf,0,AUS,seam,yes,33.64359861591695,7.209342560553633

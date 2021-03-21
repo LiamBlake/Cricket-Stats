@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,914,145,RSA,4,82,159,HM Amla,Shadab Khan,3,33,62,47.33,18455,50.01,Right-hand bat,1,1,0,882.3,38.83,73.7,rls,0,RSA,spin,yes,22.378125,3.196875
+3,915,146,RSA,4,82,159,HM Amla,Shadab Khan,3,33,63,47.33,18455,50.01,Right-hand bat,2,1,0,882.3,38.83,73.7,rls,0,RSA,spin,yes,22.378125,3.196875
+3,916,147,RSA,4,82,159,HM Amla,Shadab Khan,3,33,64,47.33,18455,50.01,Right-hand bat,3,1,0,882.3,38.83,73.7,rls,0,RSA,spin,yes,22.378125,3.196875
+3,917,148,RSA,4,82,159,HM Amla,Shadab Khan,3,33,65,47.33,18455,50.01,Right-hand bat,4,1,0,882.3,38.83,73.7,rls,0,RSA,spin,yes,22.378125,3.196875
+3,918,149,RSA,4,82,159,HM Amla,Shadab Khan,3,33,66,47.33,18455,50.01,Right-hand bat,5,1,0,882.3,38.83,73.7,rls,0,RSA,spin,yes,22.378125,3.196875
+3,925,156,RSA,4,86,163,HM Amla,Shadab Khan,3,33,67,47.33,18455,50.01,Right-hand bat,6,1,0,882.3,38.83,73.7,rls,1,RSA,spin,yes,22.378125,3.196875
+3,930,161,RSA,4,92,169,HM Amla,Shadab Khan,3,34,68,47.33,18455,50.01,Right-hand bat,11,7,0,882.3,38.83,73.7,rls,0,RSA,spin,yes,22.378125,3.196875
+3,941,172,RSA,5,94,171,HM Amla,Shadab Khan,3,34,74,47.33,18455,50.01,Right-hand bat,16,8,1,882.3,38.83,73.7,rls,0,RSA,spin,yes,22.378125,3.196875
+3,942,173,RSA,5,94,171,HM Amla,Shadab Khan,3,34,75,47.33,18455,50.01,Right-hand bat,17,8,1,882.3,38.83,73.7,rls,0,RSA,spin,yes,22.378125,3.196875
+3,952,183,RSA,5,100,177,HM Amla,Shadab Khan,3,34,77,47.33,18455,50.01,Right-hand bat,21,9,1,882.3,38.83,73.7,rls,0,RSA,spin,yes,22.378125,3.196875
+3,953,184,RSA,5,100,177,HM Amla,Shadab Khan,3,34,78,47.33,18455,50.01,Right-hand bat,22,9,1,882.3,38.83,73.7,rls,1,RSA,spin,yes,22.378125,3.196875
+3,973,204,RSA,5,118,195,HM Amla,Shadab Khan,3,36,81,47.33,18455,50.01,Right-hand bat,30,16,1,882.3,38.83,73.7,rls,1,RSA,spin,yes,22.378125,3.196875
+3,975,206,RSA,5,120,197,HM Amla,Shadab Khan,3,37,82,47.33,18455,50.01,Right-hand bat,32,18,1,882.3,38.83,73.7,rls,0,RSA,spin,yes,22.378125,3.196875
+3,976,207,RSA,5,120,197,HM Amla,Shadab Khan,3,37,83,47.33,18455,50.01,Right-hand bat,33,18,1,882.3,38.83,73.7,rls,1,RSA,spin,yes,22.378125,3.196875

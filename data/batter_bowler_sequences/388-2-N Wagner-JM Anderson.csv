@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1016,684,NZL,8,451,284,N Wagner,JM Anderson,10,0,0,9,231,23.37,Left-hand bat,192,133,4,17136.5,30.44,58.7,rfm,0,NZL,seam,yes,30.1824,11.7376
+2,1017,685,NZL,8,451,284,N Wagner,JM Anderson,10,0,1,9,231,23.37,Left-hand bat,193,133,4,17136.5,30.44,58.7,rfm,2,NZL,seam,yes,30.1824,11.7376
+2,1018,686,NZL,8,453,286,N Wagner,JM Anderson,10,2,2,9,231,23.37,Left-hand bat,194,135,4,17136.5,30.44,58.7,rfm,0,NZL,seam,yes,30.1824,11.7376
+2,1019,687,NZL,8,453,286,N Wagner,JM Anderson,10,2,3,9,231,23.37,Left-hand bat,195,135,4,17136.5,30.44,58.7,rfm,2,NZL,seam,yes,30.1824,11.7376
+2,1020,688,NZL,8,455,288,N Wagner,JM Anderson,10,4,4,9,231,23.37,Left-hand bat,196,137,4,17136.5,30.44,58.7,rfm,0,NZL,seam,yes,30.1824,11.7376
+2,1021,689,NZL,8,455,288,N Wagner,JM Anderson,10,4,5,9,231,23.37,Left-hand bat,197,137,4,17136.5,30.44,58.7,rfm,0,NZL,seam,yes,30.1824,11.7376

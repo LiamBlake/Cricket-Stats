@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,844,456,SRL,1,237,5,KC Sangakkara,Mominul Haque,3,59,132,56.45,19930,53.82,Left-hand bat,0,0,0,168.1,95,169,lo,0,BAN,spin,yes,23.307692307692307,23.307692307692307
+2,845,457,SRL,1,237,5,KC Sangakkara,Mominul Haque,3,59,133,56.45,19930,53.82,Left-hand bat,1,0,0,168.1,95,169,lo,0,BAN,spin,yes,23.307692307692307,23.307692307692307
+2,846,458,SRL,1,237,5,KC Sangakkara,Mominul Haque,3,59,134,56.45,19930,53.82,Left-hand bat,2,0,0,168.1,95,169,lo,0,BAN,spin,yes,23.307692307692307,23.307692307692307
+2,847,459,SRL,1,237,5,KC Sangakkara,Mominul Haque,3,59,135,56.45,19930,53.82,Left-hand bat,3,0,0,168.1,95,169,lo,1,BAN,spin,yes,23.307692307692307,23.307692307692307
+2,856,468,SRL,1,239,7,KC Sangakkara,Mominul Haque,3,61,142,56.45,19930,53.82,Left-hand bat,6,1,0,168.1,95,169,lo,0,BAN,spin,yes,23.307692307692307,23.307692307692307
+2,857,469,SRL,1,239,7,KC Sangakkara,Mominul Haque,3,61,143,56.45,19930,53.82,Left-hand bat,7,1,0,168.1,95,169,lo,0,BAN,spin,yes,23.307692307692307,23.307692307692307
+2,858,470,SRL,1,239,7,KC Sangakkara,Mominul Haque,3,61,144,56.45,19930,53.82,Left-hand bat,8,1,0,168.1,95,169,lo,0,BAN,spin,yes,23.307692307692307,23.307692307692307
+2,859,471,SRL,1,239,7,KC Sangakkara,Mominul Haque,3,61,145,56.45,19930,53.82,Left-hand bat,9,1,0,168.1,95,169,lo,4,BAN,spin,yes,23.307692307692307,23.307692307692307
+2,860,472,SRL,1,243,11,KC Sangakkara,Mominul Haque,3,65,146,56.45,19930,53.82,Left-hand bat,10,5,0,168.1,95,169,lo,1,BAN,spin,yes,23.307692307692307,23.307692307692307
+2,868,480,SRL,1,247,15,KC Sangakkara,Mominul Haque,3,68,149,56.45,19930,53.82,Left-hand bat,12,6,0,168.1,95,169,lo,0,BAN,spin,yes,23.307692307692307,23.307692307692307
+2,869,481,SRL,1,247,15,KC Sangakkara,Mominul Haque,3,68,150,56.45,19930,53.82,Left-hand bat,13,6,0,168.1,95,169,lo,1,BAN,spin,yes,23.307692307692307,23.307692307692307
+2,881,493,SRL,1,251,19,KC Sangakkara,Mominul Haque,3,69,155,56.45,19930,53.82,Left-hand bat,19,9,0,168.1,95,169,lo,0,BAN,spin,yes,23.307692307692307,23.307692307692307
+2,882,494,SRL,1,251,19,KC Sangakkara,Mominul Haque,3,69,156,56.45,19930,53.82,Left-hand bat,20,9,0,168.1,95,169,lo,1,BAN,spin,yes,23.307692307692307,23.307692307692307

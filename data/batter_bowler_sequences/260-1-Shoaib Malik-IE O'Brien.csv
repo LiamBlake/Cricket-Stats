@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,292,292,PAK,4,130,130,Shoaib Malik,IE O'Brien,6,9,11,36,3261,44.15,Right-hand bat,76,35,1,4062.2,34.11,60.6,rfm,0,NZL,seam,no,16.21875,5.40625
+1,293,293,PAK,4,130,130,Shoaib Malik,IE O'Brien,6,9,12,36,3261,44.15,Right-hand bat,77,35,1,4062.2,34.11,60.6,rfm,0,NZL,seam,no,16.21875,5.40625
+1,294,294,PAK,4,130,130,Shoaib Malik,IE O'Brien,6,9,13,36,3261,44.15,Right-hand bat,78,35,1,4062.2,34.11,60.6,rfm,0,NZL,seam,no,16.21875,5.40625

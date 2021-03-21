@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,549,217,NZL,0,115,-52,HD Rutherford,IJL Trott,2,69,93,171,217,78.8,Left-hand bat,1,1,0,594,115,198,rm,0,NZL,seam,yes,30.1824,11.7376
+2,550,218,NZL,0,115,-52,HD Rutherford,IJL Trott,2,69,94,171,217,78.8,Left-hand bat,2,1,0,594,115,198,rm,0,NZL,seam,yes,30.1824,11.7376
+2,551,219,NZL,0,115,-52,HD Rutherford,IJL Trott,2,69,95,171,217,78.8,Left-hand bat,3,1,0,594,115,198,rm,1,NZL,seam,yes,30.1824,11.7376
+2,561,229,NZL,0,121,-46,HD Rutherford,IJL Trott,2,73,101,171,217,78.8,Left-hand bat,7,3,0,594,115,198,rm,0,NZL,seam,yes,30.1824,11.7376
+2,562,230,NZL,0,121,-46,HD Rutherford,IJL Trott,2,73,102,171,217,78.8,Left-hand bat,8,3,0,594,115,198,rm,1,NZL,seam,yes,30.1824,11.7376

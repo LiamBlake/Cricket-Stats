@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1781,490,ZIM,8,177,241,TL Chatara,Rahat Ali,10,0,0,5.12,118,34.74,Right-hand bat,123,41,4,756.1,30.85,54,lfm,1,ZIM,seam,yes,17.43625,6.6137500000000005
+3,1791,500,ZIM,8,179,243,TL Chatara,Rahat Ali,10,1,7,5.12,118,34.74,Right-hand bat,127,43,4,756.1,30.85,54,lfm,0,ZIM,seam,yes,17.43625,6.6137500000000005
+3,1792,501,ZIM,8,179,243,TL Chatara,Rahat Ali,10,1,8,5.12,118,34.74,Right-hand bat,128,43,4,756.1,30.85,54,lfm,0,ZIM,seam,yes,17.43625,6.6137500000000005
+3,1793,502,ZIM,8,179,243,TL Chatara,Rahat Ali,10,1,9,5.12,118,34.74,Right-hand bat,129,43,4,756.1,30.85,54,lfm,0,ZIM,seam,yes,17.43625,6.6137500000000005
+3,1794,503,ZIM,8,179,243,TL Chatara,Rahat Ali,10,1,10,5.12,118,34.74,Right-hand bat,130,43,4,756.1,30.85,54,lfm,0,ZIM,seam,yes,17.43625,6.6137500000000005
+3,1795,504,ZIM,8,179,243,TL Chatara,Rahat Ali,10,1,11,5.12,118,34.74,Right-hand bat,131,43,4,756.1,30.85,54,lfm,0,ZIM,seam,yes,17.43625,6.6137500000000005
+3,1826,535,ZIM,9,199,263,TL Chatara,Rahat Ali,10,1,19,5.12,118,34.74,Right-hand bat,144,52,4,756.1,30.85,54,lfm,0,ZIM,seam,yes,17.43625,6.6137500000000005
+3,1827,536,ZIM,9,199,263,TL Chatara,Rahat Ali,10,1,20,5.12,118,34.74,Right-hand bat,145,52,4,756.1,30.85,54,lfm,0,ZIM,seam,yes,17.43625,6.6137500000000005
+3,1828,537,ZIM,9,199,263,TL Chatara,Rahat Ali,10,1,21,5.12,118,34.74,Right-hand bat,146,52,4,756.1,30.85,54,lfm,0,ZIM,seam,yes,17.43625,6.6137500000000005
+3,1829,538,ZIM,9,199,263,TL Chatara,Rahat Ali,10,1,22,5.12,118,34.74,Right-hand bat,147,52,4,756.1,30.85,54,lfm,0,ZIM,seam,yes,17.43625,6.6137500000000005
+3,1830,539,ZIM,9,199,263,TL Chatara,Rahat Ali,10,1,23,5.12,118,34.74,Right-hand bat,148,52,4,756.1,30.85,54,lfm,W,ZIM,seam,yes,17.43625,6.6137500000000005

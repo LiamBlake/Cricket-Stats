@@ -1,0 +1,27 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,106,106,SRL,3,39,39,TT Samaraweera,Shakib Al Hasan,5,0,0,45.16,6368,43.96,Right-hand bat,27,7,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,107,107,SRL,3,39,39,TT Samaraweera,Shakib Al Hasan,5,0,1,45.16,6368,43.96,Right-hand bat,28,7,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,108,108,SRL,3,39,39,TT Samaraweera,Shakib Al Hasan,5,0,2,45.16,6368,43.96,Right-hand bat,29,7,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,115,115,SRL,3,39,39,TT Samaraweera,Shakib Al Hasan,5,0,3,45.16,6368,43.96,Right-hand bat,30,7,1,2334.2,31.8,66.7,lo,1,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,117,117,SRL,3,41,41,TT Samaraweera,Shakib Al Hasan,5,1,4,45.16,6368,43.96,Right-hand bat,32,9,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,118,118,SRL,3,41,41,TT Samaraweera,Shakib Al Hasan,5,1,5,45.16,6368,43.96,Right-hand bat,33,9,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,119,119,SRL,3,41,41,TT Samaraweera,Shakib Al Hasan,5,1,6,45.16,6368,43.96,Right-hand bat,34,9,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,120,120,SRL,3,41,41,TT Samaraweera,Shakib Al Hasan,5,1,7,45.16,6368,43.96,Right-hand bat,35,9,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,128,128,SRL,3,50,50,TT Samaraweera,Shakib Al Hasan,5,8,14,45.16,6368,43.96,Right-hand bat,36,9,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,129,129,SRL,3,50,50,TT Samaraweera,Shakib Al Hasan,5,8,15,45.16,6368,43.96,Right-hand bat,37,9,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,130,130,SRL,3,50,50,TT Samaraweera,Shakib Al Hasan,5,8,16,45.16,6368,43.96,Right-hand bat,38,9,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,131,131,SRL,3,50,50,TT Samaraweera,Shakib Al Hasan,5,8,17,45.16,6368,43.96,Right-hand bat,39,9,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,132,132,SRL,3,50,50,TT Samaraweera,Shakib Al Hasan,5,8,18,45.16,6368,43.96,Right-hand bat,40,9,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,133,133,SRL,3,50,50,TT Samaraweera,Shakib Al Hasan,5,8,19,45.16,6368,43.96,Right-hand bat,41,9,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,144,144,SRL,3,52,52,TT Samaraweera,Shakib Al Hasan,5,8,23,45.16,6368,43.96,Right-hand bat,46,10,1,2334.2,31.8,66.7,lo,1,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,153,153,SRL,3,57,57,TT Samaraweera,Shakib Al Hasan,5,10,26,45.16,6368,43.96,Right-hand bat,48,11,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,154,154,SRL,3,57,57,TT Samaraweera,Shakib Al Hasan,5,10,27,45.16,6368,43.96,Right-hand bat,49,11,1,2334.2,31.8,66.7,lo,4,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,155,155,SRL,3,61,61,TT Samaraweera,Shakib Al Hasan,5,14,28,45.16,6368,43.96,Right-hand bat,50,15,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,156,156,SRL,3,61,61,TT Samaraweera,Shakib Al Hasan,5,14,29,45.16,6368,43.96,Right-hand bat,51,15,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,157,157,SRL,3,61,61,TT Samaraweera,Shakib Al Hasan,5,14,30,45.16,6368,43.96,Right-hand bat,52,15,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,158,158,SRL,3,61,61,TT Samaraweera,Shakib Al Hasan,5,14,31,45.16,6368,43.96,Right-hand bat,53,15,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,165,165,SRL,3,65,65,TT Samaraweera,Shakib Al Hasan,5,14,32,45.16,6368,43.96,Right-hand bat,54,15,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,166,166,SRL,3,65,65,TT Samaraweera,Shakib Al Hasan,5,14,33,45.16,6368,43.96,Right-hand bat,55,15,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,167,167,SRL,3,65,65,TT Samaraweera,Shakib Al Hasan,5,14,34,45.16,6368,43.96,Right-hand bat,56,15,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,168,168,SRL,3,65,65,TT Samaraweera,Shakib Al Hasan,5,14,35,45.16,6368,43.96,Right-hand bat,57,15,1,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+1,169,169,SRL,3,65,65,TT Samaraweera,Shakib Al Hasan,5,14,36,45.16,6368,43.96,Right-hand bat,58,15,1,2334.2,31.8,66.7,lo,1,BAN,spin,yes,9.23611111111111,24.01388888888889

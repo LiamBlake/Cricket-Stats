@@ -1,0 +1,3 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,796,287,WIN,6,124,-136,DJG Sammy,DAJ Bracewell,8,0,6,22.2,1569,67.94,Right-hand bat,64,29,0,1692,24.05,45.7,rfm,0,WIN,seam,yes,16.241632653061227,7.444081632653061
+2,797,288,WIN,6,124,-136,DJG Sammy,DAJ Bracewell,8,0,7,22.2,1569,67.94,Right-hand bat,65,29,0,1692,24.05,45.7,rfm,1,WIN,seam,yes,16.241632653061227,7.444081632653061

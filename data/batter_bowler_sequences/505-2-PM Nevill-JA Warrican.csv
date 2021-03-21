@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,874,200,AUS,2,166,-164,PM Nevill,JA Warrican,4,5,2,28,575,48.69,Right-hand bat,74,58,2,732,46.27,66.5,lo,0,AUS,spin,no,10.541666666666666,31.625
+2,875,201,AUS,2,166,-164,PM Nevill,JA Warrican,4,5,3,28,575,48.69,Right-hand bat,75,58,2,732,46.27,66.5,lo,0,AUS,spin,no,10.541666666666666,31.625
+2,876,202,AUS,2,166,-164,PM Nevill,JA Warrican,4,5,4,28,575,48.69,Right-hand bat,76,58,2,732,46.27,66.5,lo,0,AUS,spin,no,10.541666666666666,31.625
+2,877,203,AUS,2,166,-164,PM Nevill,JA Warrican,4,5,5,28,575,48.69,Right-hand bat,77,58,2,732,46.27,66.5,lo,0,AUS,spin,no,10.541666666666666,31.625
+2,885,211,AUS,2,172,-158,PM Nevill,JA Warrican,4,5,8,28,575,48.69,Right-hand bat,79,59,2,732,46.27,66.5,lo,0,AUS,spin,no,10.541666666666666,31.625
+2,886,212,AUS,2,172,-158,PM Nevill,JA Warrican,4,5,9,28,575,48.69,Right-hand bat,80,59,2,732,46.27,66.5,lo,0,AUS,spin,no,10.541666666666666,31.625
+2,887,213,AUS,2,172,-158,PM Nevill,JA Warrican,4,5,10,28,575,48.69,Right-hand bat,81,59,2,732,46.27,66.5,lo,0,AUS,spin,no,10.541666666666666,31.625
+2,888,214,AUS,2,172,-158,PM Nevill,JA Warrican,4,5,11,28,575,48.69,Right-hand bat,82,59,2,732,46.27,66.5,lo,0,AUS,spin,no,10.541666666666666,31.625
+2,889,215,AUS,2,172,-158,PM Nevill,JA Warrican,4,5,12,28,575,48.69,Right-hand bat,83,59,2,732,46.27,66.5,lo,0,AUS,spin,no,10.541666666666666,31.625
+2,899,225,AUS,2,174,-156,PM Nevill,JA Warrican,4,5,18,28,575,48.69,Right-hand bat,87,60,2,732,46.27,66.5,lo,0,AUS,spin,no,10.541666666666666,31.625
+2,900,226,AUS,2,174,-156,PM Nevill,JA Warrican,4,5,19,28,575,48.69,Right-hand bat,88,60,2,732,46.27,66.5,lo,2,AUS,spin,no,10.541666666666666,31.625
+2,901,227,AUS,2,176,-154,PM Nevill,JA Warrican,4,7,20,28,575,48.69,Right-hand bat,89,62,2,732,46.27,66.5,lo,0,AUS,spin,no,10.541666666666666,31.625

@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,394,394,IND,3,227,227,V Kohli,KC Brathwaite,4,91,120,46.28,5940,53.77,Right-hand bat,2,1,0,660,34.63,60,rob,1,WIN,spin,yes,15.918367346938778,21.22448979591837
+1,396,396,IND,3,229,229,V Kohli,KC Brathwaite,4,92,121,46.28,5940,53.77,Right-hand bat,4,3,0,660,34.63,60,rob,0,WIN,spin,yes,15.918367346938778,21.22448979591837
+1,397,397,IND,3,229,229,V Kohli,KC Brathwaite,4,92,122,46.28,5940,53.77,Right-hand bat,5,3,0,660,34.63,60,rob,1,WIN,spin,yes,15.918367346938778,21.22448979591837

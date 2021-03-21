@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1196,160,SRL,2,72,248,DPMD Jayawardene,Shakib Al Hasan,4,6,30,52.36,15177,52.44,Right-hand bat,10,2,0,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+3,1197,161,SRL,2,72,248,DPMD Jayawardene,Shakib Al Hasan,4,6,31,52.36,15177,52.44,Right-hand bat,11,2,0,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+3,1219,183,SRL,2,90,266,DPMD Jayawardene,Shakib Al Hasan,4,7,41,52.36,15177,52.44,Right-hand bat,19,13,0,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+3,1220,184,SRL,2,90,266,DPMD Jayawardene,Shakib Al Hasan,4,7,42,52.36,15177,52.44,Right-hand bat,20,13,0,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+3,1221,185,SRL,2,90,266,DPMD Jayawardene,Shakib Al Hasan,4,7,43,52.36,15177,52.44,Right-hand bat,21,13,0,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+3,1222,186,SRL,2,90,266,DPMD Jayawardene,Shakib Al Hasan,4,7,44,52.36,15177,52.44,Right-hand bat,22,13,0,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+3,1223,187,SRL,2,90,266,DPMD Jayawardene,Shakib Al Hasan,4,7,45,52.36,15177,52.44,Right-hand bat,23,13,0,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+3,1297,261,SRL,2,122,298,DPMD Jayawardene,Shakib Al Hasan,4,21,86,52.36,15177,52.44,Right-hand bat,25,14,0,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+3,1298,262,SRL,2,122,298,DPMD Jayawardene,Shakib Al Hasan,4,21,87,52.36,15177,52.44,Right-hand bat,26,14,0,2334.2,31.8,66.7,lo,0,BAN,spin,yes,9.23611111111111,24.01388888888889
+3,1299,263,SRL,2,122,298,DPMD Jayawardene,Shakib Al Hasan,4,21,88,52.36,15177,52.44,Right-hand bat,27,14,0,2334.2,31.8,66.7,lo,1,BAN,spin,yes,9.23611111111111,24.01388888888889

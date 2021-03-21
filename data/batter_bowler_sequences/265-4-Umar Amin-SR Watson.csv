@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1562,286,PAK,2,155,-284,Umar Amin,SR Watson,4,0,0,17,58,58.62,Left-hand bat,14,8,0,1896.3,31.15,59.3,rfm,0,AUS,seam,yes,16.64,8.96
+4,1563,287,PAK,2,155,-284,Umar Amin,SR Watson,4,0,1,17,58,58.62,Left-hand bat,15,8,0,1896.3,31.15,59.3,rfm,1,AUS,seam,yes,16.64,8.96
+4,1572,296,PAK,2,157,-282,Umar Amin,SR Watson,4,1,2,17,58,58.62,Left-hand bat,18,10,0,1896.3,31.15,59.3,rfm,0,AUS,seam,yes,16.64,8.96
+4,1573,297,PAK,2,157,-282,Umar Amin,SR Watson,4,1,3,17,58,58.62,Left-hand bat,19,10,0,1896.3,31.15,59.3,rfm,2,AUS,seam,yes,16.64,8.96
+4,1574,298,PAK,2,159,-280,Umar Amin,SR Watson,4,3,4,17,58,58.62,Left-hand bat,20,12,0,1896.3,31.15,59.3,rfm,0,AUS,seam,yes,16.64,8.96
+4,1575,299,PAK,2,159,-280,Umar Amin,SR Watson,4,3,5,17,58,58.62,Left-hand bat,21,12,0,1896.3,31.15,59.3,rfm,0,AUS,seam,yes,16.64,8.96
+4,1576,300,PAK,2,159,-280,Umar Amin,SR Watson,4,3,6,17,58,58.62,Left-hand bat,22,12,0,1896.3,31.15,59.3,rfm,0,AUS,seam,yes,16.64,8.96
+4,1577,301,PAK,2,159,-280,Umar Amin,SR Watson,4,3,7,17,58,58.62,Left-hand bat,23,12,0,1896.3,31.15,59.3,rfm,0,AUS,seam,yes,16.64,8.96
+4,1587,311,PAK,2,165,-274,Umar Amin,SR Watson,4,3,9,17,58,58.62,Left-hand bat,27,13,0,1896.3,31.15,59.3,rfm,0,AUS,seam,yes,16.64,8.96
+4,1588,312,PAK,2,165,-274,Umar Amin,SR Watson,4,3,10,17,58,58.62,Left-hand bat,28,13,0,1896.3,31.15,59.3,rfm,1,AUS,seam,yes,16.64,8.96
+4,1596,320,PAK,2,169,-270,Umar Amin,SR Watson,4,7,13,17,58,58.62,Left-hand bat,30,14,0,1896.3,31.15,59.3,rfm,4,AUS,seam,yes,16.64,8.96
+4,1597,321,PAK,2,173,-266,Umar Amin,SR Watson,4,11,14,17,58,58.62,Left-hand bat,31,18,0,1896.3,31.15,59.3,rfm,0,AUS,seam,yes,16.64,8.96
+4,1598,322,PAK,2,173,-266,Umar Amin,SR Watson,4,11,15,17,58,58.62,Left-hand bat,32,18,0,1896.3,31.15,59.3,rfm,4,AUS,seam,yes,16.64,8.96
+4,1599,323,PAK,2,177,-262,Umar Amin,SR Watson,4,15,16,17,58,58.62,Left-hand bat,33,22,0,1896.3,31.15,59.3,rfm,0,AUS,seam,yes,16.64,8.96
+4,1600,324,PAK,2,177,-262,Umar Amin,SR Watson,4,15,17,17,58,58.62,Left-hand bat,34,22,0,1896.3,31.15,59.3,rfm,4,AUS,seam,yes,16.64,8.96
+4,1601,325,PAK,2,181,-258,Umar Amin,SR Watson,4,19,18,17,58,58.62,Left-hand bat,35,26,0,1896.3,31.15,59.3,rfm,1lb,AUS,seam,yes,16.64,8.96

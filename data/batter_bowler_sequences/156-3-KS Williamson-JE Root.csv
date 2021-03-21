@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2171,417,NZL,2,202,101,KS Williamson,JE Root,3,88,217,52.68,12273,51.51,Right-hand bat,5,1,0,2286,50.5,95.2,rob,0,NZL,spin,no,47.38016528925619,2.256198347107438
+3,2191,437,NZL,2,214,113,KS Williamson,JE Root,3,97,227,52.68,12273,51.51,Right-hand bat,13,1,0,2286,50.5,95.2,rob,0,NZL,spin,no,47.38016528925619,2.256198347107438
+3,2192,438,NZL,2,214,113,KS Williamson,JE Root,3,97,228,52.68,12273,51.51,Right-hand bat,14,1,0,2286,50.5,95.2,rob,2,NZL,spin,no,47.38016528925619,2.256198347107438
+3,2193,439,NZL,2,216,115,KS Williamson,JE Root,3,99,229,52.68,12273,51.51,Right-hand bat,15,3,0,2286,50.5,95.2,rob,0,NZL,spin,no,47.38016528925619,2.256198347107438
+3,2194,440,NZL,2,216,115,KS Williamson,JE Root,3,99,230,52.68,12273,51.51,Right-hand bat,16,3,0,2286,50.5,95.2,rob,4,NZL,spin,no,47.38016528925619,2.256198347107438
+3,2195,441,NZL,2,220,119,KS Williamson,JE Root,3,103,231,52.68,12273,51.51,Right-hand bat,17,7,0,2286,50.5,95.2,rob,0,NZL,spin,no,47.38016528925619,2.256198347107438

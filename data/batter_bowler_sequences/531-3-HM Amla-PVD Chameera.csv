@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1223,231,RSA,1,140,221,HM Amla,PVD Chameera,3,15,18,49.9,15165,50.35,Right-hand bat,20,21,0,1032.5,33,47.1,rf,0,RSA,seam,yes,23.632716049382715,9.089506172839506
+3,1224,232,RSA,1,140,221,HM Amla,PVD Chameera,3,15,19,49.9,15165,50.35,Right-hand bat,21,21,0,1032.5,33,47.1,rf,0,RSA,seam,yes,23.632716049382715,9.089506172839506
+3,1225,233,RSA,1,140,221,HM Amla,PVD Chameera,3,15,20,49.9,15165,50.35,Right-hand bat,22,21,0,1032.5,33,47.1,rf,0,RSA,seam,yes,23.632716049382715,9.089506172839506
+3,1226,234,RSA,1,140,221,HM Amla,PVD Chameera,3,15,21,49.9,15165,50.35,Right-hand bat,23,21,0,1032.5,33,47.1,rf,4,RSA,seam,yes,23.632716049382715,9.089506172839506
+3,1227,235,RSA,1,144,225,HM Amla,PVD Chameera,3,19,22,49.9,15165,50.35,Right-hand bat,24,25,0,1032.5,33,47.1,rf,0,RSA,seam,yes,23.632716049382715,9.089506172839506
+3,1228,236,RSA,1,144,225,HM Amla,PVD Chameera,3,19,23,49.9,15165,50.35,Right-hand bat,25,25,0,1032.5,33,47.1,rf,1,RSA,seam,yes,23.632716049382715,9.089506172839506
+3,1236,244,RSA,1,150,231,HM Amla,PVD Chameera,3,23,28,49.9,15165,50.35,Right-hand bat,27,27,0,1032.5,33,47.1,rf,0,RSA,seam,yes,23.632716049382715,9.089506172839506
+3,1237,245,RSA,1,150,231,HM Amla,PVD Chameera,3,23,29,49.9,15165,50.35,Right-hand bat,28,27,0,1032.5,33,47.1,rf,1wd,RSA,seam,yes,23.632716049382715,9.089506172839506
+3,1238,246,RSA,1,151,232,HM Amla,PVD Chameera,3,23,29,49.9,15165,50.35,Right-hand bat,29,28,0,1032.5,33,47.1,rf,4,RSA,seam,yes,23.632716049382715,9.089506172839506
+3,1239,247,RSA,1,155,236,HM Amla,PVD Chameera,3,27,30,49.9,15165,50.35,Right-hand bat,30,32,0,1032.5,33,47.1,rf,1,RSA,seam,yes,23.632716049382715,9.089506172839506
+3,1295,303,RSA,1,208,289,HM Amla,PVD Chameera,3,43,46,49.9,15165,50.35,Right-hand bat,36,43,0,1032.5,33,47.1,rf,1,RSA,seam,yes,23.632716049382715,9.089506172839506

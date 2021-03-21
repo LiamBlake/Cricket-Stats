@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,724,150,SRL,1,89,-267,BKG Mendis,AG Cremer,3,1,1,35.84,1995,59.29,Right-hand bat,30,19,0,3444.3,47.8,74.9,rls,0,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,725,151,SRL,1,89,-267,BKG Mendis,AG Cremer,3,1,2,35.84,1995,59.29,Right-hand bat,31,19,0,3444.3,47.8,74.9,rls,0,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,726,152,SRL,1,89,-267,BKG Mendis,AG Cremer,3,1,3,35.84,1995,59.29,Right-hand bat,32,19,0,3444.3,47.8,74.9,rls,0,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,727,153,SRL,1,89,-267,BKG Mendis,AG Cremer,3,1,4,35.84,1995,59.29,Right-hand bat,33,19,0,3444.3,47.8,74.9,rls,1,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,729,155,SRL,1,91,-265,BKG Mendis,AG Cremer,3,2,5,35.84,1995,59.29,Right-hand bat,35,21,0,3444.3,47.8,74.9,rls,0,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,736,162,SRL,1,95,-261,BKG Mendis,AG Cremer,3,4,8,35.84,1995,59.29,Right-hand bat,36,21,0,3444.3,47.8,74.9,rls,0,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,737,163,SRL,1,95,-261,BKG Mendis,AG Cremer,3,4,9,35.84,1995,59.29,Right-hand bat,37,21,0,3444.3,47.8,74.9,rls,0,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,738,164,SRL,1,95,-261,BKG Mendis,AG Cremer,3,4,10,35.84,1995,59.29,Right-hand bat,38,21,0,3444.3,47.8,74.9,rls,4,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,739,165,SRL,1,99,-257,BKG Mendis,AG Cremer,3,8,11,35.84,1995,59.29,Right-hand bat,39,25,0,3444.3,47.8,74.9,rls,1,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,748,174,SRL,1,105,-251,BKG Mendis,AG Cremer,3,10,13,35.84,1995,59.29,Right-hand bat,42,26,0,3444.3,47.8,74.9,rls,1,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,751,177,SRL,1,107,-249,BKG Mendis,AG Cremer,3,11,14,35.84,1995,59.29,Right-hand bat,45,28,0,3444.3,47.8,74.9,rls,W,ZIM,spin,no,9.074074074074074,31.759259259259263

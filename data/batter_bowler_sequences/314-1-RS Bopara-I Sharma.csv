@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,794,794,ENG,5,490,490,RS Bopara,I Sharma,7,2,2,34.56,1026,53.89,Right-hand bat,184,96,1,7428,34.54,60.3,rfm,0,ENG,seam,yes,26.050295857988164,19.10355029585799
+1,795,795,ENG,5,490,490,RS Bopara,I Sharma,7,2,3,34.56,1026,53.89,Right-hand bat,185,96,1,7428,34.54,60.3,rfm,0,ENG,seam,yes,26.050295857988164,19.10355029585799
+1,796,796,ENG,5,490,490,RS Bopara,I Sharma,7,2,4,34.56,1026,53.89,Right-hand bat,186,96,1,7428,34.54,60.3,rfm,0,ENG,seam,yes,26.050295857988164,19.10355029585799
+1,797,797,ENG,5,490,490,RS Bopara,I Sharma,7,2,5,34.56,1026,53.89,Right-hand bat,187,96,1,7428,34.54,60.3,rfm,0,ENG,seam,yes,26.050295857988164,19.10355029585799

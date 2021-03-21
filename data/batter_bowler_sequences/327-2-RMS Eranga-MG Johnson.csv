@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1523,892,SRL,6,417,101,RMS Eranga,MG Johnson,8,1,16,12,39,30.76,Right-hand bat,178,109,1,10296.3,30.43,55,lf,4,SRL,seam,yes,29.959999999999997,12.84
+2,1524,893,SRL,6,421,105,RMS Eranga,MG Johnson,8,5,17,12,39,30.76,Right-hand bat,179,113,1,10296.3,30.43,55,lf,0,SRL,seam,yes,29.959999999999997,12.84
+2,1535,904,SRL,6,423,107,RMS Eranga,MG Johnson,8,5,20,12,39,30.76,Right-hand bat,184,114,1,10296.3,30.43,55,lf,0,SRL,seam,yes,29.959999999999997,12.84
+2,1536,905,SRL,6,423,107,RMS Eranga,MG Johnson,8,5,21,12,39,30.76,Right-hand bat,185,114,1,10296.3,30.43,55,lf,0,SRL,seam,yes,29.959999999999997,12.84

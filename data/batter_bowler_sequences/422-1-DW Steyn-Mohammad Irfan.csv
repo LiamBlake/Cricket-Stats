@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,554,554,RSA,9,248,248,DW Steyn,Mohammad Irfan,10,14,28,13.87,2110,42.08,Right-hand bat,106,43,3,504.1,41,72.1,lf,0,PAK,seam,yes,16.888888888888886,12.444444444444443
+1,555,555,RSA,9,248,248,DW Steyn,Mohammad Irfan,10,14,29,13.87,2110,42.08,Right-hand bat,107,43,3,504.1,41,72.1,lf,0,PAK,seam,yes,16.888888888888886,12.444444444444443
+1,556,556,RSA,9,248,248,DW Steyn,Mohammad Irfan,10,14,30,13.87,2110,42.08,Right-hand bat,108,43,3,504.1,41,72.1,lf,1,PAK,seam,yes,16.888888888888886,12.444444444444443

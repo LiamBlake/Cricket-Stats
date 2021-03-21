@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,648,531,RSA,5,335,290,AB de Villiers,JS Patel,5,61,107,49.26,10987,54.25,Right-hand bat,78,59,0,4500.2,46.78,88.2,rob,0,RSA,spin,no,22.970663265306122,0.850765306122449
+2,649,532,RSA,5,335,290,AB de Villiers,JS Patel,5,61,108,49.26,10987,54.25,Right-hand bat,79,59,0,4500.2,46.78,88.2,rob,0,RSA,spin,no,22.970663265306122,0.850765306122449
+2,650,533,RSA,5,335,290,AB de Villiers,JS Patel,5,61,109,49.26,10987,54.25,Right-hand bat,80,59,0,4500.2,46.78,88.2,rob,0,RSA,spin,no,22.970663265306122,0.850765306122449
+2,651,534,RSA,5,335,290,AB de Villiers,JS Patel,5,61,110,49.26,10987,54.25,Right-hand bat,81,59,0,4500.2,46.78,88.2,rob,0,RSA,spin,no,22.970663265306122,0.850765306122449
+2,652,535,RSA,5,335,290,AB de Villiers,JS Patel,5,61,111,49.26,10987,54.25,Right-hand bat,82,59,0,4500.2,46.78,88.2,rob,0,RSA,spin,no,22.970663265306122,0.850765306122449
+2,653,536,RSA,5,335,290,AB de Villiers,JS Patel,5,61,112,49.26,10987,54.25,Right-hand bat,83,59,0,4500.2,46.78,88.2,rob,0,RSA,spin,no,22.970663265306122,0.850765306122449
+2,660,543,RSA,6,335,290,AB de Villiers,JS Patel,5,61,113,49.26,10987,54.25,Right-hand bat,84,59,0,4500.2,46.78,88.2,rob,0,RSA,spin,no,22.970663265306122,0.850765306122449
+2,661,544,RSA,6,335,290,AB de Villiers,JS Patel,5,61,114,49.26,10987,54.25,Right-hand bat,85,59,0,4500.2,46.78,88.2,rob,0,RSA,spin,no,22.970663265306122,0.850765306122449
+2,662,545,RSA,6,335,290,AB de Villiers,JS Patel,5,61,115,49.26,10987,54.25,Right-hand bat,86,59,0,4500.2,46.78,88.2,rob,0,RSA,spin,no,22.970663265306122,0.850765306122449
+2,663,546,RSA,6,335,290,AB de Villiers,JS Patel,5,61,116,49.26,10987,54.25,Right-hand bat,87,59,0,4500.2,46.78,88.2,rob,0,RSA,spin,no,22.970663265306122,0.850765306122449
+2,664,547,RSA,6,335,290,AB de Villiers,JS Patel,5,61,117,49.26,10987,54.25,Right-hand bat,88,59,0,4500.2,46.78,88.2,rob,0,RSA,spin,no,22.970663265306122,0.850765306122449
+2,665,548,RSA,6,335,290,AB de Villiers,JS Patel,5,61,118,49.26,10987,54.25,Right-hand bat,89,59,0,4500.2,46.78,88.2,rob,0,RSA,spin,no,22.970663265306122,0.850765306122449

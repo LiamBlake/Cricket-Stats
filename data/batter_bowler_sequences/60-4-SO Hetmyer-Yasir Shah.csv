@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1976,39,WIN,1,7,-296,SO Hetmyer,Yasir Shah,3,0,0,16,146,65.75,Left-hand bat,15,2,1,8364.2,29.91,56.1,rls,0,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,1977,40,WIN,1,7,-296,SO Hetmyer,Yasir Shah,3,0,1,16,146,65.75,Left-hand bat,16,2,1,8364.2,29.91,56.1,rls,0,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,1978,41,WIN,1,7,-296,SO Hetmyer,Yasir Shah,3,0,2,16,146,65.75,Left-hand bat,17,2,1,8364.2,29.91,56.1,rls,0,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,1987,50,WIN,1,13,-290,SO Hetmyer,Yasir Shah,3,3,6,16,146,65.75,Left-hand bat,20,3,1,8364.2,29.91,56.1,rls,0,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,1988,51,WIN,1,13,-290,SO Hetmyer,Yasir Shah,3,3,7,16,146,65.75,Left-hand bat,21,3,1,8364.2,29.91,56.1,rls,2,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,1989,52,WIN,1,15,-288,SO Hetmyer,Yasir Shah,3,5,8,16,146,65.75,Left-hand bat,22,5,1,8364.2,29.91,56.1,rls,0,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,1990,53,WIN,1,15,-288,SO Hetmyer,Yasir Shah,3,5,9,16,146,65.75,Left-hand bat,23,5,1,8364.2,29.91,56.1,rls,4,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,1997,60,WIN,1,19,-284,SO Hetmyer,Yasir Shah,3,9,10,16,146,65.75,Left-hand bat,24,9,1,8364.2,29.91,56.1,rls,2,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,1998,61,WIN,1,21,-282,SO Hetmyer,Yasir Shah,3,11,11,16,146,65.75,Left-hand bat,25,11,1,8364.2,29.91,56.1,rls,0,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,1999,62,WIN,1,21,-282,SO Hetmyer,Yasir Shah,3,11,12,16,146,65.75,Left-hand bat,26,11,1,8364.2,29.91,56.1,rls,1,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,2034,97,WIN,2,36,-267,SO Hetmyer,Yasir Shah,3,21,28,16,146,65.75,Left-hand bat,42,16,2,8364.2,29.91,56.1,rls,2,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,2035,98,WIN,2,38,-265,SO Hetmyer,Yasir Shah,3,23,29,16,146,65.75,Left-hand bat,43,18,2,8364.2,29.91,56.1,rls,1,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,2039,102,WIN,2,46,-257,SO Hetmyer,Yasir Shah,3,24,30,16,146,65.75,Left-hand bat,47,26,2,8364.2,29.91,56.1,rls,1,WIN,spin,yes,13.836565096952908,12.452908587257618

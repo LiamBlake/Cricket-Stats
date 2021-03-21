@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,425,425,ENG,5,254,254,MM Ali,PADLR Sandakan,7,0,0,30.94,5240,51.37,Left-hand bat,100,76,3,2058.5,34.48,55.7,lc,0,ENG,spin,yes,3.40625,23.84375
+1,426,426,ENG,5,254,254,MM Ali,PADLR Sandakan,7,0,1,30.94,5240,51.37,Left-hand bat,101,76,3,2058.5,34.48,55.7,lc,1,ENG,spin,yes,3.40625,23.84375
+1,436,436,ENG,5,262,262,MM Ali,PADLR Sandakan,7,2,6,30.94,5240,51.37,Left-hand bat,105,82,3,2058.5,34.48,55.7,lc,0,ENG,spin,yes,3.40625,23.84375
+1,437,437,ENG,5,262,262,MM Ali,PADLR Sandakan,7,2,7,30.94,5240,51.37,Left-hand bat,106,82,3,2058.5,34.48,55.7,lc,0,ENG,spin,yes,3.40625,23.84375
+1,438,438,ENG,5,262,262,MM Ali,PADLR Sandakan,7,2,8,30.94,5240,51.37,Left-hand bat,107,82,3,2058.5,34.48,55.7,lc,0,ENG,spin,yes,3.40625,23.84375
+1,446,446,ENG,5,264,264,MM Ali,PADLR Sandakan,7,2,11,30.94,5240,51.37,Left-hand bat,109,83,3,2058.5,34.48,55.7,lc,1,ENG,spin,yes,3.40625,23.84375
+1,459,459,ENG,6,268,268,MM Ali,PADLR Sandakan,7,4,15,30.94,5240,51.37,Left-hand bat,116,85,4,2058.5,34.48,55.7,lc,0,ENG,spin,yes,3.40625,23.84375
+1,460,460,ENG,6,268,268,MM Ali,PADLR Sandakan,7,4,16,30.94,5240,51.37,Left-hand bat,117,85,4,2058.5,34.48,55.7,lc,1,ENG,spin,yes,3.40625,23.84375
+1,470,470,ENG,6,276,276,MM Ali,PADLR Sandakan,7,10,22,30.94,5240,51.37,Left-hand bat,121,87,4,2058.5,34.48,55.7,lc,0,ENG,spin,yes,3.40625,23.84375
+1,471,471,ENG,6,276,276,MM Ali,PADLR Sandakan,7,10,23,30.94,5240,51.37,Left-hand bat,122,87,4,2058.5,34.48,55.7,lc,1,ENG,spin,yes,3.40625,23.84375
+1,474,474,ENG,6,278,278,MM Ali,PADLR Sandakan,7,11,24,30.94,5240,51.37,Left-hand bat,125,89,4,2058.5,34.48,55.7,lc,2,ENG,spin,yes,3.40625,23.84375

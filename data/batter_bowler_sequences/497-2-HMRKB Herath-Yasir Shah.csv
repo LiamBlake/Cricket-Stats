@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,914,649,SRL,8,278,140,HMRKB Herath,Yasir Shah,10,0,6,13.5,1784,49.94,Left-hand bat,209,83,4,2550.5,25.11,47.3,rls,0,SRL,spin,no,12.020202020202019,16.31313131313131
+2,945,680,SRL,8,296,158,HMRKB Herath,Yasir Shah,10,4,14,13.5,1784,49.94,Left-hand bat,222,92,4,2550.5,25.11,47.3,rls,1,SRL,spin,no,12.020202020202019,16.31313131313131
+2,961,696,SRL,8,300,162,HMRKB Herath,Yasir Shah,10,7,21,13.5,1784,49.94,Left-hand bat,232,94,4,2550.5,25.11,47.3,rls,1,SRL,spin,no,12.020202020202019,16.31313131313131
+2,981,716,SRL,9,310,172,HMRKB Herath,Yasir Shah,10,14,30,13.5,1784,49.94,Left-hand bat,240,95,5,2550.5,25.11,47.3,rls,1,SRL,spin,no,12.020202020202019,16.31313131313131

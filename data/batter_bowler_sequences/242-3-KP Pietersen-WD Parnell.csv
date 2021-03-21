@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1069,63,ENG,2,40,-203,KP Pietersen,WD Parnell,4,9,13,48.24,7760,62.16,Right-hand bat,0,0,0,66,17.5,33,lmf,1lb,RSA,seam,yes,24.35665294924554,4.23593964334705
+3,1074,68,ENG,2,42,-201,KP Pietersen,WD Parnell,4,9,14,48.24,7760,62.16,Right-hand bat,5,1,0,66,17.5,33,lmf,0,RSA,seam,yes,24.35665294924554,4.23593964334705
+3,1131,125,ENG,3,76,-167,KP Pietersen,WD Parnell,4,10,33,48.24,7760,62.16,Right-hand bat,12,5,1,66,17.5,33,lmf,0,RSA,seam,yes,24.35665294924554,4.23593964334705
+3,1132,126,ENG,3,76,-167,KP Pietersen,WD Parnell,4,10,34,48.24,7760,62.16,Right-hand bat,13,5,1,66,17.5,33,lmf,0,RSA,seam,yes,24.35665294924554,4.23593964334705
+3,1133,127,ENG,3,76,-167,KP Pietersen,WD Parnell,4,10,35,48.24,7760,62.16,Right-hand bat,14,5,1,66,17.5,33,lmf,2,RSA,seam,yes,24.35665294924554,4.23593964334705
+3,1134,128,ENG,3,78,-165,KP Pietersen,WD Parnell,4,12,36,48.24,7760,62.16,Right-hand bat,15,7,1,66,17.5,33,lmf,0,RSA,seam,yes,24.35665294924554,4.23593964334705
+3,1135,129,ENG,3,78,-165,KP Pietersen,WD Parnell,4,12,37,48.24,7760,62.16,Right-hand bat,16,7,1,66,17.5,33,lmf,0,RSA,seam,yes,24.35665294924554,4.23593964334705
+3,1136,130,ENG,3,78,-165,KP Pietersen,WD Parnell,4,12,38,48.24,7760,62.16,Right-hand bat,17,7,1,66,17.5,33,lmf,0,RSA,seam,yes,24.35665294924554,4.23593964334705
+3,1145,139,ENG,3,84,-159,KP Pietersen,WD Parnell,4,12,40,48.24,7760,62.16,Right-hand bat,20,8,1,66,17.5,33,lmf,0,RSA,seam,yes,24.35665294924554,4.23593964334705
+3,1146,140,ENG,3,84,-159,KP Pietersen,WD Parnell,4,12,41,48.24,7760,62.16,Right-hand bat,21,8,1,66,17.5,33,lmf,W,RSA,seam,yes,24.35665294924554,4.23593964334705

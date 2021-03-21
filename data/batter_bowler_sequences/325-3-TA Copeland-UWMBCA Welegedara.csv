@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1126,303,AUS,8,170,338,TA Copeland,UWMBCA Welegedara,10,0,0,35,46,76.08,Right-hand bat,19,0,2,1488.3,47.4,67.7,lfm,0,SRL,seam,yes,10.5125,10.5125
+3,1127,304,AUS,8,170,338,TA Copeland,UWMBCA Welegedara,10,0,1,35,46,76.08,Right-hand bat,20,0,2,1488.3,47.4,67.7,lfm,0,SRL,seam,yes,10.5125,10.5125
+3,1128,305,AUS,8,170,338,TA Copeland,UWMBCA Welegedara,10,0,2,35,46,76.08,Right-hand bat,21,0,2,1488.3,47.4,67.7,lfm,0,SRL,seam,yes,10.5125,10.5125
+3,1129,306,AUS,8,170,338,TA Copeland,UWMBCA Welegedara,10,0,3,35,46,76.08,Right-hand bat,22,0,2,1488.3,47.4,67.7,lfm,0,SRL,seam,yes,10.5125,10.5125
+3,1130,307,AUS,8,170,338,TA Copeland,UWMBCA Welegedara,10,0,4,35,46,76.08,Right-hand bat,23,0,2,1488.3,47.4,67.7,lfm,4,SRL,seam,yes,10.5125,10.5125
+3,1140,317,AUS,8,178,346,TA Copeland,UWMBCA Welegedara,10,4,5,35,46,76.08,Right-hand bat,27,5,2,1488.3,47.4,67.7,lfm,0,SRL,seam,yes,10.5125,10.5125
+3,1141,318,AUS,8,178,346,TA Copeland,UWMBCA Welegedara,10,4,6,35,46,76.08,Right-hand bat,28,5,2,1488.3,47.4,67.7,lfm,0,SRL,seam,yes,10.5125,10.5125
+3,1142,319,AUS,8,178,346,TA Copeland,UWMBCA Welegedara,10,4,7,35,46,76.08,Right-hand bat,29,5,2,1488.3,47.4,67.7,lfm,0,SRL,seam,yes,10.5125,10.5125
+3,1149,326,AUS,9,180,348,TA Copeland,UWMBCA Welegedara,10,5,9,35,46,76.08,Right-hand bat,30,5,2,1488.3,47.4,67.7,lfm,0,SRL,seam,yes,10.5125,10.5125
+3,1150,327,AUS,9,180,348,TA Copeland,UWMBCA Welegedara,10,5,10,35,46,76.08,Right-hand bat,31,5,2,1488.3,47.4,67.7,lfm,0,SRL,seam,yes,10.5125,10.5125
+3,1151,328,AUS,9,180,348,TA Copeland,UWMBCA Welegedara,10,5,11,35,46,76.08,Right-hand bat,32,5,2,1488.3,47.4,67.7,lfm,4,SRL,seam,yes,10.5125,10.5125
+3,1152,329,AUS,9,184,352,TA Copeland,UWMBCA Welegedara,10,9,12,35,46,76.08,Right-hand bat,33,9,2,1488.3,47.4,67.7,lfm,2,SRL,seam,yes,10.5125,10.5125
+3,1153,330,AUS,9,186,354,TA Copeland,UWMBCA Welegedara,10,11,13,35,46,76.08,Right-hand bat,34,11,2,1488.3,47.4,67.7,lfm,2,SRL,seam,yes,10.5125,10.5125
+3,1154,331,AUS,9,188,356,TA Copeland,UWMBCA Welegedara,10,13,14,35,46,76.08,Right-hand bat,35,13,2,1488.3,47.4,67.7,lfm,0,SRL,seam,yes,10.5125,10.5125

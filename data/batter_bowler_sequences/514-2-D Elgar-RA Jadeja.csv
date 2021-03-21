@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,497,24,RSA,1,4,-211,D Elgar,RA Jadeja,1,4,12,36.3,2125,44.42,Left-hand bat,0,0,0,3918.3,25.57,64.2,lo,0,IND,spin,no,2.8525,13.4475
+2,498,25,RSA,1,4,-211,D Elgar,RA Jadeja,1,4,13,36.3,2125,44.42,Left-hand bat,1,0,0,3918.3,25.57,64.2,lo,0,IND,spin,no,2.8525,13.4475
+2,499,26,RSA,1,4,-211,D Elgar,RA Jadeja,1,4,14,36.3,2125,44.42,Left-hand bat,2,0,0,3918.3,25.57,64.2,lo,0,IND,spin,no,2.8525,13.4475
+2,500,27,RSA,1,4,-211,D Elgar,RA Jadeja,1,4,15,36.3,2125,44.42,Left-hand bat,3,0,0,3918.3,25.57,64.2,lo,0,IND,spin,no,2.8525,13.4475
+2,501,28,RSA,1,4,-211,D Elgar,RA Jadeja,1,4,16,36.3,2125,44.42,Left-hand bat,4,0,0,3918.3,25.57,64.2,lo,0,IND,spin,no,2.8525,13.4475
+2,502,29,RSA,1,4,-211,D Elgar,RA Jadeja,1,4,17,36.3,2125,44.42,Left-hand bat,5,0,0,3918.3,25.57,64.2,lo,0,IND,spin,no,2.8525,13.4475
+2,509,36,RSA,1,8,-207,D Elgar,RA Jadeja,1,4,18,36.3,2125,44.42,Left-hand bat,6,0,0,3918.3,25.57,64.2,lo,0,IND,spin,no,2.8525,13.4475
+2,510,37,RSA,1,8,-207,D Elgar,RA Jadeja,1,4,19,36.3,2125,44.42,Left-hand bat,7,0,0,3918.3,25.57,64.2,lo,0,IND,spin,no,2.8525,13.4475
+2,511,38,RSA,1,8,-207,D Elgar,RA Jadeja,1,4,20,36.3,2125,44.42,Left-hand bat,8,0,0,3918.3,25.57,64.2,lo,0,IND,spin,no,2.8525,13.4475
+2,512,39,RSA,1,8,-207,D Elgar,RA Jadeja,1,4,21,36.3,2125,44.42,Left-hand bat,9,0,0,3918.3,25.57,64.2,lo,1,IND,spin,no,2.8525,13.4475
+2,521,48,RSA,2,10,-205,D Elgar,RA Jadeja,1,6,26,36.3,2125,44.42,Left-hand bat,12,1,1,3918.3,25.57,64.2,lo,0,IND,spin,no,2.8525,13.4475
+2,522,49,RSA,2,10,-205,D Elgar,RA Jadeja,1,6,27,36.3,2125,44.42,Left-hand bat,13,1,1,3918.3,25.57,64.2,lo,0,IND,spin,no,2.8525,13.4475
+2,523,50,RSA,2,10,-205,D Elgar,RA Jadeja,1,6,28,36.3,2125,44.42,Left-hand bat,14,1,1,3918.3,25.57,64.2,lo,0,IND,spin,no,2.8525,13.4475
+2,524,51,RSA,2,10,-205,D Elgar,RA Jadeja,1,6,29,36.3,2125,44.42,Left-hand bat,15,1,1,3918.3,25.57,64.2,lo,1,IND,spin,no,2.8525,13.4475

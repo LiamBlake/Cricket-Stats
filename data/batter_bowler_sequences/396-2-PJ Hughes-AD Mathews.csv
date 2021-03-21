@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,578,48,AUS,1,50,-244,PJ Hughes,AD Mathews,3,8,12,36.25,2354,55.43,Left-hand bat,0,0,0,1494,70.45,135.8,rm,0,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,579,49,AUS,1,50,-244,PJ Hughes,AD Mathews,3,8,13,36.25,2354,55.43,Left-hand bat,1,0,0,1494,70.45,135.8,rm,0,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,580,50,AUS,1,50,-244,PJ Hughes,AD Mathews,3,8,14,36.25,2354,55.43,Left-hand bat,2,0,0,1494,70.45,135.8,rm,0,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,581,51,AUS,1,50,-244,PJ Hughes,AD Mathews,3,8,15,36.25,2354,55.43,Left-hand bat,3,0,0,1494,70.45,135.8,rm,0,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,582,52,AUS,1,50,-244,PJ Hughes,AD Mathews,3,8,16,36.25,2354,55.43,Left-hand bat,4,0,0,1494,70.45,135.8,rm,4,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,583,53,AUS,1,54,-240,PJ Hughes,AD Mathews,3,12,17,36.25,2354,55.43,Left-hand bat,5,4,0,1494,70.45,135.8,rm,0,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,591,61,AUS,1,62,-232,PJ Hughes,AD Mathews,3,16,22,36.25,2354,55.43,Left-hand bat,7,7,0,1494,70.45,135.8,rm,0,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,592,62,AUS,1,62,-232,PJ Hughes,AD Mathews,3,16,23,36.25,2354,55.43,Left-hand bat,8,7,0,1494,70.45,135.8,rm,4,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,593,63,AUS,1,66,-228,PJ Hughes,AD Mathews,3,20,24,36.25,2354,55.43,Left-hand bat,9,11,0,1494,70.45,135.8,rm,0,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,594,64,AUS,1,66,-228,PJ Hughes,AD Mathews,3,20,25,36.25,2354,55.43,Left-hand bat,10,11,0,1494,70.45,135.8,rm,0,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,595,65,AUS,1,66,-228,PJ Hughes,AD Mathews,3,20,26,36.25,2354,55.43,Left-hand bat,11,11,0,1494,70.45,135.8,rm,0,AUS,seam,yes,21.79065743944637,11.885813148788927

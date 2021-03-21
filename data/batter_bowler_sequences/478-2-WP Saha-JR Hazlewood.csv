@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1680,762,IND,6,369,-203,WP Saha,JR Hazlewood,7,22,74,18.37,398,36.93,Right-hand bat,121,45,0,750.2,29.33,62.6,rfm,0,AUS,seam,no,36.166666666666664,15.5
+2,1681,763,IND,6,369,-203,WP Saha,JR Hazlewood,7,22,75,18.37,398,36.93,Right-hand bat,122,45,0,750.2,29.33,62.6,rfm,0,AUS,seam,no,36.166666666666664,15.5
+2,1682,764,IND,6,369,-203,WP Saha,JR Hazlewood,7,22,76,18.37,398,36.93,Right-hand bat,123,45,0,750.2,29.33,62.6,rfm,0,AUS,seam,no,36.166666666666664,15.5
+2,1683,765,IND,6,369,-203,WP Saha,JR Hazlewood,7,22,77,18.37,398,36.93,Right-hand bat,124,45,0,750.2,29.33,62.6,rfm,0,AUS,seam,no,36.166666666666664,15.5
+2,1684,766,IND,6,369,-203,WP Saha,JR Hazlewood,7,22,78,18.37,398,36.93,Right-hand bat,125,45,0,750.2,29.33,62.6,rfm,0,AUS,seam,no,36.166666666666664,15.5
+2,1685,767,IND,6,369,-203,WP Saha,JR Hazlewood,7,22,79,18.37,398,36.93,Right-hand bat,126,45,0,750.2,29.33,62.6,rfm,3,AUS,seam,no,36.166666666666664,15.5
+2,1692,774,IND,6,375,-197,WP Saha,JR Hazlewood,7,28,86,18.37,398,36.93,Right-hand bat,127,48,0,750.2,29.33,62.6,rfm,0,AUS,seam,no,36.166666666666664,15.5
+2,1693,775,IND,6,375,-197,WP Saha,JR Hazlewood,7,28,87,18.37,398,36.93,Right-hand bat,128,48,0,750.2,29.33,62.6,rfm,0,AUS,seam,no,36.166666666666664,15.5
+2,1694,776,IND,6,375,-197,WP Saha,JR Hazlewood,7,28,88,18.37,398,36.93,Right-hand bat,129,48,0,750.2,29.33,62.6,rfm,0,AUS,seam,no,36.166666666666664,15.5
+2,1695,777,IND,6,375,-197,WP Saha,JR Hazlewood,7,28,89,18.37,398,36.93,Right-hand bat,130,48,0,750.2,29.33,62.6,rfm,2,AUS,seam,no,36.166666666666664,15.5
+2,1696,778,IND,6,377,-195,WP Saha,JR Hazlewood,7,30,90,18.37,398,36.93,Right-hand bat,131,50,0,750.2,29.33,62.6,rfm,0,AUS,seam,no,36.166666666666664,15.5
+2,1697,779,IND,6,377,-195,WP Saha,JR Hazlewood,7,30,91,18.37,398,36.93,Right-hand bat,132,50,0,750.2,29.33,62.6,rfm,4,AUS,seam,no,36.166666666666664,15.5
+2,1704,786,IND,6,383,-189,WP Saha,JR Hazlewood,7,35,94,18.37,398,36.93,Right-hand bat,133,54,0,750.2,29.33,62.6,rfm,0,AUS,seam,no,36.166666666666664,15.5
+2,1705,787,IND,6,383,-189,WP Saha,JR Hazlewood,7,35,95,18.37,398,36.93,Right-hand bat,134,54,0,750.2,29.33,62.6,rfm,W,AUS,seam,no,36.166666666666664,15.5

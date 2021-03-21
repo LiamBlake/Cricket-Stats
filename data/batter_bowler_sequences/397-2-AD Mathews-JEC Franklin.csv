@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,607,109,SRL,5,57,-164,AD Mathews,JEC Franklin,7,1,6,40.05,2812,48.43,Right-hand bat,0,0,0,4680.3,33.77,57.8,lm,1,SRL,seam,no,10.562222222222223,12.071111111111112
+2,623,125,SRL,5,63,-158,AD Mathews,JEC Franklin,7,6,13,40.05,2812,48.43,Right-hand bat,10,2,0,4680.3,33.77,57.8,lm,0,SRL,seam,no,10.562222222222223,12.071111111111112
+2,624,126,SRL,5,63,-158,AD Mathews,JEC Franklin,7,6,14,40.05,2812,48.43,Right-hand bat,11,2,0,4680.3,33.77,57.8,lm,1,SRL,seam,no,10.562222222222223,12.071111111111112
+2,645,147,SRL,5,83,-138,AD Mathews,JEC Franklin,7,19,27,40.05,2812,48.43,Right-hand bat,20,10,0,4680.3,33.77,57.8,lm,0,SRL,seam,no,10.562222222222223,12.071111111111112
+2,646,148,SRL,5,83,-138,AD Mathews,JEC Franklin,7,19,28,40.05,2812,48.43,Right-hand bat,21,10,0,4680.3,33.77,57.8,lm,2,SRL,seam,no,10.562222222222223,12.071111111111112
+2,647,149,SRL,5,85,-136,AD Mathews,JEC Franklin,7,21,29,40.05,2812,48.43,Right-hand bat,22,12,0,4680.3,33.77,57.8,lm,0,SRL,seam,no,10.562222222222223,12.071111111111112
+2,648,150,SRL,5,85,-136,AD Mathews,JEC Franklin,7,21,30,40.05,2812,48.43,Right-hand bat,23,12,0,4680.3,33.77,57.8,lm,0,SRL,seam,no,10.562222222222223,12.071111111111112
+2,884,386,SRL,5,206,-15,AD Mathews,JEC Franklin,7,79,151,40.05,2812,48.43,Right-hand bat,30,12,0,4680.3,33.77,57.8,lm,0,SRL,seam,no,10.562222222222223,12.071111111111112
+2,885,387,SRL,5,206,-15,AD Mathews,JEC Franklin,7,79,152,40.05,2812,48.43,Right-hand bat,31,12,0,4680.3,33.77,57.8,lm,0,SRL,seam,no,10.562222222222223,12.071111111111112
+2,886,388,SRL,5,206,-15,AD Mathews,JEC Franklin,7,79,153,40.05,2812,48.43,Right-hand bat,32,12,0,4680.3,33.77,57.8,lm,W,SRL,seam,no,10.562222222222223,12.071111111111112

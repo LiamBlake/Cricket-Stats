@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,401,401,AUS,9,183,183,SR Clark,DL Vettori,11,0,0,13.06,319,65.51,Right-hand bat,22,11,1,20622.4,33.29,75.2,lo,0,AUS,spin,no,18.846875,1.528125
+1,402,402,AUS,9,183,183,SR Clark,DL Vettori,11,0,1,13.06,319,65.51,Right-hand bat,23,11,1,20622.4,33.29,75.2,lo,0,AUS,spin,no,18.846875,1.528125
+1,403,403,AUS,9,183,183,SR Clark,DL Vettori,11,0,2,13.06,319,65.51,Right-hand bat,24,11,1,20622.4,33.29,75.2,lo,0,AUS,spin,no,18.846875,1.528125
+1,411,411,AUS,9,189,189,SR Clark,DL Vettori,11,4,8,13.06,319,65.51,Right-hand bat,26,12,1,20622.4,33.29,75.2,lo,0,AUS,spin,no,18.846875,1.528125
+1,412,412,AUS,9,189,189,SR Clark,DL Vettori,11,4,9,13.06,319,65.51,Right-hand bat,27,12,1,20622.4,33.29,75.2,lo,0,AUS,spin,no,18.846875,1.528125
+1,413,413,AUS,9,189,189,SR Clark,DL Vettori,11,4,10,13.06,319,65.51,Right-hand bat,28,12,1,20622.4,33.29,75.2,lo,0,AUS,spin,no,18.846875,1.528125
+1,414,414,AUS,9,189,189,SR Clark,DL Vettori,11,4,11,13.06,319,65.51,Right-hand bat,29,12,1,20622.4,33.29,75.2,lo,0,AUS,spin,no,18.846875,1.528125
+1,415,415,AUS,9,189,189,SR Clark,DL Vettori,11,4,12,13.06,319,65.51,Right-hand bat,30,12,1,20622.4,33.29,75.2,lo,0,AUS,spin,no,18.846875,1.528125
+1,426,426,AUS,9,195,195,SR Clark,DL Vettori,11,5,16,13.06,319,65.51,Right-hand bat,35,15,1,20622.4,33.29,75.2,lo,0,AUS,spin,no,18.846875,1.528125
+1,427,427,AUS,9,195,195,SR Clark,DL Vettori,11,5,17,13.06,319,65.51,Right-hand bat,36,15,1,20622.4,33.29,75.2,lo,0,AUS,spin,no,18.846875,1.528125
+1,438,438,AUS,9,203,203,SR Clark,DL Vettori,11,7,23,13.06,319,65.51,Right-hand bat,41,20,1,20622.4,33.29,75.2,lo,0,AUS,spin,no,18.846875,1.528125
+1,439,439,AUS,9,203,203,SR Clark,DL Vettori,11,7,24,13.06,319,65.51,Right-hand bat,42,20,1,20622.4,33.29,75.2,lo,4,AUS,spin,no,18.846875,1.528125
+1,447,447,AUS,9,209,209,SR Clark,DL Vettori,11,11,28,13.06,319,65.51,Right-hand bat,44,25,1,20622.4,33.29,75.2,lo,0,AUS,spin,no,18.846875,1.528125
+1,448,448,AUS,9,209,209,SR Clark,DL Vettori,11,11,29,13.06,319,65.51,Right-hand bat,45,25,1,20622.4,33.29,75.2,lo,0,AUS,spin,no,18.846875,1.528125
+1,449,449,AUS,9,209,209,SR Clark,DL Vettori,11,11,30,13.06,319,65.51,Right-hand bat,46,25,1,20622.4,33.29,75.2,lo,0,AUS,spin,no,18.846875,1.528125
+1,450,450,AUS,9,209,209,SR Clark,DL Vettori,11,11,31,13.06,319,65.51,Right-hand bat,47,25,1,20622.4,33.29,75.2,lo,1,AUS,spin,no,18.846875,1.528125

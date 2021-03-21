@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,290,290,NZL,4,121,121,BJ Watling,Haris Sohail,6,5,16,38.23,6678,43.51,Right-hand bat,8,3,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+1,291,291,NZL,4,121,121,BJ Watling,Haris Sohail,6,5,17,38.23,6678,43.51,Right-hand bat,9,3,0,348,19,49.7,lo,1,NZL,spin,yes,9,11
+1,293,293,NZL,4,123,123,BJ Watling,Haris Sohail,6,6,18,38.23,6678,43.51,Right-hand bat,11,5,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+1,300,300,NZL,6,127,127,BJ Watling,Haris Sohail,6,6,19,38.23,6678,43.51,Right-hand bat,12,5,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+1,301,301,NZL,6,127,127,BJ Watling,Haris Sohail,6,6,20,38.23,6678,43.51,Right-hand bat,13,5,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+1,302,302,NZL,6,127,127,BJ Watling,Haris Sohail,6,6,21,38.23,6678,43.51,Right-hand bat,14,5,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+1,303,303,NZL,6,127,127,BJ Watling,Haris Sohail,6,6,22,38.23,6678,43.51,Right-hand bat,15,5,0,348,19,49.7,lo,1,NZL,spin,yes,9,11
+1,324,324,NZL,7,133,133,BJ Watling,Haris Sohail,6,10,34,38.23,6678,43.51,Right-hand bat,24,8,1,348,19,49.7,lo,W,NZL,spin,yes,9,11

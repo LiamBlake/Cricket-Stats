@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2295,484,ENG,6,199,-119,BA Stokes,RA Jadeja,8,0,1,25.36,565,49.38,Left-hand bat,170,46,1,3000.5,28.87,77,lo,0,ENG,spin,yes,23.580000000000002,5.8950000000000005
+4,2296,485,ENG,6,199,-119,BA Stokes,RA Jadeja,8,0,2,25.36,565,49.38,Left-hand bat,171,46,1,3000.5,28.87,77,lo,0,ENG,spin,yes,23.580000000000002,5.8950000000000005
+4,2297,486,ENG,6,199,-119,BA Stokes,RA Jadeja,8,0,3,25.36,565,49.38,Left-hand bat,172,46,1,3000.5,28.87,77,lo,0,ENG,spin,yes,23.580000000000002,5.8950000000000005
+4,2298,487,ENG,6,199,-119,BA Stokes,RA Jadeja,8,0,4,25.36,565,49.38,Left-hand bat,173,46,1,3000.5,28.87,77,lo,0,ENG,spin,yes,23.580000000000002,5.8950000000000005

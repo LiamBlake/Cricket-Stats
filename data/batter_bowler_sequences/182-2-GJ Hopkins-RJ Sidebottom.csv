@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,921,155,NZL,4,71,-293,GJ Hopkins,RJ Sidebottom,6,0,8,13.5,116,23.27,Right-hand bat,46,23,0,3768,25.11,53.8,lfm,0,ENG,seam,yes,23.167777777777776,0.7988888888888889
+2,922,156,NZL,4,71,-293,GJ Hopkins,RJ Sidebottom,6,0,9,13.5,116,23.27,Right-hand bat,47,23,0,3768,25.11,53.8,lfm,2,ENG,seam,yes,23.167777777777776,0.7988888888888889
+2,929,163,NZL,5,77,-287,GJ Hopkins,RJ Sidebottom,6,2,10,13.5,116,23.27,Right-hand bat,48,25,0,3768,25.11,53.8,lfm,1,ENG,seam,yes,23.167777777777776,0.7988888888888889
+2,933,167,NZL,5,79,-285,GJ Hopkins,RJ Sidebottom,6,3,11,13.5,116,23.27,Right-hand bat,52,27,0,3768,25.11,53.8,lfm,0,ENG,seam,yes,23.167777777777776,0.7988888888888889
+2,934,168,NZL,5,79,-285,GJ Hopkins,RJ Sidebottom,6,3,12,13.5,116,23.27,Right-hand bat,53,27,0,3768,25.11,53.8,lfm,0,ENG,seam,yes,23.167777777777776,0.7988888888888889
+2,941,175,NZL,5,79,-285,GJ Hopkins,RJ Sidebottom,6,3,13,13.5,116,23.27,Right-hand bat,54,27,0,3768,25.11,53.8,lfm,0,ENG,seam,yes,23.167777777777776,0.7988888888888889
+2,942,176,NZL,5,79,-285,GJ Hopkins,RJ Sidebottom,6,3,14,13.5,116,23.27,Right-hand bat,55,27,0,3768,25.11,53.8,lfm,0,ENG,seam,yes,23.167777777777776,0.7988888888888889
+2,943,177,NZL,5,79,-285,GJ Hopkins,RJ Sidebottom,6,3,15,13.5,116,23.27,Right-hand bat,56,27,0,3768,25.11,53.8,lfm,4,ENG,seam,yes,23.167777777777776,0.7988888888888889
+2,944,178,NZL,5,83,-281,GJ Hopkins,RJ Sidebottom,6,7,16,13.5,116,23.27,Right-hand bat,57,31,0,3768,25.11,53.8,lfm,1,ENG,seam,yes,23.167777777777776,0.7988888888888889
+2,1001,235,NZL,6,105,-259,GJ Hopkins,RJ Sidebottom,6,12,37,13.5,116,23.27,Right-hand bat,84,40,0,3768,25.11,53.8,lfm,2,ENG,seam,yes,23.167777777777776,0.7988888888888889
+2,1002,236,NZL,6,107,-257,GJ Hopkins,RJ Sidebottom,6,14,38,13.5,116,23.27,Right-hand bat,85,42,0,3768,25.11,53.8,lfm,1lb,ENG,seam,yes,23.167777777777776,0.7988888888888889
+2,1005,239,NZL,7,109,-255,GJ Hopkins,RJ Sidebottom,6,14,39,13.5,116,23.27,Right-hand bat,88,43,1,3768,25.11,53.8,lfm,1,ENG,seam,yes,23.167777777777776,0.7988888888888889

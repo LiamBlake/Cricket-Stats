@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1507,0,PAK,0,0,-175,Imam-ul-Haq,TA Boult,1,0,0,36.75,609,48.27,Left-hand bat,0,0,0,12210.5,27.71,55.7,lfm,4,NZL,seam,no,9,11
+4,1508,1,PAK,0,4,-171,Imam-ul-Haq,TA Boult,1,4,1,36.75,609,48.27,Left-hand bat,1,4,0,12210.5,27.71,55.7,lfm,0,NZL,seam,no,9,11
+4,1509,2,PAK,0,4,-171,Imam-ul-Haq,TA Boult,1,4,2,36.75,609,48.27,Left-hand bat,2,4,0,12210.5,27.71,55.7,lfm,4,NZL,seam,no,9,11
+4,1510,3,PAK,0,8,-167,Imam-ul-Haq,TA Boult,1,8,3,36.75,609,48.27,Left-hand bat,3,8,0,12210.5,27.71,55.7,lfm,0,NZL,seam,no,9,11
+4,1511,4,PAK,0,8,-167,Imam-ul-Haq,TA Boult,1,8,4,36.75,609,48.27,Left-hand bat,4,8,0,12210.5,27.71,55.7,lfm,3,NZL,seam,no,9,11
+4,1531,24,PAK,0,22,-153,Imam-ul-Haq,TA Boult,1,20,14,36.75,609,48.27,Left-hand bat,12,13,0,12210.5,27.71,55.7,lfm,2,NZL,seam,no,9,11
+4,1532,25,PAK,0,24,-151,Imam-ul-Haq,TA Boult,1,22,15,36.75,609,48.27,Left-hand bat,13,15,0,12210.5,27.71,55.7,lfm,0,NZL,seam,no,9,11
+4,1533,26,PAK,0,24,-151,Imam-ul-Haq,TA Boult,1,22,16,36.75,609,48.27,Left-hand bat,14,15,0,12210.5,27.71,55.7,lfm,1,NZL,seam,no,9,11

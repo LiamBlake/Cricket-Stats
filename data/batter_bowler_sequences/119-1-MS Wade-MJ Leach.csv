@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,338,338,AUS,4,210,210,MS Wade,MJ Leach,6,12,31,27.87,2230,48.74,Left-hand bat,37,19,0,1620.2,27.39,57.9,lo,0,ENG,spin,yes,27.583910034602077,7.151384083044982
+1,339,339,AUS,4,210,210,MS Wade,MJ Leach,6,12,32,27.87,2230,48.74,Left-hand bat,38,19,0,1620.2,27.39,57.9,lo,0,ENG,spin,yes,27.583910034602077,7.151384083044982
+1,340,340,AUS,4,210,210,MS Wade,MJ Leach,6,12,33,27.87,2230,48.74,Left-hand bat,39,19,0,1620.2,27.39,57.9,lo,0,ENG,spin,yes,27.583910034602077,7.151384083044982
+1,341,341,AUS,4,210,210,MS Wade,MJ Leach,6,12,34,27.87,2230,48.74,Left-hand bat,40,19,0,1620.2,27.39,57.9,lo,4,ENG,spin,yes,27.583910034602077,7.151384083044982
+1,342,342,AUS,4,214,214,MS Wade,MJ Leach,6,16,35,27.87,2230,48.74,Left-hand bat,41,23,0,1620.2,27.39,57.9,lo,0,ENG,spin,yes,27.583910034602077,7.151384083044982
+1,364,364,AUS,4,224,224,MS Wade,MJ Leach,6,16,43,27.87,2230,48.74,Left-hand bat,51,31,0,1620.2,27.39,57.9,lo,0,ENG,spin,yes,27.583910034602077,7.151384083044982
+1,365,365,AUS,4,224,224,MS Wade,MJ Leach,6,16,44,27.87,2230,48.74,Left-hand bat,52,31,0,1620.2,27.39,57.9,lo,W,ENG,spin,yes,27.583910034602077,7.151384083044982

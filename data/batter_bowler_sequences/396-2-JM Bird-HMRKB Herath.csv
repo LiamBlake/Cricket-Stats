@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1147,617,AUS,9,393,99,JM Bird,HMRKB Herath,11,0,0,6,22,27.27,Right-hand bat,173,90,4,11994.3,29.95,64.5,lo,0,AUS,spin,yes,21.79065743944637,11.885813148788927
+2,1154,624,AUS,9,403,109,JM Bird,HMRKB Herath,11,0,2,6,22,27.27,Right-hand bat,174,90,4,11994.3,29.95,64.5,lo,0,AUS,spin,yes,21.79065743944637,11.885813148788927
+2,1155,625,AUS,9,403,109,JM Bird,HMRKB Herath,11,0,3,6,22,27.27,Right-hand bat,175,90,4,11994.3,29.95,64.5,lo,0,AUS,spin,yes,21.79065743944637,11.885813148788927
+2,1156,626,AUS,9,403,109,JM Bird,HMRKB Herath,11,0,4,6,22,27.27,Right-hand bat,176,90,4,11994.3,29.95,64.5,lo,0,AUS,spin,yes,21.79065743944637,11.885813148788927
+2,1157,627,AUS,9,403,109,JM Bird,HMRKB Herath,11,0,5,6,22,27.27,Right-hand bat,177,90,4,11994.3,29.95,64.5,lo,0,AUS,spin,yes,21.79065743944637,11.885813148788927
+2,1158,628,AUS,9,403,109,JM Bird,HMRKB Herath,11,0,6,6,22,27.27,Right-hand bat,178,90,4,11994.3,29.95,64.5,lo,0,AUS,spin,yes,21.79065743944637,11.885813148788927
+2,1159,629,AUS,9,403,109,JM Bird,HMRKB Herath,11,0,7,6,22,27.27,Right-hand bat,179,90,4,11994.3,29.95,64.5,lo,2,AUS,spin,yes,21.79065743944637,11.885813148788927
+2,1170,640,AUS,9,421,127,JM Bird,HMRKB Herath,11,6,9,6,22,27.27,Right-hand bat,184,95,4,11994.3,29.95,64.5,lo,0,AUS,spin,yes,21.79065743944637,11.885813148788927
+2,1171,641,AUS,9,421,127,JM Bird,HMRKB Herath,11,6,10,6,22,27.27,Right-hand bat,185,95,4,11994.3,29.95,64.5,lo,0,AUS,spin,yes,21.79065743944637,11.885813148788927

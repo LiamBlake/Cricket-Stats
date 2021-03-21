@@ -1,0 +1,22 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,943,632,RSA,5,340,163,Q de Kock,Yasir Shah,7,22,34,36.89,2854,71.09,Left-hand bat,90,55,0,11292.1,28.72,55.6,rls,4,RSA,spin,yes,31.46722164412071,0
+2,944,633,RSA,5,344,167,Q de Kock,Yasir Shah,7,26,35,36.89,2854,71.09,Left-hand bat,91,59,0,11292.1,28.72,55.6,rls,1,RSA,spin,yes,31.46722164412071,0
+2,946,635,RSA,5,346,169,Q de Kock,Yasir Shah,7,27,36,36.89,2854,71.09,Left-hand bat,93,61,0,11292.1,28.72,55.6,rls,4,RSA,spin,yes,31.46722164412071,0
+2,947,636,RSA,5,350,173,Q de Kock,Yasir Shah,7,31,37,36.89,2854,71.09,Left-hand bat,94,65,0,11292.1,28.72,55.6,rls,0,RSA,spin,yes,31.46722164412071,0
+2,948,637,RSA,5,350,173,Q de Kock,Yasir Shah,7,31,38,36.89,2854,71.09,Left-hand bat,95,65,0,11292.1,28.72,55.6,rls,1,RSA,spin,yes,31.46722164412071,0
+2,959,648,RSA,5,354,177,Q de Kock,Yasir Shah,7,33,44,36.89,2854,71.09,Left-hand bat,100,67,0,11292.1,28.72,55.6,rls,0,RSA,spin,yes,31.46722164412071,0
+2,960,649,RSA,5,354,177,Q de Kock,Yasir Shah,7,33,45,36.89,2854,71.09,Left-hand bat,101,67,0,11292.1,28.72,55.6,rls,2,RSA,spin,yes,31.46722164412071,0
+2,967,656,RSA,6,356,179,Q de Kock,Yasir Shah,7,35,46,36.89,2854,71.09,Left-hand bat,102,69,0,11292.1,28.72,55.6,rls,0,RSA,spin,yes,31.46722164412071,0
+2,968,657,RSA,6,356,179,Q de Kock,Yasir Shah,7,35,47,36.89,2854,71.09,Left-hand bat,103,69,0,11292.1,28.72,55.6,rls,1,RSA,spin,yes,31.46722164412071,0
+2,970,659,RSA,6,358,181,Q de Kock,Yasir Shah,7,36,48,36.89,2854,71.09,Left-hand bat,105,71,0,11292.1,28.72,55.6,rls,0,RSA,spin,yes,31.46722164412071,0
+2,971,660,RSA,6,358,181,Q de Kock,Yasir Shah,7,36,49,36.89,2854,71.09,Left-hand bat,106,71,0,11292.1,28.72,55.6,rls,1,RSA,spin,yes,31.46722164412071,0
+2,979,668,RSA,6,368,191,Q de Kock,Yasir Shah,7,44,54,36.89,2854,71.09,Left-hand bat,108,72,0,11292.1,28.72,55.6,rls,0,RSA,spin,yes,31.46722164412071,0
+2,980,669,RSA,6,368,191,Q de Kock,Yasir Shah,7,44,55,36.89,2854,71.09,Left-hand bat,109,72,0,11292.1,28.72,55.6,rls,1,RSA,spin,yes,31.46722164412071,0
+2,983,672,RSA,6,370,193,Q de Kock,Yasir Shah,7,45,56,36.89,2854,71.09,Left-hand bat,112,74,0,11292.1,28.72,55.6,rls,2,RSA,spin,yes,31.46722164412071,0
+2,984,673,RSA,6,372,195,Q de Kock,Yasir Shah,7,47,57,36.89,2854,71.09,Left-hand bat,113,76,0,11292.1,28.72,55.6,rls,1,RSA,spin,yes,31.46722164412071,0
+2,1003,692,RSA,6,382,205,Q de Kock,Yasir Shah,7,55,66,36.89,2854,71.09,Left-hand bat,120,79,0,11292.1,28.72,55.6,rls,0,RSA,spin,yes,31.46722164412071,0
+2,1004,693,RSA,6,382,205,Q de Kock,Yasir Shah,7,55,67,36.89,2854,71.09,Left-hand bat,121,79,0,11292.1,28.72,55.6,rls,0,RSA,spin,yes,31.46722164412071,0
+2,1005,694,RSA,6,382,205,Q de Kock,Yasir Shah,7,55,68,36.89,2854,71.09,Left-hand bat,122,79,0,11292.1,28.72,55.6,rls,0,RSA,spin,yes,31.46722164412071,0
+2,1006,695,RSA,6,382,205,Q de Kock,Yasir Shah,7,55,69,36.89,2854,71.09,Left-hand bat,123,79,0,11292.1,28.72,55.6,rls,0,RSA,spin,yes,31.46722164412071,0
+2,1007,696,RSA,6,382,205,Q de Kock,Yasir Shah,7,55,70,36.89,2854,71.09,Left-hand bat,124,79,0,11292.1,28.72,55.6,rls,0,RSA,spin,yes,31.46722164412071,0
+2,1008,697,RSA,6,382,205,Q de Kock,Yasir Shah,7,55,71,36.89,2854,71.09,Left-hand bat,125,79,0,11292.1,28.72,55.6,rls,0,RSA,spin,yes,31.46722164412071,0

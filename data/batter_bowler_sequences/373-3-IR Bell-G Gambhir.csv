@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2645,912,ENG,4,336,340,IR Bell,G Gambhir,5,102,293,46.71,11227,50.76,Right-hand bat,0,0,0,12,NA,NA,rls,0,IND,spin,yes,15.243856332703215,28.58223062381853
+3,2646,913,ENG,4,336,340,IR Bell,G Gambhir,5,102,294,46.71,11227,50.76,Right-hand bat,1,0,0,12,NA,NA,rls,0,IND,spin,yes,15.243856332703215,28.58223062381853
+3,2647,914,ENG,4,336,340,IR Bell,G Gambhir,5,102,295,46.71,11227,50.76,Right-hand bat,2,0,0,12,NA,NA,rls,0,IND,spin,yes,15.243856332703215,28.58223062381853
+3,2648,915,ENG,4,336,340,IR Bell,G Gambhir,5,102,296,46.71,11227,50.76,Right-hand bat,3,0,0,12,NA,NA,rls,1,IND,spin,yes,15.243856332703215,28.58223062381853
+3,2659,926,ENG,4,350,354,IR Bell,G Gambhir,5,115,303,46.71,11227,50.76,Right-hand bat,8,2,0,12,NA,NA,rls,1,IND,spin,yes,15.243856332703215,28.58223062381853
+3,2661,928,ENG,4,352,356,IR Bell,G Gambhir,5,116,304,46.71,11227,50.76,Right-hand bat,10,4,0,12,NA,NA,rls,0,IND,spin,yes,15.243856332703215,28.58223062381853
+3,2662,929,ENG,4,352,356,IR Bell,G Gambhir,5,116,305,46.71,11227,50.76,Right-hand bat,11,4,0,12,NA,NA,rls,0,IND,spin,yes,15.243856332703215,28.58223062381853

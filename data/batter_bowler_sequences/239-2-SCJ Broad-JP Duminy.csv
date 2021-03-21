@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1382,457,ENG,7,234,-184,SCJ Broad,JP Duminy,8,13,14,29.03,1267,61.87,Left-hand bat,0,0,0,276,49.66,92,rob,1,RSA,spin,yes,23.124228395061728,13.070216049382715
+2,1386,461,ENG,7,236,-182,SCJ Broad,JP Duminy,8,14,15,29.03,1267,61.87,Left-hand bat,4,2,0,276,49.66,92,rob,1,RSA,spin,yes,23.124228395061728,13.070216049382715
+2,1394,469,ENG,7,238,-180,SCJ Broad,JP Duminy,8,16,21,29.03,1267,61.87,Left-hand bat,6,3,0,276,49.66,92,rob,0,RSA,spin,yes,23.124228395061728,13.070216049382715
+2,1395,470,ENG,7,238,-180,SCJ Broad,JP Duminy,8,16,22,29.03,1267,61.87,Left-hand bat,7,3,0,276,49.66,92,rob,0,RSA,spin,yes,23.124228395061728,13.070216049382715
+2,1396,471,ENG,7,238,-180,SCJ Broad,JP Duminy,8,16,23,29.03,1267,61.87,Left-hand bat,8,3,0,276,49.66,92,rob,0,RSA,spin,yes,23.124228395061728,13.070216049382715
+2,1397,472,ENG,7,238,-180,SCJ Broad,JP Duminy,8,16,24,29.03,1267,61.87,Left-hand bat,9,3,0,276,49.66,92,rob,0,RSA,spin,yes,23.124228395061728,13.070216049382715
+2,1398,473,ENG,7,238,-180,SCJ Broad,JP Duminy,8,16,25,29.03,1267,61.87,Left-hand bat,10,3,0,276,49.66,92,rob,1,RSA,spin,yes,23.124228395061728,13.070216049382715
+2,1409,484,ENG,7,242,-176,SCJ Broad,JP Duminy,8,17,32,29.03,1267,61.87,Left-hand bat,15,7,0,276,49.66,92,rob,0,RSA,spin,yes,23.124228395061728,13.070216049382715
+2,1410,485,ENG,7,242,-176,SCJ Broad,JP Duminy,8,17,33,29.03,1267,61.87,Left-hand bat,16,7,0,276,49.66,92,rob,W,RSA,spin,yes,23.124228395061728,13.070216049382715

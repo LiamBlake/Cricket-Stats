@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1008,458,WIN,6,236,-45,JO Holder,Wahab Riaz,8,0,5,28.6,1331,60.18,Right-hand bat,96,61,2,3648.2,32.93,57.9,lf,0,PAK,seam,no,16,12
+2,1009,459,WIN,6,236,-45,JO Holder,Wahab Riaz,8,0,6,28.6,1331,60.18,Right-hand bat,97,61,2,3648.2,32.93,57.9,lf,0,PAK,seam,no,16,12
+2,1010,460,WIN,6,236,-45,JO Holder,Wahab Riaz,8,0,7,28.6,1331,60.18,Right-hand bat,98,61,2,3648.2,32.93,57.9,lf,4,PAK,seam,no,16,12
+2,1029,479,WIN,6,250,-31,JO Holder,Wahab Riaz,8,6,15,28.6,1331,60.18,Right-hand bat,99,65,2,3648.2,32.93,57.9,lf,0,PAK,seam,no,16,12
+2,1030,480,WIN,6,250,-31,JO Holder,Wahab Riaz,8,6,16,28.6,1331,60.18,Right-hand bat,100,65,2,3648.2,32.93,57.9,lf,0,PAK,seam,no,16,12
+2,1031,481,WIN,6,250,-31,JO Holder,Wahab Riaz,8,6,17,28.6,1331,60.18,Right-hand bat,101,65,2,3648.2,32.93,57.9,lf,1,PAK,seam,no,16,12
+2,1044,494,WIN,6,254,-27,JO Holder,Wahab Riaz,8,7,24,28.6,1331,60.18,Right-hand bat,108,69,2,3648.2,32.93,57.9,lf,4,PAK,seam,no,16,12
+2,1045,495,WIN,6,258,-23,JO Holder,Wahab Riaz,8,11,25,28.6,1331,60.18,Right-hand bat,109,73,2,3648.2,32.93,57.9,lf,1,PAK,seam,no,16,12

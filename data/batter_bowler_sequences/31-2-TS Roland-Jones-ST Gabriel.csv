@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,584,237,ENG,7,128,5,TS Roland-Jones,ST Gabriel,9,0,0,20.5,118,69.49,Right-hand bat,74,42,1,4320.4,33.97,60.9,rf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
+2,592,245,ENG,7,130,7,TS Roland-Jones,ST Gabriel,9,0,2,20.5,118,69.49,Right-hand bat,76,43,1,4320.4,33.97,60.9,rf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
+2,593,246,ENG,7,130,7,TS Roland-Jones,ST Gabriel,9,0,3,20.5,118,69.49,Right-hand bat,77,43,1,4320.4,33.97,60.9,rf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
+2,594,247,ENG,7,130,7,TS Roland-Jones,ST Gabriel,9,0,4,20.5,118,69.49,Right-hand bat,78,43,1,4320.4,33.97,60.9,rf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
+2,595,248,ENG,7,130,7,TS Roland-Jones,ST Gabriel,9,0,5,20.5,118,69.49,Right-hand bat,79,43,1,4320.4,33.97,60.9,rf,4,WIN,seam,no,18.761706555671175,0.6253902185223725
+2,596,249,ENG,7,134,11,TS Roland-Jones,ST Gabriel,9,4,6,20.5,118,69.49,Right-hand bat,80,47,1,4320.4,33.97,60.9,rf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
+2,603,256,ENG,8,134,11,TS Roland-Jones,ST Gabriel,9,4,7,20.5,118,69.49,Right-hand bat,81,47,1,4320.4,33.97,60.9,rf,1,WIN,seam,no,18.761706555671175,0.6253902185223725
+2,606,259,ENG,8,136,13,TS Roland-Jones,ST Gabriel,9,5,8,20.5,118,69.49,Right-hand bat,84,48,1,4320.4,33.97,60.9,rf,1,WIN,seam,no,18.761706555671175,0.6253902185223725
+2,616,269,ENG,8,141,18,TS Roland-Jones,ST Gabriel,9,6,9,20.5,118,69.49,Right-hand bat,88,53,1,4320.4,33.97,60.9,rf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
+2,617,270,ENG,8,141,18,TS Roland-Jones,ST Gabriel,9,6,10,20.5,118,69.49,Right-hand bat,89,53,1,4320.4,33.97,60.9,rf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
+2,618,271,ENG,8,141,18,TS Roland-Jones,ST Gabriel,9,6,11,20.5,118,69.49,Right-hand bat,90,53,1,4320.4,33.97,60.9,rf,1nb,WIN,seam,no,18.761706555671175,0.6253902185223725

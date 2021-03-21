@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2454,538,IND,8,228,256,PP Ojha,DL Vettori,10,0,0,22.33,314,21.33,Left-hand bat,207,70,3,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2455,539,IND,8,228,256,PP Ojha,DL Vettori,10,0,1,22.33,314,21.33,Left-hand bat,208,70,3,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2478,562,IND,8,242,270,PP Ojha,DL Vettori,10,2,13,22.33,314,21.33,Left-hand bat,219,77,3,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2479,563,IND,8,242,270,PP Ojha,DL Vettori,10,2,14,22.33,314,21.33,Left-hand bat,220,77,3,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2486,570,IND,8,250,278,PP Ojha,DL Vettori,10,3,17,22.33,314,21.33,Left-hand bat,221,77,3,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2487,571,IND,8,250,278,PP Ojha,DL Vettori,10,3,18,22.33,314,21.33,Left-hand bat,222,77,3,25554,33.85,77.2,lo,4,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2488,572,IND,8,254,282,PP Ojha,DL Vettori,10,7,19,22.33,314,21.33,Left-hand bat,223,81,3,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2489,573,IND,8,254,282,PP Ojha,DL Vettori,10,7,20,22.33,314,21.33,Left-hand bat,224,81,3,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2490,574,IND,8,254,282,PP Ojha,DL Vettori,10,7,21,22.33,314,21.33,Left-hand bat,225,81,3,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2491,575,IND,8,254,282,PP Ojha,DL Vettori,10,7,22,22.33,314,21.33,Left-hand bat,226,81,3,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814

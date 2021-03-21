@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,433,433,NZL,9,215,215,TA Boult,ST Gabriel,11,0,0,17.06,500,54.6,Right-hand bat,65,36,2,1008.3,36.11,59.4,rf,0,WIN,seam,yes,24.6,12.3
+1,434,434,NZL,9,215,215,TA Boult,ST Gabriel,11,0,1,17.06,500,54.6,Right-hand bat,66,36,2,1008.3,36.11,59.4,rf,0,WIN,seam,yes,24.6,12.3
+1,435,435,NZL,9,215,215,TA Boult,ST Gabriel,11,0,2,17.06,500,54.6,Right-hand bat,67,36,2,1008.3,36.11,59.4,rf,1wd,WIN,seam,yes,24.6,12.3
+1,436,436,NZL,9,216,216,TA Boult,ST Gabriel,11,0,2,17.06,500,54.6,Right-hand bat,68,37,2,1008.3,36.11,59.4,rf,1,WIN,seam,yes,24.6,12.3
+1,447,447,NZL,9,220,220,TA Boult,ST Gabriel,11,1,9,17.06,500,54.6,Right-hand bat,73,41,2,1008.3,36.11,59.4,rf,0,WIN,seam,yes,24.6,12.3
+1,448,448,NZL,9,220,220,TA Boult,ST Gabriel,11,1,10,17.06,500,54.6,Right-hand bat,74,41,2,1008.3,36.11,59.4,rf,0,WIN,seam,yes,24.6,12.3

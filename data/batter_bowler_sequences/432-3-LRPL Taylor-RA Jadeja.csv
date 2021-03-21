@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1225,121,NZL,5,38,339,LRPL Taylor,RA Jadeja,4,23,40,46.94,7270,57.46,Right-hand bat,0,0,0,2160.4,23.42,61.8,lo,0,NZL,spin,no,27.93,1.47
+3,1226,122,NZL,5,38,339,LRPL Taylor,RA Jadeja,4,23,41,46.94,7270,57.46,Right-hand bat,1,0,0,2160.4,23.42,61.8,lo,0,NZL,spin,no,27.93,1.47
+3,1227,123,NZL,5,38,339,LRPL Taylor,RA Jadeja,4,23,42,46.94,7270,57.46,Right-hand bat,2,0,0,2160.4,23.42,61.8,lo,0,NZL,spin,no,27.93,1.47
+3,1228,124,NZL,5,38,339,LRPL Taylor,RA Jadeja,4,23,43,46.94,7270,57.46,Right-hand bat,3,0,0,2160.4,23.42,61.8,lo,0,NZL,spin,no,27.93,1.47
+3,1229,125,NZL,5,38,339,LRPL Taylor,RA Jadeja,4,23,44,46.94,7270,57.46,Right-hand bat,4,0,0,2160.4,23.42,61.8,lo,0,NZL,spin,no,27.93,1.47
+3,1230,126,NZL,5,38,339,LRPL Taylor,RA Jadeja,4,23,45,46.94,7270,57.46,Right-hand bat,5,0,0,2160.4,23.42,61.8,lo,0,NZL,spin,no,27.93,1.47
+3,1237,133,NZL,5,42,343,LRPL Taylor,RA Jadeja,4,26,49,46.94,7270,57.46,Right-hand bat,6,0,0,2160.4,23.42,61.8,lo,0,NZL,spin,no,27.93,1.47
+3,1238,134,NZL,5,42,343,LRPL Taylor,RA Jadeja,4,26,50,46.94,7270,57.46,Right-hand bat,7,0,0,2160.4,23.42,61.8,lo,0,NZL,spin,no,27.93,1.47
+3,1239,135,NZL,5,42,343,LRPL Taylor,RA Jadeja,4,26,51,46.94,7270,57.46,Right-hand bat,8,0,0,2160.4,23.42,61.8,lo,1,NZL,spin,no,27.93,1.47
+3,1261,157,NZL,5,56,357,LRPL Taylor,RA Jadeja,4,38,60,46.94,7270,57.46,Right-hand bat,18,2,0,2160.4,23.42,61.8,lo,0,NZL,spin,no,27.93,1.47
+3,1262,158,NZL,5,56,357,LRPL Taylor,RA Jadeja,4,38,61,46.94,7270,57.46,Right-hand bat,19,2,0,2160.4,23.42,61.8,lo,0,NZL,spin,no,27.93,1.47
+3,1263,159,NZL,5,56,357,LRPL Taylor,RA Jadeja,4,38,62,46.94,7270,57.46,Right-hand bat,20,2,0,2160.4,23.42,61.8,lo,1,NZL,spin,no,27.93,1.47
+3,1273,169,NZL,5,58,359,LRPL Taylor,RA Jadeja,4,40,69,46.94,7270,57.46,Right-hand bat,24,3,0,2160.4,23.42,61.8,lo,0,NZL,spin,no,27.93,1.47
+3,1274,170,NZL,5,58,359,LRPL Taylor,RA Jadeja,4,40,70,46.94,7270,57.46,Right-hand bat,25,3,0,2160.4,23.42,61.8,lo,1,NZL,spin,no,27.93,1.47

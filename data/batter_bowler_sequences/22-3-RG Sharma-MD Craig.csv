@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1589,430,IND,4,229,285,RG Sharma,MD Craig,6,0,3,34.96,1974,53.14,Right-hand bat,106,70,1,3666.3,46.52,73.3,rob,0,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1590,431,IND,4,229,285,RG Sharma,MD Craig,6,0,4,34.96,1974,53.14,Right-hand bat,107,70,1,3666.3,46.52,73.3,rob,0,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1611,452,IND,4,243,299,RG Sharma,MD Craig,6,6,10,34.96,1974,53.14,Right-hand bat,116,71,1,3666.3,46.52,73.3,rob,0,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1612,453,IND,4,243,299,RG Sharma,MD Craig,6,6,11,34.96,1974,53.14,Right-hand bat,117,71,1,3666.3,46.52,73.3,rob,1,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1626,467,IND,4,249,305,RG Sharma,MD Craig,6,11,18,34.96,1974,53.14,Right-hand bat,125,73,1,3666.3,46.52,73.3,rob,1,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1637,478,IND,4,251,307,RG Sharma,MD Craig,6,12,25,34.96,1974,53.14,Right-hand bat,130,75,1,3666.3,46.52,73.3,rob,0,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1638,479,IND,4,251,307,RG Sharma,MD Craig,6,12,26,34.96,1974,53.14,Right-hand bat,131,75,1,3666.3,46.52,73.3,rob,0,IND,spin,yes,7.791020408163266,26.294693877551023

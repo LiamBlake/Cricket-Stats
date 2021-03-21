@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1189,579,IND,8,335,24,UT Yadav,JA Warrican,10,0,2,11.08,589,47.02,Right-hand bat,166,77,1,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,1190,580,IND,8,335,24,UT Yadav,JA Warrican,10,0,3,11.08,589,47.02,Right-hand bat,167,77,1,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,1199,589,IND,8,337,26,UT Yadav,JA Warrican,10,0,7,11.08,589,47.02,Right-hand bat,170,78,1,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,1200,590,IND,8,337,26,UT Yadav,JA Warrican,10,0,8,11.08,589,47.02,Right-hand bat,171,78,1,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,1201,591,IND,8,337,26,UT Yadav,JA Warrican,10,0,9,11.08,589,47.02,Right-hand bat,172,78,1,942,46.92,72.4,lo,1,WIN,spin,no,17.6,11.733333333333333
+2,1209,599,IND,8,339,28,UT Yadav,JA Warrican,10,2,11,11.08,589,47.02,Right-hand bat,174,79,1,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,1210,600,IND,8,339,28,UT Yadav,JA Warrican,10,2,12,11.08,589,47.02,Right-hand bat,175,79,1,942,46.92,72.4,lo,W,WIN,spin,no,17.6,11.733333333333333

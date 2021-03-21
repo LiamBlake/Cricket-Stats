@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,818,0,IND,0,0,7,PP Shaw,TG Southee,1,0,0,55.83,388,86.34,Right-hand bat,0,0,0,16392.1,29,57.7,rmf,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,819,1,IND,0,0,7,PP Shaw,TG Southee,1,0,1,55.83,388,86.34,Right-hand bat,1,0,0,16392.1,29,57.7,rmf,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,820,2,IND,0,0,7,PP Shaw,TG Southee,1,0,2,55.83,388,86.34,Right-hand bat,2,0,0,16392.1,29,57.7,rmf,1lb,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,822,4,IND,0,2,9,PP Shaw,TG Southee,1,0,3,55.83,388,86.34,Right-hand bat,4,1,0,16392.1,29,57.7,rmf,4,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,823,5,IND,0,6,13,PP Shaw,TG Southee,1,4,4,55.83,388,86.34,Right-hand bat,5,5,0,16392.1,29,57.7,rmf,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,830,12,IND,1,8,15,PP Shaw,TG Southee,1,4,5,55.83,388,86.34,Right-hand bat,6,5,0,16392.1,29,57.7,rmf,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,831,13,IND,1,8,15,PP Shaw,TG Southee,1,4,6,55.83,388,86.34,Right-hand bat,7,5,0,16392.1,29,57.7,rmf,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,832,14,IND,1,8,15,PP Shaw,TG Southee,1,4,7,55.83,388,86.34,Right-hand bat,8,5,0,16392.1,29,57.7,rmf,4b,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,833,15,IND,1,12,19,PP Shaw,TG Southee,1,4,8,55.83,388,86.34,Right-hand bat,9,5,0,16392.1,29,57.7,rmf,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,834,16,IND,1,12,19,PP Shaw,TG Southee,1,4,9,55.83,388,86.34,Right-hand bat,10,5,0,16392.1,29,57.7,rmf,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,835,17,IND,1,12,19,PP Shaw,TG Southee,1,4,10,55.83,388,86.34,Right-hand bat,11,5,0,16392.1,29,57.7,rmf,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,845,27,IND,1,20,27,PP Shaw,TG Southee,1,8,14,55.83,388,86.34,Right-hand bat,15,8,0,16392.1,29,57.7,rmf,3,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,866,48,IND,1,26,33,PP Shaw,TG Southee,1,14,23,55.83,388,86.34,Right-hand bat,24,11,0,16392.1,29,57.7,rmf,W,NZL,seam,no,20.865932047750228,1.3461891643709825

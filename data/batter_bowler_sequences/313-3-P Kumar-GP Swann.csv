@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1766,247,IND,7,130,-356,P Kumar,GP Swann,9,0,0,14.9,159,93.71,Right-hand bat,59,38,3,8484.5,29.18,58.9,rob,4,ENG,spin,no,32.318244170096015,11.311385459533607
+3,1774,255,IND,7,144,-342,P Kumar,GP Swann,9,8,4,14.9,159,93.71,Right-hand bat,61,43,3,8484.5,29.18,58.9,rob,1,ENG,spin,no,32.318244170096015,11.311385459533607
+3,1776,257,IND,7,146,-340,P Kumar,GP Swann,9,9,5,14.9,159,93.71,Right-hand bat,63,45,3,8484.5,29.18,58.9,rob,4,ENG,spin,no,32.318244170096015,11.311385459533607
+3,1777,258,IND,7,150,-336,P Kumar,GP Swann,9,13,6,14.9,159,93.71,Right-hand bat,64,49,3,8484.5,29.18,58.9,rob,6,ENG,spin,no,32.318244170096015,11.311385459533607
+3,1778,259,IND,7,156,-330,P Kumar,GP Swann,9,19,7,14.9,159,93.71,Right-hand bat,65,55,3,8484.5,29.18,58.9,rob,6,ENG,spin,no,32.318244170096015,11.311385459533607
+3,1787,268,IND,7,166,-320,P Kumar,GP Swann,9,25,10,14.9,159,93.71,Right-hand bat,68,62,3,8484.5,29.18,58.9,rob,1,ENG,spin,no,32.318244170096015,11.311385459533607
+3,1790,271,IND,7,168,-318,P Kumar,GP Swann,9,26,11,14.9,159,93.71,Right-hand bat,71,64,3,8484.5,29.18,58.9,rob,4,ENG,spin,no,32.318244170096015,11.311385459533607
+3,1797,278,IND,7,180,-306,P Kumar,GP Swann,9,30,12,14.9,159,93.71,Right-hand bat,72,68,3,8484.5,29.18,58.9,rob,5wd,ENG,spin,no,32.318244170096015,11.311385459533607
+3,1798,279,IND,7,185,-301,P Kumar,GP Swann,9,30,12,14.9,159,93.71,Right-hand bat,73,73,3,8484.5,29.18,58.9,rob,4,ENG,spin,no,32.318244170096015,11.311385459533607
+3,1799,280,IND,7,189,-297,P Kumar,GP Swann,9,34,13,14.9,159,93.71,Right-hand bat,74,77,3,8484.5,29.18,58.9,rob,6,ENG,spin,no,32.318244170096015,11.311385459533607
+3,1800,281,IND,7,195,-291,P Kumar,GP Swann,9,40,14,14.9,159,93.71,Right-hand bat,75,83,3,8484.5,29.18,58.9,rob,0,ENG,spin,no,32.318244170096015,11.311385459533607
+3,1801,282,IND,7,195,-291,P Kumar,GP Swann,9,40,15,14.9,159,93.71,Right-hand bat,76,83,3,8484.5,29.18,58.9,rob,1b,ENG,spin,no,32.318244170096015,11.311385459533607

@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1075,121,RSA,3,43,-266,AB de Villiers,RA Jadeja,5,1,6,51.51,14222,54.69,Right-hand bat,30,6,0,3918.3,25.57,64.2,lo,4,IND,spin,no,2.8525,13.4475
+4,1076,122,RSA,3,47,-262,AB de Villiers,RA Jadeja,5,5,7,51.51,14222,54.69,Right-hand bat,31,10,0,3918.3,25.57,64.2,lo,0,IND,spin,no,2.8525,13.4475
+4,1077,123,RSA,3,47,-262,AB de Villiers,RA Jadeja,5,5,8,51.51,14222,54.69,Right-hand bat,32,10,0,3918.3,25.57,64.2,lo,1,IND,spin,no,2.8525,13.4475
+4,1087,133,RSA,3,53,-256,AB de Villiers,RA Jadeja,5,9,15,51.51,14222,54.69,Right-hand bat,36,13,0,3918.3,25.57,64.2,lo,0,IND,spin,no,2.8525,13.4475
+4,1088,134,RSA,3,53,-256,AB de Villiers,RA Jadeja,5,9,16,51.51,14222,54.69,Right-hand bat,37,13,0,3918.3,25.57,64.2,lo,1lb,IND,spin,no,2.8525,13.4475

@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1376,99,AUS,0,89,296,DA Warner,DW Steyn,2,50,43,46.54,3363,73.35,Left-hand bat,7,1,0,15258.3,23.01,42.1,rf,2,RSA,seam,yes,34.251953125,7.904296875
+3,1377,100,AUS,0,91,298,DA Warner,DW Steyn,2,52,44,46.54,3363,73.35,Left-hand bat,8,3,0,15258.3,23.01,42.1,rf,4,RSA,seam,yes,34.251953125,7.904296875
+3,1378,101,AUS,0,95,302,DA Warner,DW Steyn,2,56,45,46.54,3363,73.35,Left-hand bat,9,7,0,15258.3,23.01,42.1,rf,0,RSA,seam,yes,34.251953125,7.904296875
+3,1379,102,AUS,0,95,302,DA Warner,DW Steyn,2,56,46,46.54,3363,73.35,Left-hand bat,10,7,0,15258.3,23.01,42.1,rf,0,RSA,seam,yes,34.251953125,7.904296875
+3,1380,103,AUS,0,95,302,DA Warner,DW Steyn,2,56,47,46.54,3363,73.35,Left-hand bat,11,7,0,15258.3,23.01,42.1,rf,4,RSA,seam,yes,34.251953125,7.904296875
+3,1387,110,AUS,0,99,306,DA Warner,DW Steyn,2,60,48,46.54,3363,73.35,Left-hand bat,12,11,0,15258.3,23.01,42.1,rf,0,RSA,seam,yes,34.251953125,7.904296875
+3,1388,111,AUS,0,99,306,DA Warner,DW Steyn,2,60,49,46.54,3363,73.35,Left-hand bat,13,11,0,15258.3,23.01,42.1,rf,6,RSA,seam,yes,34.251953125,7.904296875
+3,1389,112,AUS,0,105,312,DA Warner,DW Steyn,2,66,50,46.54,3363,73.35,Left-hand bat,14,17,0,15258.3,23.01,42.1,rf,2,RSA,seam,yes,34.251953125,7.904296875
+3,1390,113,AUS,0,107,314,DA Warner,DW Steyn,2,68,51,46.54,3363,73.35,Left-hand bat,15,19,0,15258.3,23.01,42.1,rf,4,RSA,seam,yes,34.251953125,7.904296875
+3,1391,114,AUS,0,111,318,DA Warner,DW Steyn,2,72,52,46.54,3363,73.35,Left-hand bat,16,23,0,15258.3,23.01,42.1,rf,4lb,RSA,seam,yes,34.251953125,7.904296875
+3,1392,115,AUS,0,115,322,DA Warner,DW Steyn,2,72,53,46.54,3363,73.35,Left-hand bat,17,23,0,15258.3,23.01,42.1,rf,1,RSA,seam,yes,34.251953125,7.904296875

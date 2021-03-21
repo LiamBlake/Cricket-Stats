@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,428,428,NZL,6,229,229,DL Vettori,A Symonds,8,0,1,27.23,5311,55.37,Left-hand bat,53,12,1,2010,36.33,83.7,NA,0,AUS,seam,yes,23.52,10.080000000000002
+1,429,429,NZL,6,229,229,DL Vettori,A Symonds,8,0,2,27.23,5311,55.37,Left-hand bat,54,12,1,2010,36.33,83.7,NA,0,AUS,seam,yes,23.52,10.080000000000002
+1,437,437,NZL,6,233,233,DL Vettori,A Symonds,8,0,4,27.23,5311,55.37,Left-hand bat,56,13,1,2010,36.33,83.7,NA,0,AUS,seam,yes,23.52,10.080000000000002
+1,438,438,NZL,6,233,233,DL Vettori,A Symonds,8,0,5,27.23,5311,55.37,Left-hand bat,57,13,1,2010,36.33,83.7,NA,0,AUS,seam,yes,23.52,10.080000000000002
+1,439,439,NZL,6,233,233,DL Vettori,A Symonds,8,0,6,27.23,5311,55.37,Left-hand bat,58,13,1,2010,36.33,83.7,NA,0,AUS,seam,yes,23.52,10.080000000000002
+1,440,440,NZL,6,233,233,DL Vettori,A Symonds,8,0,7,27.23,5311,55.37,Left-hand bat,59,13,1,2010,36.33,83.7,NA,0,AUS,seam,yes,23.52,10.080000000000002
+1,441,441,NZL,6,233,233,DL Vettori,A Symonds,8,0,8,27.23,5311,55.37,Left-hand bat,60,13,1,2010,36.33,83.7,NA,0,AUS,seam,yes,23.52,10.080000000000002
+1,448,448,NZL,6,233,233,DL Vettori,A Symonds,8,0,9,27.23,5311,55.37,Left-hand bat,61,13,1,2010,36.33,83.7,NA,0,AUS,seam,yes,23.52,10.080000000000002
+1,449,449,NZL,6,233,233,DL Vettori,A Symonds,8,0,10,27.23,5311,55.37,Left-hand bat,62,13,1,2010,36.33,83.7,NA,0,AUS,seam,yes,23.52,10.080000000000002
+1,450,450,NZL,6,233,233,DL Vettori,A Symonds,8,0,11,27.23,5311,55.37,Left-hand bat,63,13,1,2010,36.33,83.7,NA,0,AUS,seam,yes,23.52,10.080000000000002
+1,451,451,NZL,6,233,233,DL Vettori,A Symonds,8,0,12,27.23,5311,55.37,Left-hand bat,64,13,1,2010,36.33,83.7,NA,1,AUS,seam,yes,23.52,10.080000000000002
+1,462,462,NZL,6,235,235,DL Vettori,A Symonds,8,1,19,27.23,5311,55.37,Left-hand bat,69,15,1,2010,36.33,83.7,NA,0,AUS,seam,yes,23.52,10.080000000000002
+1,463,463,NZL,6,235,235,DL Vettori,A Symonds,8,1,20,27.23,5311,55.37,Left-hand bat,70,15,1,2010,36.33,83.7,NA,0,AUS,seam,yes,23.52,10.080000000000002
+1,464,464,NZL,6,235,235,DL Vettori,A Symonds,8,1,21,27.23,5311,55.37,Left-hand bat,71,15,1,2010,36.33,83.7,NA,2,AUS,seam,yes,23.52,10.080000000000002
+1,465,465,NZL,6,237,237,DL Vettori,A Symonds,8,3,22,27.23,5311,55.37,Left-hand bat,72,17,1,2010,36.33,83.7,NA,0,AUS,seam,yes,23.52,10.080000000000002

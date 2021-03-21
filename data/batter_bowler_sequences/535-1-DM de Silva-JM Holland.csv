@@ -1,0 +1,20 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,355,355,SRL,6,232,232,DM de Silva,JM Holland,7,17,28,32.75,211,62.08,Right-hand bat,55,42,0,150,66.5,75,lo,0,SRL,spin,yes,7.565625,12.609375
+1,356,356,SRL,6,232,232,DM de Silva,JM Holland,7,17,29,32.75,211,62.08,Right-hand bat,56,42,0,150,66.5,75,lo,0,SRL,spin,yes,7.565625,12.609375
+1,357,357,SRL,6,232,232,DM de Silva,JM Holland,7,17,30,32.75,211,62.08,Right-hand bat,57,42,0,150,66.5,75,lo,0,SRL,spin,yes,7.565625,12.609375
+1,358,358,SRL,6,232,232,DM de Silva,JM Holland,7,17,31,32.75,211,62.08,Right-hand bat,58,42,0,150,66.5,75,lo,0,SRL,spin,yes,7.565625,12.609375
+1,359,359,SRL,6,232,232,DM de Silva,JM Holland,7,17,32,32.75,211,62.08,Right-hand bat,59,42,0,150,66.5,75,lo,0,SRL,spin,yes,7.565625,12.609375
+1,367,367,SRL,6,234,234,DM de Silva,JM Holland,7,17,38,32.75,211,62.08,Right-hand bat,61,43,0,150,66.5,75,lo,0,SRL,spin,yes,7.565625,12.609375
+1,368,368,SRL,6,234,234,DM de Silva,JM Holland,7,17,39,32.75,211,62.08,Right-hand bat,62,43,0,150,66.5,75,lo,1,SRL,spin,yes,7.565625,12.609375
+1,370,370,SRL,6,236,236,DM de Silva,JM Holland,7,18,40,32.75,211,62.08,Right-hand bat,64,45,0,150,66.5,75,lo,4,SRL,spin,yes,7.565625,12.609375
+1,371,371,SRL,6,240,240,DM de Silva,JM Holland,7,22,41,32.75,211,62.08,Right-hand bat,65,49,0,150,66.5,75,lo,0,SRL,spin,yes,7.565625,12.609375
+1,378,378,SRL,6,244,244,DM de Silva,JM Holland,7,22,42,32.75,211,62.08,Right-hand bat,66,49,0,150,66.5,75,lo,1,SRL,spin,yes,7.565625,12.609375
+1,381,381,SRL,6,246,246,DM de Silva,JM Holland,7,23,43,32.75,211,62.08,Right-hand bat,69,51,0,150,66.5,75,lo,0,SRL,spin,yes,7.565625,12.609375
+1,382,382,SRL,6,246,246,DM de Silva,JM Holland,7,23,44,32.75,211,62.08,Right-hand bat,70,51,0,150,66.5,75,lo,0,SRL,spin,yes,7.565625,12.609375
+1,383,383,SRL,6,246,246,DM de Silva,JM Holland,7,23,45,32.75,211,62.08,Right-hand bat,71,51,0,150,66.5,75,lo,0,SRL,spin,yes,7.565625,12.609375
+1,408,408,SRL,7,259,259,DM de Silva,JM Holland,7,31,57,32.75,211,62.08,Right-hand bat,78,55,0,150,66.5,75,lo,4,SRL,spin,yes,7.565625,12.609375
+1,409,409,SRL,7,263,263,DM de Silva,JM Holland,7,35,58,32.75,211,62.08,Right-hand bat,79,59,0,150,66.5,75,lo,0,SRL,spin,yes,7.565625,12.609375
+1,410,410,SRL,7,263,263,DM de Silva,JM Holland,7,35,59,32.75,211,62.08,Right-hand bat,80,59,0,150,66.5,75,lo,2,SRL,spin,yes,7.565625,12.609375
+1,411,411,SRL,7,265,265,DM de Silva,JM Holland,7,37,60,32.75,211,62.08,Right-hand bat,81,61,0,150,66.5,75,lo,0,SRL,spin,yes,7.565625,12.609375
+1,412,412,SRL,7,265,265,DM de Silva,JM Holland,7,37,61,32.75,211,62.08,Right-hand bat,82,61,0,150,66.5,75,lo,0,SRL,spin,yes,7.565625,12.609375
+1,413,413,SRL,7,265,265,DM de Silva,JM Holland,7,37,62,32.75,211,62.08,Right-hand bat,83,61,0,150,66.5,75,lo,W,SRL,spin,yes,7.565625,12.609375

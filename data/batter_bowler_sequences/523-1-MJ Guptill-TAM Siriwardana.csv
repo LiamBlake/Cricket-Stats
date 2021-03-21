@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,452,452,NZL,4,339,339,MJ Guptill,TAM Siriwardana,1,133,210,30.6,4758,45.01,Right-hand bat,6,8,1,312,22.5,39,lo,1,NZL,spin,no,30.416896235078056,8.189164370982553
+1,456,456,NZL,4,345,345,MJ Guptill,TAM Siriwardana,1,134,211,30.6,4758,45.01,Right-hand bat,10,14,1,312,22.5,39,lo,1,NZL,spin,no,30.416896235078056,8.189164370982553
+1,465,465,NZL,4,353,353,MJ Guptill,TAM Siriwardana,1,140,216,30.6,4758,45.01,Right-hand bat,13,16,1,312,22.5,39,lo,4,NZL,spin,no,30.416896235078056,8.189164370982553
+1,466,466,NZL,4,357,357,MJ Guptill,TAM Siriwardana,1,144,217,30.6,4758,45.01,Right-hand bat,14,20,1,312,22.5,39,lo,0,NZL,spin,no,30.416896235078056,8.189164370982553
+1,467,467,NZL,4,357,357,MJ Guptill,TAM Siriwardana,1,144,218,30.6,4758,45.01,Right-hand bat,15,20,1,312,22.5,39,lo,0,NZL,spin,no,30.416896235078056,8.189164370982553
+1,468,468,NZL,4,357,357,MJ Guptill,TAM Siriwardana,1,144,219,30.6,4758,45.01,Right-hand bat,16,20,1,312,22.5,39,lo,1,NZL,spin,no,30.416896235078056,8.189164370982553
+1,476,476,NZL,5,363,363,MJ Guptill,TAM Siriwardana,1,145,220,30.6,4758,45.01,Right-hand bat,18,22,1,312,22.5,39,lo,0,NZL,spin,no,30.416896235078056,8.189164370982553
+1,477,477,NZL,5,363,363,MJ Guptill,TAM Siriwardana,1,145,221,30.6,4758,45.01,Right-hand bat,19,22,1,312,22.5,39,lo,0,NZL,spin,no,30.416896235078056,8.189164370982553
+1,478,478,NZL,5,363,363,MJ Guptill,TAM Siriwardana,1,145,222,30.6,4758,45.01,Right-hand bat,20,22,1,312,22.5,39,lo,0,NZL,spin,no,30.416896235078056,8.189164370982553
+1,479,479,NZL,5,363,363,MJ Guptill,TAM Siriwardana,1,145,223,30.6,4758,45.01,Right-hand bat,21,22,1,312,22.5,39,lo,1,NZL,spin,no,30.416896235078056,8.189164370982553

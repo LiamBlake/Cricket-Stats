@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,319,319,RSA,7,230,230,K Rabada,JJ Bumrah,9,1,5,13.85,620,46.93,Left-hand bat,79,60,1,180.2,28,45.5,rf,0,RSA,seam,yes,18.05,0.95
+1,320,320,RSA,7,230,230,K Rabada,JJ Bumrah,9,1,6,13.85,620,46.93,Left-hand bat,80,60,1,180.2,28,45.5,rf,0,RSA,seam,yes,18.05,0.95
+1,321,321,RSA,7,230,230,K Rabada,JJ Bumrah,9,1,7,13.85,620,46.93,Left-hand bat,81,60,1,180.2,28,45.5,rf,1,RSA,seam,yes,18.05,0.95
+1,323,323,RSA,7,234,234,K Rabada,JJ Bumrah,9,2,8,13.85,620,46.93,Left-hand bat,83,64,1,180.2,28,45.5,rf,1,RSA,seam,yes,18.05,0.95
+1,331,331,RSA,7,238,238,K Rabada,JJ Bumrah,9,4,13,13.85,620,46.93,Left-hand bat,85,65,1,180.2,28,45.5,rf,0,RSA,seam,yes,18.05,0.95
+1,332,332,RSA,7,238,238,K Rabada,JJ Bumrah,9,4,14,13.85,620,46.93,Left-hand bat,86,65,1,180.2,28,45.5,rf,1,RSA,seam,yes,18.05,0.95
+1,334,334,RSA,7,240,240,K Rabada,JJ Bumrah,9,5,15,13.85,620,46.93,Left-hand bat,88,67,1,180.2,28,45.5,rf,0,RSA,seam,yes,18.05,0.95
+1,335,335,RSA,7,240,240,K Rabada,JJ Bumrah,9,5,16,13.85,620,46.93,Left-hand bat,89,67,1,180.2,28,45.5,rf,0,RSA,seam,yes,18.05,0.95
+1,336,336,RSA,7,240,240,K Rabada,JJ Bumrah,9,5,17,13.85,620,46.93,Left-hand bat,90,67,1,180.2,28,45.5,rf,1,RSA,seam,yes,18.05,0.95
+1,346,346,RSA,7,242,242,K Rabada,JJ Bumrah,9,6,24,13.85,620,46.93,Left-hand bat,94,69,1,180.2,28,45.5,rf,1,RSA,seam,yes,18.05,0.95
+1,409,409,RSA,8,279,279,K Rabada,JJ Bumrah,9,26,58,13.85,620,46.93,Left-hand bat,97,70,1,180.2,28,45.5,rf,0,RSA,seam,yes,18.05,0.95
+1,410,410,RSA,8,279,279,K Rabada,JJ Bumrah,9,26,59,13.85,620,46.93,Left-hand bat,98,70,1,180.2,28,45.5,rf,0,RSA,seam,yes,18.05,0.95
+1,411,411,RSA,8,279,279,K Rabada,JJ Bumrah,9,26,60,13.85,620,46.93,Left-hand bat,99,70,1,180.2,28,45.5,rf,0,RSA,seam,yes,18.05,0.95
+1,412,412,RSA,8,279,279,K Rabada,JJ Bumrah,9,26,61,13.85,620,46.93,Left-hand bat,100,70,1,180.2,28,45.5,rf,0,RSA,seam,yes,18.05,0.95
+1,413,413,RSA,8,279,279,K Rabada,JJ Bumrah,9,26,62,13.85,620,46.93,Left-hand bat,101,70,1,180.2,28,45.5,rf,1lb,RSA,seam,yes,18.05,0.95

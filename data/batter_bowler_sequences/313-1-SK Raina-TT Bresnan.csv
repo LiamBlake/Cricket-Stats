@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,158,158,IND,4,75,75,SK Raina,TT Bresnan,6,0,0,32.27,1286,55.2,Left-hand bat,44,13,2,1860.3,23.89,50.3,rmf,0,ENG,seam,no,32.318244170096015,11.311385459533607
+1,159,159,IND,4,75,75,SK Raina,TT Bresnan,6,0,1,32.27,1286,55.2,Left-hand bat,45,13,2,1860.3,23.89,50.3,rmf,0,ENG,seam,no,32.318244170096015,11.311385459533607
+1,160,160,IND,4,75,75,SK Raina,TT Bresnan,6,0,2,32.27,1286,55.2,Left-hand bat,46,13,2,1860.3,23.89,50.3,rmf,2,ENG,seam,no,32.318244170096015,11.311385459533607
+1,161,161,IND,4,77,77,SK Raina,TT Bresnan,6,2,3,32.27,1286,55.2,Left-hand bat,47,15,2,1860.3,23.89,50.3,rmf,0,ENG,seam,no,32.318244170096015,11.311385459533607

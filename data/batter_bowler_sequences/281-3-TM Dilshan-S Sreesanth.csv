@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1443,6,SRL,0,6,-407,TM Dilshan,S Sreesanth,2,5,5,42.96,5538,64.39,Right-hand bat,0,0,0,3066.5,30.26,54.8,rfm,2,IND,seam,no,10.133333333333333,27.866666666666667
+3,1444,7,SRL,0,8,-405,TM Dilshan,S Sreesanth,2,7,6,42.96,5538,64.39,Right-hand bat,1,2,0,3066.5,30.26,54.8,rfm,0,IND,seam,no,10.133333333333333,27.866666666666667
+3,1445,8,SRL,0,8,-405,TM Dilshan,S Sreesanth,2,7,7,42.96,5538,64.39,Right-hand bat,2,2,0,3066.5,30.26,54.8,rfm,0,IND,seam,no,10.133333333333333,27.866666666666667
+3,1446,9,SRL,0,8,-405,TM Dilshan,S Sreesanth,2,7,8,42.96,5538,64.39,Right-hand bat,3,2,0,3066.5,30.26,54.8,rfm,0,IND,seam,no,10.133333333333333,27.866666666666667
+3,1447,10,SRL,0,8,-405,TM Dilshan,S Sreesanth,2,7,9,42.96,5538,64.39,Right-hand bat,4,2,0,3066.5,30.26,54.8,rfm,4,IND,seam,no,10.133333333333333,27.866666666666667
+3,1448,11,SRL,0,12,-401,TM Dilshan,S Sreesanth,2,11,10,42.96,5538,64.39,Right-hand bat,5,6,0,3066.5,30.26,54.8,rfm,0,IND,seam,no,10.133333333333333,27.866666666666667
+3,1456,19,SRL,0,13,-400,TM Dilshan,S Sreesanth,2,11,11,42.96,5538,64.39,Right-hand bat,6,6,0,3066.5,30.26,54.8,rfm,0,IND,seam,no,10.133333333333333,27.866666666666667
+3,1457,20,SRL,0,13,-400,TM Dilshan,S Sreesanth,2,11,12,42.96,5538,64.39,Right-hand bat,7,6,0,3066.5,30.26,54.8,rfm,0,IND,seam,no,10.133333333333333,27.866666666666667
+3,1458,21,SRL,0,13,-400,TM Dilshan,S Sreesanth,2,11,13,42.96,5538,64.39,Right-hand bat,8,6,0,3066.5,30.26,54.8,rfm,W,IND,seam,no,10.133333333333333,27.866666666666667

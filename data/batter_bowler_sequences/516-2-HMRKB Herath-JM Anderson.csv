@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,724,174,SRL,6,81,-217,HMRKB Herath,JM Anderson,8,0,0,13.34,2157,48.86,Left-hand bat,43,15,3,25332.4,28.62,57.1,rfm,0,ENG,seam,yes,15.24,1.6933333333333331
+2,725,175,SRL,6,81,-217,HMRKB Herath,JM Anderson,8,0,1,13.34,2157,48.86,Left-hand bat,44,15,3,25332.4,28.62,57.1,rfm,0,ENG,seam,yes,15.24,1.6933333333333331
+2,726,176,SRL,6,81,-217,HMRKB Herath,JM Anderson,8,0,2,13.34,2157,48.86,Left-hand bat,45,15,3,25332.4,28.62,57.1,rfm,0,ENG,seam,yes,15.24,1.6933333333333331
+2,727,177,SRL,6,81,-217,HMRKB Herath,JM Anderson,8,0,3,13.34,2157,48.86,Left-hand bat,46,15,3,25332.4,28.62,57.1,rfm,0,ENG,seam,yes,15.24,1.6933333333333331
+2,728,178,SRL,6,81,-217,HMRKB Herath,JM Anderson,8,0,4,13.34,2157,48.86,Left-hand bat,47,15,3,25332.4,28.62,57.1,rfm,0,ENG,seam,yes,15.24,1.6933333333333331
+2,735,185,SRL,6,83,-215,HMRKB Herath,JM Anderson,8,1,7,13.34,2157,48.86,Left-hand bat,48,15,3,25332.4,28.62,57.1,rfm,0,ENG,seam,yes,15.24,1.6933333333333331
+2,736,186,SRL,6,83,-215,HMRKB Herath,JM Anderson,8,1,8,13.34,2157,48.86,Left-hand bat,49,15,3,25332.4,28.62,57.1,rfm,0,ENG,seam,yes,15.24,1.6933333333333331
+2,737,187,SRL,6,83,-215,HMRKB Herath,JM Anderson,8,1,9,13.34,2157,48.86,Left-hand bat,50,15,3,25332.4,28.62,57.1,rfm,0,ENG,seam,yes,15.24,1.6933333333333331
+2,738,188,SRL,6,83,-215,HMRKB Herath,JM Anderson,8,1,10,13.34,2157,48.86,Left-hand bat,51,15,3,25332.4,28.62,57.1,rfm,W,ENG,seam,yes,15.24,1.6933333333333331

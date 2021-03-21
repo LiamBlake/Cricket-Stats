@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,521,521,WIN,7,339,339,SJ Benn,DE Bollinger,9,1,4,13.43,396,54.29,Left-hand bat,93,42,2,516.5,35.42,74.4,lfm,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+1,522,522,WIN,7,339,339,SJ Benn,DE Bollinger,9,1,5,13.43,396,54.29,Left-hand bat,94,42,2,516.5,35.42,74.4,lfm,3,AUS,seam,yes,31.27591836734694,9.266938775510205
+1,524,524,WIN,7,345,345,SJ Benn,DE Bollinger,9,4,6,13.43,396,54.29,Left-hand bat,96,48,2,516.5,35.42,74.4,lfm,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+1,525,525,WIN,7,345,345,SJ Benn,DE Bollinger,9,4,7,13.43,396,54.29,Left-hand bat,97,48,2,516.5,35.42,74.4,lfm,1,AUS,seam,yes,31.27591836734694,9.266938775510205
+1,548,548,WIN,7,349,349,SJ Benn,DE Bollinger,9,5,15,13.43,396,54.29,Left-hand bat,108,51,2,516.5,35.42,74.4,lfm,1,AUS,seam,yes,31.27591836734694,9.266938775510205
+1,561,561,WIN,7,351,351,SJ Benn,DE Bollinger,9,6,22,13.43,396,54.29,Left-hand bat,115,53,2,516.5,35.42,74.4,lfm,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+1,562,562,WIN,7,351,351,SJ Benn,DE Bollinger,9,6,23,13.43,396,54.29,Left-hand bat,116,53,2,516.5,35.42,74.4,lfm,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+1,569,569,WIN,7,353,353,SJ Benn,DE Bollinger,9,7,27,13.43,396,54.29,Left-hand bat,117,53,2,516.5,35.42,74.4,lfm,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+1,570,570,WIN,7,353,353,SJ Benn,DE Bollinger,9,7,28,13.43,396,54.29,Left-hand bat,118,53,2,516.5,35.42,74.4,lfm,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+1,571,571,WIN,7,353,353,SJ Benn,DE Bollinger,9,7,29,13.43,396,54.29,Left-hand bat,119,53,2,516.5,35.42,74.4,lfm,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+1,572,572,WIN,7,353,353,SJ Benn,DE Bollinger,9,7,30,13.43,396,54.29,Left-hand bat,120,53,2,516.5,35.42,74.4,lfm,1,AUS,seam,yes,31.27591836734694,9.266938775510205
+1,584,584,WIN,7,361,361,SJ Benn,DE Bollinger,9,9,34,13.43,396,54.29,Left-hand bat,126,55,2,516.5,35.42,74.4,lfm,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+1,585,585,WIN,7,361,361,SJ Benn,DE Bollinger,9,9,35,13.43,396,54.29,Left-hand bat,127,55,2,516.5,35.42,74.4,lfm,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+1,586,586,WIN,7,361,361,SJ Benn,DE Bollinger,9,9,36,13.43,396,54.29,Left-hand bat,128,55,2,516.5,35.42,74.4,lfm,4lb,AUS,seam,yes,31.27591836734694,9.266938775510205

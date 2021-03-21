@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,838,542,RSA,5,269,89,AB de Villiers,AD Mathews,6,66,107,47.93,9198,54.19,Right-hand bat,42,7,0,840,62,120,rm,1,RSA,seam,yes,22.23,2.4699999999999998
+2,850,554,RSA,6,273,93,AB de Villiers,AD Mathews,6,69,110,47.93,9198,54.19,Right-hand bat,48,8,1,840,62,120,rm,0,RSA,seam,yes,22.23,2.4699999999999998
+2,851,555,RSA,6,273,93,AB de Villiers,AD Mathews,6,69,111,47.93,9198,54.19,Right-hand bat,49,8,1,840,62,120,rm,0,RSA,seam,yes,22.23,2.4699999999999998
+2,852,556,RSA,6,273,93,AB de Villiers,AD Mathews,6,69,112,47.93,9198,54.19,Right-hand bat,50,8,1,840,62,120,rm,4,RSA,seam,yes,22.23,2.4699999999999998
+2,853,557,RSA,6,277,97,AB de Villiers,AD Mathews,6,73,113,47.93,9198,54.19,Right-hand bat,51,12,1,840,62,120,rm,0,RSA,seam,yes,22.23,2.4699999999999998
+2,854,558,RSA,6,277,97,AB de Villiers,AD Mathews,6,73,114,47.93,9198,54.19,Right-hand bat,52,12,1,840,62,120,rm,0,RSA,seam,yes,22.23,2.4699999999999998
+2,855,559,RSA,6,277,97,AB de Villiers,AD Mathews,6,73,115,47.93,9198,54.19,Right-hand bat,53,12,1,840,62,120,rm,1,RSA,seam,yes,22.23,2.4699999999999998

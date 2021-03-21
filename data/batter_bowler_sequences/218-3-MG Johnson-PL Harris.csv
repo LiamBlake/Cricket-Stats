@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1495,241,AUS,7,146,392,MG Johnson,PL Harris,9,0,5,29.77,946,56.65,Left-hand bat,45,24,2,4404.5,33.66,73.4,lo,0,RSA,spin,yes,26.640000000000004,2.96
+3,1496,242,AUS,7,146,392,MG Johnson,PL Harris,9,0,6,29.77,946,56.65,Left-hand bat,46,24,2,4404.5,33.66,73.4,lo,0,RSA,spin,yes,26.640000000000004,2.96
+3,1497,243,AUS,7,146,392,MG Johnson,PL Harris,9,0,7,29.77,946,56.65,Left-hand bat,47,24,2,4404.5,33.66,73.4,lo,1,RSA,spin,yes,26.640000000000004,2.96

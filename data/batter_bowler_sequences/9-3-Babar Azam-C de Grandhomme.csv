@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,813,114,PAK,1,21,-46,Babar Azam,C de Grandhomme,3,0,0,31.5,230,54.78,Right-hand bat,36,12,1,174.5,9.14,25.5,rmf,0,NZL,seam,no,18.52734375,0.59765625
+3,814,115,PAK,1,21,-46,Babar Azam,C de Grandhomme,3,0,1,31.5,230,54.78,Right-hand bat,37,12,1,174.5,9.14,25.5,rmf,1,NZL,seam,no,18.52734375,0.59765625
+3,816,117,PAK,1,23,-44,Babar Azam,C de Grandhomme,3,1,2,31.5,230,54.78,Right-hand bat,39,13,1,174.5,9.14,25.5,rmf,1,NZL,seam,no,18.52734375,0.59765625
+3,921,222,PAK,1,51,-16,Babar Azam,C de Grandhomme,3,24,50,31.5,230,54.78,Right-hand bat,48,14,1,174.5,9.14,25.5,rmf,0,NZL,seam,no,18.52734375,0.59765625
+3,922,223,PAK,1,51,-16,Babar Azam,C de Grandhomme,3,24,51,31.5,230,54.78,Right-hand bat,49,14,1,174.5,9.14,25.5,rmf,0,NZL,seam,no,18.52734375,0.59765625
+3,923,224,PAK,1,51,-16,Babar Azam,C de Grandhomme,3,24,52,31.5,230,54.78,Right-hand bat,50,14,1,174.5,9.14,25.5,rmf,0,NZL,seam,no,18.52734375,0.59765625
+3,924,225,PAK,1,51,-16,Babar Azam,C de Grandhomme,3,24,53,31.5,230,54.78,Right-hand bat,51,14,1,174.5,9.14,25.5,rmf,0,NZL,seam,no,18.52734375,0.59765625
+3,925,226,PAK,1,51,-16,Babar Azam,C de Grandhomme,3,24,54,31.5,230,54.78,Right-hand bat,52,14,1,174.5,9.14,25.5,rmf,0,NZL,seam,no,18.52734375,0.59765625
+3,926,227,PAK,1,51,-16,Babar Azam,C de Grandhomme,3,24,55,31.5,230,54.78,Right-hand bat,53,14,1,174.5,9.14,25.5,rmf,2,NZL,seam,no,18.52734375,0.59765625
+3,933,234,PAK,1,53,-14,Babar Azam,C de Grandhomme,3,26,56,31.5,230,54.78,Right-hand bat,54,16,1,174.5,9.14,25.5,rmf,0,NZL,seam,no,18.52734375,0.59765625
+3,934,235,PAK,1,53,-14,Babar Azam,C de Grandhomme,3,26,57,31.5,230,54.78,Right-hand bat,55,16,1,174.5,9.14,25.5,rmf,0,NZL,seam,no,18.52734375,0.59765625
+3,935,236,PAK,1,53,-14,Babar Azam,C de Grandhomme,3,26,58,31.5,230,54.78,Right-hand bat,56,16,1,174.5,9.14,25.5,rmf,0,NZL,seam,no,18.52734375,0.59765625
+3,936,237,PAK,1,53,-14,Babar Azam,C de Grandhomme,3,26,59,31.5,230,54.78,Right-hand bat,57,16,1,174.5,9.14,25.5,rmf,2lb,NZL,seam,no,18.52734375,0.59765625
+3,937,238,PAK,1,55,-12,Babar Azam,C de Grandhomme,3,26,60,31.5,230,54.78,Right-hand bat,58,16,1,174.5,9.14,25.5,rmf,1,NZL,seam,no,18.52734375,0.59765625

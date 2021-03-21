@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1192,230,RSA,4,137,419,T Bavuma,HMRKB Herath,6,0,1,31.42,1483,44.5,Right-hand bat,25,20,1,21774,28.12,60.9,lo,0,RSA,spin,no,20.818115412710007,4.857560262965668
+3,1193,231,RSA,4,137,419,T Bavuma,HMRKB Herath,6,0,2,31.42,1483,44.5,Right-hand bat,26,20,1,21774,28.12,60.9,lo,0,RSA,spin,no,20.818115412710007,4.857560262965668
+3,1194,232,RSA,4,137,419,T Bavuma,HMRKB Herath,6,0,3,31.42,1483,44.5,Right-hand bat,27,20,1,21774,28.12,60.9,lo,W,RSA,spin,no,20.818115412710007,4.857560262965668

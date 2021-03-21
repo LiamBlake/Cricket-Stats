@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1618,15,WIN,1,7,-300,KA Edwards,TA Boult,3,0,0,34.21,1978,48.43,Right-hand bat,9,6,1,5070.4,27.45,55.7,lfm,0,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1619,16,WIN,1,7,-300,KA Edwards,TA Boult,3,0,1,34.21,1978,48.43,Right-hand bat,10,6,1,5070.4,27.45,55.7,lfm,0,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1620,17,WIN,1,7,-300,KA Edwards,TA Boult,3,0,2,34.21,1978,48.43,Right-hand bat,11,6,1,5070.4,27.45,55.7,lfm,0,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1630,27,WIN,1,13,-294,KA Edwards,TA Boult,3,0,3,34.21,1978,48.43,Right-hand bat,15,9,1,5070.4,27.45,55.7,lfm,0,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1631,28,WIN,1,13,-294,KA Edwards,TA Boult,3,0,4,34.21,1978,48.43,Right-hand bat,16,9,1,5070.4,27.45,55.7,lfm,0,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1632,29,WIN,1,13,-294,KA Edwards,TA Boult,3,0,5,34.21,1978,48.43,Right-hand bat,17,9,1,5070.4,27.45,55.7,lfm,4,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1639,36,WIN,1,17,-290,KA Edwards,TA Boult,3,4,6,34.21,1978,48.43,Right-hand bat,18,13,1,5070.4,27.45,55.7,lfm,0,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1640,37,WIN,1,17,-290,KA Edwards,TA Boult,3,4,7,34.21,1978,48.43,Right-hand bat,19,13,1,5070.4,27.45,55.7,lfm,2,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1641,38,WIN,1,19,-288,KA Edwards,TA Boult,3,6,8,34.21,1978,48.43,Right-hand bat,20,15,1,5070.4,27.45,55.7,lfm,4,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1642,39,WIN,1,23,-284,KA Edwards,TA Boult,3,10,9,34.21,1978,48.43,Right-hand bat,21,19,1,5070.4,27.45,55.7,lfm,0,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1643,40,WIN,1,23,-284,KA Edwards,TA Boult,3,10,10,34.21,1978,48.43,Right-hand bat,22,19,1,5070.4,27.45,55.7,lfm,W,WIN,seam,no,23.56829802775749,8.728999269539809

@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,765,765,ENG,6,405,405,MJ Prior,JE Taylor,8,0,0,40.42,1356,56.63,Right-hand bat,112,53,3,4398.1,33.16,56.3,rf,0,WIN,seam,no,22.253086419753085,17.80246913580247
+1,766,766,ENG,6,405,405,MJ Prior,JE Taylor,8,0,1,40.42,1356,56.63,Right-hand bat,113,53,3,4398.1,33.16,56.3,rf,0,WIN,seam,no,22.253086419753085,17.80246913580247
+1,767,767,ENG,6,405,405,MJ Prior,JE Taylor,8,0,2,40.42,1356,56.63,Right-hand bat,114,53,3,4398.1,33.16,56.3,rf,0,WIN,seam,no,22.253086419753085,17.80246913580247
+1,774,774,ENG,6,407,407,MJ Prior,JE Taylor,8,1,7,40.42,1356,56.63,Right-hand bat,115,53,3,4398.1,33.16,56.3,rf,0,WIN,seam,no,22.253086419753085,17.80246913580247
+1,775,775,ENG,6,407,407,MJ Prior,JE Taylor,8,1,8,40.42,1356,56.63,Right-hand bat,116,53,3,4398.1,33.16,56.3,rf,0,WIN,seam,no,22.253086419753085,17.80246913580247
+1,776,776,ENG,6,407,407,MJ Prior,JE Taylor,8,1,9,40.42,1356,56.63,Right-hand bat,117,53,3,4398.1,33.16,56.3,rf,0,WIN,seam,no,22.253086419753085,17.80246913580247
+1,777,777,ENG,6,407,407,MJ Prior,JE Taylor,8,1,10,40.42,1356,56.63,Right-hand bat,118,53,3,4398.1,33.16,56.3,rf,0,WIN,seam,no,22.253086419753085,17.80246913580247
+1,778,778,ENG,6,407,407,MJ Prior,JE Taylor,8,1,11,40.42,1356,56.63,Right-hand bat,119,53,3,4398.1,33.16,56.3,rf,0,WIN,seam,no,22.253086419753085,17.80246913580247
+1,779,779,ENG,6,407,407,MJ Prior,JE Taylor,8,1,12,40.42,1356,56.63,Right-hand bat,120,53,3,4398.1,33.16,56.3,rf,0,WIN,seam,no,22.253086419753085,17.80246913580247
+1,813,813,ENG,6,419,419,MJ Prior,JE Taylor,8,8,23,40.42,1356,56.63,Right-hand bat,136,56,3,4398.1,33.16,56.3,rf,0,WIN,seam,no,22.253086419753085,17.80246913580247
+1,814,814,ENG,6,419,419,MJ Prior,JE Taylor,8,8,24,40.42,1356,56.63,Right-hand bat,137,56,3,4398.1,33.16,56.3,rf,0,WIN,seam,no,22.253086419753085,17.80246913580247
+1,815,815,ENG,6,419,419,MJ Prior,JE Taylor,8,8,25,40.42,1356,56.63,Right-hand bat,138,56,3,4398.1,33.16,56.3,rf,1,WIN,seam,no,22.253086419753085,17.80246913580247

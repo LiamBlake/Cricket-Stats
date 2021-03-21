@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1692,533,IND,5,277,333,RA Jadeja,MJ Santner,7,0,0,24.45,905,64.86,Left-hand bat,167,62,2,1356.3,30.55,67.9,lo,1,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1700,541,IND,5,281,337,RA Jadeja,MJ Santner,7,2,6,24.45,905,64.86,Left-hand bat,169,64,2,1356.3,30.55,67.9,lo,1,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1702,543,IND,5,283,339,RA Jadeja,MJ Santner,7,3,7,24.45,905,64.86,Left-hand bat,171,66,2,1356.3,30.55,67.9,lo,0,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1703,544,IND,5,283,339,RA Jadeja,MJ Santner,7,3,8,24.45,905,64.86,Left-hand bat,172,66,2,1356.3,30.55,67.9,lo,0,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1704,545,IND,5,283,339,RA Jadeja,MJ Santner,7,3,9,24.45,905,64.86,Left-hand bat,173,66,2,1356.3,30.55,67.9,lo,0,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1801,642,IND,5,376,432,RA Jadeja,MJ Santner,7,49,56,24.45,905,64.86,Left-hand bat,192,78,2,1356.3,30.55,67.9,lo,0,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1802,643,IND,5,376,432,RA Jadeja,MJ Santner,7,49,57,24.45,905,64.86,Left-hand bat,193,78,2,1356.3,30.55,67.9,lo,1,IND,spin,yes,7.791020408163266,26.294693877551023

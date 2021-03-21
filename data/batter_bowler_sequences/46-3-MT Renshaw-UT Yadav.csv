@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1249,8,AUS,0,9,-23,MT Renshaw,UT Yadav,1,4,6,42.07,1262,43.34,Left-hand bat,2,5,0,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1250,9,AUS,0,9,-23,MT Renshaw,UT Yadav,1,4,7,42.07,1262,43.34,Left-hand bat,3,5,0,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1251,10,AUS,0,9,-23,MT Renshaw,UT Yadav,1,4,8,42.07,1262,43.34,Left-hand bat,4,5,0,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1252,11,AUS,0,9,-23,MT Renshaw,UT Yadav,1,4,9,42.07,1262,43.34,Left-hand bat,5,5,0,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1262,21,AUS,1,15,-17,MT Renshaw,UT Yadav,1,4,14,42.07,1262,43.34,Left-hand bat,9,10,1,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1263,22,AUS,1,15,-17,MT Renshaw,UT Yadav,1,4,15,42.07,1262,43.34,Left-hand bat,10,10,1,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1264,23,AUS,1,15,-17,MT Renshaw,UT Yadav,1,4,16,42.07,1262,43.34,Left-hand bat,11,10,1,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1284,43,AUS,1,19,-13,MT Renshaw,UT Yadav,1,4,26,42.07,1262,43.34,Left-hand bat,19,13,1,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1285,44,AUS,1,19,-13,MT Renshaw,UT Yadav,1,4,27,42.07,1262,43.34,Left-hand bat,20,13,1,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1286,45,AUS,1,19,-13,MT Renshaw,UT Yadav,1,4,28,42.07,1262,43.34,Left-hand bat,21,13,1,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1287,46,AUS,1,19,-13,MT Renshaw,UT Yadav,1,4,29,42.07,1262,43.34,Left-hand bat,22,13,1,5250.5,35.94,59.7,rf,4,IND,seam,yes,11.1083984375,16.2353515625
+3,1288,47,AUS,1,23,-9,MT Renshaw,UT Yadav,1,8,30,42.07,1262,43.34,Left-hand bat,23,17,1,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1295,54,AUS,2,31,-1,MT Renshaw,UT Yadav,1,8,31,42.07,1262,43.34,Left-hand bat,24,17,1,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1296,55,AUS,2,31,-1,MT Renshaw,UT Yadav,1,8,32,42.07,1262,43.34,Left-hand bat,25,17,1,5250.5,35.94,59.7,rf,W,IND,seam,yes,11.1083984375,16.2353515625

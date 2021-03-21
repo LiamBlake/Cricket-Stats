@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1211,448,ENG,5,201,-296,BA Stokes,PJ Cummins,6,7,19,35.41,5992,58.51,Left-hand bat,105,38,1,5382.4,21.08,45.6,rf,0,ENG,seam,no,27.583910034602077,7.151384083044982
+2,1212,449,ENG,5,201,-296,BA Stokes,PJ Cummins,6,7,20,35.41,5992,58.51,Left-hand bat,106,38,1,5382.4,21.08,45.6,rf,0,ENG,seam,no,27.583910034602077,7.151384083044982
+2,1213,450,ENG,5,201,-296,BA Stokes,PJ Cummins,6,7,21,35.41,5992,58.51,Left-hand bat,107,38,1,5382.4,21.08,45.6,rf,4,ENG,seam,no,27.583910034602077,7.151384083044982
+2,1214,451,ENG,5,205,-292,BA Stokes,PJ Cummins,6,11,22,35.41,5992,58.51,Left-hand bat,108,42,1,5382.4,21.08,45.6,rf,0,ENG,seam,no,27.583910034602077,7.151384083044982
+2,1233,470,ENG,5,207,-290,BA Stokes,PJ Cummins,6,12,28,35.41,5992,58.51,Left-hand bat,115,42,1,5382.4,21.08,45.6,rf,0,ENG,seam,no,27.583910034602077,7.151384083044982
+2,1234,471,ENG,5,207,-290,BA Stokes,PJ Cummins,6,12,29,35.41,5992,58.51,Left-hand bat,116,42,1,5382.4,21.08,45.6,rf,0,ENG,seam,no,27.583910034602077,7.151384083044982
+2,1235,472,ENG,5,207,-290,BA Stokes,PJ Cummins,6,12,30,35.41,5992,58.51,Left-hand bat,117,42,1,5382.4,21.08,45.6,rf,1,ENG,seam,no,27.583910034602077,7.151384083044982
+2,1238,475,ENG,5,211,-286,BA Stokes,PJ Cummins,6,13,31,35.41,5992,58.51,Left-hand bat,120,46,1,5382.4,21.08,45.6,rf,0,ENG,seam,no,27.583910034602077,7.151384083044982

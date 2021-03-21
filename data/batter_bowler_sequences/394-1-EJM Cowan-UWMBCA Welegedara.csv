@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,6,6,AUS,0,2,2,EJM Cowan,UWMBCA Welegedara,2,1,4,34,1496,43.18,Left-hand bat,0,0,0,3546.3,39.77,65.7,lfm,3,AUS,seam,yes,29.071836734693875,8.613877551020408
+1,10,10,AUS,0,7,7,EJM Cowan,UWMBCA Welegedara,2,4,5,34,1496,43.18,Left-hand bat,4,5,0,3546.3,39.77,65.7,lfm,0,AUS,seam,yes,29.071836734693875,8.613877551020408
+1,11,11,AUS,0,7,7,EJM Cowan,UWMBCA Welegedara,2,4,6,34,1496,43.18,Left-hand bat,5,5,0,3546.3,39.77,65.7,lfm,0,AUS,seam,yes,29.071836734693875,8.613877551020408
+1,12,12,AUS,0,7,7,EJM Cowan,UWMBCA Welegedara,2,4,7,34,1496,43.18,Left-hand bat,6,5,0,3546.3,39.77,65.7,lfm,0,AUS,seam,yes,29.071836734693875,8.613877551020408
+1,23,23,AUS,0,17,17,EJM Cowan,UWMBCA Welegedara,2,4,12,34,1496,43.18,Left-hand bat,11,12,0,3546.3,39.77,65.7,lfm,0,AUS,seam,yes,29.071836734693875,8.613877551020408
+1,24,24,AUS,0,17,17,EJM Cowan,UWMBCA Welegedara,2,4,13,34,1496,43.18,Left-hand bat,12,12,0,3546.3,39.77,65.7,lfm,0,AUS,seam,yes,29.071836734693875,8.613877551020408
+1,32,32,AUS,0,18,18,EJM Cowan,UWMBCA Welegedara,2,4,14,34,1496,43.18,Left-hand bat,13,12,0,3546.3,39.77,65.7,lfm,0,AUS,seam,yes,29.071836734693875,8.613877551020408
+1,33,33,AUS,0,18,18,EJM Cowan,UWMBCA Welegedara,2,4,15,34,1496,43.18,Left-hand bat,14,12,0,3546.3,39.77,65.7,lfm,0,AUS,seam,yes,29.071836734693875,8.613877551020408
+1,34,34,AUS,0,18,18,EJM Cowan,UWMBCA Welegedara,2,4,16,34,1496,43.18,Left-hand bat,15,12,0,3546.3,39.77,65.7,lfm,W,AUS,seam,yes,29.071836734693875,8.613877551020408

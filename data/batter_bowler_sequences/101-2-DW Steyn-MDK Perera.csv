@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,782,306,RSA,8,120,-167,DW Steyn,MDK Perera,10,5,5,13.97,2716,43.74,Right-hand bat,126,43,4,7446.3,33.38,62.5,rob,0,SRL,spin,no,5.914999999999999,10.985
+2,783,307,RSA,8,120,-167,DW Steyn,MDK Perera,10,5,6,13.97,2716,43.74,Right-hand bat,127,43,4,7446.3,33.38,62.5,rob,0,SRL,spin,no,5.914999999999999,10.985
+2,784,308,RSA,8,120,-167,DW Steyn,MDK Perera,10,5,7,13.97,2716,43.74,Right-hand bat,128,43,4,7446.3,33.38,62.5,rob,0,SRL,spin,no,5.914999999999999,10.985
+2,785,309,RSA,8,120,-167,DW Steyn,MDK Perera,10,5,8,13.97,2716,43.74,Right-hand bat,129,43,4,7446.3,33.38,62.5,rob,0,SRL,spin,no,5.914999999999999,10.985
+2,786,310,RSA,8,120,-167,DW Steyn,MDK Perera,10,5,9,13.97,2716,43.74,Right-hand bat,130,43,4,7446.3,33.38,62.5,rob,0,SRL,spin,no,5.914999999999999,10.985
+2,787,311,RSA,8,120,-167,DW Steyn,MDK Perera,10,5,10,13.97,2716,43.74,Right-hand bat,131,43,4,7446.3,33.38,62.5,rob,0,SRL,spin,no,5.914999999999999,10.985
+2,795,319,RSA,9,123,-164,DW Steyn,MDK Perera,10,5,11,13.97,2716,43.74,Right-hand bat,132,43,4,7446.3,33.38,62.5,rob,0,SRL,spin,no,5.914999999999999,10.985
+2,796,320,RSA,9,123,-164,DW Steyn,MDK Perera,10,5,12,13.97,2716,43.74,Right-hand bat,133,43,4,7446.3,33.38,62.5,rob,2,SRL,spin,no,5.914999999999999,10.985
+2,797,321,RSA,9,125,-162,DW Steyn,MDK Perera,10,7,13,13.97,2716,43.74,Right-hand bat,134,45,4,7446.3,33.38,62.5,rob,1,SRL,spin,no,5.914999999999999,10.985

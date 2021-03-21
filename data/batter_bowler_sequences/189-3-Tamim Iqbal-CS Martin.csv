@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,834,0,BAN,0,0,-220,Tamim Iqbal,CS Martin,1,0,0,68.5,216,63.42,Left-hand bat,0,0,0,6768,33.55,57.3,rfm,1,NZL,seam,no,19.65452653485952,5.732570239334027
+3,870,36,BAN,0,26,-194,Tamim Iqbal,CS Martin,1,9,7,68.5,216,63.42,Left-hand bat,18,12,0,6768,33.55,57.3,rfm,1,NZL,seam,no,19.65452653485952,5.732570239334027
+3,1028,194,BAN,0,133,-87,Tamim Iqbal,CS Martin,1,69,86,68.5,216,63.42,Left-hand bat,37,34,0,6768,33.55,57.3,rfm,0,NZL,seam,no,19.65452653485952,5.732570239334027
+3,1029,195,BAN,0,133,-87,Tamim Iqbal,CS Martin,1,69,87,68.5,216,63.42,Left-hand bat,38,34,0,6768,33.55,57.3,rfm,0,NZL,seam,no,19.65452653485952,5.732570239334027
+3,1030,196,BAN,0,133,-87,Tamim Iqbal,CS Martin,1,69,88,68.5,216,63.42,Left-hand bat,39,34,0,6768,33.55,57.3,rfm,1,NZL,seam,no,19.65452653485952,5.732570239334027
+3,1039,205,BAN,0,135,-85,Tamim Iqbal,CS Martin,1,71,92,68.5,216,63.42,Left-hand bat,42,35,0,6768,33.55,57.3,rfm,0,NZL,seam,no,19.65452653485952,5.732570239334027
+3,1040,206,BAN,0,135,-85,Tamim Iqbal,CS Martin,1,71,93,68.5,216,63.42,Left-hand bat,43,35,0,6768,33.55,57.3,rfm,0,NZL,seam,no,19.65452653485952,5.732570239334027
+3,1041,207,BAN,0,135,-85,Tamim Iqbal,CS Martin,1,71,94,68.5,216,63.42,Left-hand bat,44,35,0,6768,33.55,57.3,rfm,1nb,NZL,seam,no,19.65452653485952,5.732570239334027
+3,1083,249,BAN,0,152,-68,Tamim Iqbal,CS Martin,1,76,116,68.5,216,63.42,Left-hand bat,62,47,0,6768,33.55,57.3,rfm,0,NZL,seam,no,19.65452653485952,5.732570239334027
+3,1084,250,BAN,0,152,-68,Tamim Iqbal,CS Martin,1,76,117,68.5,216,63.42,Left-hand bat,63,47,0,6768,33.55,57.3,rfm,0,NZL,seam,no,19.65452653485952,5.732570239334027
+3,1085,251,BAN,0,152,-68,Tamim Iqbal,CS Martin,1,76,118,68.5,216,63.42,Left-hand bat,64,47,0,6768,33.55,57.3,rfm,0,NZL,seam,no,19.65452653485952,5.732570239334027
+3,1086,252,BAN,0,152,-68,Tamim Iqbal,CS Martin,1,76,119,68.5,216,63.42,Left-hand bat,65,47,0,6768,33.55,57.3,rfm,0,NZL,seam,no,19.65452653485952,5.732570239334027
+3,1087,253,BAN,0,152,-68,Tamim Iqbal,CS Martin,1,76,120,68.5,216,63.42,Left-hand bat,66,47,0,6768,33.55,57.3,rfm,4,NZL,seam,no,19.65452653485952,5.732570239334027
+3,1088,254,BAN,0,156,-64,Tamim Iqbal,CS Martin,1,80,121,68.5,216,63.42,Left-hand bat,67,51,0,6768,33.55,57.3,rfm,0,NZL,seam,no,19.65452653485952,5.732570239334027

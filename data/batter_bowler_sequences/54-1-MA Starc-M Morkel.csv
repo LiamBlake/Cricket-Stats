@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,560,560,AUS,7,252,252,MA Starc,M Morkel,9,0,1,23.06,1655,69.66,Left-hand bat,110,54,0,16176,28.2,54.4,rf,4,AUS,seam,yes,16.8675,9.0825
+1,561,561,AUS,7,256,256,MA Starc,M Morkel,9,4,2,23.06,1655,69.66,Left-hand bat,111,58,0,16176,28.2,54.4,rf,0,AUS,seam,yes,16.8675,9.0825
+1,562,562,AUS,7,256,256,MA Starc,M Morkel,9,4,3,23.06,1655,69.66,Left-hand bat,112,58,0,16176,28.2,54.4,rf,4,AUS,seam,yes,16.8675,9.0825
+1,563,563,AUS,7,260,260,MA Starc,M Morkel,9,8,4,23.06,1655,69.66,Left-hand bat,113,62,0,16176,28.2,54.4,rf,4,AUS,seam,yes,16.8675,9.0825
+1,573,573,AUS,7,276,276,MA Starc,M Morkel,9,17,9,23.06,1655,69.66,Left-hand bat,117,71,0,16176,28.2,54.4,rf,1,AUS,seam,yes,16.8675,9.0825
+1,594,594,AUS,7,296,296,MA Starc,M Morkel,9,34,19,23.06,1655,69.66,Left-hand bat,126,73,0,16176,28.2,54.4,rf,1,AUS,seam,yes,16.8675,9.0825

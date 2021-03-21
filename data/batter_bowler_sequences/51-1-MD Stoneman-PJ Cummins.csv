@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,42,42,ENG,0,18,18,MD Stoneman,PJ Cummins,2,14,13,27.07,770,45.71,Left-hand bat,6,0,0,2286.1,25,51.9,rf,0,ENG,seam,yes,32.23593964334705,11.282578875171467
+1,43,43,ENG,0,18,18,MD Stoneman,PJ Cummins,2,14,14,27.07,770,45.71,Left-hand bat,7,0,0,2286.1,25,51.9,rf,0,ENG,seam,yes,32.23593964334705,11.282578875171467
+1,44,44,ENG,0,18,18,MD Stoneman,PJ Cummins,2,14,15,27.07,770,45.71,Left-hand bat,8,0,0,2286.1,25,51.9,rf,0,ENG,seam,yes,32.23593964334705,11.282578875171467
+1,45,45,ENG,0,18,18,MD Stoneman,PJ Cummins,2,14,16,27.07,770,45.71,Left-hand bat,9,0,0,2286.1,25,51.9,rf,2,ENG,seam,yes,32.23593964334705,11.282578875171467
+1,46,46,ENG,0,20,20,MD Stoneman,PJ Cummins,2,16,17,27.07,770,45.71,Left-hand bat,10,2,0,2286.1,25,51.9,rf,4,ENG,seam,yes,32.23593964334705,11.282578875171467
+1,47,47,ENG,0,24,24,MD Stoneman,PJ Cummins,2,20,18,27.07,770,45.71,Left-hand bat,11,6,0,2286.1,25,51.9,rf,0,ENG,seam,yes,32.23593964334705,11.282578875171467
+1,54,54,ENG,0,24,24,MD Stoneman,PJ Cummins,2,20,19,27.07,770,45.71,Left-hand bat,12,6,0,2286.1,25,51.9,rf,0,ENG,seam,yes,32.23593964334705,11.282578875171467
+1,55,55,ENG,0,24,24,MD Stoneman,PJ Cummins,2,20,20,27.07,770,45.71,Left-hand bat,13,6,0,2286.1,25,51.9,rf,4,ENG,seam,yes,32.23593964334705,11.282578875171467
+1,56,56,ENG,0,28,28,MD Stoneman,PJ Cummins,2,24,21,27.07,770,45.71,Left-hand bat,14,10,0,2286.1,25,51.9,rf,0,ENG,seam,yes,32.23593964334705,11.282578875171467
+1,57,57,ENG,0,28,28,MD Stoneman,PJ Cummins,2,24,22,27.07,770,45.71,Left-hand bat,15,10,0,2286.1,25,51.9,rf,0,ENG,seam,yes,32.23593964334705,11.282578875171467
+1,58,58,ENG,0,28,28,MD Stoneman,PJ Cummins,2,24,23,27.07,770,45.71,Left-hand bat,16,10,0,2286.1,25,51.9,rf,W,ENG,seam,yes,32.23593964334705,11.282578875171467

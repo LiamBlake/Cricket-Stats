@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,860,236,ENG,2,102,-283,KP Pietersen,RJ Harris,4,3,21,47.64,12985,62.01,Right-hand bat,54,17,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+2,861,237,ENG,2,102,-283,KP Pietersen,RJ Harris,4,3,22,47.64,12985,62.01,Right-hand bat,55,17,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+2,862,238,ENG,2,102,-283,KP Pietersen,RJ Harris,4,3,23,47.64,12985,62.01,Right-hand bat,56,17,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+2,863,239,ENG,2,102,-283,KP Pietersen,RJ Harris,4,3,24,47.64,12985,62.01,Right-hand bat,57,17,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+2,864,240,ENG,2,102,-283,KP Pietersen,RJ Harris,4,3,25,47.64,12985,62.01,Right-hand bat,58,17,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+2,865,241,ENG,2,102,-283,KP Pietersen,RJ Harris,4,3,26,47.64,12985,62.01,Right-hand bat,59,17,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+2,872,248,ENG,2,108,-277,KP Pietersen,RJ Harris,4,3,27,47.64,12985,62.01,Right-hand bat,60,17,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+2,873,249,ENG,2,108,-277,KP Pietersen,RJ Harris,4,3,28,47.64,12985,62.01,Right-hand bat,61,17,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+2,874,250,ENG,2,108,-277,KP Pietersen,RJ Harris,4,3,29,47.64,12985,62.01,Right-hand bat,62,17,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+2,875,251,ENG,2,108,-277,KP Pietersen,RJ Harris,4,3,30,47.64,12985,62.01,Right-hand bat,63,17,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+2,876,252,ENG,2,108,-277,KP Pietersen,RJ Harris,4,3,31,47.64,12985,62.01,Right-hand bat,64,17,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+2,877,253,ENG,2,108,-277,KP Pietersen,RJ Harris,4,3,32,47.64,12985,62.01,Right-hand bat,65,17,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877

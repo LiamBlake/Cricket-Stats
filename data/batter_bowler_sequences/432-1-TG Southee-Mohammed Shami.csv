@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,628,628,NZL,6,403,403,TG Southee,Mohammed Shami,8,5,5,18.88,946,85.83,Right-hand bat,132,66,0,984.1,27.47,46.9,rf,0,NZL,seam,no,27.93,1.47
+1,629,629,NZL,6,403,403,TG Southee,Mohammed Shami,8,5,6,18.88,946,85.83,Right-hand bat,133,66,0,984.1,27.47,46.9,rf,0,NZL,seam,no,27.93,1.47
+1,630,630,NZL,6,403,403,TG Southee,Mohammed Shami,8,5,7,18.88,946,85.83,Right-hand bat,134,66,0,984.1,27.47,46.9,rf,0,NZL,seam,no,27.93,1.47
+1,631,631,NZL,6,403,403,TG Southee,Mohammed Shami,8,5,8,18.88,946,85.83,Right-hand bat,135,66,0,984.1,27.47,46.9,rf,4,NZL,seam,no,27.93,1.47
+1,632,632,NZL,6,407,407,TG Southee,Mohammed Shami,8,9,9,18.88,946,85.83,Right-hand bat,136,70,0,984.1,27.47,46.9,rf,0,NZL,seam,no,27.93,1.47
+1,633,633,NZL,6,407,407,TG Southee,Mohammed Shami,8,9,10,18.88,946,85.83,Right-hand bat,137,70,0,984.1,27.47,46.9,rf,0,NZL,seam,no,27.93,1.47
+1,645,645,NZL,6,417,417,TG Southee,Mohammed Shami,8,13,12,18.88,946,85.83,Right-hand bat,143,75,0,984.1,27.47,46.9,rf,1,NZL,seam,no,27.93,1.47
+1,655,655,NZL,6,434,434,TG Southee,Mohammed Shami,8,28,20,18.88,946,85.83,Right-hand bat,146,77,0,984.1,27.47,46.9,rf,W,NZL,seam,no,27.93,1.47

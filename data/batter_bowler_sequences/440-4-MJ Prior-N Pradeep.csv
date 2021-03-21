@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2287,347,ENG,6,124,-225,MJ Prior,N Pradeep,8,0,0,41,6588,61.61,Right-hand bat,36,20,1,1464.4,72.78,104.8,rfm,0,ENG,seam,yes,28.220000000000006,4.98
+4,2306,366,ENG,6,132,-217,MJ Prior,N Pradeep,8,1,8,41,6588,61.61,Right-hand bat,43,20,1,1464.4,72.78,104.8,rfm,2,ENG,seam,yes,28.220000000000006,4.98
+4,2307,367,ENG,6,134,-215,MJ Prior,N Pradeep,8,3,9,41,6588,61.61,Right-hand bat,44,22,1,1464.4,72.78,104.8,rfm,1nb,ENG,seam,yes,28.220000000000006,4.98
+4,2308,368,ENG,6,135,-214,MJ Prior,N Pradeep,8,3,10,41,6588,61.61,Right-hand bat,45,23,1,1464.4,72.78,104.8,rfm,1nb,ENG,seam,yes,28.220000000000006,4.98
+4,2314,374,ENG,6,145,-204,MJ Prior,N Pradeep,8,6,11,41,6588,61.61,Right-hand bat,51,30,1,1464.4,72.78,104.8,rfm,0,ENG,seam,yes,28.220000000000006,4.98

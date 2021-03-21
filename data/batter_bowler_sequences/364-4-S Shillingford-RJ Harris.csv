@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2275,536,WIN,9,266,-103,S Shillingford,RJ Harris,11,18,16,12.5,227,44.05,Right-hand bat,56,24,0,2310.2,23.63,49.1,rf,1lb,WIN,seam,no,9.61625,17.85875
+4,2286,547,WIN,9,272,-97,S Shillingford,RJ Harris,11,18,22,12.5,227,44.05,Right-hand bat,61,28,0,2310.2,23.63,49.1,rf,4,WIN,seam,no,9.61625,17.85875
+4,2287,548,WIN,9,276,-93,S Shillingford,RJ Harris,11,22,23,12.5,227,44.05,Right-hand bat,62,32,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2288,549,WIN,9,276,-93,S Shillingford,RJ Harris,11,22,24,12.5,227,44.05,Right-hand bat,63,32,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2289,550,WIN,9,276,-93,S Shillingford,RJ Harris,11,22,25,12.5,227,44.05,Right-hand bat,64,32,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2290,551,WIN,9,276,-93,S Shillingford,RJ Harris,11,22,26,12.5,227,44.05,Right-hand bat,65,32,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2299,560,WIN,9,284,-85,S Shillingford,RJ Harris,11,22,30,12.5,227,44.05,Right-hand bat,68,33,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2300,561,WIN,9,284,-85,S Shillingford,RJ Harris,11,22,31,12.5,227,44.05,Right-hand bat,69,33,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2301,562,WIN,9,284,-85,S Shillingford,RJ Harris,11,22,32,12.5,227,44.05,Right-hand bat,70,33,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2302,563,WIN,9,284,-85,S Shillingford,RJ Harris,11,22,33,12.5,227,44.05,Right-hand bat,71,33,0,2310.2,23.63,49.1,rf,1,WIN,seam,no,9.61625,17.85875

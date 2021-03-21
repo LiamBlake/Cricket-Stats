@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1396,103,AUS,2,66,274,MJ Clarke,DJ Bravo,3,20,38,49.5,7251,53.24,Right-hand bat,6,3,0,5700.4,38.14,70.4,rm,1,AUS,seam,yes,26.69101533966399,9.532505478451425
+3,1408,115,AUS,2,72,280,MJ Clarke,DJ Bravo,3,22,45,49.5,7251,53.24,Right-hand bat,12,8,0,5700.4,38.14,70.4,rm,0,AUS,seam,yes,26.69101533966399,9.532505478451425
+3,1409,116,AUS,2,72,280,MJ Clarke,DJ Bravo,3,22,46,49.5,7251,53.24,Right-hand bat,13,8,0,5700.4,38.14,70.4,rm,0,AUS,seam,yes,26.69101533966399,9.532505478451425
+3,1410,117,AUS,2,72,280,MJ Clarke,DJ Bravo,3,22,47,49.5,7251,53.24,Right-hand bat,14,8,0,5700.4,38.14,70.4,rm,0,AUS,seam,yes,26.69101533966399,9.532505478451425
+3,1411,118,AUS,2,72,280,MJ Clarke,DJ Bravo,3,22,48,49.5,7251,53.24,Right-hand bat,15,8,0,5700.4,38.14,70.4,rm,0,AUS,seam,yes,26.69101533966399,9.532505478451425
+3,1412,119,AUS,2,72,280,MJ Clarke,DJ Bravo,3,22,49,49.5,7251,53.24,Right-hand bat,16,8,0,5700.4,38.14,70.4,rm,0,AUS,seam,yes,26.69101533966399,9.532505478451425
+3,1413,120,AUS,2,72,280,MJ Clarke,DJ Bravo,3,22,50,49.5,7251,53.24,Right-hand bat,17,8,0,5700.4,38.14,70.4,rm,0,AUS,seam,yes,26.69101533966399,9.532505478451425
+3,1420,127,AUS,2,72,280,MJ Clarke,DJ Bravo,3,22,51,49.5,7251,53.24,Right-hand bat,18,8,0,5700.4,38.14,70.4,rm,0,AUS,seam,yes,26.69101533966399,9.532505478451425
+3,1421,128,AUS,2,72,280,MJ Clarke,DJ Bravo,3,22,52,49.5,7251,53.24,Right-hand bat,19,8,0,5700.4,38.14,70.4,rm,0,AUS,seam,yes,26.69101533966399,9.532505478451425
+3,1422,129,AUS,2,72,280,MJ Clarke,DJ Bravo,3,22,53,49.5,7251,53.24,Right-hand bat,20,8,0,5700.4,38.14,70.4,rm,3,AUS,seam,yes,26.69101533966399,9.532505478451425
+3,1438,145,AUS,2,81,289,MJ Clarke,DJ Bravo,3,25,60,49.5,7251,53.24,Right-hand bat,30,17,0,5700.4,38.14,70.4,rm,W,AUS,seam,yes,26.69101533966399,9.532505478451425

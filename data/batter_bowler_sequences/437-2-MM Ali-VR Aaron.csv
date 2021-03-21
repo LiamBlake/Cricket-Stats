@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,562,281,ENG,5,145,-7,MM Ali,VR Aaron,7,1,7,34,730,37.26,Left-hand bat,64,33,2,348,37.66,58,rf,0,ENG,seam,no,18.888888888888893,3.777777777777778
+2,563,282,ENG,5,145,-7,MM Ali,VR Aaron,7,1,8,34,730,37.26,Left-hand bat,65,33,2,348,37.66,58,rf,1lb,ENG,seam,no,18.888888888888893,3.777777777777778
+2,599,318,ENG,5,168,16,MM Ali,VR Aaron,7,11,25,34,730,37.26,Left-hand bat,83,38,2,348,37.66,58,rf,2,ENG,seam,no,18.888888888888893,3.777777777777778
+2,600,319,ENG,5,170,18,MM Ali,VR Aaron,7,13,26,34,730,37.26,Left-hand bat,84,40,2,348,37.66,58,rf,W,ENG,seam,no,18.888888888888893,3.777777777777778

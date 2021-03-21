@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1006,459,ENG,7,178,-203,TR Ambrose,KD Mills,8,3,14,25.87,452,45.79,Right-hand bat,34,28,0,2022.2,27.83,56.2,rfm,0,ENG,seam,no,16.288062283737027,12.001730103806228
+2,1007,460,ENG,7,178,-203,TR Ambrose,KD Mills,8,3,15,25.87,452,45.79,Right-hand bat,35,28,0,2022.2,27.83,56.2,rfm,0,ENG,seam,no,16.288062283737027,12.001730103806228
+2,1008,461,ENG,7,178,-203,TR Ambrose,KD Mills,8,3,16,25.87,452,45.79,Right-hand bat,36,28,0,2022.2,27.83,56.2,rfm,0,ENG,seam,no,16.288062283737027,12.001730103806228

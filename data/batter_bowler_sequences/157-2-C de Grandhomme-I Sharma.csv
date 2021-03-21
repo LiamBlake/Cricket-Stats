@@ -1,0 +1,21 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,837,426,NZL,5,208,43,C de Grandhomme,I Sharma,7,0,1,37.38,1406,82.43,Right-hand bat,89,27,3,18150,32.39,61.1,rfm,4,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,844,433,NZL,6,216,51,C de Grandhomme,I Sharma,7,4,2,37.38,1406,82.43,Right-hand bat,90,31,3,18150,32.39,61.1,rfm,1,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,848,437,NZL,6,218,53,C de Grandhomme,I Sharma,7,5,3,37.38,1406,82.43,Right-hand bat,94,33,3,18150,32.39,61.1,rfm,0,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,849,438,NZL,6,218,53,C de Grandhomme,I Sharma,7,5,4,37.38,1406,82.43,Right-hand bat,95,33,3,18150,32.39,61.1,rfm,0,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,856,445,NZL,6,224,59,C de Grandhomme,I Sharma,7,6,6,37.38,1406,82.43,Right-hand bat,96,33,3,18150,32.39,61.1,rfm,0,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,857,446,NZL,6,224,59,C de Grandhomme,I Sharma,7,6,7,37.38,1406,82.43,Right-hand bat,97,33,3,18150,32.39,61.1,rfm,1,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,861,450,NZL,7,226,61,C de Grandhomme,I Sharma,7,7,8,37.38,1406,82.43,Right-hand bat,101,35,4,18150,32.39,61.1,rfm,0,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,870,459,NZL,7,228,63,C de Grandhomme,I Sharma,7,7,14,37.38,1406,82.43,Right-hand bat,104,36,4,18150,32.39,61.1,rfm,0,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,871,460,NZL,7,228,63,C de Grandhomme,I Sharma,7,7,15,37.38,1406,82.43,Right-hand bat,105,36,4,18150,32.39,61.1,rfm,0,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,872,461,NZL,7,228,63,C de Grandhomme,I Sharma,7,7,16,37.38,1406,82.43,Right-hand bat,106,36,4,18150,32.39,61.1,rfm,4,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,873,462,NZL,7,232,67,C de Grandhomme,I Sharma,7,11,17,37.38,1406,82.43,Right-hand bat,107,40,4,18150,32.39,61.1,rfm,2,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,880,469,NZL,7,240,75,C de Grandhomme,I Sharma,7,13,18,37.38,1406,82.43,Right-hand bat,108,42,4,18150,32.39,61.1,rfm,0,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,881,470,NZL,7,240,75,C de Grandhomme,I Sharma,7,13,19,37.38,1406,82.43,Right-hand bat,109,42,4,18150,32.39,61.1,rfm,0,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,882,471,NZL,7,240,75,C de Grandhomme,I Sharma,7,13,20,37.38,1406,82.43,Right-hand bat,110,42,4,18150,32.39,61.1,rfm,1,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,971,560,NZL,8,309,144,C de Grandhomme,I Sharma,7,42,66,37.38,1406,82.43,Right-hand bat,114,47,4,18150,32.39,61.1,rfm,0,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,972,561,NZL,8,309,144,C de Grandhomme,I Sharma,7,42,67,37.38,1406,82.43,Right-hand bat,115,47,4,18150,32.39,61.1,rfm,0,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,973,562,NZL,8,309,144,C de Grandhomme,I Sharma,7,42,68,37.38,1406,82.43,Right-hand bat,116,47,4,18150,32.39,61.1,rfm,0,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,974,563,NZL,8,309,144,C de Grandhomme,I Sharma,7,42,69,37.38,1406,82.43,Right-hand bat,117,47,4,18150,32.39,61.1,rfm,0,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,975,564,NZL,8,309,144,C de Grandhomme,I Sharma,7,42,70,37.38,1406,82.43,Right-hand bat,118,47,4,18150,32.39,61.1,rfm,0,NZL,seam,yes,21.389999999999997,2.3766666666666665
+2,976,565,NZL,8,309,144,C de Grandhomme,I Sharma,7,42,71,37.38,1406,82.43,Right-hand bat,119,47,4,18150,32.39,61.1,rfm,1,NZL,seam,yes,21.389999999999997,2.3766666666666665

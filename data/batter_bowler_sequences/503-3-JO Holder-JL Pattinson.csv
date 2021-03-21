@@ -1,0 +1,3 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1250,123,WIN,5,60,-300,JO Holder,JL Pattinson,7,17,27,28.05,755,63.17,Right-hand bat,32,19,4,2688,26.35,48,rfm,0,AUS,seam,no,26.5,9.9375
+3,1251,124,WIN,5,60,-300,JO Holder,JL Pattinson,7,17,28,28.05,755,63.17,Right-hand bat,33,19,4,2688,26.35,48,rfm,W,AUS,seam,no,26.5,9.9375

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,622,622,AUS,7,306,306,MA Starc,KAJ Roach,9,0,0,27.27,720,68.19,Left-hand bat,116,82,1,6306.5,27.83,52.5,rfm,0,WIN,seam,no,23.0712890625,6.4599609375
+1,632,632,AUS,7,312,312,MA Starc,KAJ Roach,9,0,5,27.27,720,68.19,Left-hand bat,120,87,1,6306.5,27.83,52.5,rfm,0,WIN,seam,no,23.0712890625,6.4599609375
+1,633,633,AUS,7,312,312,MA Starc,KAJ Roach,9,0,6,27.27,720,68.19,Left-hand bat,121,87,1,6306.5,27.83,52.5,rfm,2,WIN,seam,no,23.0712890625,6.4599609375
+1,634,634,AUS,7,314,314,MA Starc,KAJ Roach,9,2,7,27.27,720,68.19,Left-hand bat,122,89,1,6306.5,27.83,52.5,rfm,0,WIN,seam,no,23.0712890625,6.4599609375
+1,653,653,AUS,7,322,322,MA Starc,KAJ Roach,9,4,16,27.27,720,68.19,Left-hand bat,129,91,1,6306.5,27.83,52.5,rfm,4lb,WIN,seam,no,23.0712890625,6.4599609375
+1,654,654,AUS,7,326,326,MA Starc,KAJ Roach,9,4,17,27.27,720,68.19,Left-hand bat,130,91,1,6306.5,27.83,52.5,rfm,0,WIN,seam,no,23.0712890625,6.4599609375
+1,655,655,AUS,7,326,326,MA Starc,KAJ Roach,9,4,18,27.27,720,68.19,Left-hand bat,131,91,1,6306.5,27.83,52.5,rfm,0,WIN,seam,no,23.0712890625,6.4599609375
+1,656,656,AUS,7,326,326,MA Starc,KAJ Roach,9,4,19,27.27,720,68.19,Left-hand bat,132,91,1,6306.5,27.83,52.5,rfm,0,WIN,seam,no,23.0712890625,6.4599609375
+1,657,657,AUS,7,326,326,MA Starc,KAJ Roach,9,4,20,27.27,720,68.19,Left-hand bat,133,91,1,6306.5,27.83,52.5,rfm,0,WIN,seam,no,23.0712890625,6.4599609375
+1,658,658,AUS,7,326,326,MA Starc,KAJ Roach,9,4,21,27.27,720,68.19,Left-hand bat,134,91,1,6306.5,27.83,52.5,rfm,1,WIN,seam,no,23.0712890625,6.4599609375

@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2006,535,SRL,6,193,-466,MDK Perera,C de Grandhomme,8,6,9,19.35,2280,48.37,Right-hand bat,49,17,0,2244.5,29.96,72.5,rmf,0,NZL,seam,yes,29.578719723183386,2.862456747404844
+4,2007,536,SRL,6,193,-466,MDK Perera,C de Grandhomme,8,6,10,19.35,2280,48.37,Right-hand bat,50,17,0,2244.5,29.96,72.5,rmf,2,NZL,seam,yes,29.578719723183386,2.862456747404844
+4,2008,537,SRL,6,195,-464,MDK Perera,C de Grandhomme,8,8,11,19.35,2280,48.37,Right-hand bat,51,19,0,2244.5,29.96,72.5,rmf,0,NZL,seam,yes,29.578719723183386,2.862456747404844
+4,2009,538,SRL,6,195,-464,MDK Perera,C de Grandhomme,8,8,12,19.35,2280,48.37,Right-hand bat,52,19,0,2244.5,29.96,72.5,rmf,3,NZL,seam,yes,29.578719723183386,2.862456747404844
+4,2022,551,SRL,6,199,-460,MDK Perera,C de Grandhomme,8,11,19,19.35,2280,48.37,Right-hand bat,59,23,0,2244.5,29.96,72.5,rmf,0,NZL,seam,yes,29.578719723183386,2.862456747404844
+4,2023,552,SRL,6,199,-460,MDK Perera,C de Grandhomme,8,11,20,19.35,2280,48.37,Right-hand bat,60,23,0,2244.5,29.96,72.5,rmf,0,NZL,seam,yes,29.578719723183386,2.862456747404844

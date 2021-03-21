@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1317,31,NZL,0,11,148,TWM Latham,AD Mathews,1,8,18,41,2541,45.17,Left-hand bat,13,3,0,3138,48.6,104.6,rm,0,NZL,seam,no,30.416896235078056,8.189164370982553
+3,1318,32,NZL,0,11,148,TWM Latham,AD Mathews,1,8,19,41,2541,45.17,Left-hand bat,14,3,0,3138,48.6,104.6,rm,0,NZL,seam,no,30.416896235078056,8.189164370982553
+3,1319,33,NZL,0,11,148,TWM Latham,AD Mathews,1,8,20,41,2541,45.17,Left-hand bat,15,3,0,3138,48.6,104.6,rm,0,NZL,seam,no,30.416896235078056,8.189164370982553
+3,1320,34,NZL,0,11,148,TWM Latham,AD Mathews,1,8,21,41,2541,45.17,Left-hand bat,16,3,0,3138,48.6,104.6,rm,0,NZL,seam,no,30.416896235078056,8.189164370982553
+3,1321,35,NZL,0,11,148,TWM Latham,AD Mathews,1,8,22,41,2541,45.17,Left-hand bat,17,3,0,3138,48.6,104.6,rm,0,NZL,seam,no,30.416896235078056,8.189164370982553
+3,1329,43,NZL,0,17,154,TWM Latham,AD Mathews,1,8,24,41,2541,45.17,Left-hand bat,19,4,0,3138,48.6,104.6,rm,0,NZL,seam,no,30.416896235078056,8.189164370982553
+3,1330,44,NZL,0,17,154,TWM Latham,AD Mathews,1,8,25,41,2541,45.17,Left-hand bat,20,4,0,3138,48.6,104.6,rm,0,NZL,seam,no,30.416896235078056,8.189164370982553
+3,1331,45,NZL,0,17,154,TWM Latham,AD Mathews,1,8,26,41,2541,45.17,Left-hand bat,21,4,0,3138,48.6,104.6,rm,0,NZL,seam,no,30.416896235078056,8.189164370982553
+3,1332,46,NZL,0,17,154,TWM Latham,AD Mathews,1,8,27,41,2541,45.17,Left-hand bat,22,4,0,3138,48.6,104.6,rm,0,NZL,seam,no,30.416896235078056,8.189164370982553
+3,1333,47,NZL,0,17,154,TWM Latham,AD Mathews,1,8,28,41,2541,45.17,Left-hand bat,23,4,0,3138,48.6,104.6,rm,0,NZL,seam,no,30.416896235078056,8.189164370982553

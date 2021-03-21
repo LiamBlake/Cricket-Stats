@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2046,466,RSA,4,214,-239,JP Duminy,MJ North,6,2,8,48.66,741,39.4,Left-hand bat,30,23,0,84,56,84,rob,0,RSA,spin,no,26.640000000000004,2.96
+4,2047,467,RSA,4,214,-239,JP Duminy,MJ North,6,2,9,48.66,741,39.4,Left-hand bat,31,23,0,84,56,84,rob,1,RSA,spin,no,26.640000000000004,2.96
+4,2062,482,RSA,4,222,-231,JP Duminy,MJ North,6,9,16,48.66,741,39.4,Left-hand bat,40,25,0,84,56,84,rob,2,RSA,spin,no,26.640000000000004,2.96
+4,2063,483,RSA,4,224,-229,JP Duminy,MJ North,6,11,17,48.66,741,39.4,Left-hand bat,41,27,0,84,56,84,rob,0,RSA,spin,no,26.640000000000004,2.96

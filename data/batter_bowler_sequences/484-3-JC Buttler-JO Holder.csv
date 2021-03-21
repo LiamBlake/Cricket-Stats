@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1073,192,ENG,6,83,151,JC Buttler,JO Holder,8,11,14,62,461,67.24,Right-hand bat,24,7,1,960.5,34.46,74.2,rmf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
+3,1074,193,ENG,6,83,151,JC Buttler,JO Holder,8,11,15,62,461,67.24,Right-hand bat,25,7,1,960.5,34.46,74.2,rmf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
+3,1075,194,ENG,6,83,151,JC Buttler,JO Holder,8,11,16,62,461,67.24,Right-hand bat,26,7,1,960.5,34.46,74.2,rmf,1lb,WIN,seam,yes,16.194285714285716,5.605714285714286
+3,1090,209,ENG,6,91,159,JC Buttler,JO Holder,8,12,20,62,461,67.24,Right-hand bat,35,8,1,960.5,34.46,74.2,rmf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
+3,1099,218,ENG,7,97,165,JC Buttler,JO Holder,8,12,21,62,461,67.24,Right-hand bat,38,9,1,960.5,34.46,74.2,rmf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
+3,1100,219,ENG,7,97,165,JC Buttler,JO Holder,8,12,22,62,461,67.24,Right-hand bat,39,9,1,960.5,34.46,74.2,rmf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
+3,1101,220,ENG,7,97,165,JC Buttler,JO Holder,8,12,23,62,461,67.24,Right-hand bat,40,9,1,960.5,34.46,74.2,rmf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
+3,1102,221,ENG,7,97,165,JC Buttler,JO Holder,8,12,24,62,461,67.24,Right-hand bat,41,9,1,960.5,34.46,74.2,rmf,1,WIN,seam,yes,16.194285714285716,5.605714285714286
+3,1124,243,ENG,9,107,175,JC Buttler,JO Holder,8,21,37,62,461,67.24,Right-hand bat,51,11,3,960.5,34.46,74.2,rmf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
+3,1125,244,ENG,9,107,175,JC Buttler,JO Holder,8,21,38,62,461,67.24,Right-hand bat,52,11,3,960.5,34.46,74.2,rmf,4,WIN,seam,yes,16.194285714285716,5.605714285714286
+3,1126,245,ENG,9,111,179,JC Buttler,JO Holder,8,25,39,62,461,67.24,Right-hand bat,53,15,3,960.5,34.46,74.2,rmf,0,WIN,seam,yes,16.194285714285716,5.605714285714286

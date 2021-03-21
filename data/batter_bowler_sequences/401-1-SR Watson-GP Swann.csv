@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,119,119,AUS,1,54,54,SR Watson,GP Swann,3,14,57,35.6,5934,50.99,Right-hand bat,10,5,0,14814.1,29.18,59.2,rob,1,AUS,spin,yes,22.89335281227173,4.430971512052593
+1,127,127,AUS,1,62,62,SR Watson,GP Swann,3,16,61,35.6,5934,50.99,Right-hand bat,12,7,0,14814.1,29.18,59.2,rob,1,AUS,spin,yes,22.89335281227173,4.430971512052593
+1,132,132,AUS,1,64,64,SR Watson,GP Swann,3,17,62,35.6,5934,50.99,Right-hand bat,17,9,0,14814.1,29.18,59.2,rob,0,AUS,spin,yes,22.89335281227173,4.430971512052593
+1,140,140,AUS,1,70,70,SR Watson,GP Swann,3,21,67,35.6,5934,50.99,Right-hand bat,19,10,0,14814.1,29.18,59.2,rob,1,AUS,spin,yes,22.89335281227173,4.430971512052593

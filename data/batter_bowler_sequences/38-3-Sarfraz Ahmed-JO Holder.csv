@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1845,146,PAK,4,96,318,Sarfraz Ahmed,JO Holder,6,2,2,42.97,2059,73.04,Right-hand bat,0,0,0,2520.1,49.69,109.6,rmf,1,PAK,seam,yes,11.140495867768596,29.70798898071626
+3,1847,148,PAK,4,98,320,Sarfraz Ahmed,JO Holder,6,3,3,42.97,2059,73.04,Right-hand bat,2,2,0,2520.1,49.69,109.6,rmf,0,PAK,seam,yes,11.140495867768596,29.70798898071626
+3,1848,149,PAK,4,98,320,Sarfraz Ahmed,JO Holder,6,3,4,42.97,2059,73.04,Right-hand bat,3,2,0,2520.1,49.69,109.6,rmf,1,PAK,seam,yes,11.140495867768596,29.70798898071626
+3,1857,158,PAK,4,108,330,Sarfraz Ahmed,JO Holder,6,10,9,42.97,2059,73.04,Right-hand bat,6,5,0,2520.1,49.69,109.6,rmf,0,PAK,seam,yes,11.140495867768596,29.70798898071626
+3,1858,159,PAK,4,108,330,Sarfraz Ahmed,JO Holder,6,10,10,42.97,2059,73.04,Right-hand bat,7,5,0,2520.1,49.69,109.6,rmf,0,PAK,seam,yes,11.140495867768596,29.70798898071626
+3,1859,160,PAK,4,108,330,Sarfraz Ahmed,JO Holder,6,10,11,42.97,2059,73.04,Right-hand bat,8,5,0,2520.1,49.69,109.6,rmf,1,PAK,seam,yes,11.140495867768596,29.70798898071626
+3,1861,162,PAK,4,110,332,Sarfraz Ahmed,JO Holder,6,11,12,42.97,2059,73.04,Right-hand bat,10,7,0,2520.1,49.69,109.6,rmf,1,PAK,seam,yes,11.140495867768596,29.70798898071626
+3,1869,170,PAK,6,112,334,Sarfraz Ahmed,JO Holder,6,13,14,42.97,2059,73.04,Right-hand bat,12,8,0,2520.1,49.69,109.6,rmf,0,PAK,seam,yes,11.140495867768596,29.70798898071626
+3,1870,171,PAK,6,112,334,Sarfraz Ahmed,JO Holder,6,13,15,42.97,2059,73.04,Right-hand bat,13,8,0,2520.1,49.69,109.6,rmf,1,PAK,seam,yes,11.140495867768596,29.70798898071626
+3,1882,183,PAK,7,120,342,Sarfraz Ahmed,JO Holder,6,14,16,42.97,2059,73.04,Right-hand bat,19,11,0,2520.1,49.69,109.6,rmf,0,PAK,seam,yes,11.140495867768596,29.70798898071626
+3,1883,184,PAK,7,120,342,Sarfraz Ahmed,JO Holder,6,14,17,42.97,2059,73.04,Right-hand bat,20,11,0,2520.1,49.69,109.6,rmf,0,PAK,seam,yes,11.140495867768596,29.70798898071626
+3,1884,185,PAK,7,120,342,Sarfraz Ahmed,JO Holder,6,14,18,42.97,2059,73.04,Right-hand bat,21,11,0,2520.1,49.69,109.6,rmf,1,PAK,seam,yes,11.140495867768596,29.70798898071626

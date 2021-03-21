@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,796,796,NZL,7,441,441,KD Mills,MS Panesar,9,3,19,13.33,387,41.34,Right-hand bat,216,97,1,5718.3,33,67.3,lo,0,NZL,spin,yes,19.615384615384617,8.717948717948717
+1,797,797,NZL,7,441,441,KD Mills,MS Panesar,9,3,20,13.33,387,41.34,Right-hand bat,217,97,1,5718.3,33,67.3,lo,0,NZL,spin,yes,19.615384615384617,8.717948717948717
+1,798,798,NZL,7,441,441,KD Mills,MS Panesar,9,3,21,13.33,387,41.34,Right-hand bat,218,97,1,5718.3,33,67.3,lo,4,NZL,spin,yes,19.615384615384617,8.717948717948717
+1,799,799,NZL,7,445,445,KD Mills,MS Panesar,9,7,22,13.33,387,41.34,Right-hand bat,219,101,1,5718.3,33,67.3,lo,0,NZL,spin,yes,19.615384615384617,8.717948717948717
+1,800,800,NZL,7,445,445,KD Mills,MS Panesar,9,7,23,13.33,387,41.34,Right-hand bat,220,101,1,5718.3,33,67.3,lo,0,NZL,spin,yes,19.615384615384617,8.717948717948717
+1,801,801,NZL,7,445,445,KD Mills,MS Panesar,9,7,24,13.33,387,41.34,Right-hand bat,221,101,1,5718.3,33,67.3,lo,0,NZL,spin,yes,19.615384615384617,8.717948717948717

@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,533,533,AUS,6,273,273,PJ Cummins,Mohammed Shami,8,8,19,19.22,1096,38.59,Right-hand bat,111,59,0,7248.2,29.45,52.1,rf,0,AUS,seam,yes,18.6,6.2
+1,534,534,AUS,6,273,273,PJ Cummins,Mohammed Shami,8,8,20,19.22,1096,38.59,Right-hand bat,112,59,0,7248.2,29.45,52.1,rf,0,AUS,seam,yes,18.6,6.2
+1,535,535,AUS,6,273,273,PJ Cummins,Mohammed Shami,8,8,21,19.22,1096,38.59,Right-hand bat,113,59,0,7248.2,29.45,52.1,rf,2,AUS,seam,yes,18.6,6.2
+1,536,536,AUS,6,275,275,PJ Cummins,Mohammed Shami,8,10,22,19.22,1096,38.59,Right-hand bat,114,61,0,7248.2,29.45,52.1,rf,1wd,AUS,seam,yes,18.6,6.2
+1,537,537,AUS,6,276,276,PJ Cummins,Mohammed Shami,8,10,22,19.22,1096,38.59,Right-hand bat,115,62,0,7248.2,29.45,52.1,rf,1,AUS,seam,yes,18.6,6.2
+1,559,559,AUS,6,284,284,PJ Cummins,Mohammed Shami,8,11,31,19.22,1096,38.59,Right-hand bat,125,69,0,7248.2,29.45,52.1,rf,0,AUS,seam,yes,18.6,6.2
+1,560,560,AUS,6,284,284,PJ Cummins,Mohammed Shami,8,11,32,19.22,1096,38.59,Right-hand bat,126,69,0,7248.2,29.45,52.1,rf,0,AUS,seam,yes,18.6,6.2
+1,561,561,AUS,6,284,284,PJ Cummins,Mohammed Shami,8,11,33,19.22,1096,38.59,Right-hand bat,127,69,0,7248.2,29.45,52.1,rf,0,AUS,seam,yes,18.6,6.2
+1,580,580,AUS,6,292,292,PJ Cummins,Mohammed Shami,8,13,38,19.22,1096,38.59,Right-hand bat,134,73,0,7248.2,29.45,52.1,rf,0,AUS,seam,yes,18.6,6.2
+1,581,581,AUS,6,292,292,PJ Cummins,Mohammed Shami,8,13,39,19.22,1096,38.59,Right-hand bat,135,73,0,7248.2,29.45,52.1,rf,0,AUS,seam,yes,18.6,6.2
+1,582,582,AUS,6,292,292,PJ Cummins,Mohammed Shami,8,13,40,19.22,1096,38.59,Right-hand bat,136,73,0,7248.2,29.45,52.1,rf,1lb,AUS,seam,yes,18.6,6.2
+1,585,585,AUS,6,296,296,PJ Cummins,Mohammed Shami,8,13,41,19.22,1096,38.59,Right-hand bat,139,76,0,7248.2,29.45,52.1,rf,0,AUS,seam,yes,18.6,6.2

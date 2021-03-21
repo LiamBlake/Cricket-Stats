@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1093,376,RSA,5,221,265,F du Plessis,BOP Fernando,5,69,136,42.56,7704,45.85,Right-hand bat,0,0,0,12,NA,NA,rls,1,RSA,spin,no,19.506903353057197,5.85207100591716
+3,1095,378,RSA,5,223,267,F du Plessis,BOP Fernando,5,70,137,42.56,7704,45.85,Right-hand bat,2,2,0,12,NA,NA,rls,1,RSA,spin,no,19.506903353057197,5.85207100591716
+3,1097,380,RSA,5,225,269,F du Plessis,BOP Fernando,5,71,138,42.56,7704,45.85,Right-hand bat,4,4,0,12,NA,NA,rls,1,RSA,spin,no,19.506903353057197,5.85207100591716

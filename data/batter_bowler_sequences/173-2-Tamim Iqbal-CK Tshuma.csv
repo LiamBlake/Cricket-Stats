@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,736,92,BAN,1,41,-224,Tamim Iqbal,CK Tshuma,1,14,43,38.64,7798,56.48,Left-hand bat,6,4,0,150,85,150,rfm,0,BAN,seam,no,10.5,28.5
+2,737,93,BAN,1,41,-224,Tamim Iqbal,CK Tshuma,1,14,44,38.64,7798,56.48,Left-hand bat,7,4,0,150,85,150,rfm,0,BAN,seam,no,10.5,28.5
+2,738,94,BAN,1,41,-224,Tamim Iqbal,CK Tshuma,1,14,45,38.64,7798,56.48,Left-hand bat,8,4,0,150,85,150,rfm,0,BAN,seam,no,10.5,28.5
+2,739,95,BAN,1,41,-224,Tamim Iqbal,CK Tshuma,1,14,46,38.64,7798,56.48,Left-hand bat,9,4,0,150,85,150,rfm,4,BAN,seam,no,10.5,28.5
+2,740,96,BAN,1,45,-220,Tamim Iqbal,CK Tshuma,1,18,47,38.64,7798,56.48,Left-hand bat,10,8,0,150,85,150,rfm,0,BAN,seam,no,10.5,28.5
+2,741,97,BAN,1,45,-220,Tamim Iqbal,CK Tshuma,1,18,48,38.64,7798,56.48,Left-hand bat,11,8,0,150,85,150,rfm,4,BAN,seam,no,10.5,28.5
+2,748,104,BAN,1,53,-212,Tamim Iqbal,CK Tshuma,1,22,49,38.64,7798,56.48,Left-hand bat,12,12,0,150,85,150,rfm,4,BAN,seam,no,10.5,28.5
+2,749,105,BAN,1,57,-208,Tamim Iqbal,CK Tshuma,1,26,50,38.64,7798,56.48,Left-hand bat,13,16,0,150,85,150,rfm,0,BAN,seam,no,10.5,28.5
+2,750,106,BAN,1,57,-208,Tamim Iqbal,CK Tshuma,1,26,51,38.64,7798,56.48,Left-hand bat,14,16,0,150,85,150,rfm,0,BAN,seam,no,10.5,28.5
+2,751,107,BAN,1,57,-208,Tamim Iqbal,CK Tshuma,1,26,52,38.64,7798,56.48,Left-hand bat,15,16,0,150,85,150,rfm,0,BAN,seam,no,10.5,28.5
+2,752,108,BAN,1,57,-208,Tamim Iqbal,CK Tshuma,1,26,53,38.64,7798,56.48,Left-hand bat,16,16,0,150,85,150,rfm,4,BAN,seam,no,10.5,28.5
+2,753,109,BAN,1,61,-204,Tamim Iqbal,CK Tshuma,1,30,54,38.64,7798,56.48,Left-hand bat,17,20,0,150,85,150,rfm,0,BAN,seam,no,10.5,28.5
+2,761,117,BAN,1,68,-197,Tamim Iqbal,CK Tshuma,1,30,55,38.64,7798,56.48,Left-hand bat,18,20,0,150,85,150,rfm,4,BAN,seam,no,10.5,28.5
+2,762,118,BAN,1,72,-193,Tamim Iqbal,CK Tshuma,1,34,56,38.64,7798,56.48,Left-hand bat,19,24,0,150,85,150,rfm,0,BAN,seam,no,10.5,28.5
+2,763,119,BAN,1,72,-193,Tamim Iqbal,CK Tshuma,1,34,57,38.64,7798,56.48,Left-hand bat,20,24,0,150,85,150,rfm,1,BAN,seam,no,10.5,28.5
+2,766,122,BAN,1,74,-191,Tamim Iqbal,CK Tshuma,1,35,58,38.64,7798,56.48,Left-hand bat,23,26,0,150,85,150,rfm,0,BAN,seam,no,10.5,28.5

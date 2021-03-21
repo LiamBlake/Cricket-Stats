@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2486,396,ENG,4,177,-105,BA Stokes,RA Jadeja,6,14,34,33.96,2980,63.82,Left-hand bat,101,41,3,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+3,2493,403,ENG,4,177,-105,BA Stokes,RA Jadeja,6,14,35,33.96,2980,63.82,Left-hand bat,102,41,3,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+3,2494,404,ENG,4,177,-105,BA Stokes,RA Jadeja,6,14,36,33.96,2980,63.82,Left-hand bat,103,41,3,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+3,2495,405,ENG,4,177,-105,BA Stokes,RA Jadeja,6,14,37,33.96,2980,63.82,Left-hand bat,104,41,3,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+3,2496,406,ENG,4,177,-105,BA Stokes,RA Jadeja,6,14,38,33.96,2980,63.82,Left-hand bat,105,41,3,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+3,2497,407,ENG,4,177,-105,BA Stokes,RA Jadeja,6,14,39,33.96,2980,63.82,Left-hand bat,106,41,3,7050.1,24.07,63.5,lo,4,IND,spin,yes,17.814814814814813,35.629629629629626
+3,2498,408,ENG,4,181,-101,BA Stokes,RA Jadeja,6,18,40,33.96,2980,63.82,Left-hand bat,107,45,3,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+3,2509,419,ENG,4,187,-95,BA Stokes,RA Jadeja,6,22,45,33.96,2980,63.82,Left-hand bat,112,46,3,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+3,2510,420,ENG,4,187,-95,BA Stokes,RA Jadeja,6,22,46,33.96,2980,63.82,Left-hand bat,113,46,3,7050.1,24.07,63.5,lo,4b,IND,spin,yes,17.814814814814813,35.629629629629626
+3,2529,439,ENG,5,193,-89,BA Stokes,RA Jadeja,6,23,52,33.96,2980,63.82,Left-hand bat,120,46,4,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+3,2530,440,ENG,5,193,-89,BA Stokes,RA Jadeja,6,23,53,33.96,2980,63.82,Left-hand bat,121,46,4,7050.1,24.07,63.5,lo,W,IND,spin,yes,17.814814814814813,35.629629629629626

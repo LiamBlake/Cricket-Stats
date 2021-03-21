@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1172,0,NZL,0,0,-104,TWM Latham,Mohammad Amir,1,0,0,36.62,3911,44.95,Left-hand bat,0,0,0,4470.1,31.21,61.2,lf,0,NZL,seam,yes,18.52734375,0.59765625
+4,1173,1,NZL,0,0,-104,TWM Latham,Mohammad Amir,1,0,1,36.62,3911,44.95,Left-hand bat,1,0,0,4470.1,31.21,61.2,lf,1,NZL,seam,yes,18.52734375,0.59765625
+4,1175,3,NZL,0,2,-102,TWM Latham,Mohammad Amir,1,1,2,36.62,3911,44.95,Left-hand bat,3,2,0,4470.1,31.21,61.2,lf,0,NZL,seam,yes,18.52734375,0.59765625
+4,1176,4,NZL,0,2,-102,TWM Latham,Mohammad Amir,1,1,3,36.62,3911,44.95,Left-hand bat,4,2,0,4470.1,31.21,61.2,lf,0,NZL,seam,yes,18.52734375,0.59765625
+4,1177,5,NZL,0,2,-102,TWM Latham,Mohammad Amir,1,1,4,36.62,3911,44.95,Left-hand bat,5,2,0,4470.1,31.21,61.2,lf,0,NZL,seam,yes,18.52734375,0.59765625
+4,1184,12,NZL,0,2,-102,TWM Latham,Mohammad Amir,1,1,5,36.62,3911,44.95,Left-hand bat,6,2,0,4470.1,31.21,61.2,lf,0,NZL,seam,yes,18.52734375,0.59765625
+4,1185,13,NZL,0,2,-102,TWM Latham,Mohammad Amir,1,1,6,36.62,3911,44.95,Left-hand bat,7,2,0,4470.1,31.21,61.2,lf,1,NZL,seam,yes,18.52734375,0.59765625
+4,1208,36,NZL,0,8,-96,TWM Latham,Mohammad Amir,1,7,18,36.62,3911,44.95,Left-hand bat,18,3,0,4470.1,31.21,61.2,lf,0,NZL,seam,yes,18.52734375,0.59765625
+4,1209,37,NZL,0,8,-96,TWM Latham,Mohammad Amir,1,7,19,36.62,3911,44.95,Left-hand bat,19,3,0,4470.1,31.21,61.2,lf,1,NZL,seam,yes,18.52734375,0.59765625
+4,1221,49,NZL,0,19,-85,TWM Latham,Mohammad Amir,1,9,23,36.62,3911,44.95,Left-hand bat,25,7,0,4470.1,31.21,61.2,lf,0,NZL,seam,yes,18.52734375,0.59765625
+4,1222,50,NZL,0,19,-85,TWM Latham,Mohammad Amir,1,9,24,36.62,3911,44.95,Left-hand bat,26,7,0,4470.1,31.21,61.2,lf,W,NZL,seam,yes,18.52734375,0.59765625

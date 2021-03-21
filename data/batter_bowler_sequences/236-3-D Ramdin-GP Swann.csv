@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1173,293,WIN,5,160,-65,D Ramdin,GP Swann,6,38,73,23.92,2730,46.44,Right-hand bat,34,10,1,1812.5,25.09,55,rob,0,ENG,spin,yes,19.97111111111111,7.262222222222222
+3,1174,294,WIN,5,160,-65,D Ramdin,GP Swann,6,38,74,23.92,2730,46.44,Right-hand bat,35,10,1,1812.5,25.09,55,rob,0,ENG,spin,yes,19.97111111111111,7.262222222222222
+3,1223,343,WIN,5,209,-16,D Ramdin,GP Swann,6,59,91,23.92,2730,46.44,Right-hand bat,54,18,1,1812.5,25.09,55,rob,0,ENG,spin,yes,19.97111111111111,7.262222222222222
+3,1224,344,WIN,5,209,-16,D Ramdin,GP Swann,6,59,92,23.92,2730,46.44,Right-hand bat,55,18,1,1812.5,25.09,55,rob,0,ENG,spin,yes,19.97111111111111,7.262222222222222
+3,1225,345,WIN,5,209,-16,D Ramdin,GP Swann,6,59,93,23.92,2730,46.44,Right-hand bat,56,18,1,1812.5,25.09,55,rob,1,ENG,spin,yes,19.97111111111111,7.262222222222222
+3,1227,347,WIN,5,213,-12,D Ramdin,GP Swann,6,60,94,23.92,2730,46.44,Right-hand bat,58,19,1,1812.5,25.09,55,rob,1,ENG,spin,yes,19.97111111111111,7.262222222222222

@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1613,376,WIN,9,152,-91,JA Warrican,KTGD Prasad,11,11,13,21,39,53.84,Right-hand bat,51,22,1,4326.1,35.97,57.6,rfm,0,SRL,seam,no,5.55,12.95
+4,1614,377,WIN,9,152,-91,JA Warrican,KTGD Prasad,11,11,14,21,39,53.84,Right-hand bat,52,22,1,4326.1,35.97,57.6,rfm,2,SRL,seam,no,5.55,12.95
+4,1615,378,WIN,9,154,-89,JA Warrican,KTGD Prasad,11,13,15,21,39,53.84,Right-hand bat,53,24,1,4326.1,35.97,57.6,rfm,4,SRL,seam,no,5.55,12.95
+4,1616,379,WIN,9,158,-85,JA Warrican,KTGD Prasad,11,17,16,21,39,53.84,Right-hand bat,54,28,1,4326.1,35.97,57.6,rfm,0,SRL,seam,no,5.55,12.95
+4,1623,386,WIN,9,160,-83,JA Warrican,KTGD Prasad,11,18,19,21,39,53.84,Right-hand bat,55,28,1,4326.1,35.97,57.6,rfm,0,SRL,seam,no,5.55,12.95
+4,1624,387,WIN,9,160,-83,JA Warrican,KTGD Prasad,11,18,20,21,39,53.84,Right-hand bat,56,28,1,4326.1,35.97,57.6,rfm,0,SRL,seam,no,5.55,12.95
+4,1625,388,WIN,9,160,-83,JA Warrican,KTGD Prasad,11,18,21,21,39,53.84,Right-hand bat,57,28,1,4326.1,35.97,57.6,rfm,5nb,SRL,seam,no,5.55,12.95
+4,1626,389,WIN,9,165,-78,JA Warrican,KTGD Prasad,11,18,22,21,39,53.84,Right-hand bat,58,33,1,4326.1,35.97,57.6,rfm,1,SRL,seam,no,5.55,12.95

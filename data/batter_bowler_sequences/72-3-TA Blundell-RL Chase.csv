@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1390,357,NZL,6,217,369,TA Blundell,RL Chase,8,0,2,68,239,56.9,Right-hand bat,46,25,1,2730.3,50.16,88.1,rob,0,NZL,spin,no,25.617728531855956,3.0138504155124655
+3,1391,358,NZL,6,217,369,TA Blundell,RL Chase,8,0,3,68,239,56.9,Right-hand bat,47,25,1,2730.3,50.16,88.1,rob,0,NZL,spin,no,25.617728531855956,3.0138504155124655
+3,1399,366,NZL,6,224,376,TA Blundell,RL Chase,8,0,7,68,239,56.9,Right-hand bat,48,25,1,2730.3,50.16,88.1,rob,0,NZL,spin,no,25.617728531855956,3.0138504155124655
+3,1400,367,NZL,6,224,376,TA Blundell,RL Chase,8,0,8,68,239,56.9,Right-hand bat,49,25,1,2730.3,50.16,88.1,rob,0,NZL,spin,no,25.617728531855956,3.0138504155124655
+3,1401,368,NZL,6,224,376,TA Blundell,RL Chase,8,0,9,68,239,56.9,Right-hand bat,50,25,1,2730.3,50.16,88.1,rob,1,NZL,spin,no,25.617728531855956,3.0138504155124655

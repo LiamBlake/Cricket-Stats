@@ -1,0 +1,3 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,809,425,AUS,9,243,1,NM Lyon,VD Philander,11,0,0,13.8,1380,42.02,Right-hand bat,117,55,3,6522.1,22.09,48.3,rfm,1nb,AUS,seam,no,28.81578947368421,7.684210526315789
+2,810,426,AUS,9,244,2,NM Lyon,VD Philander,11,0,1,13.8,1380,42.02,Right-hand bat,118,56,3,6522.1,22.09,48.3,rfm,W,AUS,seam,no,28.81578947368421,7.684210526315789

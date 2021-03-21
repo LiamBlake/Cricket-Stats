@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,808,550,ENG,3,281,183,PD Collingwood,MG Johnson,5,8,12,40.82,9129,46.51,Right-hand bat,74,54,0,9468.5,29.43,53.5,lf,0,AUS,seam,yes,25.104444444444443,2.8966666666666665
+2,809,551,ENG,3,281,183,PD Collingwood,MG Johnson,5,8,13,40.82,9129,46.51,Right-hand bat,75,54,0,9468.5,29.43,53.5,lf,0,AUS,seam,yes,25.104444444444443,2.8966666666666665
+2,810,552,ENG,3,281,183,PD Collingwood,MG Johnson,5,8,14,40.82,9129,46.51,Right-hand bat,76,54,0,9468.5,29.43,53.5,lf,W,AUS,seam,yes,25.104444444444443,2.8966666666666665

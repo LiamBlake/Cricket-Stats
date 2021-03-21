@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,931,389,ENG,2,195,-48,KP Pietersen,FH Edwards,4,0,3,48.89,10679,62.73,Right-hand bat,92,46,0,9390.1,38.37,59.4,rf,1nb,ENG,seam,yes,28.873469387755097,4.812244897959183
+2,932,390,ENG,2,196,-47,KP Pietersen,FH Edwards,4,0,4,48.89,10679,62.73,Right-hand bat,93,47,0,9390.1,38.37,59.4,rf,4,ENG,seam,yes,28.873469387755097,4.812244897959183
+2,933,391,ENG,2,200,-43,KP Pietersen,FH Edwards,4,4,5,48.89,10679,62.73,Right-hand bat,94,51,0,9390.1,38.37,59.4,rf,0,ENG,seam,yes,28.873469387755097,4.812244897959183
+2,934,392,ENG,2,200,-43,KP Pietersen,FH Edwards,4,4,6,48.89,10679,62.73,Right-hand bat,95,51,0,9390.1,38.37,59.4,rf,0,ENG,seam,yes,28.873469387755097,4.812244897959183
+2,935,393,ENG,2,200,-43,KP Pietersen,FH Edwards,4,4,7,48.89,10679,62.73,Right-hand bat,96,51,0,9390.1,38.37,59.4,rf,0,ENG,seam,yes,28.873469387755097,4.812244897959183
+2,936,394,ENG,2,200,-43,KP Pietersen,FH Edwards,4,4,8,48.89,10679,62.73,Right-hand bat,97,51,0,9390.1,38.37,59.4,rf,0,ENG,seam,yes,28.873469387755097,4.812244897959183
+2,943,401,ENG,2,204,-39,KP Pietersen,FH Edwards,4,4,9,48.89,10679,62.73,Right-hand bat,98,51,0,9390.1,38.37,59.4,rf,0,ENG,seam,yes,28.873469387755097,4.812244897959183
+2,944,402,ENG,2,204,-39,KP Pietersen,FH Edwards,4,4,10,48.89,10679,62.73,Right-hand bat,99,51,0,9390.1,38.37,59.4,rf,0,ENG,seam,yes,28.873469387755097,4.812244897959183
+2,945,403,ENG,2,204,-39,KP Pietersen,FH Edwards,4,4,11,48.89,10679,62.73,Right-hand bat,100,51,0,9390.1,38.37,59.4,rf,1,ENG,seam,yes,28.873469387755097,4.812244897959183

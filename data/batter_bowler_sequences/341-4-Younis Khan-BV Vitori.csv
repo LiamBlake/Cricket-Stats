@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2260,74,PAK,2,50,-37,Younis Khan,BV Vitori,4,0,4,51.06,10779,53.05,Right-hand bat,8,10,0,390,48,78,lfm,0,ZIM,seam,yes,16.264462809917354,17.28099173553719
+4,2261,75,PAK,2,50,-37,Younis Khan,BV Vitori,4,0,5,51.06,10779,53.05,Right-hand bat,9,10,0,390,48,78,lfm,0,ZIM,seam,yes,16.264462809917354,17.28099173553719
+4,2262,76,PAK,2,50,-37,Younis Khan,BV Vitori,4,0,6,51.06,10779,53.05,Right-hand bat,10,10,0,390,48,78,lfm,1,ZIM,seam,yes,16.264462809917354,17.28099173553719

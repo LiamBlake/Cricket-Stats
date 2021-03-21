@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,301,301,IND,4,165,165,GH Vihari,TA Boult,6,27,52,36.8,1154,47.83,Right-hand bat,60,36,1,14874,27.65,55.7,lfm,4,NZL,seam,no,20.865932047750228,1.3461891643709825
+1,302,302,IND,4,169,169,GH Vihari,TA Boult,6,31,53,36.8,1154,47.83,Right-hand bat,61,40,1,14874,27.65,55.7,lfm,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+1,303,303,IND,4,169,169,GH Vihari,TA Boult,6,31,54,36.8,1154,47.83,Right-hand bat,62,40,1,14874,27.65,55.7,lfm,4,NZL,seam,no,20.865932047750228,1.3461891643709825
+1,304,304,IND,4,173,173,GH Vihari,TA Boult,6,35,55,36.8,1154,47.83,Right-hand bat,63,44,1,14874,27.65,55.7,lfm,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+1,305,305,IND,4,173,173,GH Vihari,TA Boult,6,35,56,36.8,1154,47.83,Right-hand bat,64,44,1,14874,27.65,55.7,lfm,4,NZL,seam,no,20.865932047750228,1.3461891643709825
+1,306,306,IND,4,177,177,GH Vihari,TA Boult,6,39,57,36.8,1154,47.83,Right-hand bat,65,48,1,14874,27.65,55.7,lfm,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+1,313,313,IND,4,183,183,GH Vihari,TA Boult,6,44,61,36.8,1154,47.83,Right-hand bat,66,48,1,14874,27.65,55.7,lfm,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+1,314,314,IND,4,183,183,GH Vihari,TA Boult,6,44,62,36.8,1154,47.83,Right-hand bat,67,48,1,14874,27.65,55.7,lfm,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+1,315,315,IND,4,183,183,GH Vihari,TA Boult,6,44,63,36.8,1154,47.83,Right-hand bat,68,48,1,14874,27.65,55.7,lfm,2,NZL,seam,no,20.865932047750228,1.3461891643709825
+1,316,316,IND,4,185,185,GH Vihari,TA Boult,6,46,64,36.8,1154,47.83,Right-hand bat,69,50,1,14874,27.65,55.7,lfm,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+1,317,317,IND,4,185,185,GH Vihari,TA Boult,6,46,65,36.8,1154,47.83,Right-hand bat,70,50,1,14874,27.65,55.7,lfm,1,NZL,seam,no,20.865932047750228,1.3461891643709825

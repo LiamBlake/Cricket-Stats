@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1263,298,WIN,3,177,-369,LMP Simmons,SCJ Broad,5,16,54,16,91,35.16,Right-hand bat,68,23,1,2952.2,40.6,77.7,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
+2,1264,299,WIN,3,177,-369,LMP Simmons,SCJ Broad,5,16,55,16,91,35.16,Right-hand bat,69,23,1,2952.2,40.6,77.7,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
+2,1265,300,WIN,3,177,-369,LMP Simmons,SCJ Broad,5,16,56,16,91,35.16,Right-hand bat,70,23,1,2952.2,40.6,77.7,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
+2,1266,301,WIN,3,177,-369,LMP Simmons,SCJ Broad,5,16,57,16,91,35.16,Right-hand bat,71,23,1,2952.2,40.6,77.7,rfm,2,WIN,seam,no,25.61777777777778,22.415555555555557
+2,1275,310,WIN,3,181,-365,LMP Simmons,SCJ Broad,5,18,63,16,91,35.16,Right-hand bat,74,26,1,2952.2,40.6,77.7,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
+2,1276,311,WIN,3,181,-365,LMP Simmons,SCJ Broad,5,18,64,16,91,35.16,Right-hand bat,75,26,1,2952.2,40.6,77.7,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
+2,1277,312,WIN,3,181,-365,LMP Simmons,SCJ Broad,5,18,65,16,91,35.16,Right-hand bat,76,26,1,2952.2,40.6,77.7,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
+2,1278,313,WIN,3,181,-365,LMP Simmons,SCJ Broad,5,18,66,16,91,35.16,Right-hand bat,77,26,1,2952.2,40.6,77.7,rfm,2,WIN,seam,no,25.61777777777778,22.415555555555557
+2,1290,325,WIN,3,195,-351,LMP Simmons,SCJ Broad,5,22,69,16,91,35.16,Right-hand bat,83,33,1,2952.2,40.6,77.7,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557

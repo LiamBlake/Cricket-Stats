@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1534,96,AUS,0,53,-213,DA Warner,Harbhajan Singh,2,26,42,42.21,1639,72.11,Left-hand bat,12,6,0,28290.3,32.37,68.5,rob,0,IND,spin,yes,7.2497027348394765,22.784780023781217
+3,1535,97,AUS,0,53,-213,DA Warner,Harbhajan Singh,2,26,43,42.21,1639,72.11,Left-hand bat,13,6,0,28290.3,32.37,68.5,rob,0,IND,spin,yes,7.2497027348394765,22.784780023781217
+3,1536,98,AUS,0,53,-213,DA Warner,Harbhajan Singh,2,26,44,42.21,1639,72.11,Left-hand bat,14,6,0,28290.3,32.37,68.5,rob,0,IND,spin,yes,7.2497027348394765,22.784780023781217
+3,1537,99,AUS,0,53,-213,DA Warner,Harbhajan Singh,2,26,45,42.21,1639,72.11,Left-hand bat,15,6,0,28290.3,32.37,68.5,rob,0,IND,spin,yes,7.2497027348394765,22.784780023781217
+3,1538,100,AUS,0,53,-213,DA Warner,Harbhajan Singh,2,26,46,42.21,1639,72.11,Left-hand bat,16,6,0,28290.3,32.37,68.5,rob,0,IND,spin,yes,7.2497027348394765,22.784780023781217
+3,1539,101,AUS,0,53,-213,DA Warner,Harbhajan Singh,2,26,47,42.21,1639,72.11,Left-hand bat,17,6,0,28290.3,32.37,68.5,rob,0,IND,spin,yes,7.2497027348394765,22.784780023781217
+3,1548,110,AUS,0,55,-211,DA Warner,Harbhajan Singh,2,26,51,42.21,1639,72.11,Left-hand bat,20,7,0,28290.3,32.37,68.5,rob,0,IND,spin,yes,7.2497027348394765,22.784780023781217
+3,1549,111,AUS,0,55,-211,DA Warner,Harbhajan Singh,2,26,52,42.21,1639,72.11,Left-hand bat,21,7,0,28290.3,32.37,68.5,rob,0,IND,spin,yes,7.2497027348394765,22.784780023781217
+3,1550,112,AUS,0,55,-211,DA Warner,Harbhajan Singh,2,26,53,42.21,1639,72.11,Left-hand bat,22,7,0,28290.3,32.37,68.5,rob,0,IND,spin,yes,7.2497027348394765,22.784780023781217
+3,1551,113,AUS,0,55,-211,DA Warner,Harbhajan Singh,2,26,54,42.21,1639,72.11,Left-hand bat,23,7,0,28290.3,32.37,68.5,rob,0,IND,spin,yes,7.2497027348394765,22.784780023781217

@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1169,385,SRL,6,182,219,HMRKB Herath,D Bishoo,8,10,14,14.02,2030,50.44,Left-hand bat,103,53,0,4008.1,38.05,72.8,rls,0,SRL,spin,yes,5.55,12.95
+3,1170,386,SRL,6,182,219,HMRKB Herath,D Bishoo,8,10,15,14.02,2030,50.44,Left-hand bat,104,53,0,4008.1,38.05,72.8,rls,1,SRL,spin,yes,5.55,12.95
+3,1185,401,SRL,6,186,223,HMRKB Herath,D Bishoo,8,12,19,14.02,2030,50.44,Left-hand bat,113,55,0,4008.1,38.05,72.8,rls,0,SRL,spin,yes,5.55,12.95
+3,1193,409,SRL,6,190,227,HMRKB Herath,D Bishoo,8,13,22,14.02,2030,50.44,Left-hand bat,115,56,0,4008.1,38.05,72.8,rls,4,SRL,spin,yes,5.55,12.95
+3,1194,410,SRL,6,194,231,HMRKB Herath,D Bishoo,8,17,23,14.02,2030,50.44,Left-hand bat,116,60,0,4008.1,38.05,72.8,rls,1,SRL,spin,yes,5.55,12.95

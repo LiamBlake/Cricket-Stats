@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1903,329,AUS,8,171,194,NM Hauritz,Z Khan,9,3,6,24.25,755,51.39,Right-hand bat,48,34,1,14664.4,32.48,58.6,lfm,2,IND,seam,yes,21.213675213675213,10.606837606837606
+3,1904,330,AUS,8,173,196,NM Hauritz,Z Khan,9,5,7,24.25,755,51.39,Right-hand bat,49,36,1,14664.4,32.48,58.6,lfm,1,IND,seam,yes,21.213675213675213,10.606837606837606
+3,1915,341,AUS,8,181,204,NM Hauritz,Z Khan,9,8,10,24.25,755,51.39,Right-hand bat,54,37,1,14664.4,32.48,58.6,lfm,1,IND,seam,yes,21.213675213675213,10.606837606837606
+3,1917,343,AUS,8,183,206,NM Hauritz,Z Khan,9,9,11,24.25,755,51.39,Right-hand bat,56,39,1,14664.4,32.48,58.6,lfm,0,IND,seam,yes,21.213675213675213,10.606837606837606
+3,1918,344,AUS,8,183,206,NM Hauritz,Z Khan,9,9,12,24.25,755,51.39,Right-hand bat,57,39,1,14664.4,32.48,58.6,lfm,0,IND,seam,yes,21.213675213675213,10.606837606837606
+3,1919,345,AUS,8,183,206,NM Hauritz,Z Khan,9,9,13,24.25,755,51.39,Right-hand bat,58,39,1,14664.4,32.48,58.6,lfm,0,IND,seam,yes,21.213675213675213,10.606837606837606
+3,1920,346,AUS,8,183,206,NM Hauritz,Z Khan,9,9,14,24.25,755,51.39,Right-hand bat,59,39,1,14664.4,32.48,58.6,lfm,W,IND,seam,yes,21.213675213675213,10.606837606837606

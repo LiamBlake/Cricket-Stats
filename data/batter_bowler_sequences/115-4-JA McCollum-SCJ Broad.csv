@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,983,15,IRE,0,7,-174,JA McCollum,SCJ Broad,2,3,2,18.25,176,41.47,Right-hand bat,9,0,0,25896.3,28.77,58.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
+4,984,16,IRE,0,7,-174,JA McCollum,SCJ Broad,2,3,3,18.25,176,41.47,Right-hand bat,10,0,0,25896.3,28.77,58.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
+4,985,17,IRE,0,7,-174,JA McCollum,SCJ Broad,2,3,4,18.25,176,41.47,Right-hand bat,11,0,0,25896.3,28.77,58.3,rfm,4,ENG,seam,no,15.033750000000001,0.79125
+4,992,24,IRE,1,11,-170,JA McCollum,SCJ Broad,2,7,5,18.25,176,41.47,Right-hand bat,12,4,0,25896.3,28.77,58.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
+4,993,25,IRE,1,11,-170,JA McCollum,SCJ Broad,2,7,6,18.25,176,41.47,Right-hand bat,13,4,0,25896.3,28.77,58.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
+4,994,26,IRE,1,11,-170,JA McCollum,SCJ Broad,2,7,7,18.25,176,41.47,Right-hand bat,14,4,0,25896.3,28.77,58.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
+4,995,27,IRE,1,11,-170,JA McCollum,SCJ Broad,2,7,8,18.25,176,41.47,Right-hand bat,15,4,0,25896.3,28.77,58.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
+4,996,28,IRE,1,11,-170,JA McCollum,SCJ Broad,2,7,9,18.25,176,41.47,Right-hand bat,16,4,0,25896.3,28.77,58.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
+4,997,29,IRE,1,11,-170,JA McCollum,SCJ Broad,2,7,10,18.25,176,41.47,Right-hand bat,17,4,0,25896.3,28.77,58.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
+4,1004,36,IRE,1,15,-166,JA McCollum,SCJ Broad,2,7,11,18.25,176,41.47,Right-hand bat,18,4,0,25896.3,28.77,58.3,rfm,1,ENG,seam,no,15.033750000000001,0.79125
+4,1007,39,IRE,1,17,-164,JA McCollum,SCJ Broad,2,8,12,18.25,176,41.47,Right-hand bat,21,6,0,25896.3,28.77,58.3,rfm,1,ENG,seam,no,15.033750000000001,0.79125
+4,1016,48,IRE,3,19,-162,JA McCollum,SCJ Broad,2,10,14,18.25,176,41.47,Right-hand bat,24,7,1,25896.3,28.77,58.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
+4,1017,49,IRE,3,19,-162,JA McCollum,SCJ Broad,2,10,15,18.25,176,41.47,Right-hand bat,25,7,1,25896.3,28.77,58.3,rfm,1,ENG,seam,no,15.033750000000001,0.79125

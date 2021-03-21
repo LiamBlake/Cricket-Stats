@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1827,253,AUS,4,139,162,MJ North,Harbhajan Singh,6,0,3,35.39,2042,48.53,Left-hand bat,80,24,0,24360,31.61,67.2,rob,0,IND,spin,yes,21.213675213675213,10.606837606837606
+3,1828,254,AUS,4,139,162,MJ North,Harbhajan Singh,6,0,4,35.39,2042,48.53,Left-hand bat,81,24,0,24360,31.61,67.2,rob,2,IND,spin,yes,21.213675213675213,10.606837606837606
+3,1829,255,AUS,4,141,164,MJ North,Harbhajan Singh,6,2,5,35.39,2042,48.53,Left-hand bat,82,26,0,24360,31.61,67.2,rob,0,IND,spin,yes,21.213675213675213,10.606837606837606
+3,1830,256,AUS,4,141,164,MJ North,Harbhajan Singh,6,2,6,35.39,2042,48.53,Left-hand bat,83,26,0,24360,31.61,67.2,rob,0,IND,spin,yes,21.213675213675213,10.606837606837606
+3,1849,275,AUS,4,149,172,MJ North,Harbhajan Singh,6,4,15,35.39,2042,48.53,Left-hand bat,90,26,0,24360,31.61,67.2,rob,0,IND,spin,yes,21.213675213675213,10.606837606837606
+3,1850,276,AUS,4,149,172,MJ North,Harbhajan Singh,6,4,16,35.39,2042,48.53,Left-hand bat,91,26,0,24360,31.61,67.2,rob,0,IND,spin,yes,21.213675213675213,10.606837606837606
+3,1851,277,AUS,4,149,172,MJ North,Harbhajan Singh,6,4,17,35.39,2042,48.53,Left-hand bat,92,26,0,24360,31.61,67.2,rob,0,IND,spin,yes,21.213675213675213,10.606837606837606
+3,1852,278,AUS,4,149,172,MJ North,Harbhajan Singh,6,4,18,35.39,2042,48.53,Left-hand bat,93,26,0,24360,31.61,67.2,rob,0,IND,spin,yes,21.213675213675213,10.606837606837606
+3,1853,279,AUS,4,149,172,MJ North,Harbhajan Singh,6,4,19,35.39,2042,48.53,Left-hand bat,94,26,0,24360,31.61,67.2,rob,0,IND,spin,yes,21.213675213675213,10.606837606837606
+3,1854,280,AUS,4,149,172,MJ North,Harbhajan Singh,6,4,20,35.39,2042,48.53,Left-hand bat,95,26,0,24360,31.61,67.2,rob,0,IND,spin,yes,21.213675213675213,10.606837606837606
+3,1864,290,AUS,5,155,178,MJ North,Harbhajan Singh,6,8,26,35.39,2042,48.53,Left-hand bat,99,27,1,24360,31.61,67.2,rob,1,IND,spin,yes,21.213675213675213,10.606837606837606
+3,1873,299,AUS,5,165,188,MJ North,Harbhajan Singh,6,10,28,35.39,2042,48.53,Left-hand bat,102,28,1,24360,31.61,67.2,rob,0,IND,spin,yes,21.213675213675213,10.606837606837606
+3,1874,300,AUS,5,165,188,MJ North,Harbhajan Singh,6,10,29,35.39,2042,48.53,Left-hand bat,103,28,1,24360,31.61,67.2,rob,0,IND,spin,yes,21.213675213675213,10.606837606837606
+3,1875,301,AUS,5,165,188,MJ North,Harbhajan Singh,6,10,30,35.39,2042,48.53,Left-hand bat,104,28,1,24360,31.61,67.2,rob,0,IND,spin,yes,21.213675213675213,10.606837606837606
+3,1876,302,AUS,5,165,188,MJ North,Harbhajan Singh,6,10,31,35.39,2042,48.53,Left-hand bat,105,28,1,24360,31.61,67.2,rob,0,IND,spin,yes,21.213675213675213,10.606837606837606
+3,1877,303,AUS,5,165,188,MJ North,Harbhajan Singh,6,10,32,35.39,2042,48.53,Left-hand bat,106,28,1,24360,31.61,67.2,rob,W,IND,spin,yes,21.213675213675213,10.606837606837606

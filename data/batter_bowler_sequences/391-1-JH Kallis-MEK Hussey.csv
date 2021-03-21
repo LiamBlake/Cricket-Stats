@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,283,283,RSA,2,135,135,JH Kallis,MEK Hussey,4,8,22,57.3,27971,45.89,Right-hand bat,2,1,0,534,37.28,76.2,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+1,284,284,RSA,2,135,135,JH Kallis,MEK Hussey,4,8,23,57.3,27971,45.89,Right-hand bat,3,1,0,534,37.28,76.2,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+1,285,285,RSA,2,135,135,JH Kallis,MEK Hussey,4,8,24,57.3,27971,45.89,Right-hand bat,4,1,0,534,37.28,76.2,rm,1,AUS,seam,yes,44.2875,11.809999999999999
+1,293,293,RSA,2,147,147,JH Kallis,MEK Hussey,4,14,28,57.3,27971,45.89,Right-hand bat,6,2,0,534,37.28,76.2,rm,4,AUS,seam,yes,44.2875,11.809999999999999
+1,294,294,RSA,2,151,151,JH Kallis,MEK Hussey,4,18,29,57.3,27971,45.89,Right-hand bat,7,6,0,534,37.28,76.2,rm,1,AUS,seam,yes,44.2875,11.809999999999999
+1,296,296,RSA,2,153,153,JH Kallis,MEK Hussey,4,19,30,57.3,27971,45.89,Right-hand bat,9,8,0,534,37.28,76.2,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+1,297,297,RSA,2,153,153,JH Kallis,MEK Hussey,4,19,31,57.3,27971,45.89,Right-hand bat,10,8,0,534,37.28,76.2,rm,2,AUS,seam,yes,44.2875,11.809999999999999
+1,298,298,RSA,2,155,155,JH Kallis,MEK Hussey,4,21,32,57.3,27971,45.89,Right-hand bat,11,10,0,534,37.28,76.2,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+1,484,484,RSA,2,245,245,JH Kallis,MEK Hussey,4,74,127,57.3,27971,45.89,Right-hand bat,16,11,0,534,37.28,76.2,rm,2,AUS,seam,yes,44.2875,11.809999999999999
+1,485,485,RSA,2,247,247,JH Kallis,MEK Hussey,4,76,128,57.3,27971,45.89,Right-hand bat,17,13,0,534,37.28,76.2,rm,4,AUS,seam,yes,44.2875,11.809999999999999
+1,492,492,RSA,2,251,251,JH Kallis,MEK Hussey,4,80,129,57.3,27971,45.89,Right-hand bat,18,17,0,534,37.28,76.2,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+1,493,493,RSA,2,251,251,JH Kallis,MEK Hussey,4,80,130,57.3,27971,45.89,Right-hand bat,19,17,0,534,37.28,76.2,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+1,494,494,RSA,2,251,251,JH Kallis,MEK Hussey,4,80,131,57.3,27971,45.89,Right-hand bat,20,17,0,534,37.28,76.2,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+1,495,495,RSA,2,251,251,JH Kallis,MEK Hussey,4,80,132,57.3,27971,45.89,Right-hand bat,21,17,0,534,37.28,76.2,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+1,496,496,RSA,2,251,251,JH Kallis,MEK Hussey,4,80,133,57.3,27971,45.89,Right-hand bat,22,17,0,534,37.28,76.2,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+1,497,497,RSA,2,251,251,JH Kallis,MEK Hussey,4,80,134,57.3,27971,45.89,Right-hand bat,23,17,0,534,37.28,76.2,rm,4,AUS,seam,yes,44.2875,11.809999999999999

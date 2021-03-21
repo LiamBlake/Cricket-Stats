@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,991,771,RSA,4,446,347,AB de Villiers,Azhar Ali,6,150,246,51.44,12149,54.63,Right-hand bat,13,16,0,132,89,132,rls,0,PAK,spin,no,10.466666666666667,19.886666666666667
+2,992,772,RSA,4,446,347,AB de Villiers,Azhar Ali,6,150,247,51.44,12149,54.63,Right-hand bat,14,16,0,132,89,132,rls,1,PAK,spin,no,10.466666666666667,19.886666666666667
+2,995,775,RSA,4,448,349,AB de Villiers,Azhar Ali,6,151,248,51.44,12149,54.63,Right-hand bat,17,18,0,132,89,132,rls,1,PAK,spin,no,10.466666666666667,19.886666666666667
+2,1007,787,RSA,4,452,353,AB de Villiers,Azhar Ali,6,153,251,51.44,12149,54.63,Right-hand bat,23,20,0,132,89,132,rls,0,PAK,spin,no,10.466666666666667,19.886666666666667
+2,1015,795,RSA,4,456,357,AB de Villiers,Azhar Ali,6,154,254,51.44,12149,54.63,Right-hand bat,25,21,0,132,89,132,rls,0,PAK,spin,no,10.466666666666667,19.886666666666667
+2,1016,796,RSA,4,456,357,AB de Villiers,Azhar Ali,6,154,255,51.44,12149,54.63,Right-hand bat,26,21,0,132,89,132,rls,0,PAK,spin,no,10.466666666666667,19.886666666666667
+2,1017,797,RSA,4,456,357,AB de Villiers,Azhar Ali,6,154,256,51.44,12149,54.63,Right-hand bat,27,21,0,132,89,132,rls,0,PAK,spin,no,10.466666666666667,19.886666666666667
+2,1018,798,RSA,4,456,357,AB de Villiers,Azhar Ali,6,154,257,51.44,12149,54.63,Right-hand bat,28,21,0,132,89,132,rls,1,PAK,spin,no,10.466666666666667,19.886666666666667

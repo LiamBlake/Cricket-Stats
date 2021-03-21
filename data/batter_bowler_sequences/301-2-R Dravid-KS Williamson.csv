@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1120,410,IND,3,212,-138,R Dravid,KS Williamson,3,23,79,52.69,27742,42.36,Right-hand bat,13,18,0,138,98,138,rob,1,IND,spin,no,20.479591836734695,27.30612244897959
+2,1131,421,IND,3,218,-132,R Dravid,KS Williamson,3,25,83,52.69,27742,42.36,Right-hand bat,18,19,0,138,98,138,rob,0,IND,spin,no,20.479591836734695,27.30612244897959
+2,1132,422,IND,3,218,-132,R Dravid,KS Williamson,3,25,84,52.69,27742,42.36,Right-hand bat,19,19,0,138,98,138,rob,1,IND,spin,no,20.479591836734695,27.30612244897959
+2,1136,426,IND,3,220,-130,R Dravid,KS Williamson,3,26,85,52.69,27742,42.36,Right-hand bat,23,21,0,138,98,138,rob,2,IND,spin,no,20.479591836734695,27.30612244897959
+2,1147,437,IND,3,228,-122,R Dravid,KS Williamson,3,28,88,52.69,27742,42.36,Right-hand bat,28,24,0,138,98,138,rob,0,IND,spin,no,20.479591836734695,27.30612244897959
+2,1148,438,IND,3,228,-122,R Dravid,KS Williamson,3,28,89,52.69,27742,42.36,Right-hand bat,29,24,0,138,98,138,rob,1,IND,spin,no,20.479591836734695,27.30612244897959
+2,1157,447,IND,3,230,-120,R Dravid,KS Williamson,3,29,96,52.69,27742,42.36,Right-hand bat,32,26,0,138,98,138,rob,1,IND,spin,no,20.479591836734695,27.30612244897959
+2,1159,449,IND,3,232,-118,R Dravid,KS Williamson,3,30,97,52.69,27742,42.36,Right-hand bat,34,28,0,138,98,138,rob,1,IND,spin,no,20.479591836734695,27.30612244897959

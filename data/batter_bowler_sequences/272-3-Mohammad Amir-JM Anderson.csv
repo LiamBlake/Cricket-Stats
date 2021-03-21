@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1169,117,PAK,6,64,-308,Mohammad Amir,JM Anderson,8,0,0,12.63,1017,27.33,Left-hand bat,38,10,2,10776.1,31.75,57.3,rfm,0,ENG,seam,yes,13.340000000000002,8.893333333333334
+3,1170,118,PAK,6,64,-308,Mohammad Amir,JM Anderson,8,0,1,12.63,1017,27.33,Left-hand bat,39,10,2,10776.1,31.75,57.3,rfm,0,ENG,seam,yes,13.340000000000002,8.893333333333334
+3,1171,119,PAK,6,64,-308,Mohammad Amir,JM Anderson,8,0,2,12.63,1017,27.33,Left-hand bat,40,10,2,10776.1,31.75,57.3,rfm,0,ENG,seam,yes,13.340000000000002,8.893333333333334
+3,1172,120,PAK,6,64,-308,Mohammad Amir,JM Anderson,8,0,3,12.63,1017,27.33,Left-hand bat,41,10,2,10776.1,31.75,57.3,rfm,0,ENG,seam,yes,13.340000000000002,8.893333333333334

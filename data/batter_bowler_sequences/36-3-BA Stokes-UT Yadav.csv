@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2427,337,ENG,4,138,-144,BA Stokes,UT Yadav,6,3,8,33.96,2980,63.82,Left-hand bat,49,20,0,4254.5,38.94,62.6,rf,0,IND,seam,yes,17.814814814814813,35.629629629629626
+3,2428,338,ENG,4,138,-144,BA Stokes,UT Yadav,6,3,9,33.96,2980,63.82,Left-hand bat,50,20,0,4254.5,38.94,62.6,rf,0,IND,seam,yes,17.814814814814813,35.629629629629626
+3,2429,339,ENG,4,138,-144,BA Stokes,UT Yadav,6,3,10,33.96,2980,63.82,Left-hand bat,51,20,0,4254.5,38.94,62.6,rf,1,IND,seam,yes,17.814814814814813,35.629629629629626
+3,2431,341,ENG,4,140,-142,BA Stokes,UT Yadav,6,4,11,33.96,2980,63.82,Left-hand bat,53,22,0,4254.5,38.94,62.6,rf,0,IND,seam,yes,17.814814814814813,35.629629629629626
+3,2432,342,ENG,4,140,-142,BA Stokes,UT Yadav,6,4,12,33.96,2980,63.82,Left-hand bat,54,22,0,4254.5,38.94,62.6,rf,1,IND,seam,yes,17.814814814814813,35.629629629629626
+3,2442,352,ENG,4,142,-140,BA Stokes,UT Yadav,6,5,19,33.96,2980,63.82,Left-hand bat,58,24,0,4254.5,38.94,62.6,rf,0,IND,seam,yes,17.814814814814813,35.629629629629626
+3,2443,353,ENG,4,142,-140,BA Stokes,UT Yadav,6,5,20,33.96,2980,63.82,Left-hand bat,59,24,0,4254.5,38.94,62.6,rf,0,IND,seam,yes,17.814814814814813,35.629629629629626
+3,2444,354,ENG,4,142,-140,BA Stokes,UT Yadav,6,5,21,33.96,2980,63.82,Left-hand bat,60,24,0,4254.5,38.94,62.6,rf,0,IND,seam,yes,17.814814814814813,35.629629629629626
+3,2453,363,ENG,4,144,-138,BA Stokes,UT Yadav,6,5,22,33.96,2980,63.82,Left-hand bat,63,25,0,4254.5,38.94,62.6,rf,4,IND,seam,yes,17.814814814814813,35.629629629629626
+3,2454,364,ENG,4,148,-134,BA Stokes,UT Yadav,6,9,23,33.96,2980,63.82,Left-hand bat,64,29,0,4254.5,38.94,62.6,rf,0,IND,seam,yes,17.814814814814813,35.629629629629626
+3,2455,365,ENG,4,148,-134,BA Stokes,UT Yadav,6,9,24,33.96,2980,63.82,Left-hand bat,65,29,0,4254.5,38.94,62.6,rf,1lb,IND,seam,yes,17.814814814814813,35.629629629629626

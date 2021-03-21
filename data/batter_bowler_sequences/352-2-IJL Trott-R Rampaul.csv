@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,771,113,ENG,1,43,-327,IJL Trott,R Rampaul,3,0,0,51.95,5111,47.77,Right-hand bat,53,23,1,2856.1,36,73.2,rfm,0,ENG,seam,no,26.82206035379813,7.823100936524454
+2,772,114,ENG,1,43,-327,IJL Trott,R Rampaul,3,0,1,51.95,5111,47.77,Right-hand bat,54,23,1,2856.1,36,73.2,rfm,4lb,ENG,seam,no,26.82206035379813,7.823100936524454
+2,779,121,ENG,1,51,-319,IJL Trott,R Rampaul,3,0,2,51.95,5111,47.77,Right-hand bat,55,23,1,2856.1,36,73.2,rfm,0,ENG,seam,no,26.82206035379813,7.823100936524454
+2,780,122,ENG,1,51,-319,IJL Trott,R Rampaul,3,0,3,51.95,5111,47.77,Right-hand bat,56,23,1,2856.1,36,73.2,rfm,0,ENG,seam,no,26.82206035379813,7.823100936524454
+2,781,123,ENG,1,51,-319,IJL Trott,R Rampaul,3,0,4,51.95,5111,47.77,Right-hand bat,57,23,1,2856.1,36,73.2,rfm,0,ENG,seam,no,26.82206035379813,7.823100936524454
+2,782,124,ENG,1,51,-319,IJL Trott,R Rampaul,3,0,5,51.95,5111,47.77,Right-hand bat,58,23,1,2856.1,36,73.2,rfm,1lb,ENG,seam,no,26.82206035379813,7.823100936524454
+2,872,214,ENG,1,123,-247,IJL Trott,R Rampaul,3,35,50,51.95,5111,47.77,Right-hand bat,68,28,1,2856.1,36,73.2,rfm,0,ENG,seam,no,26.82206035379813,7.823100936524454
+2,873,215,ENG,1,123,-247,IJL Trott,R Rampaul,3,35,51,51.95,5111,47.77,Right-hand bat,69,28,1,2856.1,36,73.2,rfm,0,ENG,seam,no,26.82206035379813,7.823100936524454
+2,874,216,ENG,1,123,-247,IJL Trott,R Rampaul,3,35,52,51.95,5111,47.77,Right-hand bat,70,28,1,2856.1,36,73.2,rfm,0,ENG,seam,no,26.82206035379813,7.823100936524454
+2,875,217,ENG,1,123,-247,IJL Trott,R Rampaul,3,35,53,51.95,5111,47.77,Right-hand bat,71,28,1,2856.1,36,73.2,rfm,W,ENG,seam,no,26.82206035379813,7.823100936524454

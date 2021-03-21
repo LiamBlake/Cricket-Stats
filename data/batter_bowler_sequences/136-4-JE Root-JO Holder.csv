@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1754,340,ENG,3,162,-465,JE Root,JO Holder,4,18,31,49.87,11750,55.6,Right-hand bat,61,17,0,5748.5,28.29,65.3,rmf,0,WIN,seam,no,19.01851851851852,9.50925925925926
+4,1755,341,ENG,3,162,-465,JE Root,JO Holder,4,18,32,49.87,11750,55.6,Right-hand bat,62,17,0,5748.5,28.29,65.3,rmf,0,WIN,seam,no,19.01851851851852,9.50925925925926
+4,1756,342,ENG,3,162,-465,JE Root,JO Holder,4,18,33,49.87,11750,55.6,Right-hand bat,63,17,0,5748.5,28.29,65.3,rmf,4,WIN,seam,no,19.01851851851852,9.50925925925926
+4,1757,343,ENG,3,166,-461,JE Root,JO Holder,4,22,34,49.87,11750,55.6,Right-hand bat,64,21,0,5748.5,28.29,65.3,rmf,0,WIN,seam,no,19.01851851851852,9.50925925925926
+4,1758,344,ENG,3,166,-461,JE Root,JO Holder,4,22,35,49.87,11750,55.6,Right-hand bat,65,21,0,5748.5,28.29,65.3,rmf,0,WIN,seam,no,19.01851851851852,9.50925925925926
+4,1759,345,ENG,3,166,-461,JE Root,JO Holder,4,22,36,49.87,11750,55.6,Right-hand bat,66,21,0,5748.5,28.29,65.3,rmf,0,WIN,seam,no,19.01851851851852,9.50925925925926

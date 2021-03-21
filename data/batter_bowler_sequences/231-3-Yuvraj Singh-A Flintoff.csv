@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1708,243,IND,4,90,241,Yuvraj Singh,A Flintoff,6,8,5,36.05,2219,56.87,Left-hand bat,50,14,0,13800.4,32.12,64.8,rfm,0,IND,seam,yes,17.74234693877551,20.471938775510207
+3,1718,253,IND,4,92,243,Yuvraj Singh,A Flintoff,6,8,9,36.05,2219,56.87,Left-hand bat,54,15,0,13800.4,32.12,64.8,rfm,1,IND,seam,yes,17.74234693877551,20.471938775510207
+3,1826,361,IND,4,184,335,Yuvraj Singh,A Flintoff,6,60,66,36.05,2219,56.87,Left-hand bat,58,17,0,13800.4,32.12,64.8,rfm,0,IND,seam,yes,17.74234693877551,20.471938775510207
+3,1827,362,IND,4,184,335,Yuvraj Singh,A Flintoff,6,60,67,36.05,2219,56.87,Left-hand bat,59,17,0,13800.4,32.12,64.8,rfm,1,IND,seam,yes,17.74234693877551,20.471938775510207
+3,1830,365,IND,4,186,337,Yuvraj Singh,A Flintoff,6,61,68,36.05,2219,56.87,Left-hand bat,62,19,0,13800.4,32.12,64.8,rfm,1,IND,seam,yes,17.74234693877551,20.471938775510207
+3,1837,372,IND,4,202,353,Yuvraj Singh,A Flintoff,6,75,74,36.05,2219,56.87,Left-hand bat,63,20,0,13800.4,32.12,64.8,rfm,1,IND,seam,yes,17.74234693877551,20.471938775510207
+3,1839,374,IND,4,204,355,Yuvraj Singh,A Flintoff,6,76,75,36.05,2219,56.87,Left-hand bat,65,22,0,13800.4,32.12,64.8,rfm,1,IND,seam,yes,17.74234693877551,20.471938775510207
+3,1849,384,IND,4,216,367,Yuvraj Singh,A Flintoff,6,79,80,36.05,2219,56.87,Left-hand bat,69,30,0,13800.4,32.12,64.8,rfm,0,IND,seam,yes,17.74234693877551,20.471938775510207
+3,1850,385,IND,4,216,367,Yuvraj Singh,A Flintoff,6,79,81,36.05,2219,56.87,Left-hand bat,70,30,0,13800.4,32.12,64.8,rfm,1,IND,seam,yes,17.74234693877551,20.471938775510207
+3,1853,388,IND,4,218,369,Yuvraj Singh,A Flintoff,6,80,82,36.05,2219,56.87,Left-hand bat,73,32,0,13800.4,32.12,64.8,rfm,1,IND,seam,yes,17.74234693877551,20.471938775510207
+3,1862,397,IND,4,225,376,Yuvraj Singh,A Flintoff,6,82,84,36.05,2219,56.87,Left-hand bat,76,35,0,13800.4,32.12,64.8,rfm,0,IND,seam,yes,17.74234693877551,20.471938775510207
+3,1863,398,IND,4,225,376,Yuvraj Singh,A Flintoff,6,82,85,36.05,2219,56.87,Left-hand bat,77,35,0,13800.4,32.12,64.8,rfm,1,IND,seam,yes,17.74234693877551,20.471938775510207

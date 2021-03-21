@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1591,133,IND,2,62,-263,SR Tendulkar,JH Kallis,4,14,46,55.35,NA,NA,Right-hand bat,18,1,0,17478,31.4,66.9,rfm,0,IND,seam,no,31.198224852071007,11.494082840236688
+3,1592,134,IND,2,62,-263,SR Tendulkar,JH Kallis,4,14,47,55.35,NA,NA,Right-hand bat,19,1,0,17478,31.4,66.9,rfm,1,IND,seam,no,31.198224852071007,11.494082840236688
+3,1729,271,IND,4,143,-182,SR Tendulkar,JH Kallis,4,68,113,55.35,NA,NA,Right-hand bat,24,5,0,17478,31.4,66.9,rfm,0,IND,seam,no,31.198224852071007,11.494082840236688
+3,1730,272,IND,4,143,-182,SR Tendulkar,JH Kallis,4,68,114,55.35,NA,NA,Right-hand bat,25,5,0,17478,31.4,66.9,rfm,0,IND,seam,no,31.198224852071007,11.494082840236688
+3,1731,273,IND,4,143,-182,SR Tendulkar,JH Kallis,4,68,115,55.35,NA,NA,Right-hand bat,26,5,0,17478,31.4,66.9,rfm,4,IND,seam,no,31.198224852071007,11.494082840236688
+3,1732,274,IND,4,147,-178,SR Tendulkar,JH Kallis,4,72,116,55.35,NA,NA,Right-hand bat,27,9,0,17478,31.4,66.9,rfm,1,IND,seam,no,31.198224852071007,11.494082840236688
+3,1748,290,IND,4,161,-164,SR Tendulkar,JH Kallis,4,76,122,55.35,NA,NA,Right-hand bat,30,10,0,17478,31.4,66.9,rfm,0,IND,seam,no,31.198224852071007,11.494082840236688
+3,1749,291,IND,4,161,-164,SR Tendulkar,JH Kallis,4,76,123,55.35,NA,NA,Right-hand bat,31,10,0,17478,31.4,66.9,rfm,0,IND,seam,no,31.198224852071007,11.494082840236688
+3,1750,292,IND,4,161,-164,SR Tendulkar,JH Kallis,4,76,124,55.35,NA,NA,Right-hand bat,32,10,0,17478,31.4,66.9,rfm,1,IND,seam,no,31.198224852071007,11.494082840236688

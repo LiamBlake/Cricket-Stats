@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1512,257,PAK,5,162,-218,Shadab Khan,D Olivier,7,0,0,34.28,381,62.99,Right-hand bat,59,46,3,1134,18.19,27.6,rfm,4,RSA,seam,no,22.378125,3.196875
+4,1536,281,PAK,5,179,-201,Shadab Khan,D Olivier,7,4,9,34.28,381,62.99,Right-hand bat,71,58,3,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
+4,1537,282,PAK,5,179,-201,Shadab Khan,D Olivier,7,4,10,34.28,381,62.99,Right-hand bat,72,58,3,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
+4,1544,289,PAK,6,183,-197,Shadab Khan,D Olivier,7,4,11,34.28,381,62.99,Right-hand bat,73,58,3,1134,18.19,27.6,rfm,4,RSA,seam,no,22.378125,3.196875
+4,1545,290,PAK,6,187,-193,Shadab Khan,D Olivier,7,8,12,34.28,381,62.99,Right-hand bat,74,62,3,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
+4,1546,291,PAK,6,187,-193,Shadab Khan,D Olivier,7,8,13,34.28,381,62.99,Right-hand bat,75,62,3,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
+4,1547,292,PAK,6,187,-193,Shadab Khan,D Olivier,7,8,14,34.28,381,62.99,Right-hand bat,76,62,3,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
+4,1548,293,PAK,6,187,-193,Shadab Khan,D Olivier,7,8,15,34.28,381,62.99,Right-hand bat,77,62,3,1134,18.19,27.6,rfm,1,RSA,seam,no,22.378125,3.196875
+4,1556,301,PAK,6,191,-189,Shadab Khan,D Olivier,7,12,21,34.28,381,62.99,Right-hand bat,79,63,3,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
+4,1557,302,PAK,6,191,-189,Shadab Khan,D Olivier,7,12,22,34.28,381,62.99,Right-hand bat,80,63,3,1134,18.19,27.6,rfm,1,RSA,seam,no,22.378125,3.196875
+4,1641,386,PAK,9,271,-109,Shadab Khan,D Olivier,7,45,64,34.28,381,62.99,Right-hand bat,86,73,3,1134,18.19,27.6,rfm,1,RSA,seam,no,22.378125,3.196875

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,465,465,NZL,3,226,226,CJ Anderson,Yasir Shah,5,0,0,29.07,714,57,Left-hand bat,117,45,1,1044.3,22.47,45.5,rls,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+1,466,466,NZL,3,226,226,CJ Anderson,Yasir Shah,5,0,1,29.07,714,57,Left-hand bat,118,45,1,1044.3,22.47,45.5,rls,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+1,467,467,NZL,3,226,226,CJ Anderson,Yasir Shah,5,0,2,29.07,714,57,Left-hand bat,119,45,1,1044.3,22.47,45.5,rls,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+1,475,475,NZL,3,228,228,CJ Anderson,Yasir Shah,5,0,6,29.07,714,57,Left-hand bat,121,46,1,1044.3,22.47,45.5,rls,2,NZL,spin,yes,13.96712802768166,22.56228373702422
+1,476,476,NZL,3,230,230,CJ Anderson,Yasir Shah,5,2,7,29.07,714,57,Left-hand bat,122,48,1,1044.3,22.47,45.5,rls,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+1,477,477,NZL,3,230,230,CJ Anderson,Yasir Shah,5,2,8,29.07,714,57,Left-hand bat,123,48,1,1044.3,22.47,45.5,rls,1,NZL,spin,yes,13.96712802768166,22.56228373702422
+1,512,512,NZL,3,238,238,CJ Anderson,Yasir Shah,5,3,30,29.07,714,57,Left-hand bat,128,51,1,1044.3,22.47,45.5,rls,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+1,513,513,NZL,3,238,238,CJ Anderson,Yasir Shah,5,3,31,29.07,714,57,Left-hand bat,129,51,1,1044.3,22.47,45.5,rls,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+1,514,514,NZL,3,238,238,CJ Anderson,Yasir Shah,5,3,32,29.07,714,57,Left-hand bat,130,51,1,1044.3,22.47,45.5,rls,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+1,515,515,NZL,3,238,238,CJ Anderson,Yasir Shah,5,3,33,29.07,714,57,Left-hand bat,131,51,1,1044.3,22.47,45.5,rls,0,NZL,spin,yes,13.96712802768166,22.56228373702422

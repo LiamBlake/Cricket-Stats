@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1393,444,IND,9,251,363,Mohammed Shami,N Wagner,11,0,0,11.64,307,64.49,Right-hand bat,83,43,1,5442.4,29.63,55,lmf,0,IND,seam,yes,15.925,8.575
+3,1394,445,IND,9,251,363,Mohammed Shami,N Wagner,11,0,1,11.64,307,64.49,Right-hand bat,84,43,1,5442.4,29.63,55,lmf,0,IND,seam,yes,15.925,8.575
+3,1401,452,IND,9,259,371,Mohammed Shami,N Wagner,11,0,2,11.64,307,64.49,Right-hand bat,85,43,1,5442.4,29.63,55,lmf,0,IND,seam,yes,15.925,8.575
+3,1402,453,IND,9,259,371,Mohammed Shami,N Wagner,11,0,3,11.64,307,64.49,Right-hand bat,86,43,1,5442.4,29.63,55,lmf,1,IND,seam,yes,15.925,8.575
+3,1405,456,IND,9,261,373,Mohammed Shami,N Wagner,11,1,4,11.64,307,64.49,Right-hand bat,89,45,1,5442.4,29.63,55,lmf,0,IND,seam,yes,15.925,8.575
+3,1406,457,IND,9,261,373,Mohammed Shami,N Wagner,11,1,5,11.64,307,64.49,Right-hand bat,90,45,1,5442.4,29.63,55,lmf,0,IND,seam,yes,15.925,8.575

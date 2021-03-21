@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1350,554,ENG,7,293,-182,CR Woakes,JP Duminy,9,25,35,21.5,222,58.1,Right-hand bat,0,0,0,2328,37.29,62.9,rob,1,RSA,spin,no,29.506938775510207,3.8073469387755106
+2,1352,556,ENG,7,295,-180,CR Woakes,JP Duminy,9,26,36,21.5,222,58.1,Right-hand bat,2,2,0,2328,37.29,62.9,rob,0,RSA,spin,no,29.506938775510207,3.8073469387755106
+2,1353,557,ENG,7,295,-180,CR Woakes,JP Duminy,9,26,37,21.5,222,58.1,Right-hand bat,3,2,0,2328,37.29,62.9,rob,W,RSA,spin,no,29.506938775510207,3.8073469387755106

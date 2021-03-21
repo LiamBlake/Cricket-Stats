@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,468,468,IND,3,238,238,V Kohli,D Elgar,4,37,79,55.1,12239,57.63,Right-hand bat,0,0,0,1014.3,43.53,67.8,lo,4,IND,spin,yes,22.152,20.448
+1,469,469,IND,3,242,242,V Kohli,D Elgar,4,41,80,55.1,12239,57.63,Right-hand bat,1,4,0,1014.3,43.53,67.8,lo,0,IND,spin,yes,22.152,20.448
+1,470,470,IND,3,242,242,V Kohli,D Elgar,4,41,81,55.1,12239,57.63,Right-hand bat,2,4,0,1014.3,43.53,67.8,lo,0,IND,spin,yes,22.152,20.448
+1,471,471,IND,3,242,242,V Kohli,D Elgar,4,41,82,55.1,12239,57.63,Right-hand bat,3,4,0,1014.3,43.53,67.8,lo,0,IND,spin,yes,22.152,20.448
+1,472,472,IND,3,242,242,V Kohli,D Elgar,4,41,83,55.1,12239,57.63,Right-hand bat,4,4,0,1014.3,43.53,67.8,lo,1,IND,spin,yes,22.152,20.448
+1,480,480,IND,3,244,244,V Kohli,D Elgar,4,42,84,55.1,12239,57.63,Right-hand bat,6,6,0,1014.3,43.53,67.8,lo,2,IND,spin,yes,22.152,20.448
+1,481,481,IND,3,246,246,V Kohli,D Elgar,4,44,85,55.1,12239,57.63,Right-hand bat,7,8,0,1014.3,43.53,67.8,lo,1,IND,spin,yes,22.152,20.448
+1,929,929,IND,4,577,577,V Kohli,D Elgar,4,239,324,55.1,12239,57.63,Right-hand bat,12,11,0,1014.3,43.53,67.8,lo,1,IND,spin,yes,22.152,20.448
+1,932,932,IND,4,583,583,V Kohli,D Elgar,4,240,325,55.1,12239,57.63,Right-hand bat,15,17,0,1014.3,43.53,67.8,lo,0,IND,spin,yes,22.152,20.448
+1,933,933,IND,4,583,583,V Kohli,D Elgar,4,240,326,55.1,12239,57.63,Right-hand bat,16,17,0,1014.3,43.53,67.8,lo,0,IND,spin,yes,22.152,20.448
+1,934,934,IND,4,583,583,V Kohli,D Elgar,4,240,327,55.1,12239,57.63,Right-hand bat,17,17,0,1014.3,43.53,67.8,lo,1,IND,spin,yes,22.152,20.448
+1,943,943,IND,4,593,593,V Kohli,D Elgar,4,247,332,55.1,12239,57.63,Right-hand bat,20,19,0,1014.3,43.53,67.8,lo,1,IND,spin,yes,22.152,20.448
+1,945,945,IND,4,595,595,V Kohli,D Elgar,4,248,333,55.1,12239,57.63,Right-hand bat,22,21,0,1014.3,43.53,67.8,lo,4,IND,spin,yes,22.152,20.448
+1,946,946,IND,4,599,599,V Kohli,D Elgar,4,252,334,55.1,12239,57.63,Right-hand bat,23,25,0,1014.3,43.53,67.8,lo,1,IND,spin,yes,22.152,20.448

@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,261,261,RSA,0,154,154,GC Smith,Mohammad Ashraful,2,85,115,48.54,8392,61.32,Left-hand bat,3,5,0,1182.1,76.91,98.5,rob,0,BAN,spin,yes,21.091906721536354,13.182441700960222
+1,262,262,RSA,0,154,154,GC Smith,Mohammad Ashraful,2,85,116,48.54,8392,61.32,Left-hand bat,4,5,0,1182.1,76.91,98.5,rob,1,BAN,spin,yes,21.091906721536354,13.182441700960222
+1,272,272,RSA,0,166,166,GC Smith,Mohammad Ashraful,2,94,122,48.54,8392,61.32,Left-hand bat,8,8,0,1182.1,76.91,98.5,rob,0,BAN,spin,yes,21.091906721536354,13.182441700960222
+1,273,273,RSA,0,166,166,GC Smith,Mohammad Ashraful,2,94,123,48.54,8392,61.32,Left-hand bat,9,8,0,1182.1,76.91,98.5,rob,1,BAN,spin,yes,21.091906721536354,13.182441700960222
+1,275,275,RSA,0,168,168,GC Smith,Mohammad Ashraful,2,95,124,48.54,8392,61.32,Left-hand bat,11,10,0,1182.1,76.91,98.5,rob,0,BAN,spin,yes,21.091906721536354,13.182441700960222
+1,283,283,RSA,0,176,176,GC Smith,Mohammad Ashraful,2,100,127,48.54,8392,61.32,Left-hand bat,13,11,0,1182.1,76.91,98.5,rob,0,BAN,spin,yes,21.091906721536354,13.182441700960222
+1,284,284,RSA,0,176,176,GC Smith,Mohammad Ashraful,2,100,128,48.54,8392,61.32,Left-hand bat,14,11,0,1182.1,76.91,98.5,rob,1,BAN,spin,yes,21.091906721536354,13.182441700960222

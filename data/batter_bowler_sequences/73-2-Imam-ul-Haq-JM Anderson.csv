@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,369,17,PAK,0,5,-179,Imam-ul-Haq,JM Anderson,2,0,6,51.5,197,52.28,Left-hand bat,11,5,0,30246.2,27.34,56.5,rfm,0,ENG,seam,no,25.801248699271593,1.7793964620187306
+2,379,27,PAK,0,11,-173,Imam-ul-Haq,JM Anderson,2,4,12,51.5,197,52.28,Left-hand bat,15,6,0,30246.2,27.34,56.5,rfm,0,ENG,seam,no,25.801248699271593,1.7793964620187306
+2,380,28,PAK,0,11,-173,Imam-ul-Haq,JM Anderson,2,4,13,51.5,197,52.28,Left-hand bat,16,6,0,30246.2,27.34,56.5,rfm,0,ENG,seam,no,25.801248699271593,1.7793964620187306
+2,381,29,PAK,0,11,-173,Imam-ul-Haq,JM Anderson,2,4,14,51.5,197,52.28,Left-hand bat,17,6,0,30246.2,27.34,56.5,rfm,0,ENG,seam,no,25.801248699271593,1.7793964620187306

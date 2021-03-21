@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2143,237,WIN,9,145,-257,S Shillingford,MD Craig,10,6,4,11.3,485,46.59,Right-hand bat,68,51,4,234,23.5,29.2,rob,0,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2144,238,WIN,9,145,-257,S Shillingford,MD Craig,10,6,5,11.3,485,46.59,Right-hand bat,69,51,4,234,23.5,29.2,rob,4,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2145,239,WIN,9,149,-253,S Shillingford,MD Craig,10,10,6,11.3,485,46.59,Right-hand bat,70,55,4,234,23.5,29.2,rob,0,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2146,240,WIN,9,149,-253,S Shillingford,MD Craig,10,10,7,11.3,485,46.59,Right-hand bat,71,55,4,234,23.5,29.2,rob,0,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2153,247,WIN,9,149,-253,S Shillingford,MD Craig,10,10,8,11.3,485,46.59,Right-hand bat,72,55,4,234,23.5,29.2,rob,0,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2154,248,WIN,9,149,-253,S Shillingford,MD Craig,10,10,9,11.3,485,46.59,Right-hand bat,73,55,4,234,23.5,29.2,rob,4,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2155,249,WIN,9,153,-249,S Shillingford,MD Craig,10,14,10,11.3,485,46.59,Right-hand bat,74,59,4,234,23.5,29.2,rob,6,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2156,250,WIN,9,159,-243,S Shillingford,MD Craig,10,20,11,11.3,485,46.59,Right-hand bat,75,65,4,234,23.5,29.2,rob,0,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2157,251,WIN,9,159,-243,S Shillingford,MD Craig,10,20,12,11.3,485,46.59,Right-hand bat,76,65,4,234,23.5,29.2,rob,6,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2158,252,WIN,9,165,-237,S Shillingford,MD Craig,10,26,13,11.3,485,46.59,Right-hand bat,77,71,4,234,23.5,29.2,rob,0,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2177,271,WIN,9,191,-211,S Shillingford,MD Craig,10,36,20,11.3,485,46.59,Right-hand bat,84,81,4,234,23.5,29.2,rob,2,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2178,272,WIN,9,193,-209,S Shillingford,MD Craig,10,38,21,11.3,485,46.59,Right-hand bat,85,83,4,234,23.5,29.2,rob,0,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2179,273,WIN,9,193,-209,S Shillingford,MD Craig,10,38,22,11.3,485,46.59,Right-hand bat,86,83,4,234,23.5,29.2,rob,6,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2180,274,WIN,9,199,-203,S Shillingford,MD Craig,10,44,23,11.3,485,46.59,Right-hand bat,87,89,4,234,23.5,29.2,rob,2,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2181,275,WIN,9,201,-201,S Shillingford,MD Craig,10,46,24,11.3,485,46.59,Right-hand bat,88,91,4,234,23.5,29.2,rob,6,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2182,276,WIN,9,207,-195,S Shillingford,MD Craig,10,52,25,11.3,485,46.59,Right-hand bat,89,97,4,234,23.5,29.2,rob,0,WIN,spin,no,12.119183673469387,20.50938775510204

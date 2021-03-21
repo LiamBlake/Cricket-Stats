@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1458,104,IND,1,59,-347,CA Pujara,IS Sodhi,3,11,35,62.07,3119,51.74,Right-hand bat,0,0,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
+4,1459,105,IND,1,59,-347,CA Pujara,IS Sodhi,3,11,36,62.07,3119,51.74,Right-hand bat,1,0,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
+4,1460,106,IND,1,59,-347,CA Pujara,IS Sodhi,3,11,37,62.07,3119,51.74,Right-hand bat,2,0,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
+4,1461,107,IND,1,59,-347,CA Pujara,IS Sodhi,3,11,38,62.07,3119,51.74,Right-hand bat,3,0,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
+4,1462,108,IND,1,59,-347,CA Pujara,IS Sodhi,3,11,39,62.07,3119,51.74,Right-hand bat,4,0,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
+4,1463,109,IND,1,59,-347,CA Pujara,IS Sodhi,3,11,40,62.07,3119,51.74,Right-hand bat,5,0,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
+4,1472,118,IND,1,67,-339,CA Pujara,IS Sodhi,3,11,41,62.07,3119,51.74,Right-hand bat,8,3,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
+4,1473,119,IND,1,67,-339,CA Pujara,IS Sodhi,3,11,42,62.07,3119,51.74,Right-hand bat,9,3,0,1062.3,59.72,96.8,rls,1,NZL,spin,yes,27.93,1.47
+4,1483,129,IND,1,70,-336,CA Pujara,IS Sodhi,3,12,43,62.07,3119,51.74,Right-hand bat,12,5,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
+4,1484,130,IND,1,70,-336,CA Pujara,IS Sodhi,3,12,44,62.07,3119,51.74,Right-hand bat,13,5,0,1062.3,59.72,96.8,rls,6,NZL,spin,yes,27.93,1.47
+4,1485,131,IND,1,76,-330,CA Pujara,IS Sodhi,3,18,45,62.07,3119,51.74,Right-hand bat,14,11,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
+4,1486,132,IND,1,76,-330,CA Pujara,IS Sodhi,3,18,46,62.07,3119,51.74,Right-hand bat,15,11,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
+4,1487,133,IND,1,76,-330,CA Pujara,IS Sodhi,3,18,47,62.07,3119,51.74,Right-hand bat,16,11,0,1062.3,59.72,96.8,rls,1,NZL,spin,yes,27.93,1.47
+4,1504,150,IND,1,87,-319,CA Pujara,IS Sodhi,3,22,58,62.07,3119,51.74,Right-hand bat,21,17,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
+4,1505,151,IND,1,87,-319,CA Pujara,IS Sodhi,3,22,59,62.07,3119,51.74,Right-hand bat,22,17,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
+4,1506,152,IND,1,87,-319,CA Pujara,IS Sodhi,3,22,60,62.07,3119,51.74,Right-hand bat,23,17,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47

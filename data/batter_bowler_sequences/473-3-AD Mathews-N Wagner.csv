@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1411,628,SRL,3,238,-65,AD Mathews,N Wagner,5,33,54,52.83,6490,48.84,Right-hand bat,142,52,0,3516.4,34.48,60.6,lmf,0,NZL,seam,yes,30.9541015625,3.2021484375
+3,1412,629,SRL,3,238,-65,AD Mathews,N Wagner,5,33,55,52.83,6490,48.84,Right-hand bat,143,52,0,3516.4,34.48,60.6,lmf,0,NZL,seam,yes,30.9541015625,3.2021484375
+3,1413,630,SRL,3,238,-65,AD Mathews,N Wagner,5,33,56,52.83,6490,48.84,Right-hand bat,144,52,0,3516.4,34.48,60.6,lmf,0,NZL,seam,yes,30.9541015625,3.2021484375
+3,1420,637,SRL,3,244,-59,AD Mathews,N Wagner,5,33,57,52.83,6490,48.84,Right-hand bat,145,52,0,3516.4,34.48,60.6,lmf,0,NZL,seam,yes,30.9541015625,3.2021484375
+3,1421,638,SRL,3,244,-59,AD Mathews,N Wagner,5,33,58,52.83,6490,48.84,Right-hand bat,146,52,0,3516.4,34.48,60.6,lmf,0,NZL,seam,yes,30.9541015625,3.2021484375
+3,1422,639,SRL,3,244,-59,AD Mathews,N Wagner,5,33,59,52.83,6490,48.84,Right-hand bat,147,52,0,3516.4,34.48,60.6,lmf,1,NZL,seam,yes,30.9541015625,3.2021484375
+3,1432,649,SRL,3,246,-57,AD Mathews,N Wagner,5,35,65,52.83,6490,48.84,Right-hand bat,151,53,0,3516.4,34.48,60.6,lmf,0,NZL,seam,yes,30.9541015625,3.2021484375
+3,1433,650,SRL,3,246,-57,AD Mathews,N Wagner,5,35,66,52.83,6490,48.84,Right-hand bat,152,53,0,3516.4,34.48,60.6,lmf,1,NZL,seam,yes,30.9541015625,3.2021484375
+3,1444,661,SRL,3,256,-47,AD Mathews,N Wagner,5,40,71,52.83,6490,48.84,Right-hand bat,157,58,0,3516.4,34.48,60.6,lmf,0,NZL,seam,yes,30.9541015625,3.2021484375
+3,1445,662,SRL,3,256,-47,AD Mathews,N Wagner,5,40,72,52.83,6490,48.84,Right-hand bat,158,58,0,3516.4,34.48,60.6,lmf,0,NZL,seam,yes,30.9541015625,3.2021484375
+3,1446,663,SRL,3,256,-47,AD Mathews,N Wagner,5,40,73,52.83,6490,48.84,Right-hand bat,159,58,0,3516.4,34.48,60.6,lmf,0,NZL,seam,yes,30.9541015625,3.2021484375
+3,1447,664,SRL,3,256,-47,AD Mathews,N Wagner,5,40,74,52.83,6490,48.84,Right-hand bat,160,58,0,3516.4,34.48,60.6,lmf,4,NZL,seam,yes,30.9541015625,3.2021484375
+3,1448,665,SRL,3,260,-43,AD Mathews,N Wagner,5,44,75,52.83,6490,48.84,Right-hand bat,161,62,0,3516.4,34.48,60.6,lmf,1,NZL,seam,yes,30.9541015625,3.2021484375

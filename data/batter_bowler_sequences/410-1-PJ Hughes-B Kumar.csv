@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,14,14,AUS,1,10,10,PJ Hughes,B Kumar,3,0,0,33.25,2438,54.55,Left-hand bat,8,6,1,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,15,15,AUS,1,10,10,PJ Hughes,B Kumar,3,0,1,33.25,2438,54.55,Left-hand bat,9,6,1,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,16,16,AUS,1,10,10,PJ Hughes,B Kumar,3,0,2,33.25,2438,54.55,Left-hand bat,10,6,1,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,17,17,AUS,1,10,10,PJ Hughes,B Kumar,3,0,3,33.25,2438,54.55,Left-hand bat,11,6,1,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,24,24,AUS,1,14,14,PJ Hughes,B Kumar,3,0,4,33.25,2438,54.55,Left-hand bat,12,6,1,204,37.33,68,rm,1,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,50,50,AUS,2,30,30,PJ Hughes,B Kumar,3,9,16,33.25,2438,54.55,Left-hand bat,26,13,2,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,51,51,AUS,2,30,30,PJ Hughes,B Kumar,3,9,17,33.25,2438,54.55,Left-hand bat,27,13,2,204,37.33,68,rm,4,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,52,52,AUS,2,34,34,PJ Hughes,B Kumar,3,13,18,33.25,2438,54.55,Left-hand bat,28,17,2,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,53,53,AUS,2,34,34,PJ Hughes,B Kumar,3,13,19,33.25,2438,54.55,Left-hand bat,29,17,2,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,64,64,AUS,2,46,46,PJ Hughes,B Kumar,3,17,22,33.25,2438,54.55,Left-hand bat,34,20,2,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,65,65,AUS,2,46,46,PJ Hughes,B Kumar,3,17,23,33.25,2438,54.55,Left-hand bat,35,20,2,204,37.33,68,rm,1,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,76,76,AUS,2,48,48,PJ Hughes,B Kumar,3,18,30,33.25,2438,54.55,Left-hand bat,40,22,2,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,77,77,AUS,2,48,48,PJ Hughes,B Kumar,3,18,31,33.25,2438,54.55,Left-hand bat,41,22,2,204,37.33,68,rm,1,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,101,101,AUS,3,62,62,PJ Hughes,B Kumar,3,19,44,33.25,2438,54.55,Left-hand bat,53,36,3,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217

@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,960,6,RSA,0,0,-309,S van Zyl,R Ashwin,2,0,0,35.75,523,54.68,Left-hand bat,0,0,0,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,961,7,RSA,0,0,-309,S van Zyl,R Ashwin,2,0,1,35.75,523,54.68,Left-hand bat,1,0,0,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,962,8,RSA,0,0,-309,S van Zyl,R Ashwin,2,0,2,35.75,523,54.68,Left-hand bat,2,0,0,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,963,9,RSA,0,0,-309,S van Zyl,R Ashwin,2,0,3,35.75,523,54.68,Left-hand bat,3,0,0,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,964,10,RSA,0,0,-309,S van Zyl,R Ashwin,2,0,4,35.75,523,54.68,Left-hand bat,4,0,0,8844.4,25.93,52.3,rob,1lb,IND,spin,no,2.8525,13.4475
+4,975,21,RSA,0,7,-302,S van Zyl,R Ashwin,2,4,12,35.75,523,54.68,Left-hand bat,8,1,0,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,976,22,RSA,0,7,-302,S van Zyl,R Ashwin,2,4,13,35.75,523,54.68,Left-hand bat,9,1,0,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,977,23,RSA,0,7,-302,S van Zyl,R Ashwin,2,4,14,35.75,523,54.68,Left-hand bat,10,1,0,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,978,24,RSA,0,7,-302,S van Zyl,R Ashwin,2,4,15,35.75,523,54.68,Left-hand bat,11,1,0,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,997,43,RSA,0,17,-292,S van Zyl,R Ashwin,2,5,25,35.75,523,54.68,Left-hand bat,18,5,0,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,998,44,RSA,0,17,-292,S van Zyl,R Ashwin,2,5,26,35.75,523,54.68,Left-hand bat,19,5,0,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,999,45,RSA,0,17,-292,S van Zyl,R Ashwin,2,5,27,35.75,523,54.68,Left-hand bat,20,5,0,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,1000,46,RSA,0,17,-292,S van Zyl,R Ashwin,2,5,28,35.75,523,54.68,Left-hand bat,21,5,0,8844.4,25.93,52.3,rob,W,IND,spin,no,2.8525,13.4475

@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,117,117,RSA,1,57,57,HM Amla,NM Lyon,3,0,3,48.03,17866,50.27,Right-hand bat,15,10,1,19194,32.21,62.7,rob,1,RSA,spin,yes,24.416666666666668,8.13888888888889
+1,126,126,RSA,1,63,63,HM Amla,NM Lyon,3,2,10,48.03,17866,50.27,Right-hand bat,18,15,1,19194,32.21,62.7,rob,1,RSA,spin,yes,24.416666666666668,8.13888888888889
+1,238,238,RSA,1,125,125,HM Amla,NM Lyon,3,25,72,48.03,17866,50.27,Right-hand bat,28,23,1,19194,32.21,62.7,rob,0,RSA,spin,yes,24.416666666666668,8.13888888888889
+1,239,239,RSA,1,125,125,HM Amla,NM Lyon,3,25,73,48.03,17866,50.27,Right-hand bat,29,23,1,19194,32.21,62.7,rob,0,RSA,spin,yes,24.416666666666668,8.13888888888889
+1,258,258,RSA,1,137,137,HM Amla,NM Lyon,3,26,77,48.03,17866,50.27,Right-hand bat,36,26,1,19194,32.21,62.7,rob,0,RSA,spin,yes,24.416666666666668,8.13888888888889
+1,259,259,RSA,1,137,137,HM Amla,NM Lyon,3,26,78,48.03,17866,50.27,Right-hand bat,37,26,1,19194,32.21,62.7,rob,0,RSA,spin,yes,24.416666666666668,8.13888888888889
+1,260,260,RSA,1,137,137,HM Amla,NM Lyon,3,26,79,48.03,17866,50.27,Right-hand bat,38,26,1,19194,32.21,62.7,rob,1,RSA,spin,yes,24.416666666666668,8.13888888888889

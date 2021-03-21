@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2381,0,BAN,0,0,-255,Tamim Iqbal,TA Boult,1,0,0,36.71,3414,60.22,Left-hand bat,0,0,0,3078,29.13,60.3,lfm,0,BAN,seam,no,12.71111111111111,34.95555555555555
+4,2382,1,BAN,0,0,-255,Tamim Iqbal,TA Boult,1,0,1,36.71,3414,60.22,Left-hand bat,1,0,0,3078,29.13,60.3,lfm,1,BAN,seam,no,12.71111111111111,34.95555555555555
+4,2406,25,BAN,0,12,-243,Tamim Iqbal,TA Boult,1,10,13,36.71,3414,60.22,Left-hand bat,13,2,0,3078,29.13,60.3,lfm,0,BAN,seam,no,12.71111111111111,34.95555555555555
+4,2407,26,BAN,0,12,-243,Tamim Iqbal,TA Boult,1,10,14,36.71,3414,60.22,Left-hand bat,14,2,0,3078,29.13,60.3,lfm,0,BAN,seam,no,12.71111111111111,34.95555555555555
+4,2408,27,BAN,0,12,-243,Tamim Iqbal,TA Boult,1,10,15,36.71,3414,60.22,Left-hand bat,15,2,0,3078,29.13,60.3,lfm,0,BAN,seam,no,12.71111111111111,34.95555555555555
+4,2409,28,BAN,0,12,-243,Tamim Iqbal,TA Boult,1,10,16,36.71,3414,60.22,Left-hand bat,16,2,0,3078,29.13,60.3,lfm,0,BAN,seam,no,12.71111111111111,34.95555555555555
+4,2410,29,BAN,0,12,-243,Tamim Iqbal,TA Boult,1,10,17,36.71,3414,60.22,Left-hand bat,17,2,0,3078,29.13,60.3,lfm,0,BAN,seam,no,12.71111111111111,34.95555555555555
+4,2418,37,BAN,0,16,-239,Tamim Iqbal,TA Boult,1,10,22,36.71,3414,60.22,Left-hand bat,19,5,0,3078,29.13,60.3,lfm,0,BAN,seam,no,12.71111111111111,34.95555555555555
+4,2419,38,BAN,0,16,-239,Tamim Iqbal,TA Boult,1,10,23,36.71,3414,60.22,Left-hand bat,20,5,0,3078,29.13,60.3,lfm,0,BAN,seam,no,12.71111111111111,34.95555555555555
+4,2420,39,BAN,0,16,-239,Tamim Iqbal,TA Boult,1,10,24,36.71,3414,60.22,Left-hand bat,21,5,0,3078,29.13,60.3,lfm,4,BAN,seam,no,12.71111111111111,34.95555555555555
+4,2421,40,BAN,0,20,-235,Tamim Iqbal,TA Boult,1,14,25,36.71,3414,60.22,Left-hand bat,22,9,0,3078,29.13,60.3,lfm,0,BAN,seam,no,12.71111111111111,34.95555555555555
+4,2422,41,BAN,0,20,-235,Tamim Iqbal,TA Boult,1,14,26,36.71,3414,60.22,Left-hand bat,23,9,0,3078,29.13,60.3,lfm,0,BAN,seam,no,12.71111111111111,34.95555555555555

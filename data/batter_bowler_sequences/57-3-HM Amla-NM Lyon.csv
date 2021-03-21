@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1359,114,RSA,1,57,324,HM Amla,NM Lyon,3,3,4,48.03,17866,50.27,Right-hand bat,36,8,0,19194,32.21,62.7,rob,0,RSA,spin,yes,24.416666666666668,8.13888888888889
+3,1360,115,RSA,1,57,324,HM Amla,NM Lyon,3,3,5,48.03,17866,50.27,Right-hand bat,37,8,0,19194,32.21,62.7,rob,0,RSA,spin,yes,24.416666666666668,8.13888888888889
+3,1361,116,RSA,1,57,324,HM Amla,NM Lyon,3,3,6,48.03,17866,50.27,Right-hand bat,38,8,0,19194,32.21,62.7,rob,1,RSA,spin,yes,24.416666666666668,8.13888888888889
+3,1395,150,RSA,1,67,334,HM Amla,NM Lyon,3,9,23,48.03,17866,50.27,Right-hand bat,54,13,0,19194,32.21,62.7,rob,3,RSA,spin,yes,24.416666666666668,8.13888888888889
+3,1398,153,RSA,1,71,338,HM Amla,NM Lyon,3,12,24,48.03,17866,50.27,Right-hand bat,57,17,0,19194,32.21,62.7,rob,1,RSA,spin,yes,24.416666666666668,8.13888888888889
+3,1419,174,RSA,1,73,340,HM Amla,NM Lyon,3,14,36,48.03,17866,50.27,Right-hand bat,66,18,0,19194,32.21,62.7,rob,0,RSA,spin,yes,24.416666666666668,8.13888888888889
+3,1420,175,RSA,1,73,340,HM Amla,NM Lyon,3,14,37,48.03,17866,50.27,Right-hand bat,67,18,0,19194,32.21,62.7,rob,0,RSA,spin,yes,24.416666666666668,8.13888888888889
+3,1421,176,RSA,1,73,340,HM Amla,NM Lyon,3,14,38,48.03,17866,50.27,Right-hand bat,68,18,0,19194,32.21,62.7,rob,1,RSA,spin,yes,24.416666666666668,8.13888888888889
+3,1431,186,RSA,1,79,346,HM Amla,NM Lyon,3,16,45,48.03,17866,50.27,Right-hand bat,72,23,0,19194,32.21,62.7,rob,0,RSA,spin,yes,24.416666666666668,8.13888888888889
+3,1432,187,RSA,1,79,346,HM Amla,NM Lyon,3,16,46,48.03,17866,50.27,Right-hand bat,73,23,0,19194,32.21,62.7,rob,0,RSA,spin,yes,24.416666666666668,8.13888888888889
+3,1433,188,RSA,1,79,346,HM Amla,NM Lyon,3,16,47,48.03,17866,50.27,Right-hand bat,74,23,0,19194,32.21,62.7,rob,W,RSA,spin,yes,24.416666666666668,8.13888888888889

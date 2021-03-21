@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,126,126,AUS,1,50,50,DA Warner,C Overton,2,32,67,48.18,7706,76.29,Left-hand bat,0,0,0,210,29,52.5,rmf,0,AUS,seam,no,23.047091412742382,4.321329639889197
+1,127,127,AUS,1,50,50,DA Warner,C Overton,2,32,68,48.18,7706,76.29,Left-hand bat,1,0,0,210,29,52.5,rmf,0,AUS,seam,no,23.047091412742382,4.321329639889197
+1,128,128,AUS,1,50,50,DA Warner,C Overton,2,32,69,48.18,7706,76.29,Left-hand bat,2,0,0,210,29,52.5,rmf,0,AUS,seam,no,23.047091412742382,4.321329639889197
+1,129,129,AUS,1,50,50,DA Warner,C Overton,2,32,70,48.18,7706,76.29,Left-hand bat,3,0,0,210,29,52.5,rmf,1,AUS,seam,no,23.047091412742382,4.321329639889197
+1,162,162,AUS,1,62,62,DA Warner,C Overton,2,34,88,48.18,7706,76.29,Left-hand bat,18,11,0,210,29,52.5,rmf,0,AUS,seam,no,23.047091412742382,4.321329639889197
+1,163,163,AUS,1,62,62,DA Warner,C Overton,2,34,89,48.18,7706,76.29,Left-hand bat,19,11,0,210,29,52.5,rmf,1,AUS,seam,no,23.047091412742382,4.321329639889197
+1,174,174,AUS,1,64,64,DA Warner,C Overton,2,36,91,48.18,7706,76.29,Left-hand bat,24,12,0,210,29,52.5,rmf,4,AUS,seam,no,23.047091412742382,4.321329639889197
+1,175,175,AUS,1,68,68,DA Warner,C Overton,2,40,92,48.18,7706,76.29,Left-hand bat,25,16,0,210,29,52.5,rmf,4,AUS,seam,no,23.047091412742382,4.321329639889197
+1,176,176,AUS,1,72,72,DA Warner,C Overton,2,44,93,48.18,7706,76.29,Left-hand bat,26,20,0,210,29,52.5,rmf,1,AUS,seam,no,23.047091412742382,4.321329639889197
+1,178,178,AUS,1,74,74,DA Warner,C Overton,2,45,94,48.18,7706,76.29,Left-hand bat,28,22,0,210,29,52.5,rmf,0,AUS,seam,no,23.047091412742382,4.321329639889197
+1,179,179,AUS,1,74,74,DA Warner,C Overton,2,45,95,48.18,7706,76.29,Left-hand bat,29,22,0,210,29,52.5,rmf,0,AUS,seam,no,23.047091412742382,4.321329639889197

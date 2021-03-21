@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1108,10,ENG,0,7,32,AN Cook,TG Southee,1,4,6,48.74,15553,47.32,Left-hand bat,4,3,0,5160,33.61,63.7,rmf,1,ENG,seam,yes,16.65,1.35
+3,1116,18,ENG,0,15,40,AN Cook,TG Southee,1,8,13,48.74,15553,47.32,Left-hand bat,6,8,0,5160,33.61,63.7,rmf,0,ENG,seam,yes,16.65,1.35
+3,1117,19,ENG,0,15,40,AN Cook,TG Southee,1,8,14,48.74,15553,47.32,Left-hand bat,7,8,0,5160,33.61,63.7,rmf,0,ENG,seam,yes,16.65,1.35
+3,1118,20,ENG,0,15,40,AN Cook,TG Southee,1,8,15,48.74,15553,47.32,Left-hand bat,8,8,0,5160,33.61,63.7,rmf,3,ENG,seam,yes,16.65,1.35
+3,1128,30,ENG,0,25,50,AN Cook,TG Southee,1,14,19,48.74,15553,47.32,Left-hand bat,12,11,0,5160,33.61,63.7,rmf,0,ENG,seam,yes,16.65,1.35
+3,1129,31,ENG,0,25,50,AN Cook,TG Southee,1,14,20,48.74,15553,47.32,Left-hand bat,13,11,0,5160,33.61,63.7,rmf,0,ENG,seam,yes,16.65,1.35
+3,1130,32,ENG,0,25,50,AN Cook,TG Southee,1,14,21,48.74,15553,47.32,Left-hand bat,14,11,0,5160,33.61,63.7,rmf,0,ENG,seam,yes,16.65,1.35
+3,1131,33,ENG,0,25,50,AN Cook,TG Southee,1,14,22,48.74,15553,47.32,Left-hand bat,15,11,0,5160,33.61,63.7,rmf,0,ENG,seam,yes,16.65,1.35
+3,1132,34,ENG,0,25,50,AN Cook,TG Southee,1,14,23,48.74,15553,47.32,Left-hand bat,16,11,0,5160,33.61,63.7,rmf,3,ENG,seam,yes,16.65,1.35

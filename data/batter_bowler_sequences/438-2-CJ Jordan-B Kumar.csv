@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,946,579,ENG,7,318,170,CJ Jordan,B Kumar,9,0,0,20.83,216,57.87,Right-hand bat,138,81,1,1656.5,30.25,59.3,rm,0,ENG,seam,yes,21.839999999999996,2.4266666666666667
+2,956,589,ENG,7,328,180,CJ Jordan,B Kumar,9,3,5,20.83,216,57.87,Right-hand bat,142,82,1,1656.5,30.25,59.3,rm,0,ENG,seam,yes,21.839999999999996,2.4266666666666667
+2,957,590,ENG,7,328,180,CJ Jordan,B Kumar,9,3,6,20.83,216,57.87,Right-hand bat,143,82,1,1656.5,30.25,59.3,rm,4,ENG,seam,yes,21.839999999999996,2.4266666666666667
+2,958,591,ENG,7,332,184,CJ Jordan,B Kumar,9,7,7,20.83,216,57.87,Right-hand bat,144,86,1,1656.5,30.25,59.3,rm,0,ENG,seam,yes,21.839999999999996,2.4266666666666667

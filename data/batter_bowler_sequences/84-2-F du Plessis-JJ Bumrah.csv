@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,701,237,RSA,4,97,-90,F du Plessis,JJ Bumrah,6,4,9,45.1,6781,44.56,Right-hand bat,48,21,0,672.1,25.21,48,rf,0,IND,seam,no,20.125,0
+2,702,238,RSA,4,97,-90,F du Plessis,JJ Bumrah,6,4,10,45.1,6781,44.56,Right-hand bat,49,21,0,672.1,25.21,48,rf,4,IND,seam,no,20.125,0
+2,703,239,RSA,4,101,-86,F du Plessis,JJ Bumrah,6,8,11,45.1,6781,44.56,Right-hand bat,50,25,0,672.1,25.21,48,rf,0,IND,seam,no,20.125,0
+2,704,240,RSA,4,101,-86,F du Plessis,JJ Bumrah,6,8,12,45.1,6781,44.56,Right-hand bat,51,25,0,672.1,25.21,48,rf,0,IND,seam,no,20.125,0
+2,705,241,RSA,4,101,-86,F du Plessis,JJ Bumrah,6,8,13,45.1,6781,44.56,Right-hand bat,52,25,0,672.1,25.21,48,rf,0,IND,seam,no,20.125,0
+2,706,242,RSA,4,101,-86,F du Plessis,JJ Bumrah,6,8,14,45.1,6781,44.56,Right-hand bat,53,25,0,672.1,25.21,48,rf,0,IND,seam,no,20.125,0
+2,713,249,RSA,4,107,-80,F du Plessis,JJ Bumrah,6,8,15,45.1,6781,44.56,Right-hand bat,54,25,0,672.1,25.21,48,rf,0,IND,seam,no,20.125,0
+2,714,250,RSA,4,107,-80,F du Plessis,JJ Bumrah,6,8,16,45.1,6781,44.56,Right-hand bat,55,25,0,672.1,25.21,48,rf,0,IND,seam,no,20.125,0
+2,715,251,RSA,4,107,-80,F du Plessis,JJ Bumrah,6,8,17,45.1,6781,44.56,Right-hand bat,56,25,0,672.1,25.21,48,rf,0,IND,seam,no,20.125,0
+2,716,252,RSA,4,107,-80,F du Plessis,JJ Bumrah,6,8,18,45.1,6781,44.56,Right-hand bat,57,25,0,672.1,25.21,48,rf,W,IND,seam,no,20.125,0

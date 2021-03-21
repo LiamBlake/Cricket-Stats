@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1251,6,RSA,0,1,268,AK Markram,CJ Sayers,1,1,4,55.55,1549,64.55,Right-hand bat,0,0,0,294,73,147,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1252,7,RSA,0,1,268,AK Markram,CJ Sayers,1,1,5,55.55,1549,64.55,Right-hand bat,1,0,0,294,73,147,rm,3,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1255,10,RSA,0,7,274,AK Markram,CJ Sayers,1,4,6,55.55,1549,64.55,Right-hand bat,4,6,0,294,73,147,rm,4,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1256,11,RSA,0,11,278,AK Markram,CJ Sayers,1,8,7,55.55,1549,64.55,Right-hand bat,5,10,0,294,73,147,rm,1,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1311,66,RSA,0,25,292,AK Markram,CJ Sayers,1,18,31,55.55,1549,64.55,Right-hand bat,6,11,0,294,73,147,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1312,67,RSA,0,25,292,AK Markram,CJ Sayers,1,18,32,55.55,1549,64.55,Right-hand bat,7,11,0,294,73,147,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1313,68,RSA,0,25,292,AK Markram,CJ Sayers,1,18,33,55.55,1549,64.55,Right-hand bat,8,11,0,294,73,147,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1314,69,RSA,0,25,292,AK Markram,CJ Sayers,1,18,34,55.55,1549,64.55,Right-hand bat,9,11,0,294,73,147,rm,2,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1315,70,RSA,0,27,294,AK Markram,CJ Sayers,1,20,35,55.55,1549,64.55,Right-hand bat,10,13,0,294,73,147,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1316,71,RSA,0,27,294,AK Markram,CJ Sayers,1,20,36,55.55,1549,64.55,Right-hand bat,11,13,0,294,73,147,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1323,78,RSA,0,31,298,AK Markram,CJ Sayers,1,20,37,55.55,1549,64.55,Right-hand bat,12,13,0,294,73,147,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1324,79,RSA,0,31,298,AK Markram,CJ Sayers,1,20,38,55.55,1549,64.55,Right-hand bat,13,13,0,294,73,147,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1325,80,RSA,0,31,298,AK Markram,CJ Sayers,1,20,39,55.55,1549,64.55,Right-hand bat,14,13,0,294,73,147,rm,4,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1326,81,RSA,0,35,302,AK Markram,CJ Sayers,1,24,40,55.55,1549,64.55,Right-hand bat,15,17,0,294,73,147,rm,4,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1327,82,RSA,0,39,306,AK Markram,CJ Sayers,1,28,41,55.55,1549,64.55,Right-hand bat,16,21,0,294,73,147,rm,1,RSA,seam,yes,24.416666666666668,8.13888888888889

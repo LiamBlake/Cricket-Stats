@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,9,9,AUS,0,3,3,EJM Cowan,I Sharma,1,2,6,32.62,1817,43.09,Left-hand bat,3,0,0,9384.3,38.44,68.5,rfm,0,IND,seam,yes,9.7109375,29.1328125
+1,10,10,AUS,0,3,3,EJM Cowan,I Sharma,1,2,7,32.62,1817,43.09,Left-hand bat,4,0,0,9384.3,38.44,68.5,rfm,0,IND,seam,yes,9.7109375,29.1328125
+1,11,11,AUS,0,3,3,EJM Cowan,I Sharma,1,2,8,32.62,1817,43.09,Left-hand bat,5,0,0,9384.3,38.44,68.5,rfm,0,IND,seam,yes,9.7109375,29.1328125
+1,22,22,AUS,0,13,13,EJM Cowan,I Sharma,1,6,13,32.62,1817,43.09,Left-hand bat,10,4,0,9384.3,38.44,68.5,rfm,4,IND,seam,yes,9.7109375,29.1328125
+1,23,23,AUS,0,17,17,EJM Cowan,I Sharma,1,10,14,32.62,1817,43.09,Left-hand bat,11,8,0,9384.3,38.44,68.5,rfm,4,IND,seam,yes,9.7109375,29.1328125

@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1013,204,NZL,4,85,-353,JEC Franklin,SK Raina,6,15,50,22.15,1919,38.09,Left-hand bat,0,0,0,912.3,40.92,70.3,rob,0,IND,spin,no,6.764444444444445,18.602222222222224
+2,1014,205,NZL,4,85,-353,JEC Franklin,SK Raina,6,15,51,22.15,1919,38.09,Left-hand bat,1,0,0,912.3,40.92,70.3,rob,4,IND,spin,no,6.764444444444445,18.602222222222224
+2,1015,206,NZL,4,89,-349,JEC Franklin,SK Raina,6,19,52,22.15,1919,38.09,Left-hand bat,2,4,0,912.3,40.92,70.3,rob,0,IND,spin,no,6.764444444444445,18.602222222222224
+2,1016,207,NZL,4,89,-349,JEC Franklin,SK Raina,6,19,53,22.15,1919,38.09,Left-hand bat,3,4,0,912.3,40.92,70.3,rob,0,IND,spin,no,6.764444444444445,18.602222222222224
+2,1017,208,NZL,4,89,-349,JEC Franklin,SK Raina,6,19,54,22.15,1919,38.09,Left-hand bat,4,4,0,912.3,40.92,70.3,rob,0,IND,spin,no,6.764444444444445,18.602222222222224
+2,1018,209,NZL,4,89,-349,JEC Franklin,SK Raina,6,19,55,22.15,1919,38.09,Left-hand bat,5,4,0,912.3,40.92,70.3,rob,0,IND,spin,no,6.764444444444445,18.602222222222224

@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1037,66,SRL,1,15,-337,FDM Karunaratne,Kuldeep Yadav,1,8,33,34.86,5668,48.58,Left-hand bat,0,0,0,348,20.77,38.6,lc,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1038,67,SRL,1,15,-337,FDM Karunaratne,Kuldeep Yadav,1,8,34,34.86,5668,48.58,Left-hand bat,1,0,0,348,20.77,38.6,lc,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1039,68,SRL,1,15,-337,FDM Karunaratne,Kuldeep Yadav,1,8,35,34.86,5668,48.58,Left-hand bat,2,0,0,348,20.77,38.6,lc,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1040,69,SRL,1,15,-337,FDM Karunaratne,Kuldeep Yadav,1,8,36,34.86,5668,48.58,Left-hand bat,3,0,0,348,20.77,38.6,lc,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1041,70,SRL,1,15,-337,FDM Karunaratne,Kuldeep Yadav,1,8,37,34.86,5668,48.58,Left-hand bat,4,0,0,348,20.77,38.6,lc,4,IND,spin,no,9.814444444444444,16.952222222222222
+3,1042,71,SRL,1,19,-333,FDM Karunaratne,Kuldeep Yadav,1,12,38,34.86,5668,48.58,Left-hand bat,5,4,0,348,20.77,38.6,lc,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1049,78,SRL,1,19,-333,FDM Karunaratne,Kuldeep Yadav,1,12,39,34.86,5668,48.58,Left-hand bat,6,4,0,348,20.77,38.6,lc,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1050,79,SRL,1,19,-333,FDM Karunaratne,Kuldeep Yadav,1,12,40,34.86,5668,48.58,Left-hand bat,7,4,0,348,20.77,38.6,lc,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1051,80,SRL,1,19,-333,FDM Karunaratne,Kuldeep Yadav,1,12,41,34.86,5668,48.58,Left-hand bat,8,4,0,348,20.77,38.6,lc,4,IND,spin,no,9.814444444444444,16.952222222222222
+3,1052,81,SRL,1,23,-329,FDM Karunaratne,Kuldeep Yadav,1,16,42,34.86,5668,48.58,Left-hand bat,9,8,0,348,20.77,38.6,lc,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1053,82,SRL,1,23,-329,FDM Karunaratne,Kuldeep Yadav,1,16,43,34.86,5668,48.58,Left-hand bat,10,8,0,348,20.77,38.6,lc,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1054,83,SRL,1,23,-329,FDM Karunaratne,Kuldeep Yadav,1,16,44,34.86,5668,48.58,Left-hand bat,11,8,0,348,20.77,38.6,lc,0,IND,spin,no,9.814444444444444,16.952222222222222

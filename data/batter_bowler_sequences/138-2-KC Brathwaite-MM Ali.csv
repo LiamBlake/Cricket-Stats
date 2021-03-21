@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,697,72,WIN,0,40,-237,KC Brathwaite,MM Ali,1,9,31,34.83,8426,40.93,Right-hand bat,0,0,0,10692.2,36.37,60.4,rob,0,WIN,spin,yes,23.862857142857145,5.965714285714286
+2,698,73,WIN,0,40,-237,KC Brathwaite,MM Ali,1,9,32,34.83,8426,40.93,Right-hand bat,1,0,0,10692.2,36.37,60.4,rob,0,WIN,spin,yes,23.862857142857145,5.965714285714286
+2,699,74,WIN,0,40,-237,KC Brathwaite,MM Ali,1,9,33,34.83,8426,40.93,Right-hand bat,2,0,0,10692.2,36.37,60.4,rob,0,WIN,spin,yes,23.862857142857145,5.965714285714286
+2,700,75,WIN,0,40,-237,KC Brathwaite,MM Ali,1,9,34,34.83,8426,40.93,Right-hand bat,3,0,0,10692.2,36.37,60.4,rob,0,WIN,spin,yes,23.862857142857145,5.965714285714286
+2,701,76,WIN,0,40,-237,KC Brathwaite,MM Ali,1,9,35,34.83,8426,40.93,Right-hand bat,4,0,0,10692.2,36.37,60.4,rob,0,WIN,spin,yes,23.862857142857145,5.965714285714286
+2,702,77,WIN,0,40,-237,KC Brathwaite,MM Ali,1,9,36,34.83,8426,40.93,Right-hand bat,5,0,0,10692.2,36.37,60.4,rob,0,WIN,spin,yes,23.862857142857145,5.965714285714286
+2,710,85,WIN,0,44,-233,KC Brathwaite,MM Ali,1,9,41,34.83,8426,40.93,Right-hand bat,7,3,0,10692.2,36.37,60.4,rob,0,WIN,spin,yes,23.862857142857145,5.965714285714286
+2,711,86,WIN,0,44,-233,KC Brathwaite,MM Ali,1,9,42,34.83,8426,40.93,Right-hand bat,8,3,0,10692.2,36.37,60.4,rob,1,WIN,spin,yes,23.862857142857145,5.965714285714286
+2,722,97,WIN,0,51,-226,KC Brathwaite,MM Ali,1,10,43,34.83,8426,40.93,Right-hand bat,12,5,0,10692.2,36.37,60.4,rob,1,WIN,spin,yes,23.862857142857145,5.965714285714286
+2,726,101,WIN,0,53,-224,KC Brathwaite,MM Ali,1,11,44,34.83,8426,40.93,Right-hand bat,16,7,0,10692.2,36.37,60.4,rob,0,WIN,spin,yes,23.862857142857145,5.965714285714286
+2,727,102,WIN,0,53,-224,KC Brathwaite,MM Ali,1,11,45,34.83,8426,40.93,Right-hand bat,17,7,0,10692.2,36.37,60.4,rob,0,WIN,spin,yes,23.862857142857145,5.965714285714286
+2,734,109,WIN,0,57,-220,KC Brathwaite,MM Ali,1,12,47,34.83,8426,40.93,Right-hand bat,18,7,0,10692.2,36.37,60.4,rob,0,WIN,spin,yes,23.862857142857145,5.965714285714286
+2,735,110,WIN,0,57,-220,KC Brathwaite,MM Ali,1,12,48,34.83,8426,40.93,Right-hand bat,19,7,0,10692.2,36.37,60.4,rob,0,WIN,spin,yes,23.862857142857145,5.965714285714286
+2,736,111,WIN,0,57,-220,KC Brathwaite,MM Ali,1,12,49,34.83,8426,40.93,Right-hand bat,20,7,0,10692.2,36.37,60.4,rob,W,WIN,spin,yes,23.862857142857145,5.965714285714286

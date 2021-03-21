@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1136,387,IND,9,266,-254,A Mithun,M Muralitharan,11,0,0,16.5,69,47.82,Right-hand bat,93,58,4,44034.5,22.72,55,rob,0,SRL,spin,no,26.67091836734694,17.25765306122449
+2,1137,388,IND,9,266,-254,A Mithun,M Muralitharan,11,0,1,16.5,69,47.82,Right-hand bat,94,58,4,44034.5,22.72,55,rob,4,SRL,spin,no,26.67091836734694,17.25765306122449
+2,1138,389,IND,9,270,-250,A Mithun,M Muralitharan,11,4,2,16.5,69,47.82,Right-hand bat,95,62,4,44034.5,22.72,55,rob,0,SRL,spin,no,26.67091836734694,17.25765306122449
+2,1147,398,IND,9,276,-244,A Mithun,M Muralitharan,11,8,6,16.5,69,47.82,Right-hand bat,98,63,4,44034.5,22.72,55,rob,0,SRL,spin,no,26.67091836734694,17.25765306122449
+2,1148,399,IND,9,276,-244,A Mithun,M Muralitharan,11,8,7,16.5,69,47.82,Right-hand bat,99,63,4,44034.5,22.72,55,rob,0,SRL,spin,no,26.67091836734694,17.25765306122449
+2,1149,400,IND,9,276,-244,A Mithun,M Muralitharan,11,8,8,16.5,69,47.82,Right-hand bat,100,63,4,44034.5,22.72,55,rob,0,SRL,spin,no,26.67091836734694,17.25765306122449
+2,1150,401,IND,9,276,-244,A Mithun,M Muralitharan,11,8,9,16.5,69,47.82,Right-hand bat,101,63,4,44034.5,22.72,55,rob,W,SRL,spin,no,26.67091836734694,17.25765306122449

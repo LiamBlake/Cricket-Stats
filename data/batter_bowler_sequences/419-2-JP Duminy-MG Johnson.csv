@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,818,81,RSA,4,52,-345,JP Duminy,MG Johnson,6,0,0,31.82,2159,42.75,Left-hand bat,27,19,3,12666.3,27.5,49.8,lf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+2,819,82,RSA,4,52,-345,JP Duminy,MG Johnson,6,0,1,31.82,2159,42.75,Left-hand bat,28,19,3,12666.3,27.5,49.8,lf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+2,820,83,RSA,4,52,-345,JP Duminy,MG Johnson,6,0,2,31.82,2159,42.75,Left-hand bat,29,19,3,12666.3,27.5,49.8,lf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+2,827,90,RSA,4,56,-341,JP Duminy,MG Johnson,6,0,3,31.82,2159,42.75,Left-hand bat,30,19,3,12666.3,27.5,49.8,lf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+2,828,91,RSA,4,56,-341,JP Duminy,MG Johnson,6,0,4,31.82,2159,42.75,Left-hand bat,31,19,3,12666.3,27.5,49.8,lf,1,RSA,seam,yes,26.474048442906575,5.673010380622837
+2,832,95,RSA,4,58,-339,JP Duminy,MG Johnson,6,1,5,31.82,2159,42.75,Left-hand bat,35,21,3,12666.3,27.5,49.8,lf,4,RSA,seam,yes,26.474048442906575,5.673010380622837
+2,875,138,RSA,4,82,-315,JP Duminy,MG Johnson,6,10,22,31.82,2159,42.75,Left-hand bat,54,35,3,12666.3,27.5,49.8,lf,4b,RSA,seam,yes,26.474048442906575,5.673010380622837
+2,876,139,RSA,4,86,-311,JP Duminy,MG Johnson,6,10,23,31.82,2159,42.75,Left-hand bat,55,35,3,12666.3,27.5,49.8,lf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+2,877,140,RSA,4,86,-311,JP Duminy,MG Johnson,6,10,24,31.82,2159,42.75,Left-hand bat,56,35,3,12666.3,27.5,49.8,lf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+2,878,141,RSA,4,86,-311,JP Duminy,MG Johnson,6,10,25,31.82,2159,42.75,Left-hand bat,57,35,3,12666.3,27.5,49.8,lf,1,RSA,seam,yes,26.474048442906575,5.673010380622837

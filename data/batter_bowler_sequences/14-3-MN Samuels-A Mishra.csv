@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1744,220,WIN,3,88,-235,MN Samuels,A Mishra,4,41,63,33.39,7668,47.9,Right-hand bat,0,0,0,4434.1,34,65.2,rls,4,WIN,spin,no,15.918367346938778,21.22448979591837
+3,1745,221,WIN,3,92,-231,MN Samuels,A Mishra,4,45,64,33.39,7668,47.9,Right-hand bat,1,4,0,4434.1,34,65.2,rls,0,WIN,spin,no,15.918367346938778,21.22448979591837
+3,1746,222,WIN,3,92,-231,MN Samuels,A Mishra,4,45,65,33.39,7668,47.9,Right-hand bat,2,4,0,4434.1,34,65.2,rls,0,WIN,spin,no,15.918367346938778,21.22448979591837
+3,1747,223,WIN,3,92,-231,MN Samuels,A Mishra,4,45,66,33.39,7668,47.9,Right-hand bat,3,4,0,4434.1,34,65.2,rls,0,WIN,spin,no,15.918367346938778,21.22448979591837
+3,1748,224,WIN,3,92,-231,MN Samuels,A Mishra,4,45,67,33.39,7668,47.9,Right-hand bat,4,4,0,4434.1,34,65.2,rls,0,WIN,spin,no,15.918367346938778,21.22448979591837
+3,1749,225,WIN,3,92,-231,MN Samuels,A Mishra,4,45,68,33.39,7668,47.9,Right-hand bat,5,4,0,4434.1,34,65.2,rls,0,WIN,spin,no,15.918367346938778,21.22448979591837
+3,1756,232,WIN,4,92,-231,MN Samuels,A Mishra,4,45,69,33.39,7668,47.9,Right-hand bat,6,4,0,4434.1,34,65.2,rls,4,WIN,spin,no,15.918367346938778,21.22448979591837
+3,1757,233,WIN,4,96,-227,MN Samuels,A Mishra,4,49,70,33.39,7668,47.9,Right-hand bat,7,8,0,4434.1,34,65.2,rls,0,WIN,spin,no,15.918367346938778,21.22448979591837
+3,1758,234,WIN,4,96,-227,MN Samuels,A Mishra,4,49,71,33.39,7668,47.9,Right-hand bat,8,8,0,4434.1,34,65.2,rls,0,WIN,spin,no,15.918367346938778,21.22448979591837
+3,1759,235,WIN,4,96,-227,MN Samuels,A Mishra,4,49,72,33.39,7668,47.9,Right-hand bat,9,8,0,4434.1,34,65.2,rls,0,WIN,spin,no,15.918367346938778,21.22448979591837
+3,1760,236,WIN,4,96,-227,MN Samuels,A Mishra,4,49,73,33.39,7668,47.9,Right-hand bat,10,8,0,4434.1,34,65.2,rls,1,WIN,spin,no,15.918367346938778,21.22448979591837

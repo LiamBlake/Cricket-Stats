@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,66,66,ENG,1,36,36,JE Root,UT Yadav,3,0,0,53.03,8033,54.79,Right-hand bat,30,15,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,67,67,ENG,1,36,36,JE Root,UT Yadav,3,0,1,53.03,8033,54.79,Right-hand bat,31,15,1,3960.5,38.32,61,rf,4,IND,seam,yes,14.21875,18.28125
+1,68,68,ENG,1,40,40,JE Root,UT Yadav,3,4,2,53.03,8033,54.79,Right-hand bat,32,19,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,69,69,ENG,1,40,40,JE Root,UT Yadav,3,4,3,53.03,8033,54.79,Right-hand bat,33,19,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,70,70,ENG,1,40,40,JE Root,UT Yadav,3,4,4,53.03,8033,54.79,Right-hand bat,34,19,1,3960.5,38.32,61,rf,4,IND,seam,yes,14.21875,18.28125
+1,71,71,ENG,1,44,44,JE Root,UT Yadav,3,8,5,53.03,8033,54.79,Right-hand bat,35,23,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,78,78,ENG,1,44,44,JE Root,UT Yadav,3,8,6,53.03,8033,54.79,Right-hand bat,36,23,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,79,79,ENG,1,44,44,JE Root,UT Yadav,3,8,7,53.03,8033,54.79,Right-hand bat,37,23,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,80,80,ENG,1,44,44,JE Root,UT Yadav,3,8,8,53.03,8033,54.79,Right-hand bat,38,23,1,3960.5,38.32,61,rf,4,IND,seam,yes,14.21875,18.28125
+1,81,81,ENG,1,48,48,JE Root,UT Yadav,3,12,9,53.03,8033,54.79,Right-hand bat,39,27,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,82,82,ENG,1,48,48,JE Root,UT Yadav,3,12,10,53.03,8033,54.79,Right-hand bat,40,27,1,3960.5,38.32,61,rf,2,IND,seam,yes,14.21875,18.28125
+1,83,83,ENG,1,50,50,JE Root,UT Yadav,3,14,11,53.03,8033,54.79,Right-hand bat,41,29,1,3960.5,38.32,61,rf,1,IND,seam,yes,14.21875,18.28125

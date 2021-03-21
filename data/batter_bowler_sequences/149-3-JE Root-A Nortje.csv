@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1268,259,ENG,4,139,356,JE Root,A Nortje,4,23,45,48.4,13931,54.54,Right-hand bat,43,34,0,1044.3,35.1,55.1,rf,0,RSA,seam,yes,26.934375,0.690625
+3,1269,260,ENG,4,139,356,JE Root,A Nortje,4,23,46,48.4,13931,54.54,Right-hand bat,44,34,0,1044.3,35.1,55.1,rf,1,RSA,seam,yes,26.934375,0.690625
+3,1291,282,ENG,5,157,374,JE Root,A Nortje,4,27,56,48.4,13931,54.54,Right-hand bat,54,49,1,1044.3,35.1,55.1,rf,0,RSA,seam,yes,26.934375,0.690625
+3,1292,283,ENG,5,157,374,JE Root,A Nortje,4,27,57,48.4,13931,54.54,Right-hand bat,55,49,1,1044.3,35.1,55.1,rf,0,RSA,seam,yes,26.934375,0.690625
+3,1293,284,ENG,5,157,374,JE Root,A Nortje,4,27,58,48.4,13931,54.54,Right-hand bat,56,49,1,1044.3,35.1,55.1,rf,1,RSA,seam,yes,26.934375,0.690625
+3,1303,294,ENG,6,163,380,JE Root,A Nortje,4,30,61,48.4,13931,54.54,Right-hand bat,60,52,2,1044.3,35.1,55.1,rf,0,RSA,seam,yes,26.934375,0.690625
+3,1304,295,ENG,6,163,380,JE Root,A Nortje,4,30,62,48.4,13931,54.54,Right-hand bat,61,52,2,1044.3,35.1,55.1,rf,1,RSA,seam,yes,26.934375,0.690625

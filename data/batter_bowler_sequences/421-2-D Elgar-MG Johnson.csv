@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,809,35,RSA,1,8,-486,D Elgar,MG Johnson,3,0,1,29.54,723,44.95,Left-hand bat,16,3,0,13224.3,27.42,50.1,lf,0,RSA,seam,no,34.251953125,7.904296875
+2,810,36,RSA,1,8,-486,D Elgar,MG Johnson,3,0,2,29.54,723,44.95,Left-hand bat,17,3,0,13224.3,27.42,50.1,lf,0,RSA,seam,no,34.251953125,7.904296875
+2,817,43,RSA,1,8,-486,D Elgar,MG Johnson,3,0,3,29.54,723,44.95,Left-hand bat,18,3,0,13224.3,27.42,50.1,lf,4,RSA,seam,no,34.251953125,7.904296875
+2,818,44,RSA,1,12,-482,D Elgar,MG Johnson,3,4,4,29.54,723,44.95,Left-hand bat,19,7,0,13224.3,27.42,50.1,lf,0,RSA,seam,no,34.251953125,7.904296875
+2,819,45,RSA,1,12,-482,D Elgar,MG Johnson,3,4,5,29.54,723,44.95,Left-hand bat,20,7,0,13224.3,27.42,50.1,lf,0,RSA,seam,no,34.251953125,7.904296875
+2,820,46,RSA,1,12,-482,D Elgar,MG Johnson,3,4,6,29.54,723,44.95,Left-hand bat,21,7,0,13224.3,27.42,50.1,lf,0,RSA,seam,no,34.251953125,7.904296875
+2,821,47,RSA,1,12,-482,D Elgar,MG Johnson,3,4,7,29.54,723,44.95,Left-hand bat,22,7,0,13224.3,27.42,50.1,lf,3,RSA,seam,no,34.251953125,7.904296875

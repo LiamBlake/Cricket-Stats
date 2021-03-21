@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,893,396,ENG,7,239,117,SM Curran,MR Adair,9,0,0,31.81,818,62.22,Left-hand bat,93,47,2,162.4,16.33,27.6,rf,4,ENG,seam,yes,15.033750000000001,0.79125
+3,894,397,ENG,7,243,121,SM Curran,MR Adair,9,4,1,31.81,818,62.22,Left-hand bat,94,51,2,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125
+3,895,398,ENG,7,243,121,SM Curran,MR Adair,9,4,2,31.81,818,62.22,Left-hand bat,95,51,2,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125
+3,896,399,ENG,7,243,121,SM Curran,MR Adair,9,4,3,31.81,818,62.22,Left-hand bat,96,51,2,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125
+3,927,430,ENG,8,273,151,SM Curran,MR Adair,9,22,14,31.81,818,62.22,Left-hand bat,109,55,3,162.4,16.33,27.6,rf,4,ENG,seam,yes,15.033750000000001,0.79125
+3,928,431,ENG,8,277,155,SM Curran,MR Adair,9,26,15,31.81,818,62.22,Left-hand bat,110,59,3,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125
+3,929,432,ENG,8,277,155,SM Curran,MR Adair,9,26,16,31.81,818,62.22,Left-hand bat,111,59,3,162.4,16.33,27.6,rf,2,ENG,seam,yes,15.033750000000001,0.79125
+3,930,433,ENG,8,279,157,SM Curran,MR Adair,9,28,17,31.81,818,62.22,Left-hand bat,112,61,3,162.4,16.33,27.6,rf,1,ENG,seam,yes,15.033750000000001,0.79125

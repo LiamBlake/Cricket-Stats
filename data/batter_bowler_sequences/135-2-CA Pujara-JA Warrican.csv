@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,669,59,IND,1,62,-249,CA Pujara,JA Warrican,3,0,2,49.54,10424,47.05,Right-hand bat,14,13,0,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,670,60,IND,1,62,-249,CA Pujara,JA Warrican,3,0,3,49.54,10424,47.05,Right-hand bat,15,13,0,942,46.92,72.4,lo,1,WIN,spin,no,17.6,11.733333333333333
+2,672,62,IND,1,64,-247,CA Pujara,JA Warrican,3,1,4,49.54,10424,47.05,Right-hand bat,17,15,0,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,681,71,IND,1,68,-243,CA Pujara,JA Warrican,3,1,10,49.54,10424,47.05,Right-hand bat,20,18,0,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,682,72,IND,1,68,-243,CA Pujara,JA Warrican,3,1,11,49.54,10424,47.05,Right-hand bat,21,18,0,942,46.92,72.4,lo,4,WIN,spin,no,17.6,11.733333333333333
+2,683,73,IND,1,72,-239,CA Pujara,JA Warrican,3,5,12,49.54,10424,47.05,Right-hand bat,22,22,0,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,684,74,IND,1,72,-239,CA Pujara,JA Warrican,3,5,13,49.54,10424,47.05,Right-hand bat,23,22,0,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,693,83,IND,1,74,-237,CA Pujara,JA Warrican,3,5,19,49.54,10424,47.05,Right-hand bat,26,23,0,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,694,84,IND,1,74,-237,CA Pujara,JA Warrican,3,5,20,49.54,10424,47.05,Right-hand bat,27,23,0,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,695,85,IND,1,74,-237,CA Pujara,JA Warrican,3,5,21,49.54,10424,47.05,Right-hand bat,28,23,0,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,696,86,IND,1,74,-237,CA Pujara,JA Warrican,3,5,22,49.54,10424,47.05,Right-hand bat,29,23,0,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,704,94,IND,1,76,-235,CA Pujara,JA Warrican,3,5,27,49.54,10424,47.05,Right-hand bat,31,24,0,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,705,95,IND,1,76,-235,CA Pujara,JA Warrican,3,5,28,49.54,10424,47.05,Right-hand bat,32,24,0,942,46.92,72.4,lo,4,WIN,spin,no,17.6,11.733333333333333
+2,706,96,IND,1,80,-231,CA Pujara,JA Warrican,3,9,29,49.54,10424,47.05,Right-hand bat,33,28,0,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,707,97,IND,1,80,-231,CA Pujara,JA Warrican,3,9,30,49.54,10424,47.05,Right-hand bat,34,28,0,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333
+2,708,98,IND,1,80,-231,CA Pujara,JA Warrican,3,9,31,49.54,10424,47.05,Right-hand bat,35,28,0,942,46.92,72.4,lo,0,WIN,spin,no,17.6,11.733333333333333

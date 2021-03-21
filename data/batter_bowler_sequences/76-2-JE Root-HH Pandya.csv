@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,294,81,ENG,2,50,-57,JE Root,HH Pandya,3,5,23,51.9,11011,55.15,Right-hand bat,3,1,0,714.1,39.3,71.5,rmf,0,IND,seam,yes,23.444444444444443,0
+2,295,82,ENG,2,50,-57,JE Root,HH Pandya,3,5,24,51.9,11011,55.15,Right-hand bat,4,1,0,714.1,39.3,71.5,rmf,2,IND,seam,yes,23.444444444444443,0
+2,296,83,ENG,2,52,-55,JE Root,HH Pandya,3,7,25,51.9,11011,55.15,Right-hand bat,5,3,0,714.1,39.3,71.5,rmf,0,IND,seam,yes,23.444444444444443,0
+2,316,103,ENG,2,60,-47,JE Root,HH Pandya,3,7,32,51.9,11011,55.15,Right-hand bat,13,6,0,714.1,39.3,71.5,rmf,1,IND,seam,yes,23.444444444444443,0
+2,327,114,ENG,2,68,-39,JE Root,HH Pandya,3,10,36,51.9,11011,55.15,Right-hand bat,18,9,0,714.1,39.3,71.5,rmf,0,IND,seam,yes,23.444444444444443,0
+2,328,115,ENG,2,68,-39,JE Root,HH Pandya,3,10,37,51.9,11011,55.15,Right-hand bat,19,9,0,714.1,39.3,71.5,rmf,0,IND,seam,yes,23.444444444444443,0
+2,329,116,ENG,2,68,-39,JE Root,HH Pandya,3,10,38,51.9,11011,55.15,Right-hand bat,20,9,0,714.1,39.3,71.5,rmf,0,IND,seam,yes,23.444444444444443,0
+2,330,117,ENG,2,68,-39,JE Root,HH Pandya,3,10,39,51.9,11011,55.15,Right-hand bat,21,9,0,714.1,39.3,71.5,rmf,0,IND,seam,yes,23.444444444444443,0
+2,331,118,ENG,2,68,-39,JE Root,HH Pandya,3,10,40,51.9,11011,55.15,Right-hand bat,22,9,0,714.1,39.3,71.5,rmf,1,IND,seam,yes,23.444444444444443,0
+2,351,138,ENG,3,82,-25,JE Root,HH Pandya,3,16,46,51.9,11011,55.15,Right-hand bat,30,13,1,714.1,39.3,71.5,rmf,0,IND,seam,yes,23.444444444444443,0
+2,352,139,ENG,3,82,-25,JE Root,HH Pandya,3,16,47,51.9,11011,55.15,Right-hand bat,31,13,1,714.1,39.3,71.5,rmf,1,IND,seam,yes,23.444444444444443,0
+2,354,141,ENG,3,84,-23,JE Root,HH Pandya,3,17,48,51.9,11011,55.15,Right-hand bat,33,15,1,714.1,39.3,71.5,rmf,0,IND,seam,yes,23.444444444444443,0
+2,355,142,ENG,3,84,-23,JE Root,HH Pandya,3,17,49,51.9,11011,55.15,Right-hand bat,34,15,1,714.1,39.3,71.5,rmf,0,IND,seam,yes,23.444444444444443,0
+2,356,143,ENG,3,84,-23,JE Root,HH Pandya,3,17,50,51.9,11011,55.15,Right-hand bat,35,15,1,714.1,39.3,71.5,rmf,0,IND,seam,yes,23.444444444444443,0

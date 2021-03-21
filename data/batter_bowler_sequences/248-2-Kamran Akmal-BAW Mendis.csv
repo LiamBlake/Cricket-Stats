@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1024,541,PAK,8,329,37,Kamran Akmal,BAW Mendis,8,24,25,33.95,3426,62.43,Right-hand bat,141,83,0,1848.1,25,51.3,rob,0,SRL,spin,yes,16.335,7.864999999999999
+2,1025,542,PAK,8,329,37,Kamran Akmal,BAW Mendis,8,24,26,33.95,3426,62.43,Right-hand bat,142,83,0,1848.1,25,51.3,rob,0,SRL,spin,yes,16.335,7.864999999999999
+2,1026,543,PAK,8,329,37,Kamran Akmal,BAW Mendis,8,24,27,33.95,3426,62.43,Right-hand bat,143,83,0,1848.1,25,51.3,rob,0,SRL,spin,yes,16.335,7.864999999999999
+2,1027,544,PAK,8,329,37,Kamran Akmal,BAW Mendis,8,24,28,33.95,3426,62.43,Right-hand bat,144,83,0,1848.1,25,51.3,rob,0,SRL,spin,yes,16.335,7.864999999999999
+2,1028,545,PAK,8,329,37,Kamran Akmal,BAW Mendis,8,24,29,33.95,3426,62.43,Right-hand bat,145,83,0,1848.1,25,51.3,rob,1nb,SRL,spin,yes,16.335,7.864999999999999
+2,1030,547,PAK,8,332,40,Kamran Akmal,BAW Mendis,8,25,30,33.95,3426,62.43,Right-hand bat,147,85,0,1848.1,25,51.3,rob,0,SRL,spin,yes,16.335,7.864999999999999
+2,1037,554,PAK,8,338,46,Kamran Akmal,BAW Mendis,8,30,34,33.95,3426,62.43,Right-hand bat,148,85,0,1848.1,25,51.3,rob,W,SRL,spin,yes,16.335,7.864999999999999

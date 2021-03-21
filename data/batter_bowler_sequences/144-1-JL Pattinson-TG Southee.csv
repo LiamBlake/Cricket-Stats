@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,902,902,AUS,7,440,440,JL Pattinson,TG Southee,9,0,0,27.66,951,43.63,Left-hand bat,185,90,1,16002,29.82,59.2,rmf,0,AUS,seam,no,21.712653061224486,6.680816326530612
+1,903,903,AUS,7,440,440,JL Pattinson,TG Southee,9,0,1,27.66,951,43.63,Left-hand bat,186,90,1,16002,29.82,59.2,rmf,4,AUS,seam,no,21.712653061224486,6.680816326530612
+1,910,910,AUS,7,454,454,JL Pattinson,TG Southee,9,4,2,27.66,951,43.63,Left-hand bat,187,94,1,16002,29.82,59.2,rmf,1,AUS,seam,no,21.712653061224486,6.680816326530612
+1,912,912,AUS,7,456,456,JL Pattinson,TG Southee,9,5,3,27.66,951,43.63,Left-hand bat,189,96,1,16002,29.82,59.2,rmf,0,AUS,seam,no,21.712653061224486,6.680816326530612
+1,913,913,AUS,7,456,456,JL Pattinson,TG Southee,9,5,4,27.66,951,43.63,Left-hand bat,190,96,1,16002,29.82,59.2,rmf,1,AUS,seam,no,21.712653061224486,6.680816326530612
+1,922,922,AUS,8,458,458,JL Pattinson,TG Southee,9,6,5,27.66,951,43.63,Left-hand bat,193,98,1,16002,29.82,59.2,rmf,4,AUS,seam,no,21.712653061224486,6.680816326530612
+1,923,923,AUS,8,462,462,JL Pattinson,TG Southee,9,10,6,27.66,951,43.63,Left-hand bat,194,102,1,16002,29.82,59.2,rmf,1,AUS,seam,no,21.712653061224486,6.680816326530612

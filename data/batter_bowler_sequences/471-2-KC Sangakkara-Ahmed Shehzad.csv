@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1505,659,SRL,3,338,-113,KC Sangakkara,Ahmed Shehzad,3,140,298,58.94,21949,54.24,Left-hand bat,0,0,0,30,NA,NA,rls,1,SRL,spin,no,12.333984375,27.134765625
+2,1509,663,SRL,3,340,-111,KC Sangakkara,Ahmed Shehzad,3,141,299,58.94,21949,54.24,Left-hand bat,4,2,0,30,NA,NA,rls,0,SRL,spin,no,12.333984375,27.134765625
+2,1510,664,SRL,3,340,-111,KC Sangakkara,Ahmed Shehzad,3,141,300,58.94,21949,54.24,Left-hand bat,5,2,0,30,NA,NA,rls,0,SRL,spin,no,12.333984375,27.134765625
+2,1518,672,SRL,3,345,-106,KC Sangakkara,Ahmed Shehzad,3,142,305,58.94,21949,54.24,Left-hand bat,6,2,0,30,NA,NA,rls,1,SRL,spin,no,12.333984375,27.134765625
+2,1522,676,SRL,3,347,-104,KC Sangakkara,Ahmed Shehzad,3,143,306,58.94,21949,54.24,Left-hand bat,10,4,0,30,NA,NA,rls,1,SRL,spin,no,12.333984375,27.134765625
+2,1532,686,SRL,3,363,-88,KC Sangakkara,Ahmed Shehzad,3,145,309,58.94,21949,54.24,Left-hand bat,14,7,0,30,NA,NA,rls,1,SRL,spin,no,12.333984375,27.134765625
+2,1534,688,SRL,3,365,-86,KC Sangakkara,Ahmed Shehzad,3,146,310,58.94,21949,54.24,Left-hand bat,16,9,0,30,NA,NA,rls,2,SRL,spin,no,12.333984375,27.134765625
+2,1535,689,SRL,3,367,-84,KC Sangakkara,Ahmed Shehzad,3,148,311,58.94,21949,54.24,Left-hand bat,17,11,0,30,NA,NA,rls,0,SRL,spin,no,12.333984375,27.134765625
+2,1544,698,SRL,3,369,-82,KC Sangakkara,Ahmed Shehzad,3,148,314,58.94,21949,54.24,Left-hand bat,20,12,0,30,NA,NA,rls,0,SRL,spin,no,12.333984375,27.134765625
+2,1545,699,SRL,3,369,-82,KC Sangakkara,Ahmed Shehzad,3,148,315,58.94,21949,54.24,Left-hand bat,21,12,0,30,NA,NA,rls,2,SRL,spin,no,12.333984375,27.134765625
+2,1546,700,SRL,3,371,-80,KC Sangakkara,Ahmed Shehzad,3,150,316,58.94,21949,54.24,Left-hand bat,22,14,0,30,NA,NA,rls,1,SRL,spin,no,12.333984375,27.134765625

@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,901,375,AUS,8,198,-96,NM Lyon,JC Archer,10,8,5,12.23,2135,46.97,Right-hand bat,123,51,4,936,20.27,42.5,rf,0,ENG,seam,yes,20.83125,6.94375
+2,902,376,AUS,8,198,-96,NM Lyon,JC Archer,10,8,6,12.23,2135,46.97,Right-hand bat,124,51,4,936,20.27,42.5,rf,0,ENG,seam,yes,20.83125,6.94375
+2,903,377,AUS,8,198,-96,NM Lyon,JC Archer,10,8,7,12.23,2135,46.97,Right-hand bat,125,51,4,936,20.27,42.5,rf,0,ENG,seam,yes,20.83125,6.94375
+2,904,378,AUS,8,198,-96,NM Lyon,JC Archer,10,8,8,12.23,2135,46.97,Right-hand bat,126,51,4,936,20.27,42.5,rf,0,ENG,seam,yes,20.83125,6.94375
+2,924,398,AUS,8,216,-78,NM Lyon,JC Archer,10,18,20,12.23,2135,46.97,Right-hand bat,134,56,4,936,20.27,42.5,rf,0,ENG,seam,yes,20.83125,6.94375
+2,925,399,AUS,8,216,-78,NM Lyon,JC Archer,10,18,21,12.23,2135,46.97,Right-hand bat,135,56,4,936,20.27,42.5,rf,4,ENG,seam,yes,20.83125,6.94375
+2,926,400,AUS,8,220,-74,NM Lyon,JC Archer,10,22,22,12.23,2135,46.97,Right-hand bat,136,60,4,936,20.27,42.5,rf,0,ENG,seam,yes,20.83125,6.94375
+2,927,401,AUS,8,220,-74,NM Lyon,JC Archer,10,22,23,12.23,2135,46.97,Right-hand bat,137,60,4,936,20.27,42.5,rf,1,ENG,seam,yes,20.83125,6.94375
+2,935,409,AUS,8,224,-70,NM Lyon,JC Archer,10,25,29,12.23,2135,46.97,Right-hand bat,139,61,4,936,20.27,42.5,rf,W,ENG,seam,yes,20.83125,6.94375

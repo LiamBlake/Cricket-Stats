@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1729,918,RSA,7,498,496,VD Philander,AC Voges,8,58,108,24.64,1910,43.87,Right-hand bat,12,2,0,72.4,NA,NA,lo,0,AUS,spin,yes,28.81578947368421,7.684210526315789
+3,1730,919,RSA,7,498,496,VD Philander,AC Voges,8,58,109,24.64,1910,43.87,Right-hand bat,13,2,0,72.4,NA,NA,lo,0,AUS,spin,yes,28.81578947368421,7.684210526315789
+3,1731,920,RSA,7,498,496,VD Philander,AC Voges,8,58,110,24.64,1910,43.87,Right-hand bat,14,2,0,72.4,NA,NA,lo,0,AUS,spin,yes,28.81578947368421,7.684210526315789
+3,1732,921,RSA,7,498,496,VD Philander,AC Voges,8,58,111,24.64,1910,43.87,Right-hand bat,15,2,0,72.4,NA,NA,lo,0,AUS,spin,yes,28.81578947368421,7.684210526315789
+3,1733,922,RSA,7,498,496,VD Philander,AC Voges,8,58,112,24.64,1910,43.87,Right-hand bat,16,2,0,72.4,NA,NA,lo,0,AUS,spin,yes,28.81578947368421,7.684210526315789
+3,1734,923,RSA,7,498,496,VD Philander,AC Voges,8,58,113,24.64,1910,43.87,Right-hand bat,17,2,0,72.4,NA,NA,lo,1,AUS,spin,yes,28.81578947368421,7.684210526315789
+3,1742,931,RSA,7,500,498,VD Philander,AC Voges,8,59,120,24.64,1910,43.87,Right-hand bat,19,4,0,72.4,NA,NA,lo,0,AUS,spin,yes,28.81578947368421,7.684210526315789
+3,1743,932,RSA,7,500,498,VD Philander,AC Voges,8,59,121,24.64,1910,43.87,Right-hand bat,20,4,0,72.4,NA,NA,lo,0,AUS,spin,yes,28.81578947368421,7.684210526315789
+3,1744,933,RSA,7,500,498,VD Philander,AC Voges,8,59,122,24.64,1910,43.87,Right-hand bat,21,4,0,72.4,NA,NA,lo,0,AUS,spin,yes,28.81578947368421,7.684210526315789
+3,1745,934,RSA,7,500,498,VD Philander,AC Voges,8,59,123,24.64,1910,43.87,Right-hand bat,22,4,0,72.4,NA,NA,lo,1,AUS,spin,yes,28.81578947368421,7.684210526315789
+3,1753,942,RSA,7,504,502,VD Philander,AC Voges,8,61,128,24.64,1910,43.87,Right-hand bat,24,5,0,72.4,NA,NA,lo,0,AUS,spin,yes,28.81578947368421,7.684210526315789
+3,1754,943,RSA,7,504,502,VD Philander,AC Voges,8,61,129,24.64,1910,43.87,Right-hand bat,25,5,0,72.4,NA,NA,lo,1,AUS,spin,yes,28.81578947368421,7.684210526315789
+3,1756,945,RSA,7,506,504,VD Philander,AC Voges,8,62,130,24.64,1910,43.87,Right-hand bat,27,6,0,72.4,NA,NA,lo,1,AUS,spin,yes,28.81578947368421,7.684210526315789
+3,1758,947,RSA,7,508,506,VD Philander,AC Voges,8,63,131,24.64,1910,43.87,Right-hand bat,29,8,0,72.4,NA,NA,lo,0,AUS,spin,yes,28.81578947368421,7.684210526315789

@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,915,6,IND,0,0,118,V Sehwag,MG Johnson,2,0,0,49.15,5604,75.42,Right-hand bat,0,0,0,1176.2,34,65.4,lf,0,AUS,seam,yes,24.99,4.409999999999999
+3,916,7,IND,0,0,118,V Sehwag,MG Johnson,2,0,1,49.15,5604,75.42,Right-hand bat,1,0,0,1176.2,34,65.4,lf,0,AUS,seam,yes,24.99,4.409999999999999
+3,917,8,IND,0,0,118,V Sehwag,MG Johnson,2,0,2,49.15,5604,75.42,Right-hand bat,2,0,0,1176.2,34,65.4,lf,4,AUS,seam,yes,24.99,4.409999999999999
+3,918,9,IND,0,4,122,V Sehwag,MG Johnson,2,4,3,49.15,5604,75.42,Right-hand bat,3,4,0,1176.2,34,65.4,lf,1,AUS,seam,yes,24.99,4.409999999999999
+3,927,18,IND,0,10,128,V Sehwag,MG Johnson,2,10,10,49.15,5604,75.42,Right-hand bat,6,5,0,1176.2,34,65.4,lf,1lb,AUS,seam,yes,24.99,4.409999999999999
+3,929,20,IND,0,12,130,V Sehwag,MG Johnson,2,10,11,49.15,5604,75.42,Right-hand bat,8,6,0,1176.2,34,65.4,lf,4,AUS,seam,yes,24.99,4.409999999999999
+3,930,21,IND,0,16,134,V Sehwag,MG Johnson,2,14,12,49.15,5604,75.42,Right-hand bat,9,10,0,1176.2,34,65.4,lf,3,AUS,seam,yes,24.99,4.409999999999999
+3,932,23,IND,0,20,138,V Sehwag,MG Johnson,2,17,13,49.15,5604,75.42,Right-hand bat,11,14,0,1176.2,34,65.4,lf,0,AUS,seam,yes,24.99,4.409999999999999

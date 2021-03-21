@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,340,340,AUS,2,156,156,M Labuschagne,JA Raval,3,65,124,58.05,1962,56.21,Right-hand bat,1,1,0,84,34,84,rls,0,AUS,spin,yes,19.76988823142669,5.1019066403681785
+1,341,341,AUS,2,156,156,M Labuschagne,JA Raval,3,65,125,58.05,1962,56.21,Right-hand bat,2,1,0,84,34,84,rls,1,AUS,spin,yes,19.76988823142669,5.1019066403681785
+1,344,344,AUS,2,158,158,M Labuschagne,JA Raval,3,66,126,58.05,1962,56.21,Right-hand bat,5,3,0,84,34,84,rls,2,AUS,spin,yes,19.76988823142669,5.1019066403681785

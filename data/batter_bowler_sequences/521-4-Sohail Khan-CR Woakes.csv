@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2495,373,PAK,9,159,-183,Sohail Khan,CR Woakes,10,3,7,18,75,72,Right-hand bat,54,35,2,1932.2,25.69,49.5,rfm,0,ENG,seam,yes,32.12422839506173,5.181327160493827
+4,2496,374,PAK,9,159,-183,Sohail Khan,CR Woakes,10,3,8,18,75,72,Right-hand bat,55,35,2,1932.2,25.69,49.5,rfm,4,ENG,seam,yes,32.12422839506173,5.181327160493827
+4,2497,375,PAK,9,163,-179,Sohail Khan,CR Woakes,10,7,9,18,75,72,Right-hand bat,56,39,2,1932.2,25.69,49.5,rfm,4,ENG,seam,yes,32.12422839506173,5.181327160493827
+4,2498,376,PAK,9,167,-175,Sohail Khan,CR Woakes,10,11,10,18,75,72,Right-hand bat,57,43,2,1932.2,25.69,49.5,rfm,0,ENG,seam,yes,32.12422839506173,5.181327160493827
+4,2499,377,PAK,9,167,-175,Sohail Khan,CR Woakes,10,11,11,18,75,72,Right-hand bat,58,43,2,1932.2,25.69,49.5,rfm,4,ENG,seam,yes,32.12422839506173,5.181327160493827
+4,2500,378,PAK,9,171,-171,Sohail Khan,CR Woakes,10,15,12,18,75,72,Right-hand bat,59,47,2,1932.2,25.69,49.5,rfm,0,ENG,seam,yes,32.12422839506173,5.181327160493827
+4,2507,385,PAK,9,179,-163,Sohail Khan,CR Woakes,10,15,13,18,75,72,Right-hand bat,60,47,2,1932.2,25.69,49.5,rfm,2,ENG,seam,yes,32.12422839506173,5.181327160493827
+4,2508,386,PAK,9,181,-161,Sohail Khan,CR Woakes,10,17,14,18,75,72,Right-hand bat,61,49,2,1932.2,25.69,49.5,rfm,0,ENG,seam,yes,32.12422839506173,5.181327160493827
+4,2509,387,PAK,9,181,-161,Sohail Khan,CR Woakes,10,17,15,18,75,72,Right-hand bat,62,49,2,1932.2,25.69,49.5,rfm,0,ENG,seam,yes,32.12422839506173,5.181327160493827
+4,2510,388,PAK,9,181,-161,Sohail Khan,CR Woakes,10,17,16,18,75,72,Right-hand bat,63,49,2,1932.2,25.69,49.5,rfm,0,ENG,seam,yes,32.12422839506173,5.181327160493827
+4,2511,389,PAK,9,181,-161,Sohail Khan,CR Woakes,10,17,17,18,75,72,Right-hand bat,64,49,2,1932.2,25.69,49.5,rfm,0,ENG,seam,yes,32.12422839506173,5.181327160493827
+4,2512,390,PAK,9,181,-161,Sohail Khan,CR Woakes,10,17,18,18,75,72,Right-hand bat,65,49,2,1932.2,25.69,49.5,rfm,4,ENG,seam,yes,32.12422839506173,5.181327160493827

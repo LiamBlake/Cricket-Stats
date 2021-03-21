@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,491,491,RSA,5,262,262,Q de Kock,AD Mathews,7,55,67,51.85,1500,72.6,Left-hand bat,61,18,0,3708,54.38,119.6,rm,1,RSA,seam,no,20.818115412710007,4.857560262965668
+1,493,493,RSA,5,264,264,Q de Kock,AD Mathews,7,56,68,51.85,1500,72.6,Left-hand bat,63,20,0,3708,54.38,119.6,rm,1,RSA,seam,no,20.818115412710007,4.857560262965668
+1,503,503,RSA,5,270,270,Q de Kock,AD Mathews,7,58,72,51.85,1500,72.6,Left-hand bat,67,21,0,3708,54.38,119.6,rm,0,RSA,seam,no,20.818115412710007,4.857560262965668
+1,504,504,RSA,5,270,270,Q de Kock,AD Mathews,7,58,73,51.85,1500,72.6,Left-hand bat,68,21,0,3708,54.38,119.6,rm,0,RSA,seam,no,20.818115412710007,4.857560262965668
+1,505,505,RSA,5,270,270,Q de Kock,AD Mathews,7,58,74,51.85,1500,72.6,Left-hand bat,69,21,0,3708,54.38,119.6,rm,0,RSA,seam,no,20.818115412710007,4.857560262965668
+1,506,506,RSA,5,270,270,Q de Kock,AD Mathews,7,58,75,51.85,1500,72.6,Left-hand bat,70,21,0,3708,54.38,119.6,rm,0,RSA,seam,no,20.818115412710007,4.857560262965668
+1,507,507,RSA,5,270,270,Q de Kock,AD Mathews,7,58,76,51.85,1500,72.6,Left-hand bat,71,21,0,3708,54.38,119.6,rm,1,RSA,seam,no,20.818115412710007,4.857560262965668
+1,527,527,RSA,6,278,278,Q de Kock,AD Mathews,7,61,82,51.85,1500,72.6,Left-hand bat,79,24,0,3708,54.38,119.6,rm,4,RSA,seam,no,20.818115412710007,4.857560262965668
+1,528,528,RSA,6,282,282,Q de Kock,AD Mathews,7,65,83,51.85,1500,72.6,Left-hand bat,80,28,0,3708,54.38,119.6,rm,2,RSA,seam,no,20.818115412710007,4.857560262965668
+1,529,529,RSA,6,284,284,Q de Kock,AD Mathews,7,67,84,51.85,1500,72.6,Left-hand bat,81,30,0,3708,54.38,119.6,rm,0,RSA,seam,no,20.818115412710007,4.857560262965668
+1,530,530,RSA,6,284,284,Q de Kock,AD Mathews,7,67,85,51.85,1500,72.6,Left-hand bat,82,30,0,3708,54.38,119.6,rm,0,RSA,seam,no,20.818115412710007,4.857560262965668
+1,531,531,RSA,6,284,284,Q de Kock,AD Mathews,7,67,86,51.85,1500,72.6,Left-hand bat,83,30,0,3708,54.38,119.6,rm,0,RSA,seam,no,20.818115412710007,4.857560262965668
+1,532,532,RSA,6,284,284,Q de Kock,AD Mathews,7,67,87,51.85,1500,72.6,Left-hand bat,84,30,0,3708,54.38,119.6,rm,0,RSA,seam,no,20.818115412710007,4.857560262965668

@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1065,514,ENG,6,216,-79,LE Plunkett,Mohammed Shami,7,2,15,15.86,509,46.75,Right-hand bat,86,29,0,1698,32.74,54.7,rf,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+2,1066,515,ENG,6,216,-79,LE Plunkett,Mohammed Shami,7,2,16,15.86,509,46.75,Right-hand bat,87,29,0,1698,32.74,54.7,rf,1nb,ENG,seam,yes,23.580000000000002,5.8950000000000005
+2,1067,516,ENG,6,217,-78,LE Plunkett,Mohammed Shami,7,2,17,15.86,509,46.75,Right-hand bat,88,30,0,1698,32.74,54.7,rf,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+2,1068,517,ENG,6,217,-78,LE Plunkett,Mohammed Shami,7,2,18,15.86,509,46.75,Right-hand bat,89,30,0,1698,32.74,54.7,rf,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+2,1069,518,ENG,6,217,-78,LE Plunkett,Mohammed Shami,7,2,19,15.86,509,46.75,Right-hand bat,90,30,0,1698,32.74,54.7,rf,2,ENG,seam,yes,23.580000000000002,5.8950000000000005
+2,1070,519,ENG,6,219,-76,LE Plunkett,Mohammed Shami,7,4,20,15.86,509,46.75,Right-hand bat,91,32,0,1698,32.74,54.7,rf,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+2,1071,520,ENG,6,219,-76,LE Plunkett,Mohammed Shami,7,4,21,15.86,509,46.75,Right-hand bat,92,32,0,1698,32.74,54.7,rf,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+2,1110,559,ENG,6,248,-47,LE Plunkett,Mohammed Shami,7,12,33,15.86,509,46.75,Right-hand bat,101,41,0,1698,32.74,54.7,rf,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+2,1111,560,ENG,6,248,-47,LE Plunkett,Mohammed Shami,7,12,34,15.86,509,46.75,Right-hand bat,102,41,0,1698,32.74,54.7,rf,4,ENG,seam,yes,23.580000000000002,5.8950000000000005
+2,1112,561,ENG,6,252,-43,LE Plunkett,Mohammed Shami,7,16,35,15.86,509,46.75,Right-hand bat,103,45,0,1698,32.74,54.7,rf,1,ENG,seam,yes,23.580000000000002,5.8950000000000005
+2,1123,572,ENG,7,265,-30,LE Plunkett,Mohammed Shami,7,25,42,15.86,509,46.75,Right-hand bat,108,50,1,1698,32.74,54.7,rf,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+2,1124,573,ENG,7,265,-30,LE Plunkett,Mohammed Shami,7,25,43,15.86,509,46.75,Right-hand bat,109,50,1,1698,32.74,54.7,rf,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+2,1125,574,ENG,7,265,-30,LE Plunkett,Mohammed Shami,7,25,44,15.86,509,46.75,Right-hand bat,110,50,1,1698,32.74,54.7,rf,1,ENG,seam,yes,23.580000000000002,5.8950000000000005
+2,1174,623,ENG,9,298,3,LE Plunkett,Mohammed Shami,7,40,69,15.86,509,46.75,Right-hand bat,111,51,1,1698,32.74,54.7,rf,1,ENG,seam,yes,23.580000000000002,5.8950000000000005
+2,1176,625,ENG,9,300,5,LE Plunkett,Mohammed Shami,7,41,70,15.86,509,46.75,Right-hand bat,113,53,1,1698,32.74,54.7,rf,1lb,ENG,seam,yes,23.580000000000002,5.8950000000000005

@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1484,54,AUS,0,25,98,CJL Rogers,M Vijay,1,12,30,34.78,2534,45.3,Left-hand bat,0,0,0,180,91,180,rob,4,AUS,spin,yes,22.939453125,25.998046875
+3,1485,55,AUS,0,29,102,CJL Rogers,M Vijay,1,16,31,34.78,2534,45.3,Left-hand bat,1,4,0,180,91,180,rob,0,AUS,spin,yes,22.939453125,25.998046875
+3,1486,56,AUS,0,29,102,CJL Rogers,M Vijay,1,16,32,34.78,2534,45.3,Left-hand bat,2,4,0,180,91,180,rob,0,AUS,spin,yes,22.939453125,25.998046875
+3,1487,57,AUS,0,29,102,CJL Rogers,M Vijay,1,16,33,34.78,2534,45.3,Left-hand bat,3,4,0,180,91,180,rob,0,AUS,spin,yes,22.939453125,25.998046875
+3,1488,58,AUS,0,29,102,CJL Rogers,M Vijay,1,16,34,34.78,2534,45.3,Left-hand bat,4,4,0,180,91,180,rob,3,AUS,spin,yes,22.939453125,25.998046875
+3,1496,66,AUS,0,37,110,CJL Rogers,M Vijay,1,20,38,34.78,2534,45.3,Left-hand bat,6,7,0,180,91,180,rob,0,AUS,spin,yes,22.939453125,25.998046875
+3,1497,67,AUS,0,37,110,CJL Rogers,M Vijay,1,20,39,34.78,2534,45.3,Left-hand bat,7,7,0,180,91,180,rob,0,AUS,spin,yes,22.939453125,25.998046875
+3,1498,68,AUS,0,37,110,CJL Rogers,M Vijay,1,20,40,34.78,2534,45.3,Left-hand bat,8,7,0,180,91,180,rob,0,AUS,spin,yes,22.939453125,25.998046875
+3,1499,69,AUS,0,37,110,CJL Rogers,M Vijay,1,20,41,34.78,2534,45.3,Left-hand bat,9,7,0,180,91,180,rob,0,AUS,spin,yes,22.939453125,25.998046875
+3,1500,70,AUS,0,37,110,CJL Rogers,M Vijay,1,20,42,34.78,2534,45.3,Left-hand bat,10,7,0,180,91,180,rob,0,AUS,spin,yes,22.939453125,25.998046875
+3,1501,71,AUS,0,37,110,CJL Rogers,M Vijay,1,20,43,34.78,2534,45.3,Left-hand bat,11,7,0,180,91,180,rob,1,AUS,spin,yes,22.939453125,25.998046875

@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1456,555,NZL,6,225,151,IS Sodhi,Haris Sohail,8,0,1,23.36,828,53.62,Right-hand bat,25,9,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+3,1457,556,NZL,6,225,151,IS Sodhi,Haris Sohail,8,0,2,23.36,828,53.62,Right-hand bat,26,9,0,348,19,49.7,lo,2,NZL,spin,yes,9,11
+3,1458,557,NZL,6,227,153,IS Sodhi,Haris Sohail,8,2,3,23.36,828,53.62,Right-hand bat,27,11,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+3,1459,558,NZL,6,227,153,IS Sodhi,Haris Sohail,8,2,4,23.36,828,53.62,Right-hand bat,28,11,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+3,1460,559,NZL,6,227,153,IS Sodhi,Haris Sohail,8,2,5,23.36,828,53.62,Right-hand bat,29,11,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+3,1467,566,NZL,8,227,153,IS Sodhi,Haris Sohail,8,2,6,23.36,828,53.62,Right-hand bat,30,11,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+3,1468,567,NZL,8,227,153,IS Sodhi,Haris Sohail,8,2,7,23.36,828,53.62,Right-hand bat,31,11,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+3,1469,568,NZL,8,227,153,IS Sodhi,Haris Sohail,8,2,8,23.36,828,53.62,Right-hand bat,32,11,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+3,1470,569,NZL,8,227,153,IS Sodhi,Haris Sohail,8,2,9,23.36,828,53.62,Right-hand bat,33,11,0,348,19,49.7,lo,1,NZL,spin,yes,9,11

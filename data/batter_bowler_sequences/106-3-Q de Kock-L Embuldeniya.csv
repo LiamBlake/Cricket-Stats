@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,898,181,RSA,4,97,141,Q de Kock,L Embuldeniya,6,1,1,39.16,3186,72.53,Left-hand bat,48,16,2,216,19.5,36,lo,1,RSA,spin,no,19.506903353057197,5.85207100591716
+3,911,194,RSA,4,108,152,Q de Kock,L Embuldeniya,6,5,5,39.16,3186,72.53,Left-hand bat,54,21,2,216,19.5,36,lo,0,RSA,spin,no,19.506903353057197,5.85207100591716
+3,912,195,RSA,4,108,152,Q de Kock,L Embuldeniya,6,5,6,39.16,3186,72.53,Left-hand bat,55,21,2,216,19.5,36,lo,0,RSA,spin,no,19.506903353057197,5.85207100591716
+3,913,196,RSA,4,108,152,Q de Kock,L Embuldeniya,6,5,7,39.16,3186,72.53,Left-hand bat,56,21,2,216,19.5,36,lo,1,RSA,spin,no,19.506903353057197,5.85207100591716
+3,916,199,RSA,4,110,154,Q de Kock,L Embuldeniya,6,6,8,39.16,3186,72.53,Left-hand bat,59,23,2,216,19.5,36,lo,1,RSA,spin,no,19.506903353057197,5.85207100591716
+3,923,206,RSA,4,112,156,Q de Kock,L Embuldeniya,6,8,10,39.16,3186,72.53,Left-hand bat,60,24,2,216,19.5,36,lo,1,RSA,spin,no,19.506903353057197,5.85207100591716
+3,937,220,RSA,4,120,164,Q de Kock,L Embuldeniya,6,10,13,39.16,3186,72.53,Left-hand bat,68,30,2,216,19.5,36,lo,1,RSA,spin,no,19.506903353057197,5.85207100591716
+3,940,223,RSA,4,122,166,Q de Kock,L Embuldeniya,6,11,14,39.16,3186,72.53,Left-hand bat,71,32,2,216,19.5,36,lo,4,RSA,spin,no,19.506903353057197,5.85207100591716
+3,1020,303,RSA,4,185,229,Q de Kock,L Embuldeniya,6,51,56,39.16,3186,72.53,Left-hand bat,72,36,2,216,19.5,36,lo,0,RSA,spin,no,19.506903353057197,5.85207100591716
+3,1021,304,RSA,4,185,229,Q de Kock,L Embuldeniya,6,51,57,39.16,3186,72.53,Left-hand bat,73,36,2,216,19.5,36,lo,1,RSA,spin,no,19.506903353057197,5.85207100591716
+3,1025,308,RSA,4,187,231,Q de Kock,L Embuldeniya,6,52,58,39.16,3186,72.53,Left-hand bat,77,38,2,216,19.5,36,lo,1,RSA,spin,no,19.506903353057197,5.85207100591716
+3,1032,315,RSA,4,189,233,Q de Kock,L Embuldeniya,6,54,60,39.16,3186,72.53,Left-hand bat,78,39,2,216,19.5,36,lo,1,RSA,spin,no,19.506903353057197,5.85207100591716
+3,1037,320,RSA,4,191,235,Q de Kock,L Embuldeniya,6,55,61,39.16,3186,72.53,Left-hand bat,83,41,2,216,19.5,36,lo,W,RSA,spin,no,19.506903353057197,5.85207100591716

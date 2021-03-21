@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1340,373,ENG,4,174,-283,MM Ali,B Kumar,6,0,2,44,422,41.7,Left-hand bat,83,30,0,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1341,374,ENG,4,174,-283,MM Ali,B Kumar,6,0,3,44,422,41.7,Left-hand bat,84,30,0,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1348,381,ENG,4,180,-277,MM Ali,B Kumar,6,5,6,44,422,41.7,Left-hand bat,85,30,0,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1349,382,ENG,4,180,-277,MM Ali,B Kumar,6,5,7,44,422,41.7,Left-hand bat,86,30,0,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1350,383,ENG,4,180,-277,MM Ali,B Kumar,6,5,8,44,422,41.7,Left-hand bat,87,30,0,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1351,384,ENG,4,180,-277,MM Ali,B Kumar,6,5,9,44,422,41.7,Left-hand bat,88,30,0,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1352,385,ENG,4,180,-277,MM Ali,B Kumar,6,5,10,44,422,41.7,Left-hand bat,89,30,0,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1353,386,ENG,4,180,-277,MM Ali,B Kumar,6,5,11,44,422,41.7,Left-hand bat,90,30,0,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1360,393,ENG,4,186,-271,MM Ali,B Kumar,6,5,12,44,422,41.7,Left-hand bat,91,30,0,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1361,394,ENG,4,186,-271,MM Ali,B Kumar,6,5,13,44,422,41.7,Left-hand bat,92,30,0,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1362,395,ENG,4,186,-271,MM Ali,B Kumar,6,5,14,44,422,41.7,Left-hand bat,93,30,0,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1363,396,ENG,4,186,-271,MM Ali,B Kumar,6,5,15,44,422,41.7,Left-hand bat,94,30,0,804.5,30.21,57.7,rm,1,ENG,seam,no,39.952437574316285,6.3923900118906065

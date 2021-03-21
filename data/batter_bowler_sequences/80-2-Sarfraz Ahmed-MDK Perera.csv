@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1675,743,PAK,5,295,-124,Sarfraz Ahmed,MDK Perera,7,0,0,40.11,2908,73.1,Right-hand bat,195,65,1,5460.1,33.44,64.2,rob,0,SRL,spin,no,8.880624999999998,18.444375
+2,1676,744,PAK,5,295,-124,Sarfraz Ahmed,MDK Perera,7,0,1,40.11,2908,73.1,Right-hand bat,196,65,1,5460.1,33.44,64.2,rob,0,SRL,spin,no,8.880624999999998,18.444375
+2,1677,745,PAK,5,295,-124,Sarfraz Ahmed,MDK Perera,7,0,2,40.11,2908,73.1,Right-hand bat,197,65,1,5460.1,33.44,64.2,rob,1,SRL,spin,no,8.880624999999998,18.444375
+2,1685,753,PAK,5,297,-122,Sarfraz Ahmed,MDK Perera,7,2,6,40.11,2908,73.1,Right-hand bat,199,66,1,5460.1,33.44,64.2,rob,0,SRL,spin,no,8.880624999999998,18.444375
+2,1686,754,PAK,5,297,-122,Sarfraz Ahmed,MDK Perera,7,2,7,40.11,2908,73.1,Right-hand bat,200,66,1,5460.1,33.44,64.2,rob,1,SRL,spin,no,8.880624999999998,18.444375
+2,1688,756,PAK,5,299,-120,Sarfraz Ahmed,MDK Perera,7,3,8,40.11,2908,73.1,Right-hand bat,202,68,1,5460.1,33.44,64.2,rob,4,SRL,spin,no,8.880624999999998,18.444375
+2,1689,757,PAK,5,303,-116,Sarfraz Ahmed,MDK Perera,7,7,9,40.11,2908,73.1,Right-hand bat,203,72,1,5460.1,33.44,64.2,rob,6,SRL,spin,no,8.880624999999998,18.444375
+2,1690,758,PAK,5,309,-110,Sarfraz Ahmed,MDK Perera,7,13,10,40.11,2908,73.1,Right-hand bat,204,78,1,5460.1,33.44,64.2,rob,0,SRL,spin,no,8.880624999999998,18.444375

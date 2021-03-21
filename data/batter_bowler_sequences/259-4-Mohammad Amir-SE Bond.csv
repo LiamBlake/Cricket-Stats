@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2169,385,PAK,6,195,-55,Mohammad Amir,SE Bond,8,0,0,15.6,194,40.2,Left-hand bat,107,43,3,3372,22.09,38.7,rf,0,NZL,seam,yes,24.055,4.245
+4,2176,392,PAK,7,197,-53,Mohammad Amir,SE Bond,8,0,1,15.6,194,40.2,Left-hand bat,108,43,3,3372,22.09,38.7,rf,0,NZL,seam,yes,24.055,4.245
+4,2177,393,PAK,7,197,-53,Mohammad Amir,SE Bond,8,0,2,15.6,194,40.2,Left-hand bat,109,43,3,3372,22.09,38.7,rf,0,NZL,seam,yes,24.055,4.245
+4,2178,394,PAK,7,197,-53,Mohammad Amir,SE Bond,8,0,3,15.6,194,40.2,Left-hand bat,110,43,3,3372,22.09,38.7,rf,2,NZL,seam,yes,24.055,4.245
+4,2179,395,PAK,7,199,-51,Mohammad Amir,SE Bond,8,2,4,15.6,194,40.2,Left-hand bat,111,45,3,3372,22.09,38.7,rf,0,NZL,seam,yes,24.055,4.245
+4,2180,396,PAK,7,199,-51,Mohammad Amir,SE Bond,8,2,5,15.6,194,40.2,Left-hand bat,112,45,3,3372,22.09,38.7,rf,0,NZL,seam,yes,24.055,4.245
+4,2181,397,PAK,7,199,-51,Mohammad Amir,SE Bond,8,2,6,15.6,194,40.2,Left-hand bat,113,45,3,3372,22.09,38.7,rf,0,NZL,seam,yes,24.055,4.245
+4,2188,404,PAK,8,203,-47,Mohammad Amir,SE Bond,8,2,7,15.6,194,40.2,Left-hand bat,114,45,3,3372,22.09,38.7,rf,0,NZL,seam,yes,24.055,4.245
+4,2189,405,PAK,8,203,-47,Mohammad Amir,SE Bond,8,2,8,15.6,194,40.2,Left-hand bat,115,45,3,3372,22.09,38.7,rf,0,NZL,seam,yes,24.055,4.245
+4,2190,406,PAK,8,203,-47,Mohammad Amir,SE Bond,8,2,9,15.6,194,40.2,Left-hand bat,116,45,3,3372,22.09,38.7,rf,0,NZL,seam,yes,24.055,4.245
+4,2191,407,PAK,8,203,-47,Mohammad Amir,SE Bond,8,2,10,15.6,194,40.2,Left-hand bat,117,45,3,3372,22.09,38.7,rf,0,NZL,seam,yes,24.055,4.245
+4,2192,408,PAK,8,203,-47,Mohammad Amir,SE Bond,8,2,11,15.6,194,40.2,Left-hand bat,118,45,3,3372,22.09,38.7,rf,1,NZL,seam,yes,24.055,4.245

@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,394,394,IND,8,189,189,A Mithun,FH Edwards,10,0,2,24,249,48.19,Right-hand bat,110,48,2,7722.5,37.54,57.2,rf,0,WIN,seam,no,22.163452708907254,3.9577594123048665
+1,395,395,IND,8,189,189,A Mithun,FH Edwards,10,0,3,24,249,48.19,Right-hand bat,111,48,2,7722.5,37.54,57.2,rf,0,WIN,seam,no,22.163452708907254,3.9577594123048665
+1,396,396,IND,8,189,189,A Mithun,FH Edwards,10,0,4,24,249,48.19,Right-hand bat,112,48,2,7722.5,37.54,57.2,rf,0,WIN,seam,no,22.163452708907254,3.9577594123048665
+1,397,397,IND,8,189,189,A Mithun,FH Edwards,10,0,5,24,249,48.19,Right-hand bat,113,48,2,7722.5,37.54,57.2,rf,W,WIN,seam,no,22.163452708907254,3.9577594123048665

@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1969,386,AUS,2,149,-15,DA Warner,DJ Malan,2,74,208,48.72,8120,75,Left-hand bat,2,1,0,132,NA,NA,rls,0,AUS,spin,yes,37.53472222222222,7.506944444444444
+3,1970,387,AUS,2,149,-15,DA Warner,DJ Malan,2,74,209,48.72,8120,75,Left-hand bat,3,1,0,132,NA,NA,rls,0,AUS,spin,yes,37.53472222222222,7.506944444444444
+3,1971,388,AUS,2,149,-15,DA Warner,DJ Malan,2,74,210,48.72,8120,75,Left-hand bat,4,1,0,132,NA,NA,rls,0,AUS,spin,yes,37.53472222222222,7.506944444444444
+3,1972,389,AUS,2,149,-15,DA Warner,DJ Malan,2,74,211,48.72,8120,75,Left-hand bat,5,1,0,132,NA,NA,rls,3,AUS,spin,yes,37.53472222222222,7.506944444444444
+3,1980,397,AUS,2,159,-5,DA Warner,DJ Malan,2,83,218,48.72,8120,75,Left-hand bat,7,5,0,132,NA,NA,rls,0,AUS,spin,yes,37.53472222222222,7.506944444444444
+3,1981,398,AUS,2,159,-5,DA Warner,DJ Malan,2,83,219,48.72,8120,75,Left-hand bat,8,5,0,132,NA,NA,rls,1,AUS,spin,yes,37.53472222222222,7.506944444444444
+3,1991,408,AUS,2,169,5,DA Warner,DJ Malan,2,85,221,48.72,8120,75,Left-hand bat,12,10,0,132,NA,NA,rls,0,AUS,spin,yes,37.53472222222222,7.506944444444444
+3,1992,409,AUS,2,169,5,DA Warner,DJ Malan,2,85,222,48.72,8120,75,Left-hand bat,13,10,0,132,NA,NA,rls,1,AUS,spin,yes,37.53472222222222,7.506944444444444
+3,1994,411,AUS,2,171,7,DA Warner,DJ Malan,2,86,223,48.72,8120,75,Left-hand bat,15,12,0,132,NA,NA,rls,0,AUS,spin,yes,37.53472222222222,7.506944444444444
+3,1995,412,AUS,2,171,7,DA Warner,DJ Malan,2,86,224,48.72,8120,75,Left-hand bat,16,12,0,132,NA,NA,rls,0,AUS,spin,yes,37.53472222222222,7.506944444444444
+3,1996,413,AUS,2,171,7,DA Warner,DJ Malan,2,86,225,48.72,8120,75,Left-hand bat,17,12,0,132,NA,NA,rls,0,AUS,spin,yes,37.53472222222222,7.506944444444444

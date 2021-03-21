@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1912,636,PAK,7,317,245,Asad Shafiq,SR Patel,7,29,77,43.28,5593,46.43,Right-hand bat,90,66,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875
+3,1913,637,PAK,7,317,245,Asad Shafiq,SR Patel,7,29,78,43.28,5593,46.43,Right-hand bat,91,66,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875
+3,1914,638,PAK,7,317,245,Asad Shafiq,SR Patel,7,29,79,43.28,5593,46.43,Right-hand bat,92,66,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875
+3,1915,639,PAK,7,317,245,Asad Shafiq,SR Patel,7,29,80,43.28,5593,46.43,Right-hand bat,93,66,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875
+3,1916,640,PAK,7,317,245,Asad Shafiq,SR Patel,7,29,81,43.28,5593,46.43,Right-hand bat,94,66,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875
+3,1917,641,PAK,7,317,245,Asad Shafiq,SR Patel,7,29,82,43.28,5593,46.43,Right-hand bat,95,66,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875
+3,1924,648,PAK,7,317,245,Asad Shafiq,SR Patel,7,29,83,43.28,5593,46.43,Right-hand bat,96,66,1,858,60.14,122.5,lo,1,ENG,spin,yes,9.19625,17.07875
+3,1936,660,PAK,8,323,251,Asad Shafiq,SR Patel,7,31,85,43.28,5593,46.43,Right-hand bat,102,67,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875
+3,1937,661,PAK,8,323,251,Asad Shafiq,SR Patel,7,31,86,43.28,5593,46.43,Right-hand bat,103,67,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875
+3,1938,662,PAK,8,323,251,Asad Shafiq,SR Patel,7,31,87,43.28,5593,46.43,Right-hand bat,104,67,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875
+3,1939,663,PAK,8,323,251,Asad Shafiq,SR Patel,7,31,88,43.28,5593,46.43,Right-hand bat,105,67,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875
+3,1940,664,PAK,8,323,251,Asad Shafiq,SR Patel,7,31,89,43.28,5593,46.43,Right-hand bat,106,67,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875
+3,1941,665,PAK,8,323,251,Asad Shafiq,SR Patel,7,31,90,43.28,5593,46.43,Right-hand bat,107,67,1,858,60.14,122.5,lo,4,ENG,spin,yes,9.19625,17.07875
+3,1948,672,PAK,8,333,261,Asad Shafiq,SR Patel,7,36,92,43.28,5593,46.43,Right-hand bat,108,71,1,858,60.14,122.5,lo,1,ENG,spin,yes,9.19625,17.07875
+3,1953,677,PAK,8,335,263,Asad Shafiq,SR Patel,7,37,93,43.28,5593,46.43,Right-hand bat,113,73,1,858,60.14,122.5,lo,6,ENG,spin,yes,9.19625,17.07875

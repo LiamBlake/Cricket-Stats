@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1855,15,NZL,0,13,-19,HD Rutherford,Abdur Razzak,2,10,4,35.81,599,65.77,Left-hand bat,9,1,0,2652.3,68.95,126.4,lo,1,BAN,spin,yes,12.71111111111111,34.95555555555555
+3,1857,17,NZL,0,15,-17,HD Rutherford,Abdur Razzak,2,11,5,35.81,599,65.77,Left-hand bat,11,3,0,2652.3,68.95,126.4,lo,0,BAN,spin,yes,12.71111111111111,34.95555555555555
+3,1864,24,NZL,0,17,-15,HD Rutherford,Abdur Razzak,2,12,7,35.81,599,65.77,Left-hand bat,12,3,0,2652.3,68.95,126.4,lo,0,BAN,spin,yes,12.71111111111111,34.95555555555555
+3,1865,25,NZL,0,17,-15,HD Rutherford,Abdur Razzak,2,12,8,35.81,599,65.77,Left-hand bat,13,3,0,2652.3,68.95,126.4,lo,1,BAN,spin,yes,12.71111111111111,34.95555555555555
+3,1888,48,NZL,0,29,-3,HD Rutherford,Abdur Razzak,2,24,19,35.81,599,65.77,Left-hand bat,24,4,0,2652.3,68.95,126.4,lo,0,BAN,spin,yes,12.71111111111111,34.95555555555555
+3,1889,49,NZL,0,29,-3,HD Rutherford,Abdur Razzak,2,24,20,35.81,599,65.77,Left-hand bat,25,4,0,2652.3,68.95,126.4,lo,0,BAN,spin,yes,12.71111111111111,34.95555555555555
+3,1890,50,NZL,0,29,-3,HD Rutherford,Abdur Razzak,2,24,21,35.81,599,65.77,Left-hand bat,26,4,0,2652.3,68.95,126.4,lo,0,BAN,spin,yes,12.71111111111111,34.95555555555555
+3,1891,51,NZL,0,29,-3,HD Rutherford,Abdur Razzak,2,24,22,35.81,599,65.77,Left-hand bat,27,4,0,2652.3,68.95,126.4,lo,0,BAN,spin,yes,12.71111111111111,34.95555555555555
+3,1892,52,NZL,0,29,-3,HD Rutherford,Abdur Razzak,2,24,23,35.81,599,65.77,Left-hand bat,28,4,0,2652.3,68.95,126.4,lo,1,BAN,spin,yes,12.71111111111111,34.95555555555555
+3,1900,60,NZL,0,33,1,HD Rutherford,Abdur Razzak,2,26,25,35.81,599,65.77,Left-hand bat,30,6,0,2652.3,68.95,126.4,lo,0,BAN,spin,yes,12.71111111111111,34.95555555555555
+3,1901,61,NZL,0,33,1,HD Rutherford,Abdur Razzak,2,26,26,35.81,599,65.77,Left-hand bat,31,6,0,2652.3,68.95,126.4,lo,0,BAN,spin,yes,12.71111111111111,34.95555555555555
+3,1902,62,NZL,0,33,1,HD Rutherford,Abdur Razzak,2,26,27,35.81,599,65.77,Left-hand bat,32,6,0,2652.3,68.95,126.4,lo,1,BAN,spin,yes,12.71111111111111,34.95555555555555

@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,771,501,PAK,4,268,141,Umar Akmal,DE Bollinger,5,42,35,55.5,816,68.01,Right-hand bat,101,42,0,1176.1,22.5,45.2,lfm,1nb,AUS,seam,no,17.7625,6.7375
+2,772,502,PAK,4,269,142,Umar Akmal,DE Bollinger,5,42,36,55.5,816,68.01,Right-hand bat,102,43,0,1176.1,22.5,45.2,lfm,0,AUS,seam,no,17.7625,6.7375
+2,773,503,PAK,4,269,142,Umar Akmal,DE Bollinger,5,42,37,55.5,816,68.01,Right-hand bat,103,43,0,1176.1,22.5,45.2,lfm,0,AUS,seam,no,17.7625,6.7375
+2,774,504,PAK,4,269,142,Umar Akmal,DE Bollinger,5,42,38,55.5,816,68.01,Right-hand bat,104,43,0,1176.1,22.5,45.2,lfm,0,AUS,seam,no,17.7625,6.7375
+2,775,505,PAK,4,269,142,Umar Akmal,DE Bollinger,5,42,39,55.5,816,68.01,Right-hand bat,105,43,0,1176.1,22.5,45.2,lfm,1,AUS,seam,no,17.7625,6.7375
+2,784,514,PAK,4,273,146,Umar Akmal,DE Bollinger,5,45,45,55.5,816,68.01,Right-hand bat,108,44,0,1176.1,22.5,45.2,lfm,4,AUS,seam,no,17.7625,6.7375
+2,785,515,PAK,4,277,150,Umar Akmal,DE Bollinger,5,49,46,55.5,816,68.01,Right-hand bat,109,48,0,1176.1,22.5,45.2,lfm,0,AUS,seam,no,17.7625,6.7375
+2,786,516,PAK,4,277,150,Umar Akmal,DE Bollinger,5,49,47,55.5,816,68.01,Right-hand bat,110,48,0,1176.1,22.5,45.2,lfm,W,AUS,seam,no,17.7625,6.7375

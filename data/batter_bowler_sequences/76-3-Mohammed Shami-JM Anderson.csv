@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1006,262,IND,8,121,-168,Mohammed Shami,JM Anderson,10,0,0,13.66,530,77.35,Right-hand bat,64,21,3,30774.4,26.83,55.6,rfm,0,IND,seam,no,23.444444444444443,0
+3,1007,263,IND,8,121,-168,Mohammed Shami,JM Anderson,10,0,1,13.66,530,77.35,Right-hand bat,65,21,3,30774.4,26.83,55.6,rfm,0,IND,seam,no,23.444444444444443,0
+3,1014,270,IND,8,125,-164,Mohammed Shami,JM Anderson,10,0,2,13.66,530,77.35,Right-hand bat,66,21,3,30774.4,26.83,55.6,rfm,W,IND,seam,no,23.444444444444443,0

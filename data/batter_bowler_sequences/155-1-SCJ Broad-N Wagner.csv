@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,731,731,ENG,9,347,347,SCJ Broad,N Wagner,11,0,0,18.86,4898,64.31,Left-hand bat,182,86,2,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+1,732,732,ENG,9,347,347,SCJ Broad,N Wagner,11,0,1,18.86,4898,64.31,Left-hand bat,183,86,2,9474.1,27.04,52,lmf,1b,NZL,seam,yes,31.860879904875144,8.311533888228299
+1,742,742,ENG,9,353,353,SCJ Broad,N Wagner,11,1,4,18.86,4898,64.31,Left-hand bat,187,90,2,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+1,743,743,ENG,9,353,353,SCJ Broad,N Wagner,11,1,5,18.86,4898,64.31,Left-hand bat,188,90,2,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+1,744,744,ENG,9,353,353,SCJ Broad,N Wagner,11,1,6,18.86,4898,64.31,Left-hand bat,189,90,2,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+1,745,745,ENG,9,353,353,SCJ Broad,N Wagner,11,1,7,18.86,4898,64.31,Left-hand bat,190,90,2,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+1,746,746,ENG,9,353,353,SCJ Broad,N Wagner,11,1,8,18.86,4898,64.31,Left-hand bat,191,90,2,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+1,747,747,ENG,9,353,353,SCJ Broad,N Wagner,11,1,9,18.86,4898,64.31,Left-hand bat,192,90,2,9474.1,27.04,52,lmf,W,NZL,seam,yes,31.860879904875144,8.311533888228299

@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,608,608,NZL,5,385,385,BJ Watling,Z Khan,7,0,2,33.37,2158,44.85,Right-hand bat,173,127,2,18372.5,32.74,60,lfm,0,NZL,seam,no,27.93,1.47
+1,609,609,NZL,5,385,385,BJ Watling,Z Khan,7,0,3,33.37,2158,44.85,Right-hand bat,174,127,2,18372.5,32.74,60,lfm,0,NZL,seam,no,27.93,1.47
+1,616,616,NZL,5,393,393,BJ Watling,Z Khan,7,0,4,33.37,2158,44.85,Right-hand bat,175,127,2,18372.5,32.74,60,lfm,1,NZL,seam,no,27.93,1.47

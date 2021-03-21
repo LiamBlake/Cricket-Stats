@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,454,115,SRL,3,53,-168,AD Mathews,JDS Neesham,5,10,15,51.5,6525,48.93,Right-hand bat,0,0,0,654.5,32.81,59.9,rmf,0,NZL,seam,yes,29.645714285714284,7.411428571428571
+2,455,116,SRL,3,53,-168,AD Mathews,JDS Neesham,5,10,16,51.5,6525,48.93,Right-hand bat,1,0,0,654.5,32.81,59.9,rmf,4,NZL,seam,yes,29.645714285714284,7.411428571428571
+2,456,117,SRL,3,57,-164,AD Mathews,JDS Neesham,5,14,17,51.5,6525,48.93,Right-hand bat,2,4,0,654.5,32.81,59.9,rmf,0,NZL,seam,yes,29.645714285714284,7.411428571428571
+2,457,118,SRL,3,57,-164,AD Mathews,JDS Neesham,5,14,18,51.5,6525,48.93,Right-hand bat,3,4,0,654.5,32.81,59.9,rmf,0,NZL,seam,yes,29.645714285714284,7.411428571428571
+2,458,119,SRL,3,57,-164,AD Mathews,JDS Neesham,5,14,19,51.5,6525,48.93,Right-hand bat,4,4,0,654.5,32.81,59.9,rmf,0,NZL,seam,yes,29.645714285714284,7.411428571428571
+2,459,120,SRL,3,57,-164,AD Mathews,JDS Neesham,5,14,20,51.5,6525,48.93,Right-hand bat,5,4,0,654.5,32.81,59.9,rmf,1,NZL,seam,yes,29.645714285714284,7.411428571428571

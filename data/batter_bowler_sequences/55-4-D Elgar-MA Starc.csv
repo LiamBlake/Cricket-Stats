@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1619,1,RSA,0,1,-99,D Elgar,MA Starc,2,0,0,40.81,6441,45.62,Left-hand bat,1,1,0,8718.4,27.49,48.4,lf,0,AUS,seam,no,24.23356401384083,4.178200692041522
+4,1620,2,RSA,0,1,-99,D Elgar,MA Starc,2,0,1,40.81,6441,45.62,Left-hand bat,2,1,0,8718.4,27.49,48.4,lf,0,AUS,seam,no,24.23356401384083,4.178200692041522
+4,1621,3,RSA,0,1,-99,D Elgar,MA Starc,2,0,2,40.81,6441,45.62,Left-hand bat,3,1,0,8718.4,27.49,48.4,lf,0,AUS,seam,no,24.23356401384083,4.178200692041522
+4,1622,4,RSA,0,1,-99,D Elgar,MA Starc,2,0,3,40.81,6441,45.62,Left-hand bat,4,1,0,8718.4,27.49,48.4,lf,0,AUS,seam,no,24.23356401384083,4.178200692041522
+4,1623,5,RSA,0,1,-99,D Elgar,MA Starc,2,0,4,40.81,6441,45.62,Left-hand bat,5,1,0,8718.4,27.49,48.4,lf,0,AUS,seam,no,24.23356401384083,4.178200692041522
+4,1630,12,RSA,0,7,-93,D Elgar,MA Starc,2,0,5,40.81,6441,45.62,Left-hand bat,6,1,0,8718.4,27.49,48.4,lf,0,AUS,seam,no,24.23356401384083,4.178200692041522
+4,1631,13,RSA,0,7,-93,D Elgar,MA Starc,2,0,6,40.81,6441,45.62,Left-hand bat,7,1,0,8718.4,27.49,48.4,lf,0,AUS,seam,no,24.23356401384083,4.178200692041522
+4,1632,14,RSA,0,7,-93,D Elgar,MA Starc,2,0,7,40.81,6441,45.62,Left-hand bat,8,1,0,8718.4,27.49,48.4,lf,0,AUS,seam,no,24.23356401384083,4.178200692041522
+4,1633,15,RSA,0,7,-93,D Elgar,MA Starc,2,0,8,40.81,6441,45.62,Left-hand bat,9,1,0,8718.4,27.49,48.4,lf,2,AUS,seam,no,24.23356401384083,4.178200692041522
+4,1634,16,RSA,0,9,-91,D Elgar,MA Starc,2,2,9,40.81,6441,45.62,Left-hand bat,10,3,0,8718.4,27.49,48.4,lf,0,AUS,seam,no,24.23356401384083,4.178200692041522
+4,1635,17,RSA,0,9,-91,D Elgar,MA Starc,2,2,10,40.81,6441,45.62,Left-hand bat,11,3,0,8718.4,27.49,48.4,lf,0,AUS,seam,no,24.23356401384083,4.178200692041522
+4,1643,25,RSA,0,11,-89,D Elgar,MA Starc,2,2,14,40.81,6441,45.62,Left-hand bat,13,4,0,8718.4,27.49,48.4,lf,0,AUS,seam,no,24.23356401384083,4.178200692041522
+4,1644,26,RSA,0,11,-89,D Elgar,MA Starc,2,2,15,40.81,6441,45.62,Left-hand bat,14,4,0,8718.4,27.49,48.4,lf,3,AUS,seam,no,24.23356401384083,4.178200692041522

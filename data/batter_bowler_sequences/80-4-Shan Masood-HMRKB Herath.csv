@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2337,18,PAK,0,3,-132,Shan Masood,HMRKB Herath,1,1,3,24,1229,42.96,Left-hand bat,6,1,0,23832.3,27.82,59.5,lo,0,SRL,spin,no,8.880624999999998,18.444375
+4,2338,19,PAK,0,3,-132,Shan Masood,HMRKB Herath,1,1,4,24,1229,42.96,Left-hand bat,7,1,0,23832.3,27.82,59.5,lo,0,SRL,spin,no,8.880624999999998,18.444375
+4,2339,20,PAK,0,3,-132,Shan Masood,HMRKB Herath,1,1,5,24,1229,42.96,Left-hand bat,8,1,0,23832.3,27.82,59.5,lo,0,SRL,spin,no,8.880624999999998,18.444375
+4,2340,21,PAK,0,3,-132,Shan Masood,HMRKB Herath,1,1,6,24,1229,42.96,Left-hand bat,9,1,0,23832.3,27.82,59.5,lo,0,SRL,spin,no,8.880624999999998,18.444375
+4,2341,22,PAK,0,3,-132,Shan Masood,HMRKB Herath,1,1,7,24,1229,42.96,Left-hand bat,10,1,0,23832.3,27.82,59.5,lo,1,SRL,spin,no,8.880624999999998,18.444375
+4,2364,45,PAK,2,13,-122,Shan Masood,HMRKB Herath,1,6,15,24,1229,42.96,Left-hand bat,21,3,1,23832.3,27.82,59.5,lo,0,SRL,spin,no,8.880624999999998,18.444375
+4,2365,46,PAK,2,13,-122,Shan Masood,HMRKB Herath,1,6,16,24,1229,42.96,Left-hand bat,22,3,1,23832.3,27.82,59.5,lo,0,SRL,spin,no,8.880624999999998,18.444375
+4,2366,47,PAK,2,13,-122,Shan Masood,HMRKB Herath,1,6,17,24,1229,42.96,Left-hand bat,23,3,1,23832.3,27.82,59.5,lo,0,SRL,spin,no,8.880624999999998,18.444375
+4,2373,54,PAK,2,15,-120,Shan Masood,HMRKB Herath,1,6,18,24,1229,42.96,Left-hand bat,24,3,1,23832.3,27.82,59.5,lo,0,SRL,spin,no,8.880624999999998,18.444375
+4,2374,55,PAK,2,15,-120,Shan Masood,HMRKB Herath,1,6,19,24,1229,42.96,Left-hand bat,25,3,1,23832.3,27.82,59.5,lo,0,SRL,spin,no,8.880624999999998,18.444375
+4,2375,56,PAK,2,15,-120,Shan Masood,HMRKB Herath,1,6,20,24,1229,42.96,Left-hand bat,26,3,1,23832.3,27.82,59.5,lo,0,SRL,spin,no,8.880624999999998,18.444375
+4,2376,57,PAK,2,15,-120,Shan Masood,HMRKB Herath,1,6,21,24,1229,42.96,Left-hand bat,27,3,1,23832.3,27.82,59.5,lo,1,SRL,spin,no,8.880624999999998,18.444375

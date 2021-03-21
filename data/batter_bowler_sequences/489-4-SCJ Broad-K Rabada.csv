@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2125,198,ENG,8,91,-290,SCJ Broad,K Rabada,10,0,0,22.9,3851,66.6,Left-hand bat,60,30,4,948.4,24.7,39.6,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2126,199,ENG,8,91,-290,SCJ Broad,K Rabada,10,0,1,22.9,3851,66.6,Left-hand bat,61,30,4,948.4,24.7,39.6,rf,2,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2133,206,ENG,8,101,-280,SCJ Broad,K Rabada,10,2,2,22.9,3851,66.6,Left-hand bat,62,32,4,948.4,24.7,39.6,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2134,207,ENG,8,101,-280,SCJ Broad,K Rabada,10,2,3,22.9,3851,66.6,Left-hand bat,63,32,4,948.4,24.7,39.6,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2135,208,ENG,8,101,-280,SCJ Broad,K Rabada,10,2,4,22.9,3851,66.6,Left-hand bat,64,32,4,948.4,24.7,39.6,rf,W,RSA,seam,no,29.506938775510207,3.8073469387755106

@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1571,316,PAK,7,204,-176,Mohammad Amir,K Rabada,9,0,0,13.41,1980,37.92,Left-hand bat,63,46,1,6450.5,21.41,38.4,rf,0,RSA,seam,no,22.378125,3.196875
+4,1572,317,PAK,7,204,-176,Mohammad Amir,K Rabada,9,0,1,13.41,1980,37.92,Left-hand bat,64,46,1,6450.5,21.41,38.4,rf,0,RSA,seam,no,22.378125,3.196875
+4,1573,318,PAK,7,204,-176,Mohammad Amir,K Rabada,9,0,2,13.41,1980,37.92,Left-hand bat,65,46,1,6450.5,21.41,38.4,rf,0,RSA,seam,no,22.378125,3.196875
+4,1580,325,PAK,7,204,-176,Mohammad Amir,K Rabada,9,0,3,13.41,1980,37.92,Left-hand bat,66,46,1,6450.5,21.41,38.4,rf,4,RSA,seam,no,22.378125,3.196875
+4,1581,326,PAK,7,208,-172,Mohammad Amir,K Rabada,9,4,4,13.41,1980,37.92,Left-hand bat,67,50,1,6450.5,21.41,38.4,rf,W,RSA,seam,no,22.378125,3.196875

@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,567,112,RSA,6,77,-207,VD Philander,RJ Harris,8,0,0,4,11,36.36,Right-hand bat,44,20,2,1464.4,21.37,41.9,rf,0,RSA,seam,yes,20.71875,0
+2,568,113,RSA,6,77,-207,VD Philander,RJ Harris,8,0,1,4,11,36.36,Right-hand bat,45,20,2,1464.4,21.37,41.9,rf,0,RSA,seam,yes,20.71875,0
+2,569,114,RSA,6,77,-207,VD Philander,RJ Harris,8,0,2,4,11,36.36,Right-hand bat,46,20,2,1464.4,21.37,41.9,rf,0,RSA,seam,yes,20.71875,0
+2,570,115,RSA,6,77,-207,VD Philander,RJ Harris,8,0,3,4,11,36.36,Right-hand bat,47,20,2,1464.4,21.37,41.9,rf,0,RSA,seam,yes,20.71875,0
+2,571,116,RSA,6,77,-207,VD Philander,RJ Harris,8,0,4,4,11,36.36,Right-hand bat,48,20,2,1464.4,21.37,41.9,rf,0,RSA,seam,yes,20.71875,0
+2,578,123,RSA,7,77,-207,VD Philander,RJ Harris,8,0,5,4,11,36.36,Right-hand bat,49,20,2,1464.4,21.37,41.9,rf,0,RSA,seam,yes,20.71875,0
+2,579,124,RSA,7,77,-207,VD Philander,RJ Harris,8,0,6,4,11,36.36,Right-hand bat,50,20,2,1464.4,21.37,41.9,rf,0,RSA,seam,yes,20.71875,0
+2,580,125,RSA,7,77,-207,VD Philander,RJ Harris,8,0,7,4,11,36.36,Right-hand bat,51,20,2,1464.4,21.37,41.9,rf,0,RSA,seam,yes,20.71875,0
+2,581,126,RSA,7,77,-207,VD Philander,RJ Harris,8,0,8,4,11,36.36,Right-hand bat,52,20,2,1464.4,21.37,41.9,rf,4,RSA,seam,yes,20.71875,0
+2,582,127,RSA,7,81,-203,VD Philander,RJ Harris,8,4,9,4,11,36.36,Right-hand bat,53,24,2,1464.4,21.37,41.9,rf,0,RSA,seam,yes,20.71875,0
+2,583,128,RSA,7,81,-203,VD Philander,RJ Harris,8,4,10,4,11,36.36,Right-hand bat,54,24,2,1464.4,21.37,41.9,rf,W,RSA,seam,yes,20.71875,0

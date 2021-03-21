@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1492,301,WIN,9,192,-276,ST Gabriel,RA Jadeja,11,0,0,5.08,467,39.18,Right-hand bat,72,31,2,10758.2,23.44,59.1,lo,0,IND,spin,no,7.319857312722949,28.05945303210464
+3,1493,302,WIN,9,192,-276,ST Gabriel,RA Jadeja,11,0,1,5.08,467,39.18,Right-hand bat,73,31,2,10758.2,23.44,59.1,lo,0,IND,spin,no,7.319857312722949,28.05945303210464
+3,1494,303,WIN,9,192,-276,ST Gabriel,RA Jadeja,11,0,2,5.08,467,39.18,Right-hand bat,74,31,2,10758.2,23.44,59.1,lo,4,IND,spin,no,7.319857312722949,28.05945303210464
+3,1495,304,WIN,9,196,-272,ST Gabriel,RA Jadeja,11,4,3,5.08,467,39.18,Right-hand bat,75,35,2,10758.2,23.44,59.1,lo,0,IND,spin,no,7.319857312722949,28.05945303210464
+3,1496,305,WIN,9,196,-272,ST Gabriel,RA Jadeja,11,4,4,5.08,467,39.18,Right-hand bat,76,35,2,10758.2,23.44,59.1,lo,W,IND,spin,no,7.319857312722949,28.05945303210464

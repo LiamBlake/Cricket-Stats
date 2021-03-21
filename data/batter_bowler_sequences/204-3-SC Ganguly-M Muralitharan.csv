@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1610,179,IND,4,95,-282,SC Ganguly,M Muralitharan,6,0,0,42.35,13253,51.45,Left-hand bat,35,8,3,40284.3,21.77,54,rob,0,SRL,spin,no,7.107988165680473,29.853550295857985
+3,1617,186,IND,4,95,-282,SC Ganguly,M Muralitharan,6,0,1,42.35,13253,51.45,Left-hand bat,36,8,3,40284.3,21.77,54,rob,0,SRL,spin,no,7.107988165680473,29.853550295857985
+3,1618,187,IND,4,95,-282,SC Ganguly,M Muralitharan,6,0,2,42.35,13253,51.45,Left-hand bat,37,8,3,40284.3,21.77,54,rob,0,SRL,spin,no,7.107988165680473,29.853550295857985
+3,1619,188,IND,4,95,-282,SC Ganguly,M Muralitharan,6,0,3,42.35,13253,51.45,Left-hand bat,38,8,3,40284.3,21.77,54,rob,0,SRL,spin,no,7.107988165680473,29.853550295857985
+3,1620,189,IND,4,95,-282,SC Ganguly,M Muralitharan,6,0,4,42.35,13253,51.45,Left-hand bat,39,8,3,40284.3,21.77,54,rob,0,SRL,spin,no,7.107988165680473,29.853550295857985
+3,1621,190,IND,4,95,-282,SC Ganguly,M Muralitharan,6,0,5,42.35,13253,51.45,Left-hand bat,40,8,3,40284.3,21.77,54,rob,0,SRL,spin,no,7.107988165680473,29.853550295857985
+3,1622,191,IND,4,95,-282,SC Ganguly,M Muralitharan,6,0,6,42.35,13253,51.45,Left-hand bat,41,8,3,40284.3,21.77,54,rob,4,SRL,spin,no,7.107988165680473,29.853550295857985
+3,1629,198,IND,4,103,-274,SC Ganguly,M Muralitharan,6,4,7,42.35,13253,51.45,Left-hand bat,42,12,3,40284.3,21.77,54,rob,0,SRL,spin,no,7.107988165680473,29.853550295857985
+3,1630,199,IND,4,103,-274,SC Ganguly,M Muralitharan,6,4,8,42.35,13253,51.45,Left-hand bat,43,12,3,40284.3,21.77,54,rob,0,SRL,spin,no,7.107988165680473,29.853550295857985
+3,1631,200,IND,4,103,-274,SC Ganguly,M Muralitharan,6,4,9,42.35,13253,51.45,Left-hand bat,44,12,3,40284.3,21.77,54,rob,0,SRL,spin,no,7.107988165680473,29.853550295857985
+3,1632,201,IND,4,103,-274,SC Ganguly,M Muralitharan,6,4,10,42.35,13253,51.45,Left-hand bat,45,12,3,40284.3,21.77,54,rob,0,SRL,spin,no,7.107988165680473,29.853550295857985
+3,1633,202,IND,4,103,-274,SC Ganguly,M Muralitharan,6,4,11,42.35,13253,51.45,Left-hand bat,46,12,3,40284.3,21.77,54,rob,W,SRL,spin,no,7.107988165680473,29.853550295857985

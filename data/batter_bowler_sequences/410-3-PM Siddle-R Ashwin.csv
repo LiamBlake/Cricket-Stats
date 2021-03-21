@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1763,325,AUS,7,123,-143,PM Siddle,R Ashwin,9,0,0,14.65,1434,47,Right-hand bat,127,56,4,4686.1,28.93,57.8,rob,2,IND,spin,yes,7.2497027348394765,22.784780023781217
+3,1764,326,AUS,7,125,-141,PM Siddle,R Ashwin,9,2,1,14.65,1434,47,Right-hand bat,128,58,4,4686.1,28.93,57.8,rob,0,IND,spin,yes,7.2497027348394765,22.784780023781217
+3,1765,327,AUS,7,125,-141,PM Siddle,R Ashwin,9,2,2,14.65,1434,47,Right-hand bat,129,58,4,4686.1,28.93,57.8,rob,0,IND,spin,yes,7.2497027348394765,22.784780023781217
+3,1766,328,AUS,7,125,-141,PM Siddle,R Ashwin,9,2,3,14.65,1434,47,Right-hand bat,130,58,4,4686.1,28.93,57.8,rob,0,IND,spin,yes,7.2497027348394765,22.784780023781217
+3,1767,329,AUS,7,125,-141,PM Siddle,R Ashwin,9,2,4,14.65,1434,47,Right-hand bat,131,58,4,4686.1,28.93,57.8,rob,2,IND,spin,yes,7.2497027348394765,22.784780023781217

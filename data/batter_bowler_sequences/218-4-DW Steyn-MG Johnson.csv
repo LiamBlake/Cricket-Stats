@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2280,700,RSA,8,285,-168,DW Steyn,MG Johnson,10,0,0,12.6,860,43.95,Right-hand bat,198,107,3,4788.5,27.55,55.7,lf,0,RSA,seam,no,26.640000000000004,2.96
+4,2281,701,RSA,8,285,-168,DW Steyn,MG Johnson,10,0,1,12.6,860,43.95,Right-hand bat,199,107,3,4788.5,27.55,55.7,lf,1,RSA,seam,no,26.640000000000004,2.96
+4,2288,708,RSA,8,287,-166,DW Steyn,MG Johnson,10,2,4,12.6,860,43.95,Right-hand bat,200,108,3,4788.5,27.55,55.7,lf,0,RSA,seam,no,26.640000000000004,2.96
+4,2289,709,RSA,8,287,-166,DW Steyn,MG Johnson,10,2,5,12.6,860,43.95,Right-hand bat,201,108,3,4788.5,27.55,55.7,lf,0,RSA,seam,no,26.640000000000004,2.96
+4,2290,710,RSA,8,287,-166,DW Steyn,MG Johnson,10,2,6,12.6,860,43.95,Right-hand bat,202,108,3,4788.5,27.55,55.7,lf,2,RSA,seam,no,26.640000000000004,2.96
+4,2291,711,RSA,8,289,-164,DW Steyn,MG Johnson,10,4,7,12.6,860,43.95,Right-hand bat,203,110,3,4788.5,27.55,55.7,lf,0,RSA,seam,no,26.640000000000004,2.96
+4,2292,712,RSA,8,289,-164,DW Steyn,MG Johnson,10,4,8,12.6,860,43.95,Right-hand bat,204,110,3,4788.5,27.55,55.7,lf,0,RSA,seam,no,26.640000000000004,2.96
+4,2293,713,RSA,8,289,-164,DW Steyn,MG Johnson,10,4,9,12.6,860,43.95,Right-hand bat,205,110,3,4788.5,27.55,55.7,lf,0,RSA,seam,no,26.640000000000004,2.96
+4,2300,720,RSA,9,289,-164,DW Steyn,MG Johnson,10,4,10,12.6,860,43.95,Right-hand bat,206,110,3,4788.5,27.55,55.7,lf,2,RSA,seam,no,26.640000000000004,2.96
+4,2301,721,RSA,9,291,-162,DW Steyn,MG Johnson,10,6,11,12.6,860,43.95,Right-hand bat,207,112,3,4788.5,27.55,55.7,lf,W,RSA,seam,no,26.640000000000004,2.96

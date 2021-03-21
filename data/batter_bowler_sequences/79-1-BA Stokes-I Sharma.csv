@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,388,388,ENG,4,134,134,BA Stokes,I Sharma,6,0,0,33.89,4682,59.35,Left-hand bat,94,22,1,16578,34.73,64.7,rfm,0,ENG,seam,yes,20.24376731301939,16.38781163434903
+1,389,389,ENG,4,134,134,BA Stokes,I Sharma,6,0,1,33.89,4682,59.35,Left-hand bat,95,22,1,16578,34.73,64.7,rfm,0,ENG,seam,yes,20.24376731301939,16.38781163434903
+1,396,396,ENG,4,134,134,BA Stokes,I Sharma,6,0,2,33.89,4682,59.35,Left-hand bat,96,22,1,16578,34.73,64.7,rfm,0,ENG,seam,yes,20.24376731301939,16.38781163434903
+1,397,397,ENG,4,134,134,BA Stokes,I Sharma,6,0,3,33.89,4682,59.35,Left-hand bat,97,22,1,16578,34.73,64.7,rfm,0,ENG,seam,yes,20.24376731301939,16.38781163434903
+1,398,398,ENG,4,134,134,BA Stokes,I Sharma,6,0,4,33.89,4682,59.35,Left-hand bat,98,22,1,16578,34.73,64.7,rfm,0,ENG,seam,yes,20.24376731301939,16.38781163434903
+1,399,399,ENG,4,134,134,BA Stokes,I Sharma,6,0,5,33.89,4682,59.35,Left-hand bat,99,22,1,16578,34.73,64.7,rfm,0,ENG,seam,yes,20.24376731301939,16.38781163434903
+1,400,400,ENG,4,134,134,BA Stokes,I Sharma,6,0,6,33.89,4682,59.35,Left-hand bat,100,22,1,16578,34.73,64.7,rfm,0,ENG,seam,yes,20.24376731301939,16.38781163434903
+1,401,401,ENG,4,134,134,BA Stokes,I Sharma,6,0,7,33.89,4682,59.35,Left-hand bat,101,22,1,16578,34.73,64.7,rfm,0,ENG,seam,yes,20.24376731301939,16.38781163434903
+1,458,458,ENG,4,170,170,BA Stokes,I Sharma,6,11,34,33.89,4682,59.35,Left-hand bat,104,23,1,16578,34.73,64.7,rfm,0,ENG,seam,yes,20.24376731301939,16.38781163434903
+1,459,459,ENG,4,170,170,BA Stokes,I Sharma,6,11,35,33.89,4682,59.35,Left-hand bat,105,23,1,16578,34.73,64.7,rfm,0,ENG,seam,yes,20.24376731301939,16.38781163434903
+1,460,460,ENG,4,170,170,BA Stokes,I Sharma,6,11,36,33.89,4682,59.35,Left-hand bat,106,23,1,16578,34.73,64.7,rfm,0,ENG,seam,yes,20.24376731301939,16.38781163434903
+1,461,461,ENG,4,170,170,BA Stokes,I Sharma,6,11,37,33.89,4682,59.35,Left-hand bat,107,23,1,16578,34.73,64.7,rfm,0,ENG,seam,yes,20.24376731301939,16.38781163434903

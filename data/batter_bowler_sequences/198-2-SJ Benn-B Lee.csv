@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,730,314,WIN,7,191,-60,SJ Benn,B Lee,9,0,4,12.75,102,50,Left-hand bat,71,47,2,14760.4,29.58,51,rf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,731,315,WIN,7,191,-60,SJ Benn,B Lee,9,0,5,12.75,102,50,Left-hand bat,72,47,2,14760.4,29.58,51,rf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,732,316,WIN,7,191,-60,SJ Benn,B Lee,9,0,6,12.75,102,50,Left-hand bat,73,47,2,14760.4,29.58,51,rf,1nb,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,733,317,WIN,7,192,-59,SJ Benn,B Lee,9,0,7,12.75,102,50,Left-hand bat,74,48,2,14760.4,29.58,51,rf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,734,318,WIN,7,192,-59,SJ Benn,B Lee,9,0,8,12.75,102,50,Left-hand bat,75,48,2,14760.4,29.58,51,rf,1,WIN,seam,yes,27.44326530612245,9.499591836734693

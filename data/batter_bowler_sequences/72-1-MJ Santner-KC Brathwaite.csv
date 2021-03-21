@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,489,489,NZL,5,264,264,MJ Santner,KC Brathwaite,6,23,68,25.47,1259,42.49,Left-hand bat,15,10,0,1506.4,59.35,107.8,rob,0,NZL,spin,no,25.617728531855956,3.0138504155124655
+1,490,490,NZL,5,264,264,MJ Santner,KC Brathwaite,6,23,69,25.47,1259,42.49,Left-hand bat,16,10,0,1506.4,59.35,107.8,rob,0,NZL,spin,no,25.617728531855956,3.0138504155124655
+1,491,491,NZL,5,264,264,MJ Santner,KC Brathwaite,6,23,70,25.47,1259,42.49,Left-hand bat,17,10,0,1506.4,59.35,107.8,rob,1,NZL,spin,no,25.617728531855956,3.0138504155124655

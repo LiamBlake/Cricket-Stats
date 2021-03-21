@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,895,111,SRL,1,50,87,BKG Mendis,D Bishoo,2,36,55,26,93,55.91,Right-hand bat,3,1,0,4008.1,38.05,72.8,rls,1,SRL,spin,yes,5.55,12.95
+3,904,120,SRL,1,52,89,BKG Mendis,D Bishoo,2,37,56,26,93,55.91,Right-hand bat,6,3,0,4008.1,38.05,72.8,rls,0,SRL,spin,yes,5.55,12.95
+3,905,121,SRL,1,52,89,BKG Mendis,D Bishoo,2,37,57,26,93,55.91,Right-hand bat,7,3,0,4008.1,38.05,72.8,rls,2,SRL,spin,yes,5.55,12.95
+3,906,122,SRL,1,54,91,BKG Mendis,D Bishoo,2,39,58,26,93,55.91,Right-hand bat,8,5,0,4008.1,38.05,72.8,rls,0,SRL,spin,yes,5.55,12.95
+3,907,123,SRL,1,54,91,BKG Mendis,D Bishoo,2,39,59,26,93,55.91,Right-hand bat,9,5,0,4008.1,38.05,72.8,rls,0,SRL,spin,yes,5.55,12.95
+3,908,124,SRL,1,54,91,BKG Mendis,D Bishoo,2,39,60,26,93,55.91,Right-hand bat,10,5,0,4008.1,38.05,72.8,rls,0,SRL,spin,yes,5.55,12.95
+3,909,125,SRL,1,54,91,BKG Mendis,D Bishoo,2,39,61,26,93,55.91,Right-hand bat,11,5,0,4008.1,38.05,72.8,rls,0,SRL,spin,yes,5.55,12.95

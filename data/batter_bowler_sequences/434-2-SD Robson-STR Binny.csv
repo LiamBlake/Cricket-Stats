@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1060,93,ENG,1,39,-418,SD Robson,STR Binny,2,18,43,46,513,44.83,Right-hand bat,0,0,0,60,NA,NA,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1061,94,ENG,1,39,-418,SD Robson,STR Binny,2,18,44,46,513,44.83,Right-hand bat,1,0,0,60,NA,NA,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1062,95,ENG,1,39,-418,SD Robson,STR Binny,2,18,45,46,513,44.83,Right-hand bat,2,0,0,60,NA,NA,rm,1,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1211,244,ENG,1,101,-356,SD Robson,STR Binny,2,43,113,46,513,44.83,Right-hand bat,11,6,0,60,NA,NA,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1218,251,ENG,1,103,-354,SD Robson,STR Binny,2,44,118,46,513,44.83,Right-hand bat,12,6,0,60,NA,NA,rm,1,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1230,263,ENG,1,113,-344,SD Robson,STR Binny,2,46,122,46,513,44.83,Right-hand bat,18,15,0,60,NA,NA,rm,4,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1231,264,ENG,1,117,-340,SD Robson,STR Binny,2,50,123,46,513,44.83,Right-hand bat,19,19,0,60,NA,NA,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1232,265,ENG,1,117,-340,SD Robson,STR Binny,2,50,124,46,513,44.83,Right-hand bat,20,19,0,60,NA,NA,rm,1,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1244,277,ENG,1,121,-336,SD Robson,STR Binny,2,52,129,46,513,44.83,Right-hand bat,26,21,0,60,NA,NA,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1245,278,ENG,1,121,-336,SD Robson,STR Binny,2,52,130,46,513,44.83,Right-hand bat,27,21,0,60,NA,NA,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1246,279,ENG,1,121,-336,SD Robson,STR Binny,2,52,131,46,513,44.83,Right-hand bat,28,21,0,60,NA,NA,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1247,280,ENG,1,121,-336,SD Robson,STR Binny,2,52,132,46,513,44.83,Right-hand bat,29,21,0,60,NA,NA,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065

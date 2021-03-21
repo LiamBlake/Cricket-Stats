@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,694,694,AUS,4,483,483,AC Voges,MD Craig,5,30,59,61.2,1204,50.83,Right-hand bat,84,77,0,3078.1,44.52,69.9,rob,1,AUS,spin,yes,46.91836734693878,12.795918367346939
+1,710,710,AUS,4,485,485,AC Voges,MD Craig,5,31,66,61.2,1204,50.83,Right-hand bat,94,79,0,3078.1,44.52,69.9,rob,1,AUS,spin,yes,46.91836734693878,12.795918367346939
+1,718,718,AUS,4,493,493,AC Voges,MD Craig,5,35,72,61.2,1204,50.83,Right-hand bat,96,80,0,3078.1,44.52,69.9,rob,1,AUS,spin,yes,46.91836734693878,12.795918367346939
+1,723,723,AUS,4,495,495,AC Voges,MD Craig,5,36,73,61.2,1204,50.83,Right-hand bat,101,82,0,3078.1,44.52,69.9,rob,4,AUS,spin,yes,46.91836734693878,12.795918367346939
+1,733,733,AUS,4,511,511,AC Voges,MD Craig,5,40,78,61.2,1204,50.83,Right-hand bat,105,97,0,3078.1,44.52,69.9,rob,0,AUS,spin,yes,46.91836734693878,12.795918367346939
+1,734,734,AUS,4,511,511,AC Voges,MD Craig,5,40,79,61.2,1204,50.83,Right-hand bat,106,97,0,3078.1,44.52,69.9,rob,1,AUS,spin,yes,46.91836734693878,12.795918367346939

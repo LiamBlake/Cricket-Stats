@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,773,242,IND,2,108,-192,AM Rahane,PJ Cummins,4,0,0,46.07,4870,52.97,Right-hand bat,74,29,1,726,23.93,48.4,rf,0,IND,seam,no,11.1083984375,16.2353515625
+2,774,243,IND,2,108,-192,AM Rahane,PJ Cummins,4,0,1,46.07,4870,52.97,Right-hand bat,75,29,1,726,23.93,48.4,rf,0,IND,seam,no,11.1083984375,16.2353515625
+2,775,244,IND,2,108,-192,AM Rahane,PJ Cummins,4,0,2,46.07,4870,52.97,Right-hand bat,76,29,1,726,23.93,48.4,rf,4,IND,seam,no,11.1083984375,16.2353515625
+2,776,245,IND,2,112,-188,AM Rahane,PJ Cummins,4,4,3,46.07,4870,52.97,Right-hand bat,77,33,1,726,23.93,48.4,rf,6,IND,seam,no,11.1083984375,16.2353515625
+2,783,252,IND,2,122,-178,AM Rahane,PJ Cummins,4,10,4,46.07,4870,52.97,Right-hand bat,78,39,1,726,23.93,48.4,rf,0,IND,seam,no,11.1083984375,16.2353515625
+2,784,253,IND,2,122,-178,AM Rahane,PJ Cummins,4,10,5,46.07,4870,52.97,Right-hand bat,79,39,1,726,23.93,48.4,rf,1lb,IND,seam,no,11.1083984375,16.2353515625
+2,787,256,IND,2,124,-176,AM Rahane,PJ Cummins,4,10,6,46.07,4870,52.97,Right-hand bat,82,40,1,726,23.93,48.4,rf,1,IND,seam,no,11.1083984375,16.2353515625
+2,897,366,IND,3,157,-143,AM Rahane,PJ Cummins,4,19,55,46.07,4870,52.97,Right-hand bat,90,45,1,726,23.93,48.4,rf,3,IND,seam,no,11.1083984375,16.2353515625
+2,921,390,IND,4,167,-133,AM Rahane,PJ Cummins,4,24,61,46.07,4870,52.97,Right-hand bat,102,52,1,726,23.93,48.4,rf,0,IND,seam,no,11.1083984375,16.2353515625
+2,922,391,IND,4,167,-133,AM Rahane,PJ Cummins,4,24,62,46.07,4870,52.97,Right-hand bat,103,52,1,726,23.93,48.4,rf,0,IND,seam,no,11.1083984375,16.2353515625
+2,923,392,IND,4,167,-133,AM Rahane,PJ Cummins,4,24,63,46.07,4870,52.97,Right-hand bat,104,52,1,726,23.93,48.4,rf,4,IND,seam,no,11.1083984375,16.2353515625
+2,924,393,IND,4,171,-129,AM Rahane,PJ Cummins,4,28,64,46.07,4870,52.97,Right-hand bat,105,56,1,726,23.93,48.4,rf,0,IND,seam,no,11.1083984375,16.2353515625
+2,925,394,IND,4,171,-129,AM Rahane,PJ Cummins,4,28,65,46.07,4870,52.97,Right-hand bat,106,56,1,726,23.93,48.4,rf,1,IND,seam,no,11.1083984375,16.2353515625

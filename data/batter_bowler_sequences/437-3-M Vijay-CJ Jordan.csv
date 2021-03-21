@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,980,54,IND,0,17,-198,M Vijay,CJ Jordan,1,10,26,37.46,3717,45.35,Right-hand bat,6,2,0,792.4,55.75,99.5,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778
+3,981,55,IND,0,17,-198,M Vijay,CJ Jordan,1,10,27,37.46,3717,45.35,Right-hand bat,7,2,0,792.4,55.75,99.5,rfm,4,ENG,seam,yes,18.888888888888893,3.777777777777778
+3,982,56,IND,0,21,-194,M Vijay,CJ Jordan,1,14,28,37.46,3717,45.35,Right-hand bat,8,6,0,792.4,55.75,99.5,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778
+3,983,57,IND,0,21,-194,M Vijay,CJ Jordan,1,14,29,37.46,3717,45.35,Right-hand bat,9,6,0,792.4,55.75,99.5,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778
+3,984,58,IND,0,21,-194,M Vijay,CJ Jordan,1,14,30,37.46,3717,45.35,Right-hand bat,10,6,0,792.4,55.75,99.5,rfm,4,ENG,seam,yes,18.888888888888893,3.777777777777778
+3,985,59,IND,0,25,-190,M Vijay,CJ Jordan,1,18,31,37.46,3717,45.35,Right-hand bat,11,10,0,792.4,55.75,99.5,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778

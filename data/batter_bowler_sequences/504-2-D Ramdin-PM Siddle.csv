@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1050,234,WIN,4,83,-468,D Ramdin,PM Siddle,6,0,1,25.54,5794,48.94,Right-hand bat,40,11,0,12588.5,29.99,61.4,rfm,0,AUS,seam,yes,34.162721893491124,15.183431952662723
+2,1051,235,WIN,4,83,-468,D Ramdin,PM Siddle,6,0,2,25.54,5794,48.94,Right-hand bat,41,11,0,12588.5,29.99,61.4,rfm,0,AUS,seam,yes,34.162721893491124,15.183431952662723
+2,1058,242,WIN,4,83,-468,D Ramdin,PM Siddle,6,0,3,25.54,5794,48.94,Right-hand bat,42,11,0,12588.5,29.99,61.4,rfm,W,AUS,seam,yes,34.162721893491124,15.183431952662723

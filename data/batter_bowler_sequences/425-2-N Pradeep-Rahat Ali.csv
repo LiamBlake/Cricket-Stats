@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1158,775,SRL,9,381,216,N Pradeep,Rahat Ali,11,0,1,5.16,82,37.8,Right-hand bat,203,128,3,1362.4,45.31,85.3,lfm,0,PAK,seam,yes,24.014568158168572,9.824141519250778
+2,1168,785,SRL,9,385,220,N Pradeep,Rahat Ali,11,2,6,5.16,82,37.8,Right-hand bat,207,129,3,1362.4,45.31,85.3,lfm,0,PAK,seam,yes,24.014568158168572,9.824141519250778
+2,1169,786,SRL,9,385,220,N Pradeep,Rahat Ali,11,2,7,5.16,82,37.8,Right-hand bat,208,129,3,1362.4,45.31,85.3,lfm,0,PAK,seam,yes,24.014568158168572,9.824141519250778
+2,1170,787,SRL,9,385,220,N Pradeep,Rahat Ali,11,2,8,5.16,82,37.8,Right-hand bat,209,129,3,1362.4,45.31,85.3,lfm,1,PAK,seam,yes,24.014568158168572,9.824141519250778
+2,1178,795,SRL,9,387,222,N Pradeep,Rahat Ali,11,3,15,5.16,82,37.8,Right-hand bat,211,131,3,1362.4,45.31,85.3,lfm,0,PAK,seam,yes,24.014568158168572,9.824141519250778
+2,1179,796,SRL,9,387,222,N Pradeep,Rahat Ali,11,3,16,5.16,82,37.8,Right-hand bat,212,131,3,1362.4,45.31,85.3,lfm,0,PAK,seam,yes,24.014568158168572,9.824141519250778
+2,1180,797,SRL,9,387,222,N Pradeep,Rahat Ali,11,3,17,5.16,82,37.8,Right-hand bat,213,131,3,1362.4,45.31,85.3,lfm,0,PAK,seam,yes,24.014568158168572,9.824141519250778
+2,1181,798,SRL,9,387,222,N Pradeep,Rahat Ali,11,3,18,5.16,82,37.8,Right-hand bat,214,131,3,1362.4,45.31,85.3,lfm,0,PAK,seam,yes,24.014568158168572,9.824141519250778
+2,1182,799,SRL,9,387,222,N Pradeep,Rahat Ali,11,3,19,5.16,82,37.8,Right-hand bat,215,131,3,1362.4,45.31,85.3,lfm,0,PAK,seam,yes,24.014568158168572,9.824141519250778

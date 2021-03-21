@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1427,215,WIN,4,92,-259,J Blackwood,M Morkel,6,0,2,34.8,300,58,Right-hand bat,44,26,1,11736.3,29.66,56.1,rf,0,RSA,seam,yes,28.288,4.2432
+3,1428,216,WIN,4,92,-259,J Blackwood,M Morkel,6,0,3,34.8,300,58,Right-hand bat,45,26,1,11736.3,29.66,56.1,rf,4,RSA,seam,yes,28.288,4.2432
+3,1429,217,WIN,4,96,-255,J Blackwood,M Morkel,6,4,4,34.8,300,58,Right-hand bat,46,30,1,11736.3,29.66,56.1,rf,0,RSA,seam,yes,28.288,4.2432
+3,1430,218,WIN,4,96,-255,J Blackwood,M Morkel,6,4,5,34.8,300,58,Right-hand bat,47,30,1,11736.3,29.66,56.1,rf,0,RSA,seam,yes,28.288,4.2432
+3,1431,219,WIN,4,96,-255,J Blackwood,M Morkel,6,4,6,34.8,300,58,Right-hand bat,48,30,1,11736.3,29.66,56.1,rf,1wd,RSA,seam,yes,28.288,4.2432
+3,1432,220,WIN,4,97,-254,J Blackwood,M Morkel,6,4,6,34.8,300,58,Right-hand bat,49,31,1,11736.3,29.66,56.1,rf,4,RSA,seam,yes,28.288,4.2432
+3,1439,227,WIN,6,109,-242,J Blackwood,M Morkel,6,8,7,34.8,300,58,Right-hand bat,50,35,1,11736.3,29.66,56.1,rf,0,RSA,seam,yes,28.288,4.2432
+3,1440,228,WIN,6,109,-242,J Blackwood,M Morkel,6,8,8,34.8,300,58,Right-hand bat,51,35,1,11736.3,29.66,56.1,rf,1,RSA,seam,yes,28.288,4.2432
+3,1452,240,WIN,6,117,-234,J Blackwood,M Morkel,6,15,15,34.8,300,58,Right-hand bat,57,37,1,11736.3,29.66,56.1,rf,0,RSA,seam,yes,28.288,4.2432
+3,1453,241,WIN,6,117,-234,J Blackwood,M Morkel,6,15,16,34.8,300,58,Right-hand bat,58,37,1,11736.3,29.66,56.1,rf,W,RSA,seam,yes,28.288,4.2432

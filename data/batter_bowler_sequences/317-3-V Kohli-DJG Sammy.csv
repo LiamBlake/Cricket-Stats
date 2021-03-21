@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,942,157,IND,3,57,130,V Kohli,DJG Sammy,5,0,0,9.5,64,29.68,Right-hand bat,47,8,1,2532.4,27.27,58.9,rm,0,WIN,seam,yes,14.578125,8.746875
+3,951,166,IND,3,59,132,V Kohli,DJG Sammy,5,0,1,9.5,64,29.68,Right-hand bat,50,9,1,2532.4,27.27,58.9,rm,0,WIN,seam,yes,14.578125,8.746875
+3,952,167,IND,3,59,132,V Kohli,DJG Sammy,5,0,2,9.5,64,29.68,Right-hand bat,51,9,1,2532.4,27.27,58.9,rm,0,WIN,seam,yes,14.578125,8.746875
+3,953,168,IND,3,59,132,V Kohli,DJG Sammy,5,0,3,9.5,64,29.68,Right-hand bat,52,9,1,2532.4,27.27,58.9,rm,1,WIN,seam,yes,14.578125,8.746875
+3,961,176,IND,3,65,138,V Kohli,DJG Sammy,5,2,6,9.5,64,29.68,Right-hand bat,54,10,1,2532.4,27.27,58.9,rm,1,WIN,seam,yes,14.578125,8.746875
+3,975,190,IND,3,71,144,V Kohli,DJG Sammy,5,7,13,9.5,64,29.68,Right-hand bat,62,12,1,2532.4,27.27,58.9,rm,0,WIN,seam,yes,14.578125,8.746875
+3,976,191,IND,3,71,144,V Kohli,DJG Sammy,5,7,14,9.5,64,29.68,Right-hand bat,63,12,1,2532.4,27.27,58.9,rm,4,WIN,seam,yes,14.578125,8.746875
+3,977,192,IND,3,75,148,V Kohli,DJG Sammy,5,11,15,9.5,64,29.68,Right-hand bat,64,16,1,2532.4,27.27,58.9,rm,0,WIN,seam,yes,14.578125,8.746875
+3,978,193,IND,3,75,148,V Kohli,DJG Sammy,5,11,16,9.5,64,29.68,Right-hand bat,65,16,1,2532.4,27.27,58.9,rm,0,WIN,seam,yes,14.578125,8.746875

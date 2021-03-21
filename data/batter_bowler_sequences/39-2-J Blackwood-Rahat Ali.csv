@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1006,282,WIN,4,111,-341,J Blackwood,Rahat Ali,5,3,7,32.38,1943,56.66,Right-hand bat,78,31,2,3720.4,37.9,71.6,lfm,0,PAK,seam,no,19.140625,19.140625
+2,1007,283,WIN,4,111,-341,J Blackwood,Rahat Ali,5,3,8,32.38,1943,56.66,Right-hand bat,79,31,2,3720.4,37.9,71.6,lfm,0,PAK,seam,no,19.140625,19.140625
+2,1008,284,WIN,4,111,-341,J Blackwood,Rahat Ali,5,3,9,32.38,1943,56.66,Right-hand bat,80,31,2,3720.4,37.9,71.6,lfm,0,PAK,seam,no,19.140625,19.140625
+2,1009,285,WIN,4,111,-341,J Blackwood,Rahat Ali,5,3,10,32.38,1943,56.66,Right-hand bat,81,31,2,3720.4,37.9,71.6,lfm,1,PAK,seam,no,19.140625,19.140625
+2,1018,294,WIN,4,113,-339,J Blackwood,Rahat Ali,5,5,12,32.38,1943,56.66,Right-hand bat,84,32,2,3720.4,37.9,71.6,lfm,0,PAK,seam,no,19.140625,19.140625
+2,1019,295,WIN,4,113,-339,J Blackwood,Rahat Ali,5,5,13,32.38,1943,56.66,Right-hand bat,85,32,2,3720.4,37.9,71.6,lfm,0,PAK,seam,no,19.140625,19.140625
+2,1020,296,WIN,4,113,-339,J Blackwood,Rahat Ali,5,5,14,32.38,1943,56.66,Right-hand bat,86,32,2,3720.4,37.9,71.6,lfm,0,PAK,seam,no,19.140625,19.140625
+2,1021,297,WIN,4,113,-339,J Blackwood,Rahat Ali,5,5,15,32.38,1943,56.66,Right-hand bat,87,32,2,3720.4,37.9,71.6,lfm,0,PAK,seam,no,19.140625,19.140625
+2,1022,298,WIN,4,113,-339,J Blackwood,Rahat Ali,5,5,16,32.38,1943,56.66,Right-hand bat,88,32,2,3720.4,37.9,71.6,lfm,2,PAK,seam,no,19.140625,19.140625
+2,1023,299,WIN,4,115,-337,J Blackwood,Rahat Ali,5,7,17,32.38,1943,56.66,Right-hand bat,89,34,2,3720.4,37.9,71.6,lfm,0,PAK,seam,no,19.140625,19.140625
+2,1032,308,WIN,4,119,-333,J Blackwood,Rahat Ali,5,7,18,32.38,1943,56.66,Right-hand bat,92,35,2,3720.4,37.9,71.6,lfm,1,PAK,seam,no,19.140625,19.140625
+2,1035,311,WIN,4,121,-331,J Blackwood,Rahat Ali,5,8,19,32.38,1943,56.66,Right-hand bat,95,37,2,3720.4,37.9,71.6,lfm,W,PAK,seam,no,19.140625,19.140625

@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,485,485,IND,3,336,336,AM Rahane,Taijul Islam,5,18,22,47,2036,57.71,Right-hand bat,100,75,0,2124.5,33.17,60.8,lo,1,BAN,spin,yes,2.89453125,43.41796875
+1,493,493,IND,3,344,344,AM Rahane,Taijul Islam,5,25,28,47,2036,57.71,Right-hand bat,102,76,0,2124.5,33.17,60.8,lo,1,BAN,spin,yes,2.89453125,43.41796875
+1,495,495,IND,3,348,348,AM Rahane,Taijul Islam,5,26,29,47,2036,57.71,Right-hand bat,104,80,0,2124.5,33.17,60.8,lo,0,BAN,spin,yes,2.89453125,43.41796875
+1,496,496,IND,3,348,348,AM Rahane,Taijul Islam,5,26,30,47,2036,57.71,Right-hand bat,105,80,0,2124.5,33.17,60.8,lo,1,BAN,spin,yes,2.89453125,43.41796875
+1,505,505,IND,3,356,356,AM Rahane,Taijul Islam,5,29,35,47,2036,57.71,Right-hand bat,108,81,0,2124.5,33.17,60.8,lo,0,BAN,spin,yes,2.89453125,43.41796875
+1,506,506,IND,3,356,356,AM Rahane,Taijul Islam,5,29,36,47,2036,57.71,Right-hand bat,109,81,0,2124.5,33.17,60.8,lo,0,BAN,spin,yes,2.89453125,43.41796875
+1,507,507,IND,3,356,356,AM Rahane,Taijul Islam,5,29,37,47,2036,57.71,Right-hand bat,110,81,0,2124.5,33.17,60.8,lo,2,BAN,spin,yes,2.89453125,43.41796875
+1,508,508,IND,3,358,358,AM Rahane,Taijul Islam,5,31,38,47,2036,57.71,Right-hand bat,111,83,0,2124.5,33.17,60.8,lo,0,BAN,spin,yes,2.89453125,43.41796875
+1,509,509,IND,3,358,358,AM Rahane,Taijul Islam,5,31,39,47,2036,57.71,Right-hand bat,112,83,0,2124.5,33.17,60.8,lo,0,BAN,spin,yes,2.89453125,43.41796875
+1,510,510,IND,3,358,358,AM Rahane,Taijul Islam,5,31,40,47,2036,57.71,Right-hand bat,113,83,0,2124.5,33.17,60.8,lo,0,BAN,spin,yes,2.89453125,43.41796875
+1,517,517,IND,3,364,364,AM Rahane,Taijul Islam,5,32,43,47,2036,57.71,Right-hand bat,114,83,0,2124.5,33.17,60.8,lo,0,BAN,spin,yes,2.89453125,43.41796875
+1,518,518,IND,3,364,364,AM Rahane,Taijul Islam,5,32,44,47,2036,57.71,Right-hand bat,115,83,0,2124.5,33.17,60.8,lo,0,BAN,spin,yes,2.89453125,43.41796875
+1,519,519,IND,3,364,364,AM Rahane,Taijul Islam,5,32,45,47,2036,57.71,Right-hand bat,116,83,0,2124.5,33.17,60.8,lo,0,BAN,spin,yes,2.89453125,43.41796875
+1,520,520,IND,3,364,364,AM Rahane,Taijul Islam,5,32,46,47,2036,57.71,Right-hand bat,117,83,0,2124.5,33.17,60.8,lo,1,BAN,spin,yes,2.89453125,43.41796875

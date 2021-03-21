@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,516,516,IND,8,273,273,RA Jadeja,MD Craig,9,6,6,24.45,905,64.86,Left-hand bat,132,54,1,3666.3,46.52,73.3,rob,0,IND,spin,yes,7.791020408163266,26.294693877551023
+1,517,517,IND,8,273,273,RA Jadeja,MD Craig,9,6,7,24.45,905,64.86,Left-hand bat,133,54,1,3666.3,46.52,73.3,rob,0,IND,spin,yes,7.791020408163266,26.294693877551023
+1,518,518,IND,8,273,273,RA Jadeja,MD Craig,9,6,8,24.45,905,64.86,Left-hand bat,134,54,1,3666.3,46.52,73.3,rob,0,IND,spin,yes,7.791020408163266,26.294693877551023
+1,519,519,IND,8,273,273,RA Jadeja,MD Craig,9,6,9,24.45,905,64.86,Left-hand bat,135,54,1,3666.3,46.52,73.3,rob,0,IND,spin,yes,7.791020408163266,26.294693877551023
+1,520,520,IND,8,273,273,RA Jadeja,MD Craig,9,6,10,24.45,905,64.86,Left-hand bat,136,54,1,3666.3,46.52,73.3,rob,0,IND,spin,yes,7.791020408163266,26.294693877551023
+1,521,521,IND,8,273,273,RA Jadeja,MD Craig,9,6,11,24.45,905,64.86,Left-hand bat,137,54,1,3666.3,46.52,73.3,rob,4,IND,spin,yes,7.791020408163266,26.294693877551023
+1,528,528,IND,9,285,285,RA Jadeja,MD Craig,9,10,12,24.45,905,64.86,Left-hand bat,138,58,1,3666.3,46.52,73.3,rob,0,IND,spin,yes,7.791020408163266,26.294693877551023
+1,529,529,IND,9,285,285,RA Jadeja,MD Craig,9,10,13,24.45,905,64.86,Left-hand bat,139,58,1,3666.3,46.52,73.3,rob,0,IND,spin,yes,7.791020408163266,26.294693877551023
+1,530,530,IND,9,285,285,RA Jadeja,MD Craig,9,10,14,24.45,905,64.86,Left-hand bat,140,58,1,3666.3,46.52,73.3,rob,1,IND,spin,yes,7.791020408163266,26.294693877551023

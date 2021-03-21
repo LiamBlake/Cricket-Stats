@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2396,186,ENG,6,60,-239,RJ Sidebottom,CS Martin,8,0,0,17.4,499,34.86,Left-hand bat,45,25,1,7212,31.93,55.4,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717
+4,2397,187,ENG,6,60,-239,RJ Sidebottom,CS Martin,8,0,1,17.4,499,34.86,Left-hand bat,46,25,1,7212,31.93,55.4,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717
+4,2398,188,ENG,6,60,-239,RJ Sidebottom,CS Martin,8,0,2,17.4,499,34.86,Left-hand bat,47,25,1,7212,31.93,55.4,rfm,W,NZL,seam,no,19.615384615384617,8.717948717948717

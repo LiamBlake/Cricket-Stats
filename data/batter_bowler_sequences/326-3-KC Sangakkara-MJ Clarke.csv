@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1559,370,SRL,2,156,-81,KC Sangakkara,MJ Clarke,3,27,107,55.66,15554,55.11,Left-hand bat,4,1,0,1758,40.66,83.7,lo,4,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1560,371,SRL,2,160,-77,KC Sangakkara,MJ Clarke,3,31,108,55.66,15554,55.11,Left-hand bat,5,5,0,1758,40.66,83.7,lo,4,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1639,450,SRL,2,210,-27,KC Sangakkara,MJ Clarke,3,62,145,55.66,15554,55.11,Left-hand bat,6,9,0,1758,40.66,83.7,lo,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1640,451,SRL,2,210,-27,KC Sangakkara,MJ Clarke,3,62,146,55.66,15554,55.11,Left-hand bat,7,9,0,1758,40.66,83.7,lo,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1641,452,SRL,2,210,-27,KC Sangakkara,MJ Clarke,3,62,147,55.66,15554,55.11,Left-hand bat,8,9,0,1758,40.66,83.7,lo,4,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1642,453,SRL,2,214,-23,KC Sangakkara,MJ Clarke,3,66,148,55.66,15554,55.11,Left-hand bat,9,13,0,1758,40.66,83.7,lo,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1643,454,SRL,2,214,-23,KC Sangakkara,MJ Clarke,3,66,149,55.66,15554,55.11,Left-hand bat,10,13,0,1758,40.66,83.7,lo,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1644,455,SRL,2,214,-23,KC Sangakkara,MJ Clarke,3,66,150,55.66,15554,55.11,Left-hand bat,11,13,0,1758,40.66,83.7,lo,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1652,463,SRL,2,218,-19,KC Sangakkara,MJ Clarke,3,67,152,55.66,15554,55.11,Left-hand bat,13,14,0,1758,40.66,83.7,lo,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1653,464,SRL,2,218,-19,KC Sangakkara,MJ Clarke,3,67,153,55.66,15554,55.11,Left-hand bat,14,14,0,1758,40.66,83.7,lo,1,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1656,467,SRL,2,220,-17,KC Sangakkara,MJ Clarke,3,68,154,55.66,15554,55.11,Left-hand bat,17,16,0,1758,40.66,83.7,lo,0,SRL,spin,yes,28.98676748582231,10.23062381852552

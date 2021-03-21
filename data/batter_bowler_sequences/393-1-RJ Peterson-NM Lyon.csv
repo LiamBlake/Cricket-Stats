@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,260,260,RSA,6,124,124,RJ Peterson,NM Lyon,8,27,32,24.25,275,70.54,Left-hand bat,0,0,0,3480.5,30.64,64.5,rob,1,AUS,spin,yes,24.780625,7.194375000000001
+1,265,265,RSA,6,126,126,RJ Peterson,NM Lyon,8,28,33,24.25,275,70.54,Left-hand bat,5,2,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+1,272,272,RSA,6,128,128,RJ Peterson,NM Lyon,8,28,34,24.25,275,70.54,Left-hand bat,6,2,0,3480.5,30.64,64.5,rob,1,AUS,spin,yes,24.780625,7.194375000000001
+1,276,276,RSA,6,130,130,RJ Peterson,NM Lyon,8,29,35,24.25,275,70.54,Left-hand bat,10,4,0,3480.5,30.64,64.5,rob,1,AUS,spin,yes,24.780625,7.194375000000001
+1,284,284,RSA,6,132,132,RJ Peterson,NM Lyon,8,31,42,24.25,275,70.54,Left-hand bat,12,5,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+1,285,285,RSA,6,132,132,RJ Peterson,NM Lyon,8,31,43,24.25,275,70.54,Left-hand bat,13,5,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+1,286,286,RSA,6,132,132,RJ Peterson,NM Lyon,8,31,44,24.25,275,70.54,Left-hand bat,14,5,0,3480.5,30.64,64.5,rob,W,AUS,spin,yes,24.780625,7.194375000000001

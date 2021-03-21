@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,81,81,WIN,1,54,54,SD Hope,NM Lyon,2,31,39,13,128,40.62,Right-hand bat,1,1,0,9528.5,35.49,67.6,rob,0,WIN,spin,yes,15.171696149843912,8.344432882414152
+1,82,82,WIN,1,54,54,SD Hope,NM Lyon,2,31,40,13,128,40.62,Right-hand bat,2,1,0,9528.5,35.49,67.6,rob,0,WIN,spin,yes,15.171696149843912,8.344432882414152
+1,83,83,WIN,1,54,54,SD Hope,NM Lyon,2,31,41,13,128,40.62,Right-hand bat,3,1,0,9528.5,35.49,67.6,rob,1,WIN,spin,yes,15.171696149843912,8.344432882414152
+1,85,85,WIN,1,56,56,SD Hope,NM Lyon,2,32,42,13,128,40.62,Right-hand bat,5,3,0,9528.5,35.49,67.6,rob,0,WIN,spin,yes,15.171696149843912,8.344432882414152
+1,97,97,WIN,2,66,66,SD Hope,NM Lyon,2,32,44,13,128,40.62,Right-hand bat,11,6,1,9528.5,35.49,67.6,rob,4,WIN,spin,yes,15.171696149843912,8.344432882414152

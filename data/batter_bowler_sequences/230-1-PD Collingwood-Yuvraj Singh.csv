@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,399,399,ENG,3,185,185,PD Collingwood,Yuvraj Singh,5,4,2,42.51,6188,45.34,Right-hand bat,39,11,0,390,35.33,65,lo,0,IND,spin,yes,18.43893480257117,19.591368227731863
+1,400,400,ENG,3,185,185,PD Collingwood,Yuvraj Singh,5,4,3,42.51,6188,45.34,Right-hand bat,40,11,0,390,35.33,65,lo,0,IND,spin,yes,18.43893480257117,19.591368227731863
+1,401,401,ENG,3,185,185,PD Collingwood,Yuvraj Singh,5,4,4,42.51,6188,45.34,Right-hand bat,41,11,0,390,35.33,65,lo,2,IND,spin,yes,18.43893480257117,19.591368227731863
+1,409,409,ENG,3,189,189,PD Collingwood,Yuvraj Singh,5,6,5,42.51,6188,45.34,Right-hand bat,43,14,0,390,35.33,65,lo,0,IND,spin,yes,18.43893480257117,19.591368227731863
+1,410,410,ENG,3,189,189,PD Collingwood,Yuvraj Singh,5,6,6,42.51,6188,45.34,Right-hand bat,44,14,0,390,35.33,65,lo,0,IND,spin,yes,18.43893480257117,19.591368227731863
+1,411,411,ENG,3,189,189,PD Collingwood,Yuvraj Singh,5,6,7,42.51,6188,45.34,Right-hand bat,45,14,0,390,35.33,65,lo,0,IND,spin,yes,18.43893480257117,19.591368227731863
+1,412,412,ENG,3,189,189,PD Collingwood,Yuvraj Singh,5,6,8,42.51,6188,45.34,Right-hand bat,46,14,0,390,35.33,65,lo,0,IND,spin,yes,18.43893480257117,19.591368227731863
+1,413,413,ENG,3,189,189,PD Collingwood,Yuvraj Singh,5,6,9,42.51,6188,45.34,Right-hand bat,47,14,0,390,35.33,65,lo,0,IND,spin,yes,18.43893480257117,19.591368227731863
+1,422,422,ENG,3,193,193,PD Collingwood,Yuvraj Singh,5,7,14,42.51,6188,45.34,Right-hand bat,50,15,0,390,35.33,65,lo,0,IND,spin,yes,18.43893480257117,19.591368227731863
+1,423,423,ENG,3,193,193,PD Collingwood,Yuvraj Singh,5,7,15,42.51,6188,45.34,Right-hand bat,51,15,0,390,35.33,65,lo,0,IND,spin,yes,18.43893480257117,19.591368227731863
+1,424,424,ENG,3,193,193,PD Collingwood,Yuvraj Singh,5,7,16,42.51,6188,45.34,Right-hand bat,52,15,0,390,35.33,65,lo,0,IND,spin,yes,18.43893480257117,19.591368227731863
+1,425,425,ENG,3,193,193,PD Collingwood,Yuvraj Singh,5,7,17,42.51,6188,45.34,Right-hand bat,53,15,0,390,35.33,65,lo,1,IND,spin,yes,18.43893480257117,19.591368227731863

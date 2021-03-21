@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1583,168,WIN,4,93,-28,VA Singh,Yasir Shah,6,0,0,9,40,45,Left-hand bat,54,33,4,7506.4,30.77,56.8,rls,0,WIN,spin,no,17.797979797979796,8.898989898989898
+3,1584,169,WIN,4,93,-28,VA Singh,Yasir Shah,6,0,1,9,40,45,Left-hand bat,55,33,4,7506.4,30.77,56.8,rls,1,WIN,spin,no,17.797979797979796,8.898989898989898
+3,1588,173,WIN,4,95,-26,VA Singh,Yasir Shah,6,1,2,9,40,45,Left-hand bat,59,35,4,7506.4,30.77,56.8,rls,1,WIN,spin,no,17.797979797979796,8.898989898989898
+3,1600,185,WIN,4,99,-22,VA Singh,Yasir Shah,6,3,4,9,40,45,Left-hand bat,65,37,4,7506.4,30.77,56.8,rls,2,WIN,spin,no,17.797979797979796,8.898989898989898
+3,1608,193,WIN,4,105,-16,VA Singh,Yasir Shah,6,5,5,9,40,45,Left-hand bat,67,40,4,7506.4,30.77,56.8,rls,0,WIN,spin,no,17.797979797979796,8.898989898989898
+3,1609,194,WIN,4,105,-16,VA Singh,Yasir Shah,6,5,6,9,40,45,Left-hand bat,68,40,4,7506.4,30.77,56.8,rls,0,WIN,spin,no,17.797979797979796,8.898989898989898
+3,1610,195,WIN,4,105,-16,VA Singh,Yasir Shah,6,5,7,9,40,45,Left-hand bat,69,40,4,7506.4,30.77,56.8,rls,0,WIN,spin,no,17.797979797979796,8.898989898989898
+3,1611,196,WIN,4,105,-16,VA Singh,Yasir Shah,6,5,8,9,40,45,Left-hand bat,70,40,4,7506.4,30.77,56.8,rls,0,WIN,spin,no,17.797979797979796,8.898989898989898
+3,1612,197,WIN,4,105,-16,VA Singh,Yasir Shah,6,5,9,9,40,45,Left-hand bat,71,40,4,7506.4,30.77,56.8,rls,0,WIN,spin,no,17.797979797979796,8.898989898989898
+3,1619,204,WIN,4,105,-16,VA Singh,Yasir Shah,6,5,10,9,40,45,Left-hand bat,72,40,4,7506.4,30.77,56.8,rls,0,WIN,spin,no,17.797979797979796,8.898989898989898
+3,1620,205,WIN,4,105,-16,VA Singh,Yasir Shah,6,5,11,9,40,45,Left-hand bat,73,40,4,7506.4,30.77,56.8,rls,0,WIN,spin,no,17.797979797979796,8.898989898989898
+3,1621,206,WIN,4,105,-16,VA Singh,Yasir Shah,6,5,12,9,40,45,Left-hand bat,74,40,4,7506.4,30.77,56.8,rls,0,WIN,spin,no,17.797979797979796,8.898989898989898
+3,1622,207,WIN,4,105,-16,VA Singh,Yasir Shah,6,5,13,9,40,45,Left-hand bat,75,40,4,7506.4,30.77,56.8,rls,0,WIN,spin,no,17.797979797979796,8.898989898989898
+3,1623,208,WIN,4,105,-16,VA Singh,Yasir Shah,6,5,14,9,40,45,Left-hand bat,76,40,4,7506.4,30.77,56.8,rls,1lb,WIN,spin,no,17.797979797979796,8.898989898989898

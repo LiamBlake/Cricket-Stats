@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,876,277,ENG,5,176,-163,MM Ali,Yasir Shah,7,3,1,29.82,2341,49.67,Left-hand bat,78,30,3,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,877,278,ENG,5,176,-163,MM Ali,Yasir Shah,7,3,2,29.82,2341,49.67,Left-hand bat,79,30,3,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,878,279,ENG,5,176,-163,MM Ali,Yasir Shah,7,3,3,29.82,2341,49.67,Left-hand bat,80,30,3,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,879,280,ENG,5,176,-163,MM Ali,Yasir Shah,7,3,4,29.82,2341,49.67,Left-hand bat,81,30,3,4038.4,23,47,rls,1,ENG,spin,no,18.0775,7.7475
+2,888,289,ENG,5,190,-149,MM Ali,Yasir Shah,7,5,6,29.82,2341,49.67,Left-hand bat,84,35,3,4038.4,23,47,rls,1,ENG,spin,no,18.0775,7.7475
+2,890,291,ENG,5,192,-147,MM Ali,Yasir Shah,7,6,7,29.82,2341,49.67,Left-hand bat,86,37,3,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,891,292,ENG,5,192,-147,MM Ali,Yasir Shah,7,6,8,29.82,2341,49.67,Left-hand bat,87,37,3,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,892,293,ENG,5,192,-147,MM Ali,Yasir Shah,7,6,9,29.82,2341,49.67,Left-hand bat,88,37,3,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,893,294,ENG,5,192,-147,MM Ali,Yasir Shah,7,6,10,29.82,2341,49.67,Left-hand bat,89,37,3,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,925,326,ENG,6,209,-130,MM Ali,Yasir Shah,7,8,17,29.82,2341,49.67,Left-hand bat,102,45,4,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,926,327,ENG,6,209,-130,MM Ali,Yasir Shah,7,8,18,29.82,2341,49.67,Left-hand bat,103,45,4,4038.4,23,47,rls,4,ENG,spin,no,18.0775,7.7475
+2,927,328,ENG,6,213,-126,MM Ali,Yasir Shah,7,12,19,29.82,2341,49.67,Left-hand bat,104,49,4,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,928,329,ENG,6,213,-126,MM Ali,Yasir Shah,7,12,20,29.82,2341,49.67,Left-hand bat,105,49,4,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,929,330,ENG,6,213,-126,MM Ali,Yasir Shah,7,12,21,29.82,2341,49.67,Left-hand bat,106,49,4,4038.4,23,47,rls,1,ENG,spin,no,18.0775,7.7475
+2,967,368,ENG,6,232,-107,MM Ali,Yasir Shah,7,23,31,29.82,2341,49.67,Left-hand bat,120,51,4,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,968,369,ENG,6,232,-107,MM Ali,Yasir Shah,7,23,32,29.82,2341,49.67,Left-hand bat,121,51,4,4038.4,23,47,rls,W,ENG,spin,no,18.0775,7.7475

@@ -1,0 +1,2 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,270,270,SRL,6,93,93,RAS Lakmal,PJ Cummins,9,0,0,11.39,1470,49.59,Right-hand bat,63,21,2,4266.3,22.47,47.4,rf,3,AUS,seam,yes,16.16,3.3666666666666667

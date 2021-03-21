@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2501,825,AUS,9,487,330,NM Lyon,RAS Lakmal,11,0,0,17,42,40.47,Right-hand bat,133,86,0,1284.5,45.61,71.6,rfm,0,SRL,seam,no,29.959999999999997,12.84
+3,2502,826,AUS,9,487,330,NM Lyon,RAS Lakmal,11,0,1,17,42,40.47,Right-hand bat,134,86,0,1284.5,45.61,71.6,rfm,0,SRL,seam,no,29.959999999999997,12.84
+3,2503,827,AUS,9,487,330,NM Lyon,RAS Lakmal,11,0,2,17,42,40.47,Right-hand bat,135,86,0,1284.5,45.61,71.6,rfm,0,SRL,seam,no,29.959999999999997,12.84

@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,877,486,ENG,7,255,61,SJ Harmison,PL Harris,9,5,9,11.91,1164,59.36,Right-hand bat,74,20,0,3378,32.76,73.4,lo,0,ENG,spin,no,23.963667820069205,6.21280276816609
+2,878,487,ENG,7,255,61,SJ Harmison,PL Harris,9,5,10,11.91,1164,59.36,Right-hand bat,75,20,0,3378,32.76,73.4,lo,0,ENG,spin,no,23.963667820069205,6.21280276816609
+2,879,488,ENG,7,255,61,SJ Harmison,PL Harris,9,5,11,11.91,1164,59.36,Right-hand bat,76,20,0,3378,32.76,73.4,lo,1,ENG,spin,no,23.963667820069205,6.21280276816609
+2,948,557,ENG,8,294,100,SJ Harmison,PL Harris,9,35,44,11.91,1164,59.36,Right-hand bat,78,21,0,3378,32.76,73.4,lo,4,ENG,spin,no,23.963667820069205,6.21280276816609
+2,949,558,ENG,8,298,104,SJ Harmison,PL Harris,9,39,45,11.91,1164,59.36,Right-hand bat,79,25,0,3378,32.76,73.4,lo,0,ENG,spin,no,23.963667820069205,6.21280276816609
+2,950,559,ENG,8,298,104,SJ Harmison,PL Harris,9,39,46,11.91,1164,59.36,Right-hand bat,80,25,0,3378,32.76,73.4,lo,0,ENG,spin,no,23.963667820069205,6.21280276816609
+2,951,560,ENG,8,298,104,SJ Harmison,PL Harris,9,39,47,11.91,1164,59.36,Right-hand bat,81,25,0,3378,32.76,73.4,lo,1nb,ENG,spin,no,23.963667820069205,6.21280276816609
+2,952,561,ENG,8,299,105,SJ Harmison,PL Harris,9,39,48,11.91,1164,59.36,Right-hand bat,82,26,0,3378,32.76,73.4,lo,0,ENG,spin,no,23.963667820069205,6.21280276816609
+2,953,562,ENG,8,299,105,SJ Harmison,PL Harris,9,39,49,11.91,1164,59.36,Right-hand bat,83,26,0,3378,32.76,73.4,lo,0,ENG,spin,no,23.963667820069205,6.21280276816609
+2,954,563,ENG,8,299,105,SJ Harmison,PL Harris,9,39,50,11.91,1164,59.36,Right-hand bat,84,26,0,3378,32.76,73.4,lo,1,ENG,spin,no,23.963667820069205,6.21280276816609
+2,961,570,ENG,8,309,115,SJ Harmison,PL Harris,9,45,55,11.91,1164,59.36,Right-hand bat,85,27,0,3378,32.76,73.4,lo,4,ENG,spin,no,23.963667820069205,6.21280276816609
+2,962,571,ENG,8,313,119,SJ Harmison,PL Harris,9,49,56,11.91,1164,59.36,Right-hand bat,86,31,0,3378,32.76,73.4,lo,1lb,ENG,spin,no,23.963667820069205,6.21280276816609

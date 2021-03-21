@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1492,33,PAK,1,37,-110,Imran Farhat,GP Swann,1,22,16,32.61,4786,48.39,Left-hand bat,2,1,0,5982.3,28.14,57.5,rob,4,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1493,34,PAK,1,41,-106,Imran Farhat,GP Swann,1,26,17,32.61,4786,48.39,Left-hand bat,3,5,0,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1494,35,PAK,1,41,-106,Imran Farhat,GP Swann,1,26,18,32.61,4786,48.39,Left-hand bat,4,5,0,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1495,36,PAK,1,41,-106,Imran Farhat,GP Swann,1,26,19,32.61,4786,48.39,Left-hand bat,5,5,0,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1514,55,PAK,1,55,-92,Imran Farhat,GP Swann,1,32,26,32.61,4786,48.39,Left-hand bat,12,7,0,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1515,56,PAK,1,55,-92,Imran Farhat,GP Swann,1,32,27,32.61,4786,48.39,Left-hand bat,13,7,0,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1516,57,PAK,1,55,-92,Imran Farhat,GP Swann,1,32,28,32.61,4786,48.39,Left-hand bat,14,7,0,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1517,58,PAK,1,55,-92,Imran Farhat,GP Swann,1,32,29,32.61,4786,48.39,Left-hand bat,15,7,0,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1518,59,PAK,1,55,-92,Imran Farhat,GP Swann,1,32,30,32.61,4786,48.39,Left-hand bat,16,7,0,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1519,60,PAK,1,55,-92,Imran Farhat,GP Swann,1,32,31,32.61,4786,48.39,Left-hand bat,17,7,0,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1526,67,PAK,1,57,-90,Imran Farhat,GP Swann,1,33,36,32.61,4786,48.39,Left-hand bat,18,7,0,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1527,68,PAK,1,57,-90,Imran Farhat,GP Swann,1,33,37,32.61,4786,48.39,Left-hand bat,19,7,0,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1528,69,PAK,1,57,-90,Imran Farhat,GP Swann,1,33,38,32.61,4786,48.39,Left-hand bat,20,7,0,5982.3,28.14,57.5,rob,W,ENG,spin,no,16.16743827160494,9.138117283950617

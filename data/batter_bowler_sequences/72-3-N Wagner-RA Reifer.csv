@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1455,422,NZL,7,254,406,N Wagner,RA Reifer,9,7,27,12.18,941,42.72,Left-hand bat,62,37,1,180,44,90,lmf,1,NZL,seam,no,25.617728531855956,3.0138504155124655
+3,1457,424,NZL,7,256,408,N Wagner,RA Reifer,9,8,28,12.18,941,42.72,Left-hand bat,64,39,1,180,44,90,lmf,0,NZL,seam,no,25.617728531855956,3.0138504155124655
+3,1458,425,NZL,7,256,408,N Wagner,RA Reifer,9,8,29,12.18,941,42.72,Left-hand bat,65,39,1,180,44,90,lmf,0,NZL,seam,no,25.617728531855956,3.0138504155124655
+3,1459,426,NZL,7,256,408,N Wagner,RA Reifer,9,8,30,12.18,941,42.72,Left-hand bat,66,39,1,180,44,90,lmf,0,NZL,seam,no,25.617728531855956,3.0138504155124655

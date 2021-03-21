@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,619,619,AUS,8,306,306,NM Lyon,VD Philander,10,0,4,11.46,1645,44.62,Right-hand bat,139,41,2,9372.4,22,49,rfm,0,AUS,seam,yes,16.8675,9.0825
+1,620,620,AUS,8,306,306,NM Lyon,VD Philander,10,0,5,11.46,1645,44.62,Right-hand bat,140,41,2,9372.4,22,49,rfm,1,AUS,seam,yes,16.8675,9.0825
+1,623,623,AUS,8,312,312,NM Lyon,VD Philander,10,1,6,11.46,1645,44.62,Right-hand bat,143,47,2,9372.4,22,49,rfm,1lb,AUS,seam,yes,16.8675,9.0825
+1,635,635,AUS,8,324,324,NM Lyon,VD Philander,10,2,11,11.46,1645,44.62,Right-hand bat,149,52,2,9372.4,22,49,rfm,0,AUS,seam,yes,16.8675,9.0825
+1,643,643,AUS,8,332,332,NM Lyon,VD Philander,10,2,12,11.46,1645,44.62,Right-hand bat,151,53,2,9372.4,22,49,rfm,0,AUS,seam,yes,16.8675,9.0825
+1,644,644,AUS,8,332,332,NM Lyon,VD Philander,10,2,13,11.46,1645,44.62,Right-hand bat,152,53,2,9372.4,22,49,rfm,0,AUS,seam,yes,16.8675,9.0825
+1,645,645,AUS,8,332,332,NM Lyon,VD Philander,10,2,14,11.46,1645,44.62,Right-hand bat,153,53,2,9372.4,22,49,rfm,0,AUS,seam,yes,16.8675,9.0825
+1,646,646,AUS,8,332,332,NM Lyon,VD Philander,10,2,15,11.46,1645,44.62,Right-hand bat,154,53,2,9372.4,22,49,rfm,0,AUS,seam,yes,16.8675,9.0825
+1,647,647,AUS,8,332,332,NM Lyon,VD Philander,10,2,16,11.46,1645,44.62,Right-hand bat,155,53,2,9372.4,22,49,rfm,0,AUS,seam,yes,16.8675,9.0825

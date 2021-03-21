@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1679,1,ENG,1,0,-503,JE Root,RJ Harris,2,0,0,38.16,2300,39.82,Right-hand bat,1,0,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+4,1680,2,ENG,1,0,-503,JE Root,RJ Harris,2,0,1,38.16,2300,39.82,Right-hand bat,2,0,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+4,1681,3,ENG,1,0,-503,JE Root,RJ Harris,2,0,2,38.16,2300,39.82,Right-hand bat,3,0,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+4,1682,4,ENG,1,0,-503,JE Root,RJ Harris,2,0,3,38.16,2300,39.82,Right-hand bat,4,0,1,3936.1,22.45,47.4,rf,4,AUS,seam,no,30.38734567901234,7.334876543209877
+4,1683,5,ENG,1,4,-499,JE Root,RJ Harris,2,4,4,38.16,2300,39.82,Right-hand bat,5,4,1,3936.1,22.45,47.4,rf,1,AUS,seam,no,30.38734567901234,7.334876543209877
+4,1727,49,ENG,1,29,-474,JE Root,RJ Harris,2,8,29,38.16,2300,39.82,Right-hand bat,18,13,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+4,1728,50,ENG,1,29,-474,JE Root,RJ Harris,2,8,30,38.16,2300,39.82,Right-hand bat,19,13,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+4,1729,51,ENG,1,29,-474,JE Root,RJ Harris,2,8,31,38.16,2300,39.82,Right-hand bat,20,13,1,3936.1,22.45,47.4,rf,1,AUS,seam,no,30.38734567901234,7.334876543209877
+4,1732,54,ENG,1,31,-472,JE Root,RJ Harris,2,9,32,38.16,2300,39.82,Right-hand bat,23,15,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+4,1739,61,ENG,1,33,-470,JE Root,RJ Harris,2,9,33,38.16,2300,39.82,Right-hand bat,24,15,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+4,1740,62,ENG,1,33,-470,JE Root,RJ Harris,2,9,34,38.16,2300,39.82,Right-hand bat,25,15,1,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+4,1741,63,ENG,1,33,-470,JE Root,RJ Harris,2,9,35,38.16,2300,39.82,Right-hand bat,26,15,1,3936.1,22.45,47.4,rf,1b,AUS,seam,no,30.38734567901234,7.334876543209877

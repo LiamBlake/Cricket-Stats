@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1649,414,WIN,4,181,26,MN Samuels,IJL Trott,6,69,116,30.32,4220,45.99,Right-hand bat,0,0,0,384,82.66,128,rm,0,ENG,seam,no,28.873469387755097,4.812244897959183
+3,1650,415,WIN,4,181,26,MN Samuels,IJL Trott,6,69,117,30.32,4220,45.99,Right-hand bat,1,0,0,384,82.66,128,rm,0,ENG,seam,no,28.873469387755097,4.812244897959183
+3,1651,416,WIN,4,181,26,MN Samuels,IJL Trott,6,69,118,30.32,4220,45.99,Right-hand bat,2,0,0,384,82.66,128,rm,1,ENG,seam,no,28.873469387755097,4.812244897959183
+3,1661,426,WIN,4,187,32,MN Samuels,IJL Trott,6,71,124,30.32,4220,45.99,Right-hand bat,6,5,0,384,82.66,128,rm,0,ENG,seam,no,28.873469387755097,4.812244897959183
+3,1662,427,WIN,4,187,32,MN Samuels,IJL Trott,6,71,125,30.32,4220,45.99,Right-hand bat,7,5,0,384,82.66,128,rm,0,ENG,seam,no,28.873469387755097,4.812244897959183
+3,1663,428,WIN,4,187,32,MN Samuels,IJL Trott,6,71,126,30.32,4220,45.99,Right-hand bat,8,5,0,384,82.66,128,rm,0,ENG,seam,no,28.873469387755097,4.812244897959183
+3,1664,429,WIN,4,187,32,MN Samuels,IJL Trott,6,71,127,30.32,4220,45.99,Right-hand bat,9,5,0,384,82.66,128,rm,1,ENG,seam,no,28.873469387755097,4.812244897959183
+3,1666,431,WIN,4,189,34,MN Samuels,IJL Trott,6,72,128,30.32,4220,45.99,Right-hand bat,11,7,0,384,82.66,128,rm,0,ENG,seam,no,28.873469387755097,4.812244897959183
+3,1675,440,WIN,4,195,40,MN Samuels,IJL Trott,6,72,132,30.32,4220,45.99,Right-hand bat,14,8,0,384,82.66,128,rm,0,ENG,seam,no,28.873469387755097,4.812244897959183
+3,1676,441,WIN,4,195,40,MN Samuels,IJL Trott,6,72,133,30.32,4220,45.99,Right-hand bat,15,8,0,384,82.66,128,rm,0,ENG,seam,no,28.873469387755097,4.812244897959183
+3,1677,442,WIN,4,195,40,MN Samuels,IJL Trott,6,72,134,30.32,4220,45.99,Right-hand bat,16,8,0,384,82.66,128,rm,1,ENG,seam,no,28.873469387755097,4.812244897959183

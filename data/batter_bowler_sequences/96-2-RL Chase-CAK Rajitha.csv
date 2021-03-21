@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,890,412,WIN,4,185,-68,RL Chase,CAK Rajitha,5,19,35,36.53,2511,46.55,Right-hand bat,74,25,1,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,891,413,WIN,4,185,-68,RL Chase,CAK Rajitha,5,19,36,36.53,2511,46.55,Right-hand bat,75,25,1,210,14.4,42,rmf,4,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,892,414,WIN,4,189,-64,RL Chase,CAK Rajitha,5,23,37,36.53,2511,46.55,Right-hand bat,76,29,1,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,893,415,WIN,4,189,-64,RL Chase,CAK Rajitha,5,23,38,36.53,2511,46.55,Right-hand bat,77,29,1,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,894,416,WIN,4,189,-64,RL Chase,CAK Rajitha,5,23,39,36.53,2511,46.55,Right-hand bat,78,29,1,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,895,417,WIN,4,189,-64,RL Chase,CAK Rajitha,5,23,40,36.53,2511,46.55,Right-hand bat,79,29,1,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,902,424,WIN,4,203,-50,RL Chase,CAK Rajitha,5,26,42,36.53,2511,46.55,Right-hand bat,80,29,1,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,903,425,WIN,4,203,-50,RL Chase,CAK Rajitha,5,26,43,36.53,2511,46.55,Right-hand bat,81,29,1,210,14.4,42,rmf,1,SRL,seam,no,28.070204081632653,1.7012244897959183

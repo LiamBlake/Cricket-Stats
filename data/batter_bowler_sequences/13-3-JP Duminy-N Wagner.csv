@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1587,71,RSA,2,25,-150,JP Duminy,N Wagner,4,0,0,33.64,4490,46.45,Left-hand bat,5,4,1,7044.1,28.9,54.1,lmf,1,NZL,seam,yes,28.256,7.064
+3,1598,82,RSA,2,27,-148,JP Duminy,N Wagner,4,1,7,33.64,4490,46.45,Left-hand bat,10,6,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064
+3,1599,83,RSA,2,27,-148,JP Duminy,N Wagner,4,1,8,33.64,4490,46.45,Left-hand bat,11,6,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064
+3,1606,90,RSA,2,29,-146,JP Duminy,N Wagner,4,1,9,33.64,4490,46.45,Left-hand bat,12,6,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064
+3,1607,91,RSA,2,29,-146,JP Duminy,N Wagner,4,1,10,33.64,4490,46.45,Left-hand bat,13,6,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064
+3,1608,92,RSA,2,29,-146,JP Duminy,N Wagner,4,1,11,33.64,4490,46.45,Left-hand bat,14,6,1,7044.1,28.9,54.1,lmf,4,NZL,seam,yes,28.256,7.064
+3,1609,93,RSA,2,33,-142,JP Duminy,N Wagner,4,5,12,33.64,4490,46.45,Left-hand bat,15,10,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064
+3,1610,94,RSA,2,33,-142,JP Duminy,N Wagner,4,5,13,33.64,4490,46.45,Left-hand bat,16,10,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064
+3,1611,95,RSA,2,33,-142,JP Duminy,N Wagner,4,5,14,33.64,4490,46.45,Left-hand bat,17,10,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064
+3,1618,102,RSA,2,35,-140,JP Duminy,N Wagner,4,6,16,33.64,4490,46.45,Left-hand bat,18,10,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064
+3,1619,103,RSA,2,35,-140,JP Duminy,N Wagner,4,6,17,33.64,4490,46.45,Left-hand bat,19,10,1,7044.1,28.9,54.1,lmf,1,NZL,seam,yes,28.256,7.064
+3,1634,118,RSA,2,47,-128,JP Duminy,N Wagner,4,13,24,33.64,4490,46.45,Left-hand bat,28,16,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064
+3,1635,119,RSA,2,47,-128,JP Duminy,N Wagner,4,13,25,33.64,4490,46.45,Left-hand bat,29,16,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064

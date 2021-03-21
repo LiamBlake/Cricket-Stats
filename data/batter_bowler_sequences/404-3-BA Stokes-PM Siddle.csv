@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1282,186,ENG,4,92,143,BA Stokes,PM Siddle,6,1,7,33.33,432,46.29,Left-hand bat,48,15,1,10626.3,28.9,59,rfm,0,AUS,seam,no,20.3671875,6.7890625
+3,1283,187,ENG,4,92,143,BA Stokes,PM Siddle,6,1,8,33.33,432,46.29,Left-hand bat,49,15,1,10626.3,28.9,59,rfm,0,AUS,seam,no,20.3671875,6.7890625
+3,1284,188,ENG,4,92,143,BA Stokes,PM Siddle,6,1,9,33.33,432,46.29,Left-hand bat,50,15,1,10626.3,28.9,59,rfm,0,AUS,seam,no,20.3671875,6.7890625
+3,1285,189,ENG,4,92,143,BA Stokes,PM Siddle,6,1,10,33.33,432,46.29,Left-hand bat,51,15,1,10626.3,28.9,59,rfm,0,AUS,seam,no,20.3671875,6.7890625
+3,1286,190,ENG,4,92,143,BA Stokes,PM Siddle,6,1,11,33.33,432,46.29,Left-hand bat,52,15,1,10626.3,28.9,59,rfm,0,AUS,seam,no,20.3671875,6.7890625
+3,1287,191,ENG,4,92,143,BA Stokes,PM Siddle,6,1,12,33.33,432,46.29,Left-hand bat,53,15,1,10626.3,28.9,59,rfm,0,AUS,seam,no,20.3671875,6.7890625
+3,1295,199,ENG,4,96,147,BA Stokes,PM Siddle,6,3,16,33.33,432,46.29,Left-hand bat,55,16,1,10626.3,28.9,59,rfm,0,AUS,seam,no,20.3671875,6.7890625
+3,1296,200,ENG,4,96,147,BA Stokes,PM Siddle,6,3,17,33.33,432,46.29,Left-hand bat,56,16,1,10626.3,28.9,59,rfm,4,AUS,seam,no,20.3671875,6.7890625
+3,1297,201,ENG,4,100,151,BA Stokes,PM Siddle,6,7,18,33.33,432,46.29,Left-hand bat,57,20,1,10626.3,28.9,59,rfm,0,AUS,seam,no,20.3671875,6.7890625
+3,1298,202,ENG,4,100,151,BA Stokes,PM Siddle,6,7,19,33.33,432,46.29,Left-hand bat,58,20,1,10626.3,28.9,59,rfm,0,AUS,seam,no,20.3671875,6.7890625
+3,1299,203,ENG,4,100,151,BA Stokes,PM Siddle,6,7,20,33.33,432,46.29,Left-hand bat,59,20,1,10626.3,28.9,59,rfm,0,AUS,seam,no,20.3671875,6.7890625
+3,1344,248,ENG,4,116,167,BA Stokes,PM Siddle,6,13,44,33.33,432,46.29,Left-hand bat,62,21,1,10626.3,28.9,59,rfm,0,AUS,seam,no,20.3671875,6.7890625
+3,1345,249,ENG,4,116,167,BA Stokes,PM Siddle,6,13,45,33.33,432,46.29,Left-hand bat,63,21,1,10626.3,28.9,59,rfm,1b,AUS,seam,no,20.3671875,6.7890625
+3,1356,260,ENG,4,128,179,BA Stokes,PM Siddle,6,16,49,33.33,432,46.29,Left-hand bat,68,28,1,10626.3,28.9,59,rfm,3,AUS,seam,no,20.3671875,6.7890625

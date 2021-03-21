@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,916,42,SRL,2,24,8,DPMD Jayawardene,FH Edwards,4,4,8,51.93,14211,52.62,Right-hand bat,0,0,0,5112.2,43.46,63.9,rf,4,WIN,seam,no,25.551903114186853,6.624567474048443
+3,917,43,SRL,2,28,12,DPMD Jayawardene,FH Edwards,4,8,9,51.93,14211,52.62,Right-hand bat,1,4,0,5112.2,43.46,63.9,rf,4,WIN,seam,no,25.551903114186853,6.624567474048443
+3,918,44,SRL,2,32,16,DPMD Jayawardene,FH Edwards,4,12,10,51.93,14211,52.62,Right-hand bat,2,8,0,5112.2,43.46,63.9,rf,0,WIN,seam,no,25.551903114186853,6.624567474048443
+3,919,45,SRL,2,32,16,DPMD Jayawardene,FH Edwards,4,12,11,51.93,14211,52.62,Right-hand bat,3,8,0,5112.2,43.46,63.9,rf,0,WIN,seam,no,25.551903114186853,6.624567474048443
+3,920,46,SRL,2,32,16,DPMD Jayawardene,FH Edwards,4,12,12,51.93,14211,52.62,Right-hand bat,4,8,0,5112.2,43.46,63.9,rf,W,WIN,seam,no,25.551903114186853,6.624567474048443

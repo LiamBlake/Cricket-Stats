@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1288,546,PAK,7,226,-154,Umar Gul,J Botha,9,0,2,11.39,851,50.88,Right-hand bat,126,48,3,828.2,31.93,55.3,rob,0,PAK,spin,no,24.748800000000003,26.8112
+2,1289,547,PAK,7,226,-154,Umar Gul,J Botha,9,0,3,11.39,851,50.88,Right-hand bat,127,48,3,828.2,31.93,55.3,rob,0,PAK,spin,no,24.748800000000003,26.8112
+2,1290,548,PAK,7,226,-154,Umar Gul,J Botha,9,0,4,11.39,851,50.88,Right-hand bat,128,48,3,828.2,31.93,55.3,rob,0,PAK,spin,no,24.748800000000003,26.8112
+2,1291,549,PAK,7,226,-154,Umar Gul,J Botha,9,0,5,11.39,851,50.88,Right-hand bat,129,48,3,828.2,31.93,55.3,rob,0,PAK,spin,no,24.748800000000003,26.8112
+2,1292,550,PAK,7,226,-154,Umar Gul,J Botha,9,0,6,11.39,851,50.88,Right-hand bat,130,48,3,828.2,31.93,55.3,rob,0,PAK,spin,no,24.748800000000003,26.8112
+2,1293,551,PAK,7,226,-154,Umar Gul,J Botha,9,0,7,11.39,851,50.88,Right-hand bat,131,48,3,828.2,31.93,55.3,rob,0,PAK,spin,no,24.748800000000003,26.8112
+2,1301,559,PAK,8,230,-150,Umar Gul,J Botha,9,0,8,11.39,851,50.88,Right-hand bat,133,49,3,828.2,31.93,55.3,rob,6,PAK,spin,no,24.748800000000003,26.8112
+2,1302,560,PAK,8,236,-144,Umar Gul,J Botha,9,6,9,11.39,851,50.88,Right-hand bat,134,55,3,828.2,31.93,55.3,rob,2,PAK,spin,no,24.748800000000003,26.8112
+2,1303,561,PAK,8,238,-142,Umar Gul,J Botha,9,8,10,11.39,851,50.88,Right-hand bat,135,57,3,828.2,31.93,55.3,rob,4,PAK,spin,no,24.748800000000003,26.8112
+2,1304,562,PAK,8,242,-138,Umar Gul,J Botha,9,12,11,11.39,851,50.88,Right-hand bat,136,61,3,828.2,31.93,55.3,rob,0,PAK,spin,no,24.748800000000003,26.8112
+2,1305,563,PAK,8,242,-138,Umar Gul,J Botha,9,12,12,11.39,851,50.88,Right-hand bat,137,61,3,828.2,31.93,55.3,rob,0,PAK,spin,no,24.748800000000003,26.8112

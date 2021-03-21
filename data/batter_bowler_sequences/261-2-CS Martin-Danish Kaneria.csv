@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1227,836,NZL,9,471,248,CS Martin,Danish Kaneria,11,0,0,2.24,443,18.73,Right-hand bat,314,168,6,16512.5,33.84,67.4,rls,0,NZL,spin,no,24.779999999999998,16.52
+2,1228,837,NZL,9,471,248,CS Martin,Danish Kaneria,11,0,1,2.24,443,18.73,Right-hand bat,315,168,6,16512.5,33.84,67.4,rls,0,NZL,spin,no,24.779999999999998,16.52
+2,1229,838,NZL,9,471,248,CS Martin,Danish Kaneria,11,0,2,2.24,443,18.73,Right-hand bat,316,168,6,16512.5,33.84,67.4,rls,0,NZL,spin,no,24.779999999999998,16.52
+2,1230,839,NZL,9,471,248,CS Martin,Danish Kaneria,11,0,3,2.24,443,18.73,Right-hand bat,317,168,6,16512.5,33.84,67.4,rls,W,NZL,spin,no,24.779999999999998,16.52

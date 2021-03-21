@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,890,890,RSA,8,524,524,DW Steyn,Harbhajan Singh,10,0,0,10.47,425,46.82,Right-hand bat,252,152,3,17472.4,31.45,66.1,rob,0,IND,spin,yes,19.174400000000002,40.745599999999996
+1,891,891,RSA,8,524,524,DW Steyn,Harbhajan Singh,10,0,1,10.47,425,46.82,Right-hand bat,253,152,3,17472.4,31.45,66.1,rob,0,IND,spin,yes,19.174400000000002,40.745599999999996
+1,892,892,RSA,8,524,524,DW Steyn,Harbhajan Singh,10,0,2,10.47,425,46.82,Right-hand bat,254,152,3,17472.4,31.45,66.1,rob,4,IND,spin,yes,19.174400000000002,40.745599999999996
+1,893,893,RSA,8,528,528,DW Steyn,Harbhajan Singh,10,4,3,10.47,425,46.82,Right-hand bat,255,156,3,17472.4,31.45,66.1,rob,0,IND,spin,yes,19.174400000000002,40.745599999999996
+1,894,894,RSA,8,528,528,DW Steyn,Harbhajan Singh,10,4,4,10.47,425,46.82,Right-hand bat,256,156,3,17472.4,31.45,66.1,rob,0,IND,spin,yes,19.174400000000002,40.745599999999996
+1,895,895,RSA,8,528,528,DW Steyn,Harbhajan Singh,10,4,5,10.47,425,46.82,Right-hand bat,257,156,3,17472.4,31.45,66.1,rob,1,IND,spin,yes,19.174400000000002,40.745599999999996
+1,916,916,RSA,9,534,534,DW Steyn,Harbhajan Singh,10,9,18,10.47,425,46.82,Right-hand bat,266,158,4,17472.4,31.45,66.1,rob,4,IND,spin,yes,19.174400000000002,40.745599999999996
+1,917,917,RSA,9,538,538,DW Steyn,Harbhajan Singh,10,13,19,10.47,425,46.82,Right-hand bat,267,162,4,17472.4,31.45,66.1,rob,2,IND,spin,yes,19.174400000000002,40.745599999999996
+1,918,918,RSA,9,540,540,DW Steyn,Harbhajan Singh,10,15,20,10.47,425,46.82,Right-hand bat,268,164,4,17472.4,31.45,66.1,rob,W,IND,spin,yes,19.174400000000002,40.745599999999996

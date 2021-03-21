@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1523,167,ENG,5,84,-306,IR Bell,MG Johnson,7,0,0,43.82,8038,50.7,Right-hand bat,46,31,2,9294.5,29,53.1,lf,1lb,AUS,seam,yes,21.06625,1.1087500000000001
+4,1543,187,ENG,6,94,-296,IR Bell,MG Johnson,7,9,10,43.82,8038,50.7,Right-hand bat,54,31,2,9294.5,29,53.1,lf,0,AUS,seam,yes,21.06625,1.1087500000000001
+4,1544,188,ENG,6,94,-296,IR Bell,MG Johnson,7,9,11,43.82,8038,50.7,Right-hand bat,55,31,2,9294.5,29,53.1,lf,0,AUS,seam,yes,21.06625,1.1087500000000001
+4,1545,189,ENG,6,94,-296,IR Bell,MG Johnson,7,9,12,43.82,8038,50.7,Right-hand bat,56,31,2,9294.5,29,53.1,lf,0,AUS,seam,yes,21.06625,1.1087500000000001
+4,1546,190,ENG,6,94,-296,IR Bell,MG Johnson,7,9,13,43.82,8038,50.7,Right-hand bat,57,31,2,9294.5,29,53.1,lf,0,AUS,seam,yes,21.06625,1.1087500000000001
+4,1547,191,ENG,6,94,-296,IR Bell,MG Johnson,7,9,14,43.82,8038,50.7,Right-hand bat,58,31,2,9294.5,29,53.1,lf,0,AUS,seam,yes,21.06625,1.1087500000000001
+4,1548,192,ENG,6,94,-296,IR Bell,MG Johnson,7,9,15,43.82,8038,50.7,Right-hand bat,59,31,2,9294.5,29,53.1,lf,0,AUS,seam,yes,21.06625,1.1087500000000001
+4,1555,199,ENG,6,104,-286,IR Bell,MG Johnson,7,9,16,43.82,8038,50.7,Right-hand bat,60,31,2,9294.5,29,53.1,lf,2,AUS,seam,yes,21.06625,1.1087500000000001
+4,1556,200,ENG,6,106,-284,IR Bell,MG Johnson,7,11,17,43.82,8038,50.7,Right-hand bat,61,33,2,9294.5,29,53.1,lf,0,AUS,seam,yes,21.06625,1.1087500000000001
+4,1557,201,ENG,6,106,-284,IR Bell,MG Johnson,7,11,18,43.82,8038,50.7,Right-hand bat,62,33,2,9294.5,29,53.1,lf,0,AUS,seam,yes,21.06625,1.1087500000000001
+4,1558,202,ENG,6,106,-284,IR Bell,MG Johnson,7,11,19,43.82,8038,50.7,Right-hand bat,63,33,2,9294.5,29,53.1,lf,0,AUS,seam,yes,21.06625,1.1087500000000001
+4,1559,203,ENG,6,106,-284,IR Bell,MG Johnson,7,11,20,43.82,8038,50.7,Right-hand bat,64,33,2,9294.5,29,53.1,lf,4,AUS,seam,yes,21.06625,1.1087500000000001
+4,1560,204,ENG,6,110,-280,IR Bell,MG Johnson,7,15,21,43.82,8038,50.7,Right-hand bat,65,37,2,9294.5,29,53.1,lf,1,AUS,seam,yes,21.06625,1.1087500000000001

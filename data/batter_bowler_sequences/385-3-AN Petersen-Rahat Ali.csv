@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,763,73,RSA,0,47,251,AN Petersen,Rahat Ali,1,17,32,41.07,3043,51.29,Right-hand bat,12,11,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,764,74,RSA,0,47,251,AN Petersen,Rahat Ali,1,17,33,41.07,3043,51.29,Right-hand bat,13,11,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,765,75,RSA,0,47,251,AN Petersen,Rahat Ali,1,17,34,41.07,3043,51.29,Right-hand bat,14,11,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,766,76,RSA,0,47,251,AN Petersen,Rahat Ali,1,17,35,41.07,3043,51.29,Right-hand bat,15,11,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,767,77,RSA,0,47,251,AN Petersen,Rahat Ali,1,17,36,41.07,3043,51.29,Right-hand bat,16,11,0,150,NA,NA,lfm,4,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,768,78,RSA,0,51,255,AN Petersen,Rahat Ali,1,21,37,41.07,3043,51.29,Right-hand bat,17,15,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,779,89,RSA,0,55,259,AN Petersen,Rahat Ali,1,22,40,41.07,3043,51.29,Right-hand bat,22,16,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,780,90,RSA,0,55,259,AN Petersen,Rahat Ali,1,22,41,41.07,3043,51.29,Right-hand bat,23,16,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,787,97,RSA,0,59,263,AN Petersen,Rahat Ali,1,22,42,41.07,3043,51.29,Right-hand bat,24,16,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,788,98,RSA,0,59,263,AN Petersen,Rahat Ali,1,22,43,41.07,3043,51.29,Right-hand bat,25,16,0,150,NA,NA,lfm,4,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,789,99,RSA,0,63,267,AN Petersen,Rahat Ali,1,26,44,41.07,3043,51.29,Right-hand bat,26,20,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,790,100,RSA,0,63,267,AN Petersen,Rahat Ali,1,26,45,41.07,3043,51.29,Right-hand bat,27,20,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,791,101,RSA,0,63,267,AN Petersen,Rahat Ali,1,26,46,41.07,3043,51.29,Right-hand bat,28,20,0,150,NA,NA,lfm,1,RSA,seam,yes,20.950413223140497,4.65564738292011

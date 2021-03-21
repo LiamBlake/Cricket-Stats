@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1175,201,SRL,7,123,178,PVD Chameera,TG Southee,9,0,0,6.66,137,29.19,Right-hand bat,64,24,3,10098.2,31.47,61.9,rmf,0,NZL,seam,no,22.92489795918367,1.3893877551020408
+3,1176,202,SRL,7,123,178,PVD Chameera,TG Southee,9,0,1,6.66,137,29.19,Right-hand bat,65,24,3,10098.2,31.47,61.9,rmf,0,NZL,seam,no,22.92489795918367,1.3893877551020408
+3,1177,203,SRL,7,123,178,PVD Chameera,TG Southee,9,0,2,6.66,137,29.19,Right-hand bat,66,24,3,10098.2,31.47,61.9,rmf,1,NZL,seam,no,22.92489795918367,1.3893877551020408
+3,1184,210,SRL,8,131,186,PVD Chameera,TG Southee,9,2,6,6.66,137,29.19,Right-hand bat,67,25,3,10098.2,31.47,61.9,rmf,0,NZL,seam,no,22.92489795918367,1.3893877551020408
+3,1185,211,SRL,8,131,186,PVD Chameera,TG Southee,9,2,7,6.66,137,29.19,Right-hand bat,68,25,3,10098.2,31.47,61.9,rmf,1lb,NZL,seam,no,22.92489795918367,1.3893877551020408
+3,1189,215,SRL,8,133,188,PVD Chameera,TG Southee,9,2,8,6.66,137,29.19,Right-hand bat,72,26,3,10098.2,31.47,61.9,rmf,0,NZL,seam,no,22.92489795918367,1.3893877551020408

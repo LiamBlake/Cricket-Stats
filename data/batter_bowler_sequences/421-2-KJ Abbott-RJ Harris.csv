@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1192,418,RSA,7,244,-250,KJ Abbott,RJ Harris,9,0,4,7.66,142,16.19,Right-hand bat,114,53,3,4980,22.56,48.3,rf,0,RSA,seam,no,34.251953125,7.904296875
+2,1199,425,RSA,7,244,-250,KJ Abbott,RJ Harris,9,0,5,7.66,142,16.19,Right-hand bat,115,53,3,4980,22.56,48.3,rf,0,RSA,seam,no,34.251953125,7.904296875
+2,1200,426,RSA,7,244,-250,KJ Abbott,RJ Harris,9,0,6,7.66,142,16.19,Right-hand bat,116,53,3,4980,22.56,48.3,rf,0,RSA,seam,no,34.251953125,7.904296875
+2,1201,427,RSA,7,244,-250,KJ Abbott,RJ Harris,9,0,7,7.66,142,16.19,Right-hand bat,117,53,3,4980,22.56,48.3,rf,0,RSA,seam,no,34.251953125,7.904296875
+2,1202,428,RSA,7,244,-250,KJ Abbott,RJ Harris,9,0,8,7.66,142,16.19,Right-hand bat,118,53,3,4980,22.56,48.3,rf,2,RSA,seam,no,34.251953125,7.904296875
+2,1203,429,RSA,7,246,-248,KJ Abbott,RJ Harris,9,2,9,7.66,142,16.19,Right-hand bat,119,55,3,4980,22.56,48.3,rf,0,RSA,seam,no,34.251953125,7.904296875
+2,1204,430,RSA,7,246,-248,KJ Abbott,RJ Harris,9,2,10,7.66,142,16.19,Right-hand bat,120,55,3,4980,22.56,48.3,rf,0,RSA,seam,no,34.251953125,7.904296875

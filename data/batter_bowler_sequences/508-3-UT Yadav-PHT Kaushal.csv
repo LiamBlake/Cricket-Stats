@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1345,410,IND,8,234,345,UT Yadav,PHT Kaushal,10,0,0,7.75,230,40.43,Right-hand bat,51,27,1,1506.2,42.12,62.8,rob,0,SRL,spin,no,17.803125,8.571875
+3,1346,411,IND,8,234,345,UT Yadav,PHT Kaushal,10,0,1,7.75,230,40.43,Right-hand bat,52,27,1,1506.2,42.12,62.8,rob,0,SRL,spin,no,17.803125,8.571875
+3,1347,412,IND,8,234,345,UT Yadav,PHT Kaushal,10,0,2,7.75,230,40.43,Right-hand bat,53,27,1,1506.2,42.12,62.8,rob,1,SRL,spin,no,17.803125,8.571875
+3,1355,420,IND,8,238,349,UT Yadav,PHT Kaushal,10,2,5,7.75,230,40.43,Right-hand bat,55,29,1,1506.2,42.12,62.8,rob,0,SRL,spin,no,17.803125,8.571875
+3,1356,421,IND,8,238,349,UT Yadav,PHT Kaushal,10,2,6,7.75,230,40.43,Right-hand bat,56,29,1,1506.2,42.12,62.8,rob,0,SRL,spin,no,17.803125,8.571875
+3,1357,422,IND,8,238,349,UT Yadav,PHT Kaushal,10,2,7,7.75,230,40.43,Right-hand bat,57,29,1,1506.2,42.12,62.8,rob,0,SRL,spin,no,17.803125,8.571875
+3,1358,423,IND,8,238,349,UT Yadav,PHT Kaushal,10,2,8,7.75,230,40.43,Right-hand bat,58,29,1,1506.2,42.12,62.8,rob,0,SRL,spin,no,17.803125,8.571875
+3,1359,424,IND,8,238,349,UT Yadav,PHT Kaushal,10,2,9,7.75,230,40.43,Right-hand bat,59,29,1,1506.2,42.12,62.8,rob,0,SRL,spin,no,17.803125,8.571875
+3,1360,425,IND,8,238,349,UT Yadav,PHT Kaushal,10,2,10,7.75,230,40.43,Right-hand bat,60,29,1,1506.2,42.12,62.8,rob,0,SRL,spin,no,17.803125,8.571875
+3,1372,437,IND,8,252,363,UT Yadav,PHT Kaushal,10,3,12,7.75,230,40.43,Right-hand bat,66,36,1,1506.2,42.12,62.8,rob,0,SRL,spin,no,17.803125,8.571875
+3,1384,449,IND,8,268,379,UT Yadav,PHT Kaushal,10,4,14,7.75,230,40.43,Right-hand bat,72,41,1,1506.2,42.12,62.8,rob,0,SRL,spin,no,17.803125,8.571875

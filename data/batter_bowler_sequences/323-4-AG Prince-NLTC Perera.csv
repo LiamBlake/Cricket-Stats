@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1645,184,RSA,3,98,-351,AG Prince,NLTC Perera,5,0,1,41.64,8385,43.7,Left-hand bat,38,24,1,564,53,80.5,rmf,0,RSA,seam,no,16.6725,8.9775
+4,1646,185,RSA,3,98,-351,AG Prince,NLTC Perera,5,0,2,41.64,8385,43.7,Left-hand bat,39,24,1,564,53,80.5,rmf,0,RSA,seam,no,16.6725,8.9775
+4,1647,186,RSA,3,98,-351,AG Prince,NLTC Perera,5,0,3,41.64,8385,43.7,Left-hand bat,40,24,1,564,53,80.5,rmf,1,RSA,seam,no,16.6725,8.9775

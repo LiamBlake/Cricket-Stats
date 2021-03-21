@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,839,21,IND,1,13,20,PP Shaw,TA Boult,1,4,11,55.83,388,86.34,Right-hand bat,9,3,1,14874,27.65,55.7,lfm,4,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,840,22,IND,1,17,24,PP Shaw,TA Boult,1,8,12,55.83,388,86.34,Right-hand bat,10,7,1,14874,27.65,55.7,lfm,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,841,23,IND,1,17,24,PP Shaw,TA Boult,1,8,13,55.83,388,86.34,Right-hand bat,11,7,1,14874,27.65,55.7,lfm,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,848,30,IND,1,23,30,PP Shaw,TA Boult,1,11,15,55.83,388,86.34,Right-hand bat,12,7,1,14874,27.65,55.7,lfm,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,849,31,IND,1,23,30,PP Shaw,TA Boult,1,11,16,55.83,388,86.34,Right-hand bat,13,7,1,14874,27.65,55.7,lfm,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,850,32,IND,1,23,30,PP Shaw,TA Boult,1,11,17,55.83,388,86.34,Right-hand bat,14,7,1,14874,27.65,55.7,lfm,2,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,851,33,IND,1,25,32,PP Shaw,TA Boult,1,13,18,55.83,388,86.34,Right-hand bat,15,9,1,14874,27.65,55.7,lfm,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,852,34,IND,1,25,32,PP Shaw,TA Boult,1,13,19,55.83,388,86.34,Right-hand bat,16,9,1,14874,27.65,55.7,lfm,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,853,35,IND,1,25,32,PP Shaw,TA Boult,1,13,20,55.83,388,86.34,Right-hand bat,17,9,1,14874,27.65,55.7,lfm,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,860,42,IND,1,25,32,PP Shaw,TA Boult,1,13,21,55.83,388,86.34,Right-hand bat,18,9,1,14874,27.65,55.7,lfm,0,NZL,seam,no,20.865932047750228,1.3461891643709825
+3,861,43,IND,1,25,32,PP Shaw,TA Boult,1,13,22,55.83,388,86.34,Right-hand bat,19,9,1,14874,27.65,55.7,lfm,1,NZL,seam,no,20.865932047750228,1.3461891643709825

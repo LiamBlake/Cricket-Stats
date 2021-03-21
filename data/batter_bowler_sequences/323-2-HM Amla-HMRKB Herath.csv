@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,775,119,RSA,3,54,-284,HM Amla,HMRKB Herath,3,21,37,47.32,8416,50.6,Right-hand bat,15,3,0,8484.2,33.71,71.3,lo,1,RSA,spin,no,16.6725,8.9775
+2,790,134,RSA,3,59,-279,HM Amla,HMRKB Herath,3,23,43,47.32,8416,50.6,Right-hand bat,23,5,0,8484.2,33.71,71.3,lo,0,RSA,spin,no,16.6725,8.9775
+2,801,145,RSA,3,61,-277,HM Amla,HMRKB Herath,3,23,48,47.32,8416,50.6,Right-hand bat,28,6,0,8484.2,33.71,71.3,lo,2,RSA,spin,no,16.6725,8.9775
+2,802,146,RSA,3,63,-275,HM Amla,HMRKB Herath,3,25,49,47.32,8416,50.6,Right-hand bat,29,8,0,8484.2,33.71,71.3,lo,0,RSA,spin,no,16.6725,8.9775
+2,833,177,RSA,3,89,-249,HM Amla,HMRKB Herath,3,46,63,47.32,8416,50.6,Right-hand bat,42,8,0,8484.2,33.71,71.3,lo,0,RSA,spin,no,16.6725,8.9775
+2,834,178,RSA,3,89,-249,HM Amla,HMRKB Herath,3,46,64,47.32,8416,50.6,Right-hand bat,43,8,0,8484.2,33.71,71.3,lo,0,RSA,spin,no,16.6725,8.9775
+2,835,179,RSA,3,89,-249,HM Amla,HMRKB Herath,3,46,65,47.32,8416,50.6,Right-hand bat,44,8,0,8484.2,33.71,71.3,lo,0,RSA,spin,no,16.6725,8.9775
+2,836,180,RSA,3,89,-249,HM Amla,HMRKB Herath,3,46,66,47.32,8416,50.6,Right-hand bat,45,8,0,8484.2,33.71,71.3,lo,0,RSA,spin,no,16.6725,8.9775
+2,837,181,RSA,3,89,-249,HM Amla,HMRKB Herath,3,46,67,47.32,8416,50.6,Right-hand bat,46,8,0,8484.2,33.71,71.3,lo,0,RSA,spin,no,16.6725,8.9775
+2,838,182,RSA,3,89,-249,HM Amla,HMRKB Herath,3,46,68,47.32,8416,50.6,Right-hand bat,47,8,0,8484.2,33.71,71.3,lo,4,RSA,spin,no,16.6725,8.9775
+2,845,189,RSA,3,99,-239,HM Amla,HMRKB Herath,3,51,70,47.32,8416,50.6,Right-hand bat,48,12,0,8484.2,33.71,71.3,lo,1,RSA,spin,no,16.6725,8.9775
+2,870,214,RSA,4,105,-233,HM Amla,HMRKB Herath,3,53,78,47.32,8416,50.6,Right-hand bat,61,14,0,8484.2,33.71,71.3,lo,0,RSA,spin,no,16.6725,8.9775
+2,871,215,RSA,4,105,-233,HM Amla,HMRKB Herath,3,53,79,47.32,8416,50.6,Right-hand bat,62,14,0,8484.2,33.71,71.3,lo,1,RSA,spin,no,16.6725,8.9775

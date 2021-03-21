@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1392,665,IND,7,406,-111,Mohammed Shami,PM Siddle,9,0,0,11.5,218,63.3,Right-hand bat,93,67,1,11886.1,30.45,61.9,rfm,4,AUS,seam,no,22.939453125,25.998046875
+2,1393,666,IND,7,410,-107,Mohammed Shami,PM Siddle,9,4,1,11.5,218,63.3,Right-hand bat,94,71,1,11886.1,30.45,61.9,rfm,3,AUS,seam,no,22.939453125,25.998046875
+2,1405,678,IND,7,420,-97,Mohammed Shami,PM Siddle,9,13,8,11.5,218,63.3,Right-hand bat,100,75,1,11886.1,30.45,61.9,rfm,0,AUS,seam,no,22.939453125,25.998046875
+2,1406,679,IND,7,420,-97,Mohammed Shami,PM Siddle,9,13,9,11.5,218,63.3,Right-hand bat,101,75,1,11886.1,30.45,61.9,rfm,2,AUS,seam,no,22.939453125,25.998046875
+2,1407,680,IND,7,422,-95,Mohammed Shami,PM Siddle,9,15,10,11.5,218,63.3,Right-hand bat,102,77,1,11886.1,30.45,61.9,rfm,0,AUS,seam,no,22.939453125,25.998046875
+2,1414,687,IND,9,422,-95,Mohammed Shami,PM Siddle,9,15,11,11.5,218,63.3,Right-hand bat,103,77,1,11886.1,30.45,61.9,rfm,2,AUS,seam,no,22.939453125,25.998046875
+2,1415,688,IND,9,424,-93,Mohammed Shami,PM Siddle,9,17,12,11.5,218,63.3,Right-hand bat,104,79,1,11886.1,30.45,61.9,rfm,0,AUS,seam,no,22.939453125,25.998046875
+2,1416,689,IND,9,424,-93,Mohammed Shami,PM Siddle,9,17,13,11.5,218,63.3,Right-hand bat,105,79,1,11886.1,30.45,61.9,rfm,0,AUS,seam,no,22.939453125,25.998046875
+2,1417,690,IND,9,424,-93,Mohammed Shami,PM Siddle,9,17,14,11.5,218,63.3,Right-hand bat,106,79,1,11886.1,30.45,61.9,rfm,0,AUS,seam,no,22.939453125,25.998046875
+2,1418,691,IND,9,424,-93,Mohammed Shami,PM Siddle,9,17,15,11.5,218,63.3,Right-hand bat,107,79,1,11886.1,30.45,61.9,rfm,3,AUS,seam,no,22.939453125,25.998046875
+2,1426,699,IND,9,438,-79,Mohammed Shami,PM Siddle,9,28,20,11.5,218,63.3,Right-hand bat,109,82,1,11886.1,30.45,61.9,rfm,0,AUS,seam,no,22.939453125,25.998046875
+2,1427,700,IND,9,438,-79,Mohammed Shami,PM Siddle,9,28,21,11.5,218,63.3,Right-hand bat,110,82,1,11886.1,30.45,61.9,rfm,6,AUS,seam,no,22.939453125,25.998046875
+2,1428,701,IND,9,444,-73,Mohammed Shami,PM Siddle,9,34,22,11.5,218,63.3,Right-hand bat,111,88,1,11886.1,30.45,61.9,rfm,0,AUS,seam,no,22.939453125,25.998046875
+2,1429,702,IND,9,444,-73,Mohammed Shami,PM Siddle,9,34,23,11.5,218,63.3,Right-hand bat,112,88,1,11886.1,30.45,61.9,rfm,W,AUS,seam,no,22.939453125,25.998046875

@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2301,233,AUS,6,177,-204,CL White,Harbhajan Singh,8,10,12,29.2,330,44.24,Right-hand bat,73,48,1,19986,30.77,65.3,rob,0,IND,spin,no,11.375,21.125
+4,2302,234,AUS,6,177,-204,CL White,Harbhajan Singh,8,10,13,29.2,330,44.24,Right-hand bat,74,48,1,19986,30.77,65.3,rob,1,IND,spin,no,11.375,21.125
+4,2313,245,AUS,7,181,-200,CL White,Harbhajan Singh,8,12,15,29.2,330,44.24,Right-hand bat,79,49,2,19986,30.77,65.3,rob,0,IND,spin,no,11.375,21.125
+4,2314,246,AUS,7,181,-200,CL White,Harbhajan Singh,8,12,16,29.2,330,44.24,Right-hand bat,80,49,2,19986,30.77,65.3,rob,0,IND,spin,no,11.375,21.125
+4,2315,247,AUS,7,181,-200,CL White,Harbhajan Singh,8,12,17,29.2,330,44.24,Right-hand bat,81,49,2,19986,30.77,65.3,rob,4,IND,spin,no,11.375,21.125
+4,2316,248,AUS,7,185,-196,CL White,Harbhajan Singh,8,16,18,29.2,330,44.24,Right-hand bat,82,53,2,19986,30.77,65.3,rob,0,IND,spin,no,11.375,21.125
+4,2317,249,AUS,7,185,-196,CL White,Harbhajan Singh,8,16,19,29.2,330,44.24,Right-hand bat,83,53,2,19986,30.77,65.3,rob,0,IND,spin,no,11.375,21.125
+4,2318,250,AUS,7,185,-196,CL White,Harbhajan Singh,8,16,20,29.2,330,44.24,Right-hand bat,84,53,2,19986,30.77,65.3,rob,0,IND,spin,no,11.375,21.125
+4,2338,270,AUS,8,190,-191,CL White,Harbhajan Singh,8,18,29,29.2,330,44.24,Right-hand bat,91,53,2,19986,30.77,65.3,rob,0,IND,spin,no,11.375,21.125
+4,2339,271,AUS,8,190,-191,CL White,Harbhajan Singh,8,18,30,29.2,330,44.24,Right-hand bat,92,53,2,19986,30.77,65.3,rob,1,IND,spin,no,11.375,21.125
+4,2343,275,AUS,9,192,-189,CL White,Harbhajan Singh,8,19,31,29.2,330,44.24,Right-hand bat,96,55,3,19986,30.77,65.3,rob,1,IND,spin,no,11.375,21.125
+4,2352,284,AUS,9,198,-183,CL White,Harbhajan Singh,8,24,38,29.2,330,44.24,Right-hand bat,99,57,3,19986,30.77,65.3,rob,1,IND,spin,no,11.375,21.125

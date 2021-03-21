@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2411,633,AUS,8,310,-228,JR Hazlewood,K Rabada,10,16,40,15.71,476,46.21,Left-hand bat,175,84,6,1434.1,24.41,39.8,rf,0,AUS,seam,no,28.81578947368421,7.684210526315789
+4,2412,634,AUS,8,310,-228,JR Hazlewood,K Rabada,10,16,41,15.71,476,46.21,Left-hand bat,176,84,6,1434.1,24.41,39.8,rf,4,AUS,seam,no,28.81578947368421,7.684210526315789
+4,2413,635,AUS,8,314,-224,JR Hazlewood,K Rabada,10,20,42,15.71,476,46.21,Left-hand bat,177,88,6,1434.1,24.41,39.8,rf,1,AUS,seam,no,28.81578947368421,7.684210526315789
+4,2423,645,AUS,8,316,-222,JR Hazlewood,K Rabada,10,22,49,15.71,476,46.21,Left-hand bat,181,89,6,1434.1,24.41,39.8,rf,1,AUS,seam,no,28.81578947368421,7.684210526315789

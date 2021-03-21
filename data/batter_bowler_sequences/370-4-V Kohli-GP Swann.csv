@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2401,66,IND,1,66,-10,V Kohli,GP Swann,3,5,3,40.88,1500,49.06,Right-hand bat,30,38,1,11940.5,29.65,60.3,rob,0,IND,spin,yes,11.395957193816885,29.914387633769323
+4,2402,67,IND,1,66,-10,V Kohli,GP Swann,3,5,4,40.88,1500,49.06,Right-hand bat,31,38,1,11940.5,29.65,60.3,rob,0,IND,spin,yes,11.395957193816885,29.914387633769323
+4,2403,68,IND,1,66,-10,V Kohli,GP Swann,3,5,5,40.88,1500,49.06,Right-hand bat,32,38,1,11940.5,29.65,60.3,rob,0,IND,spin,yes,11.395957193816885,29.914387633769323
+4,2404,69,IND,1,66,-10,V Kohli,GP Swann,3,5,6,40.88,1500,49.06,Right-hand bat,33,38,1,11940.5,29.65,60.3,rob,0,IND,spin,yes,11.395957193816885,29.914387633769323
+4,2405,70,IND,1,66,-10,V Kohli,GP Swann,3,5,7,40.88,1500,49.06,Right-hand bat,34,38,1,11940.5,29.65,60.3,rob,0,IND,spin,yes,11.395957193816885,29.914387633769323
+4,2406,71,IND,1,66,-10,V Kohli,GP Swann,3,5,8,40.88,1500,49.06,Right-hand bat,35,38,1,11940.5,29.65,60.3,rob,0,IND,spin,yes,11.395957193816885,29.914387633769323
+4,2425,90,IND,1,76,0,V Kohli,GP Swann,3,10,18,40.88,1500,49.06,Right-hand bat,42,42,1,11940.5,29.65,60.3,rob,0,IND,spin,yes,11.395957193816885,29.914387633769323
+4,2426,91,IND,1,76,0,V Kohli,GP Swann,3,10,19,40.88,1500,49.06,Right-hand bat,43,42,1,11940.5,29.65,60.3,rob,0,IND,spin,yes,11.395957193816885,29.914387633769323
+4,2427,92,IND,1,76,0,V Kohli,GP Swann,3,10,20,40.88,1500,49.06,Right-hand bat,44,42,1,11940.5,29.65,60.3,rob,4,IND,spin,yes,11.395957193816885,29.914387633769323

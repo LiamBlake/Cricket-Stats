@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,781,261,SRL,6,89,-184,S Randiv,NM Lyon,8,1,1,7,113,30.97,Right-hand bat,66,22,2,204.5,17.83,34.8,rob,0,SRL,spin,no,10.5125,10.5125
+2,782,262,SRL,6,89,-184,S Randiv,NM Lyon,8,1,2,7,113,30.97,Right-hand bat,67,22,2,204.5,17.83,34.8,rob,4,SRL,spin,no,10.5125,10.5125
+2,783,263,SRL,6,93,-180,S Randiv,NM Lyon,8,5,3,7,113,30.97,Right-hand bat,68,26,2,204.5,17.83,34.8,rob,0,SRL,spin,no,10.5125,10.5125
+2,784,264,SRL,6,93,-180,S Randiv,NM Lyon,8,5,4,7,113,30.97,Right-hand bat,69,26,2,204.5,17.83,34.8,rob,0,SRL,spin,no,10.5125,10.5125
+2,785,265,SRL,6,93,-180,S Randiv,NM Lyon,8,5,5,7,113,30.97,Right-hand bat,70,26,2,204.5,17.83,34.8,rob,0,SRL,spin,no,10.5125,10.5125
+2,786,266,SRL,6,93,-180,S Randiv,NM Lyon,8,5,6,7,113,30.97,Right-hand bat,71,26,2,204.5,17.83,34.8,rob,0,SRL,spin,no,10.5125,10.5125
+2,793,273,SRL,6,95,-178,S Randiv,NM Lyon,8,6,8,7,113,30.97,Right-hand bat,72,26,2,204.5,17.83,34.8,rob,1,SRL,spin,no,10.5125,10.5125
+2,798,278,SRL,6,99,-174,S Randiv,NM Lyon,8,7,9,7,113,30.97,Right-hand bat,77,30,2,204.5,17.83,34.8,rob,0,SRL,spin,no,10.5125,10.5125
+2,809,289,SRL,8,101,-172,S Randiv,NM Lyon,8,7,13,7,113,30.97,Right-hand bat,82,31,4,204.5,17.83,34.8,rob,0,SRL,spin,no,10.5125,10.5125
+2,810,290,SRL,8,101,-172,S Randiv,NM Lyon,8,7,14,7,113,30.97,Right-hand bat,83,31,4,204.5,17.83,34.8,rob,1,SRL,spin,no,10.5125,10.5125
+2,817,297,SRL,8,103,-170,S Randiv,NM Lyon,8,9,18,7,113,30.97,Right-hand bat,84,32,4,204.5,17.83,34.8,rob,W,SRL,spin,no,10.5125,10.5125

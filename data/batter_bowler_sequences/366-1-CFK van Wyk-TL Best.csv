@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,387,387,NZL,6,171,171,CFK van Wyk,TL Best,7,2,17,20.55,403,45.9,Right-hand bat,72,26,2,2430.3,43.64,71.5,rf,0,WIN,seam,no,16.241632653061227,7.444081632653061
+1,388,388,NZL,6,171,171,CFK van Wyk,TL Best,7,2,18,20.55,403,45.9,Right-hand bat,73,26,2,2430.3,43.64,71.5,rf,0,WIN,seam,no,16.241632653061227,7.444081632653061
+1,389,389,NZL,6,171,171,CFK van Wyk,TL Best,7,2,19,20.55,403,45.9,Right-hand bat,74,26,2,2430.3,43.64,71.5,rf,0,WIN,seam,no,16.241632653061227,7.444081632653061
+1,390,390,NZL,6,171,171,CFK van Wyk,TL Best,7,2,20,20.55,403,45.9,Right-hand bat,75,26,2,2430.3,43.64,71.5,rf,0,WIN,seam,no,16.241632653061227,7.444081632653061
+1,391,391,NZL,6,171,171,CFK van Wyk,TL Best,7,2,21,20.55,403,45.9,Right-hand bat,76,26,2,2430.3,43.64,71.5,rf,1,WIN,seam,no,16.241632653061227,7.444081632653061
+1,411,411,NZL,6,177,177,CFK van Wyk,TL Best,7,3,27,20.55,403,45.9,Right-hand bat,84,30,2,2430.3,43.64,71.5,rf,0,WIN,seam,no,16.241632653061227,7.444081632653061
+1,412,412,NZL,6,177,177,CFK van Wyk,TL Best,7,3,28,20.55,403,45.9,Right-hand bat,85,30,2,2430.3,43.64,71.5,rf,1wd,WIN,seam,no,16.241632653061227,7.444081632653061
+1,413,413,NZL,6,178,178,CFK van Wyk,TL Best,7,3,28,20.55,403,45.9,Right-hand bat,86,31,2,2430.3,43.64,71.5,rf,0,WIN,seam,no,16.241632653061227,7.444081632653061
+1,414,414,NZL,6,178,178,CFK van Wyk,TL Best,7,3,29,20.55,403,45.9,Right-hand bat,87,31,2,2430.3,43.64,71.5,rf,0,WIN,seam,no,16.241632653061227,7.444081632653061
+1,415,415,NZL,6,178,178,CFK van Wyk,TL Best,7,3,30,20.55,403,45.9,Right-hand bat,88,31,2,2430.3,43.64,71.5,rf,0,WIN,seam,no,16.241632653061227,7.444081632653061
+1,416,416,NZL,6,178,178,CFK van Wyk,TL Best,7,3,31,20.55,403,45.9,Right-hand bat,89,31,2,2430.3,43.64,71.5,rf,0,WIN,seam,no,16.241632653061227,7.444081632653061
+1,417,417,NZL,6,178,178,CFK van Wyk,TL Best,7,3,32,20.55,403,45.9,Right-hand bat,90,31,2,2430.3,43.64,71.5,rf,1,WIN,seam,no,16.241632653061227,7.444081632653061

@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1270,293,WIN,4,92,-474,J Blackwood,Mohammed Shami,6,0,0,30.76,1467,54.53,Right-hand bat,75,25,3,2856.3,35.11,56,rf,0,WIN,seam,no,15.918367346938778,21.22448979591837
+2,1271,294,WIN,4,92,-474,J Blackwood,Mohammed Shami,6,0,1,30.76,1467,54.53,Right-hand bat,76,25,3,2856.3,35.11,56,rf,0,WIN,seam,no,15.918367346938778,21.22448979591837
+2,1272,295,WIN,4,92,-474,J Blackwood,Mohammed Shami,6,0,2,30.76,1467,54.53,Right-hand bat,77,25,3,2856.3,35.11,56,rf,0,WIN,seam,no,15.918367346938778,21.22448979591837
+2,1273,296,WIN,4,92,-474,J Blackwood,Mohammed Shami,6,0,3,30.76,1467,54.53,Right-hand bat,78,25,3,2856.3,35.11,56,rf,W,WIN,seam,no,15.918367346938778,21.22448979591837

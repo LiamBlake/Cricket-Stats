@@ -48,24 +48,30 @@ bbb_test <- testing(bbb_split)
 # # Balanced data
 # train_bal <- bind_rows(train %>% filter(is_wkt == "W"), sample_n(train %>% filter(is_wkt == "no"), size = nrow(train %>% filter(is_wkt == "W"))))
 
+train_bal <- bind_rows(bbb_train %>% filter(is_wkt == "W"), sample_n(bbb_train %>% filter(is_wkt == "no"), size = nrow(bbb_train %>% filter(is_wkt == "W"))))
+
+
 ```
 
 # Preprocessing
 ```{r}
-wkt_recp <- recipe(is_wkt ~ ., data = bbb_train) %>%
+wkt_recp <- recipe(is_wkt ~ ., data = train_bal) %>%
   step_naomit(everything()) %>%
-  step_dummy(all_nominal(), -all_outcomes())
+  step_range(all_numeric()) %>%
+  step_dummy(all_nominal(), -all_outcomes()) %>%
+  prep(data = train_bal)
+
+# Process training, testing set
+train <- wkt_recp %>% juice()
+test <- wkt_recp %>% bake(new_data = bbb_test)
+
 ```
 
 
 # Logistic Regression
 Initially try a fit with all variables, no interactions. Tune the penalty term (penalty). 
 ```{r}
-wf_logit <- workflow() %>% add_recipe(recipe = wkt_recp)
-wf_logit <- wf_logit %>% add_model(logistic_reg(penalty = 0) %>% set_engine("glmnet"))
-
-wf_logit <- wf_logit %>% fit(data = bbb_train)
-fit_logit_all_noint <- wf_logit %>% pull_workflow_fit()
+fit_logit_all_noint <- logistic_reg(penalty = 0) %>% set_engine("glmnet") %>% fit(is_wkt ~ ., data = train)
 summary(fit_logit_all_noint$fit)
 ```
 
@@ -79,12 +85,42 @@ vi(fit_logit_all_noint) %>%
 
 ## Evaluate on Test Set
 ```{r}
-test_logit_all_notint <- bbb_test %>% add_column(
-  fit_logit_all_noint %>% predict(new_data = wkt_recp %>% prep(bbb_test), type = "prob")
+test_logit_all_notint <- bbb_test %>% na.omit %>% add_column(
+  fit_logit_all_noint %>% predict(new_data = test, type = "prob")
 )
 ```
 
 ## Evaluate on test set
+
+
+
+
+## Smaller model
+```{r}
+recp_smal <- recipe(is_wkt ~ bat_score + bat_sr + match_balls + team_lead + bowl_avg + team_wkts + bat_avg + bowl_sr + bat_balls + spin_factor + seam_factor + inn_balls + innings, data = train_bal) %>%
+  step_naomit(everything()) %>%
+  step_range(all_numeric()) %>%
+  step_dummy(all_nominal(), -all_outcomes()) %>%
+  prep(data = train_bal)
+
+# Process training, testing set
+train <- wkt_recp %>% juice()
+test <- wkt_recp %>% bake(new_data = bbb_test)
+
+fit_logit_less <- logistic_reg(penalty = 0) %>% set_engine("glmnet") %>% fit(is_wkt ~ ., data = train)
+summary(fit_logit_all_noint$fit)
+```
+
+
+## Variable importance
+```{r}
+vi(fit_logit_less) %>% 
+  ggplot(aes(Importance, fct_reorder(Variable, Importance), fill = Sign)) + 
+  geom_col() + 
+  labs(y = "Character")
+```
+
+
 
 
 # CART Decision Tree

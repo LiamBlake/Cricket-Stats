@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1697,765,PAK,5,313,-106,Sarfraz Ahmed,RAS Lakmal,7,16,13,40.11,2908,73.1,Right-hand bat,91,30,0,7122.1,45.51,83.8,rfm,0,SRL,seam,no,8.880624999999998,18.444375
+2,1698,766,PAK,5,313,-106,Sarfraz Ahmed,RAS Lakmal,7,16,14,40.11,2908,73.1,Right-hand bat,92,30,0,7122.1,45.51,83.8,rfm,2,SRL,seam,no,8.880624999999998,18.444375
+2,1699,767,PAK,5,315,-104,Sarfraz Ahmed,RAS Lakmal,7,18,15,40.11,2908,73.1,Right-hand bat,93,32,0,7122.1,45.51,83.8,rfm,0,SRL,seam,no,8.880624999999998,18.444375
+2,1700,768,PAK,5,315,-104,Sarfraz Ahmed,RAS Lakmal,7,18,16,40.11,2908,73.1,Right-hand bat,94,32,0,7122.1,45.51,83.8,rfm,0,SRL,seam,no,8.880624999999998,18.444375
+2,1701,769,PAK,5,315,-104,Sarfraz Ahmed,RAS Lakmal,7,18,17,40.11,2908,73.1,Right-hand bat,95,32,0,7122.1,45.51,83.8,rfm,0,SRL,seam,no,8.880624999999998,18.444375
+2,1702,770,PAK,5,315,-104,Sarfraz Ahmed,RAS Lakmal,7,18,18,40.11,2908,73.1,Right-hand bat,96,32,0,7122.1,45.51,83.8,rfm,1wd,SRL,seam,no,8.880624999999998,18.444375
+2,1703,771,PAK,5,316,-103,Sarfraz Ahmed,RAS Lakmal,7,18,18,40.11,2908,73.1,Right-hand bat,97,33,0,7122.1,45.51,83.8,rfm,0,SRL,seam,no,8.880624999999998,18.444375
+2,1710,778,PAK,5,316,-103,Sarfraz Ahmed,RAS Lakmal,7,18,19,40.11,2908,73.1,Right-hand bat,98,33,0,7122.1,45.51,83.8,rfm,0,SRL,seam,no,8.880624999999998,18.444375
+2,1711,779,PAK,5,316,-103,Sarfraz Ahmed,RAS Lakmal,7,18,20,40.11,2908,73.1,Right-hand bat,99,33,0,7122.1,45.51,83.8,rfm,W,SRL,seam,no,8.880624999999998,18.444375

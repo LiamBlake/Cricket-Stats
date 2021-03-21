@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1549,42,PAK,0,31,-144,Imam-ul-Haq,IS Sodhi,1,24,18,36.75,609,48.27,Left-hand bat,0,0,0,3054,47.04,74.4,rls,4b,NZL,spin,no,9,11
+4,1550,43,PAK,0,35,-140,Imam-ul-Haq,IS Sodhi,1,24,19,36.75,609,48.27,Left-hand bat,1,0,0,3054,47.04,74.4,rls,0,NZL,spin,no,9,11
+4,1551,44,PAK,0,35,-140,Imam-ul-Haq,IS Sodhi,1,24,20,36.75,609,48.27,Left-hand bat,2,0,0,3054,47.04,74.4,rls,0,NZL,spin,no,9,11
+4,1552,45,PAK,0,35,-140,Imam-ul-Haq,IS Sodhi,1,24,21,36.75,609,48.27,Left-hand bat,3,0,0,3054,47.04,74.4,rls,0,NZL,spin,no,9,11
+4,1553,46,PAK,0,35,-140,Imam-ul-Haq,IS Sodhi,1,24,22,36.75,609,48.27,Left-hand bat,4,0,0,3054,47.04,74.4,rls,1,NZL,spin,no,9,11
+4,1561,54,PAK,0,37,-138,Imam-ul-Haq,IS Sodhi,1,25,23,36.75,609,48.27,Left-hand bat,6,2,0,3054,47.04,74.4,rls,0,NZL,spin,no,9,11
+4,1562,55,PAK,0,37,-138,Imam-ul-Haq,IS Sodhi,1,25,24,36.75,609,48.27,Left-hand bat,7,2,0,3054,47.04,74.4,rls,1,NZL,spin,no,9,11
+4,1564,57,PAK,0,39,-136,Imam-ul-Haq,IS Sodhi,1,26,25,36.75,609,48.27,Left-hand bat,9,4,0,3054,47.04,74.4,rls,0,NZL,spin,no,9,11
+4,1565,58,PAK,0,39,-136,Imam-ul-Haq,IS Sodhi,1,26,26,36.75,609,48.27,Left-hand bat,10,4,0,3054,47.04,74.4,rls,0,NZL,spin,no,9,11
+4,1566,59,PAK,0,39,-136,Imam-ul-Haq,IS Sodhi,1,26,27,36.75,609,48.27,Left-hand bat,11,4,0,3054,47.04,74.4,rls,0,NZL,spin,no,9,11
+4,1573,66,PAK,0,39,-136,Imam-ul-Haq,IS Sodhi,1,26,28,36.75,609,48.27,Left-hand bat,12,4,0,3054,47.04,74.4,rls,0,NZL,spin,no,9,11
+4,1574,67,PAK,0,39,-136,Imam-ul-Haq,IS Sodhi,1,26,29,36.75,609,48.27,Left-hand bat,13,4,0,3054,47.04,74.4,rls,1,NZL,spin,no,9,11

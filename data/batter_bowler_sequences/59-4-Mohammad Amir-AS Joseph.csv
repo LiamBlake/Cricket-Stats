@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2232,164,PAK,7,57,-130,Mohammad Amir,AS Joseph,9,8,14,13.65,1597,36.75,Left-hand bat,61,30,2,738.5,32.45,67.5,rfm,0,WIN,seam,no,17.786250000000003,8.56375
+4,2233,165,PAK,7,57,-130,Mohammad Amir,AS Joseph,9,8,15,13.65,1597,36.75,Left-hand bat,62,30,2,738.5,32.45,67.5,rfm,0,WIN,seam,no,17.786250000000003,8.56375
+4,2234,166,PAK,7,57,-130,Mohammad Amir,AS Joseph,9,8,16,13.65,1597,36.75,Left-hand bat,63,30,2,738.5,32.45,67.5,rfm,0,WIN,seam,no,17.786250000000003,8.56375
+4,2235,167,PAK,7,57,-130,Mohammad Amir,AS Joseph,9,8,17,13.65,1597,36.75,Left-hand bat,64,30,2,738.5,32.45,67.5,rfm,0,WIN,seam,no,17.786250000000003,8.56375
+4,2236,168,PAK,7,57,-130,Mohammad Amir,AS Joseph,9,8,18,13.65,1597,36.75,Left-hand bat,65,30,2,738.5,32.45,67.5,rfm,2,WIN,seam,no,17.786250000000003,8.56375
+4,2243,175,PAK,7,65,-122,Mohammad Amir,AS Joseph,9,10,19,13.65,1597,36.75,Left-hand bat,66,32,2,738.5,32.45,67.5,rfm,0,WIN,seam,no,17.786250000000003,8.56375
+4,2244,176,PAK,7,65,-122,Mohammad Amir,AS Joseph,9,10,20,13.65,1597,36.75,Left-hand bat,67,32,2,738.5,32.45,67.5,rfm,2,WIN,seam,no,17.786250000000003,8.56375
+4,2245,177,PAK,7,67,-120,Mohammad Amir,AS Joseph,9,12,21,13.65,1597,36.75,Left-hand bat,68,34,2,738.5,32.45,67.5,rfm,0,WIN,seam,no,17.786250000000003,8.56375
+4,2246,178,PAK,7,67,-120,Mohammad Amir,AS Joseph,9,12,22,13.65,1597,36.75,Left-hand bat,69,34,2,738.5,32.45,67.5,rfm,4,WIN,seam,no,17.786250000000003,8.56375
+4,2247,179,PAK,7,71,-116,Mohammad Amir,AS Joseph,9,16,23,13.65,1597,36.75,Left-hand bat,70,38,2,738.5,32.45,67.5,rfm,4,WIN,seam,no,17.786250000000003,8.56375
+4,2248,180,PAK,7,75,-112,Mohammad Amir,AS Joseph,9,20,24,13.65,1597,36.75,Left-hand bat,71,42,2,738.5,32.45,67.5,rfm,0,WIN,seam,no,17.786250000000003,8.56375

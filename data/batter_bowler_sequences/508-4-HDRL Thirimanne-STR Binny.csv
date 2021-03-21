@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1575,176,SRL,4,88,-297,HDRL Thirimanne,STR Binny,6,4,21,25.07,2391,39.85,Left-hand bat,30,17,0,432,85.66,144,rm,0,SRL,seam,yes,17.803125,8.571875
+4,1576,177,SRL,4,88,-297,HDRL Thirimanne,STR Binny,6,4,22,25.07,2391,39.85,Left-hand bat,31,17,0,432,85.66,144,rm,1,SRL,seam,yes,17.803125,8.571875
+4,1578,179,SRL,4,90,-295,HDRL Thirimanne,STR Binny,6,5,23,25.07,2391,39.85,Left-hand bat,33,19,0,432,85.66,144,rm,0,SRL,seam,yes,17.803125,8.571875
+4,1579,180,SRL,4,90,-295,HDRL Thirimanne,STR Binny,6,5,24,25.07,2391,39.85,Left-hand bat,34,19,0,432,85.66,144,rm,0,SRL,seam,yes,17.803125,8.571875
+4,1580,181,SRL,4,90,-295,HDRL Thirimanne,STR Binny,6,5,25,25.07,2391,39.85,Left-hand bat,35,19,0,432,85.66,144,rm,0,SRL,seam,yes,17.803125,8.571875
+4,1587,188,SRL,4,92,-293,HDRL Thirimanne,STR Binny,6,6,29,25.07,2391,39.85,Left-hand bat,36,19,0,432,85.66,144,rm,2,SRL,seam,yes,17.803125,8.571875
+4,1588,189,SRL,4,94,-291,HDRL Thirimanne,STR Binny,6,8,30,25.07,2391,39.85,Left-hand bat,37,21,0,432,85.66,144,rm,0,SRL,seam,yes,17.803125,8.571875
+4,1589,190,SRL,4,94,-291,HDRL Thirimanne,STR Binny,6,8,31,25.07,2391,39.85,Left-hand bat,38,21,0,432,85.66,144,rm,0,SRL,seam,yes,17.803125,8.571875
+4,1590,191,SRL,4,94,-291,HDRL Thirimanne,STR Binny,6,8,32,25.07,2391,39.85,Left-hand bat,39,21,0,432,85.66,144,rm,0,SRL,seam,yes,17.803125,8.571875
+4,1591,192,SRL,4,94,-291,HDRL Thirimanne,STR Binny,6,8,33,25.07,2391,39.85,Left-hand bat,40,21,0,432,85.66,144,rm,0,SRL,seam,yes,17.803125,8.571875
+4,1592,193,SRL,4,94,-291,HDRL Thirimanne,STR Binny,6,8,34,25.07,2391,39.85,Left-hand bat,41,21,0,432,85.66,144,rm,0,SRL,seam,yes,17.803125,8.571875

@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1573,374,NZL,4,152,-252,DG Brownlie,AN Petersen,4,42,89,34.18,1177,46.47,Right-hand bat,1,1,0,114,62,114,rob,0,RSA,spin,no,25.141581632653065,5.465561224489796
+3,1574,375,NZL,4,152,-252,DG Brownlie,AN Petersen,4,42,90,34.18,1177,46.47,Right-hand bat,2,1,0,114,62,114,rob,0,RSA,spin,no,25.141581632653065,5.465561224489796
+3,1575,376,NZL,4,152,-252,DG Brownlie,AN Petersen,4,42,91,34.18,1177,46.47,Right-hand bat,3,1,0,114,62,114,rob,0,RSA,spin,no,25.141581632653065,5.465561224489796
+3,1576,377,NZL,4,152,-252,DG Brownlie,AN Petersen,4,42,92,34.18,1177,46.47,Right-hand bat,4,1,0,114,62,114,rob,0,RSA,spin,no,25.141581632653065,5.465561224489796
+3,1577,378,NZL,4,152,-252,DG Brownlie,AN Petersen,4,42,93,34.18,1177,46.47,Right-hand bat,5,1,0,114,62,114,rob,1,RSA,spin,no,25.141581632653065,5.465561224489796
+3,1585,386,NZL,4,154,-250,DG Brownlie,AN Petersen,4,43,100,34.18,1177,46.47,Right-hand bat,7,3,0,114,62,114,rob,0,RSA,spin,no,25.141581632653065,5.465561224489796
+3,1586,387,NZL,4,154,-250,DG Brownlie,AN Petersen,4,43,101,34.18,1177,46.47,Right-hand bat,8,3,0,114,62,114,rob,0,RSA,spin,no,25.141581632653065,5.465561224489796
+3,1587,388,NZL,4,154,-250,DG Brownlie,AN Petersen,4,43,102,34.18,1177,46.47,Right-hand bat,9,3,0,114,62,114,rob,0,RSA,spin,no,25.141581632653065,5.465561224489796
+3,1588,389,NZL,4,154,-250,DG Brownlie,AN Petersen,4,43,103,34.18,1177,46.47,Right-hand bat,10,3,0,114,62,114,rob,0,RSA,spin,no,25.141581632653065,5.465561224489796
+3,1589,390,NZL,4,154,-250,DG Brownlie,AN Petersen,4,43,104,34.18,1177,46.47,Right-hand bat,11,3,0,114,62,114,rob,0,RSA,spin,no,25.141581632653065,5.465561224489796
+3,1598,399,NZL,4,156,-248,DG Brownlie,AN Petersen,4,43,105,34.18,1177,46.47,Right-hand bat,14,4,0,114,62,114,rob,0,RSA,spin,no,25.141581632653065,5.465561224489796
+3,1599,400,NZL,4,156,-248,DG Brownlie,AN Petersen,4,43,106,34.18,1177,46.47,Right-hand bat,15,4,0,114,62,114,rob,0,RSA,spin,no,25.141581632653065,5.465561224489796
+3,1600,401,NZL,4,156,-248,DG Brownlie,AN Petersen,4,43,107,34.18,1177,46.47,Right-hand bat,16,4,0,114,62,114,rob,1,RSA,spin,no,25.141581632653065,5.465561224489796

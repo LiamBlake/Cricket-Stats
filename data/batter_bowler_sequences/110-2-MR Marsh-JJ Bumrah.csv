@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1229,209,AUS,4,91,-352,MR Marsh,JJ Bumrah,6,0,4,25.39,2375,51.32,Right-hand bat,70,29,2,2274.4,21.02,47.4,rf,0,AUS,seam,no,22.75020408163265,4.706938775510204
+2,1230,210,AUS,4,91,-352,MR Marsh,JJ Bumrah,6,0,5,25.39,2375,51.32,Right-hand bat,71,29,2,2274.4,21.02,47.4,rf,0,AUS,seam,no,22.75020408163265,4.706938775510204
+2,1237,217,AUS,4,91,-352,MR Marsh,JJ Bumrah,6,0,6,25.39,2375,51.32,Right-hand bat,72,29,2,2274.4,21.02,47.4,rf,0,AUS,seam,no,22.75020408163265,4.706938775510204
+2,1238,218,AUS,4,91,-352,MR Marsh,JJ Bumrah,6,0,7,25.39,2375,51.32,Right-hand bat,73,29,2,2274.4,21.02,47.4,rf,0,AUS,seam,no,22.75020408163265,4.706938775510204
+2,1239,219,AUS,4,91,-352,MR Marsh,JJ Bumrah,6,0,8,25.39,2375,51.32,Right-hand bat,74,29,2,2274.4,21.02,47.4,rf,1,AUS,seam,no,22.75020408163265,4.706938775510204
+2,1250,230,AUS,5,93,-350,MR Marsh,JJ Bumrah,6,1,15,25.39,2375,51.32,Right-hand bat,79,31,3,2274.4,21.02,47.4,rf,0,AUS,seam,no,22.75020408163265,4.706938775510204
+2,1251,231,AUS,5,93,-350,MR Marsh,JJ Bumrah,6,1,16,25.39,2375,51.32,Right-hand bat,80,31,3,2274.4,21.02,47.4,rf,0,AUS,seam,no,22.75020408163265,4.706938775510204
+2,1252,232,AUS,5,93,-350,MR Marsh,JJ Bumrah,6,1,17,25.39,2375,51.32,Right-hand bat,81,31,3,2274.4,21.02,47.4,rf,0,AUS,seam,no,22.75020408163265,4.706938775510204
+2,1253,233,AUS,5,93,-350,MR Marsh,JJ Bumrah,6,1,18,25.39,2375,51.32,Right-hand bat,82,31,3,2274.4,21.02,47.4,rf,0,AUS,seam,no,22.75020408163265,4.706938775510204
+2,1254,234,AUS,5,93,-350,MR Marsh,JJ Bumrah,6,1,19,25.39,2375,51.32,Right-hand bat,83,31,3,2274.4,21.02,47.4,rf,1,AUS,seam,no,22.75020408163265,4.706938775510204

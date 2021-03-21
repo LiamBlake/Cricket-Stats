@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1804,460,IND,5,262,349,WP Saha,PHT Kaushal,7,0,0,23.66,677,41.94,Right-hand bat,170,102,4,1362.2,40.21,59.3,rob,2,SRL,spin,yes,12.831024930747922,17.642659279778393
+3,1805,461,IND,5,264,351,WP Saha,PHT Kaushal,7,2,1,23.66,677,41.94,Right-hand bat,171,104,4,1362.2,40.21,59.3,rob,1,SRL,spin,yes,12.831024930747922,17.642659279778393
+3,1814,470,IND,5,266,353,WP Saha,PHT Kaushal,7,4,4,23.66,677,41.94,Right-hand bat,174,105,4,1362.2,40.21,59.3,rob,0,SRL,spin,yes,12.831024930747922,17.642659279778393
+3,1815,471,IND,5,266,353,WP Saha,PHT Kaushal,7,4,5,23.66,677,41.94,Right-hand bat,175,105,4,1362.2,40.21,59.3,rob,0,SRL,spin,yes,12.831024930747922,17.642659279778393
+3,1816,472,IND,5,266,353,WP Saha,PHT Kaushal,7,4,6,23.66,677,41.94,Right-hand bat,176,105,4,1362.2,40.21,59.3,rob,0,SRL,spin,yes,12.831024930747922,17.642659279778393
+3,1817,473,IND,5,266,353,WP Saha,PHT Kaushal,7,4,7,23.66,677,41.94,Right-hand bat,177,105,4,1362.2,40.21,59.3,rob,0,SRL,spin,yes,12.831024930747922,17.642659279778393
+3,1818,474,IND,5,266,353,WP Saha,PHT Kaushal,7,4,8,23.66,677,41.94,Right-hand bat,178,105,4,1362.2,40.21,59.3,rob,0,SRL,spin,yes,12.831024930747922,17.642659279778393
+3,1819,475,IND,5,266,353,WP Saha,PHT Kaushal,7,4,9,23.66,677,41.94,Right-hand bat,179,105,4,1362.2,40.21,59.3,rob,1,SRL,spin,yes,12.831024930747922,17.642659279778393

@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1111,348,RSA,6,138,-328,M Morkel,MG Johnson,8,0,0,12.47,529,44.8,Left-hand bat,95,23,3,4788.5,27.55,55.7,lf,0,RSA,seam,no,26.640000000000004,2.96
+2,1119,356,RSA,6,140,-326,M Morkel,MG Johnson,8,0,6,12.47,529,44.8,Left-hand bat,97,24,3,4788.5,27.55,55.7,lf,0,RSA,seam,no,26.640000000000004,2.96
+2,1120,357,RSA,6,140,-326,M Morkel,MG Johnson,8,0,7,12.47,529,44.8,Left-hand bat,98,24,3,4788.5,27.55,55.7,lf,0,RSA,seam,no,26.640000000000004,2.96
+2,1121,358,RSA,6,140,-326,M Morkel,MG Johnson,8,0,8,12.47,529,44.8,Left-hand bat,99,24,3,4788.5,27.55,55.7,lf,0,RSA,seam,no,26.640000000000004,2.96
+2,1122,359,RSA,6,140,-326,M Morkel,MG Johnson,8,0,9,12.47,529,44.8,Left-hand bat,100,24,3,4788.5,27.55,55.7,lf,0,RSA,seam,no,26.640000000000004,2.96
+2,1123,360,RSA,6,140,-326,M Morkel,MG Johnson,8,0,10,12.47,529,44.8,Left-hand bat,101,24,3,4788.5,27.55,55.7,lf,0,RSA,seam,no,26.640000000000004,2.96
+2,1133,370,RSA,6,144,-322,M Morkel,MG Johnson,8,0,14,12.47,529,44.8,Left-hand bat,105,25,3,4788.5,27.55,55.7,lf,0,RSA,seam,no,26.640000000000004,2.96
+2,1134,371,RSA,6,144,-322,M Morkel,MG Johnson,8,0,15,12.47,529,44.8,Left-hand bat,106,25,3,4788.5,27.55,55.7,lf,0,RSA,seam,no,26.640000000000004,2.96
+2,1135,372,RSA,6,144,-322,M Morkel,MG Johnson,8,0,16,12.47,529,44.8,Left-hand bat,107,25,3,4788.5,27.55,55.7,lf,0,RSA,seam,no,26.640000000000004,2.96

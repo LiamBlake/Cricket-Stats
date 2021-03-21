@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1970,348,ZIM,4,178,-255,Sikandar Raza,ST Gabriel,6,10,30,36.75,1011,58.16,Right-hand bat,48,32,0,4452.1,34.52,61.8,rf,0,WIN,seam,no,6.66875,20.00625
+4,1971,349,ZIM,4,178,-255,Sikandar Raza,ST Gabriel,6,10,31,36.75,1011,58.16,Right-hand bat,49,32,0,4452.1,34.52,61.8,rf,0,WIN,seam,no,6.66875,20.00625
+4,1972,350,ZIM,4,178,-255,Sikandar Raza,ST Gabriel,6,10,32,36.75,1011,58.16,Right-hand bat,50,32,0,4452.1,34.52,61.8,rf,0,WIN,seam,no,6.66875,20.00625
+4,1973,351,ZIM,4,178,-255,Sikandar Raza,ST Gabriel,6,10,33,36.75,1011,58.16,Right-hand bat,51,32,0,4452.1,34.52,61.8,rf,0,WIN,seam,no,6.66875,20.00625
+4,1974,352,ZIM,4,178,-255,Sikandar Raza,ST Gabriel,6,10,34,36.75,1011,58.16,Right-hand bat,52,32,0,4452.1,34.52,61.8,rf,0,WIN,seam,no,6.66875,20.00625
+4,1975,353,ZIM,4,178,-255,Sikandar Raza,ST Gabriel,6,10,35,36.75,1011,58.16,Right-hand bat,53,32,0,4452.1,34.52,61.8,rf,4,WIN,seam,no,6.66875,20.00625
+4,1982,360,ZIM,4,182,-251,Sikandar Raza,ST Gabriel,6,14,36,36.75,1011,58.16,Right-hand bat,54,36,0,4452.1,34.52,61.8,rf,0,WIN,seam,no,6.66875,20.00625
+4,1983,361,ZIM,4,182,-251,Sikandar Raza,ST Gabriel,6,14,37,36.75,1011,58.16,Right-hand bat,55,36,0,4452.1,34.52,61.8,rf,0,WIN,seam,no,6.66875,20.00625
+4,1984,362,ZIM,4,182,-251,Sikandar Raza,ST Gabriel,6,14,38,36.75,1011,58.16,Right-hand bat,56,36,0,4452.1,34.52,61.8,rf,1nb,WIN,seam,no,6.66875,20.00625
+4,1985,363,ZIM,4,185,-248,Sikandar Raza,ST Gabriel,6,16,39,36.75,1011,58.16,Right-hand bat,57,37,0,4452.1,34.52,61.8,rf,1,WIN,seam,no,6.66875,20.00625
+4,1988,366,ZIM,4,192,-241,Sikandar Raza,ST Gabriel,6,17,40,36.75,1011,58.16,Right-hand bat,60,40,0,4452.1,34.52,61.8,rf,4,WIN,seam,no,6.66875,20.00625
+4,1989,367,ZIM,4,196,-237,Sikandar Raza,ST Gabriel,6,21,41,36.75,1011,58.16,Right-hand bat,61,44,0,4452.1,34.52,61.8,rf,0,WIN,seam,no,6.66875,20.00625

@@ -1,0 +1,3 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2061,181,NZL,3,110,232,BB McCullum,MS Panesar,5,0,0,30.09,2126,62.27,Right-hand bat,19,8,0,5718.3,33,67.3,lo,0,NZL,spin,yes,19.615384615384617,8.717948717948717
+3,2062,182,NZL,3,110,232,BB McCullum,MS Panesar,5,0,1,30.09,2126,62.27,Right-hand bat,20,8,0,5718.3,33,67.3,lo,W,NZL,spin,yes,19.615384615384617,8.717948717948717

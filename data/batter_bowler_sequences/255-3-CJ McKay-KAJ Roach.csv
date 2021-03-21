@@ -1,0 +1,3 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1564,271,AUS,8,134,342,CJ McKay,KAJ Roach,10,0,0,10,15,66.66,Right-hand bat,29,16,1,1080.4,29.3,54.2,rfm,0,AUS,seam,yes,26.69101533966399,9.532505478451425
+3,1576,283,AUS,8,136,344,CJ McKay,KAJ Roach,10,0,4,10,15,66.66,Right-hand bat,35,17,1,1080.4,29.3,54.2,rfm,1,AUS,seam,yes,26.69101533966399,9.532505478451425

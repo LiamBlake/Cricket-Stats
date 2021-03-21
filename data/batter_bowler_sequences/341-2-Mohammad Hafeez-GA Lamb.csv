@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1058,151,PAK,1,101,-311,Mohammad Hafeez,GA Lamb,1,64,80,31.87,2084,50.47,Right-hand bat,1,1,0,192,47,64,rob,0,ZIM,spin,yes,16.264462809917354,17.28099173553719
+2,1059,152,PAK,1,101,-311,Mohammad Hafeez,GA Lamb,1,64,81,31.87,2084,50.47,Right-hand bat,2,1,0,192,47,64,rob,6,ZIM,spin,yes,16.264462809917354,17.28099173553719
+2,1060,153,PAK,1,107,-305,Mohammad Hafeez,GA Lamb,1,70,82,31.87,2084,50.47,Right-hand bat,3,7,0,192,47,64,rob,0,ZIM,spin,yes,16.264462809917354,17.28099173553719
+2,1061,154,PAK,1,107,-305,Mohammad Hafeez,GA Lamb,1,70,83,31.87,2084,50.47,Right-hand bat,4,7,0,192,47,64,rob,0,ZIM,spin,yes,16.264462809917354,17.28099173553719
+2,1062,155,PAK,1,107,-305,Mohammad Hafeez,GA Lamb,1,70,84,31.87,2084,50.47,Right-hand bat,5,7,0,192,47,64,rob,0,ZIM,spin,yes,16.264462809917354,17.28099173553719
+2,1069,162,PAK,1,107,-305,Mohammad Hafeez,GA Lamb,1,70,85,31.87,2084,50.47,Right-hand bat,6,7,0,192,47,64,rob,0,ZIM,spin,yes,16.264462809917354,17.28099173553719
+2,1070,163,PAK,1,107,-305,Mohammad Hafeez,GA Lamb,1,70,86,31.87,2084,50.47,Right-hand bat,7,7,0,192,47,64,rob,1,ZIM,spin,yes,16.264462809917354,17.28099173553719

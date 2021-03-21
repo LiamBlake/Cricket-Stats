@@ -1,0 +1,3 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1053,579,WIN,8,313,20,SJ Benn,JDS Neesham,10,0,0,15.1,736,59.51,Left-hand bat,32,10,1,330.1,49.75,82.7,rmf,0,WIN,seam,no,23.56829802775749,8.728999269539809
+2,1054,580,WIN,8,313,20,SJ Benn,JDS Neesham,10,0,1,15.1,736,59.51,Left-hand bat,33,10,1,330.1,49.75,82.7,rmf,1,WIN,seam,no,23.56829802775749,8.728999269539809

@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2040,489,NZL,9,249,-254,MD Craig,MA Starc,8,0,5,42.81,875,53.82,Left-hand bat,103,50,1,4578.1,31.03,54.5,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+4,2041,490,NZL,9,249,-254,MD Craig,MA Starc,8,0,6,42.81,875,53.82,Left-hand bat,104,50,1,4578.1,31.03,54.5,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+4,2042,491,NZL,9,249,-254,MD Craig,MA Starc,8,0,7,42.81,875,53.82,Left-hand bat,105,50,1,4578.1,31.03,54.5,lf,1,AUS,seam,no,36.53061224489796,14.612244897959185
+4,2045,494,NZL,9,251,-252,MD Craig,MA Starc,8,1,8,42.81,875,53.82,Left-hand bat,108,52,1,4578.1,31.03,54.5,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+4,2052,501,NZL,9,253,-250,MD Craig,MA Starc,8,1,9,42.81,875,53.82,Left-hand bat,109,52,1,4578.1,31.03,54.5,lf,4,AUS,seam,no,36.53061224489796,14.612244897959185
+4,2053,502,NZL,9,257,-246,MD Craig,MA Starc,8,5,10,42.81,875,53.82,Left-hand bat,110,56,1,4578.1,31.03,54.5,lf,4,AUS,seam,no,36.53061224489796,14.612244897959185
+4,2054,503,NZL,9,261,-242,MD Craig,MA Starc,8,9,11,42.81,875,53.82,Left-hand bat,111,60,1,4578.1,31.03,54.5,lf,4,AUS,seam,no,36.53061224489796,14.612244897959185
+4,2055,504,NZL,9,265,-238,MD Craig,MA Starc,8,13,12,42.81,875,53.82,Left-hand bat,112,64,1,4578.1,31.03,54.5,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+4,2056,505,NZL,9,265,-238,MD Craig,MA Starc,8,13,13,42.81,875,53.82,Left-hand bat,113,64,1,4578.1,31.03,54.5,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+4,2057,506,NZL,9,265,-238,MD Craig,MA Starc,8,13,14,42.81,875,53.82,Left-hand bat,114,64,1,4578.1,31.03,54.5,lf,1,AUS,seam,no,36.53061224489796,14.612244897959185
+4,2082,531,NZL,9,294,-209,MD Craig,MA Starc,8,26,27,42.81,875,53.82,Left-hand bat,121,69,1,4578.1,31.03,54.5,lf,1lb,AUS,seam,no,36.53061224489796,14.612244897959185

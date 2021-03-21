@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,938,104,AUS,2,41,122,MJ Clarke,JM Anderson,4,6,5,47.59,8748,53.31,Right-hand bat,43,7,0,11550.1,31.76,57.7,rfm,2,AUS,seam,no,21.06625,1.1087500000000001
+3,939,105,AUS,2,43,124,MJ Clarke,JM Anderson,4,8,6,47.59,8748,53.31,Right-hand bat,44,9,0,11550.1,31.76,57.7,rfm,0,AUS,seam,no,21.06625,1.1087500000000001
+3,940,106,AUS,2,43,124,MJ Clarke,JM Anderson,4,8,7,47.59,8748,53.31,Right-hand bat,45,9,0,11550.1,31.76,57.7,rfm,0,AUS,seam,no,21.06625,1.1087500000000001
+3,941,107,AUS,2,43,124,MJ Clarke,JM Anderson,4,8,8,47.59,8748,53.31,Right-hand bat,46,9,0,11550.1,31.76,57.7,rfm,0,AUS,seam,no,21.06625,1.1087500000000001
+3,942,108,AUS,2,43,124,MJ Clarke,JM Anderson,4,8,9,47.59,8748,53.31,Right-hand bat,47,9,0,11550.1,31.76,57.7,rfm,0,AUS,seam,no,21.06625,1.1087500000000001
+3,951,117,AUS,2,59,140,MJ Clarke,JM Anderson,4,16,13,47.59,8748,53.31,Right-hand bat,50,12,0,11550.1,31.76,57.7,rfm,0,AUS,seam,no,21.06625,1.1087500000000001
+3,952,118,AUS,2,59,140,MJ Clarke,JM Anderson,4,16,14,47.59,8748,53.31,Right-hand bat,51,12,0,11550.1,31.76,57.7,rfm,4,AUS,seam,no,21.06625,1.1087500000000001
+3,953,119,AUS,2,63,144,MJ Clarke,JM Anderson,4,20,15,47.59,8748,53.31,Right-hand bat,52,16,0,11550.1,31.76,57.7,rfm,0,AUS,seam,no,21.06625,1.1087500000000001
+3,954,120,AUS,2,63,144,MJ Clarke,JM Anderson,4,20,16,47.59,8748,53.31,Right-hand bat,53,16,0,11550.1,31.76,57.7,rfm,0,AUS,seam,no,21.06625,1.1087500000000001

@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1462,172,IND,4,109,-38,SR Tendulkar,BAW Mendis,6,0,0,54.23,NA,NA,Right-hand bat,55,14,1,978.1,18.38,37.6,rob,0,SRL,spin,yes,12.140625,20.234375
+3,1463,173,IND,4,109,-38,SR Tendulkar,BAW Mendis,6,0,1,54.23,NA,NA,Right-hand bat,56,14,1,978.1,18.38,37.6,rob,0,SRL,spin,yes,12.140625,20.234375
+3,1464,174,IND,4,109,-38,SR Tendulkar,BAW Mendis,6,0,2,54.23,NA,NA,Right-hand bat,57,14,1,978.1,18.38,37.6,rob,1,SRL,spin,yes,12.140625,20.234375
+3,1485,195,IND,4,121,-26,SR Tendulkar,BAW Mendis,6,5,11,54.23,NA,NA,Right-hand bat,66,19,1,978.1,18.38,37.6,rob,0,SRL,spin,yes,12.140625,20.234375
+3,1486,196,IND,4,121,-26,SR Tendulkar,BAW Mendis,6,5,12,54.23,NA,NA,Right-hand bat,67,19,1,978.1,18.38,37.6,rob,2,SRL,spin,yes,12.140625,20.234375
+3,1487,197,IND,4,123,-24,SR Tendulkar,BAW Mendis,6,7,13,54.23,NA,NA,Right-hand bat,68,21,1,978.1,18.38,37.6,rob,0,SRL,spin,yes,12.140625,20.234375
+3,1488,198,IND,4,123,-24,SR Tendulkar,BAW Mendis,6,7,14,54.23,NA,NA,Right-hand bat,69,21,1,978.1,18.38,37.6,rob,1,SRL,spin,yes,12.140625,20.234375
+3,1497,207,IND,4,129,-18,SR Tendulkar,BAW Mendis,6,13,20,54.23,NA,NA,Right-hand bat,72,22,1,978.1,18.38,37.6,rob,1,SRL,spin,yes,12.140625,20.234375
+3,1501,211,IND,4,131,-16,SR Tendulkar,BAW Mendis,6,14,21,54.23,NA,NA,Right-hand bat,76,24,1,978.1,18.38,37.6,rob,W,SRL,spin,yes,12.140625,20.234375

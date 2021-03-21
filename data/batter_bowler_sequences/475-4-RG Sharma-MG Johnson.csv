@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2299,446,IND,4,255,-108,RG Sharma,MG Johnson,6,1,10,44.83,1005,53.53,Right-hand bat,80,29,1,13902.3,27.6,50.7,lf,0,AUS,seam,no,22.939453125,25.998046875
+4,2300,447,IND,4,255,-108,RG Sharma,MG Johnson,6,1,11,44.83,1005,53.53,Right-hand bat,81,29,1,13902.3,27.6,50.7,lf,0,AUS,seam,no,22.939453125,25.998046875
+4,2301,448,IND,4,255,-108,RG Sharma,MG Johnson,6,1,12,44.83,1005,53.53,Right-hand bat,82,29,1,13902.3,27.6,50.7,lf,0,AUS,seam,no,22.939453125,25.998046875
+4,2302,449,IND,4,255,-108,RG Sharma,MG Johnson,6,1,13,44.83,1005,53.53,Right-hand bat,83,29,1,13902.3,27.6,50.7,lf,4,AUS,seam,no,22.939453125,25.998046875
+4,2303,450,IND,4,259,-104,RG Sharma,MG Johnson,6,5,14,44.83,1005,53.53,Right-hand bat,84,33,1,13902.3,27.6,50.7,lf,0,AUS,seam,no,22.939453125,25.998046875

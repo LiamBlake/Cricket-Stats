@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1777,457,NZL,9,220,-247,TA Boult,JM Anderson,11,0,21,13.25,258,61.62,Right-hand bat,66,28,0,17970.3,30.14,58.5,rfm,0,ENG,seam,no,17.742857142857144,11.82857142857143
+4,1778,458,NZL,9,220,-247,TA Boult,JM Anderson,11,0,22,13.25,258,61.62,Right-hand bat,67,28,0,17970.3,30.14,58.5,rfm,0,ENG,seam,no,17.742857142857144,11.82857142857143
+4,1779,459,NZL,9,220,-247,TA Boult,JM Anderson,11,0,23,13.25,258,61.62,Right-hand bat,68,28,0,17970.3,30.14,58.5,rfm,W,ENG,seam,no,17.742857142857144,11.82857142857143

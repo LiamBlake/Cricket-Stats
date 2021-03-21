@@ -1,0 +1,2 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,812,327,NZL,5,146,-146,MJ Santner,AD Mathews,6,27,77,26,270,48.14,Left-hand bat,48,20,0,3210,49.56,107,rm,1,NZL,seam,yes,22.92489795918367,1.3893877551020408

@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,99,99,WIN,1,46,46,DM Bravo,MR Marsh,3,16,42,41.5,6458,46.26,Left-hand bat,2,1,0,1170.4,31.61,55.9,rm,0,AUS,seam,yes,10.541666666666666,31.625
+1,100,100,WIN,1,46,46,DM Bravo,MR Marsh,3,16,43,41.5,6458,46.26,Left-hand bat,3,1,0,1170.4,31.61,55.9,rm,1,AUS,seam,yes,10.541666666666666,31.625
+1,102,102,WIN,1,48,48,DM Bravo,MR Marsh,3,17,44,41.5,6458,46.26,Left-hand bat,5,3,0,1170.4,31.61,55.9,rm,0,AUS,seam,yes,10.541666666666666,31.625
+1,112,112,WIN,1,54,54,DM Bravo,MR Marsh,3,17,48,41.5,6458,46.26,Left-hand bat,9,8,0,1170.4,31.61,55.9,rm,0,AUS,seam,yes,10.541666666666666,31.625
+1,113,113,WIN,1,54,54,DM Bravo,MR Marsh,3,17,49,41.5,6458,46.26,Left-hand bat,10,8,0,1170.4,31.61,55.9,rm,0,AUS,seam,yes,10.541666666666666,31.625
+1,114,114,WIN,1,54,54,DM Bravo,MR Marsh,3,17,50,41.5,6458,46.26,Left-hand bat,11,8,0,1170.4,31.61,55.9,rm,1,AUS,seam,yes,10.541666666666666,31.625

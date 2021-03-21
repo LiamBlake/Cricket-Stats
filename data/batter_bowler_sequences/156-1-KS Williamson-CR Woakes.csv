@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,54,54,NZL,1,17,17,KS Williamson,CR Woakes,3,0,0,52.68,12273,51.51,Right-hand bat,0,0,0,5526.2,30.96,60,rfm,0,NZL,seam,no,47.38016528925619,2.256198347107438
+1,55,55,NZL,1,17,17,KS Williamson,CR Woakes,3,0,1,52.68,12273,51.51,Right-hand bat,1,0,0,5526.2,30.96,60,rfm,0,NZL,seam,no,47.38016528925619,2.256198347107438
+1,56,56,NZL,1,17,17,KS Williamson,CR Woakes,3,0,2,52.68,12273,51.51,Right-hand bat,2,0,0,5526.2,30.96,60,rfm,3,NZL,seam,no,47.38016528925619,2.256198347107438
+1,68,68,NZL,1,29,29,KS Williamson,CR Woakes,3,3,9,52.68,12273,51.51,Right-hand bat,8,12,0,5526.2,30.96,60,rfm,0,NZL,seam,no,47.38016528925619,2.256198347107438
+1,69,69,NZL,1,29,29,KS Williamson,CR Woakes,3,3,10,52.68,12273,51.51,Right-hand bat,9,12,0,5526.2,30.96,60,rfm,0,NZL,seam,no,47.38016528925619,2.256198347107438
+1,70,70,NZL,1,29,29,KS Williamson,CR Woakes,3,3,11,52.68,12273,51.51,Right-hand bat,10,12,0,5526.2,30.96,60,rfm,0,NZL,seam,no,47.38016528925619,2.256198347107438
+1,71,71,NZL,1,29,29,KS Williamson,CR Woakes,3,3,12,52.68,12273,51.51,Right-hand bat,11,12,0,5526.2,30.96,60,rfm,0,NZL,seam,no,47.38016528925619,2.256198347107438
+1,78,78,NZL,1,39,39,KS Williamson,CR Woakes,3,4,14,52.68,12273,51.51,Right-hand bat,12,12,0,5526.2,30.96,60,rfm,0,NZL,seam,no,47.38016528925619,2.256198347107438
+1,79,79,NZL,1,39,39,KS Williamson,CR Woakes,3,4,15,52.68,12273,51.51,Right-hand bat,13,12,0,5526.2,30.96,60,rfm,0,NZL,seam,no,47.38016528925619,2.256198347107438
+1,80,80,NZL,1,39,39,KS Williamson,CR Woakes,3,4,16,52.68,12273,51.51,Right-hand bat,14,12,0,5526.2,30.96,60,rfm,0,NZL,seam,no,47.38016528925619,2.256198347107438
+1,81,81,NZL,1,39,39,KS Williamson,CR Woakes,3,4,17,52.68,12273,51.51,Right-hand bat,15,12,0,5526.2,30.96,60,rfm,0,NZL,seam,no,47.38016528925619,2.256198347107438
+1,82,82,NZL,1,39,39,KS Williamson,CR Woakes,3,4,18,52.68,12273,51.51,Right-hand bat,16,12,0,5526.2,30.96,60,rfm,0,NZL,seam,no,47.38016528925619,2.256198347107438
+1,83,83,NZL,1,39,39,KS Williamson,CR Woakes,3,4,19,52.68,12273,51.51,Right-hand bat,17,12,0,5526.2,30.96,60,rfm,W,NZL,seam,no,47.38016528925619,2.256198347107438

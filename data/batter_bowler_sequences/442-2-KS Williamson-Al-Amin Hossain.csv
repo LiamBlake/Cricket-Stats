@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,793,343,NZL,4,185,-97,KS Williamson,Al-Amin Hossain,3,41,94,34.78,3945,41.44,Right-hand bat,36,14,0,96,58,96,rmf,1,BAN,seam,no,18.676748582230626,24.279773156899815
+2,795,345,NZL,4,189,-93,KS Williamson,Al-Amin Hossain,3,42,95,34.78,3945,41.44,Right-hand bat,38,18,0,96,58,96,rmf,1,BAN,seam,no,18.676748582230626,24.279773156899815
+2,797,347,NZL,4,191,-91,KS Williamson,Al-Amin Hossain,3,43,96,34.78,3945,41.44,Right-hand bat,40,20,0,96,58,96,rmf,1,BAN,seam,no,18.676748582230626,24.279773156899815
+2,810,360,NZL,4,199,-83,KS Williamson,Al-Amin Hossain,3,45,100,34.78,3945,41.44,Right-hand bat,47,23,0,96,58,96,rmf,0,BAN,seam,no,18.676748582230626,24.279773156899815
+2,817,367,NZL,4,205,-77,KS Williamson,Al-Amin Hossain,3,46,103,34.78,3945,41.44,Right-hand bat,48,23,0,96,58,96,rmf,1,BAN,seam,no,18.676748582230626,24.279773156899815
+2,819,369,NZL,4,207,-75,KS Williamson,Al-Amin Hossain,3,47,104,34.78,3945,41.44,Right-hand bat,50,25,0,96,58,96,rmf,4,BAN,seam,no,18.676748582230626,24.279773156899815
+2,820,370,NZL,4,211,-71,KS Williamson,Al-Amin Hossain,3,51,105,34.78,3945,41.44,Right-hand bat,51,29,0,96,58,96,rmf,0,BAN,seam,no,18.676748582230626,24.279773156899815
+2,821,371,NZL,4,211,-71,KS Williamson,Al-Amin Hossain,3,51,106,34.78,3945,41.44,Right-hand bat,52,29,0,96,58,96,rmf,0,BAN,seam,no,18.676748582230626,24.279773156899815
+2,822,372,NZL,4,211,-71,KS Williamson,Al-Amin Hossain,3,51,107,34.78,3945,41.44,Right-hand bat,53,29,0,96,58,96,rmf,0,BAN,seam,no,18.676748582230626,24.279773156899815
+2,831,381,NZL,4,219,-63,KS Williamson,Al-Amin Hossain,3,51,109,34.78,3945,41.44,Right-hand bat,56,30,0,96,58,96,rmf,0,BAN,seam,no,18.676748582230626,24.279773156899815
+2,832,382,NZL,4,219,-63,KS Williamson,Al-Amin Hossain,3,51,110,34.78,3945,41.44,Right-hand bat,57,30,0,96,58,96,rmf,0,BAN,seam,no,18.676748582230626,24.279773156899815
+2,833,383,NZL,4,219,-63,KS Williamson,Al-Amin Hossain,3,51,111,34.78,3945,41.44,Right-hand bat,58,30,0,96,58,96,rmf,1,BAN,seam,no,18.676748582230626,24.279773156899815

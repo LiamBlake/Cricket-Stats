@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,899,144,ZIM,6,44,-451,MN Waller,TG Southee,6,19,33,41.33,239,51.88,Right-hand bat,6,3,0,3030.2,41.42,72.1,rmf,0,NZL,seam,yes,21.737997256515776,4.725651577503429
+2,900,145,ZIM,6,44,-451,MN Waller,TG Southee,6,19,34,41.33,239,51.88,Right-hand bat,7,3,0,3030.2,41.42,72.1,rmf,2,NZL,seam,yes,21.737997256515776,4.725651577503429
+2,901,146,ZIM,6,46,-449,MN Waller,TG Southee,6,21,35,41.33,239,51.88,Right-hand bat,8,5,0,3030.2,41.42,72.1,rmf,0,NZL,seam,yes,21.737997256515776,4.725651577503429
+2,902,147,ZIM,6,46,-449,MN Waller,TG Southee,6,21,36,41.33,239,51.88,Right-hand bat,9,5,0,3030.2,41.42,72.1,rmf,0,NZL,seam,yes,21.737997256515776,4.725651577503429
+2,903,148,ZIM,6,46,-449,MN Waller,TG Southee,6,21,37,41.33,239,51.88,Right-hand bat,10,5,0,3030.2,41.42,72.1,rmf,0,NZL,seam,yes,21.737997256515776,4.725651577503429
+2,904,149,ZIM,6,46,-449,MN Waller,TG Southee,6,21,38,41.33,239,51.88,Right-hand bat,11,5,0,3030.2,41.42,72.1,rmf,0,NZL,seam,yes,21.737997256515776,4.725651577503429
+2,911,156,ZIM,7,48,-447,MN Waller,TG Southee,6,21,39,41.33,239,51.88,Right-hand bat,12,5,0,3030.2,41.42,72.1,rmf,0,NZL,seam,yes,21.737997256515776,4.725651577503429
+2,912,157,ZIM,7,48,-447,MN Waller,TG Southee,6,21,40,41.33,239,51.88,Right-hand bat,13,5,0,3030.2,41.42,72.1,rmf,2,NZL,seam,yes,21.737997256515776,4.725651577503429
+2,913,158,ZIM,7,50,-445,MN Waller,TG Southee,6,23,41,41.33,239,51.88,Right-hand bat,14,7,0,3030.2,41.42,72.1,rmf,W,NZL,seam,yes,21.737997256515776,4.725651577503429

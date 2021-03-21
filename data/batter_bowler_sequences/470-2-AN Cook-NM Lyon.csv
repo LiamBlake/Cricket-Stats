@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,789,30,ENG,0,26,-455,AN Cook,NM Lyon,2,18,14,46.41,20125,46.36,Left-hand bat,0,0,0,10482,34.09,64.7,rob,0,ENG,spin,yes,22.391111111111112,8.142222222222223
+2,790,31,ENG,0,26,-455,AN Cook,NM Lyon,2,18,15,46.41,20125,46.36,Left-hand bat,1,0,0,10482,34.09,64.7,rob,0,ENG,spin,yes,22.391111111111112,8.142222222222223
+2,791,32,ENG,0,26,-455,AN Cook,NM Lyon,2,18,16,46.41,20125,46.36,Left-hand bat,2,0,0,10482,34.09,64.7,rob,0,ENG,spin,yes,22.391111111111112,8.142222222222223
+2,792,33,ENG,0,26,-455,AN Cook,NM Lyon,2,18,17,46.41,20125,46.36,Left-hand bat,3,0,0,10482,34.09,64.7,rob,0,ENG,spin,yes,22.391111111111112,8.142222222222223
+2,793,34,ENG,0,26,-455,AN Cook,NM Lyon,2,18,18,46.41,20125,46.36,Left-hand bat,4,0,0,10482,34.09,64.7,rob,0,ENG,spin,yes,22.391111111111112,8.142222222222223
+2,794,35,ENG,0,26,-455,AN Cook,NM Lyon,2,18,19,46.41,20125,46.36,Left-hand bat,5,0,0,10482,34.09,64.7,rob,4,ENG,spin,yes,22.391111111111112,8.142222222222223
+2,801,42,ENG,0,30,-451,AN Cook,NM Lyon,2,22,20,46.41,20125,46.36,Left-hand bat,6,4,0,10482,34.09,64.7,rob,W,ENG,spin,yes,22.391111111111112,8.142222222222223

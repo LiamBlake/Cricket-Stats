@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1518,738,ENG,5,270,-222,MJ Prior,MA Starc,7,0,0,42.36,6130,62.2,Right-hand bat,178,74,2,2448.2,33.6,59.7,lf,0,ENG,seam,no,34.26222222222222,5.271111111111111
+2,1519,739,ENG,5,270,-222,MJ Prior,MA Starc,7,0,1,42.36,6130,62.2,Right-hand bat,179,74,2,2448.2,33.6,59.7,lf,3,ENG,seam,no,34.26222222222222,5.271111111111111
+2,1603,823,ENG,7,348,-144,MJ Prior,MA Starc,7,34,42,42.36,6130,62.2,Right-hand bat,197,90,3,2448.2,33.6,59.7,lf,0,ENG,seam,no,34.26222222222222,5.271111111111111
+2,1604,824,ENG,7,348,-144,MJ Prior,MA Starc,7,34,43,42.36,6130,62.2,Right-hand bat,198,90,3,2448.2,33.6,59.7,lf,0,ENG,seam,no,34.26222222222222,5.271111111111111
+2,1605,825,ENG,7,348,-144,MJ Prior,MA Starc,7,34,44,42.36,6130,62.2,Right-hand bat,199,90,3,2448.2,33.6,59.7,lf,1wd,ENG,seam,no,34.26222222222222,5.271111111111111
+2,1606,826,ENG,7,349,-143,MJ Prior,MA Starc,7,34,44,42.36,6130,62.2,Right-hand bat,200,91,3,2448.2,33.6,59.7,lf,0,ENG,seam,no,34.26222222222222,5.271111111111111
+2,1607,827,ENG,7,349,-143,MJ Prior,MA Starc,7,34,45,42.36,6130,62.2,Right-hand bat,201,91,3,2448.2,33.6,59.7,lf,1,ENG,seam,no,34.26222222222222,5.271111111111111

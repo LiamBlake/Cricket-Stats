@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1671,1040,SRL,9,469,153,RAS Lakmal,MG Johnson,11,9,13,5.8,67,43.28,Right-hand bat,205,118,1,10296.3,30.43,55,lf,0,SRL,seam,yes,29.959999999999997,12.84
+2,1672,1041,SRL,9,469,153,RAS Lakmal,MG Johnson,11,9,14,5.8,67,43.28,Right-hand bat,206,118,1,10296.3,30.43,55,lf,0,SRL,seam,yes,29.959999999999997,12.84
+2,1673,1042,SRL,9,469,153,RAS Lakmal,MG Johnson,11,9,15,5.8,67,43.28,Right-hand bat,207,118,1,10296.3,30.43,55,lf,4,SRL,seam,yes,29.959999999999997,12.84
+2,1674,1043,SRL,9,473,157,RAS Lakmal,MG Johnson,11,13,16,5.8,67,43.28,Right-hand bat,208,122,1,10296.3,30.43,55,lf,0,SRL,seam,yes,29.959999999999997,12.84
+2,1675,1044,SRL,9,473,157,RAS Lakmal,MG Johnson,11,13,17,5.8,67,43.28,Right-hand bat,209,122,1,10296.3,30.43,55,lf,W,SRL,seam,yes,29.959999999999997,12.84

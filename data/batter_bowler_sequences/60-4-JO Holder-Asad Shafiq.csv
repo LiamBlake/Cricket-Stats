@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2275,338,WIN,6,130,-173,JO Holder,Asad Shafiq,8,16,45,30.71,1713,57.38,Right-hand bat,0,0,0,120,84,120,rob,0,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,2276,339,WIN,6,130,-173,JO Holder,Asad Shafiq,8,16,46,30.71,1713,57.38,Right-hand bat,1,0,0,120,84,120,rob,1,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,2280,343,WIN,6,136,-167,JO Holder,Asad Shafiq,8,17,47,30.71,1713,57.38,Right-hand bat,5,6,0,120,84,120,rob,1,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,2287,350,WIN,6,138,-165,JO Holder,Asad Shafiq,8,19,53,30.71,1713,57.38,Right-hand bat,6,7,0,120,84,120,rob,1,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,2291,354,WIN,6,144,-159,JO Holder,Asad Shafiq,8,20,54,30.71,1713,57.38,Right-hand bat,10,13,0,120,84,120,rob,2,WIN,spin,yes,13.836565096952908,12.452908587257618
+4,2292,355,WIN,6,146,-157,JO Holder,Asad Shafiq,8,22,55,30.71,1713,57.38,Right-hand bat,11,15,0,120,84,120,rob,0,WIN,spin,yes,13.836565096952908,12.452908587257618

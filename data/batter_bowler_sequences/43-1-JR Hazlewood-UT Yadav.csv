@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,495,495,AUS,9,205,205,JR Hazlewood,UT Yadav,11,0,0,16,581,44.06,Left-hand bat,60,25,4,4626.5,36.83,60.1,rf,0,IND,seam,yes,4.258125000000001,14.666875000000001
+1,502,502,AUS,9,211,211,JR Hazlewood,UT Yadav,11,0,1,16,581,44.06,Left-hand bat,61,25,4,4626.5,36.83,60.1,rf,0,IND,seam,yes,4.258125000000001,14.666875000000001
+1,503,503,AUS,9,211,211,JR Hazlewood,UT Yadav,11,0,2,16,581,44.06,Left-hand bat,62,25,4,4626.5,36.83,60.1,rf,0,IND,seam,yes,4.258125000000001,14.666875000000001
+1,504,504,AUS,9,211,211,JR Hazlewood,UT Yadav,11,0,3,16,581,44.06,Left-hand bat,63,25,4,4626.5,36.83,60.1,rf,0,IND,seam,yes,4.258125000000001,14.666875000000001
+1,505,505,AUS,9,211,211,JR Hazlewood,UT Yadav,11,0,4,16,581,44.06,Left-hand bat,64,25,4,4626.5,36.83,60.1,rf,0,IND,seam,yes,4.258125000000001,14.666875000000001
+1,506,506,AUS,9,211,211,JR Hazlewood,UT Yadav,11,0,5,16,581,44.06,Left-hand bat,65,25,4,4626.5,36.83,60.1,rf,0,IND,seam,yes,4.258125000000001,14.666875000000001
+1,507,507,AUS,9,211,211,JR Hazlewood,UT Yadav,11,0,6,16,581,44.06,Left-hand bat,66,25,4,4626.5,36.83,60.1,rf,0,IND,seam,yes,4.258125000000001,14.666875000000001

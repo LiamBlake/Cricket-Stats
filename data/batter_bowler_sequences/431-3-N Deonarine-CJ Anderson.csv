@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1507,99,WIN,4,40,58,N Deonarine,CJ Anderson,6,0,0,25.89,1728,41.95,Left-hand bat,9,1,1,528,19.36,48,lmf,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1508,100,WIN,4,40,58,N Deonarine,CJ Anderson,6,0,1,25.89,1728,41.95,Left-hand bat,10,1,1,528,19.36,48,lmf,1,NZL,seam,no,21.1806640625,8.2880859375
+3,1516,108,WIN,5,46,64,N Deonarine,CJ Anderson,6,2,3,25.89,1728,41.95,Left-hand bat,12,2,1,528,19.36,48,lmf,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1517,109,WIN,5,46,64,N Deonarine,CJ Anderson,6,2,4,25.89,1728,41.95,Left-hand bat,13,2,1,528,19.36,48,lmf,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1518,110,WIN,5,46,64,N Deonarine,CJ Anderson,6,2,5,25.89,1728,41.95,Left-hand bat,14,2,1,528,19.36,48,lmf,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1519,111,WIN,5,46,64,N Deonarine,CJ Anderson,6,2,6,25.89,1728,41.95,Left-hand bat,15,2,1,528,19.36,48,lmf,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1520,112,WIN,5,46,64,N Deonarine,CJ Anderson,6,2,7,25.89,1728,41.95,Left-hand bat,16,2,1,528,19.36,48,lmf,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1521,113,WIN,5,46,64,N Deonarine,CJ Anderson,6,2,8,25.89,1728,41.95,Left-hand bat,17,2,1,528,19.36,48,lmf,1,NZL,seam,no,21.1806640625,8.2880859375
+3,1530,122,WIN,5,52,70,N Deonarine,CJ Anderson,6,6,12,25.89,1728,41.95,Left-hand bat,20,4,1,528,19.36,48,lmf,1,NZL,seam,no,21.1806640625,8.2880859375
+3,1552,144,WIN,5,64,82,N Deonarine,CJ Anderson,6,10,23,25.89,1728,41.95,Left-hand bat,30,13,1,528,19.36,48,lmf,1,NZL,seam,no,21.1806640625,8.2880859375

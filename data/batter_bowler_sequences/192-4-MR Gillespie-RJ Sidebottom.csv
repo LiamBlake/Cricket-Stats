@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2120,534,NZL,8,270,-167,MR Gillespie,RJ Sidebottom,10,0,0,2.25,51,17.64,Right-hand bat,161,84,5,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,2129,543,NZL,8,272,-165,MR Gillespie,RJ Sidebottom,10,0,5,2.25,51,17.64,Right-hand bat,164,84,5,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,2130,544,NZL,8,272,-165,MR Gillespie,RJ Sidebottom,10,0,6,2.25,51,17.64,Right-hand bat,165,84,5,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,2131,545,NZL,8,272,-165,MR Gillespie,RJ Sidebottom,10,0,7,2.25,51,17.64,Right-hand bat,166,84,5,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,2132,546,NZL,8,272,-165,MR Gillespie,RJ Sidebottom,10,0,8,2.25,51,17.64,Right-hand bat,167,84,5,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,2139,553,NZL,8,274,-163,MR Gillespie,RJ Sidebottom,10,1,11,2.25,51,17.64,Right-hand bat,168,84,5,2736.3,28.44,60.8,lfm,1,NZL,seam,yes,27.885,0.7150000000000001
+4,2151,565,NZL,8,288,-149,MR Gillespie,RJ Sidebottom,10,2,15,2.25,51,17.64,Right-hand bat,174,89,5,2736.3,28.44,60.8,lfm,4,NZL,seam,yes,27.885,0.7150000000000001
+4,2152,566,NZL,8,292,-145,MR Gillespie,RJ Sidebottom,10,6,16,2.25,51,17.64,Right-hand bat,175,93,5,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,2153,567,NZL,8,292,-145,MR Gillespie,RJ Sidebottom,10,6,17,2.25,51,17.64,Right-hand bat,176,93,5,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,2154,568,NZL,8,292,-145,MR Gillespie,RJ Sidebottom,10,6,18,2.25,51,17.64,Right-hand bat,177,93,5,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,2155,569,NZL,8,292,-145,MR Gillespie,RJ Sidebottom,10,6,19,2.25,51,17.64,Right-hand bat,178,93,5,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,2156,570,NZL,8,292,-145,MR Gillespie,RJ Sidebottom,10,6,20,2.25,51,17.64,Right-hand bat,179,93,5,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,2166,580,NZL,8,300,-137,MR Gillespie,RJ Sidebottom,10,6,24,2.25,51,17.64,Right-hand bat,183,98,5,2736.3,28.44,60.8,lfm,3,NZL,seam,yes,27.885,0.7150000000000001

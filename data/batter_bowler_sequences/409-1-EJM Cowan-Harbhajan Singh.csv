@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,30,30,AUS,0,29,29,EJM Cowan,Harbhajan Singh,1,14,15,32.62,1817,43.09,Left-hand bat,0,0,0,28098.3,32.38,68.3,rob,0,IND,spin,yes,9.7109375,29.1328125
+1,31,31,AUS,0,29,29,EJM Cowan,Harbhajan Singh,1,14,16,32.62,1817,43.09,Left-hand bat,1,0,0,28098.3,32.38,68.3,rob,1,IND,spin,yes,9.7109375,29.1328125
+1,35,35,AUS,0,33,33,EJM Cowan,Harbhajan Singh,1,15,17,32.62,1817,43.09,Left-hand bat,5,4,0,28098.3,32.38,68.3,rob,1,IND,spin,yes,9.7109375,29.1328125
+1,46,46,AUS,0,39,39,EJM Cowan,Harbhajan Singh,1,16,24,32.62,1817,43.09,Left-hand bat,10,7,0,28098.3,32.38,68.3,rob,4,IND,spin,yes,9.7109375,29.1328125
+1,47,47,AUS,0,43,43,EJM Cowan,Harbhajan Singh,1,20,25,32.62,1817,43.09,Left-hand bat,11,11,0,28098.3,32.38,68.3,rob,0,IND,spin,yes,9.7109375,29.1328125
+1,66,66,AUS,0,53,53,EJM Cowan,Harbhajan Singh,1,21,30,32.62,1817,43.09,Left-hand bat,18,15,0,28098.3,32.38,68.3,rob,0,IND,spin,yes,9.7109375,29.1328125
+1,67,67,AUS,0,53,53,EJM Cowan,Harbhajan Singh,1,21,31,32.62,1817,43.09,Left-hand bat,19,15,0,28098.3,32.38,68.3,rob,0,IND,spin,yes,9.7109375,29.1328125
+1,68,68,AUS,0,53,53,EJM Cowan,Harbhajan Singh,1,21,32,32.62,1817,43.09,Left-hand bat,20,15,0,28098.3,32.38,68.3,rob,0,IND,spin,yes,9.7109375,29.1328125
+1,69,69,AUS,0,53,53,EJM Cowan,Harbhajan Singh,1,21,33,32.62,1817,43.09,Left-hand bat,21,15,0,28098.3,32.38,68.3,rob,0,IND,spin,yes,9.7109375,29.1328125
+1,70,70,AUS,0,53,53,EJM Cowan,Harbhajan Singh,1,21,34,32.62,1817,43.09,Left-hand bat,22,15,0,28098.3,32.38,68.3,rob,1,IND,spin,yes,9.7109375,29.1328125
+1,81,81,AUS,0,57,57,EJM Cowan,Harbhajan Singh,1,23,40,32.62,1817,43.09,Left-hand bat,27,17,0,28098.3,32.38,68.3,rob,6,IND,spin,yes,9.7109375,29.1328125
+1,82,82,AUS,0,63,63,EJM Cowan,Harbhajan Singh,1,29,41,32.62,1817,43.09,Left-hand bat,28,23,0,28098.3,32.38,68.3,rob,0,IND,spin,yes,9.7109375,29.1328125
+1,83,83,AUS,0,63,63,EJM Cowan,Harbhajan Singh,1,29,42,32.62,1817,43.09,Left-hand bat,29,23,0,28098.3,32.38,68.3,rob,0,IND,spin,yes,9.7109375,29.1328125

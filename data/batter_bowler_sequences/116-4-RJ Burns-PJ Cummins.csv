@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2027,42,ENG,0,13,-384,RJ Burns,PJ Cummins,1,7,21,28.5,1024,44.53,Left-hand bat,0,0,0,4668,21.64,46.2,rf,4,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2028,43,ENG,0,17,-380,RJ Burns,PJ Cummins,1,11,22,28.5,1024,44.53,Left-hand bat,1,4,0,4668,21.64,46.2,rf,0,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2029,44,ENG,0,17,-380,RJ Burns,PJ Cummins,1,11,23,28.5,1024,44.53,Left-hand bat,2,4,0,4668,21.64,46.2,rf,0,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2030,45,ENG,0,17,-380,RJ Burns,PJ Cummins,1,11,24,28.5,1024,44.53,Left-hand bat,3,4,0,4668,21.64,46.2,rf,0,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2031,46,ENG,0,17,-380,RJ Burns,PJ Cummins,1,11,25,28.5,1024,44.53,Left-hand bat,4,4,0,4668,21.64,46.2,rf,0,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2032,47,ENG,0,17,-380,RJ Burns,PJ Cummins,1,11,26,28.5,1024,44.53,Left-hand bat,5,4,0,4668,21.64,46.2,rf,0,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2040,55,ENG,0,19,-378,RJ Burns,PJ Cummins,1,11,29,28.5,1024,44.53,Left-hand bat,7,5,0,4668,21.64,46.2,rf,0,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2041,56,ENG,0,19,-378,RJ Burns,PJ Cummins,1,11,30,28.5,1024,44.53,Left-hand bat,8,5,0,4668,21.64,46.2,rf,0,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2042,57,ENG,0,19,-378,RJ Burns,PJ Cummins,1,11,31,28.5,1024,44.53,Left-hand bat,9,5,0,4668,21.64,46.2,rf,0,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2043,58,ENG,0,19,-378,RJ Burns,PJ Cummins,1,11,32,28.5,1024,44.53,Left-hand bat,10,5,0,4668,21.64,46.2,rf,W,ENG,seam,no,23.575602629656686,11.316289262235209

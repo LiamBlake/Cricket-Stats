@@ -1,0 +1,3 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2141,522,WIN,7,273,-186,KAJ Roach,MR Marsh,9,6,20,10.29,1477,33.44,Right-hand bat,100,60,2,1146.4,30.9,54.7,rm,0,AUS,seam,yes,34.162721893491124,15.183431952662723
+4,2142,523,WIN,7,273,-186,KAJ Roach,MR Marsh,9,6,21,10.29,1477,33.44,Right-hand bat,101,60,2,1146.4,30.9,54.7,rm,1,AUS,seam,yes,34.162721893491124,15.183431952662723

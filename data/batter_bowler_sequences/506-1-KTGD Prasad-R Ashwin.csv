@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,252,252,SRL,6,139,139,KTGD Prasad,R Ashwin,8,0,0,13.45,784,53.18,Right-hand bat,57,31,4,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+1,253,253,SRL,6,139,139,KTGD Prasad,R Ashwin,8,0,1,13.45,784,53.18,Right-hand bat,58,31,4,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+1,254,254,SRL,6,139,139,KTGD Prasad,R Ashwin,8,0,2,13.45,784,53.18,Right-hand bat,59,31,4,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+1,261,261,SRL,6,155,155,KTGD Prasad,R Ashwin,8,0,3,13.45,784,53.18,Right-hand bat,60,31,4,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+1,262,262,SRL,6,155,155,KTGD Prasad,R Ashwin,8,0,4,13.45,784,53.18,Right-hand bat,61,31,4,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+1,263,263,SRL,6,155,155,KTGD Prasad,R Ashwin,8,0,5,13.45,784,53.18,Right-hand bat,62,31,4,7794.4,29.14,58.1,rob,W,SRL,spin,yes,5.833125000000001,20.091875

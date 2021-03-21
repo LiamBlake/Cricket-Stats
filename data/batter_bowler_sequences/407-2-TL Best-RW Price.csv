@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,906,446,WIN,8,268,57,TL Best,RW Price,10,0,0,13.69,544,57.9,Right-hand bat,89,28,1,6132.3,36.06,76.6,lo,0,WIN,spin,no,11.2684703433923,9.279916753381892
+2,913,453,WIN,8,270,59,TL Best,RW Price,10,0,1,13.69,544,57.9,Right-hand bat,90,28,1,6132.3,36.06,76.6,lo,0,WIN,spin,no,11.2684703433923,9.279916753381892
+2,914,454,WIN,8,270,59,TL Best,RW Price,10,0,2,13.69,544,57.9,Right-hand bat,91,28,1,6132.3,36.06,76.6,lo,1,WIN,spin,no,11.2684703433923,9.279916753381892
+2,917,457,WIN,8,276,65,TL Best,RW Price,10,1,3,13.69,544,57.9,Right-hand bat,94,34,1,6132.3,36.06,76.6,lo,2,WIN,spin,no,11.2684703433923,9.279916753381892
+2,918,458,WIN,8,278,67,TL Best,RW Price,10,3,4,13.69,544,57.9,Right-hand bat,95,36,1,6132.3,36.06,76.6,lo,0,WIN,spin,no,11.2684703433923,9.279916753381892
+2,929,469,WIN,8,280,69,TL Best,RW Price,10,3,7,13.69,544,57.9,Right-hand bat,100,37,1,6132.3,36.06,76.6,lo,4,WIN,spin,no,11.2684703433923,9.279916753381892
+2,930,470,WIN,8,284,73,TL Best,RW Price,10,7,8,13.69,544,57.9,Right-hand bat,101,41,1,6132.3,36.06,76.6,lo,0,WIN,spin,no,11.2684703433923,9.279916753381892
+2,937,477,WIN,8,286,75,TL Best,RW Price,10,8,10,13.69,544,57.9,Right-hand bat,102,41,1,6132.3,36.06,76.6,lo,0,WIN,spin,no,11.2684703433923,9.279916753381892
+2,938,478,WIN,8,286,75,TL Best,RW Price,10,8,11,13.69,544,57.9,Right-hand bat,103,41,1,6132.3,36.06,76.6,lo,0,WIN,spin,no,11.2684703433923,9.279916753381892
+2,939,479,WIN,8,286,75,TL Best,RW Price,10,8,12,13.69,544,57.9,Right-hand bat,104,41,1,6132.3,36.06,76.6,lo,4,WIN,spin,no,11.2684703433923,9.279916753381892
+2,940,480,WIN,8,290,79,TL Best,RW Price,10,12,13,13.69,544,57.9,Right-hand bat,105,45,1,6132.3,36.06,76.6,lo,0,WIN,spin,no,11.2684703433923,9.279916753381892
+2,941,481,WIN,8,290,79,TL Best,RW Price,10,12,14,13.69,544,57.9,Right-hand bat,106,45,1,6132.3,36.06,76.6,lo,1,WIN,spin,no,11.2684703433923,9.279916753381892

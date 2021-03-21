@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1622,370,PAK,5,144,88,Mohammad Nawaz (3),JO Holder,7,1,28,12.5,157,31.84,Left-hand bat,79,22,3,2868.4,41,92.6,rmf,2,PAK,seam,yes,16,12
+3,1623,371,PAK,5,146,90,Mohammad Nawaz (3),JO Holder,7,3,29,12.5,157,31.84,Left-hand bat,80,24,3,2868.4,41,92.6,rmf,0,PAK,seam,yes,16,12
+3,1624,372,PAK,5,146,90,Mohammad Nawaz (3),JO Holder,7,3,30,12.5,157,31.84,Left-hand bat,81,24,3,2868.4,41,92.6,rmf,0,PAK,seam,yes,16,12
+3,1625,373,PAK,5,146,90,Mohammad Nawaz (3),JO Holder,7,3,31,12.5,157,31.84,Left-hand bat,82,24,3,2868.4,41,92.6,rmf,0,PAK,seam,yes,16,12
+3,1626,374,PAK,5,146,90,Mohammad Nawaz (3),JO Holder,7,3,32,12.5,157,31.84,Left-hand bat,83,24,3,2868.4,41,92.6,rmf,0,PAK,seam,yes,16,12
+3,1637,385,PAK,5,150,94,Mohammad Nawaz (3),JO Holder,7,4,35,12.5,157,31.84,Left-hand bat,88,25,3,2868.4,41,92.6,rmf,0,PAK,seam,yes,16,12
+3,1638,386,PAK,5,150,94,Mohammad Nawaz (3),JO Holder,7,4,36,12.5,157,31.84,Left-hand bat,89,25,3,2868.4,41,92.6,rmf,1,PAK,seam,yes,16,12

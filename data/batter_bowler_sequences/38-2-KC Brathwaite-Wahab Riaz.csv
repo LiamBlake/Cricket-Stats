@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1004,60,WIN,0,36,-543,KC Brathwaite,Wahab Riaz,1,13,33,33.75,4523,42.53,Right-hand bat,0,0,0,3414.4,34.66,61,lf,0,PAK,seam,no,11.140495867768596,29.70798898071626
+2,1005,61,WIN,0,36,-543,KC Brathwaite,Wahab Riaz,1,13,34,33.75,4523,42.53,Right-hand bat,1,0,0,3414.4,34.66,61,lf,0,PAK,seam,no,11.140495867768596,29.70798898071626
+2,1006,62,WIN,0,36,-543,KC Brathwaite,Wahab Riaz,1,13,35,33.75,4523,42.53,Right-hand bat,2,0,0,3414.4,34.66,61,lf,2,PAK,seam,no,11.140495867768596,29.70798898071626
+2,1007,63,WIN,0,38,-541,KC Brathwaite,Wahab Riaz,1,15,36,33.75,4523,42.53,Right-hand bat,3,2,0,3414.4,34.66,61,lf,4,PAK,seam,no,11.140495867768596,29.70798898071626
+2,1008,64,WIN,0,42,-537,KC Brathwaite,Wahab Riaz,1,19,37,33.75,4523,42.53,Right-hand bat,4,6,0,3414.4,34.66,61,lf,0,PAK,seam,no,11.140495867768596,29.70798898071626
+2,1009,65,WIN,0,42,-537,KC Brathwaite,Wahab Riaz,1,19,38,33.75,4523,42.53,Right-hand bat,5,6,0,3414.4,34.66,61,lf,0,PAK,seam,no,11.140495867768596,29.70798898071626
+2,1016,72,WIN,1,42,-537,KC Brathwaite,Wahab Riaz,1,19,39,33.75,4523,42.53,Right-hand bat,6,6,0,3414.4,34.66,61,lf,0,PAK,seam,no,11.140495867768596,29.70798898071626
+2,1017,73,WIN,1,42,-537,KC Brathwaite,Wahab Riaz,1,19,40,33.75,4523,42.53,Right-hand bat,7,6,0,3414.4,34.66,61,lf,0,PAK,seam,no,11.140495867768596,29.70798898071626
+2,1018,74,WIN,1,42,-537,KC Brathwaite,Wahab Riaz,1,19,41,33.75,4523,42.53,Right-hand bat,8,6,0,3414.4,34.66,61,lf,0,PAK,seam,no,11.140495867768596,29.70798898071626
+2,1019,75,WIN,1,42,-537,KC Brathwaite,Wahab Riaz,1,19,42,33.75,4523,42.53,Right-hand bat,9,6,0,3414.4,34.66,61,lf,0,PAK,seam,no,11.140495867768596,29.70798898071626
+2,1020,76,WIN,1,42,-537,KC Brathwaite,Wahab Riaz,1,19,43,33.75,4523,42.53,Right-hand bat,10,6,0,3414.4,34.66,61,lf,0,PAK,seam,no,11.140495867768596,29.70798898071626
+2,1021,77,WIN,1,42,-537,KC Brathwaite,Wahab Riaz,1,19,44,33.75,4523,42.53,Right-hand bat,11,6,0,3414.4,34.66,61,lf,4,PAK,seam,no,11.140495867768596,29.70798898071626
+2,1052,108,WIN,1,58,-521,KC Brathwaite,Wahab Riaz,1,27,57,33.75,4523,42.53,Right-hand bat,12,10,0,3414.4,34.66,61,lf,0,PAK,seam,no,11.140495867768596,29.70798898071626
+2,1053,109,WIN,1,58,-521,KC Brathwaite,Wahab Riaz,1,27,58,33.75,4523,42.53,Right-hand bat,13,10,0,3414.4,34.66,61,lf,1,PAK,seam,no,11.140495867768596,29.70798898071626

@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,263,263,RSA,6,133,133,M Morkel,A Flintoff,8,0,5,14.81,297,54.88,Left-hand bat,63,26,1,13296.4,32.21,64.5,rfm,4,ENG,seam,yes,23.963667820069205,6.21280276816609
+1,264,264,RSA,6,137,137,M Morkel,A Flintoff,8,4,6,14.81,297,54.88,Left-hand bat,64,30,1,13296.4,32.21,64.5,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609
+1,265,265,RSA,6,137,137,M Morkel,A Flintoff,8,4,7,14.81,297,54.88,Left-hand bat,65,30,1,13296.4,32.21,64.5,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609
+1,272,272,RSA,6,141,141,M Morkel,A Flintoff,8,4,8,14.81,297,54.88,Left-hand bat,66,30,1,13296.4,32.21,64.5,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609
+1,273,273,RSA,6,141,141,M Morkel,A Flintoff,8,4,9,14.81,297,54.88,Left-hand bat,67,30,1,13296.4,32.21,64.5,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609
+1,274,274,RSA,6,141,141,M Morkel,A Flintoff,8,4,10,14.81,297,54.88,Left-hand bat,68,30,1,13296.4,32.21,64.5,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609
+1,275,275,RSA,6,141,141,M Morkel,A Flintoff,8,4,11,14.81,297,54.88,Left-hand bat,69,30,1,13296.4,32.21,64.5,rfm,2,ENG,seam,yes,23.963667820069205,6.21280276816609
+1,276,276,RSA,6,143,143,M Morkel,A Flintoff,8,6,12,14.81,297,54.88,Left-hand bat,70,32,1,13296.4,32.21,64.5,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609
+1,277,277,RSA,6,143,143,M Morkel,A Flintoff,8,6,13,14.81,297,54.88,Left-hand bat,71,32,1,13296.4,32.21,64.5,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609
+1,285,285,RSA,6,149,149,M Morkel,A Flintoff,8,6,14,14.81,297,54.88,Left-hand bat,73,33,1,13296.4,32.21,64.5,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609
+1,286,286,RSA,6,149,149,M Morkel,A Flintoff,8,6,15,14.81,297,54.88,Left-hand bat,74,33,1,13296.4,32.21,64.5,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609
+1,287,287,RSA,6,149,149,M Morkel,A Flintoff,8,6,16,14.81,297,54.88,Left-hand bat,75,33,1,13296.4,32.21,64.5,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609
+1,288,288,RSA,6,149,149,M Morkel,A Flintoff,8,6,17,14.81,297,54.88,Left-hand bat,76,33,1,13296.4,32.21,64.5,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609
+1,289,289,RSA,6,149,149,M Morkel,A Flintoff,8,6,18,14.81,297,54.88,Left-hand bat,77,33,1,13296.4,32.21,64.5,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609

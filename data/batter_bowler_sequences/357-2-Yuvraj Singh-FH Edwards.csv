@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,799,148,IND,4,121,-183,Yuvraj Singh,FH Edwards,6,0,4,35,3008,58.17,Left-hand bat,52,54,1,8424.5,36.7,55.8,rf,0,IND,seam,no,11.074285714285715,16.611428571428572
+2,800,149,IND,4,121,-183,Yuvraj Singh,FH Edwards,6,0,5,35,3008,58.17,Left-hand bat,53,54,1,8424.5,36.7,55.8,rf,0,IND,seam,no,11.074285714285715,16.611428571428572
+2,801,150,IND,4,121,-183,Yuvraj Singh,FH Edwards,6,0,6,35,3008,58.17,Left-hand bat,54,54,1,8424.5,36.7,55.8,rf,0,IND,seam,no,11.074285714285715,16.611428571428572
+2,802,151,IND,4,121,-183,Yuvraj Singh,FH Edwards,6,0,7,35,3008,58.17,Left-hand bat,55,54,1,8424.5,36.7,55.8,rf,0,IND,seam,no,11.074285714285715,16.611428571428572

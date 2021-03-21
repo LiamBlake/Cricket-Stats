@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,51,51,IND,0,37,37,G Gambhir,DL Vettori,1,8,26,49.92,5213,54.59,Left-hand bat,2,1,0,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+1,52,52,IND,0,37,37,G Gambhir,DL Vettori,1,8,27,49.92,5213,54.59,Left-hand bat,3,1,0,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+1,53,53,IND,0,37,37,G Gambhir,DL Vettori,1,8,28,49.92,5213,54.59,Left-hand bat,4,1,0,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+1,54,54,IND,0,37,37,G Gambhir,DL Vettori,1,8,29,49.92,5213,54.59,Left-hand bat,5,1,0,25554,33.85,77.2,lo,1,IND,spin,yes,15.408949011446408,24.397502601456814
+1,65,65,IND,0,47,47,G Gambhir,DL Vettori,1,17,36,49.92,5213,54.59,Left-hand bat,10,3,0,25554,33.85,77.2,lo,2,IND,spin,yes,15.408949011446408,24.397502601456814
+1,66,66,IND,0,49,49,G Gambhir,DL Vettori,1,19,37,49.92,5213,54.59,Left-hand bat,11,5,0,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814

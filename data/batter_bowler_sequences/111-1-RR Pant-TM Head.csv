@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,871,871,IND,6,487,487,RR Pant,TM Head,7,86,124,49.71,943,73.8,Left-hand bat,0,0,0,66,NA,NA,rob,1,AUS,spin,yes,19.266435986159166,35.32179930795848
+1,873,873,IND,6,489,489,RR Pant,TM Head,7,87,125,49.71,943,73.8,Left-hand bat,2,2,0,66,NA,NA,rob,0,AUS,spin,yes,19.266435986159166,35.32179930795848
+1,874,874,IND,6,489,489,RR Pant,TM Head,7,87,126,49.71,943,73.8,Left-hand bat,3,2,0,66,NA,NA,rob,0,AUS,spin,yes,19.266435986159166,35.32179930795848
+1,875,875,IND,6,489,489,RR Pant,TM Head,7,87,127,49.71,943,73.8,Left-hand bat,4,2,0,66,NA,NA,rob,1,AUS,spin,yes,19.266435986159166,35.32179930795848
+1,925,925,IND,6,536,536,RR Pant,TM Head,7,117,153,49.71,943,73.8,Left-hand bat,6,4,0,66,NA,NA,rob,0,AUS,spin,yes,19.266435986159166,35.32179930795848
+1,926,926,IND,6,536,536,RR Pant,TM Head,7,117,154,49.71,943,73.8,Left-hand bat,7,4,0,66,NA,NA,rob,1,AUS,spin,yes,19.266435986159166,35.32179930795848
+1,930,930,IND,6,538,538,RR Pant,TM Head,7,118,155,49.71,943,73.8,Left-hand bat,11,6,0,66,NA,NA,rob,1,AUS,spin,yes,19.266435986159166,35.32179930795848
+1,938,938,IND,6,542,542,RR Pant,TM Head,7,120,158,49.71,943,73.8,Left-hand bat,13,8,0,66,NA,NA,rob,1,AUS,spin,yes,19.266435986159166,35.32179930795848
+1,940,940,IND,6,544,544,RR Pant,TM Head,7,121,159,49.71,943,73.8,Left-hand bat,15,10,0,66,NA,NA,rob,1,AUS,spin,yes,19.266435986159166,35.32179930795848
+1,942,942,IND,6,546,546,RR Pant,TM Head,7,122,160,49.71,943,73.8,Left-hand bat,17,12,0,66,NA,NA,rob,0,AUS,spin,yes,19.266435986159166,35.32179930795848
+1,950,950,IND,6,548,548,RR Pant,TM Head,7,122,162,49.71,943,73.8,Left-hand bat,19,13,0,66,NA,NA,rob,4,AUS,spin,yes,19.266435986159166,35.32179930795848
+1,951,951,IND,6,552,552,RR Pant,TM Head,7,126,163,49.71,943,73.8,Left-hand bat,20,17,0,66,NA,NA,rob,1,AUS,spin,yes,19.266435986159166,35.32179930795848
+1,954,954,IND,6,554,554,RR Pant,TM Head,7,127,164,49.71,943,73.8,Left-hand bat,23,19,0,66,NA,NA,rob,1,AUS,spin,yes,19.266435986159166,35.32179930795848

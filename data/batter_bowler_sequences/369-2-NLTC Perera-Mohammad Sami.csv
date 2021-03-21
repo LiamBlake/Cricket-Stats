@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1004,567,SRL,7,305,79,NLTC Perera,Mohammad Sami,8,53,67,20.3,278,73.02,Left-hand bat,91,58,1,7494.5,52.74,88.2,rf,1,SRL,seam,yes,21.115234375,14.447265625
+2,1006,569,SRL,7,307,81,NLTC Perera,Mohammad Sami,8,54,68,20.3,278,73.02,Left-hand bat,93,60,1,7494.5,52.74,88.2,rf,0,SRL,seam,yes,21.115234375,14.447265625
+2,1007,570,SRL,7,307,81,NLTC Perera,Mohammad Sami,8,54,69,20.3,278,73.02,Left-hand bat,94,60,1,7494.5,52.74,88.2,rf,0,SRL,seam,yes,21.115234375,14.447265625
+2,1008,571,SRL,7,307,81,NLTC Perera,Mohammad Sami,8,54,70,20.3,278,73.02,Left-hand bat,95,60,1,7494.5,52.74,88.2,rf,1,SRL,seam,yes,21.115234375,14.447265625
+2,1018,581,SRL,7,311,85,NLTC Perera,Mohammad Sami,8,56,73,20.3,278,73.02,Left-hand bat,99,62,1,7494.5,52.74,88.2,rf,2,SRL,seam,yes,21.115234375,14.447265625
+2,1019,582,SRL,7,313,87,NLTC Perera,Mohammad Sami,8,58,74,20.3,278,73.02,Left-hand bat,100,64,1,7494.5,52.74,88.2,rf,1,SRL,seam,yes,21.115234375,14.447265625

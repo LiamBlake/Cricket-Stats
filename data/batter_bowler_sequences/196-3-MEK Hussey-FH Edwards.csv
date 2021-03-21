@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1435,21,AUS,2,11,130,MEK Hussey,FH Edwards,4,0,0,74.83,4319,51.97,Left-hand bat,9,6,1,5370.1,41.14,61,rf,0,WIN,seam,yes,24.084375,3.440625
+3,1436,22,AUS,2,11,130,MEK Hussey,FH Edwards,4,0,1,74.83,4319,51.97,Left-hand bat,10,6,1,5370.1,41.14,61,rf,0,WIN,seam,yes,24.084375,3.440625
+3,1437,23,AUS,2,11,130,MEK Hussey,FH Edwards,4,0,2,74.83,4319,51.97,Left-hand bat,11,6,1,5370.1,41.14,61,rf,0,WIN,seam,yes,24.084375,3.440625
+3,1444,30,AUS,2,11,130,MEK Hussey,FH Edwards,4,0,3,74.83,4319,51.97,Left-hand bat,12,6,1,5370.1,41.14,61,rf,0,WIN,seam,yes,24.084375,3.440625
+3,1445,31,AUS,2,11,130,MEK Hussey,FH Edwards,4,0,4,74.83,4319,51.97,Left-hand bat,13,6,1,5370.1,41.14,61,rf,0,WIN,seam,yes,24.084375,3.440625
+3,1446,32,AUS,2,11,130,MEK Hussey,FH Edwards,4,0,5,74.83,4319,51.97,Left-hand bat,14,6,1,5370.1,41.14,61,rf,1,WIN,seam,yes,24.084375,3.440625

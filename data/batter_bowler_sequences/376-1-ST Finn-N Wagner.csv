@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,596,596,ENG,8,201,201,ST Finn,N Wagner,10,0,0,12.38,569,28.29,Right-hand bat,155,61,3,1566,40.95,74.5,lmf,0,ENG,seam,yes,16.65,1.35
+1,597,597,ENG,8,201,201,ST Finn,N Wagner,10,0,1,12.38,569,28.29,Right-hand bat,156,61,3,1566,40.95,74.5,lmf,0,ENG,seam,yes,16.65,1.35
+1,598,598,ENG,8,201,201,ST Finn,N Wagner,10,0,2,12.38,569,28.29,Right-hand bat,157,61,3,1566,40.95,74.5,lmf,0,ENG,seam,yes,16.65,1.35
+1,599,599,ENG,8,201,201,ST Finn,N Wagner,10,0,3,12.38,569,28.29,Right-hand bat,158,61,3,1566,40.95,74.5,lmf,0,ENG,seam,yes,16.65,1.35
+1,600,600,ENG,8,201,201,ST Finn,N Wagner,10,0,4,12.38,569,28.29,Right-hand bat,159,61,3,1566,40.95,74.5,lmf,0,ENG,seam,yes,16.65,1.35
+1,607,607,ENG,8,203,203,ST Finn,N Wagner,10,0,5,12.38,569,28.29,Right-hand bat,160,61,3,1566,40.95,74.5,lmf,0,ENG,seam,yes,16.65,1.35
+1,608,608,ENG,8,203,203,ST Finn,N Wagner,10,0,6,12.38,569,28.29,Right-hand bat,161,61,3,1566,40.95,74.5,lmf,0,ENG,seam,yes,16.65,1.35
+1,609,609,ENG,8,203,203,ST Finn,N Wagner,10,0,7,12.38,569,28.29,Right-hand bat,162,61,3,1566,40.95,74.5,lmf,0,ENG,seam,yes,16.65,1.35
+1,610,610,ENG,8,203,203,ST Finn,N Wagner,10,0,8,12.38,569,28.29,Right-hand bat,163,61,3,1566,40.95,74.5,lmf,0,ENG,seam,yes,16.65,1.35
+1,611,611,ENG,8,203,203,ST Finn,N Wagner,10,0,9,12.38,569,28.29,Right-hand bat,164,61,3,1566,40.95,74.5,lmf,0,ENG,seam,yes,16.65,1.35
+1,612,612,ENG,8,203,203,ST Finn,N Wagner,10,0,10,12.38,569,28.29,Right-hand bat,165,61,3,1566,40.95,74.5,lmf,2,ENG,seam,yes,16.65,1.35
+1,624,624,ENG,8,209,209,ST Finn,N Wagner,10,2,13,12.38,569,28.29,Right-hand bat,171,66,3,1566,40.95,74.5,lmf,0,ENG,seam,yes,16.65,1.35

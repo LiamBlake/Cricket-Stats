@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1694,233,RSA,5,116,-333,MV Boucher,CRD Fernando,7,0,0,30.2,10779,50.16,Right-hand bat,34,12,2,5970.1,37.75,61.5,rfm,0,RSA,seam,no,16.6725,8.9775
+4,1695,234,RSA,5,116,-333,MV Boucher,CRD Fernando,7,0,1,30.2,10779,50.16,Right-hand bat,35,12,2,5970.1,37.75,61.5,rfm,0,RSA,seam,no,16.6725,8.9775
+4,1696,235,RSA,5,116,-333,MV Boucher,CRD Fernando,7,0,2,30.2,10779,50.16,Right-hand bat,36,12,2,5970.1,37.75,61.5,rfm,0,RSA,seam,no,16.6725,8.9775
+4,1703,242,RSA,5,116,-333,MV Boucher,CRD Fernando,7,0,3,30.2,10779,50.16,Right-hand bat,37,12,2,5970.1,37.75,61.5,rfm,0,RSA,seam,no,16.6725,8.9775
+4,1704,243,RSA,5,116,-333,MV Boucher,CRD Fernando,7,0,4,30.2,10779,50.16,Right-hand bat,38,12,2,5970.1,37.75,61.5,rfm,0,RSA,seam,no,16.6725,8.9775
+4,1705,244,RSA,5,116,-333,MV Boucher,CRD Fernando,7,0,5,30.2,10779,50.16,Right-hand bat,39,12,2,5970.1,37.75,61.5,rfm,0,RSA,seam,no,16.6725,8.9775
+4,1706,245,RSA,5,116,-333,MV Boucher,CRD Fernando,7,0,6,30.2,10779,50.16,Right-hand bat,40,12,2,5970.1,37.75,61.5,rfm,2,RSA,seam,no,16.6725,8.9775
+4,1707,246,RSA,5,118,-331,MV Boucher,CRD Fernando,7,2,7,30.2,10779,50.16,Right-hand bat,41,14,2,5970.1,37.75,61.5,rfm,1,RSA,seam,no,16.6725,8.9775

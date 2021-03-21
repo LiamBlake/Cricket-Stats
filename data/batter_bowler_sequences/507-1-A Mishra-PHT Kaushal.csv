@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,608,608,IND,7,350,350,A Mishra,PHT Kaushal,9,14,34,21.47,802,56.23,Right-hand bat,140,82,0,1362.2,40.21,59.3,rob,0,SRL,spin,yes,12.831024930747922,17.642659279778393
+1,609,609,IND,7,350,350,A Mishra,PHT Kaushal,9,14,35,21.47,802,56.23,Right-hand bat,141,82,0,1362.2,40.21,59.3,rob,0,SRL,spin,yes,12.831024930747922,17.642659279778393
+1,610,610,IND,7,350,350,A Mishra,PHT Kaushal,9,14,36,21.47,802,56.23,Right-hand bat,142,82,0,1362.2,40.21,59.3,rob,1,SRL,spin,yes,12.831024930747922,17.642659279778393
+1,620,620,IND,7,356,356,A Mishra,PHT Kaushal,9,16,40,21.47,802,56.23,Right-hand bat,146,85,0,1362.2,40.21,59.3,rob,0,SRL,spin,yes,12.831024930747922,17.642659279778393
+1,621,621,IND,7,356,356,A Mishra,PHT Kaushal,9,16,41,21.47,802,56.23,Right-hand bat,147,85,0,1362.2,40.21,59.3,rob,1,SRL,spin,yes,12.831024930747922,17.642659279778393
+1,623,623,IND,7,358,358,A Mishra,PHT Kaushal,9,17,42,21.47,802,56.23,Right-hand bat,149,87,0,1362.2,40.21,59.3,rob,0,SRL,spin,yes,12.831024930747922,17.642659279778393
+1,624,624,IND,7,358,358,A Mishra,PHT Kaushal,9,17,43,21.47,802,56.23,Right-hand bat,150,87,0,1362.2,40.21,59.3,rob,2,SRL,spin,yes,12.831024930747922,17.642659279778393
+1,631,631,IND,7,360,360,A Mishra,PHT Kaushal,9,19,44,21.47,802,56.23,Right-hand bat,151,89,0,1362.2,40.21,59.3,rob,4,SRL,spin,yes,12.831024930747922,17.642659279778393
+1,632,632,IND,7,364,364,A Mishra,PHT Kaushal,9,23,45,21.47,802,56.23,Right-hand bat,152,93,0,1362.2,40.21,59.3,rob,0,SRL,spin,yes,12.831024930747922,17.642659279778393
+1,633,633,IND,7,364,364,A Mishra,PHT Kaushal,9,23,46,21.47,802,56.23,Right-hand bat,153,93,0,1362.2,40.21,59.3,rob,1,SRL,spin,yes,12.831024930747922,17.642659279778393
+1,636,636,IND,7,366,366,A Mishra,PHT Kaushal,9,24,47,21.47,802,56.23,Right-hand bat,156,95,0,1362.2,40.21,59.3,rob,0,SRL,spin,yes,12.831024930747922,17.642659279778393

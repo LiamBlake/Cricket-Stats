@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1492,84,WIN,3,31,49,S Chanderpaul,CJ Anderson,5,11,13,51.93,25906,43.3,Left-hand bat,0,0,0,528,19.36,48,lmf,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1493,85,WIN,3,31,49,S Chanderpaul,CJ Anderson,5,11,14,51.93,25906,43.3,Left-hand bat,1,0,0,528,19.36,48,lmf,1,NZL,seam,no,21.1806640625,8.2880859375
+3,1509,101,WIN,4,41,59,S Chanderpaul,CJ Anderson,5,16,21,51.93,25906,43.3,Left-hand bat,11,2,1,528,19.36,48,lmf,0,NZL,seam,no,21.1806640625,8.2880859375

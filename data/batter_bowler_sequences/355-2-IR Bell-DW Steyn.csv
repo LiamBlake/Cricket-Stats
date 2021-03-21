@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1151,315,ENG,3,142,-277,IR Bell,DW Steyn,5,0,0,47.11,10588,51.61,Right-hand bat,63,30,2,11646.5,23.36,41.3,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
+2,1152,316,ENG,3,142,-277,IR Bell,DW Steyn,5,0,1,47.11,10588,51.61,Right-hand bat,64,30,2,11646.5,23.36,41.3,rf,2,ENG,seam,yes,28.282828282828284,9.050505050505052
+2,1153,317,ENG,3,144,-275,IR Bell,DW Steyn,5,2,2,47.11,10588,51.61,Right-hand bat,65,32,2,11646.5,23.36,41.3,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
+2,1185,349,ENG,3,165,-254,IR Bell,DW Steyn,5,10,14,47.11,10588,51.61,Right-hand bat,78,39,2,11646.5,23.36,41.3,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
+2,1186,350,ENG,3,165,-254,IR Bell,DW Steyn,5,10,15,47.11,10588,51.61,Right-hand bat,79,39,2,11646.5,23.36,41.3,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
+2,1187,351,ENG,3,165,-254,IR Bell,DW Steyn,5,10,16,47.11,10588,51.61,Right-hand bat,80,39,2,11646.5,23.36,41.3,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
+2,1188,352,ENG,3,165,-254,IR Bell,DW Steyn,5,10,17,47.11,10588,51.61,Right-hand bat,81,39,2,11646.5,23.36,41.3,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
+2,1189,353,ENG,3,165,-254,IR Bell,DW Steyn,5,10,18,47.11,10588,51.61,Right-hand bat,82,39,2,11646.5,23.36,41.3,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
+2,1190,354,ENG,3,165,-254,IR Bell,DW Steyn,5,10,19,47.11,10588,51.61,Right-hand bat,83,39,2,11646.5,23.36,41.3,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052

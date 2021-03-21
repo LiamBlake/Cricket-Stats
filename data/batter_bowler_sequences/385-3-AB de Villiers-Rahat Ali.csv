@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,928,238,RSA,3,167,371,AB de Villiers,Rahat Ali,5,40,46,49.96,11269,54.53,Right-hand bat,30,22,0,150,NA,NA,lfm,1,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,941,251,RSA,3,175,379,AB de Villiers,Rahat Ali,5,43,50,49.96,11269,54.53,Right-hand bat,37,25,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,942,252,RSA,3,175,379,AB de Villiers,Rahat Ali,5,43,51,49.96,11269,54.53,Right-hand bat,38,25,0,150,NA,NA,lfm,2,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,943,253,RSA,3,177,381,AB de Villiers,Rahat Ali,5,45,52,49.96,11269,54.53,Right-hand bat,39,27,0,150,NA,NA,lfm,1,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,945,255,RSA,3,179,383,AB de Villiers,Rahat Ali,5,46,53,49.96,11269,54.53,Right-hand bat,41,29,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,952,262,RSA,3,181,385,AB de Villiers,Rahat Ali,5,47,58,49.96,11269,54.53,Right-hand bat,42,29,0,150,NA,NA,lfm,1,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,956,266,RSA,3,183,387,AB de Villiers,Rahat Ali,5,48,59,49.96,11269,54.53,Right-hand bat,46,31,0,150,NA,NA,lfm,1,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,964,274,RSA,3,185,389,AB de Villiers,Rahat Ali,5,50,63,49.96,11269,54.53,Right-hand bat,48,32,0,150,NA,NA,lfm,2,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,965,275,RSA,3,187,391,AB de Villiers,Rahat Ali,5,52,64,49.96,11269,54.53,Right-hand bat,49,34,0,150,NA,NA,lfm,1,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,968,278,RSA,3,189,393,AB de Villiers,Rahat Ali,5,53,65,49.96,11269,54.53,Right-hand bat,52,36,0,150,NA,NA,lfm,1,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,981,291,RSA,3,193,397,AB de Villiers,Rahat Ali,5,55,71,49.96,11269,54.53,Right-hand bat,59,38,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,988,298,RSA,3,195,399,AB de Villiers,Rahat Ali,5,56,73,49.96,11269,54.53,Right-hand bat,60,38,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,989,299,RSA,3,195,399,AB de Villiers,Rahat Ali,5,56,74,49.96,11269,54.53,Right-hand bat,61,38,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,990,300,RSA,3,195,399,AB de Villiers,Rahat Ali,5,56,75,49.96,11269,54.53,Right-hand bat,62,38,0,150,NA,NA,lfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,991,301,RSA,3,195,399,AB de Villiers,Rahat Ali,5,56,76,49.96,11269,54.53,Right-hand bat,63,38,0,150,NA,NA,lfm,1,RSA,seam,yes,20.950413223140497,4.65564738292011
+3,993,303,RSA,3,197,401,AB de Villiers,Rahat Ali,5,57,77,49.96,11269,54.53,Right-hand bat,65,40,0,150,NA,NA,lfm,4,RSA,seam,yes,20.950413223140497,4.65564738292011

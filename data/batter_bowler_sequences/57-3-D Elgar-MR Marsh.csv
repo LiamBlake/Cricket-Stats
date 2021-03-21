@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1668,423,RSA,3,179,446,D Elgar,MR Marsh,2,45,195,42.58,7045,45.33,Left-hand bat,3,5,0,2340.1,42.06,70.9,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1669,424,RSA,3,179,446,D Elgar,MR Marsh,2,45,196,42.58,7045,45.33,Left-hand bat,4,5,0,2340.1,42.06,70.9,rm,2,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1670,425,RSA,3,181,448,D Elgar,MR Marsh,2,47,197,42.58,7045,45.33,Left-hand bat,5,7,0,2340.1,42.06,70.9,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1677,432,RSA,3,181,448,D Elgar,MR Marsh,2,47,198,42.58,7045,45.33,Left-hand bat,6,7,0,2340.1,42.06,70.9,rm,6,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1678,433,RSA,3,187,454,D Elgar,MR Marsh,2,53,199,42.58,7045,45.33,Left-hand bat,7,13,0,2340.1,42.06,70.9,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1679,434,RSA,3,187,454,D Elgar,MR Marsh,2,53,200,42.58,7045,45.33,Left-hand bat,8,13,0,2340.1,42.06,70.9,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1680,435,RSA,3,187,454,D Elgar,MR Marsh,2,53,201,42.58,7045,45.33,Left-hand bat,9,13,0,2340.1,42.06,70.9,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1681,436,RSA,3,187,454,D Elgar,MR Marsh,2,53,202,42.58,7045,45.33,Left-hand bat,10,13,0,2340.1,42.06,70.9,rm,2,RSA,seam,yes,24.416666666666668,8.13888888888889
+3,1682,437,RSA,3,189,456,D Elgar,MR Marsh,2,55,203,42.58,7045,45.33,Left-hand bat,11,15,0,2340.1,42.06,70.9,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889

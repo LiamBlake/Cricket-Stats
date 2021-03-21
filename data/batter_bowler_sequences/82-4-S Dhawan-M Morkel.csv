@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1140,8,IND,0,2,-205,S Dhawan,M Morkel,2,0,4,42.62,3070,66.64,Left-hand bat,2,1,0,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+4,1141,9,IND,0,2,-205,S Dhawan,M Morkel,2,0,5,42.62,3070,66.64,Left-hand bat,3,1,0,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+4,1142,10,IND,0,2,-205,S Dhawan,M Morkel,2,0,6,42.62,3070,66.64,Left-hand bat,4,1,0,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+4,1143,11,IND,0,2,-205,S Dhawan,M Morkel,2,0,7,42.62,3070,66.64,Left-hand bat,5,1,0,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+4,1150,18,IND,0,4,-203,S Dhawan,M Morkel,2,0,8,42.62,3070,66.64,Left-hand bat,6,1,0,15540.5,28.39,54.5,rf,1,RSA,seam,no,18.05,0.95
+4,1162,30,IND,0,16,-191,S Dhawan,M Morkel,2,8,15,42.62,3070,66.64,Left-hand bat,12,6,0,15540.5,28.39,54.5,rf,3,RSA,seam,no,18.05,0.95
+4,1166,34,IND,0,20,-187,S Dhawan,M Morkel,2,11,16,42.62,3070,66.64,Left-hand bat,16,10,0,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+4,1167,35,IND,0,20,-187,S Dhawan,M Morkel,2,11,17,42.62,3070,66.64,Left-hand bat,17,10,0,15540.5,28.39,54.5,rf,4,RSA,seam,no,18.05,0.95
+4,1174,42,IND,0,28,-179,S Dhawan,M Morkel,2,15,18,42.62,3070,66.64,Left-hand bat,18,14,0,15540.5,28.39,54.5,rf,1,RSA,seam,no,18.05,0.95
+4,1178,46,IND,0,30,-177,S Dhawan,M Morkel,2,16,19,42.62,3070,66.64,Left-hand bat,22,16,0,15540.5,28.39,54.5,rf,W,RSA,seam,no,18.05,0.95

@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,619,619,ENG,7,403,403,SCJ Broad,HMRKB Herath,9,0,0,24.48,3177,65.5,Left-hand bat,152,81,1,14292.4,30.38,64.3,lo,0,ENG,spin,no,34.62962962962963,6.9259259259259265
+1,620,620,ENG,7,403,403,SCJ Broad,HMRKB Herath,9,0,1,24.48,3177,65.5,Left-hand bat,153,81,1,14292.4,30.38,64.3,lo,1,ENG,spin,no,34.62962962962963,6.9259259259259265
+1,654,654,ENG,7,457,457,SCJ Broad,HMRKB Herath,9,44,26,24.48,3177,65.5,Left-hand bat,157,83,1,14292.4,30.38,64.3,lo,0,ENG,spin,no,34.62962962962963,6.9259259259259265
+1,655,655,ENG,7,457,457,SCJ Broad,HMRKB Herath,9,44,27,24.48,3177,65.5,Left-hand bat,158,83,1,14292.4,30.38,64.3,lo,1,ENG,spin,no,34.62962962962963,6.9259259259259265
+1,667,667,ENG,7,463,463,SCJ Broad,HMRKB Herath,9,47,33,24.48,3177,65.5,Left-hand bat,164,86,1,14292.4,30.38,64.3,lo,0,ENG,spin,no,34.62962962962963,6.9259259259259265
+1,668,668,ENG,7,463,463,SCJ Broad,HMRKB Herath,9,47,34,24.48,3177,65.5,Left-hand bat,165,86,1,14292.4,30.38,64.3,lo,0,ENG,spin,no,34.62962962962963,6.9259259259259265
+1,669,669,ENG,7,463,463,SCJ Broad,HMRKB Herath,9,47,35,24.48,3177,65.5,Left-hand bat,166,86,1,14292.4,30.38,64.3,lo,0,ENG,spin,no,34.62962962962963,6.9259259259259265
+1,670,670,ENG,7,463,463,SCJ Broad,HMRKB Herath,9,47,36,24.48,3177,65.5,Left-hand bat,167,86,1,14292.4,30.38,64.3,lo,0,ENG,spin,no,34.62962962962963,6.9259259259259265

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1023,712,RSA,7,395,218,K Rabada,Mohammad Abbas,9,0,0,12.45,1010,45.64,Left-hand bat,194,90,1,2820,17.9,44.7,rmf,0,RSA,seam,yes,31.46722164412071,0
+2,1024,713,RSA,7,395,218,K Rabada,Mohammad Abbas,9,0,1,12.45,1010,45.64,Left-hand bat,195,90,1,2820,17.9,44.7,rmf,0,RSA,seam,yes,31.46722164412071,0
+2,1025,714,RSA,7,395,218,K Rabada,Mohammad Abbas,9,0,2,12.45,1010,45.64,Left-hand bat,196,90,1,2820,17.9,44.7,rmf,0,RSA,seam,yes,31.46722164412071,0
+2,1026,715,RSA,7,395,218,K Rabada,Mohammad Abbas,9,0,3,12.45,1010,45.64,Left-hand bat,197,90,1,2820,17.9,44.7,rmf,0,RSA,seam,yes,31.46722164412071,0
+2,1033,722,RSA,7,397,220,K Rabada,Mohammad Abbas,9,1,6,12.45,1010,45.64,Left-hand bat,198,90,1,2820,17.9,44.7,rmf,0,RSA,seam,yes,31.46722164412071,0
+2,1034,723,RSA,7,397,220,K Rabada,Mohammad Abbas,9,1,7,12.45,1010,45.64,Left-hand bat,199,90,1,2820,17.9,44.7,rmf,4,RSA,seam,yes,31.46722164412071,0
+2,1035,724,RSA,7,401,224,K Rabada,Mohammad Abbas,9,5,8,12.45,1010,45.64,Left-hand bat,200,94,1,2820,17.9,44.7,rmf,0,RSA,seam,yes,31.46722164412071,0
+2,1036,725,RSA,7,401,224,K Rabada,Mohammad Abbas,9,5,9,12.45,1010,45.64,Left-hand bat,201,94,1,2820,17.9,44.7,rmf,4,RSA,seam,yes,31.46722164412071,0
+2,1037,726,RSA,7,405,228,K Rabada,Mohammad Abbas,9,9,10,12.45,1010,45.64,Left-hand bat,202,98,1,2820,17.9,44.7,rmf,0,RSA,seam,yes,31.46722164412071,0
+2,1038,727,RSA,7,405,228,K Rabada,Mohammad Abbas,9,9,11,12.45,1010,45.64,Left-hand bat,203,98,1,2820,17.9,44.7,rmf,2,RSA,seam,yes,31.46722164412071,0

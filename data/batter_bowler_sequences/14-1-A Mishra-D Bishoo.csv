@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,894,894,IND,6,488,488,A Mishra,D Bishoo,8,9,16,22.39,1059,59.2,Right-hand bat,240,147,3,4266.1,38.89,73.5,rls,4,WIN,spin,yes,15.918367346938778,21.22448979591837
+1,895,895,IND,6,492,492,A Mishra,D Bishoo,8,13,17,22.39,1059,59.2,Right-hand bat,241,151,3,4266.1,38.89,73.5,rls,0,WIN,spin,yes,15.918367346938778,21.22448979591837
+1,896,896,IND,6,492,492,A Mishra,D Bishoo,8,13,18,22.39,1059,59.2,Right-hand bat,242,151,3,4266.1,38.89,73.5,rls,2,WIN,spin,yes,15.918367346938778,21.22448979591837
+1,897,897,IND,6,494,494,A Mishra,D Bishoo,8,15,19,22.39,1059,59.2,Right-hand bat,243,153,3,4266.1,38.89,73.5,rls,0,WIN,spin,yes,15.918367346938778,21.22448979591837
+1,898,898,IND,6,494,494,A Mishra,D Bishoo,8,15,20,22.39,1059,59.2,Right-hand bat,244,153,3,4266.1,38.89,73.5,rls,2b,WIN,spin,yes,15.918367346938778,21.22448979591837
+1,899,899,IND,6,496,496,A Mishra,D Bishoo,8,15,21,22.39,1059,59.2,Right-hand bat,245,153,3,4266.1,38.89,73.5,rls,0,WIN,spin,yes,15.918367346938778,21.22448979591837
+1,906,906,IND,6,498,498,A Mishra,D Bishoo,8,16,25,22.39,1059,59.2,Right-hand bat,246,153,3,4266.1,38.89,73.5,rls,0,WIN,spin,yes,15.918367346938778,21.22448979591837
+1,907,907,IND,6,498,498,A Mishra,D Bishoo,8,16,26,22.39,1059,59.2,Right-hand bat,247,153,3,4266.1,38.89,73.5,rls,0,WIN,spin,yes,15.918367346938778,21.22448979591837
+1,908,908,IND,6,498,498,A Mishra,D Bishoo,8,16,27,22.39,1059,59.2,Right-hand bat,248,153,3,4266.1,38.89,73.5,rls,1,WIN,spin,yes,15.918367346938778,21.22448979591837
+1,920,920,IND,6,506,506,A Mishra,D Bishoo,8,18,32,22.39,1059,59.2,Right-hand bat,254,159,3,4266.1,38.89,73.5,rls,0,WIN,spin,yes,15.918367346938778,21.22448979591837
+1,921,921,IND,6,506,506,A Mishra,D Bishoo,8,18,33,22.39,1059,59.2,Right-hand bat,255,159,3,4266.1,38.89,73.5,rls,2,WIN,spin,yes,15.918367346938778,21.22448979591837
+1,922,922,IND,6,508,508,A Mishra,D Bishoo,8,20,34,22.39,1059,59.2,Right-hand bat,256,161,3,4266.1,38.89,73.5,rls,0,WIN,spin,yes,15.918367346938778,21.22448979591837
+1,923,923,IND,6,508,508,A Mishra,D Bishoo,8,20,35,22.39,1059,59.2,Right-hand bat,257,161,3,4266.1,38.89,73.5,rls,2,WIN,spin,yes,15.918367346938778,21.22448979591837

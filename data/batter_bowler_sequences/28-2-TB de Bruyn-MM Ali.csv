@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,918,264,RSA,5,133,-229,TB de Bruyn,MM Ali,7,0,6,12,150,48,Right-hand bat,59,17,1,7392,36.82,60,rob,4,ENG,spin,no,19.36875,6.45625
+2,925,271,RSA,5,137,-225,TB de Bruyn,MM Ali,7,4,7,12,150,48,Right-hand bat,60,21,1,7392,36.82,60,rob,0,ENG,spin,no,19.36875,6.45625
+2,926,272,RSA,5,137,-225,TB de Bruyn,MM Ali,7,4,8,12,150,48,Right-hand bat,61,21,1,7392,36.82,60,rob,0,ENG,spin,no,19.36875,6.45625
+2,927,273,RSA,5,137,-225,TB de Bruyn,MM Ali,7,4,9,12,150,48,Right-hand bat,62,21,1,7392,36.82,60,rob,0,ENG,spin,no,19.36875,6.45625
+2,928,274,RSA,5,137,-225,TB de Bruyn,MM Ali,7,4,10,12,150,48,Right-hand bat,63,21,1,7392,36.82,60,rob,0,ENG,spin,no,19.36875,6.45625
+2,929,275,RSA,5,137,-225,TB de Bruyn,MM Ali,7,4,11,12,150,48,Right-hand bat,64,21,1,7392,36.82,60,rob,0,ENG,spin,no,19.36875,6.45625
+2,930,276,RSA,5,137,-225,TB de Bruyn,MM Ali,7,4,12,12,150,48,Right-hand bat,65,21,1,7392,36.82,60,rob,0,ENG,spin,no,19.36875,6.45625
+2,940,286,RSA,5,139,-223,TB de Bruyn,MM Ali,7,4,15,12,150,48,Right-hand bat,69,22,1,7392,36.82,60,rob,2,ENG,spin,no,19.36875,6.45625
+2,941,287,RSA,5,141,-221,TB de Bruyn,MM Ali,7,6,16,12,150,48,Right-hand bat,70,24,1,7392,36.82,60,rob,0,ENG,spin,no,19.36875,6.45625
+2,942,288,RSA,5,141,-221,TB de Bruyn,MM Ali,7,6,17,12,150,48,Right-hand bat,71,24,1,7392,36.82,60,rob,1,ENG,spin,no,19.36875,6.45625

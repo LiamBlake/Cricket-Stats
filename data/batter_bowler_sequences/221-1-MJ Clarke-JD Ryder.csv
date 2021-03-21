@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,338,338,AUS,7,154,154,MJ Clarke,JD Ryder,5,61,155,45.89,4767,53.91,Right-hand bat,6,0,1,54,12.5,27,rm,0,AUS,seam,no,18.846875,1.528125
+1,339,339,AUS,7,154,154,MJ Clarke,JD Ryder,5,61,156,45.89,4767,53.91,Right-hand bat,7,0,1,54,12.5,27,rm,0,AUS,seam,no,18.846875,1.528125
+1,340,340,AUS,7,154,154,MJ Clarke,JD Ryder,5,61,157,45.89,4767,53.91,Right-hand bat,8,0,1,54,12.5,27,rm,0,AUS,seam,no,18.846875,1.528125
+1,341,341,AUS,7,154,154,MJ Clarke,JD Ryder,5,61,158,45.89,4767,53.91,Right-hand bat,9,0,1,54,12.5,27,rm,0,AUS,seam,no,18.846875,1.528125
+1,342,342,AUS,7,154,154,MJ Clarke,JD Ryder,5,61,159,45.89,4767,53.91,Right-hand bat,10,0,1,54,12.5,27,rm,0,AUS,seam,no,18.846875,1.528125
+1,343,343,AUS,7,154,154,MJ Clarke,JD Ryder,5,61,160,45.89,4767,53.91,Right-hand bat,11,0,1,54,12.5,27,rm,1,AUS,seam,no,18.846875,1.528125
+1,458,458,AUS,9,212,212,MJ Clarke,JD Ryder,5,97,215,45.89,4767,53.91,Right-hand bat,18,5,1,54,12.5,27,rm,1,AUS,seam,no,18.846875,1.528125
+1,463,463,AUS,9,214,214,MJ Clarke,JD Ryder,5,98,216,45.89,4767,53.91,Right-hand bat,23,7,1,54,12.5,27,rm,W,AUS,seam,no,18.846875,1.528125

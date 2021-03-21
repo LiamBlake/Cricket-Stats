@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,800,593,AUS,8,399,297,SR Clark,GP Swann,10,0,0,14.23,345,70.14,Right-hand bat,82,45,0,2610.5,32.52,65.3,rob,1,ENG,spin,no,27,0
+2,808,601,AUS,8,411,309,SR Clark,GP Swann,10,6,7,14.23,345,70.14,Right-hand bat,84,52,0,2610.5,32.52,65.3,rob,0,ENG,spin,no,27,0
+2,809,602,AUS,8,411,309,SR Clark,GP Swann,10,6,8,14.23,345,70.14,Right-hand bat,85,52,0,2610.5,32.52,65.3,rob,0,ENG,spin,no,27,0
+2,810,603,AUS,8,411,309,SR Clark,GP Swann,10,6,9,14.23,345,70.14,Right-hand bat,86,52,0,2610.5,32.52,65.3,rob,0,ENG,spin,no,27,0
+2,811,604,AUS,8,411,309,SR Clark,GP Swann,10,6,10,14.23,345,70.14,Right-hand bat,87,52,0,2610.5,32.52,65.3,rob,6,ENG,spin,no,27,0
+2,812,605,AUS,8,417,315,SR Clark,GP Swann,10,12,11,14.23,345,70.14,Right-hand bat,88,58,0,2610.5,32.52,65.3,rob,0,ENG,spin,no,27,0
+2,813,606,AUS,8,417,315,SR Clark,GP Swann,10,12,12,14.23,345,70.14,Right-hand bat,89,58,0,2610.5,32.52,65.3,rob,1,ENG,spin,no,27,0
+2,823,616,AUS,8,435,333,SR Clark,GP Swann,10,28,18,14.23,345,70.14,Right-hand bat,93,60,0,2610.5,32.52,65.3,rob,2,ENG,spin,no,27,0
+2,824,617,AUS,8,437,335,SR Clark,GP Swann,10,30,19,14.23,345,70.14,Right-hand bat,94,62,0,2610.5,32.52,65.3,rob,2,ENG,spin,no,27,0
+2,825,618,AUS,8,439,337,SR Clark,GP Swann,10,32,20,14.23,345,70.14,Right-hand bat,95,64,0,2610.5,32.52,65.3,rob,0,ENG,spin,no,27,0

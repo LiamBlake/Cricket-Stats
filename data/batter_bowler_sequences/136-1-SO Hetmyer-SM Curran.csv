@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,488,488,WIN,4,232,232,SO Hetmyer,SM Curran,6,35,42,32.09,908,77.75,Left-hand bat,62,37,0,810.5,31.66,54.3,lmf,3,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,498,498,WIN,5,240,240,SO Hetmyer,SM Curran,6,38,43,32.09,908,77.75,Left-hand bat,66,44,0,810.5,31.66,54.3,lmf,0,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,499,499,WIN,5,240,240,SO Hetmyer,SM Curran,6,38,44,32.09,908,77.75,Left-hand bat,67,44,0,810.5,31.66,54.3,lmf,0,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,500,500,WIN,5,240,240,SO Hetmyer,SM Curran,6,38,45,32.09,908,77.75,Left-hand bat,68,44,0,810.5,31.66,54.3,lmf,4,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,501,501,WIN,5,244,244,SO Hetmyer,SM Curran,6,42,46,32.09,908,77.75,Left-hand bat,69,48,0,810.5,31.66,54.3,lmf,0,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,502,502,WIN,5,244,244,SO Hetmyer,SM Curran,6,42,47,32.09,908,77.75,Left-hand bat,70,48,0,810.5,31.66,54.3,lmf,2,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,503,503,WIN,5,246,246,SO Hetmyer,SM Curran,6,44,48,32.09,908,77.75,Left-hand bat,71,50,0,810.5,31.66,54.3,lmf,4,WIN,seam,yes,19.01851851851852,9.50925925925926

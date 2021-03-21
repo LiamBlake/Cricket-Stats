@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2201,485,AUS,8,262,-102,BW Hilfenhaus,CT Tremlett,10,3,5,15.12,438,55.25,Right-hand bat,111,67,2,1590.4,26.1,53.1,rmf,4,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,2202,486,AUS,8,266,-98,BW Hilfenhaus,CT Tremlett,10,7,6,15.12,438,55.25,Right-hand bat,112,71,2,1590.4,26.1,53.1,rmf,0,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,2203,487,AUS,8,266,-98,BW Hilfenhaus,CT Tremlett,10,7,7,15.12,438,55.25,Right-hand bat,113,71,2,1590.4,26.1,53.1,rmf,0,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,2204,488,AUS,8,266,-98,BW Hilfenhaus,CT Tremlett,10,7,8,15.12,438,55.25,Right-hand bat,114,71,2,1590.4,26.1,53.1,rmf,0,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,2205,489,AUS,8,266,-98,BW Hilfenhaus,CT Tremlett,10,7,9,15.12,438,55.25,Right-hand bat,115,71,2,1590.4,26.1,53.1,rmf,0,AUS,seam,yes,34.81111111111111,5.355555555555555

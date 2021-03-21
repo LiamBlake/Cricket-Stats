@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1564,14,SRL,0,5,-456,JK Silva,MM Ali,2,3,5,29.01,5191,40.24,Right-hand bat,2,1,0,9636.2,37.9,62.9,rob,0,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1565,15,SRL,0,5,-456,JK Silva,MM Ali,2,3,6,29.01,5191,40.24,Right-hand bat,3,1,0,9636.2,37.9,62.9,rob,1,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1574,24,SRL,0,7,-454,JK Silva,MM Ali,2,5,8,29.01,5191,40.24,Right-hand bat,6,2,0,9636.2,37.9,62.9,rob,0,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1575,25,SRL,0,7,-454,JK Silva,MM Ali,2,5,9,29.01,5191,40.24,Right-hand bat,7,2,0,9636.2,37.9,62.9,rob,0,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1576,26,SRL,0,7,-454,JK Silva,MM Ali,2,5,10,29.01,5191,40.24,Right-hand bat,8,2,0,9636.2,37.9,62.9,rob,1,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1664,114,SRL,0,42,-419,JK Silva,MM Ali,2,26,51,29.01,5191,40.24,Right-hand bat,12,7,0,9636.2,37.9,62.9,rob,1,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1678,128,SRL,0,48,-413,JK Silva,MM Ali,2,28,54,29.01,5191,40.24,Right-hand bat,20,10,0,9636.2,37.9,62.9,rob,1,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1680,130,SRL,0,50,-411,JK Silva,MM Ali,2,29,55,29.01,5191,40.24,Right-hand bat,22,12,0,9636.2,37.9,62.9,rob,1,ENG,spin,no,5.171296296296297,25.85648148148148

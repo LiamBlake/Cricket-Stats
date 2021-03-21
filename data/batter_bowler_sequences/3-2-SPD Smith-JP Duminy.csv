@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,763,304,AUS,2,138,-121,SPD Smith,JP Duminy,4,42,77,57.48,7592,56.78,Right-hand bat,3,1,0,2472,38.52,65,rob,0,AUS,spin,no,23.8828125,7.9609375
+2,764,305,AUS,2,138,-121,SPD Smith,JP Duminy,4,42,78,57.48,7592,56.78,Right-hand bat,4,1,0,2472,38.52,65,rob,4,AUS,spin,no,23.8828125,7.9609375
+2,765,306,AUS,2,142,-117,SPD Smith,JP Duminy,4,46,79,57.48,7592,56.78,Right-hand bat,5,5,0,2472,38.52,65,rob,0,AUS,spin,no,23.8828125,7.9609375
+2,772,313,AUS,2,142,-117,SPD Smith,JP Duminy,4,46,80,57.48,7592,56.78,Right-hand bat,6,5,0,2472,38.52,65,rob,1,AUS,spin,no,23.8828125,7.9609375
+2,777,318,AUS,2,144,-115,SPD Smith,JP Duminy,4,47,81,57.48,7592,56.78,Right-hand bat,11,7,0,2472,38.52,65,rob,1,AUS,spin,no,23.8828125,7.9609375
+2,785,326,AUS,2,150,-109,SPD Smith,JP Duminy,4,52,88,57.48,7592,56.78,Right-hand bat,13,9,0,2472,38.52,65,rob,0,AUS,spin,no,23.8828125,7.9609375
+2,786,327,AUS,2,150,-109,SPD Smith,JP Duminy,4,52,89,57.48,7592,56.78,Right-hand bat,14,9,0,2472,38.52,65,rob,0,AUS,spin,no,23.8828125,7.9609375
+2,787,328,AUS,2,150,-109,SPD Smith,JP Duminy,4,52,90,57.48,7592,56.78,Right-hand bat,15,9,0,2472,38.52,65,rob,1,AUS,spin,no,23.8828125,7.9609375
+2,798,339,AUS,2,158,-101,SPD Smith,JP Duminy,4,57,97,57.48,7592,56.78,Right-hand bat,20,13,0,2472,38.52,65,rob,1,AUS,spin,no,23.8828125,7.9609375

@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1923,133,IND,3,35,-251,PA Patel,KA Maharaj,5,5,19,32.71,1890,48.46,Left-hand bat,1,1,0,3072.5,26.78,53.9,lo,0,RSA,spin,no,22.33375,3.9412499999999993
+4,1924,134,IND,3,35,-251,PA Patel,KA Maharaj,5,5,20,32.71,1890,48.46,Left-hand bat,2,1,0,3072.5,26.78,53.9,lo,0,RSA,spin,no,22.33375,3.9412499999999993
+4,1925,135,IND,3,35,-251,PA Patel,KA Maharaj,5,5,21,32.71,1890,48.46,Left-hand bat,3,1,0,3072.5,26.78,53.9,lo,0,RSA,spin,no,22.33375,3.9412499999999993
+4,1926,136,IND,3,35,-251,PA Patel,KA Maharaj,5,5,22,32.71,1890,48.46,Left-hand bat,4,1,0,3072.5,26.78,53.9,lo,0,RSA,spin,no,22.33375,3.9412499999999993
+4,1927,137,IND,3,35,-251,PA Patel,KA Maharaj,5,5,23,32.71,1890,48.46,Left-hand bat,5,1,0,3072.5,26.78,53.9,lo,0,RSA,spin,no,22.33375,3.9412499999999993

@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1333,78,WIN,3,45,-11,SD Hope,RA Jadeja,2,28,38,30.25,3021,43.06,Right-hand bat,0,0,0,10944.2,23.5,59.1,lo,0,WIN,spin,yes,17.6,11.733333333333333
+3,1334,79,WIN,3,45,-11,SD Hope,RA Jadeja,2,28,39,30.25,3021,43.06,Right-hand bat,1,0,0,10944.2,23.5,59.1,lo,0,WIN,spin,yes,17.6,11.733333333333333
+3,1335,80,WIN,3,45,-11,SD Hope,RA Jadeja,2,28,40,30.25,3021,43.06,Right-hand bat,2,0,0,10944.2,23.5,59.1,lo,0,WIN,spin,yes,17.6,11.733333333333333
+3,1336,81,WIN,3,45,-11,SD Hope,RA Jadeja,2,28,41,30.25,3021,43.06,Right-hand bat,3,0,0,10944.2,23.5,59.1,lo,W,WIN,spin,yes,17.6,11.733333333333333

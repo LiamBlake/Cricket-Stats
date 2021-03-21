@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,33,33,IND,0,30,30,W Jaffer,SR Clark,1,4,12,34.96,3767,48.26,Right-hand bat,0,0,0,3132.4,19.98,46.1,rfm,1,AUS,seam,yes,24.99,4.409999999999999
+1,86,86,IND,0,57,57,W Jaffer,SR Clark,1,16,37,34.96,3767,48.26,Right-hand bat,28,14,0,3132.4,19.98,46.1,rfm,0,AUS,seam,yes,24.99,4.409999999999999
+1,87,87,IND,0,57,57,W Jaffer,SR Clark,1,16,38,34.96,3767,48.26,Right-hand bat,29,14,0,3132.4,19.98,46.1,rfm,0,AUS,seam,yes,24.99,4.409999999999999
+1,94,94,IND,0,57,57,W Jaffer,SR Clark,1,16,39,34.96,3767,48.26,Right-hand bat,30,14,0,3132.4,19.98,46.1,rfm,0,AUS,seam,yes,24.99,4.409999999999999
+1,95,95,IND,0,57,57,W Jaffer,SR Clark,1,16,40,34.96,3767,48.26,Right-hand bat,31,14,0,3132.4,19.98,46.1,rfm,0,AUS,seam,yes,24.99,4.409999999999999
+1,96,96,IND,0,57,57,W Jaffer,SR Clark,1,16,41,34.96,3767,48.26,Right-hand bat,32,14,0,3132.4,19.98,46.1,rfm,0,AUS,seam,yes,24.99,4.409999999999999
+1,97,97,IND,0,57,57,W Jaffer,SR Clark,1,16,42,34.96,3767,48.26,Right-hand bat,33,14,0,3132.4,19.98,46.1,rfm,0,AUS,seam,yes,24.99,4.409999999999999
+1,98,98,IND,0,57,57,W Jaffer,SR Clark,1,16,43,34.96,3767,48.26,Right-hand bat,34,14,0,3132.4,19.98,46.1,rfm,0,AUS,seam,yes,24.99,4.409999999999999
+1,99,99,IND,0,57,57,W Jaffer,SR Clark,1,16,44,34.96,3767,48.26,Right-hand bat,35,14,0,3132.4,19.98,46.1,rfm,0,AUS,seam,yes,24.99,4.409999999999999
+1,106,106,IND,1,57,57,W Jaffer,SR Clark,1,16,45,34.96,3767,48.26,Right-hand bat,36,14,0,3132.4,19.98,46.1,rfm,0,AUS,seam,yes,24.99,4.409999999999999
+1,107,107,IND,1,57,57,W Jaffer,SR Clark,1,16,46,34.96,3767,48.26,Right-hand bat,37,14,0,3132.4,19.98,46.1,rfm,0,AUS,seam,yes,24.99,4.409999999999999
+1,108,108,IND,1,57,57,W Jaffer,SR Clark,1,16,47,34.96,3767,48.26,Right-hand bat,38,14,0,3132.4,19.98,46.1,rfm,0,AUS,seam,yes,24.99,4.409999999999999
+1,109,109,IND,1,57,57,W Jaffer,SR Clark,1,16,48,34.96,3767,48.26,Right-hand bat,39,14,0,3132.4,19.98,46.1,rfm,0,AUS,seam,yes,24.99,4.409999999999999
+1,110,110,IND,1,57,57,W Jaffer,SR Clark,1,16,49,34.96,3767,48.26,Right-hand bat,40,14,0,3132.4,19.98,46.1,rfm,0,AUS,seam,yes,24.99,4.409999999999999
+1,111,111,IND,1,57,57,W Jaffer,SR Clark,1,16,50,34.96,3767,48.26,Right-hand bat,41,14,0,3132.4,19.98,46.1,rfm,0,AUS,seam,yes,24.99,4.409999999999999

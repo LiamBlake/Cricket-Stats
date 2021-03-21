@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1040,729,RSA,8,407,230,DW Steyn,Mohammad Amir,10,0,0,13.82,2757,44.61,Right-hand bat,189,74,3,7404.1,30.73,64.3,lf,1,RSA,seam,yes,31.46722164412071,0
+2,1051,740,RSA,9,419,242,DW Steyn,Mohammad Amir,10,2,2,13.82,2757,44.61,Right-hand bat,194,75,4,7404.1,30.73,64.3,lf,4,RSA,seam,yes,31.46722164412071,0
+2,1052,741,RSA,9,423,246,DW Steyn,Mohammad Amir,10,6,3,13.82,2757,44.61,Right-hand bat,195,79,4,7404.1,30.73,64.3,lf,0,RSA,seam,yes,31.46722164412071,0
+2,1053,742,RSA,9,423,246,DW Steyn,Mohammad Amir,10,6,4,13.82,2757,44.61,Right-hand bat,196,79,4,7404.1,30.73,64.3,lf,0,RSA,seam,yes,31.46722164412071,0
+2,1054,743,RSA,9,423,246,DW Steyn,Mohammad Amir,10,6,5,13.82,2757,44.61,Right-hand bat,197,79,4,7404.1,30.73,64.3,lf,6,RSA,seam,yes,31.46722164412071,0
+2,1055,744,RSA,9,429,252,DW Steyn,Mohammad Amir,10,12,6,13.82,2757,44.61,Right-hand bat,198,85,4,7404.1,30.73,64.3,lf,1nb,RSA,seam,yes,31.46722164412071,0
+2,1056,745,RSA,9,430,253,DW Steyn,Mohammad Amir,10,12,7,13.82,2757,44.61,Right-hand bat,199,86,4,7404.1,30.73,64.3,lf,0,RSA,seam,yes,31.46722164412071,0
+2,1057,746,RSA,9,430,253,DW Steyn,Mohammad Amir,10,12,8,13.82,2757,44.61,Right-hand bat,200,86,4,7404.1,30.73,64.3,lf,1,RSA,seam,yes,31.46722164412071,0

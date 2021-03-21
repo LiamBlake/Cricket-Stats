@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,468,468,IND,5,247,247,RG Sharma,MJ Santner,6,27,59,34.96,1974,53.14,Right-hand bat,96,64,2,1356.3,30.55,67.9,lo,1,IND,spin,yes,7.791020408163266,26.294693877551023
+1,472,472,IND,5,249,249,RG Sharma,MJ Santner,6,28,60,34.96,1974,53.14,Right-hand bat,100,66,2,1356.3,30.55,67.9,lo,0,IND,spin,yes,7.791020408163266,26.294693877551023
+1,473,473,IND,5,249,249,RG Sharma,MJ Santner,6,28,61,34.96,1974,53.14,Right-hand bat,101,66,2,1356.3,30.55,67.9,lo,2,IND,spin,yes,7.791020408163266,26.294693877551023
+1,483,483,IND,5,257,257,RG Sharma,MJ Santner,6,34,64,34.96,1974,53.14,Right-hand bat,105,69,2,1356.3,30.55,67.9,lo,1,IND,spin,yes,7.791020408163266,26.294693877551023
+1,497,497,IND,5,261,261,RG Sharma,MJ Santner,6,35,66,34.96,1974,53.14,Right-hand bat,113,71,2,1356.3,30.55,67.9,lo,W,IND,spin,yes,7.791020408163266,26.294693877551023

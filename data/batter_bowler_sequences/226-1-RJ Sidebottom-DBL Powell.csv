@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,585,585,ENG,7,257,257,RJ Sidebottom,DBL Powell,9,0,3,16.55,880,33.86,Left-hand bat,105,42,2,6564.3,45.81,81,rfm,0,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,586,586,ENG,7,257,257,RJ Sidebottom,DBL Powell,9,0,4,16.55,880,33.86,Left-hand bat,106,42,2,6564.3,45.81,81,rfm,0,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,587,587,ENG,7,257,257,RJ Sidebottom,DBL Powell,9,0,5,16.55,880,33.86,Left-hand bat,107,42,2,6564.3,45.81,81,rfm,0,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,588,588,ENG,7,257,257,RJ Sidebottom,DBL Powell,9,0,6,16.55,880,33.86,Left-hand bat,108,42,2,6564.3,45.81,81,rfm,4lb,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,599,599,ENG,7,269,269,RJ Sidebottom,DBL Powell,9,0,9,16.55,880,33.86,Left-hand bat,113,49,2,6564.3,45.81,81,rfm,0,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,600,600,ENG,7,269,269,RJ Sidebottom,DBL Powell,9,0,10,16.55,880,33.86,Left-hand bat,114,49,2,6564.3,45.81,81,rfm,0,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,610,610,ENG,7,279,279,RJ Sidebottom,DBL Powell,9,4,13,16.55,880,33.86,Left-hand bat,118,54,2,6564.3,45.81,81,rfm,0,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,611,611,ENG,7,279,279,RJ Sidebottom,DBL Powell,9,4,14,16.55,880,33.86,Left-hand bat,119,54,2,6564.3,45.81,81,rfm,0,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,612,612,ENG,7,279,279,RJ Sidebottom,DBL Powell,9,4,15,16.55,880,33.86,Left-hand bat,120,54,2,6564.3,45.81,81,rfm,0,WIN,seam,yes,16.91111111111111,8.455555555555556

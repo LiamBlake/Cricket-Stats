@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2180,325,ZIM,9,205,-285,DT Tiripano,MDK Perera,9,4,30,24.71,605,28.59,Right-hand bat,36,27,0,3714.1,27.85,55.4,rob,4,ZIM,spin,yes,11.662064431295201,20.825115055884286
+4,2181,326,ZIM,9,209,-281,DT Tiripano,MDK Perera,9,8,31,24.71,605,28.59,Right-hand bat,37,31,0,3714.1,27.85,55.4,rob,0,ZIM,spin,yes,11.662064431295201,20.825115055884286
+4,2182,327,ZIM,9,209,-281,DT Tiripano,MDK Perera,9,8,32,24.71,605,28.59,Right-hand bat,38,31,0,3714.1,27.85,55.4,rob,0,ZIM,spin,yes,11.662064431295201,20.825115055884286
+4,2183,328,ZIM,9,209,-281,DT Tiripano,MDK Perera,9,8,33,24.71,605,28.59,Right-hand bat,39,31,0,3714.1,27.85,55.4,rob,1,ZIM,spin,yes,11.662064431295201,20.825115055884286
+4,2192,337,ZIM,9,219,-271,DT Tiripano,MDK Perera,9,10,36,24.71,605,28.59,Right-hand bat,42,33,0,3714.1,27.85,55.4,rob,0,ZIM,spin,yes,11.662064431295201,20.825115055884286
+4,2193,338,ZIM,9,219,-271,DT Tiripano,MDK Perera,9,10,37,24.71,605,28.59,Right-hand bat,43,33,0,3714.1,27.85,55.4,rob,2,ZIM,spin,yes,11.662064431295201,20.825115055884286
+4,2194,339,ZIM,9,221,-269,DT Tiripano,MDK Perera,9,12,38,24.71,605,28.59,Right-hand bat,44,35,0,3714.1,27.85,55.4,rob,0,ZIM,spin,yes,11.662064431295201,20.825115055884286
+4,2195,340,ZIM,9,221,-269,DT Tiripano,MDK Perera,9,12,39,24.71,605,28.59,Right-hand bat,45,35,0,3714.1,27.85,55.4,rob,1,ZIM,spin,yes,11.662064431295201,20.825115055884286

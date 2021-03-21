@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,318,318,ENG,5,158,158,JC Buttler,UT Yadav,7,3,19,30.04,1191,58.01,Right-hand bat,54,30,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,319,319,ENG,5,158,158,JC Buttler,UT Yadav,7,3,20,30.04,1191,58.01,Right-hand bat,55,30,1,3960.5,38.32,61,rf,4,IND,seam,yes,14.21875,18.28125
+1,320,320,ENG,5,162,162,JC Buttler,UT Yadav,7,7,21,30.04,1191,58.01,Right-hand bat,56,34,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,321,321,ENG,5,162,162,JC Buttler,UT Yadav,7,7,22,30.04,1191,58.01,Right-hand bat,57,34,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,322,322,ENG,5,162,162,JC Buttler,UT Yadav,7,7,23,30.04,1191,58.01,Right-hand bat,58,34,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,323,323,ENG,5,162,162,JC Buttler,UT Yadav,7,7,24,30.04,1191,58.01,Right-hand bat,59,34,1,3960.5,38.32,61,rf,4,IND,seam,yes,14.21875,18.28125
+1,333,333,ENG,5,178,178,JC Buttler,UT Yadav,7,16,29,30.04,1191,58.01,Right-hand bat,63,39,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,334,334,ENG,5,178,178,JC Buttler,UT Yadav,7,16,30,30.04,1191,58.01,Right-hand bat,64,39,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,335,335,ENG,5,178,178,JC Buttler,UT Yadav,7,16,31,30.04,1191,58.01,Right-hand bat,65,39,1,3960.5,38.32,61,rf,1,IND,seam,yes,14.21875,18.28125
+1,342,342,ENG,5,182,182,JC Buttler,UT Yadav,7,19,37,30.04,1191,58.01,Right-hand bat,66,40,1,3960.5,38.32,61,rf,2,IND,seam,yes,14.21875,18.28125
+1,343,343,ENG,5,184,184,JC Buttler,UT Yadav,7,21,38,30.04,1191,58.01,Right-hand bat,67,42,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,344,344,ENG,5,184,184,JC Buttler,UT Yadav,7,21,39,30.04,1191,58.01,Right-hand bat,68,42,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,345,345,ENG,5,184,184,JC Buttler,UT Yadav,7,21,40,30.04,1191,58.01,Right-hand bat,69,42,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,346,346,ENG,5,184,184,JC Buttler,UT Yadav,7,21,41,30.04,1191,58.01,Right-hand bat,70,42,1,3960.5,38.32,61,rf,0,IND,seam,yes,14.21875,18.28125
+1,347,347,ENG,5,184,184,JC Buttler,UT Yadav,7,21,42,30.04,1191,58.01,Right-hand bat,71,42,1,3960.5,38.32,61,rf,4,IND,seam,yes,14.21875,18.28125

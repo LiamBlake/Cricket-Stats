@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1871,243,PAK,6,136,-203,Yasir Shah,IS Sodhi,8,0,0,10,118,33.89,Right-hand bat,26,26,1,2250.4,52.81,83.4,rls,4,NZL,spin,yes,13,30.333333333333332
+3,1872,244,PAK,6,140,-199,Yasir Shah,IS Sodhi,8,4,1,10,118,33.89,Right-hand bat,27,30,1,2250.4,52.81,83.4,rls,6,NZL,spin,yes,13,30.333333333333332
+3,1873,245,PAK,6,146,-193,Yasir Shah,IS Sodhi,8,10,2,10,118,33.89,Right-hand bat,28,36,1,2250.4,52.81,83.4,rls,0,NZL,spin,yes,13,30.333333333333332
+3,1874,246,PAK,6,146,-193,Yasir Shah,IS Sodhi,8,10,3,10,118,33.89,Right-hand bat,29,36,1,2250.4,52.81,83.4,rls,W,NZL,spin,yes,13,30.333333333333332

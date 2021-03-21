@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,765,765,IND,8,558,558,Mohammed Shami,CBRLS Kumara,10,21,15,13.84,369,71.27,Right-hand bat,139,115,1,1320,40.78,57.3,rf,1,IND,seam,yes,20.216712580348943,17.689623507805326
+1,767,767,IND,8,560,560,Mohammed Shami,CBRLS Kumara,10,22,16,13.84,369,71.27,Right-hand bat,141,117,1,1320,40.78,57.3,rf,1,IND,seam,yes,20.216712580348943,17.689623507805326
+1,769,769,IND,8,562,562,Mohammed Shami,CBRLS Kumara,10,23,17,13.84,369,71.27,Right-hand bat,143,119,1,1320,40.78,57.3,rf,0,IND,seam,yes,20.216712580348943,17.689623507805326
+1,770,770,IND,8,562,562,Mohammed Shami,CBRLS Kumara,10,23,18,13.84,369,71.27,Right-hand bat,144,119,1,1320,40.78,57.3,rf,0,IND,seam,yes,20.216712580348943,17.689623507805326
+1,784,784,IND,8,579,579,Mohammed Shami,CBRLS Kumara,10,30,26,13.84,369,71.27,Right-hand bat,146,119,1,1320,40.78,57.3,rf,0,IND,seam,yes,20.216712580348943,17.689623507805326
+1,785,785,IND,8,579,579,Mohammed Shami,CBRLS Kumara,10,30,27,13.84,369,71.27,Right-hand bat,147,119,1,1320,40.78,57.3,rf,0,IND,seam,yes,20.216712580348943,17.689623507805326
+1,786,786,IND,8,579,579,Mohammed Shami,CBRLS Kumara,10,30,28,13.84,369,71.27,Right-hand bat,148,119,1,1320,40.78,57.3,rf,0,IND,seam,yes,20.216712580348943,17.689623507805326
+1,787,787,IND,8,579,579,Mohammed Shami,CBRLS Kumara,10,30,29,13.84,369,71.27,Right-hand bat,149,119,1,1320,40.78,57.3,rf,W,IND,seam,yes,20.216712580348943,17.689623507805326

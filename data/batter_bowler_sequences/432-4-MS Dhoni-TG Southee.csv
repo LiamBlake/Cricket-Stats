@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1869,515,IND,6,303,-103,MS Dhoni,TG Southee,7,21,17,38.51,7337,59.84,Right-hand bat,114,57,3,6306.5,30.79,58.9,rmf,1,NZL,seam,yes,27.93,1.47
+4,1882,528,IND,7,324,-82,MS Dhoni,TG Southee,7,23,19,38.51,7337,59.84,Right-hand bat,120,63,3,6306.5,30.79,58.9,rmf,1,NZL,seam,yes,27.93,1.47
+4,1894,540,IND,7,330,-76,MS Dhoni,TG Southee,7,25,22,38.51,7337,59.84,Right-hand bat,126,68,3,6306.5,30.79,58.9,rmf,1,NZL,seam,yes,27.93,1.47
+4,1906,552,IND,7,338,-68,MS Dhoni,TG Southee,7,26,23,38.51,7337,59.84,Right-hand bat,132,76,3,6306.5,30.79,58.9,rmf,1,NZL,seam,yes,27.93,1.47

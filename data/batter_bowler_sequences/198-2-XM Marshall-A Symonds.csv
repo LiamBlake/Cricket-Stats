@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,522,106,WIN,3,89,-162,XM Marshall,A Symonds,4,22,31,24.87,358,55.58,Right-hand bat,0,0,0,1908,36.47,82.9,NA,4,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,523,107,WIN,3,93,-158,XM Marshall,A Symonds,4,26,32,24.87,358,55.58,Right-hand bat,1,4,0,1908,36.47,82.9,NA,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,524,108,WIN,3,93,-158,XM Marshall,A Symonds,4,26,33,24.87,358,55.58,Right-hand bat,2,4,0,1908,36.47,82.9,NA,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,525,109,WIN,3,93,-158,XM Marshall,A Symonds,4,26,34,24.87,358,55.58,Right-hand bat,3,4,0,1908,36.47,82.9,NA,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,526,110,WIN,3,93,-158,XM Marshall,A Symonds,4,26,35,24.87,358,55.58,Right-hand bat,4,4,0,1908,36.47,82.9,NA,1,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,547,131,WIN,3,106,-145,XM Marshall,A Symonds,4,38,48,24.87,358,55.58,Right-hand bat,12,5,0,1908,36.47,82.9,NA,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,548,132,WIN,3,106,-145,XM Marshall,A Symonds,4,38,49,24.87,358,55.58,Right-hand bat,13,5,0,1908,36.47,82.9,NA,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,549,133,WIN,3,106,-145,XM Marshall,A Symonds,4,38,50,24.87,358,55.58,Right-hand bat,14,5,0,1908,36.47,82.9,NA,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,550,134,WIN,3,106,-145,XM Marshall,A Symonds,4,38,51,24.87,358,55.58,Right-hand bat,15,5,0,1908,36.47,82.9,NA,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,551,135,WIN,3,106,-145,XM Marshall,A Symonds,4,38,52,24.87,358,55.58,Right-hand bat,16,5,0,1908,36.47,82.9,NA,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,552,136,WIN,3,106,-145,XM Marshall,A Symonds,4,38,53,24.87,358,55.58,Right-hand bat,17,5,0,1908,36.47,82.9,NA,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,571,155,WIN,3,108,-143,XM Marshall,A Symonds,4,39,60,24.87,358,55.58,Right-hand bat,24,5,0,1908,36.47,82.9,NA,W,WIN,seam,yes,27.44326530612245,9.499591836734693

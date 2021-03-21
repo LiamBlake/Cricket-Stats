@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,337,337,PAK,2,187,187,Khurram Manzoor,DPMD Jayawardene,1,86,181,34.14,542,44.09,Right-hand bat,0,0,0,522.1,56.4,104.6,rm,1,SRL,seam,no,19.80532598714417,21.043158861340682
+1,339,339,PAK,2,189,189,Khurram Manzoor,DPMD Jayawardene,1,87,182,34.14,542,44.09,Right-hand bat,2,2,0,522.1,56.4,104.6,rm,0,SRL,seam,no,19.80532598714417,21.043158861340682
+1,340,340,PAK,2,189,189,Khurram Manzoor,DPMD Jayawardene,1,87,183,34.14,542,44.09,Right-hand bat,3,2,0,522.1,56.4,104.6,rm,0,SRL,seam,no,19.80532598714417,21.043158861340682
+1,341,341,PAK,2,189,189,Khurram Manzoor,DPMD Jayawardene,1,87,184,34.14,542,44.09,Right-hand bat,4,2,0,522.1,56.4,104.6,rm,0,SRL,seam,no,19.80532598714417,21.043158861340682
+1,342,342,PAK,2,189,189,Khurram Manzoor,DPMD Jayawardene,1,87,185,34.14,542,44.09,Right-hand bat,5,2,0,522.1,56.4,104.6,rm,4,SRL,seam,no,19.80532598714417,21.043158861340682
+1,349,349,PAK,2,199,199,Khurram Manzoor,DPMD Jayawardene,1,91,186,34.14,542,44.09,Right-hand bat,6,6,0,522.1,56.4,104.6,rm,1,SRL,seam,no,19.80532598714417,21.043158861340682

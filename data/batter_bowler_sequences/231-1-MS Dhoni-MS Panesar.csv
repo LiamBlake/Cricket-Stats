@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,834,834,IND,5,372,372,MS Dhoni,MS Panesar,7,11,47,36.14,2873,62.89,Right-hand bat,102,63,0,8172.1,32.88,68.1,lo,0,IND,spin,yes,17.74234693877551,20.471938775510207
+1,835,835,IND,5,372,372,MS Dhoni,MS Panesar,7,11,48,36.14,2873,62.89,Right-hand bat,103,63,0,8172.1,32.88,68.1,lo,0,IND,spin,yes,17.74234693877551,20.471938775510207
+1,836,836,IND,5,372,372,MS Dhoni,MS Panesar,7,11,49,36.14,2873,62.89,Right-hand bat,104,63,0,8172.1,32.88,68.1,lo,0,IND,spin,yes,17.74234693877551,20.471938775510207
+1,837,837,IND,5,372,372,MS Dhoni,MS Panesar,7,11,50,36.14,2873,62.89,Right-hand bat,105,63,0,8172.1,32.88,68.1,lo,0,IND,spin,yes,17.74234693877551,20.471938775510207
+1,838,838,IND,5,372,372,MS Dhoni,MS Panesar,7,11,51,36.14,2873,62.89,Right-hand bat,106,63,0,8172.1,32.88,68.1,lo,1,IND,spin,yes,17.74234693877551,20.471938775510207
+1,846,846,IND,5,378,378,MS Dhoni,MS Panesar,7,13,53,36.14,2873,62.89,Right-hand bat,108,65,0,8172.1,32.88,68.1,lo,1,IND,spin,yes,17.74234693877551,20.471938775510207
+1,858,858,IND,6,386,386,MS Dhoni,MS Panesar,7,15,55,36.14,2873,62.89,Right-hand bat,114,66,1,8172.1,32.88,68.1,lo,0,IND,spin,yes,17.74234693877551,20.471938775510207
+1,859,859,IND,6,386,386,MS Dhoni,MS Panesar,7,15,56,36.14,2873,62.89,Right-hand bat,115,66,1,8172.1,32.88,68.1,lo,0,IND,spin,yes,17.74234693877551,20.471938775510207
+1,860,860,IND,6,386,386,MS Dhoni,MS Panesar,7,15,57,36.14,2873,62.89,Right-hand bat,116,66,1,8172.1,32.88,68.1,lo,0,IND,spin,yes,17.74234693877551,20.471938775510207
+1,861,861,IND,6,386,386,MS Dhoni,MS Panesar,7,15,58,36.14,2873,62.89,Right-hand bat,117,66,1,8172.1,32.88,68.1,lo,0,IND,spin,yes,17.74234693877551,20.471938775510207
+1,862,862,IND,6,386,386,MS Dhoni,MS Panesar,7,15,59,36.14,2873,62.89,Right-hand bat,118,66,1,8172.1,32.88,68.1,lo,1,IND,spin,yes,17.74234693877551,20.471938775510207
+1,875,875,IND,6,404,404,MS Dhoni,MS Panesar,7,16,63,36.14,2873,62.89,Right-hand bat,125,77,1,8172.1,32.88,68.1,lo,1,IND,spin,yes,17.74234693877551,20.471938775510207

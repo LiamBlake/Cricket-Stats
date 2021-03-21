@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,439,238,PAK,3,148,60,Umar Akmal,MG Johnson,5,8,8,39.62,937,67.66,Right-hand bat,48,32,0,8394.4,28.87,53.1,lf,0,AUS,seam,no,22.37034331628926,1.2783053323593865
+2,440,239,PAK,3,148,60,Umar Akmal,MG Johnson,5,8,9,39.62,937,67.66,Right-hand bat,49,32,0,8394.4,28.87,53.1,lf,2,AUS,seam,no,22.37034331628926,1.2783053323593865
+2,441,240,PAK,3,150,62,Umar Akmal,MG Johnson,5,10,10,39.62,937,67.66,Right-hand bat,50,34,0,8394.4,28.87,53.1,lf,2,AUS,seam,no,22.37034331628926,1.2783053323593865
+2,442,241,PAK,3,152,64,Umar Akmal,MG Johnson,5,12,11,39.62,937,67.66,Right-hand bat,51,36,0,8394.4,28.87,53.1,lf,4,AUS,seam,no,22.37034331628926,1.2783053323593865
+2,443,242,PAK,3,156,68,Umar Akmal,MG Johnson,5,16,12,39.62,937,67.66,Right-hand bat,52,40,0,8394.4,28.87,53.1,lf,0,AUS,seam,no,22.37034331628926,1.2783053323593865
+2,444,243,PAK,3,156,68,Umar Akmal,MG Johnson,5,16,13,39.62,937,67.66,Right-hand bat,53,40,0,8394.4,28.87,53.1,lf,1nb,AUS,seam,no,22.37034331628926,1.2783053323593865
+2,445,244,PAK,3,159,71,Umar Akmal,MG Johnson,5,18,14,39.62,937,67.66,Right-hand bat,54,41,0,8394.4,28.87,53.1,lf,0,AUS,seam,no,22.37034331628926,1.2783053323593865
+2,452,251,PAK,3,159,71,Umar Akmal,MG Johnson,5,18,15,39.62,937,67.66,Right-hand bat,55,41,0,8394.4,28.87,53.1,lf,1,AUS,seam,no,22.37034331628926,1.2783053323593865
+2,464,263,PAK,3,169,81,Umar Akmal,MG Johnson,5,19,16,39.62,937,67.66,Right-hand bat,61,44,0,8394.4,28.87,53.1,lf,0,AUS,seam,no,22.37034331628926,1.2783053323593865
+2,465,264,PAK,3,169,81,Umar Akmal,MG Johnson,5,19,17,39.62,937,67.66,Right-hand bat,62,44,0,8394.4,28.87,53.1,lf,2,AUS,seam,no,22.37034331628926,1.2783053323593865
+2,466,265,PAK,3,171,83,Umar Akmal,MG Johnson,5,21,18,39.62,937,67.66,Right-hand bat,63,46,0,8394.4,28.87,53.1,lf,0,AUS,seam,no,22.37034331628926,1.2783053323593865
+2,467,266,PAK,3,171,83,Umar Akmal,MG Johnson,5,21,19,39.62,937,67.66,Right-hand bat,64,46,0,8394.4,28.87,53.1,lf,W,AUS,seam,no,22.37034331628926,1.2783053323593865

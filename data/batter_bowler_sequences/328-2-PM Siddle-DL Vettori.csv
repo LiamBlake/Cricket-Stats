@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1147,645,AUS,6,345,50,PM Siddle,DL Vettori,8,0,0,15.73,924,51.08,Right-hand bat,162,59,1,27564.5,33.67,77.6,lo,0,AUS,spin,no,18.54318418314256,10.198751300728409
+2,1148,646,AUS,6,345,50,PM Siddle,DL Vettori,8,0,1,15.73,924,51.08,Right-hand bat,163,59,1,27564.5,33.67,77.6,lo,0,AUS,spin,no,18.54318418314256,10.198751300728409
+2,1149,647,AUS,6,345,50,PM Siddle,DL Vettori,8,0,2,15.73,924,51.08,Right-hand bat,164,59,1,27564.5,33.67,77.6,lo,0,AUS,spin,no,18.54318418314256,10.198751300728409
+2,1150,648,AUS,6,345,50,PM Siddle,DL Vettori,8,0,3,15.73,924,51.08,Right-hand bat,165,59,1,27564.5,33.67,77.6,lo,0,AUS,spin,no,18.54318418314256,10.198751300728409
+2,1151,649,AUS,6,345,50,PM Siddle,DL Vettori,8,0,4,15.73,924,51.08,Right-hand bat,166,59,1,27564.5,33.67,77.6,lo,W,AUS,spin,no,18.54318418314256,10.198751300728409

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,731,731,RSA,1,509,509,HM Amla,Shahadat Hossain,3,35,71,33.92,2791,46.18,Right-hand bat,112,97,0,2184,36.69,52,rmf,0,BAN,seam,yes,21.091906721536354,13.182441700960222
+1,732,732,RSA,1,509,509,HM Amla,Shahadat Hossain,3,35,72,33.92,2791,46.18,Right-hand bat,113,97,0,2184,36.69,52,rmf,0,BAN,seam,yes,21.091906721536354,13.182441700960222
+1,733,733,RSA,1,509,509,HM Amla,Shahadat Hossain,3,35,73,33.92,2791,46.18,Right-hand bat,114,97,0,2184,36.69,52,rmf,0,BAN,seam,yes,21.091906721536354,13.182441700960222
+1,734,734,RSA,1,509,509,HM Amla,Shahadat Hossain,3,35,74,33.92,2791,46.18,Right-hand bat,115,97,0,2184,36.69,52,rmf,0,BAN,seam,yes,21.091906721536354,13.182441700960222
+1,742,742,RSA,1,513,513,HM Amla,Shahadat Hossain,3,36,78,33.92,2791,46.18,Right-hand bat,117,98,0,2184,36.69,52,rmf,0,BAN,seam,yes,21.091906721536354,13.182441700960222
+1,743,743,RSA,1,513,513,HM Amla,Shahadat Hossain,3,36,79,33.92,2791,46.18,Right-hand bat,118,98,0,2184,36.69,52,rmf,0,BAN,seam,yes,21.091906721536354,13.182441700960222
+1,744,744,RSA,1,513,513,HM Amla,Shahadat Hossain,3,36,80,33.92,2791,46.18,Right-hand bat,119,98,0,2184,36.69,52,rmf,1,BAN,seam,yes,21.091906721536354,13.182441700960222
+1,753,753,RSA,2,515,515,HM Amla,Shahadat Hossain,3,38,84,33.92,2791,46.18,Right-hand bat,122,99,1,2184,36.69,52,rmf,0,BAN,seam,yes,21.091906721536354,13.182441700960222
+1,754,754,RSA,2,515,515,HM Amla,Shahadat Hossain,3,38,85,33.92,2791,46.18,Right-hand bat,123,99,1,2184,36.69,52,rmf,0,BAN,seam,yes,21.091906721536354,13.182441700960222
+1,755,755,RSA,2,515,515,HM Amla,Shahadat Hossain,3,38,86,33.92,2791,46.18,Right-hand bat,124,99,1,2184,36.69,52,rmf,W,BAN,seam,yes,21.091906721536354,13.182441700960222

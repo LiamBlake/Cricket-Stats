@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,855,333,ENG,3,155,-122,IR Bell,JDP Oram,5,1,1,42.7,5093,50.3,Right-hand bat,67,28,1,4338.2,29.86,73.5,rfm,0,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,856,334,ENG,3,155,-122,IR Bell,JDP Oram,5,1,2,42.7,5093,50.3,Right-hand bat,68,28,1,4338.2,29.86,73.5,rfm,0,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,857,335,ENG,3,155,-122,IR Bell,JDP Oram,5,1,3,42.7,5093,50.3,Right-hand bat,69,28,1,4338.2,29.86,73.5,rfm,0,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,858,336,ENG,3,155,-122,IR Bell,JDP Oram,5,1,4,42.7,5093,50.3,Right-hand bat,70,28,1,4338.2,29.86,73.5,rfm,4,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,859,337,ENG,3,159,-118,IR Bell,JDP Oram,5,5,5,42.7,5093,50.3,Right-hand bat,71,32,1,4338.2,29.86,73.5,rfm,0,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,860,338,ENG,3,159,-118,IR Bell,JDP Oram,5,5,6,42.7,5093,50.3,Right-hand bat,72,32,1,4338.2,29.86,73.5,rfm,0,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,867,345,ENG,3,159,-118,IR Bell,JDP Oram,5,5,7,42.7,5093,50.3,Right-hand bat,73,32,1,4338.2,29.86,73.5,rfm,0,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,868,346,ENG,3,159,-118,IR Bell,JDP Oram,5,5,8,42.7,5093,50.3,Right-hand bat,74,32,1,4338.2,29.86,73.5,rfm,0,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,869,347,ENG,3,159,-118,IR Bell,JDP Oram,5,5,9,42.7,5093,50.3,Right-hand bat,75,32,1,4338.2,29.86,73.5,rfm,0,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,870,348,ENG,3,159,-118,IR Bell,JDP Oram,5,5,10,42.7,5093,50.3,Right-hand bat,76,32,1,4338.2,29.86,73.5,rfm,0,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,871,349,ENG,3,159,-118,IR Bell,JDP Oram,5,5,11,42.7,5093,50.3,Right-hand bat,77,32,1,4338.2,29.86,73.5,rfm,0,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,872,350,ENG,3,159,-118,IR Bell,JDP Oram,5,5,12,42.7,5093,50.3,Right-hand bat,78,32,1,4338.2,29.86,73.5,rfm,1,ENG,seam,yes,24.31213017751479,8.957100591715975

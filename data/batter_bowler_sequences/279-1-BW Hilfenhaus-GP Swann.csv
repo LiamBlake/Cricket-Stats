@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,580,580,AUS,8,239,239,BW Hilfenhaus,GP Swann,10,15,28,15.12,438,55.25,Right-hand bat,68,17,1,7428.3,28.1,58,rob,0,AUS,spin,yes,34.81111111111111,5.355555555555555
+1,581,581,AUS,8,239,239,BW Hilfenhaus,GP Swann,10,15,29,15.12,438,55.25,Right-hand bat,69,17,1,7428.3,28.1,58,rob,0,AUS,spin,yes,34.81111111111111,5.355555555555555
+1,582,582,AUS,8,239,239,BW Hilfenhaus,GP Swann,10,15,30,15.12,438,55.25,Right-hand bat,70,17,1,7428.3,28.1,58,rob,0,AUS,spin,yes,34.81111111111111,5.355555555555555
+1,583,583,AUS,8,239,239,BW Hilfenhaus,GP Swann,10,15,31,15.12,438,55.25,Right-hand bat,71,17,1,7428.3,28.1,58,rob,0,AUS,spin,yes,34.81111111111111,5.355555555555555
+1,594,594,AUS,8,261,261,BW Hilfenhaus,GP Swann,10,21,33,15.12,438,55.25,Right-hand bat,76,28,1,7428.3,28.1,58,rob,0,AUS,spin,yes,34.81111111111111,5.355555555555555
+1,595,595,AUS,8,261,261,BW Hilfenhaus,GP Swann,10,21,34,15.12,438,55.25,Right-hand bat,77,28,1,7428.3,28.1,58,rob,0,AUS,spin,yes,34.81111111111111,5.355555555555555
+1,602,602,AUS,9,265,265,BW Hilfenhaus,GP Swann,10,22,37,15.12,438,55.25,Right-hand bat,78,28,1,7428.3,28.1,58,rob,0,AUS,spin,yes,34.81111111111111,5.355555555555555
+1,603,603,AUS,9,265,265,BW Hilfenhaus,GP Swann,10,22,38,15.12,438,55.25,Right-hand bat,79,28,1,7428.3,28.1,58,rob,0,AUS,spin,yes,34.81111111111111,5.355555555555555
+1,604,604,AUS,9,265,265,BW Hilfenhaus,GP Swann,10,22,39,15.12,438,55.25,Right-hand bat,80,28,1,7428.3,28.1,58,rob,1,AUS,spin,yes,34.81111111111111,5.355555555555555
+1,614,614,AUS,9,267,267,BW Hilfenhaus,GP Swann,10,24,45,15.12,438,55.25,Right-hand bat,84,29,1,7428.3,28.1,58,rob,1,AUS,spin,yes,34.81111111111111,5.355555555555555
+1,627,627,AUS,9,274,274,BW Hilfenhaus,GP Swann,10,28,50,15.12,438,55.25,Right-hand bat,90,32,1,7428.3,28.1,58,rob,4,AUS,spin,yes,34.81111111111111,5.355555555555555
+1,628,628,AUS,9,278,278,BW Hilfenhaus,GP Swann,10,32,51,15.12,438,55.25,Right-hand bat,91,36,1,7428.3,28.1,58,rob,0,AUS,spin,yes,34.81111111111111,5.355555555555555
+1,629,629,AUS,9,278,278,BW Hilfenhaus,GP Swann,10,32,52,15.12,438,55.25,Right-hand bat,92,36,1,7428.3,28.1,58,rob,1,AUS,spin,yes,34.81111111111111,5.355555555555555

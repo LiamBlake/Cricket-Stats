@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1739,588,IND,8,297,53,VVS Laxman,UWMBCA Welegedara,5,59,118,46.62,14680,49.23,Right-hand bat,43,26,1,852,48.75,71,lfm,0,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1740,589,IND,8,297,53,VVS Laxman,UWMBCA Welegedara,5,59,119,46.62,14680,49.23,Right-hand bat,44,26,1,852,48.75,71,lfm,1,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1743,592,IND,8,303,59,VVS Laxman,UWMBCA Welegedara,5,60,120,46.62,14680,49.23,Right-hand bat,47,32,1,852,48.75,71,lfm,1,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1752,601,IND,8,306,62,VVS Laxman,UWMBCA Welegedara,5,62,122,46.62,14680,49.23,Right-hand bat,50,34,1,852,48.75,71,lfm,1,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1755,604,IND,8,308,64,VVS Laxman,UWMBCA Welegedara,5,63,123,46.62,14680,49.23,Right-hand bat,53,36,1,852,48.75,71,lfm,4,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1756,605,IND,8,312,68,VVS Laxman,UWMBCA Welegedara,5,67,124,46.62,14680,49.23,Right-hand bat,54,40,1,852,48.75,71,lfm,0,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1757,606,IND,8,312,68,VVS Laxman,UWMBCA Welegedara,5,67,125,46.62,14680,49.23,Right-hand bat,55,40,1,852,48.75,71,lfm,1,SRL,seam,no,26.67091836734694,17.25765306122449

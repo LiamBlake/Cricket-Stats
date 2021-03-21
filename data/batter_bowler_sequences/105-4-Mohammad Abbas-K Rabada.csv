@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1608,353,PAK,9,242,-138,Mohammad Abbas,K Rabada,11,0,0,6.3,361,17.45,Right-hand bat,82,63,3,6450.5,21.41,38.4,rf,0,RSA,seam,no,22.378125,3.196875
+4,1609,354,PAK,9,242,-138,Mohammad Abbas,K Rabada,11,0,1,6.3,361,17.45,Right-hand bat,83,63,3,6450.5,21.41,38.4,rf,4,RSA,seam,no,22.378125,3.196875
+4,1620,365,PAK,9,248,-132,Mohammad Abbas,K Rabada,11,4,3,6.3,361,17.45,Right-hand bat,88,68,3,6450.5,21.41,38.4,rf,0,RSA,seam,no,22.378125,3.196875
+4,1621,366,PAK,9,248,-132,Mohammad Abbas,K Rabada,11,4,4,6.3,361,17.45,Right-hand bat,89,68,3,6450.5,21.41,38.4,rf,0,RSA,seam,no,22.378125,3.196875
+4,1628,373,PAK,9,256,-124,Mohammad Abbas,K Rabada,11,4,5,6.3,361,17.45,Right-hand bat,90,68,3,6450.5,21.41,38.4,rf,1,RSA,seam,no,22.378125,3.196875

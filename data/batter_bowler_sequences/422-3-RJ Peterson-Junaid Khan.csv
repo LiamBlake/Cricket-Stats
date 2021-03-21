@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1780,387,RSA,7,165,-28,RJ Peterson,Junaid Khan,9,11,20,26.57,551,67.51,Left-hand bat,73,33,2,2424.1,26.69,57.7,lf,0,PAK,seam,yes,16.888888888888886,12.444444444444443
+3,1781,388,RSA,7,165,-28,RJ Peterson,Junaid Khan,9,11,21,26.57,551,67.51,Left-hand bat,74,33,2,2424.1,26.69,57.7,lf,1,PAK,seam,yes,16.888888888888886,12.444444444444443
+3,1807,414,RSA,7,187,-6,RJ Peterson,Junaid Khan,9,15,28,26.57,551,67.51,Left-hand bat,88,46,2,2424.1,26.69,57.7,lf,0,PAK,seam,yes,16.888888888888886,12.444444444444443
+3,1808,415,RSA,7,187,-6,RJ Peterson,Junaid Khan,9,15,29,26.57,551,67.51,Left-hand bat,89,46,2,2424.1,26.69,57.7,lf,0,PAK,seam,yes,16.888888888888886,12.444444444444443
+3,1818,425,RSA,7,189,-4,RJ Peterson,Junaid Khan,9,15,35,26.57,551,67.51,Left-hand bat,93,47,2,2424.1,26.69,57.7,lf,1,PAK,seam,yes,16.888888888888886,12.444444444444443
+3,1827,434,RSA,8,193,0,RJ Peterson,Junaid Khan,9,18,41,26.57,551,67.51,Left-hand bat,96,48,3,2424.1,26.69,57.7,lf,1,PAK,seam,yes,16.888888888888886,12.444444444444443
+3,1832,439,RSA,8,195,2,RJ Peterson,Junaid Khan,9,19,42,26.57,551,67.51,Left-hand bat,101,50,3,2424.1,26.69,57.7,lf,2,PAK,seam,yes,16.888888888888886,12.444444444444443
+3,1839,446,RSA,8,199,6,RJ Peterson,Junaid Khan,9,22,44,26.57,551,67.51,Left-hand bat,102,52,3,2424.1,26.69,57.7,lf,0,PAK,seam,yes,16.888888888888886,12.444444444444443
+3,1840,447,RSA,8,199,6,RJ Peterson,Junaid Khan,9,22,45,26.57,551,67.51,Left-hand bat,103,52,3,2424.1,26.69,57.7,lf,1,PAK,seam,yes,16.888888888888886,12.444444444444443
+3,1842,449,RSA,8,203,10,RJ Peterson,Junaid Khan,9,23,46,26.57,551,67.51,Left-hand bat,105,56,3,2424.1,26.69,57.7,lf,1,PAK,seam,yes,16.888888888888886,12.444444444444443

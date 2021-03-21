@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,738,180,SRL,1,113,-223,FDM Karunaratne,JE Root,2,50,76,37.6,7732,49.12,Left-hand bat,0,0,0,1878,46.95,93.9,rob,0,ENG,spin,no,3.40625,23.84375
+2,739,181,SRL,1,113,-223,FDM Karunaratne,JE Root,2,50,77,37.6,7732,49.12,Left-hand bat,1,0,0,1878,46.95,93.9,rob,0,ENG,spin,no,3.40625,23.84375
+2,740,182,SRL,1,113,-223,FDM Karunaratne,JE Root,2,50,78,37.6,7732,49.12,Left-hand bat,2,0,0,1878,46.95,93.9,rob,1,ENG,spin,no,3.40625,23.84375
+2,742,184,SRL,1,115,-221,FDM Karunaratne,JE Root,2,51,79,37.6,7732,49.12,Left-hand bat,4,2,0,1878,46.95,93.9,rob,0,ENG,spin,no,3.40625,23.84375
+2,743,185,SRL,1,115,-221,FDM Karunaratne,JE Root,2,51,80,37.6,7732,49.12,Left-hand bat,5,2,0,1878,46.95,93.9,rob,0,ENG,spin,no,3.40625,23.84375
+2,750,192,SRL,1,115,-221,FDM Karunaratne,JE Root,2,51,81,37.6,7732,49.12,Left-hand bat,6,2,0,1878,46.95,93.9,rob,1,ENG,spin,no,3.40625,23.84375
+2,753,195,SRL,1,117,-219,FDM Karunaratne,JE Root,2,52,82,37.6,7732,49.12,Left-hand bat,9,4,0,1878,46.95,93.9,rob,4lb,ENG,spin,no,3.40625,23.84375
+2,754,196,SRL,1,121,-215,FDM Karunaratne,JE Root,2,52,83,37.6,7732,49.12,Left-hand bat,10,4,0,1878,46.95,93.9,rob,0,ENG,spin,no,3.40625,23.84375
+2,755,197,SRL,1,121,-215,FDM Karunaratne,JE Root,2,52,84,37.6,7732,49.12,Left-hand bat,11,4,0,1878,46.95,93.9,rob,0,ENG,spin,no,3.40625,23.84375

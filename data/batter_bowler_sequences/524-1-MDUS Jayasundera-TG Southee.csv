@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,82,82,SRL,1,39,39,MDUS Jayasundera,TG Southee,3,0,0,7.5,77,38.96,Left-hand bat,40,16,1,10098.2,31.47,61.9,rmf,0,NZL,seam,no,22.92489795918367,1.3893877551020408
+1,83,83,SRL,1,39,39,MDUS Jayasundera,TG Southee,3,0,1,7.5,77,38.96,Left-hand bat,41,16,1,10098.2,31.47,61.9,rmf,0,NZL,seam,no,22.92489795918367,1.3893877551020408
+1,177,177,SRL,2,111,111,MDUS Jayasundera,TG Southee,3,25,47,7.5,77,38.96,Left-hand bat,57,25,2,10098.2,31.47,61.9,rmf,1,NZL,seam,no,22.92489795918367,1.3893877551020408

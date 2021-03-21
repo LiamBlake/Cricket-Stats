@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,68,68,SRL,1,45,45,DM de Silva,DW Steyn,3,0,2,38.82,1949,57.77,Right-hand bat,32,19,0,17538.1,22.42,41.6,rf,0,SRL,seam,yes,5.914999999999999,10.985
+1,69,69,SRL,1,45,45,DM de Silva,DW Steyn,3,0,3,38.82,1949,57.77,Right-hand bat,33,19,0,17538.1,22.42,41.6,rf,0,SRL,seam,yes,5.914999999999999,10.985
+1,70,70,SRL,1,45,45,DM de Silva,DW Steyn,3,0,4,38.82,1949,57.77,Right-hand bat,34,19,0,17538.1,22.42,41.6,rf,1,SRL,seam,yes,5.914999999999999,10.985

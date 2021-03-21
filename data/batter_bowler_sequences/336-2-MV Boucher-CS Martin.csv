@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,623,253,RSA,6,126,-59,MV Boucher,CS Martin,8,10,42,30.21,10922,50.07,Right-hand bat,66,26,2,13314.2,33.27,59.4,rfm,0,NZL,seam,yes,19.91987513007284,2.9510926118626433
+2,624,254,RSA,6,126,-59,MV Boucher,CS Martin,8,10,43,30.21,10922,50.07,Right-hand bat,67,26,2,13314.2,33.27,59.4,rfm,0,NZL,seam,yes,19.91987513007284,2.9510926118626433
+2,625,255,RSA,6,126,-59,MV Boucher,CS Martin,8,10,44,30.21,10922,50.07,Right-hand bat,68,26,2,13314.2,33.27,59.4,rfm,0,NZL,seam,yes,19.91987513007284,2.9510926118626433
+2,626,256,RSA,6,126,-59,MV Boucher,CS Martin,8,10,45,30.21,10922,50.07,Right-hand bat,69,26,2,13314.2,33.27,59.4,rfm,0,NZL,seam,yes,19.91987513007284,2.9510926118626433
+2,627,257,RSA,6,126,-59,MV Boucher,CS Martin,8,10,46,30.21,10922,50.07,Right-hand bat,70,26,2,13314.2,33.27,59.4,rfm,4,NZL,seam,yes,19.91987513007284,2.9510926118626433
+2,628,258,RSA,6,130,-55,MV Boucher,CS Martin,8,14,47,30.21,10922,50.07,Right-hand bat,71,30,2,13314.2,33.27,59.4,rfm,0,NZL,seam,yes,19.91987513007284,2.9510926118626433

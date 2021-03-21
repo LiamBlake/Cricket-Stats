@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,217,217,AUS,8,78,78,PM Siddle,TT Bresnan,10,1,2,16.59,734,49.72,Right-hand bat,72,21,2,1194,28.35,59.7,rmf,0,AUS,seam,no,25.104444444444443,2.8966666666666665
+1,218,218,AUS,8,78,78,PM Siddle,TT Bresnan,10,1,3,16.59,734,49.72,Right-hand bat,73,21,2,1194,28.35,59.7,rmf,4,AUS,seam,no,25.104444444444443,2.8966666666666665
+1,219,219,AUS,8,82,82,PM Siddle,TT Bresnan,10,5,4,16.59,734,49.72,Right-hand bat,74,25,2,1194,28.35,59.7,rmf,0,AUS,seam,no,25.104444444444443,2.8966666666666665
+1,220,220,AUS,8,82,82,PM Siddle,TT Bresnan,10,5,5,16.59,734,49.72,Right-hand bat,75,25,2,1194,28.35,59.7,rmf,0,AUS,seam,no,25.104444444444443,2.8966666666666665
+1,221,221,AUS,8,82,82,PM Siddle,TT Bresnan,10,5,6,16.59,734,49.72,Right-hand bat,76,25,2,1194,28.35,59.7,rmf,0,AUS,seam,no,25.104444444444443,2.8966666666666665
+1,222,222,AUS,8,82,82,PM Siddle,TT Bresnan,10,5,7,16.59,734,49.72,Right-hand bat,77,25,2,1194,28.35,59.7,rmf,0,AUS,seam,no,25.104444444444443,2.8966666666666665

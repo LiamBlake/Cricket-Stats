@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1421,13,WIN,0,7,25,KA Edwards,TA Boult,2,0,0,35.69,1764,46.54,Right-hand bat,7,2,0,3966.5,26.54,55.1,lfm,1,NZL,seam,no,21.1806640625,8.2880859375
+3,1447,39,WIN,2,13,31,KA Edwards,TA Boult,2,1,13,35.69,1764,46.54,Right-hand bat,21,8,2,3966.5,26.54,55.1,lfm,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1448,40,WIN,2,13,31,KA Edwards,TA Boult,2,1,14,35.69,1764,46.54,Right-hand bat,22,8,2,3966.5,26.54,55.1,lfm,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1449,41,WIN,2,13,31,KA Edwards,TA Boult,2,1,15,35.69,1764,46.54,Right-hand bat,23,8,2,3966.5,26.54,55.1,lfm,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1456,48,WIN,2,13,31,KA Edwards,TA Boult,2,1,16,35.69,1764,46.54,Right-hand bat,24,8,2,3966.5,26.54,55.1,lfm,W,NZL,seam,no,21.1806640625,8.2880859375

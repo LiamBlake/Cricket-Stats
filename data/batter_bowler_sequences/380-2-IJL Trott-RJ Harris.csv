@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1061,181,ENG,2,52,-475,IJL Trott,RJ Harris,4,2,10,47.64,7601,47,Right-hand bat,30,12,0,2802.3,22.56,48.3,rf,0,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1062,182,ENG,2,52,-475,IJL Trott,RJ Harris,4,2,11,47.64,7601,47,Right-hand bat,31,12,0,2802.3,22.56,48.3,rf,0,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1063,183,ENG,2,52,-475,IJL Trott,RJ Harris,4,2,12,47.64,7601,47,Right-hand bat,32,12,0,2802.3,22.56,48.3,rf,0,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1064,184,ENG,2,52,-475,IJL Trott,RJ Harris,4,2,13,47.64,7601,47,Right-hand bat,33,12,0,2802.3,22.56,48.3,rf,1lb,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1109,229,ENG,2,62,-465,IJL Trott,RJ Harris,4,4,28,47.64,7601,47,Right-hand bat,54,18,0,2802.3,22.56,48.3,rf,0,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1110,230,ENG,2,62,-465,IJL Trott,RJ Harris,4,4,29,47.64,7601,47,Right-hand bat,55,18,0,2802.3,22.56,48.3,rf,1,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1113,233,ENG,2,64,-463,IJL Trott,RJ Harris,4,5,30,47.64,7601,47,Right-hand bat,58,20,0,2802.3,22.56,48.3,rf,0,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1114,234,ENG,2,64,-463,IJL Trott,RJ Harris,4,5,31,47.64,7601,47,Right-hand bat,59,20,0,2802.3,22.56,48.3,rf,W,ENG,seam,no,30.288065843621396,10.600823045267488

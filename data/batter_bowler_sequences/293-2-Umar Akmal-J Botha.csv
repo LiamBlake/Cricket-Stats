@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1209,467,PAK,4,196,-184,Umar Akmal,J Botha,6,0,0,35.73,1191,69.01,Right-hand bat,107,39,2,828.2,31.93,55.3,rob,2,PAK,spin,no,24.748800000000003,26.8112
+2,1216,474,PAK,4,200,-180,Umar Akmal,J Botha,6,2,1,35.73,1191,69.01,Right-hand bat,108,41,2,828.2,31.93,55.3,rob,2,PAK,spin,no,24.748800000000003,26.8112
+2,1217,475,PAK,4,202,-178,Umar Akmal,J Botha,6,4,2,35.73,1191,69.01,Right-hand bat,109,43,2,828.2,31.93,55.3,rob,0,PAK,spin,no,24.748800000000003,26.8112
+2,1218,476,PAK,4,202,-178,Umar Akmal,J Botha,6,4,3,35.73,1191,69.01,Right-hand bat,110,43,2,828.2,31.93,55.3,rob,0,PAK,spin,no,24.748800000000003,26.8112
+2,1219,477,PAK,4,202,-178,Umar Akmal,J Botha,6,4,4,35.73,1191,69.01,Right-hand bat,111,43,2,828.2,31.93,55.3,rob,W,PAK,spin,no,24.748800000000003,26.8112

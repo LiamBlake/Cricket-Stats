@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1898,342,SRL,5,195,-100,N Dickwella,JE Root,7,9,7,30.44,1881,69.59,Left-hand bat,12,6,0,1866,46.75,93.3,rob,1,ENG,spin,no,1.51875,28.85625
+4,1900,344,SRL,5,197,-98,N Dickwella,JE Root,7,10,8,30.44,1881,69.59,Left-hand bat,14,8,0,1866,46.75,93.3,rob,0,ENG,spin,no,1.51875,28.85625
+4,1901,345,SRL,5,197,-98,N Dickwella,JE Root,7,10,9,30.44,1881,69.59,Left-hand bat,15,8,0,1866,46.75,93.3,rob,0,ENG,spin,no,1.51875,28.85625
+4,1902,346,SRL,5,197,-98,N Dickwella,JE Root,7,10,10,30.44,1881,69.59,Left-hand bat,16,8,0,1866,46.75,93.3,rob,0,ENG,spin,no,1.51875,28.85625
+4,1903,347,SRL,5,197,-98,N Dickwella,JE Root,7,10,11,30.44,1881,69.59,Left-hand bat,17,8,0,1866,46.75,93.3,rob,0,ENG,spin,no,1.51875,28.85625
+4,1914,358,SRL,5,205,-90,N Dickwella,JE Root,7,16,15,30.44,1881,69.59,Left-hand bat,22,9,0,1866,46.75,93.3,rob,0,ENG,spin,no,1.51875,28.85625
+4,1915,359,SRL,5,205,-90,N Dickwella,JE Root,7,16,16,30.44,1881,69.59,Left-hand bat,23,9,0,1866,46.75,93.3,rob,4,ENG,spin,no,1.51875,28.85625
+4,1922,366,SRL,5,217,-78,N Dickwella,JE Root,7,22,19,30.44,1881,69.59,Left-hand bat,24,13,0,1866,46.75,93.3,rob,1,ENG,spin,no,1.51875,28.85625
+4,1925,369,SRL,5,219,-76,N Dickwella,JE Root,7,23,20,30.44,1881,69.59,Left-hand bat,27,15,0,1866,46.75,93.3,rob,0,ENG,spin,no,1.51875,28.85625
+4,1926,370,SRL,5,219,-76,N Dickwella,JE Root,7,23,21,30.44,1881,69.59,Left-hand bat,28,15,0,1866,46.75,93.3,rob,0,ENG,spin,no,1.51875,28.85625
+4,1927,371,SRL,5,219,-76,N Dickwella,JE Root,7,23,22,30.44,1881,69.59,Left-hand bat,29,15,0,1866,46.75,93.3,rob,0,ENG,spin,no,1.51875,28.85625

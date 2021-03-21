@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,124,124,PAK,5,55,55,Sarfraz Ahmed,K Rabada,7,0,1,36.71,3702,70.42,Right-hand bat,32,14,1,6288.1,21.35,38.5,rf,0,RSA,seam,no,31.46722164412071,0
+1,125,125,PAK,5,55,55,Sarfraz Ahmed,K Rabada,7,0,2,36.71,3702,70.42,Right-hand bat,33,14,1,6288.1,21.35,38.5,rf,0,RSA,seam,no,31.46722164412071,0
+1,126,126,PAK,5,55,55,Sarfraz Ahmed,K Rabada,7,0,3,36.71,3702,70.42,Right-hand bat,34,14,1,6288.1,21.35,38.5,rf,0,RSA,seam,no,31.46722164412071,0
+1,127,127,PAK,5,55,55,Sarfraz Ahmed,K Rabada,7,0,4,36.71,3702,70.42,Right-hand bat,35,14,1,6288.1,21.35,38.5,rf,1lb,RSA,seam,no,31.46722164412071,0
+1,159,159,PAK,5,81,81,Sarfraz Ahmed,K Rabada,7,18,19,36.71,3702,70.42,Right-hand bat,37,15,1,6288.1,21.35,38.5,rf,0,RSA,seam,no,31.46722164412071,0
+1,160,160,PAK,5,81,81,Sarfraz Ahmed,K Rabada,7,18,20,36.71,3702,70.42,Right-hand bat,38,15,1,6288.1,21.35,38.5,rf,0,RSA,seam,no,31.46722164412071,0
+1,161,161,PAK,5,81,81,Sarfraz Ahmed,K Rabada,7,18,21,36.71,3702,70.42,Right-hand bat,39,15,1,6288.1,21.35,38.5,rf,0,RSA,seam,no,31.46722164412071,0
+1,162,162,PAK,5,81,81,Sarfraz Ahmed,K Rabada,7,18,22,36.71,3702,70.42,Right-hand bat,40,15,1,6288.1,21.35,38.5,rf,0,RSA,seam,no,31.46722164412071,0
+1,163,163,PAK,5,81,81,Sarfraz Ahmed,K Rabada,7,18,23,36.71,3702,70.42,Right-hand bat,41,15,1,6288.1,21.35,38.5,rf,0,RSA,seam,no,31.46722164412071,0
+1,164,164,PAK,5,81,81,Sarfraz Ahmed,K Rabada,7,18,24,36.71,3702,70.42,Right-hand bat,42,15,1,6288.1,21.35,38.5,rf,1,RSA,seam,no,31.46722164412071,0
+1,172,172,PAK,5,87,87,Sarfraz Ahmed,K Rabada,7,21,29,36.71,3702,70.42,Right-hand bat,44,17,1,6288.1,21.35,38.5,rf,1,RSA,seam,no,31.46722164412071,0
+1,184,184,PAK,5,95,95,Sarfraz Ahmed,K Rabada,7,23,33,36.71,3702,70.42,Right-hand bat,50,23,1,6288.1,21.35,38.5,rf,0,RSA,seam,no,31.46722164412071,0
+1,185,185,PAK,5,95,95,Sarfraz Ahmed,K Rabada,7,23,34,36.71,3702,70.42,Right-hand bat,51,23,1,6288.1,21.35,38.5,rf,1,RSA,seam,no,31.46722164412071,0

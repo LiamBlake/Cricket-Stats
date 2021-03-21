@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1043,140,IND,2,77,-353,SR Tendulkar,B Lee,4,0,0,54.02,NA,NA,Right-hand bat,44,17,1,14982.4,29.69,51.4,rf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1044,141,IND,2,77,-353,SR Tendulkar,B Lee,4,0,1,54.02,NA,NA,Right-hand bat,45,17,1,14982.4,29.69,51.4,rf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1045,142,IND,2,77,-353,SR Tendulkar,B Lee,4,0,2,54.02,NA,NA,Right-hand bat,46,17,1,14982.4,29.69,51.4,rf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1046,143,IND,2,77,-353,SR Tendulkar,B Lee,4,0,3,54.02,NA,NA,Right-hand bat,47,17,1,14982.4,29.69,51.4,rf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1047,144,IND,2,77,-353,SR Tendulkar,B Lee,4,0,4,54.02,NA,NA,Right-hand bat,48,17,1,14982.4,29.69,51.4,rf,4,IND,seam,no,31.866666666666667,7.966666666666667
+2,1054,151,IND,2,81,-349,SR Tendulkar,B Lee,4,4,5,54.02,NA,NA,Right-hand bat,49,21,1,14982.4,29.69,51.4,rf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1055,152,IND,2,81,-349,SR Tendulkar,B Lee,4,4,6,54.02,NA,NA,Right-hand bat,50,21,1,14982.4,29.69,51.4,rf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1056,153,IND,2,81,-349,SR Tendulkar,B Lee,4,4,7,54.02,NA,NA,Right-hand bat,51,21,1,14982.4,29.69,51.4,rf,1,IND,seam,no,31.866666666666667,7.966666666666667

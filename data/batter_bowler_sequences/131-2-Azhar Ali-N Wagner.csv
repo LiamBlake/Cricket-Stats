@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,505,106,PAK,2,47,-106,Azhar Ali,N Wagner,3,7,33,44.18,13042,41.32,Right-hand bat,4,1,0,8076.3,28.07,53.1,lmf,0,NZL,seam,no,9,11
+2,506,107,PAK,2,47,-106,Azhar Ali,N Wagner,3,7,34,44.18,13042,41.32,Right-hand bat,5,1,0,8076.3,28.07,53.1,lmf,0,NZL,seam,no,9,11
+2,513,114,PAK,2,47,-106,Azhar Ali,N Wagner,3,7,35,44.18,13042,41.32,Right-hand bat,6,1,0,8076.3,28.07,53.1,lmf,0,NZL,seam,no,9,11
+2,514,115,PAK,2,47,-106,Azhar Ali,N Wagner,3,7,36,44.18,13042,41.32,Right-hand bat,7,1,0,8076.3,28.07,53.1,lmf,0,NZL,seam,no,9,11
+2,515,116,PAK,2,47,-106,Azhar Ali,N Wagner,3,7,37,44.18,13042,41.32,Right-hand bat,8,1,0,8076.3,28.07,53.1,lmf,0,NZL,seam,no,9,11
+2,516,117,PAK,2,47,-106,Azhar Ali,N Wagner,3,7,38,44.18,13042,41.32,Right-hand bat,9,1,0,8076.3,28.07,53.1,lmf,0,NZL,seam,no,9,11
+2,517,118,PAK,2,47,-106,Azhar Ali,N Wagner,3,7,39,44.18,13042,41.32,Right-hand bat,10,1,0,8076.3,28.07,53.1,lmf,0,NZL,seam,no,9,11
+2,518,119,PAK,2,47,-106,Azhar Ali,N Wagner,3,7,40,44.18,13042,41.32,Right-hand bat,11,1,0,8076.3,28.07,53.1,lmf,1,NZL,seam,no,9,11
+2,526,127,PAK,2,49,-104,Azhar Ali,N Wagner,3,8,47,44.18,13042,41.32,Right-hand bat,13,3,0,8076.3,28.07,53.1,lmf,1,NZL,seam,no,9,11

@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1060,61,AUS,0,44,-69,SM Katich,GP Swann,2,23,36,43.89,5857,49.46,Left-hand bat,0,0,0,2514.5,30.92,62.9,rob,0,ENG,spin,yes,35.692800000000005,4.8672
+3,1061,62,AUS,0,44,-69,SM Katich,GP Swann,2,23,37,43.89,5857,49.46,Left-hand bat,1,0,0,2514.5,30.92,62.9,rob,0,ENG,spin,yes,35.692800000000005,4.8672
+3,1062,63,AUS,0,44,-69,SM Katich,GP Swann,2,23,38,43.89,5857,49.46,Left-hand bat,2,0,0,2514.5,30.92,62.9,rob,0,ENG,spin,yes,35.692800000000005,4.8672
+3,1063,64,AUS,0,44,-69,SM Katich,GP Swann,2,23,39,43.89,5857,49.46,Left-hand bat,3,0,0,2514.5,30.92,62.9,rob,1,ENG,spin,yes,35.692800000000005,4.8672
+3,1072,73,AUS,0,46,-67,SM Katich,GP Swann,2,25,41,43.89,5857,49.46,Left-hand bat,6,1,0,2514.5,30.92,62.9,rob,0,ENG,spin,yes,35.692800000000005,4.8672
+3,1073,74,AUS,0,46,-67,SM Katich,GP Swann,2,25,42,43.89,5857,49.46,Left-hand bat,7,1,0,2514.5,30.92,62.9,rob,0,ENG,spin,yes,35.692800000000005,4.8672
+3,1074,75,AUS,0,46,-67,SM Katich,GP Swann,2,25,43,43.89,5857,49.46,Left-hand bat,8,1,0,2514.5,30.92,62.9,rob,0,ENG,spin,yes,35.692800000000005,4.8672
+3,1075,76,AUS,0,46,-67,SM Katich,GP Swann,2,25,44,43.89,5857,49.46,Left-hand bat,9,1,0,2514.5,30.92,62.9,rob,1,ENG,spin,yes,35.692800000000005,4.8672

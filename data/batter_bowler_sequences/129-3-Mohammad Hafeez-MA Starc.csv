@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1494,4,PAK,0,1,281,Mohammad Hafeez,MA Starc,2,0,0,39.94,6374,56.4,Right-hand bat,4,0,0,9240,28.61,50.4,lf,0,PAK,seam,yes,12.737024221453286,23.35121107266436
+3,1495,5,PAK,0,1,281,Mohammad Hafeez,MA Starc,2,0,1,39.94,6374,56.4,Right-hand bat,5,0,0,9240,28.61,50.4,lf,0,PAK,seam,yes,12.737024221453286,23.35121107266436
+3,1502,12,PAK,0,5,285,Mohammad Hafeez,MA Starc,2,0,2,39.94,6374,56.4,Right-hand bat,6,0,0,9240,28.61,50.4,lf,0,PAK,seam,yes,12.737024221453286,23.35121107266436
+3,1503,13,PAK,0,5,285,Mohammad Hafeez,MA Starc,2,0,3,39.94,6374,56.4,Right-hand bat,7,0,0,9240,28.61,50.4,lf,0,PAK,seam,yes,12.737024221453286,23.35121107266436
+3,1504,14,PAK,0,5,285,Mohammad Hafeez,MA Starc,2,0,4,39.94,6374,56.4,Right-hand bat,8,0,0,9240,28.61,50.4,lf,0,PAK,seam,yes,12.737024221453286,23.35121107266436
+3,1505,15,PAK,0,5,285,Mohammad Hafeez,MA Starc,2,0,5,39.94,6374,56.4,Right-hand bat,9,0,0,9240,28.61,50.4,lf,0,PAK,seam,yes,12.737024221453286,23.35121107266436
+3,1506,16,PAK,0,5,285,Mohammad Hafeez,MA Starc,2,0,6,39.94,6374,56.4,Right-hand bat,10,0,0,9240,28.61,50.4,lf,4,PAK,seam,yes,12.737024221453286,23.35121107266436
+3,1507,17,PAK,0,9,289,Mohammad Hafeez,MA Starc,2,4,7,39.94,6374,56.4,Right-hand bat,11,4,0,9240,28.61,50.4,lf,1,PAK,seam,yes,12.737024221453286,23.35121107266436
+3,1514,24,PAK,0,15,295,Mohammad Hafeez,MA Starc,2,10,14,39.94,6374,56.4,Right-hand bat,12,5,0,9240,28.61,50.4,lf,4,PAK,seam,yes,12.737024221453286,23.35121107266436
+3,1515,25,PAK,0,19,299,Mohammad Hafeez,MA Starc,2,14,15,39.94,6374,56.4,Right-hand bat,13,9,0,9240,28.61,50.4,lf,0,PAK,seam,yes,12.737024221453286,23.35121107266436
+3,1516,26,PAK,0,19,299,Mohammad Hafeez,MA Starc,2,14,16,39.94,6374,56.4,Right-hand bat,14,9,0,9240,28.61,50.4,lf,0,PAK,seam,yes,12.737024221453286,23.35121107266436
+3,1517,27,PAK,0,19,299,Mohammad Hafeez,MA Starc,2,14,17,39.94,6374,56.4,Right-hand bat,15,9,0,9240,28.61,50.4,lf,0,PAK,seam,yes,12.737024221453286,23.35121107266436
+3,1518,28,PAK,0,19,299,Mohammad Hafeez,MA Starc,2,14,18,39.94,6374,56.4,Right-hand bat,16,9,0,9240,28.61,50.4,lf,0,PAK,seam,yes,12.737024221453286,23.35121107266436
+3,1519,29,PAK,0,19,299,Mohammad Hafeez,MA Starc,2,14,19,39.94,6374,56.4,Right-hand bat,17,9,0,9240,28.61,50.4,lf,0,PAK,seam,yes,12.737024221453286,23.35121107266436

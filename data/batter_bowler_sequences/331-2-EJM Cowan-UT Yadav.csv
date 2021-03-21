@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,367,6,AUS,1,8,-183,EJM Cowan,UT Yadav,2,0,0,30.66,222,41.44,Left-hand bat,0,0,0,720.3,30.62,45.1,rf,0,AUS,seam,no,47.743055555555564,4.340277777777778
+2,368,7,AUS,1,8,-183,EJM Cowan,UT Yadav,2,0,1,30.66,222,41.44,Left-hand bat,1,0,0,720.3,30.62,45.1,rf,0,AUS,seam,no,47.743055555555564,4.340277777777778
+2,369,8,AUS,1,8,-183,EJM Cowan,UT Yadav,2,0,2,30.66,222,41.44,Left-hand bat,2,0,0,720.3,30.62,45.1,rf,0,AUS,seam,no,47.743055555555564,4.340277777777778
+2,370,9,AUS,1,8,-183,EJM Cowan,UT Yadav,2,0,3,30.66,222,41.44,Left-hand bat,3,0,0,720.3,30.62,45.1,rf,0,AUS,seam,no,47.743055555555564,4.340277777777778
+2,371,10,AUS,1,8,-183,EJM Cowan,UT Yadav,2,0,4,30.66,222,41.44,Left-hand bat,4,0,0,720.3,30.62,45.1,rf,0,AUS,seam,no,47.743055555555564,4.340277777777778
+2,372,11,AUS,1,8,-183,EJM Cowan,UT Yadav,2,0,5,30.66,222,41.44,Left-hand bat,5,0,0,720.3,30.62,45.1,rf,0,AUS,seam,no,47.743055555555564,4.340277777777778
+2,391,30,AUS,2,22,-169,EJM Cowan,UT Yadav,2,7,14,30.66,222,41.44,Left-hand bat,12,6,0,720.3,30.62,45.1,rf,0,AUS,seam,no,47.743055555555564,4.340277777777778
+2,392,31,AUS,2,22,-169,EJM Cowan,UT Yadav,2,7,15,30.66,222,41.44,Left-hand bat,13,6,0,720.3,30.62,45.1,rf,0,AUS,seam,no,47.743055555555564,4.340277777777778
+2,393,32,AUS,2,22,-169,EJM Cowan,UT Yadav,2,7,16,30.66,222,41.44,Left-hand bat,14,6,0,720.3,30.62,45.1,rf,3,AUS,seam,no,47.743055555555564,4.340277777777778

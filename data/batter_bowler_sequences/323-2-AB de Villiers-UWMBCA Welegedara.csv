@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,720,64,RSA,3,27,-311,AB de Villiers,UWMBCA Welegedara,5,0,0,47.91,9418,53.92,Right-hand bat,34,17,2,2940.3,37.73,63.9,lfm,0,RSA,seam,no,16.6725,8.9775
+2,721,65,RSA,3,27,-311,AB de Villiers,UWMBCA Welegedara,5,0,1,47.91,9418,53.92,Right-hand bat,35,17,2,2940.3,37.73,63.9,lfm,1,RSA,seam,no,16.6725,8.9775
+2,732,76,RSA,3,37,-301,AB de Villiers,UWMBCA Welegedara,5,5,8,47.91,9418,53.92,Right-hand bat,40,23,2,2940.3,37.73,63.9,lfm,0,RSA,seam,no,16.6725,8.9775
+2,733,77,RSA,3,37,-301,AB de Villiers,UWMBCA Welegedara,5,5,9,47.91,9418,53.92,Right-hand bat,41,23,2,2940.3,37.73,63.9,lfm,0,RSA,seam,no,16.6725,8.9775
+2,734,78,RSA,3,37,-301,AB de Villiers,UWMBCA Welegedara,5,5,10,47.91,9418,53.92,Right-hand bat,42,23,2,2940.3,37.73,63.9,lfm,0,RSA,seam,no,16.6725,8.9775
+2,741,85,RSA,3,37,-301,AB de Villiers,UWMBCA Welegedara,5,5,11,47.91,9418,53.92,Right-hand bat,43,23,2,2940.3,37.73,63.9,lfm,0,RSA,seam,no,16.6725,8.9775
+2,742,86,RSA,3,37,-301,AB de Villiers,UWMBCA Welegedara,5,5,12,47.91,9418,53.92,Right-hand bat,44,23,2,2940.3,37.73,63.9,lfm,1,RSA,seam,no,16.6725,8.9775
+2,864,208,RSA,3,101,-237,AB de Villiers,UWMBCA Welegedara,5,23,75,47.91,9418,53.92,Right-hand bat,57,30,2,2940.3,37.73,63.9,lfm,0,RSA,seam,no,16.6725,8.9775
+2,865,209,RSA,3,101,-237,AB de Villiers,UWMBCA Welegedara,5,23,76,47.91,9418,53.92,Right-hand bat,58,30,2,2940.3,37.73,63.9,lfm,0,RSA,seam,no,16.6725,8.9775
+2,866,210,RSA,3,101,-237,AB de Villiers,UWMBCA Welegedara,5,23,77,47.91,9418,53.92,Right-hand bat,59,30,2,2940.3,37.73,63.9,lfm,2,RSA,seam,no,16.6725,8.9775
+2,867,211,RSA,3,103,-235,AB de Villiers,UWMBCA Welegedara,5,25,78,47.91,9418,53.92,Right-hand bat,60,32,2,2940.3,37.73,63.9,lfm,W,RSA,seam,no,16.6725,8.9775

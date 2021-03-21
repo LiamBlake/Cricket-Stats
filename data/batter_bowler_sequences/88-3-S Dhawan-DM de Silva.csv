@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1731,142,IND,2,80,243,S Dhawan,DM de Silva,2,22,53,43.78,3037,66.31,Left-hand bat,2,5,0,636,67.83,106,rob,0,IND,spin,yes,21.939643347050758,33.90672153635117
+3,1732,143,IND,2,80,243,S Dhawan,DM de Silva,2,22,54,43.78,3037,66.31,Left-hand bat,3,5,0,636,67.83,106,rob,1,IND,spin,yes,21.939643347050758,33.90672153635117
+3,1760,171,IND,2,95,258,S Dhawan,DM de Silva,2,31,67,43.78,3037,66.31,Left-hand bat,7,7,0,636,67.83,106,rob,1,IND,spin,yes,21.939643347050758,33.90672153635117
+3,1762,173,IND,2,97,260,S Dhawan,DM de Silva,2,32,68,43.78,3037,66.31,Left-hand bat,9,9,0,636,67.83,106,rob,1,IND,spin,yes,21.939643347050758,33.90672153635117
+3,1764,175,IND,2,99,262,S Dhawan,DM de Silva,2,33,69,43.78,3037,66.31,Left-hand bat,11,11,0,636,67.83,106,rob,0,IND,spin,yes,21.939643347050758,33.90672153635117
+3,1784,195,IND,3,119,282,S Dhawan,DM de Silva,2,47,79,43.78,3037,66.31,Left-hand bat,19,16,1,636,67.83,106,rob,1,IND,spin,yes,21.939643347050758,33.90672153635117
+3,1788,199,IND,3,121,284,S Dhawan,DM de Silva,2,48,80,43.78,3037,66.31,Left-hand bat,23,18,1,636,67.83,106,rob,1,IND,spin,yes,21.939643347050758,33.90672153635117
+3,1795,206,IND,3,131,294,S Dhawan,DM de Silva,2,57,86,43.78,3037,66.31,Left-hand bat,24,19,1,636,67.83,106,rob,4,IND,spin,yes,21.939643347050758,33.90672153635117
+3,1796,207,IND,3,135,298,S Dhawan,DM de Silva,2,61,87,43.78,3037,66.31,Left-hand bat,25,23,1,636,67.83,106,rob,4,IND,spin,yes,21.939643347050758,33.90672153635117
+3,1797,208,IND,3,139,302,S Dhawan,DM de Silva,2,65,88,43.78,3037,66.31,Left-hand bat,26,27,1,636,67.83,106,rob,1,IND,spin,yes,21.939643347050758,33.90672153635117
+3,1799,210,IND,3,141,304,S Dhawan,DM de Silva,2,66,89,43.78,3037,66.31,Left-hand bat,28,29,1,636,67.83,106,rob,1,IND,spin,yes,21.939643347050758,33.90672153635117

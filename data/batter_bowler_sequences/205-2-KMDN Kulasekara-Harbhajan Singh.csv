@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,956,461,SRL,7,258,-71,KMDN Kulasekara,Harbhajan Singh,9,1,3,15.12,281,43.06,Right-hand bat,197,93,5,18624.1,30.79,64.8,rob,0,SRL,spin,no,5.77125,19.87875
+2,992,497,SRL,7,266,-63,KMDN Kulasekara,Harbhajan Singh,9,1,14,15.12,281,43.06,Right-hand bat,215,99,5,18624.1,30.79,64.8,rob,0,SRL,spin,no,5.77125,19.87875
+2,1004,509,SRL,7,268,-61,KMDN Kulasekara,Harbhajan Singh,9,1,18,15.12,281,43.06,Right-hand bat,221,100,5,18624.1,30.79,64.8,rob,0,SRL,spin,no,5.77125,19.87875
+2,1025,530,SRL,7,280,-49,KMDN Kulasekara,Harbhajan Singh,9,4,27,15.12,281,43.06,Right-hand bat,228,100,5,18624.1,30.79,64.8,rob,0,SRL,spin,no,5.77125,19.87875
+2,1026,531,SRL,7,280,-49,KMDN Kulasekara,Harbhajan Singh,9,4,28,15.12,281,43.06,Right-hand bat,229,100,5,18624.1,30.79,64.8,rob,0,SRL,spin,no,5.77125,19.87875
+2,1027,532,SRL,7,280,-49,KMDN Kulasekara,Harbhajan Singh,9,4,29,15.12,281,43.06,Right-hand bat,230,100,5,18624.1,30.79,64.8,rob,4b,SRL,spin,no,5.77125,19.87875
+2,1028,533,SRL,7,284,-45,KMDN Kulasekara,Harbhajan Singh,9,4,30,15.12,281,43.06,Right-hand bat,231,100,5,18624.1,30.79,64.8,rob,0,SRL,spin,no,5.77125,19.87875
+2,1029,534,SRL,7,284,-45,KMDN Kulasekara,Harbhajan Singh,9,4,31,15.12,281,43.06,Right-hand bat,232,100,5,18624.1,30.79,64.8,rob,0,SRL,spin,no,5.77125,19.87875
+2,1030,535,SRL,7,284,-45,KMDN Kulasekara,Harbhajan Singh,9,4,32,15.12,281,43.06,Right-hand bat,233,100,5,18624.1,30.79,64.8,rob,0,SRL,spin,no,5.77125,19.87875
+2,1055,560,SRL,9,291,-38,KMDN Kulasekara,Harbhajan Singh,9,4,38,15.12,281,43.06,Right-hand bat,240,101,5,18624.1,30.79,64.8,rob,0,SRL,spin,no,5.77125,19.87875
+2,1056,561,SRL,9,291,-38,KMDN Kulasekara,Harbhajan Singh,9,4,39,15.12,281,43.06,Right-hand bat,241,101,5,18624.1,30.79,64.8,rob,1,SRL,spin,no,5.77125,19.87875

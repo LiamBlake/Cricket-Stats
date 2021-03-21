@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1432,459,WIN,6,198,28,JO Holder,MG Johnson,8,0,0,29.7,517,57.44,Right-hand bat,69,28,2,14580.4,27.6,50.6,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
+3,1433,460,WIN,6,198,28,JO Holder,MG Johnson,8,0,1,29.7,517,57.44,Right-hand bat,70,28,2,14580.4,27.6,50.6,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
+3,1434,461,WIN,6,198,28,JO Holder,MG Johnson,8,0,2,29.7,517,57.44,Right-hand bat,71,28,2,14580.4,27.6,50.6,lf,1lb,WIN,seam,yes,15.171696149843912,8.344432882414152
+3,1454,481,WIN,7,206,36,JO Holder,MG Johnson,8,3,8,29.7,517,57.44,Right-hand bat,79,30,2,14580.4,27.6,50.6,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
+3,1455,482,WIN,7,206,36,JO Holder,MG Johnson,8,3,9,29.7,517,57.44,Right-hand bat,80,30,2,14580.4,27.6,50.6,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
+3,1456,483,WIN,7,206,36,JO Holder,MG Johnson,8,3,10,29.7,517,57.44,Right-hand bat,81,30,2,14580.4,27.6,50.6,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
+3,1457,484,WIN,7,206,36,JO Holder,MG Johnson,8,3,11,29.7,517,57.44,Right-hand bat,82,30,2,14580.4,27.6,50.6,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
+3,1458,485,WIN,7,206,36,JO Holder,MG Johnson,8,3,12,29.7,517,57.44,Right-hand bat,83,30,2,14580.4,27.6,50.6,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
+3,1459,486,WIN,7,206,36,JO Holder,MG Johnson,8,3,13,29.7,517,57.44,Right-hand bat,84,30,2,14580.4,27.6,50.6,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
+3,1466,493,WIN,8,206,36,JO Holder,MG Johnson,8,3,14,29.7,517,57.44,Right-hand bat,85,30,2,14580.4,27.6,50.6,lf,4,WIN,seam,yes,15.171696149843912,8.344432882414152
+3,1467,494,WIN,8,210,40,JO Holder,MG Johnson,8,7,15,29.7,517,57.44,Right-hand bat,86,34,2,14580.4,27.6,50.6,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
+3,1468,495,WIN,8,210,40,JO Holder,MG Johnson,8,7,16,29.7,517,57.44,Right-hand bat,87,34,2,14580.4,27.6,50.6,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
+3,1469,496,WIN,8,210,40,JO Holder,MG Johnson,8,7,17,29.7,517,57.44,Right-hand bat,88,34,2,14580.4,27.6,50.6,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
+3,1470,497,WIN,8,210,40,JO Holder,MG Johnson,8,7,18,29.7,517,57.44,Right-hand bat,89,34,2,14580.4,27.6,50.6,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
+3,1471,498,WIN,8,210,40,JO Holder,MG Johnson,8,7,19,29.7,517,57.44,Right-hand bat,90,34,2,14580.4,27.6,50.6,lf,4,WIN,seam,yes,15.171696149843912,8.344432882414152

@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1435,176,NZL,4,86,-240,DR Flynn,B Lee,6,13,30,43.66,669,39.16,Left-hand bat,31,24,1,15798.4,30.44,52.6,rf,0,AUS,seam,yes,18.846875,1.528125
+4,1436,177,NZL,4,86,-240,DR Flynn,B Lee,6,13,31,43.66,669,39.16,Left-hand bat,32,24,1,15798.4,30.44,52.6,rf,0,AUS,seam,yes,18.846875,1.528125
+4,1437,178,NZL,4,86,-240,DR Flynn,B Lee,6,13,32,43.66,669,39.16,Left-hand bat,33,24,1,15798.4,30.44,52.6,rf,4,AUS,seam,yes,18.846875,1.528125
+4,1438,179,NZL,4,90,-236,DR Flynn,B Lee,6,17,33,43.66,669,39.16,Left-hand bat,34,28,1,15798.4,30.44,52.6,rf,0,AUS,seam,yes,18.846875,1.528125
+4,1439,180,NZL,4,90,-236,DR Flynn,B Lee,6,17,34,43.66,669,39.16,Left-hand bat,35,28,1,15798.4,30.44,52.6,rf,0,AUS,seam,yes,18.846875,1.528125
+4,1440,181,NZL,4,90,-236,DR Flynn,B Lee,6,17,35,43.66,669,39.16,Left-hand bat,36,28,1,15798.4,30.44,52.6,rf,0,AUS,seam,yes,18.846875,1.528125
+4,1453,194,NZL,4,103,-223,DR Flynn,B Lee,6,18,38,43.66,669,39.16,Left-hand bat,43,33,1,15798.4,30.44,52.6,rf,4,AUS,seam,yes,18.846875,1.528125
+4,1460,201,NZL,4,109,-217,DR Flynn,B Lee,6,22,39,43.66,669,39.16,Left-hand bat,44,37,1,15798.4,30.44,52.6,rf,0,AUS,seam,yes,18.846875,1.528125
+4,1461,202,NZL,4,109,-217,DR Flynn,B Lee,6,22,40,43.66,669,39.16,Left-hand bat,45,37,1,15798.4,30.44,52.6,rf,4,AUS,seam,yes,18.846875,1.528125
+4,1462,203,NZL,4,113,-213,DR Flynn,B Lee,6,26,41,43.66,669,39.16,Left-hand bat,46,41,1,15798.4,30.44,52.6,rf,1nb,AUS,seam,yes,18.846875,1.528125
+4,1463,204,NZL,4,114,-212,DR Flynn,B Lee,6,26,42,43.66,669,39.16,Left-hand bat,47,42,1,15798.4,30.44,52.6,rf,0,AUS,seam,yes,18.846875,1.528125
+4,1464,205,NZL,4,114,-212,DR Flynn,B Lee,6,26,43,43.66,669,39.16,Left-hand bat,48,42,1,15798.4,30.44,52.6,rf,0,AUS,seam,yes,18.846875,1.528125
+4,1465,206,NZL,4,114,-212,DR Flynn,B Lee,6,26,44,43.66,669,39.16,Left-hand bat,49,42,1,15798.4,30.44,52.6,rf,0,AUS,seam,yes,18.846875,1.528125
+4,1466,207,NZL,4,114,-212,DR Flynn,B Lee,6,26,45,43.66,669,39.16,Left-hand bat,50,42,1,15798.4,30.44,52.6,rf,0,AUS,seam,yes,18.846875,1.528125

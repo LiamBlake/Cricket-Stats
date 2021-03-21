@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1498,84,ENG,0,35,-592,KK Jennings,RL Chase,2,8,39,25.86,1696,44.22,Left-hand bat,0,0,0,3588.2,41.2,71.8,rob,0,WIN,spin,no,19.01851851851852,9.50925925925926
+4,1499,85,ENG,0,35,-592,KK Jennings,RL Chase,2,8,40,25.86,1696,44.22,Left-hand bat,1,0,0,3588.2,41.2,71.8,rob,1,WIN,spin,no,19.01851851851852,9.50925925925926
+4,1514,100,ENG,0,42,-585,KK Jennings,RL Chase,2,9,47,25.86,1696,44.22,Left-hand bat,10,7,0,3588.2,41.2,71.8,rob,1,WIN,spin,no,19.01851851851852,9.50925925925926
+4,1516,102,ENG,0,44,-583,KK Jennings,RL Chase,2,10,48,25.86,1696,44.22,Left-hand bat,12,9,0,3588.2,41.2,71.8,rob,0,WIN,spin,no,19.01851851851852,9.50925925925926
+4,1523,109,ENG,0,50,-577,KK Jennings,RL Chase,2,10,49,25.86,1696,44.22,Left-hand bat,13,9,0,3588.2,41.2,71.8,rob,0,WIN,spin,no,19.01851851851852,9.50925925925926
+4,1524,110,ENG,0,50,-577,KK Jennings,RL Chase,2,10,50,25.86,1696,44.22,Left-hand bat,14,9,0,3588.2,41.2,71.8,rob,1,WIN,spin,no,19.01851851851852,9.50925925925926

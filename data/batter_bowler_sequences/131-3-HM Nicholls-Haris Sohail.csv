@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1297,396,NZL,4,173,99,HM Nicholls,Haris Sohail,5,32,82,35.88,1928,48.39,Left-hand bat,6,1,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+3,1298,397,NZL,4,173,99,HM Nicholls,Haris Sohail,5,32,83,35.88,1928,48.39,Left-hand bat,7,1,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+3,1299,398,NZL,4,173,99,HM Nicholls,Haris Sohail,5,32,84,35.88,1928,48.39,Left-hand bat,8,1,0,348,19,49.7,lo,1,NZL,spin,yes,9,11
+3,1312,411,NZL,4,179,105,HM Nicholls,Haris Sohail,5,37,91,35.88,1928,48.39,Left-hand bat,15,3,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+3,1313,412,NZL,4,179,105,HM Nicholls,Haris Sohail,5,37,92,35.88,1928,48.39,Left-hand bat,16,3,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+3,1314,413,NZL,4,179,105,HM Nicholls,Haris Sohail,5,37,93,35.88,1928,48.39,Left-hand bat,17,3,0,348,19,49.7,lo,1,NZL,spin,yes,9,11
+3,1321,420,NZL,4,181,107,HM Nicholls,Haris Sohail,5,39,99,35.88,1928,48.39,Left-hand bat,18,4,0,348,19,49.7,lo,2,NZL,spin,yes,9,11
+3,1322,421,NZL,4,183,109,HM Nicholls,Haris Sohail,5,41,100,35.88,1928,48.39,Left-hand bat,19,6,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+3,1323,422,NZL,4,183,109,HM Nicholls,Haris Sohail,5,41,101,35.88,1928,48.39,Left-hand bat,20,6,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+3,1324,423,NZL,4,183,109,HM Nicholls,Haris Sohail,5,41,102,35.88,1928,48.39,Left-hand bat,21,6,0,348,19,49.7,lo,2,NZL,spin,yes,9,11
+3,1325,424,NZL,4,185,111,HM Nicholls,Haris Sohail,5,43,103,35.88,1928,48.39,Left-hand bat,22,8,0,348,19,49.7,lo,0,NZL,spin,yes,9,11
+3,1326,425,NZL,4,185,111,HM Nicholls,Haris Sohail,5,43,104,35.88,1928,48.39,Left-hand bat,23,8,0,348,19,49.7,lo,0,NZL,spin,yes,9,11

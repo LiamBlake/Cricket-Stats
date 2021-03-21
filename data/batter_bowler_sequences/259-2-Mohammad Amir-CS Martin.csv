@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1343,548,PAK,8,313,-116,Mohammad Amir,CS Martin,8,13,49,15.6,194,40.2,Left-hand bat,110,52,2,9990.5,33.42,58.7,rfm,1,NZL,seam,yes,24.055,4.245
+2,1367,572,PAK,9,321,-108,Mohammad Amir,CS Martin,8,16,56,15.6,194,40.2,Left-hand bat,122,57,3,9990.5,33.42,58.7,rfm,0,NZL,seam,yes,24.055,4.245
+2,1368,573,PAK,9,321,-108,Mohammad Amir,CS Martin,8,16,57,15.6,194,40.2,Left-hand bat,123,57,3,9990.5,33.42,58.7,rfm,0,NZL,seam,yes,24.055,4.245
+2,1369,574,PAK,9,321,-108,Mohammad Amir,CS Martin,8,16,58,15.6,194,40.2,Left-hand bat,124,57,3,9990.5,33.42,58.7,rfm,4,NZL,seam,yes,24.055,4.245
+2,1370,575,PAK,9,325,-104,Mohammad Amir,CS Martin,8,20,59,15.6,194,40.2,Left-hand bat,125,61,3,9990.5,33.42,58.7,rfm,2,NZL,seam,yes,24.055,4.245
+2,1371,576,PAK,9,327,-102,Mohammad Amir,CS Martin,8,22,60,15.6,194,40.2,Left-hand bat,126,63,3,9990.5,33.42,58.7,rfm,0,NZL,seam,yes,24.055,4.245
+2,1372,577,PAK,9,327,-102,Mohammad Amir,CS Martin,8,22,61,15.6,194,40.2,Left-hand bat,127,63,3,9990.5,33.42,58.7,rfm,0,NZL,seam,yes,24.055,4.245

@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2635,607,ZIM,6,304,-61,N Ncube,DL Vettori,8,0,2,8.5,23,73.91,Right-hand bat,207,60,1,27342.5,33.61,77.4,lo,0,ZIM,spin,no,21.05678670360111,13.732686980609419
+4,2636,608,ZIM,6,304,-61,N Ncube,DL Vettori,8,0,3,8.5,23,73.91,Right-hand bat,208,60,1,27342.5,33.61,77.4,lo,0,ZIM,spin,no,21.05678670360111,13.732686980609419
+4,2637,609,ZIM,6,304,-61,N Ncube,DL Vettori,8,0,4,8.5,23,73.91,Right-hand bat,209,60,1,27342.5,33.61,77.4,lo,6,ZIM,spin,no,21.05678670360111,13.732686980609419
+4,2644,616,ZIM,6,314,-51,N Ncube,DL Vettori,8,9,9,8.5,23,73.91,Right-hand bat,210,66,1,27342.5,33.61,77.4,lo,2,ZIM,spin,no,21.05678670360111,13.732686980609419
+4,2645,617,ZIM,6,316,-49,N Ncube,DL Vettori,8,11,10,8.5,23,73.91,Right-hand bat,211,68,1,27342.5,33.61,77.4,lo,1,ZIM,spin,no,21.05678670360111,13.732686980609419

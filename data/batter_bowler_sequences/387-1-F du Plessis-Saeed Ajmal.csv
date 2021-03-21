@@ -1,0 +1,21 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,109,109,RSA,2,69,69,F du Plessis,Saeed Ajmal,4,18,20,69.75,1258,44.35,Right-hand bat,3,1,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,110,110,RSA,2,69,69,F du Plessis,Saeed Ajmal,4,18,21,69.75,1258,44.35,Right-hand bat,4,1,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,111,111,RSA,2,69,69,F du Plessis,Saeed Ajmal,4,18,22,69.75,1258,44.35,Right-hand bat,5,1,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,120,120,RSA,2,80,80,F du Plessis,Saeed Ajmal,4,18,25,69.75,1258,44.35,Right-hand bat,7,2,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,121,121,RSA,2,80,80,F du Plessis,Saeed Ajmal,4,18,26,69.75,1258,44.35,Right-hand bat,8,2,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,122,122,RSA,2,80,80,F du Plessis,Saeed Ajmal,4,18,27,69.75,1258,44.35,Right-hand bat,9,2,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,123,123,RSA,2,80,80,F du Plessis,Saeed Ajmal,4,18,28,69.75,1258,44.35,Right-hand bat,10,2,0,8262,27.6,62.1,rob,1,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,135,135,RSA,2,92,92,F du Plessis,Saeed Ajmal,4,19,35,69.75,1258,44.35,Right-hand bat,16,14,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,136,136,RSA,2,92,92,F du Plessis,Saeed Ajmal,4,19,36,69.75,1258,44.35,Right-hand bat,17,14,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,143,143,RSA,2,92,92,F du Plessis,Saeed Ajmal,4,19,37,69.75,1258,44.35,Right-hand bat,18,14,0,8262,27.6,62.1,rob,4,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,144,144,RSA,2,96,96,F du Plessis,Saeed Ajmal,4,23,38,69.75,1258,44.35,Right-hand bat,19,18,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,145,145,RSA,2,96,96,F du Plessis,Saeed Ajmal,4,23,39,69.75,1258,44.35,Right-hand bat,20,18,0,8262,27.6,62.1,rob,1,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,155,155,RSA,2,104,104,F du Plessis,Saeed Ajmal,4,29,42,69.75,1258,44.35,Right-hand bat,24,20,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,156,156,RSA,2,104,104,F du Plessis,Saeed Ajmal,4,29,43,69.75,1258,44.35,Right-hand bat,25,20,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,157,157,RSA,2,104,104,F du Plessis,Saeed Ajmal,4,29,44,69.75,1258,44.35,Right-hand bat,26,20,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,158,158,RSA,2,104,104,F du Plessis,Saeed Ajmal,4,29,45,69.75,1258,44.35,Right-hand bat,27,20,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,159,159,RSA,2,104,104,F du Plessis,Saeed Ajmal,4,29,46,69.75,1258,44.35,Right-hand bat,28,20,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,160,160,RSA,2,104,104,F du Plessis,Saeed Ajmal,4,29,47,69.75,1258,44.35,Right-hand bat,29,20,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,171,171,RSA,2,106,106,F du Plessis,Saeed Ajmal,4,29,53,69.75,1258,44.35,Right-hand bat,34,21,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778
+1,172,172,RSA,2,106,106,F du Plessis,Saeed Ajmal,4,29,54,69.75,1258,44.35,Right-hand bat,35,21,0,8262,27.6,62.1,rob,0,RSA,spin,yes,24.888888888888893,1.777777777777778

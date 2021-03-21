@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1311,383,SRL,5,187,-455,HAPW Jayawardene,Yuvraj Singh,7,34,56,30.28,2069,46.83,Right-hand bat,0,0,0,672.3,48.5,84.3,lo,0,IND,spin,no,10.133333333333333,27.866666666666667
+2,1312,384,SRL,5,187,-455,HAPW Jayawardene,Yuvraj Singh,7,34,57,30.28,2069,46.83,Right-hand bat,1,0,0,672.3,48.5,84.3,lo,0,IND,spin,no,10.133333333333333,27.866666666666667
+2,1313,385,SRL,5,187,-455,HAPW Jayawardene,Yuvraj Singh,7,34,58,30.28,2069,46.83,Right-hand bat,2,0,0,672.3,48.5,84.3,lo,0,IND,spin,no,10.133333333333333,27.866666666666667
+2,1314,386,SRL,5,187,-455,HAPW Jayawardene,Yuvraj Singh,7,34,59,30.28,2069,46.83,Right-hand bat,3,0,0,672.3,48.5,84.3,lo,0,IND,spin,no,10.133333333333333,27.866666666666667
+2,1315,387,SRL,5,187,-455,HAPW Jayawardene,Yuvraj Singh,7,34,60,30.28,2069,46.83,Right-hand bat,4,0,0,672.3,48.5,84.3,lo,1,IND,spin,no,10.133333333333333,27.866666666666667

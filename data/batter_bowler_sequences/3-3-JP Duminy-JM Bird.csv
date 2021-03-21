@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1361,170,RSA,2,83,-41,JP Duminy,JM Bird,4,1,6,32.86,3854,44.34,Left-hand bat,43,13,0,1212.2,26.75,50.5,rfm,0,AUS,seam,yes,23.8828125,7.9609375
+3,1362,171,RSA,2,83,-41,JP Duminy,JM Bird,4,1,7,32.86,3854,44.34,Left-hand bat,44,13,0,1212.2,26.75,50.5,rfm,0,AUS,seam,yes,23.8828125,7.9609375
+3,1363,172,RSA,2,83,-41,JP Duminy,JM Bird,4,1,8,32.86,3854,44.34,Left-hand bat,45,13,0,1212.2,26.75,50.5,rfm,4,AUS,seam,yes,23.8828125,7.9609375
+3,1364,173,RSA,2,87,-37,JP Duminy,JM Bird,4,5,9,32.86,3854,44.34,Left-hand bat,46,17,0,1212.2,26.75,50.5,rfm,0,AUS,seam,yes,23.8828125,7.9609375
+3,1365,174,RSA,2,87,-37,JP Duminy,JM Bird,4,5,10,32.86,3854,44.34,Left-hand bat,47,17,0,1212.2,26.75,50.5,rfm,0,AUS,seam,yes,23.8828125,7.9609375
+3,1366,175,RSA,2,87,-37,JP Duminy,JM Bird,4,5,11,32.86,3854,44.34,Left-hand bat,48,17,0,1212.2,26.75,50.5,rfm,0,AUS,seam,yes,23.8828125,7.9609375
+3,1373,182,RSA,2,87,-37,JP Duminy,JM Bird,4,5,12,32.86,3854,44.34,Left-hand bat,49,17,0,1212.2,26.75,50.5,rfm,0,AUS,seam,yes,23.8828125,7.9609375
+3,1374,183,RSA,2,87,-37,JP Duminy,JM Bird,4,5,13,32.86,3854,44.34,Left-hand bat,50,17,0,1212.2,26.75,50.5,rfm,0,AUS,seam,yes,23.8828125,7.9609375
+3,1375,184,RSA,2,87,-37,JP Duminy,JM Bird,4,5,14,32.86,3854,44.34,Left-hand bat,51,17,0,1212.2,26.75,50.5,rfm,0,AUS,seam,yes,23.8828125,7.9609375
+3,1376,185,RSA,2,87,-37,JP Duminy,JM Bird,4,5,15,32.86,3854,44.34,Left-hand bat,52,17,0,1212.2,26.75,50.5,rfm,0,AUS,seam,yes,23.8828125,7.9609375
+3,1377,186,RSA,2,87,-37,JP Duminy,JM Bird,4,5,16,32.86,3854,44.34,Left-hand bat,53,17,0,1212.2,26.75,50.5,rfm,0,AUS,seam,yes,23.8828125,7.9609375
+3,1378,187,RSA,2,87,-37,JP Duminy,JM Bird,4,5,17,32.86,3854,44.34,Left-hand bat,54,17,0,1212.2,26.75,50.5,rfm,0,AUS,seam,yes,23.8828125,7.9609375

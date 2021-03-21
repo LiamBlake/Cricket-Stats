@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1423,8,WIN,0,6,-115,KOA Powell,Mohammad Abbas,2,0,5,28.14,2310,49.95,Left-hand bat,2,5,0,198,32.66,66,rmf,0,WIN,seam,no,17.797979797979796,8.898989898989898
+3,1424,9,WIN,0,6,-115,KOA Powell,Mohammad Abbas,2,0,6,28.14,2310,49.95,Left-hand bat,3,5,0,198,32.66,66,rmf,0,WIN,seam,no,17.797979797979796,8.898989898989898
+3,1425,10,WIN,0,6,-115,KOA Powell,Mohammad Abbas,2,0,7,28.14,2310,49.95,Left-hand bat,4,5,0,198,32.66,66,rmf,4,WIN,seam,no,17.797979797979796,8.898989898989898
+3,1426,11,WIN,0,10,-111,KOA Powell,Mohammad Abbas,2,4,8,28.14,2310,49.95,Left-hand bat,5,9,0,198,32.66,66,rmf,0,WIN,seam,no,17.797979797979796,8.898989898989898
+3,1433,18,WIN,0,12,-109,KOA Powell,Mohammad Abbas,2,5,14,28.14,2310,49.95,Left-hand bat,6,9,0,198,32.66,66,rmf,0,WIN,seam,no,17.797979797979796,8.898989898989898
+3,1434,19,WIN,0,12,-109,KOA Powell,Mohammad Abbas,2,5,15,28.14,2310,49.95,Left-hand bat,7,9,0,198,32.66,66,rmf,1,WIN,seam,no,17.797979797979796,8.898989898989898
+3,1462,47,WIN,0,20,-101,KOA Powell,Mohammad Abbas,2,8,28,28.14,2310,49.95,Left-hand bat,23,15,0,198,32.66,66,rmf,0,WIN,seam,no,17.797979797979796,8.898989898989898
+3,1474,59,WIN,0,22,-99,KOA Powell,Mohammad Abbas,2,8,32,28.14,2310,49.95,Left-hand bat,29,16,0,198,32.66,66,rmf,0,WIN,seam,no,17.797979797979796,8.898989898989898
+3,1481,66,WIN,1,24,-97,KOA Powell,Mohammad Abbas,2,8,33,28.14,2310,49.95,Left-hand bat,30,16,0,198,32.66,66,rmf,0,WIN,seam,no,17.797979797979796,8.898989898989898
+3,1482,67,WIN,1,24,-97,KOA Powell,Mohammad Abbas,2,8,34,28.14,2310,49.95,Left-hand bat,31,16,0,198,32.66,66,rmf,0,WIN,seam,no,17.797979797979796,8.898989898989898
+3,1483,68,WIN,1,24,-97,KOA Powell,Mohammad Abbas,2,8,35,28.14,2310,49.95,Left-hand bat,32,16,0,198,32.66,66,rmf,4,WIN,seam,no,17.797979797979796,8.898989898989898
+3,1484,69,WIN,1,28,-93,KOA Powell,Mohammad Abbas,2,12,36,28.14,2310,49.95,Left-hand bat,33,20,0,198,32.66,66,rmf,0,WIN,seam,no,17.797979797979796,8.898989898989898
+3,1485,70,WIN,1,28,-93,KOA Powell,Mohammad Abbas,2,12,37,28.14,2310,49.95,Left-hand bat,34,20,0,198,32.66,66,rmf,1,WIN,seam,no,17.797979797979796,8.898989898989898

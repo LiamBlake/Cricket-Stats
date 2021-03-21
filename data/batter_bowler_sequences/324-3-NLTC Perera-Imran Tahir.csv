@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1860,578,SRL,6,267,-74,NLTC Perera,Imran Tahir,8,11,29,14.22,192,66.66,Left-hand bat,157,62,1,900.3,36.78,64.5,rls,0,RSA,spin,yes,36.34375,12.114583333333334
+3,1861,579,SRL,6,267,-74,NLTC Perera,Imran Tahir,8,11,30,14.22,192,66.66,Left-hand bat,158,62,1,900.3,36.78,64.5,rls,2,RSA,spin,yes,36.34375,12.114583333333334
+3,1862,580,SRL,6,269,-72,NLTC Perera,Imran Tahir,8,13,31,14.22,192,66.66,Left-hand bat,159,64,1,900.3,36.78,64.5,rls,0,RSA,spin,yes,36.34375,12.114583333333334
+3,1863,581,SRL,6,269,-72,NLTC Perera,Imran Tahir,8,13,32,14.22,192,66.66,Left-hand bat,160,64,1,900.3,36.78,64.5,rls,0,RSA,spin,yes,36.34375,12.114583333333334
+3,1864,582,SRL,6,269,-72,NLTC Perera,Imran Tahir,8,13,33,14.22,192,66.66,Left-hand bat,161,64,1,900.3,36.78,64.5,rls,4,RSA,spin,yes,36.34375,12.114583333333334
+3,1871,589,SRL,6,275,-66,NLTC Perera,Imran Tahir,8,18,35,14.22,192,66.66,Left-hand bat,162,68,1,900.3,36.78,64.5,rls,2,RSA,spin,yes,36.34375,12.114583333333334
+3,1872,590,SRL,6,277,-64,NLTC Perera,Imran Tahir,8,20,36,14.22,192,66.66,Left-hand bat,163,70,1,900.3,36.78,64.5,rls,4,RSA,spin,yes,36.34375,12.114583333333334
+3,1873,591,SRL,6,281,-60,NLTC Perera,Imran Tahir,8,24,37,14.22,192,66.66,Left-hand bat,164,74,1,900.3,36.78,64.5,rls,0,RSA,spin,yes,36.34375,12.114583333333334
+3,1874,592,SRL,6,281,-60,NLTC Perera,Imran Tahir,8,24,38,14.22,192,66.66,Left-hand bat,165,74,1,900.3,36.78,64.5,rls,1,RSA,spin,yes,36.34375,12.114583333333334
+3,1884,602,SRL,6,304,-37,NLTC Perera,Imran Tahir,8,30,43,14.22,192,66.66,Left-hand bat,168,83,1,900.3,36.78,64.5,rls,0,RSA,spin,yes,36.34375,12.114583333333334
+3,1885,603,SRL,6,304,-37,NLTC Perera,Imran Tahir,8,30,44,14.22,192,66.66,Left-hand bat,169,83,1,900.3,36.78,64.5,rls,W,RSA,spin,yes,36.34375,12.114583333333334

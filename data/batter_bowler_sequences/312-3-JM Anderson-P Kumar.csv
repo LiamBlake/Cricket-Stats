@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1666,699,ENG,9,540,473,JM Anderson,P Kumar,10,0,0,11.89,1563,35.76,Left-hand bat,205,121,5,1368.3,23.96,54.8,rm,0,ENG,seam,no,28.76125,1.51375
+3,1674,707,ENG,9,542,475,JM Anderson,P Kumar,10,0,3,11.89,1563,35.76,Left-hand bat,207,122,5,1368.3,23.96,54.8,rm,0,ENG,seam,no,28.76125,1.51375
+3,1675,708,ENG,9,542,475,JM Anderson,P Kumar,10,0,4,11.89,1563,35.76,Left-hand bat,208,122,5,1368.3,23.96,54.8,rm,0,ENG,seam,no,28.76125,1.51375
+3,1676,709,ENG,9,542,475,JM Anderson,P Kumar,10,0,5,11.89,1563,35.76,Left-hand bat,209,122,5,1368.3,23.96,54.8,rm,0,ENG,seam,no,28.76125,1.51375
+3,1677,710,ENG,9,542,475,JM Anderson,P Kumar,10,0,6,11.89,1563,35.76,Left-hand bat,210,122,5,1368.3,23.96,54.8,rm,0,ENG,seam,no,28.76125,1.51375
+3,1678,711,ENG,9,542,475,JM Anderson,P Kumar,10,0,7,11.89,1563,35.76,Left-hand bat,211,122,5,1368.3,23.96,54.8,rm,1,ENG,seam,no,28.76125,1.51375
+3,1690,723,ENG,9,544,477,JM Anderson,P Kumar,10,1,14,11.89,1563,35.76,Left-hand bat,217,124,5,1368.3,23.96,54.8,rm,0,ENG,seam,no,28.76125,1.51375

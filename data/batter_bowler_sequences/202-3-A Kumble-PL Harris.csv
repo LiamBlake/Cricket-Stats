@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1451,475,IND,6,269,-149,A Kumble,PL Harris,8,1,1,18.24,6249,38.83,Right-hand bat,126,62,0,2430,30.35,71.4,lo,0,IND,spin,yes,25.868312757201647,7.390946502057613
+3,1452,476,IND,6,269,-149,A Kumble,PL Harris,8,1,2,18.24,6249,38.83,Right-hand bat,127,62,0,2430,30.35,71.4,lo,0,IND,spin,yes,25.868312757201647,7.390946502057613
+3,1453,477,IND,6,269,-149,A Kumble,PL Harris,8,1,3,18.24,6249,38.83,Right-hand bat,128,62,0,2430,30.35,71.4,lo,0,IND,spin,yes,25.868312757201647,7.390946502057613
+3,1454,478,IND,6,269,-149,A Kumble,PL Harris,8,1,4,18.24,6249,38.83,Right-hand bat,129,62,0,2430,30.35,71.4,lo,0,IND,spin,yes,25.868312757201647,7.390946502057613
+3,1455,479,IND,6,269,-149,A Kumble,PL Harris,8,1,5,18.24,6249,38.83,Right-hand bat,130,62,0,2430,30.35,71.4,lo,0,IND,spin,yes,25.868312757201647,7.390946502057613
+3,1456,480,IND,6,269,-149,A Kumble,PL Harris,8,1,6,18.24,6249,38.83,Right-hand bat,131,62,0,2430,30.35,71.4,lo,0,IND,spin,yes,25.868312757201647,7.390946502057613
+3,1463,487,IND,6,269,-149,A Kumble,PL Harris,8,1,7,18.24,6249,38.83,Right-hand bat,132,62,0,2430,30.35,71.4,lo,0,IND,spin,yes,25.868312757201647,7.390946502057613
+3,1464,488,IND,6,269,-149,A Kumble,PL Harris,8,1,8,18.24,6249,38.83,Right-hand bat,133,62,0,2430,30.35,71.4,lo,0,IND,spin,yes,25.868312757201647,7.390946502057613
+3,1465,489,IND,6,269,-149,A Kumble,PL Harris,8,1,9,18.24,6249,38.83,Right-hand bat,134,62,0,2430,30.35,71.4,lo,4,IND,spin,yes,25.868312757201647,7.390946502057613
+3,1466,490,IND,6,273,-145,A Kumble,PL Harris,8,5,10,18.24,6249,38.83,Right-hand bat,135,66,0,2430,30.35,71.4,lo,0,IND,spin,yes,25.868312757201647,7.390946502057613
+3,1467,491,IND,6,273,-145,A Kumble,PL Harris,8,5,11,18.24,6249,38.83,Right-hand bat,136,66,0,2430,30.35,71.4,lo,W,IND,spin,yes,25.868312757201647,7.390946502057613

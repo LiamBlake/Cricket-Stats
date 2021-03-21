@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,788,788,SRL,3,417,417,AD Mathews,ST Gabriel,5,33,37,52.01,7730,49.79,Right-hand bat,99,62,0,2130.3,37.03,64.6,rf,0,SRL,seam,yes,11.757777777777779,20.30888888888889
+1,789,789,SRL,3,417,417,AD Mathews,ST Gabriel,5,33,38,52.01,7730,49.79,Right-hand bat,100,62,0,2130.3,37.03,64.6,rf,0,SRL,seam,yes,11.757777777777779,20.30888888888889
+1,790,790,SRL,3,417,417,AD Mathews,ST Gabriel,5,33,39,52.01,7730,49.79,Right-hand bat,101,62,0,2130.3,37.03,64.6,rf,0,SRL,seam,yes,11.757777777777779,20.30888888888889
+1,791,791,SRL,3,417,417,AD Mathews,ST Gabriel,5,33,40,52.01,7730,49.79,Right-hand bat,102,62,0,2130.3,37.03,64.6,rf,0,SRL,seam,yes,11.757777777777779,20.30888888888889
+1,792,792,SRL,3,417,417,AD Mathews,ST Gabriel,5,33,41,52.01,7730,49.79,Right-hand bat,103,62,0,2130.3,37.03,64.6,rf,0,SRL,seam,yes,11.757777777777779,20.30888888888889
+1,799,799,SRL,3,423,423,AD Mathews,ST Gabriel,5,34,43,52.01,7730,49.79,Right-hand bat,104,62,0,2130.3,37.03,64.6,rf,1,SRL,seam,yes,11.757777777777779,20.30888888888889
+1,804,804,SRL,3,425,425,AD Mathews,ST Gabriel,5,35,44,52.01,7730,49.79,Right-hand bat,109,64,0,2130.3,37.03,64.6,rf,0,SRL,seam,yes,11.757777777777779,20.30888888888889

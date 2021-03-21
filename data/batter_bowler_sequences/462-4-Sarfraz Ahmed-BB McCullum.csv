@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2575,367,PAK,5,171,-89,Sarfraz Ahmed,BB McCullum,7,13,15,45.88,1101,70.84,Right-hand bat,0,0,0,132.1,66,133,NA,1,NZL,seam,no,13.96712802768166,22.56228373702422
+4,2587,379,PAK,5,183,-77,Sarfraz Ahmed,BB McCullum,7,21,19,45.88,1101,70.84,Right-hand bat,6,5,0,132.1,66,133,NA,1,NZL,seam,no,13.96712802768166,22.56228373702422
+4,2590,382,PAK,5,185,-75,Sarfraz Ahmed,BB McCullum,7,22,20,45.88,1101,70.84,Right-hand bat,9,7,0,132.1,66,133,NA,1,NZL,seam,no,13.96712802768166,22.56228373702422
+4,2592,384,PAK,5,187,-73,Sarfraz Ahmed,BB McCullum,7,23,21,45.88,1101,70.84,Right-hand bat,11,9,0,132.1,66,133,NA,0,NZL,seam,no,13.96712802768166,22.56228373702422

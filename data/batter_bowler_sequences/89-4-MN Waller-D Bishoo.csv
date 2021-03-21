@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2028,406,ZIM,5,219,-214,MN Waller,D Bishoo,7,0,0,22.48,1092,51.46,Right-hand bat,122,63,3,6558.2,35.89,66.9,rls,0,WIN,spin,no,6.66875,20.00625
+4,2029,407,ZIM,5,219,-214,MN Waller,D Bishoo,7,0,1,22.48,1092,51.46,Right-hand bat,123,63,3,6558.2,35.89,66.9,rls,4,WIN,spin,no,6.66875,20.00625
+4,2030,408,ZIM,5,223,-210,MN Waller,D Bishoo,7,4,2,22.48,1092,51.46,Right-hand bat,124,67,3,6558.2,35.89,66.9,rls,0,WIN,spin,no,6.66875,20.00625
+4,2031,409,ZIM,5,223,-210,MN Waller,D Bishoo,7,4,3,22.48,1092,51.46,Right-hand bat,125,67,3,6558.2,35.89,66.9,rls,0,WIN,spin,no,6.66875,20.00625
+4,2042,420,ZIM,5,229,-204,MN Waller,D Bishoo,7,4,6,22.48,1092,51.46,Right-hand bat,130,68,3,6558.2,35.89,66.9,rls,4,WIN,spin,no,6.66875,20.00625
+4,2043,421,ZIM,5,233,-200,MN Waller,D Bishoo,7,8,7,22.48,1092,51.46,Right-hand bat,131,72,3,6558.2,35.89,66.9,rls,0,WIN,spin,no,6.66875,20.00625
+4,2052,430,ZIM,5,241,-192,MN Waller,D Bishoo,7,8,8,22.48,1092,51.46,Right-hand bat,134,73,3,6558.2,35.89,66.9,rls,0,WIN,spin,no,6.66875,20.00625
+4,2053,431,ZIM,5,241,-192,MN Waller,D Bishoo,7,8,9,22.48,1092,51.46,Right-hand bat,135,73,3,6558.2,35.89,66.9,rls,1,WIN,spin,no,6.66875,20.00625
+4,2055,433,ZIM,5,243,-190,MN Waller,D Bishoo,7,9,10,22.48,1092,51.46,Right-hand bat,137,75,3,6558.2,35.89,66.9,rls,0,WIN,spin,no,6.66875,20.00625

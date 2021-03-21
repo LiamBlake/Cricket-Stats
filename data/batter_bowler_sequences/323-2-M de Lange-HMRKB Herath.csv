@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,957,301,RSA,9,145,-193,M de Lange,HMRKB Herath,11,0,0,4.5,19,47.36,Right-hand bat,105,36,4,8484.2,33.71,71.3,lo,0,RSA,spin,no,16.6725,8.9775
+2,958,302,RSA,9,145,-193,M de Lange,HMRKB Herath,11,0,1,4.5,19,47.36,Right-hand bat,106,36,4,8484.2,33.71,71.3,lo,0,RSA,spin,no,16.6725,8.9775
+2,959,303,RSA,9,145,-193,M de Lange,HMRKB Herath,11,0,2,4.5,19,47.36,Right-hand bat,107,36,4,8484.2,33.71,71.3,lo,0,RSA,spin,no,16.6725,8.9775
+2,970,314,RSA,9,151,-187,M de Lange,HMRKB Herath,11,0,6,4.5,19,47.36,Right-hand bat,112,37,4,8484.2,33.71,71.3,lo,0,RSA,spin,no,16.6725,8.9775
+2,971,315,RSA,9,151,-187,M de Lange,HMRKB Herath,11,0,7,4.5,19,47.36,Right-hand bat,113,37,4,8484.2,33.71,71.3,lo,1,RSA,spin,no,16.6725,8.9775
+2,983,327,RSA,9,159,-179,M de Lange,HMRKB Herath,11,1,14,4.5,19,47.36,Right-hand bat,119,45,4,8484.2,33.71,71.3,lo,4,RSA,spin,no,16.6725,8.9775

@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1655,90,SRL,1,41,-292,NT Paranavitana,S Sreesanth,1,15,45,29.44,1035,51.2,Left-hand bat,6,0,0,3240.5,31.25,55.9,rfm,0,IND,seam,yes,18.677764565992863,30.56361474435196
+3,1656,91,SRL,1,41,-292,NT Paranavitana,S Sreesanth,1,15,46,29.44,1035,51.2,Left-hand bat,7,0,0,3240.5,31.25,55.9,rfm,0,IND,seam,yes,18.677764565992863,30.56361474435196
+3,1657,92,SRL,1,41,-292,NT Paranavitana,S Sreesanth,1,15,47,29.44,1035,51.2,Left-hand bat,8,0,0,3240.5,31.25,55.9,rfm,0,IND,seam,yes,18.677764565992863,30.56361474435196
+3,1658,93,SRL,1,41,-292,NT Paranavitana,S Sreesanth,1,15,48,29.44,1035,51.2,Left-hand bat,9,0,0,3240.5,31.25,55.9,rfm,0,IND,seam,yes,18.677764565992863,30.56361474435196
+3,1659,94,SRL,1,41,-292,NT Paranavitana,S Sreesanth,1,15,49,29.44,1035,51.2,Left-hand bat,10,0,0,3240.5,31.25,55.9,rfm,2,IND,seam,yes,18.677764565992863,30.56361474435196
+3,1660,95,SRL,1,43,-290,NT Paranavitana,S Sreesanth,1,17,50,29.44,1035,51.2,Left-hand bat,11,2,0,3240.5,31.25,55.9,rfm,0,IND,seam,yes,18.677764565992863,30.56361474435196
+3,1671,106,SRL,1,49,-284,NT Paranavitana,S Sreesanth,1,21,56,29.44,1035,51.2,Left-hand bat,16,3,0,3240.5,31.25,55.9,rfm,0,IND,seam,yes,18.677764565992863,30.56361474435196
+3,1672,107,SRL,1,49,-284,NT Paranavitana,S Sreesanth,1,21,57,29.44,1035,51.2,Left-hand bat,17,3,0,3240.5,31.25,55.9,rfm,0,IND,seam,yes,18.677764565992863,30.56361474435196
+3,1835,270,SRL,1,117,-216,NT Paranavitana,S Sreesanth,1,52,141,29.44,1035,51.2,Left-hand bat,30,4,0,3240.5,31.25,55.9,rfm,2,IND,seam,yes,18.677764565992863,30.56361474435196
+3,1836,271,SRL,1,119,-214,NT Paranavitana,S Sreesanth,1,54,142,29.44,1035,51.2,Left-hand bat,31,6,0,3240.5,31.25,55.9,rfm,0,IND,seam,yes,18.677764565992863,30.56361474435196
+3,1837,272,SRL,1,119,-214,NT Paranavitana,S Sreesanth,1,54,143,29.44,1035,51.2,Left-hand bat,32,6,0,3240.5,31.25,55.9,rfm,W,IND,seam,yes,18.677764565992863,30.56361474435196

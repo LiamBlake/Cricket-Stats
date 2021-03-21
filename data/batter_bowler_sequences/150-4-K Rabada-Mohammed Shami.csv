@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2369,355,RSA,9,161,-233,K Rabada,Mohammed Shami,11,0,0,12,1204,44.85,Left-hand bat,49,21,4,8040.1,28.45,50.8,rf,4,IND,seam,no,13.551508844953174,33.125910509885536
+4,2370,356,RSA,9,165,-229,K Rabada,Mohammed Shami,11,4,1,12,1204,44.85,Left-hand bat,50,25,4,8040.1,28.45,50.8,rf,0,IND,seam,no,13.551508844953174,33.125910509885536
+4,2371,357,RSA,9,165,-229,K Rabada,Mohammed Shami,11,4,2,12,1204,44.85,Left-hand bat,51,25,4,8040.1,28.45,50.8,rf,0,IND,seam,no,13.551508844953174,33.125910509885536
+4,2372,358,RSA,9,165,-229,K Rabada,Mohammed Shami,11,4,3,12,1204,44.85,Left-hand bat,52,25,4,8040.1,28.45,50.8,rf,1lb,IND,seam,no,13.551508844953174,33.125910509885536
+4,2383,369,RSA,9,185,-209,K Rabada,Mohammed Shami,11,14,10,12,1204,44.85,Left-hand bat,57,34,4,8040.1,28.45,50.8,rf,0,IND,seam,no,13.551508844953174,33.125910509885536
+4,2384,370,RSA,9,185,-209,K Rabada,Mohammed Shami,11,14,11,12,1204,44.85,Left-hand bat,58,34,4,8040.1,28.45,50.8,rf,0,IND,seam,no,13.551508844953174,33.125910509885536
+4,2385,371,RSA,9,185,-209,K Rabada,Mohammed Shami,11,14,12,12,1204,44.85,Left-hand bat,59,34,4,8040.1,28.45,50.8,rf,0,IND,seam,no,13.551508844953174,33.125910509885536
+4,2393,379,RSA,9,191,-203,K Rabada,Mohammed Shami,11,18,15,12,1204,44.85,Left-hand bat,61,35,4,8040.1,28.45,50.8,rf,0,IND,seam,no,13.551508844953174,33.125910509885536
+4,2394,380,RSA,9,191,-203,K Rabada,Mohammed Shami,11,18,16,12,1204,44.85,Left-hand bat,62,35,4,8040.1,28.45,50.8,rf,0,IND,seam,no,13.551508844953174,33.125910509885536
+4,2395,381,RSA,9,191,-203,K Rabada,Mohammed Shami,11,18,17,12,1204,44.85,Left-hand bat,63,35,4,8040.1,28.45,50.8,rf,0,IND,seam,no,13.551508844953174,33.125910509885536
+4,2396,382,RSA,9,191,-203,K Rabada,Mohammed Shami,11,18,18,12,1204,44.85,Left-hand bat,64,35,4,8040.1,28.45,50.8,rf,W,IND,seam,no,13.551508844953174,33.125910509885536

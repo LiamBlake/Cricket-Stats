@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2212,428,PAK,8,205,-45,Mohammad Amir,DL Vettori,8,4,19,15.6,194,40.2,Left-hand bat,66,42,0,23370.1,33.45,76.1,lo,0,NZL,spin,yes,24.055,4.245
+4,2213,429,PAK,8,205,-45,Mohammad Amir,DL Vettori,8,4,20,15.6,194,40.2,Left-hand bat,67,42,0,23370.1,33.45,76.1,lo,2,NZL,spin,yes,24.055,4.245
+4,2214,430,PAK,8,207,-43,Mohammad Amir,DL Vettori,8,6,21,15.6,194,40.2,Left-hand bat,68,44,0,23370.1,33.45,76.1,lo,0,NZL,spin,yes,24.055,4.245
+4,2215,431,PAK,8,207,-43,Mohammad Amir,DL Vettori,8,6,22,15.6,194,40.2,Left-hand bat,69,44,0,23370.1,33.45,76.1,lo,4,NZL,spin,yes,24.055,4.245
+4,2216,432,PAK,8,211,-39,Mohammad Amir,DL Vettori,8,10,23,15.6,194,40.2,Left-hand bat,70,48,0,23370.1,33.45,76.1,lo,0,NZL,spin,yes,24.055,4.245
+4,2217,433,PAK,8,211,-39,Mohammad Amir,DL Vettori,8,10,24,15.6,194,40.2,Left-hand bat,71,48,0,23370.1,33.45,76.1,lo,0,NZL,spin,yes,24.055,4.245
+4,2225,441,PAK,8,212,-38,Mohammad Amir,DL Vettori,8,10,25,15.6,194,40.2,Left-hand bat,72,48,0,23370.1,33.45,76.1,lo,0,NZL,spin,yes,24.055,4.245
+4,2226,442,PAK,8,212,-38,Mohammad Amir,DL Vettori,8,10,26,15.6,194,40.2,Left-hand bat,73,48,0,23370.1,33.45,76.1,lo,1,NZL,spin,yes,24.055,4.245
+4,2237,453,PAK,9,216,-34,Mohammad Amir,DL Vettori,8,14,32,15.6,194,40.2,Left-hand bat,78,49,1,23370.1,33.45,76.1,lo,0,NZL,spin,yes,24.055,4.245
+4,2238,454,PAK,9,216,-34,Mohammad Amir,DL Vettori,8,14,33,15.6,194,40.2,Left-hand bat,79,49,1,23370.1,33.45,76.1,lo,0,NZL,spin,yes,24.055,4.245
+4,2239,455,PAK,9,216,-34,Mohammad Amir,DL Vettori,8,14,34,15.6,194,40.2,Left-hand bat,80,49,1,23370.1,33.45,76.1,lo,1,NZL,spin,yes,24.055,4.245
+4,2242,458,PAK,9,218,-32,Mohammad Amir,DL Vettori,8,15,35,15.6,194,40.2,Left-hand bat,83,51,1,23370.1,33.45,76.1,lo,W,NZL,spin,yes,24.055,4.245

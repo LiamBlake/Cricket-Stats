@@ -1,0 +1,24 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,967,198,RSA,5,112,189,Q de Kock,Hasan Ali,7,18,22,38.17,3030,71.81,Left-hand bat,30,21,0,1734.3,28.9,56,rmf,0,RSA,seam,yes,22.378125,3.196875
+3,968,199,RSA,5,112,189,Q de Kock,Hasan Ali,7,18,23,38.17,3030,71.81,Left-hand bat,31,21,0,1734.3,28.9,56,rmf,1,RSA,seam,yes,22.378125,3.196875
+3,971,202,RSA,5,114,191,Q de Kock,Hasan Ali,7,19,24,38.17,3030,71.81,Left-hand bat,34,23,0,1734.3,28.9,56,rmf,0,RSA,seam,yes,22.378125,3.196875
+3,972,203,RSA,5,114,191,Q de Kock,Hasan Ali,7,19,25,38.17,3030,71.81,Left-hand bat,35,23,0,1734.3,28.9,56,rmf,4,RSA,seam,yes,22.378125,3.196875
+3,1040,271,RSA,5,173,250,Q de Kock,Hasan Ali,7,48,47,38.17,3030,71.81,Left-hand bat,36,27,0,1734.3,28.9,56,rmf,1,RSA,seam,yes,22.378125,3.196875
+3,1043,274,RSA,5,175,252,Q de Kock,Hasan Ali,7,49,48,38.17,3030,71.81,Left-hand bat,39,29,0,1734.3,28.9,56,rmf,1,RSA,seam,yes,22.378125,3.196875
+3,1045,276,RSA,5,177,254,Q de Kock,Hasan Ali,7,50,49,38.17,3030,71.81,Left-hand bat,41,31,0,1734.3,28.9,56,rmf,4,RSA,seam,yes,22.378125,3.196875
+3,1052,283,RSA,5,181,258,Q de Kock,Hasan Ali,7,54,50,38.17,3030,71.81,Left-hand bat,42,35,0,1734.3,28.9,56,rmf,0,RSA,seam,yes,22.378125,3.196875
+3,1053,284,RSA,5,181,258,Q de Kock,Hasan Ali,7,54,51,38.17,3030,71.81,Left-hand bat,43,35,0,1734.3,28.9,56,rmf,0,RSA,seam,yes,22.378125,3.196875
+3,1054,285,RSA,5,181,258,Q de Kock,Hasan Ali,7,54,52,38.17,3030,71.81,Left-hand bat,44,35,0,1734.3,28.9,56,rmf,1,RSA,seam,yes,22.378125,3.196875
+3,1077,308,RSA,6,198,275,Q de Kock,Hasan Ali,7,62,64,38.17,3030,71.81,Left-hand bat,54,44,1,1734.3,28.9,56,rmf,1,RSA,seam,yes,22.378125,3.196875
+3,1090,321,RSA,6,205,282,Q de Kock,Hasan Ali,7,64,68,38.17,3030,71.81,Left-hand bat,60,49,1,1734.3,28.9,56,rmf,1,RSA,seam,yes,22.378125,3.196875
+3,1105,336,RSA,6,215,292,Q de Kock,Hasan Ali,7,68,74,38.17,3030,71.81,Left-hand bat,69,55,1,1734.3,28.9,56,rmf,1,RSA,seam,yes,22.378125,3.196875
+3,1114,345,RSA,6,217,294,Q de Kock,Hasan Ali,7,70,78,38.17,3030,71.81,Left-hand bat,72,56,1,1734.3,28.9,56,rmf,1,RSA,seam,yes,22.378125,3.196875
+3,1199,430,RSA,7,267,344,Q de Kock,Hasan Ali,7,104,122,38.17,3030,71.81,Left-hand bat,85,66,1,1734.3,28.9,56,rmf,1,RSA,seam,yes,22.378125,3.196875
+3,1210,441,RSA,7,269,346,Q de Kock,Hasan Ali,7,106,125,38.17,3030,71.81,Left-hand bat,90,67,1,1734.3,28.9,56,rmf,1,RSA,seam,yes,22.378125,3.196875
+3,1212,443,RSA,7,271,348,Q de Kock,Hasan Ali,7,107,126,38.17,3030,71.81,Left-hand bat,92,69,1,1734.3,28.9,56,rmf,4,RSA,seam,yes,22.378125,3.196875
+3,1213,444,RSA,7,275,352,Q de Kock,Hasan Ali,7,111,127,38.17,3030,71.81,Left-hand bat,93,73,1,1734.3,28.9,56,rmf,0,RSA,seam,yes,22.378125,3.196875
+3,1214,445,RSA,7,275,352,Q de Kock,Hasan Ali,7,111,128,38.17,3030,71.81,Left-hand bat,94,73,1,1734.3,28.9,56,rmf,1,RSA,seam,yes,22.378125,3.196875
+3,1222,453,RSA,7,277,354,Q de Kock,Hasan Ali,7,113,130,38.17,3030,71.81,Left-hand bat,96,74,1,1734.3,28.9,56,rmf,4,RSA,seam,yes,22.378125,3.196875
+3,1223,454,RSA,7,281,358,Q de Kock,Hasan Ali,7,117,131,38.17,3030,71.81,Left-hand bat,97,78,1,1734.3,28.9,56,rmf,0,RSA,seam,yes,22.378125,3.196875
+3,1224,455,RSA,7,281,358,Q de Kock,Hasan Ali,7,117,132,38.17,3030,71.81,Left-hand bat,98,78,1,1734.3,28.9,56,rmf,4,RSA,seam,yes,22.378125,3.196875
+3,1225,456,RSA,7,285,362,Q de Kock,Hasan Ali,7,121,133,38.17,3030,71.81,Left-hand bat,99,82,1,1734.3,28.9,56,rmf,1,RSA,seam,yes,22.378125,3.196875

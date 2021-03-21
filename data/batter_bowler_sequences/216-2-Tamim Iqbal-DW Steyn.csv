@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,748,0,BAN,0,0,-441,Tamim Iqbal,DW Steyn,1,0,0,23.25,668,41.76,Left-hand bat,0,0,0,4950.2,22.08,36.6,rf,0,RSA,seam,yes,19.243333333333336,5.0200000000000005
+2,749,1,BAN,0,0,-441,Tamim Iqbal,DW Steyn,1,0,1,23.25,668,41.76,Left-hand bat,1,0,0,4950.2,22.08,36.6,rf,0,RSA,seam,yes,19.243333333333336,5.0200000000000005
+2,750,2,BAN,0,0,-441,Tamim Iqbal,DW Steyn,1,0,2,23.25,668,41.76,Left-hand bat,2,0,0,4950.2,22.08,36.6,rf,2,RSA,seam,yes,19.243333333333336,5.0200000000000005
+2,751,3,BAN,0,2,-439,Tamim Iqbal,DW Steyn,1,2,3,23.25,668,41.76,Left-hand bat,3,2,0,4950.2,22.08,36.6,rf,1,RSA,seam,yes,19.243333333333336,5.0200000000000005
+2,760,12,BAN,0,6,-435,Tamim Iqbal,DW Steyn,1,5,7,23.25,668,41.76,Left-hand bat,6,3,0,4950.2,22.08,36.6,rf,0,RSA,seam,yes,19.243333333333336,5.0200000000000005
+2,761,13,BAN,0,6,-435,Tamim Iqbal,DW Steyn,1,5,8,23.25,668,41.76,Left-hand bat,7,3,0,4950.2,22.08,36.6,rf,0,RSA,seam,yes,19.243333333333336,5.0200000000000005
+2,762,14,BAN,0,6,-435,Tamim Iqbal,DW Steyn,1,5,9,23.25,668,41.76,Left-hand bat,8,3,0,4950.2,22.08,36.6,rf,0,RSA,seam,yes,19.243333333333336,5.0200000000000005
+2,763,15,BAN,0,6,-435,Tamim Iqbal,DW Steyn,1,5,10,23.25,668,41.76,Left-hand bat,9,3,0,4950.2,22.08,36.6,rf,2,RSA,seam,yes,19.243333333333336,5.0200000000000005
+2,764,16,BAN,0,8,-433,Tamim Iqbal,DW Steyn,1,7,11,23.25,668,41.76,Left-hand bat,10,5,0,4950.2,22.08,36.6,rf,0,RSA,seam,yes,19.243333333333336,5.0200000000000005
+2,765,17,BAN,0,8,-433,Tamim Iqbal,DW Steyn,1,7,12,23.25,668,41.76,Left-hand bat,11,5,0,4950.2,22.08,36.6,rf,W,RSA,seam,yes,19.243333333333336,5.0200000000000005

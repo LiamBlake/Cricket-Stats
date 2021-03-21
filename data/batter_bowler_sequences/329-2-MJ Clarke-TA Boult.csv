@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,412,135,AUS,4,51,-99,MJ Clarke,TA Boult,5,14,29,46.34,9852,53.62,Right-hand bat,32,8,0,150,20,37.5,lfm,1,AUS,seam,yes,17.228125,1.396875
+2,422,145,AUS,4,53,-97,MJ Clarke,TA Boult,5,16,31,46.34,9852,53.62,Right-hand bat,36,9,0,150,20,37.5,lfm,0,AUS,seam,yes,17.228125,1.396875
+2,423,146,AUS,4,53,-97,MJ Clarke,TA Boult,5,16,32,46.34,9852,53.62,Right-hand bat,37,9,0,150,20,37.5,lfm,1,AUS,seam,yes,17.228125,1.396875
+2,434,157,AUS,5,59,-91,MJ Clarke,TA Boult,5,18,38,46.34,9852,53.62,Right-hand bat,42,14,1,150,20,37.5,lfm,1,AUS,seam,yes,17.228125,1.396875
+2,459,182,AUS,6,72,-78,MJ Clarke,TA Boult,5,20,48,46.34,9852,53.62,Right-hand bat,54,20,1,150,20,37.5,lfm,0,AUS,seam,yes,17.228125,1.396875
+2,460,183,AUS,6,72,-78,MJ Clarke,TA Boult,5,20,49,46.34,9852,53.62,Right-hand bat,55,20,1,150,20,37.5,lfm,1,AUS,seam,yes,17.228125,1.396875
+2,462,185,AUS,6,74,-76,MJ Clarke,TA Boult,5,21,50,46.34,9852,53.62,Right-hand bat,57,22,1,150,20,37.5,lfm,1,AUS,seam,yes,17.228125,1.396875

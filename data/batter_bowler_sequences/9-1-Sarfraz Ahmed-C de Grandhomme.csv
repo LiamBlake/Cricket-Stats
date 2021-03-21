@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,208,208,PAK,5,88,88,Sarfraz Ahmed,C de Grandhomme,7,0,0,41.55,2285,72.73,Right-hand bat,52,23,4,174.5,9.14,25.5,rmf,0,NZL,seam,no,18.52734375,0.59765625
+1,209,209,PAK,5,88,88,Sarfraz Ahmed,C de Grandhomme,7,0,1,41.55,2285,72.73,Right-hand bat,53,23,4,174.5,9.14,25.5,rmf,0,NZL,seam,no,18.52734375,0.59765625
+1,228,228,PAK,5,98,98,Sarfraz Ahmed,C de Grandhomme,7,4,9,41.55,2285,72.73,Right-hand bat,60,27,4,174.5,9.14,25.5,rmf,3,NZL,seam,no,18.52734375,0.59765625

@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1612,550,NZL,8,225,207,TA Boult,A Dananjaya,10,0,3,14.78,1110,54.59,Right-hand bat,170,64,1,1380.5,24.81,41.9,rob,4,SRL,spin,yes,9.247404844290658,22.19377162629758
+3,1613,551,NZL,8,229,211,TA Boult,A Dananjaya,10,4,4,14.78,1110,54.59,Right-hand bat,171,68,1,1380.5,24.81,41.9,rob,0,SRL,spin,yes,9.247404844290658,22.19377162629758
+3,1614,552,NZL,8,229,211,TA Boult,A Dananjaya,10,4,5,14.78,1110,54.59,Right-hand bat,172,68,1,1380.5,24.81,41.9,rob,0,SRL,spin,yes,9.247404844290658,22.19377162629758
+3,1615,553,NZL,8,229,211,TA Boult,A Dananjaya,10,4,6,14.78,1110,54.59,Right-hand bat,173,68,1,1380.5,24.81,41.9,rob,2,SRL,spin,yes,9.247404844290658,22.19377162629758
+3,1648,586,NZL,8,251,233,TA Boult,A Dananjaya,10,17,21,14.78,1110,54.59,Right-hand bat,176,71,1,1380.5,24.81,41.9,rob,6,SRL,spin,yes,9.247404844290658,22.19377162629758
+3,1649,587,NZL,8,257,239,TA Boult,A Dananjaya,10,23,22,14.78,1110,54.59,Right-hand bat,177,77,1,1380.5,24.81,41.9,rob,1,SRL,spin,yes,9.247404844290658,22.19377162629758

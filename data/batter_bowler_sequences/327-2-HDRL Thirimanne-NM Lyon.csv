@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,723,92,SRL,0,40,-276,HDRL Thirimanne,NM Lyon,2,15,45,26.66,236,33.89,Left-hand bat,3,1,0,564.5,36.87,71.1,rob,0,SRL,spin,yes,29.959999999999997,12.84
+2,724,93,SRL,0,40,-276,HDRL Thirimanne,NM Lyon,2,15,46,26.66,236,33.89,Left-hand bat,4,1,0,564.5,36.87,71.1,rob,0,SRL,spin,yes,29.959999999999997,12.84
+2,725,94,SRL,0,40,-276,HDRL Thirimanne,NM Lyon,2,15,47,26.66,236,33.89,Left-hand bat,5,1,0,564.5,36.87,71.1,rob,0,SRL,spin,yes,29.959999999999997,12.84
+2,732,101,SRL,0,40,-276,HDRL Thirimanne,NM Lyon,2,15,48,26.66,236,33.89,Left-hand bat,6,1,0,564.5,36.87,71.1,rob,0,SRL,spin,yes,29.959999999999997,12.84
+2,733,102,SRL,0,40,-276,HDRL Thirimanne,NM Lyon,2,15,49,26.66,236,33.89,Left-hand bat,7,1,0,564.5,36.87,71.1,rob,1,SRL,spin,yes,29.959999999999997,12.84
+2,735,104,SRL,0,42,-274,HDRL Thirimanne,NM Lyon,2,16,50,26.66,236,33.89,Left-hand bat,9,3,0,564.5,36.87,71.1,rob,0,SRL,spin,yes,29.959999999999997,12.84
+2,736,105,SRL,0,42,-274,HDRL Thirimanne,NM Lyon,2,16,51,26.66,236,33.89,Left-hand bat,10,3,0,564.5,36.87,71.1,rob,1,SRL,spin,yes,29.959999999999997,12.84
+2,749,118,SRL,0,44,-272,HDRL Thirimanne,NM Lyon,2,17,58,26.66,236,33.89,Left-hand bat,17,5,0,564.5,36.87,71.1,rob,0,SRL,spin,yes,29.959999999999997,12.84
+2,775,144,SRL,0,47,-269,HDRL Thirimanne,NM Lyon,2,19,71,26.66,236,33.89,Left-hand bat,19,6,0,564.5,36.87,71.1,rob,4,SRL,spin,yes,29.959999999999997,12.84
+2,776,145,SRL,0,51,-265,HDRL Thirimanne,NM Lyon,2,23,72,26.66,236,33.89,Left-hand bat,20,10,0,564.5,36.87,71.1,rob,0,SRL,spin,yes,29.959999999999997,12.84
+2,777,146,SRL,0,51,-265,HDRL Thirimanne,NM Lyon,2,23,73,26.66,236,33.89,Left-hand bat,21,10,0,564.5,36.87,71.1,rob,0,SRL,spin,yes,29.959999999999997,12.84
+2,778,147,SRL,0,51,-265,HDRL Thirimanne,NM Lyon,2,23,74,26.66,236,33.89,Left-hand bat,22,10,0,564.5,36.87,71.1,rob,0,SRL,spin,yes,29.959999999999997,12.84
+2,779,148,SRL,0,51,-265,HDRL Thirimanne,NM Lyon,2,23,75,26.66,236,33.89,Left-hand bat,23,10,0,564.5,36.87,71.1,rob,1,SRL,spin,yes,29.959999999999997,12.84

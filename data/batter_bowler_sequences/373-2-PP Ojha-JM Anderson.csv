@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1666,791,IND,8,298,-32,PP Ojha,JM Anderson,10,0,5,12.28,482,17.84,Left-hand bat,161,69,5,16938.5,30.39,58.8,rfm,0,IND,seam,no,15.243856332703215,28.58223062381853
+2,1677,802,IND,8,300,-30,PP Ojha,JM Anderson,10,0,7,12.28,482,17.84,Left-hand bat,166,70,5,16938.5,30.39,58.8,rfm,0,IND,seam,no,15.243856332703215,28.58223062381853
+2,1678,803,IND,8,300,-30,PP Ojha,JM Anderson,10,0,8,12.28,482,17.84,Left-hand bat,167,70,5,16938.5,30.39,58.8,rfm,0,IND,seam,no,15.243856332703215,28.58223062381853
+2,1686,811,IND,8,302,-28,PP Ojha,JM Anderson,10,0,14,12.28,482,17.84,Left-hand bat,169,71,5,16938.5,30.39,58.8,rfm,1,IND,seam,no,15.243856332703215,28.58223062381853
+2,1688,813,IND,8,304,-26,PP Ojha,JM Anderson,10,1,15,12.28,482,17.84,Left-hand bat,171,73,5,16938.5,30.39,58.8,rfm,1,IND,seam,no,15.243856332703215,28.58223062381853
+2,1698,823,IND,8,308,-22,PP Ojha,JM Anderson,10,2,21,12.28,482,17.84,Left-hand bat,175,76,5,16938.5,30.39,58.8,rfm,0,IND,seam,no,15.243856332703215,28.58223062381853
+2,1699,824,IND,8,308,-22,PP Ojha,JM Anderson,10,2,22,12.28,482,17.84,Left-hand bat,176,76,5,16938.5,30.39,58.8,rfm,0,IND,seam,no,15.243856332703215,28.58223062381853
+2,1700,825,IND,8,308,-22,PP Ojha,JM Anderson,10,2,23,12.28,482,17.84,Left-hand bat,177,76,5,16938.5,30.39,58.8,rfm,1lb,IND,seam,no,15.243856332703215,28.58223062381853
+2,1702,827,IND,8,310,-20,PP Ojha,JM Anderson,10,2,24,12.28,482,17.84,Left-hand bat,179,77,5,16938.5,30.39,58.8,rfm,0,IND,seam,no,15.243856332703215,28.58223062381853
+2,1711,836,IND,8,314,-16,PP Ojha,JM Anderson,10,2,28,12.28,482,17.84,Left-hand bat,182,78,5,16938.5,30.39,58.8,rfm,1,IND,seam,no,15.243856332703215,28.58223062381853
+2,1713,838,IND,8,316,-14,PP Ojha,JM Anderson,10,3,29,12.28,482,17.84,Left-hand bat,184,80,5,16938.5,30.39,58.8,rfm,0,IND,seam,no,15.243856332703215,28.58223062381853
+2,1714,839,IND,8,316,-14,PP Ojha,JM Anderson,10,3,30,12.28,482,17.84,Left-hand bat,185,80,5,16938.5,30.39,58.8,rfm,1lb,IND,seam,no,15.243856332703215,28.58223062381853

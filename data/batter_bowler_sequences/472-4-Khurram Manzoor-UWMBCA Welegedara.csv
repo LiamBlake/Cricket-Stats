@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1821,0,PAK,0,0,-270,Khurram Manzoor,UWMBCA Welegedara,1,0,0,28.17,1827,44.71,Right-hand bat,0,0,0,3798.1,41.32,69,lfm,0,SRL,seam,no,9.61625,17.171875
+4,1822,1,PAK,0,0,-270,Khurram Manzoor,UWMBCA Welegedara,1,0,1,28.17,1827,44.71,Right-hand bat,1,0,0,3798.1,41.32,69,lfm,1,SRL,seam,no,9.61625,17.171875
+4,1824,3,PAK,0,2,-268,Khurram Manzoor,UWMBCA Welegedara,1,1,2,28.17,1827,44.71,Right-hand bat,3,1,0,3798.1,41.32,69,lfm,0,SRL,seam,no,9.61625,17.171875
+4,1825,4,PAK,0,2,-268,Khurram Manzoor,UWMBCA Welegedara,1,1,3,28.17,1827,44.71,Right-hand bat,4,1,0,3798.1,41.32,69,lfm,0,SRL,seam,no,9.61625,17.171875
+4,1826,5,PAK,0,2,-268,Khurram Manzoor,UWMBCA Welegedara,1,1,4,28.17,1827,44.71,Right-hand bat,5,1,0,3798.1,41.32,69,lfm,0,SRL,seam,no,9.61625,17.171875
+4,1833,12,PAK,0,8,-262,Khurram Manzoor,UWMBCA Welegedara,1,1,5,28.17,1827,44.71,Right-hand bat,6,1,0,3798.1,41.32,69,lfm,4,SRL,seam,no,9.61625,17.171875
+4,1834,13,PAK,0,12,-258,Khurram Manzoor,UWMBCA Welegedara,1,5,6,28.17,1827,44.71,Right-hand bat,7,5,0,3798.1,41.32,69,lfm,0,SRL,seam,no,9.61625,17.171875
+4,1835,14,PAK,0,12,-258,Khurram Manzoor,UWMBCA Welegedara,1,5,7,28.17,1827,44.71,Right-hand bat,8,5,0,3798.1,41.32,69,lfm,0,SRL,seam,no,9.61625,17.171875
+4,1836,15,PAK,0,12,-258,Khurram Manzoor,UWMBCA Welegedara,1,5,8,28.17,1827,44.71,Right-hand bat,9,5,0,3798.1,41.32,69,lfm,1,SRL,seam,no,9.61625,17.171875

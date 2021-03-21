@@ -1,0 +1,3 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1608,742,WIN,9,370,430,ST Gabriel,SC Williams,11,0,2,5.03,347,37.75,Right-hand bat,202,91,2,1134.1,40.33,75.6,lo,0,WIN,spin,yes,6.66875,20.00625
+3,1609,743,WIN,9,370,430,ST Gabriel,SC Williams,11,0,3,5.03,347,37.75,Right-hand bat,203,91,2,1134.1,40.33,75.6,lo,0,WIN,spin,yes,6.66875,20.00625

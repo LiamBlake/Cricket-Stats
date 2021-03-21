@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1104,441,IND,5,221,-112,I Sharma,NM Lyon,5,5,25,11.11,1386,28.86,Right-hand bat,84,53,0,1188.4,27.47,51.8,rob,0,AUS,spin,no,22.4,3.2
+2,1105,442,IND,5,221,-112,I Sharma,NM Lyon,5,5,26,11.11,1386,28.86,Right-hand bat,85,53,0,1188.4,27.47,51.8,rob,3,AUS,spin,no,22.4,3.2
+2,1121,458,IND,5,231,-102,I Sharma,NM Lyon,5,10,33,11.11,1386,28.86,Right-hand bat,95,61,0,1188.4,27.47,51.8,rob,0,AUS,spin,no,22.4,3.2
+2,1131,468,IND,5,235,-98,I Sharma,NM Lyon,5,10,37,11.11,1386,28.86,Right-hand bat,99,64,0,1188.4,27.47,51.8,rob,0,AUS,spin,no,22.4,3.2
+2,1132,469,IND,5,235,-98,I Sharma,NM Lyon,5,10,38,11.11,1386,28.86,Right-hand bat,100,64,0,1188.4,27.47,51.8,rob,1,AUS,spin,no,22.4,3.2

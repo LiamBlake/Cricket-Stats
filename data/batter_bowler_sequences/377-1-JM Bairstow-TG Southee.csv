@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,371,371,ENG,4,182,182,JM Bairstow,TG Southee,6,15,22,31,622,54.82,Right-hand bat,85,36,1,5406,34.33,65.1,rmf,1,ENG,seam,yes,17.742857142857144,11.82857142857143
+1,374,374,ENG,4,184,184,JM Bairstow,TG Southee,6,16,23,31,622,54.82,Right-hand bat,88,38,1,5406,34.33,65.1,rmf,1,ENG,seam,yes,17.742857142857144,11.82857142857143
+1,382,382,ENG,4,206,206,JM Bairstow,TG Southee,6,24,27,31,622,54.82,Right-hand bat,90,41,1,5406,34.33,65.1,rmf,0,ENG,seam,yes,17.742857142857144,11.82857142857143
+1,383,383,ENG,4,206,206,JM Bairstow,TG Southee,6,24,28,31,622,54.82,Right-hand bat,91,41,1,5406,34.33,65.1,rmf,0,ENG,seam,yes,17.742857142857144,11.82857142857143
+1,384,384,ENG,4,206,206,JM Bairstow,TG Southee,6,24,29,31,622,54.82,Right-hand bat,92,41,1,5406,34.33,65.1,rmf,0,ENG,seam,yes,17.742857142857144,11.82857142857143
+1,385,385,ENG,4,206,206,JM Bairstow,TG Southee,6,24,30,31,622,54.82,Right-hand bat,93,41,1,5406,34.33,65.1,rmf,1,ENG,seam,yes,17.742857142857144,11.82857142857143

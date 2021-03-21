@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1416,36,AUS,0,15,211,SM Katich,Mohammad Asif,2,2,12,44.63,6794,49.92,Left-hand bat,18,3,0,3348.4,23.01,45.9,rfm,0,AUS,seam,yes,26.181818181818183,9.818181818181818
+3,1417,37,AUS,0,15,211,SM Katich,Mohammad Asif,2,2,13,44.63,6794,49.92,Left-hand bat,19,3,0,3348.4,23.01,45.9,rfm,0,AUS,seam,yes,26.181818181818183,9.818181818181818
+3,1418,38,AUS,0,15,211,SM Katich,Mohammad Asif,2,2,14,44.63,6794,49.92,Left-hand bat,20,3,0,3348.4,23.01,45.9,rfm,W,AUS,seam,yes,26.181818181818183,9.818181818181818

@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1025,57,IRE,5,24,-157,SR Thompson,CR Woakes,7,0,0,10.66,194,32.98,Left-hand bat,27,10,4,4704.2,31.06,60.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
+4,1026,58,IRE,5,24,-157,SR Thompson,CR Woakes,7,0,1,10.66,194,32.98,Left-hand bat,28,10,4,4704.2,31.06,60.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
+4,1027,59,IRE,5,24,-157,SR Thompson,CR Woakes,7,0,2,10.66,194,32.98,Left-hand bat,29,10,4,4704.2,31.06,60.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
+4,1046,78,IRE,7,32,-149,SR Thompson,CR Woakes,7,0,4,10.66,194,32.98,Left-hand bat,36,11,4,4704.2,31.06,60.3,rfm,4,ENG,seam,no,15.033750000000001,0.79125
+4,1047,79,IRE,7,36,-145,SR Thompson,CR Woakes,7,4,5,10.66,194,32.98,Left-hand bat,37,15,4,4704.2,31.06,60.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
+4,1048,80,IRE,7,36,-145,SR Thompson,CR Woakes,7,4,6,10.66,194,32.98,Left-hand bat,38,15,4,4704.2,31.06,60.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
+4,1049,81,IRE,7,36,-145,SR Thompson,CR Woakes,7,4,7,10.66,194,32.98,Left-hand bat,39,15,4,4704.2,31.06,60.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
+4,1050,82,IRE,7,36,-145,SR Thompson,CR Woakes,7,4,8,10.66,194,32.98,Left-hand bat,40,15,4,4704.2,31.06,60.3,rfm,W,ENG,seam,no,15.033750000000001,0.79125

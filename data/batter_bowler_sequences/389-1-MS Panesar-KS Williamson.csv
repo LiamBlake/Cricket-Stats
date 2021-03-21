@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,888,888,ENG,9,465,465,MS Panesar,KS Williamson,11,0,0,5.21,679,31.51,Left-hand bat,21,16,1,780.4,47,78.4,rob,0,NZL,spin,no,27.303719008264466,12.741735537190083
+1,889,889,ENG,9,465,465,MS Panesar,KS Williamson,11,0,1,5.21,679,31.51,Left-hand bat,22,16,1,780.4,47,78.4,rob,0,NZL,spin,no,27.303719008264466,12.741735537190083
+1,890,890,ENG,9,465,465,MS Panesar,KS Williamson,11,0,2,5.21,679,31.51,Left-hand bat,23,16,1,780.4,47,78.4,rob,W,NZL,spin,no,27.303719008264466,12.741735537190083

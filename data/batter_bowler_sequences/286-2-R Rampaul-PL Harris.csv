@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1910,1009,WIN,8,489,-54,R Rampaul,PL Harris,10,0,3,19,190,60,Left-hand bat,347,157,2,7176.1,36.67,78.8,lo,0,WIN,spin,no,36.67590027700831,33.008310249307485
+2,1911,1010,WIN,8,489,-54,R Rampaul,PL Harris,10,0,4,19,190,60,Left-hand bat,348,157,2,7176.1,36.67,78.8,lo,0,WIN,spin,no,36.67590027700831,33.008310249307485
+2,1912,1011,WIN,8,489,-54,R Rampaul,PL Harris,10,0,5,19,190,60,Left-hand bat,349,157,2,7176.1,36.67,78.8,lo,0,WIN,spin,no,36.67590027700831,33.008310249307485
+2,1913,1012,WIN,8,489,-54,R Rampaul,PL Harris,10,0,6,19,190,60,Left-hand bat,350,157,2,7176.1,36.67,78.8,lo,0,WIN,spin,no,36.67590027700831,33.008310249307485
+2,1914,1013,WIN,8,489,-54,R Rampaul,PL Harris,10,0,7,19,190,60,Left-hand bat,351,157,2,7176.1,36.67,78.8,lo,1,WIN,spin,no,36.67590027700831,33.008310249307485
+2,1923,1022,WIN,8,495,-48,R Rampaul,PL Harris,10,5,14,19,190,60,Left-hand bat,354,159,2,7176.1,36.67,78.8,lo,1,WIN,spin,no,36.67590027700831,33.008310249307485
+2,1937,1036,WIN,8,501,-42,R Rampaul,PL Harris,10,9,19,19,190,60,Left-hand bat,362,161,2,7176.1,36.67,78.8,lo,1,WIN,spin,no,36.67590027700831,33.008310249307485
+2,1983,1082,WIN,8,540,-3,R Rampaul,PL Harris,10,29,47,19,190,60,Left-hand bat,365,162,2,7176.1,36.67,78.8,lo,0,WIN,spin,no,36.67590027700831,33.008310249307485
+2,1984,1083,WIN,8,540,-3,R Rampaul,PL Harris,10,29,48,19,190,60,Left-hand bat,366,162,2,7176.1,36.67,78.8,lo,0,WIN,spin,no,36.67590027700831,33.008310249307485
+2,1985,1084,WIN,8,540,-3,R Rampaul,PL Harris,10,29,49,19,190,60,Left-hand bat,367,162,2,7176.1,36.67,78.8,lo,1,WIN,spin,no,36.67590027700831,33.008310249307485

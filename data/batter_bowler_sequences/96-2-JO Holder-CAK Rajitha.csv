@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1004,526,WIN,6,254,1,JO Holder,CAK Rajitha,7,2,13,29.48,2315,57.32,Right-hand bat,104,40,1,210,14.4,42,rmf,1,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1009,531,WIN,6,256,3,JO Holder,CAK Rajitha,7,3,14,29.48,2315,57.32,Right-hand bat,109,42,1,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1016,538,WIN,6,260,7,JO Holder,CAK Rajitha,7,6,19,29.48,2315,57.32,Right-hand bat,110,42,1,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1017,539,WIN,6,260,7,JO Holder,CAK Rajitha,7,6,20,29.48,2315,57.32,Right-hand bat,111,42,1,210,14.4,42,rmf,1,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1029,551,WIN,7,267,14,JO Holder,CAK Rajitha,7,7,26,29.48,2315,57.32,Right-hand bat,116,43,2,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1030,552,WIN,7,267,14,JO Holder,CAK Rajitha,7,7,27,29.48,2315,57.32,Right-hand bat,117,43,2,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1031,553,WIN,7,267,14,JO Holder,CAK Rajitha,7,7,28,29.48,2315,57.32,Right-hand bat,118,43,2,210,14.4,42,rmf,4,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1032,554,WIN,7,271,18,JO Holder,CAK Rajitha,7,11,29,29.48,2315,57.32,Right-hand bat,119,47,2,210,14.4,42,rmf,1,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1041,563,WIN,7,279,26,JO Holder,CAK Rajitha,7,15,32,29.48,2315,57.32,Right-hand bat,122,48,2,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1042,564,WIN,7,279,26,JO Holder,CAK Rajitha,7,15,33,29.48,2315,57.32,Right-hand bat,123,48,2,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1043,565,WIN,7,279,26,JO Holder,CAK Rajitha,7,15,34,29.48,2315,57.32,Right-hand bat,124,48,2,210,14.4,42,rmf,W,SRL,seam,no,28.070204081632653,1.7012244897959183

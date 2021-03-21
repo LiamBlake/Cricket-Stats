@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2064,442,ZIM,6,246,-187,RW Chakabva,D Bishoo,8,0,0,25.57,1321,40.65,Right-hand bat,140,75,4,6558.2,35.89,66.9,rls,0,WIN,spin,no,6.66875,20.00625
+4,2065,443,ZIM,6,246,-187,RW Chakabva,D Bishoo,8,0,1,25.57,1321,40.65,Right-hand bat,141,75,4,6558.2,35.89,66.9,rls,0,WIN,spin,no,6.66875,20.00625
+4,2066,444,ZIM,6,246,-187,RW Chakabva,D Bishoo,8,0,2,25.57,1321,40.65,Right-hand bat,142,75,4,6558.2,35.89,66.9,rls,0,WIN,spin,no,6.66875,20.00625
+4,2067,445,ZIM,6,246,-187,RW Chakabva,D Bishoo,8,0,3,25.57,1321,40.65,Right-hand bat,143,75,4,6558.2,35.89,66.9,rls,0,WIN,spin,no,6.66875,20.00625

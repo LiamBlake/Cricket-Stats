@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1317,1,NZL,0,1,-134,MJ Guptill,JR Hazlewood,2,0,0,29.92,4958,45.86,Right-hand bat,1,1,0,3570.5,25.77,51,rfm,0,NZL,seam,no,37.57483930211203,5.182736455463728
+3,1318,2,NZL,0,1,-134,MJ Guptill,JR Hazlewood,2,0,1,29.92,4958,45.86,Right-hand bat,2,1,0,3570.5,25.77,51,rfm,0,NZL,seam,no,37.57483930211203,5.182736455463728
+3,1319,3,NZL,0,1,-134,MJ Guptill,JR Hazlewood,2,0,2,29.92,4958,45.86,Right-hand bat,3,1,0,3570.5,25.77,51,rfm,0,NZL,seam,no,37.57483930211203,5.182736455463728
+3,1320,4,NZL,0,1,-134,MJ Guptill,JR Hazlewood,2,0,3,29.92,4958,45.86,Right-hand bat,4,1,0,3570.5,25.77,51,rfm,0,NZL,seam,no,37.57483930211203,5.182736455463728
+3,1321,5,NZL,0,1,-134,MJ Guptill,JR Hazlewood,2,0,4,29.92,4958,45.86,Right-hand bat,5,1,0,3570.5,25.77,51,rfm,0,NZL,seam,no,37.57483930211203,5.182736455463728
+3,1328,12,NZL,0,7,-128,MJ Guptill,JR Hazlewood,2,0,5,29.92,4958,45.86,Right-hand bat,6,1,0,3570.5,25.77,51,rfm,0,NZL,seam,no,37.57483930211203,5.182736455463728
+3,1329,13,NZL,0,7,-128,MJ Guptill,JR Hazlewood,2,0,6,29.92,4958,45.86,Right-hand bat,7,1,0,3570.5,25.77,51,rfm,0,NZL,seam,no,37.57483930211203,5.182736455463728
+3,1330,14,NZL,0,7,-128,MJ Guptill,JR Hazlewood,2,0,7,29.92,4958,45.86,Right-hand bat,8,1,0,3570.5,25.77,51,rfm,0,NZL,seam,no,37.57483930211203,5.182736455463728
+3,1331,15,NZL,0,7,-128,MJ Guptill,JR Hazlewood,2,0,8,29.92,4958,45.86,Right-hand bat,9,1,0,3570.5,25.77,51,rfm,0,NZL,seam,no,37.57483930211203,5.182736455463728
+3,1332,16,NZL,0,7,-128,MJ Guptill,JR Hazlewood,2,0,9,29.92,4958,45.86,Right-hand bat,10,1,0,3570.5,25.77,51,rfm,0,NZL,seam,no,37.57483930211203,5.182736455463728
+3,1333,17,NZL,0,7,-128,MJ Guptill,JR Hazlewood,2,0,10,29.92,4958,45.86,Right-hand bat,11,1,0,3570.5,25.77,51,rfm,0,NZL,seam,no,37.57483930211203,5.182736455463728

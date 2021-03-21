@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1849,199,SRL,3,139,335,DPMD Jayawardene,SJ Benn,4,23,29,52.39,14157,52.55,Right-hand bat,6,7,0,318,59.66,106,lo,1,WIN,spin,yes,24.61469387755102,12.842448979591836
+3,1864,214,SRL,3,147,343,DPMD Jayawardene,SJ Benn,4,25,31,52.39,14157,52.55,Right-hand bat,15,11,0,318,59.66,106,lo,1,WIN,spin,yes,24.61469387755102,12.842448979591836
+3,1866,216,SRL,3,149,345,DPMD Jayawardene,SJ Benn,4,26,32,52.39,14157,52.55,Right-hand bat,17,13,0,318,59.66,106,lo,1,WIN,spin,yes,24.61469387755102,12.842448979591836
+3,1874,224,SRL,3,155,351,DPMD Jayawardene,SJ Benn,4,29,36,52.39,14157,52.55,Right-hand bat,19,15,0,318,59.66,106,lo,4,WIN,spin,yes,24.61469387755102,12.842448979591836
+3,1875,225,SRL,3,159,355,DPMD Jayawardene,SJ Benn,4,33,37,52.39,14157,52.55,Right-hand bat,20,19,0,318,59.66,106,lo,W,WIN,spin,yes,24.61469387755102,12.842448979591836

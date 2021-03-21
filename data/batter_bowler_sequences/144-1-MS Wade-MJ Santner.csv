@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,319,319,AUS,3,150,150,MS Wade,MJ Santner,5,2,11,31.51,2774,51.11,Left-hand bat,19,22,0,3744.2,44.71,96,lo,0,AUS,spin,no,21.712653061224486,6.680816326530612
+1,320,320,AUS,3,150,150,MS Wade,MJ Santner,5,2,12,31.51,2774,51.11,Left-hand bat,20,22,0,3744.2,44.71,96,lo,1,AUS,spin,no,21.712653061224486,6.680816326530612
+1,409,409,AUS,3,195,195,MS Wade,MJ Santner,5,21,56,31.51,2774,51.11,Left-hand bat,25,24,0,3744.2,44.71,96,lo,0,AUS,spin,no,21.712653061224486,6.680816326530612
+1,410,410,AUS,3,195,195,MS Wade,MJ Santner,5,21,57,31.51,2774,51.11,Left-hand bat,26,24,0,3744.2,44.71,96,lo,3,AUS,spin,no,21.712653061224486,6.680816326530612
+1,412,412,AUS,3,199,199,MS Wade,MJ Santner,5,24,58,31.51,2774,51.11,Left-hand bat,28,28,0,3744.2,44.71,96,lo,1,AUS,spin,no,21.712653061224486,6.680816326530612
+1,420,420,AUS,3,201,201,MS Wade,MJ Santner,5,26,65,31.51,2774,51.11,Left-hand bat,30,29,0,3744.2,44.71,96,lo,1,AUS,spin,no,21.712653061224486,6.680816326530612

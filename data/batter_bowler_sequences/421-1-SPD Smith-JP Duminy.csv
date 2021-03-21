@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,350,350,AUS,3,217,217,SPD Smith,JP Duminy,5,0,0,40.02,2633,51.69,Right-hand bat,22,14,1,1788,39.03,66.2,rob,0,RSA,spin,yes,34.251953125,7.904296875
+1,351,351,AUS,3,217,217,SPD Smith,JP Duminy,5,0,1,40.02,2633,51.69,Right-hand bat,23,14,1,1788,39.03,66.2,rob,2,RSA,spin,yes,34.251953125,7.904296875
+1,385,385,AUS,3,229,229,SPD Smith,JP Duminy,5,4,14,40.02,2633,51.69,Right-hand bat,27,17,1,1788,39.03,66.2,rob,0,RSA,spin,yes,34.251953125,7.904296875
+1,386,386,AUS,3,229,229,SPD Smith,JP Duminy,5,4,15,40.02,2633,51.69,Right-hand bat,28,17,1,1788,39.03,66.2,rob,0,RSA,spin,yes,34.251953125,7.904296875
+1,387,387,AUS,3,229,229,SPD Smith,JP Duminy,5,4,16,40.02,2633,51.69,Right-hand bat,29,17,1,1788,39.03,66.2,rob,0,RSA,spin,yes,34.251953125,7.904296875
+1,398,398,AUS,3,237,237,SPD Smith,JP Duminy,5,4,18,40.02,2633,51.69,Right-hand bat,34,22,1,1788,39.03,66.2,rob,0,RSA,spin,yes,34.251953125,7.904296875
+1,399,399,AUS,3,237,237,SPD Smith,JP Duminy,5,4,19,40.02,2633,51.69,Right-hand bat,35,22,1,1788,39.03,66.2,rob,1,RSA,spin,yes,34.251953125,7.904296875
+1,408,408,AUS,3,247,247,SPD Smith,JP Duminy,5,9,26,40.02,2633,51.69,Right-hand bat,38,28,1,1788,39.03,66.2,rob,1,RSA,spin,yes,34.251953125,7.904296875
+1,473,473,AUS,3,287,287,SPD Smith,JP Duminy,5,30,64,40.02,2633,51.69,Right-hand bat,42,33,1,1788,39.03,66.2,rob,0,RSA,spin,yes,34.251953125,7.904296875
+1,474,474,AUS,3,287,287,SPD Smith,JP Duminy,5,30,65,40.02,2633,51.69,Right-hand bat,43,33,1,1788,39.03,66.2,rob,0,RSA,spin,yes,34.251953125,7.904296875
+1,475,475,AUS,3,287,287,SPD Smith,JP Duminy,5,30,66,40.02,2633,51.69,Right-hand bat,44,33,1,1788,39.03,66.2,rob,1,RSA,spin,yes,34.251953125,7.904296875
+1,486,486,AUS,3,291,291,SPD Smith,JP Duminy,5,33,73,40.02,2633,51.69,Right-hand bat,49,35,1,1788,39.03,66.2,rob,0,RSA,spin,yes,34.251953125,7.904296875
+1,487,487,AUS,3,291,291,SPD Smith,JP Duminy,5,33,74,40.02,2633,51.69,Right-hand bat,50,35,1,1788,39.03,66.2,rob,0,RSA,spin,yes,34.251953125,7.904296875
+1,488,488,AUS,3,291,291,SPD Smith,JP Duminy,5,33,75,40.02,2633,51.69,Right-hand bat,51,35,1,1788,39.03,66.2,rob,1,RSA,spin,yes,34.251953125,7.904296875

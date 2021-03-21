@@ -1,0 +1,2 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,482,482,PAK,9,277,277,Mohammad Abbas,M Labuschagne,10,9,15,4.71,241,13.69,Right-hand bat,70,44,3,234,22.42,33.4,rls,1,PAK,spin,yes,11.076265614727152,13.682445759368834

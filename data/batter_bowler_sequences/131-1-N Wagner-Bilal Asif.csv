@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,366,366,NZL,8,145,145,N Wagner,Bilal Asif,9,8,21,12.61,1115,40.71,Left-hand bat,60,26,0,600.3,23.4,60.3,rob,0,NZL,spin,yes,9,11
+1,367,367,NZL,8,145,145,N Wagner,Bilal Asif,9,8,22,12.61,1115,40.71,Left-hand bat,61,26,0,600.3,23.4,60.3,rob,0,NZL,spin,yes,9,11
+1,368,368,NZL,8,145,145,N Wagner,Bilal Asif,9,8,23,12.61,1115,40.71,Left-hand bat,62,26,0,600.3,23.4,60.3,rob,1,NZL,spin,yes,9,11
+1,378,378,NZL,8,147,147,N Wagner,Bilal Asif,9,10,26,12.61,1115,40.71,Left-hand bat,66,27,0,600.3,23.4,60.3,rob,2,NZL,spin,yes,9,11
+1,379,379,NZL,8,149,149,N Wagner,Bilal Asif,9,12,27,12.61,1115,40.71,Left-hand bat,67,29,0,600.3,23.4,60.3,rob,0,NZL,spin,yes,9,11
+1,380,380,NZL,8,149,149,N Wagner,Bilal Asif,9,12,28,12.61,1115,40.71,Left-hand bat,68,29,0,600.3,23.4,60.3,rob,0,NZL,spin,yes,9,11
+1,381,381,NZL,8,149,149,N Wagner,Bilal Asif,9,12,29,12.61,1115,40.71,Left-hand bat,69,29,0,600.3,23.4,60.3,rob,0,NZL,spin,yes,9,11
+1,382,382,NZL,8,149,149,N Wagner,Bilal Asif,9,12,30,12.61,1115,40.71,Left-hand bat,70,29,0,600.3,23.4,60.3,rob,0,NZL,spin,yes,9,11
+1,383,383,NZL,8,149,149,N Wagner,Bilal Asif,9,12,31,12.61,1115,40.71,Left-hand bat,71,29,0,600.3,23.4,60.3,rob,0,NZL,spin,yes,9,11
+1,390,390,NZL,8,149,149,N Wagner,Bilal Asif,9,12,32,12.61,1115,40.71,Left-hand bat,72,29,0,600.3,23.4,60.3,rob,W,NZL,spin,yes,9,11

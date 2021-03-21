@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1021,196,WIN,6,111,-403,JO Holder,TS Roland-Jones,8,4,3,29.23,1737,57.22,Right-hand bat,27,22,2,402.2,19.35,28.8,rmf,0,ENG,seam,no,21.9375,7.3125
+2,1022,197,WIN,6,111,-403,JO Holder,TS Roland-Jones,8,4,4,29.23,1737,57.22,Right-hand bat,28,22,2,402.2,19.35,28.8,rmf,0,ENG,seam,no,21.9375,7.3125
+2,1023,198,WIN,6,111,-403,JO Holder,TS Roland-Jones,8,4,5,29.23,1737,57.22,Right-hand bat,29,22,2,402.2,19.35,28.8,rmf,0,ENG,seam,no,21.9375,7.3125
+2,1024,199,WIN,6,111,-403,JO Holder,TS Roland-Jones,8,4,6,29.23,1737,57.22,Right-hand bat,30,22,2,402.2,19.35,28.8,rmf,0,ENG,seam,no,21.9375,7.3125
+2,1031,206,WIN,6,113,-401,JO Holder,TS Roland-Jones,8,5,9,29.23,1737,57.22,Right-hand bat,31,22,2,402.2,19.35,28.8,rmf,0,ENG,seam,no,21.9375,7.3125
+2,1032,207,WIN,6,113,-401,JO Holder,TS Roland-Jones,8,5,10,29.23,1737,57.22,Right-hand bat,32,22,2,402.2,19.35,28.8,rmf,4,ENG,seam,no,21.9375,7.3125
+2,1033,208,WIN,6,117,-397,JO Holder,TS Roland-Jones,8,9,11,29.23,1737,57.22,Right-hand bat,33,26,2,402.2,19.35,28.8,rmf,1,ENG,seam,no,21.9375,7.3125

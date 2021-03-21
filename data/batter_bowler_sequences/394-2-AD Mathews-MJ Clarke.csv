@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1076,278,SRL,4,157,-293,AD Mathews,MJ Clarke,6,35,66,41.76,3398,46.7,Right-hand bat,1,1,0,2244,36.6,74.8,lo,0,AUS,spin,no,29.071836734693875,8.613877551020408
+2,1077,279,SRL,4,157,-293,AD Mathews,MJ Clarke,6,35,67,41.76,3398,46.7,Right-hand bat,2,1,0,2244,36.6,74.8,lo,0,AUS,spin,no,29.071836734693875,8.613877551020408
+2,1078,280,SRL,4,157,-293,AD Mathews,MJ Clarke,6,35,68,41.76,3398,46.7,Right-hand bat,3,1,0,2244,36.6,74.8,lo,0,AUS,spin,no,29.071836734693875,8.613877551020408
+2,1079,281,SRL,4,157,-293,AD Mathews,MJ Clarke,6,35,69,41.76,3398,46.7,Right-hand bat,4,1,0,2244,36.6,74.8,lo,0,AUS,spin,no,29.071836734693875,8.613877551020408
+2,1080,282,SRL,4,157,-293,AD Mathews,MJ Clarke,6,35,70,41.76,3398,46.7,Right-hand bat,5,1,0,2244,36.6,74.8,lo,0,AUS,spin,no,29.071836734693875,8.613877551020408
+2,1087,289,SRL,4,163,-287,AD Mathews,MJ Clarke,6,35,71,41.76,3398,46.7,Right-hand bat,6,1,0,2244,36.6,74.8,lo,0,AUS,spin,no,29.071836734693875,8.613877551020408
+2,1088,290,SRL,4,163,-287,AD Mathews,MJ Clarke,6,35,72,41.76,3398,46.7,Right-hand bat,7,1,0,2244,36.6,74.8,lo,0,AUS,spin,no,29.071836734693875,8.613877551020408
+2,1089,291,SRL,4,163,-287,AD Mathews,MJ Clarke,6,35,73,41.76,3398,46.7,Right-hand bat,8,1,0,2244,36.6,74.8,lo,0,AUS,spin,no,29.071836734693875,8.613877551020408
+2,1090,292,SRL,4,163,-287,AD Mathews,MJ Clarke,6,35,74,41.76,3398,46.7,Right-hand bat,9,1,0,2244,36.6,74.8,lo,0,AUS,spin,no,29.071836734693875,8.613877551020408
+2,1091,293,SRL,4,163,-287,AD Mathews,MJ Clarke,6,35,75,41.76,3398,46.7,Right-hand bat,10,1,0,2244,36.6,74.8,lo,4,AUS,spin,no,29.071836734693875,8.613877551020408
+2,1092,294,SRL,4,167,-283,AD Mathews,MJ Clarke,6,39,76,41.76,3398,46.7,Right-hand bat,11,5,0,2244,36.6,74.8,lo,4,AUS,spin,no,29.071836734693875,8.613877551020408

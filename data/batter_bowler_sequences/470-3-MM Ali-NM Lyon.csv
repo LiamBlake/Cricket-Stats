@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1605,553,ENG,8,247,-85,MM Ali,NM Lyon,9,11,26,31.2,1526,49.08,Left-hand bat,154,53,2,10482,34.09,64.7,rob,0,ENG,spin,yes,22.391111111111112,8.142222222222223
+3,1606,554,ENG,8,247,-85,MM Ali,NM Lyon,9,11,27,31.2,1526,49.08,Left-hand bat,155,53,2,10482,34.09,64.7,rob,1b,ENG,spin,yes,22.391111111111112,8.142222222222223
+3,1626,574,ENG,8,258,-74,MM Ali,NM Lyon,9,17,35,31.2,1526,49.08,Left-hand bat,162,53,2,10482,34.09,64.7,rob,0,ENG,spin,yes,22.391111111111112,8.142222222222223
+3,1627,575,ENG,8,258,-74,MM Ali,NM Lyon,9,17,36,31.2,1526,49.08,Left-hand bat,163,53,2,10482,34.09,64.7,rob,0,ENG,spin,yes,22.391111111111112,8.142222222222223
+3,1628,576,ENG,8,258,-74,MM Ali,NM Lyon,9,17,37,31.2,1526,49.08,Left-hand bat,164,53,2,10482,34.09,64.7,rob,0,ENG,spin,yes,22.391111111111112,8.142222222222223
+3,1629,577,ENG,8,258,-74,MM Ali,NM Lyon,9,17,38,31.2,1526,49.08,Left-hand bat,165,53,2,10482,34.09,64.7,rob,0,ENG,spin,yes,22.391111111111112,8.142222222222223
+3,1630,578,ENG,8,258,-74,MM Ali,NM Lyon,9,17,39,31.2,1526,49.08,Left-hand bat,166,53,2,10482,34.09,64.7,rob,0,ENG,spin,yes,22.391111111111112,8.142222222222223
+3,1631,579,ENG,8,258,-74,MM Ali,NM Lyon,9,17,40,31.2,1526,49.08,Left-hand bat,167,53,2,10482,34.09,64.7,rob,0,ENG,spin,yes,22.391111111111112,8.142222222222223

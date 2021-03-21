@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1256,589,ENG,3,253,-22,IR Bell,HMRKB Herath,5,0,0,46.49,9872,52.27,Right-hand bat,185,64,1,9450.2,32.09,68,lo,0,SRL,spin,no,10.83984375,23.84765625
+2,1275,608,ENG,3,279,4,IR Bell,HMRKB Herath,5,1,6,46.49,9872,52.27,Right-hand bat,192,67,1,9450.2,32.09,68,lo,4,SRL,spin,no,10.83984375,23.84765625
+2,1276,609,ENG,3,283,8,IR Bell,HMRKB Herath,5,5,7,46.49,9872,52.27,Right-hand bat,193,71,1,9450.2,32.09,68,lo,0,SRL,spin,no,10.83984375,23.84765625
+2,1277,610,ENG,3,283,8,IR Bell,HMRKB Herath,5,5,8,46.49,9872,52.27,Right-hand bat,194,71,1,9450.2,32.09,68,lo,1,SRL,spin,no,10.83984375,23.84765625
+2,1287,620,ENG,3,287,12,IR Bell,HMRKB Herath,5,8,14,46.49,9872,52.27,Right-hand bat,198,72,1,9450.2,32.09,68,lo,1,SRL,spin,no,10.83984375,23.84765625
+2,1289,622,ENG,3,289,14,IR Bell,HMRKB Herath,5,9,15,46.49,9872,52.27,Right-hand bat,200,74,1,9450.2,32.09,68,lo,1,SRL,spin,no,10.83984375,23.84765625
+2,1291,624,ENG,3,291,16,IR Bell,HMRKB Herath,5,10,16,46.49,9872,52.27,Right-hand bat,202,76,1,9450.2,32.09,68,lo,0,SRL,spin,no,10.83984375,23.84765625
+2,1292,625,ENG,3,291,16,IR Bell,HMRKB Herath,5,10,17,46.49,9872,52.27,Right-hand bat,203,76,1,9450.2,32.09,68,lo,0,SRL,spin,no,10.83984375,23.84765625
+2,1366,699,ENG,3,346,71,IR Bell,HMRKB Herath,5,17,46,46.49,9872,52.27,Right-hand bat,217,81,1,9450.2,32.09,68,lo,0,SRL,spin,no,10.83984375,23.84765625
+2,1367,700,ENG,3,346,71,IR Bell,HMRKB Herath,5,17,47,46.49,9872,52.27,Right-hand bat,218,81,1,9450.2,32.09,68,lo,0,SRL,spin,no,10.83984375,23.84765625
+2,1368,701,ENG,3,346,71,IR Bell,HMRKB Herath,5,17,48,46.49,9872,52.27,Right-hand bat,219,81,1,9450.2,32.09,68,lo,0,SRL,spin,no,10.83984375,23.84765625
+2,1369,702,ENG,3,346,71,IR Bell,HMRKB Herath,5,17,49,46.49,9872,52.27,Right-hand bat,220,81,1,9450.2,32.09,68,lo,1,SRL,spin,no,10.83984375,23.84765625

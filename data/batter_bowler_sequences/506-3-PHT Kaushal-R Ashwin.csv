@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1487,465,SRL,8,337,145,PHT Kaushal,R Ashwin,10,2,7,9.85,153,45.09,Right-hand bat,156,109,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1488,466,SRL,8,337,145,PHT Kaushal,R Ashwin,10,2,8,9.85,153,45.09,Right-hand bat,157,109,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1489,467,SRL,8,337,145,PHT Kaushal,R Ashwin,10,2,9,9.85,153,45.09,Right-hand bat,158,109,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1490,468,SRL,8,337,145,PHT Kaushal,R Ashwin,10,2,10,9.85,153,45.09,Right-hand bat,159,109,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1491,469,SRL,8,337,145,PHT Kaushal,R Ashwin,10,2,11,9.85,153,45.09,Right-hand bat,160,109,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1492,470,SRL,8,337,145,PHT Kaushal,R Ashwin,10,2,12,9.85,153,45.09,Right-hand bat,161,109,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1505,483,SRL,8,347,155,PHT Kaushal,R Ashwin,10,3,16,9.85,153,45.09,Right-hand bat,166,110,3,7794.4,29.14,58.1,rob,4,SRL,spin,yes,5.833125000000001,20.091875
+3,1506,484,SRL,8,351,159,PHT Kaushal,R Ashwin,10,7,17,9.85,153,45.09,Right-hand bat,167,114,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875

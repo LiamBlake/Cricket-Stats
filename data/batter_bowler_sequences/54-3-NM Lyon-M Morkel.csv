@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1378,404,AUS,8,203,392,NM Lyon,M Morkel,10,0,0,11.46,1645,44.62,Right-hand bat,68,37,2,16176,28.2,54.4,rf,0,AUS,seam,yes,16.8675,9.0825
+3,1379,405,AUS,8,203,392,NM Lyon,M Morkel,10,0,1,11.46,1645,44.62,Right-hand bat,69,37,2,16176,28.2,54.4,rf,0,AUS,seam,yes,16.8675,9.0825
+3,1380,406,AUS,8,203,392,NM Lyon,M Morkel,10,0,2,11.46,1645,44.62,Right-hand bat,70,37,2,16176,28.2,54.4,rf,0,AUS,seam,yes,16.8675,9.0825
+3,1381,407,AUS,8,203,392,NM Lyon,M Morkel,10,0,3,11.46,1645,44.62,Right-hand bat,71,37,2,16176,28.2,54.4,rf,0,AUS,seam,yes,16.8675,9.0825
+3,1388,414,AUS,8,207,396,NM Lyon,M Morkel,10,0,4,11.46,1645,44.62,Right-hand bat,72,37,2,16176,28.2,54.4,rf,1,AUS,seam,yes,16.8675,9.0825
+3,1400,426,AUS,8,209,398,NM Lyon,M Morkel,10,2,10,11.46,1645,44.62,Right-hand bat,78,38,2,16176,28.2,54.4,rf,W,AUS,seam,yes,16.8675,9.0825

@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1799,422,AUS,4,154,-288,BJ Haddin,DW Steyn,6,0,0,37.54,1694,53.18,Right-hand bat,97,32,2,6672.4,23.7,39.2,rf,0,RSA,seam,yes,27.064444444444447,15.668888888888889
+3,1800,423,AUS,4,154,-288,BJ Haddin,DW Steyn,6,0,1,37.54,1694,53.18,Right-hand bat,98,32,2,6672.4,23.7,39.2,rf,0,RSA,seam,yes,27.064444444444447,15.668888888888889
+3,1801,424,AUS,4,154,-288,BJ Haddin,DW Steyn,6,0,2,37.54,1694,53.18,Right-hand bat,99,32,2,6672.4,23.7,39.2,rf,0,RSA,seam,yes,27.064444444444447,15.668888888888889
+3,1802,425,AUS,4,154,-288,BJ Haddin,DW Steyn,6,0,3,37.54,1694,53.18,Right-hand bat,100,32,2,6672.4,23.7,39.2,rf,0,RSA,seam,yes,27.064444444444447,15.668888888888889
+3,1803,426,AUS,4,154,-288,BJ Haddin,DW Steyn,6,0,4,37.54,1694,53.18,Right-hand bat,101,32,2,6672.4,23.7,39.2,rf,1wd,RSA,seam,yes,27.064444444444447,15.668888888888889
+3,1804,427,AUS,4,155,-287,BJ Haddin,DW Steyn,6,0,4,37.54,1694,53.18,Right-hand bat,102,33,2,6672.4,23.7,39.2,rf,0,RSA,seam,yes,27.064444444444447,15.668888888888889
+3,1805,428,AUS,4,155,-287,BJ Haddin,DW Steyn,6,0,5,37.54,1694,53.18,Right-hand bat,103,33,2,6672.4,23.7,39.2,rf,0,RSA,seam,yes,27.064444444444447,15.668888888888889

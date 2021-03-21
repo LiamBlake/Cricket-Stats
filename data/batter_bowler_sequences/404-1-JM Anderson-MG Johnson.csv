@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,547,547,ENG,8,231,231,JM Anderson,MG Johnson,10,0,0,10.37,2094,39.15,Left-hand bat,126,59,4,12330.3,28.75,52.2,lf,0,AUS,seam,no,20.3671875,6.7890625
+1,557,557,ENG,8,241,241,JM Anderson,MG Johnson,10,0,2,10.37,2094,39.15,Left-hand bat,130,60,4,12330.3,28.75,52.2,lf,0,AUS,seam,no,20.3671875,6.7890625
+1,558,558,ENG,8,241,241,JM Anderson,MG Johnson,10,0,3,10.37,2094,39.15,Left-hand bat,131,60,4,12330.3,28.75,52.2,lf,0,AUS,seam,no,20.3671875,6.7890625
+1,559,559,ENG,8,241,241,JM Anderson,MG Johnson,10,0,4,10.37,2094,39.15,Left-hand bat,132,60,4,12330.3,28.75,52.2,lf,0,AUS,seam,no,20.3671875,6.7890625
+1,578,578,ENG,9,243,243,JM Anderson,MG Johnson,10,1,11,10.37,2094,39.15,Left-hand bat,139,60,5,12330.3,28.75,52.2,lf,0,AUS,seam,no,20.3671875,6.7890625
+1,579,579,ENG,9,243,243,JM Anderson,MG Johnson,10,1,12,10.37,2094,39.15,Left-hand bat,140,60,5,12330.3,28.75,52.2,lf,0,AUS,seam,no,20.3671875,6.7890625
+1,580,580,ENG,9,243,243,JM Anderson,MG Johnson,10,1,13,10.37,2094,39.15,Left-hand bat,141,60,5,12330.3,28.75,52.2,lf,0,AUS,seam,no,20.3671875,6.7890625
+1,581,581,ENG,9,243,243,JM Anderson,MG Johnson,10,1,14,10.37,2094,39.15,Left-hand bat,142,60,5,12330.3,28.75,52.2,lf,2,AUS,seam,no,20.3671875,6.7890625
+1,582,582,ENG,9,245,245,JM Anderson,MG Johnson,10,3,15,10.37,2094,39.15,Left-hand bat,143,62,5,12330.3,28.75,52.2,lf,1,AUS,seam,no,20.3671875,6.7890625

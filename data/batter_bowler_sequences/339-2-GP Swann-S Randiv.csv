@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1506,839,ENG,7,422,147,GP Swann,S Randiv,9,0,1,22.02,1207,78.45,Right-hand bat,176,97,0,2208.4,40.17,79,rob,0,SRL,spin,no,10.83984375,23.84765625
+2,1507,840,ENG,7,422,147,GP Swann,S Randiv,9,0,2,22.02,1207,78.45,Right-hand bat,177,97,0,2208.4,40.17,79,rob,0,SRL,spin,no,10.83984375,23.84765625
+2,1508,841,ENG,7,422,147,GP Swann,S Randiv,9,0,3,22.02,1207,78.45,Right-hand bat,178,97,0,2208.4,40.17,79,rob,0,SRL,spin,no,10.83984375,23.84765625
+2,1509,842,ENG,7,422,147,GP Swann,S Randiv,9,0,4,22.02,1207,78.45,Right-hand bat,179,97,0,2208.4,40.17,79,rob,0,SRL,spin,no,10.83984375,23.84765625
+2,1520,853,ENG,7,428,153,GP Swann,S Randiv,9,4,8,22.02,1207,78.45,Right-hand bat,184,98,0,2208.4,40.17,79,rob,0,SRL,spin,no,10.83984375,23.84765625
+2,1521,854,ENG,7,428,153,GP Swann,S Randiv,9,4,9,22.02,1207,78.45,Right-hand bat,185,98,0,2208.4,40.17,79,rob,0,SRL,spin,no,10.83984375,23.84765625
+2,1546,879,ENG,7,439,164,GP Swann,S Randiv,9,7,20,22.02,1207,78.45,Right-hand bat,186,98,0,2208.4,40.17,79,rob,0,SRL,spin,no,10.83984375,23.84765625
+2,1547,880,ENG,7,439,164,GP Swann,S Randiv,9,7,21,22.02,1207,78.45,Right-hand bat,187,98,0,2208.4,40.17,79,rob,0,SRL,spin,no,10.83984375,23.84765625
+2,1548,881,ENG,7,439,164,GP Swann,S Randiv,9,7,22,22.02,1207,78.45,Right-hand bat,188,98,0,2208.4,40.17,79,rob,1,SRL,spin,no,10.83984375,23.84765625
+2,1550,883,ENG,7,441,166,GP Swann,S Randiv,9,8,23,22.02,1207,78.45,Right-hand bat,190,100,0,2208.4,40.17,79,rob,0,SRL,spin,no,10.83984375,23.84765625
+2,1551,884,ENG,7,441,166,GP Swann,S Randiv,9,8,24,22.02,1207,78.45,Right-hand bat,191,100,0,2208.4,40.17,79,rob,1,SRL,spin,no,10.83984375,23.84765625
+2,1563,896,ENG,7,447,172,GP Swann,S Randiv,9,10,28,22.02,1207,78.45,Right-hand bat,197,104,0,2208.4,40.17,79,rob,1,SRL,spin,no,10.83984375,23.84765625

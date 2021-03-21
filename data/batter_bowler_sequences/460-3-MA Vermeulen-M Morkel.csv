@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1688,176,ZIM,2,61,-80,MA Vermeulen,M Morkel,4,0,3,24.94,940,47.76,Right-hand bat,50,5,1,11580,29.9,56.7,rf,0,ZIM,seam,yes,14.618106139438087,13.704474505723207
+3,1689,177,ZIM,2,61,-80,MA Vermeulen,M Morkel,4,0,4,24.94,940,47.76,Right-hand bat,51,5,1,11580,29.9,56.7,rf,0,ZIM,seam,yes,14.618106139438087,13.704474505723207
+3,1690,178,ZIM,2,61,-80,MA Vermeulen,M Morkel,4,0,5,24.94,940,47.76,Right-hand bat,52,5,1,11580,29.9,56.7,rf,0,ZIM,seam,yes,14.618106139438087,13.704474505723207
+3,1691,179,ZIM,2,61,-80,MA Vermeulen,M Morkel,4,0,6,24.94,940,47.76,Right-hand bat,53,5,1,11580,29.9,56.7,rf,0,ZIM,seam,yes,14.618106139438087,13.704474505723207

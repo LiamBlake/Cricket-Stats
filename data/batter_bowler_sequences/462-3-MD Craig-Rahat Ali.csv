@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2113,294,NZL,6,168,178,MD Craig,Rahat Ali,8,1,5,39,511,45.79,Left-hand bat,24,19,0,2064.4,38.44,76.5,lfm,0,NZL,seam,yes,13.96712802768166,22.56228373702422
+3,2114,295,NZL,6,168,178,MD Craig,Rahat Ali,8,1,6,39,511,45.79,Left-hand bat,25,19,0,2064.4,38.44,76.5,lfm,0,NZL,seam,yes,13.96712802768166,22.56228373702422
+3,2115,296,NZL,6,168,178,MD Craig,Rahat Ali,8,1,7,39,511,45.79,Left-hand bat,26,19,0,2064.4,38.44,76.5,lfm,0,NZL,seam,yes,13.96712802768166,22.56228373702422
+3,2116,297,NZL,6,168,178,MD Craig,Rahat Ali,8,1,8,39,511,45.79,Left-hand bat,27,19,0,2064.4,38.44,76.5,lfm,2,NZL,seam,yes,13.96712802768166,22.56228373702422
+3,2117,298,NZL,6,170,180,MD Craig,Rahat Ali,8,3,9,39,511,45.79,Left-hand bat,28,21,0,2064.4,38.44,76.5,lfm,2,NZL,seam,yes,13.96712802768166,22.56228373702422
+3,2118,299,NZL,6,172,182,MD Craig,Rahat Ali,8,5,10,39,511,45.79,Left-hand bat,29,23,0,2064.4,38.44,76.5,lfm,1,NZL,seam,yes,13.96712802768166,22.56228373702422
+3,2128,309,NZL,6,182,192,MD Craig,Rahat Ali,8,7,16,39,511,45.79,Left-hand bat,33,29,0,2064.4,38.44,76.5,lfm,0,NZL,seam,yes,13.96712802768166,22.56228373702422
+3,2129,310,NZL,6,182,192,MD Craig,Rahat Ali,8,7,17,39,511,45.79,Left-hand bat,34,29,0,2064.4,38.44,76.5,lfm,0,NZL,seam,yes,13.96712802768166,22.56228373702422
+3,2130,311,NZL,6,182,192,MD Craig,Rahat Ali,8,7,18,39,511,45.79,Left-hand bat,35,29,0,2064.4,38.44,76.5,lfm,0,NZL,seam,yes,13.96712802768166,22.56228373702422
+3,2142,323,NZL,6,190,200,MD Craig,Rahat Ali,8,7,22,39,511,45.79,Left-hand bat,41,36,0,2064.4,38.44,76.5,lfm,0,NZL,seam,yes,13.96712802768166,22.56228373702422
+3,2149,330,NZL,6,192,202,MD Craig,Rahat Ali,8,8,27,39,511,45.79,Left-hand bat,42,36,0,2064.4,38.44,76.5,lfm,1,NZL,seam,yes,13.96712802768166,22.56228373702422
+3,2151,332,NZL,6,194,204,MD Craig,Rahat Ali,8,9,28,39,511,45.79,Left-hand bat,44,38,0,2064.4,38.44,76.5,lfm,1,NZL,seam,yes,13.96712802768166,22.56228373702422

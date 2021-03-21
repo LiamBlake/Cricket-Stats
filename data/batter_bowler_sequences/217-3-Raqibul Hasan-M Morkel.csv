@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1288,117,BAN,5,69,-110,Raqibul Hasan,M Morkel,6,1,5,21.5,94,45.74,Right-hand bat,15,5,3,1968.1,30.92,49.2,rf,0,RSA,seam,yes,21.6,5.4
+3,1289,118,BAN,5,69,-110,Raqibul Hasan,M Morkel,6,1,6,21.5,94,45.74,Right-hand bat,16,5,3,1968.1,30.92,49.2,rf,0,RSA,seam,yes,21.6,5.4
+3,1290,119,BAN,5,69,-110,Raqibul Hasan,M Morkel,6,1,7,21.5,94,45.74,Right-hand bat,17,5,3,1968.1,30.92,49.2,rf,1,RSA,seam,yes,21.6,5.4
+3,1298,127,BAN,5,71,-108,Raqibul Hasan,M Morkel,6,2,14,21.5,94,45.74,Right-hand bat,19,7,3,1968.1,30.92,49.2,rf,4,RSA,seam,yes,21.6,5.4
+3,1299,128,BAN,5,75,-104,Raqibul Hasan,M Morkel,6,6,15,21.5,94,45.74,Right-hand bat,20,11,3,1968.1,30.92,49.2,rf,1nb,RSA,seam,yes,21.6,5.4
+3,1322,151,BAN,6,84,-95,Raqibul Hasan,M Morkel,6,11,22,21.5,94,45.74,Right-hand bat,31,13,4,1968.1,30.92,49.2,rf,0,RSA,seam,yes,21.6,5.4
+3,1323,152,BAN,6,84,-95,Raqibul Hasan,M Morkel,6,11,23,21.5,94,45.74,Right-hand bat,32,13,4,1968.1,30.92,49.2,rf,1nb,RSA,seam,yes,21.6,5.4
+3,1324,153,BAN,6,85,-94,Raqibul Hasan,M Morkel,6,11,24,21.5,94,45.74,Right-hand bat,33,14,4,1968.1,30.92,49.2,rf,0,RSA,seam,yes,21.6,5.4
+3,1325,154,BAN,6,85,-94,Raqibul Hasan,M Morkel,6,11,25,21.5,94,45.74,Right-hand bat,34,14,4,1968.1,30.92,49.2,rf,0,RSA,seam,yes,21.6,5.4
+3,1326,155,BAN,6,85,-94,Raqibul Hasan,M Morkel,6,11,26,21.5,94,45.74,Right-hand bat,35,14,4,1968.1,30.92,49.2,rf,4,RSA,seam,yes,21.6,5.4
+3,1327,156,BAN,6,89,-90,Raqibul Hasan,M Morkel,6,15,27,21.5,94,45.74,Right-hand bat,36,18,4,1968.1,30.92,49.2,rf,0,RSA,seam,yes,21.6,5.4
+3,1328,157,BAN,6,89,-90,Raqibul Hasan,M Morkel,6,15,28,21.5,94,45.74,Right-hand bat,37,18,4,1968.1,30.92,49.2,rf,0,RSA,seam,yes,21.6,5.4

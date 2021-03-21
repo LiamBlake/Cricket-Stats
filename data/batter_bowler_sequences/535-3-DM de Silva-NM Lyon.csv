@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,803,164,SRL,5,108,283,DM de Silva,NM Lyon,7,3,14,32.75,211,62.08,Right-hand bat,55,42,1,12636.5,32.78,61.9,rob,4,SRL,spin,yes,7.565625,12.609375
+3,804,165,SRL,5,112,287,DM de Silva,NM Lyon,7,7,15,32.75,211,62.08,Right-hand bat,56,46,1,12636.5,32.78,61.9,rob,1,SRL,spin,yes,7.565625,12.609375
+3,806,167,SRL,5,114,289,DM de Silva,NM Lyon,7,8,16,32.75,211,62.08,Right-hand bat,58,48,1,12636.5,32.78,61.9,rob,1,SRL,spin,yes,7.565625,12.609375
+3,814,175,SRL,5,116,291,DM de Silva,NM Lyon,7,9,17,32.75,211,62.08,Right-hand bat,60,50,1,12636.5,32.78,61.9,rob,0,SRL,spin,yes,7.565625,12.609375
+3,815,176,SRL,5,116,291,DM de Silva,NM Lyon,7,9,18,32.75,211,62.08,Right-hand bat,61,50,1,12636.5,32.78,61.9,rob,0,SRL,spin,yes,7.565625,12.609375
+3,816,177,SRL,5,116,291,DM de Silva,NM Lyon,7,9,19,32.75,211,62.08,Right-hand bat,62,50,1,12636.5,32.78,61.9,rob,0,SRL,spin,yes,7.565625,12.609375
+3,817,178,SRL,5,116,291,DM de Silva,NM Lyon,7,9,20,32.75,211,62.08,Right-hand bat,63,50,1,12636.5,32.78,61.9,rob,0,SRL,spin,yes,7.565625,12.609375
+3,818,179,SRL,5,116,291,DM de Silva,NM Lyon,7,9,21,32.75,211,62.08,Right-hand bat,64,50,1,12636.5,32.78,61.9,rob,0,SRL,spin,yes,7.565625,12.609375
+3,819,180,SRL,5,116,291,DM de Silva,NM Lyon,7,9,22,32.75,211,62.08,Right-hand bat,65,50,1,12636.5,32.78,61.9,rob,0,SRL,spin,yes,7.565625,12.609375
+3,831,192,SRL,6,122,297,DM de Silva,NM Lyon,7,9,26,32.75,211,62.08,Right-hand bat,71,51,2,12636.5,32.78,61.9,rob,2,SRL,spin,yes,7.565625,12.609375
+3,841,202,SRL,6,132,307,DM de Silva,NM Lyon,7,11,28,32.75,211,62.08,Right-hand bat,75,60,2,12636.5,32.78,61.9,rob,0,SRL,spin,yes,7.565625,12.609375
+3,842,203,SRL,6,132,307,DM de Silva,NM Lyon,7,11,29,32.75,211,62.08,Right-hand bat,76,60,2,12636.5,32.78,61.9,rob,2,SRL,spin,yes,7.565625,12.609375
+3,843,204,SRL,6,134,309,DM de Silva,NM Lyon,7,13,30,32.75,211,62.08,Right-hand bat,77,62,2,12636.5,32.78,61.9,rob,4,SRL,spin,yes,7.565625,12.609375

@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1926,234,AUS,9,99,-330,JR Hazlewood,M Morkel,10,1,2,12.57,736,44.42,Left-hand bat,54,19,4,16356.4,27.73,53.4,rf,4,RSA,seam,no,20.26625,5.88375
+4,1927,235,AUS,9,103,-326,JR Hazlewood,M Morkel,10,5,3,12.57,736,44.42,Left-hand bat,55,23,4,16356.4,27.73,53.4,rf,4b,RSA,seam,no,20.26625,5.88375
+4,1928,236,AUS,9,107,-322,JR Hazlewood,M Morkel,10,5,4,12.57,736,44.42,Left-hand bat,56,23,4,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
+4,1929,237,AUS,9,107,-322,JR Hazlewood,M Morkel,10,5,5,12.57,736,44.42,Left-hand bat,57,23,4,16356.4,27.73,53.4,rf,W,RSA,seam,no,20.26625,5.88375

@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,827,49,ENG,1,32,-394,IJL Trott,DJG Sammy,3,13,15,51.22,5134,47.89,Right-hand bat,0,0,0,4800.4,32.4,68.6,rm,0,ENG,seam,yes,40.257777777777775,2.8755555555555556
+2,828,50,ENG,1,32,-394,IJL Trott,DJG Sammy,3,13,16,51.22,5134,47.89,Right-hand bat,1,0,0,4800.4,32.4,68.6,rm,0,ENG,seam,yes,40.257777777777775,2.8755555555555556
+2,829,51,ENG,1,32,-394,IJL Trott,DJG Sammy,3,13,17,51.22,5134,47.89,Right-hand bat,2,0,0,4800.4,32.4,68.6,rm,0,ENG,seam,yes,40.257777777777775,2.8755555555555556
+2,830,52,ENG,1,32,-394,IJL Trott,DJG Sammy,3,13,18,51.22,5134,47.89,Right-hand bat,3,0,0,4800.4,32.4,68.6,rm,0,ENG,seam,yes,40.257777777777775,2.8755555555555556
+2,831,53,ENG,1,32,-394,IJL Trott,DJG Sammy,3,13,19,51.22,5134,47.89,Right-hand bat,4,0,0,4800.4,32.4,68.6,rm,0,ENG,seam,yes,40.257777777777775,2.8755555555555556
+2,832,54,ENG,1,32,-394,IJL Trott,DJG Sammy,3,13,20,51.22,5134,47.89,Right-hand bat,5,0,0,4800.4,32.4,68.6,rm,4,ENG,seam,yes,40.257777777777775,2.8755555555555556
+2,839,61,ENG,1,40,-386,IJL Trott,DJG Sammy,3,17,21,51.22,5134,47.89,Right-hand bat,6,4,0,4800.4,32.4,68.6,rm,0,ENG,seam,yes,40.257777777777775,2.8755555555555556
+2,840,62,ENG,1,40,-386,IJL Trott,DJG Sammy,3,17,22,51.22,5134,47.89,Right-hand bat,7,4,0,4800.4,32.4,68.6,rm,W,ENG,seam,yes,40.257777777777775,2.8755555555555556

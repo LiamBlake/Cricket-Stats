@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,693,222,PAK,5,126,-136,Babar Azam,VD Philander,6,43,42,35.28,2382,51.84,Right-hand bat,66,33,3,10308.4,21.73,48.8,rfm,0,RSA,seam,no,22.378125,3.196875
+2,694,223,PAK,5,126,-136,Babar Azam,VD Philander,6,43,43,35.28,2382,51.84,Right-hand bat,67,33,3,10308.4,21.73,48.8,rfm,0,RSA,seam,no,22.378125,3.196875
+2,695,224,PAK,5,126,-136,Babar Azam,VD Philander,6,43,44,35.28,2382,51.84,Right-hand bat,68,33,3,10308.4,21.73,48.8,rfm,0,RSA,seam,no,22.378125,3.196875
+2,696,225,PAK,5,126,-136,Babar Azam,VD Philander,6,43,45,35.28,2382,51.84,Right-hand bat,69,33,3,10308.4,21.73,48.8,rfm,4,RSA,seam,no,22.378125,3.196875
+2,697,226,PAK,5,130,-132,Babar Azam,VD Philander,6,47,46,35.28,2382,51.84,Right-hand bat,70,37,3,10308.4,21.73,48.8,rfm,0,RSA,seam,no,22.378125,3.196875
+2,698,227,PAK,5,130,-132,Babar Azam,VD Philander,6,47,47,35.28,2382,51.84,Right-hand bat,71,37,3,10308.4,21.73,48.8,rfm,0,RSA,seam,no,22.378125,3.196875
+2,705,234,PAK,5,138,-124,Babar Azam,VD Philander,6,47,48,35.28,2382,51.84,Right-hand bat,72,37,3,10308.4,21.73,48.8,rfm,1,RSA,seam,no,22.378125,3.196875
+2,710,239,PAK,5,144,-118,Babar Azam,VD Philander,6,48,49,35.28,2382,51.84,Right-hand bat,77,43,3,10308.4,21.73,48.8,rfm,0,RSA,seam,no,22.378125,3.196875

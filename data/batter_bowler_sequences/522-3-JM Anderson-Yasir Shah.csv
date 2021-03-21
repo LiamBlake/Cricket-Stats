@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1790,438,ENG,9,221,7,JM Anderson,Yasir Shah,11,0,0,10.41,2624,40.89,Left-hand bat,152,62,5,5106.4,27.48,53.7,rls,0,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1791,439,ENG,9,221,7,JM Anderson,Yasir Shah,11,0,1,10.41,2624,40.89,Left-hand bat,153,62,5,5106.4,27.48,53.7,rls,0,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1792,440,ENG,9,221,7,JM Anderson,Yasir Shah,11,0,2,10.41,2624,40.89,Left-hand bat,154,62,5,5106.4,27.48,53.7,rls,0,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1793,441,ENG,9,221,7,JM Anderson,Yasir Shah,11,0,3,10.41,2624,40.89,Left-hand bat,155,62,5,5106.4,27.48,53.7,rls,0,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1801,449,ENG,9,226,12,JM Anderson,Yasir Shah,11,3,9,10.41,2624,40.89,Left-hand bat,156,62,5,5106.4,27.48,53.7,rls,0,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1802,450,ENG,9,226,12,JM Anderson,Yasir Shah,11,3,10,10.41,2624,40.89,Left-hand bat,157,62,5,5106.4,27.48,53.7,rls,2,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1803,451,ENG,9,228,14,JM Anderson,Yasir Shah,11,5,11,10.41,2624,40.89,Left-hand bat,158,64,5,5106.4,27.48,53.7,rls,1,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1817,465,ENG,9,236,22,JM Anderson,Yasir Shah,11,11,15,10.41,2624,40.89,Left-hand bat,166,66,5,5106.4,27.48,53.7,rls,0,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1818,466,ENG,9,236,22,JM Anderson,Yasir Shah,11,11,16,10.41,2624,40.89,Left-hand bat,167,66,5,5106.4,27.48,53.7,rls,0,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1825,473,ENG,9,244,30,JM Anderson,Yasir Shah,11,16,19,10.41,2624,40.89,Left-hand bat,168,66,5,5106.4,27.48,53.7,rls,0,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1826,474,ENG,9,244,30,JM Anderson,Yasir Shah,11,16,20,10.41,2624,40.89,Left-hand bat,169,66,5,5106.4,27.48,53.7,rls,0,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1827,475,ENG,9,244,30,JM Anderson,Yasir Shah,11,16,21,10.41,2624,40.89,Left-hand bat,170,66,5,5106.4,27.48,53.7,rls,0,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1828,476,ENG,9,244,30,JM Anderson,Yasir Shah,11,16,22,10.41,2624,40.89,Left-hand bat,171,66,5,5106.4,27.48,53.7,rls,4b,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1829,477,ENG,9,248,34,JM Anderson,Yasir Shah,11,16,23,10.41,2624,40.89,Left-hand bat,172,66,5,5106.4,27.48,53.7,rls,1,ENG,spin,yes,28.477777777777778,10.355555555555556

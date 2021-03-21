@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,823,226,RSA,5,74,-326,A Nortje,MA Wood,7,0,0,9.88,392,22.7,Right-hand bat,40,15,2,2754.5,31.41,57.4,rf,4,RSA,seam,no,26.934375,0.690625
+2,824,227,RSA,5,78,-322,A Nortje,MA Wood,7,4,1,9.88,392,22.7,Right-hand bat,41,19,2,2754.5,31.41,57.4,rf,0,RSA,seam,no,26.934375,0.690625
+2,832,235,RSA,5,82,-318,A Nortje,MA Wood,7,6,7,9.88,392,22.7,Right-hand bat,43,20,2,2754.5,31.41,57.4,rf,0,RSA,seam,no,26.934375,0.690625
+2,833,236,RSA,5,82,-318,A Nortje,MA Wood,7,6,8,9.88,392,22.7,Right-hand bat,44,20,2,2754.5,31.41,57.4,rf,0,RSA,seam,no,26.934375,0.690625
+2,834,237,RSA,5,82,-318,A Nortje,MA Wood,7,6,9,9.88,392,22.7,Right-hand bat,45,20,2,2754.5,31.41,57.4,rf,0,RSA,seam,no,26.934375,0.690625
+2,835,238,RSA,5,82,-318,A Nortje,MA Wood,7,6,10,9.88,392,22.7,Right-hand bat,46,20,2,2754.5,31.41,57.4,rf,0,RSA,seam,no,26.934375,0.690625
+2,836,239,RSA,5,82,-318,A Nortje,MA Wood,7,6,11,9.88,392,22.7,Right-hand bat,47,20,2,2754.5,31.41,57.4,rf,0,RSA,seam,no,26.934375,0.690625
+2,847,250,RSA,5,88,-312,A Nortje,MA Wood,7,6,15,9.88,392,22.7,Right-hand bat,52,21,2,2754.5,31.41,57.4,rf,W,RSA,seam,no,26.934375,0.690625

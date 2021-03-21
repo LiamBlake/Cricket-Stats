@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1686,36,SRL,0,30,226,MG Vandort,DJ Bravo,1,17,26,46.54,2052,49.9,Left-hand bat,0,0,0,4260.1,39.36,73.4,rm,0,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1687,37,SRL,0,30,226,MG Vandort,DJ Bravo,1,17,27,46.54,2052,49.9,Left-hand bat,1,0,0,4260.1,39.36,73.4,rm,0,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1688,38,SRL,0,30,226,MG Vandort,DJ Bravo,1,17,28,46.54,2052,49.9,Left-hand bat,2,0,0,4260.1,39.36,73.4,rm,0,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1689,39,SRL,0,30,226,MG Vandort,DJ Bravo,1,17,29,46.54,2052,49.9,Left-hand bat,3,0,0,4260.1,39.36,73.4,rm,1,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1698,48,SRL,0,38,234,MG Vandort,DJ Bravo,1,21,33,46.54,2052,49.9,Left-hand bat,6,1,0,4260.1,39.36,73.4,rm,1,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1701,51,SRL,0,40,236,MG Vandort,DJ Bravo,1,22,34,46.54,2052,49.9,Left-hand bat,9,3,0,4260.1,39.36,73.4,rm,0,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1702,52,SRL,0,40,236,MG Vandort,DJ Bravo,1,22,35,46.54,2052,49.9,Left-hand bat,10,3,0,4260.1,39.36,73.4,rm,0,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1703,53,SRL,0,40,236,MG Vandort,DJ Bravo,1,22,36,46.54,2052,49.9,Left-hand bat,11,3,0,4260.1,39.36,73.4,rm,0,WIN,seam,yes,24.61469387755102,12.842448979591836

@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1731,354,SRL,6,186,-140,N Dickwella,MJ Leach,8,0,1,29.62,1916,69.57,Left-hand bat,121,46,2,1158.4,24.9,58.1,lo,0,ENG,spin,no,3.40625,23.84375
+4,1732,355,SRL,6,186,-140,N Dickwella,MJ Leach,8,0,2,29.62,1916,69.57,Left-hand bat,122,46,2,1158.4,24.9,58.1,lo,1,ENG,spin,no,3.40625,23.84375
+4,1773,396,SRL,6,210,-116,N Dickwella,MJ Leach,8,15,17,29.62,1916,69.57,Left-hand bat,126,47,2,1158.4,24.9,58.1,lo,4,ENG,spin,no,3.40625,23.84375
+4,1774,397,SRL,6,214,-112,N Dickwella,MJ Leach,8,19,18,29.62,1916,69.57,Left-hand bat,127,51,2,1158.4,24.9,58.1,lo,W,ENG,spin,no,3.40625,23.84375

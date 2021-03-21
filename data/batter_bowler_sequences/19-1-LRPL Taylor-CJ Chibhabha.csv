@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,637,637,NZL,4,389,389,LRPL Taylor,CJ Chibhabha,4,24,43,48.66,9478,59.04,Right-hand bat,55,30,0,180,111,180,rm,1,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,649,649,NZL,4,397,397,LRPL Taylor,CJ Chibhabha,4,27,47,48.66,9478,59.04,Right-hand bat,61,35,0,180,111,180,rm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,650,650,NZL,4,397,397,LRPL Taylor,CJ Chibhabha,4,27,48,48.66,9478,59.04,Right-hand bat,62,35,0,180,111,180,rm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,651,651,NZL,4,397,397,LRPL Taylor,CJ Chibhabha,4,27,49,48.66,9478,59.04,Right-hand bat,63,35,0,180,111,180,rm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,652,652,NZL,4,397,397,LRPL Taylor,CJ Chibhabha,4,27,50,48.66,9478,59.04,Right-hand bat,64,35,0,180,111,180,rm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,653,653,NZL,4,397,397,LRPL Taylor,CJ Chibhabha,4,27,51,48.66,9478,59.04,Right-hand bat,65,35,0,180,111,180,rm,1,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,661,661,NZL,4,401,401,LRPL Taylor,CJ Chibhabha,4,29,53,48.66,9478,59.04,Right-hand bat,67,36,0,180,111,180,rm,4,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,662,662,NZL,4,405,405,LRPL Taylor,CJ Chibhabha,4,33,54,48.66,9478,59.04,Right-hand bat,68,40,0,180,111,180,rm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,663,663,NZL,4,405,405,LRPL Taylor,CJ Chibhabha,4,33,55,48.66,9478,59.04,Right-hand bat,69,40,0,180,111,180,rm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,664,664,NZL,4,405,405,LRPL Taylor,CJ Chibhabha,4,33,56,48.66,9478,59.04,Right-hand bat,70,40,0,180,111,180,rm,4,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,665,665,NZL,4,409,409,LRPL Taylor,CJ Chibhabha,4,37,57,48.66,9478,59.04,Right-hand bat,71,44,0,180,111,180,rm,1,ZIM,seam,yes,20.21005917159763,27.559171597633135

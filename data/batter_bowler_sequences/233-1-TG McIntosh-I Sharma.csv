@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,11,11,NZL,0,9,9,TG McIntosh,I Sharma,1,1,5,41.8,546,38.27,Left-hand bat,5,7,0,2916,31.77,60.7,rfm,1,NZL,seam,no,24.822222222222226,12.411111111111113
+1,42,42,NZL,1,17,17,TG McIntosh,I Sharma,1,3,21,41.8,546,38.27,Left-hand bat,18,14,0,2916,31.77,60.7,rfm,0,NZL,seam,no,24.822222222222226,12.411111111111113
+1,43,43,NZL,1,17,17,TG McIntosh,I Sharma,1,3,22,41.8,546,38.27,Left-hand bat,19,14,0,2916,31.77,60.7,rfm,0,NZL,seam,no,24.822222222222226,12.411111111111113
+1,44,44,NZL,1,17,17,TG McIntosh,I Sharma,1,3,23,41.8,546,38.27,Left-hand bat,20,14,0,2916,31.77,60.7,rfm,0,NZL,seam,no,24.822222222222226,12.411111111111113
+1,45,45,NZL,1,17,17,TG McIntosh,I Sharma,1,3,24,41.8,546,38.27,Left-hand bat,21,14,0,2916,31.77,60.7,rfm,0,NZL,seam,no,24.822222222222226,12.411111111111113
+1,46,46,NZL,1,17,17,TG McIntosh,I Sharma,1,3,25,41.8,546,38.27,Left-hand bat,22,14,0,2916,31.77,60.7,rfm,0,NZL,seam,no,24.822222222222226,12.411111111111113
+1,47,47,NZL,1,17,17,TG McIntosh,I Sharma,1,3,26,41.8,546,38.27,Left-hand bat,23,14,0,2916,31.77,60.7,rfm,0,NZL,seam,no,24.822222222222226,12.411111111111113
+1,54,54,NZL,2,17,17,TG McIntosh,I Sharma,1,3,27,41.8,546,38.27,Left-hand bat,24,14,0,2916,31.77,60.7,rfm,0,NZL,seam,no,24.822222222222226,12.411111111111113
+1,55,55,NZL,2,17,17,TG McIntosh,I Sharma,1,3,28,41.8,546,38.27,Left-hand bat,25,14,0,2916,31.77,60.7,rfm,0,NZL,seam,no,24.822222222222226,12.411111111111113
+1,56,56,NZL,2,17,17,TG McIntosh,I Sharma,1,3,29,41.8,546,38.27,Left-hand bat,26,14,0,2916,31.77,60.7,rfm,0,NZL,seam,no,24.822222222222226,12.411111111111113
+1,57,57,NZL,2,17,17,TG McIntosh,I Sharma,1,3,30,41.8,546,38.27,Left-hand bat,27,14,0,2916,31.77,60.7,rfm,0,NZL,seam,no,24.822222222222226,12.411111111111113
+1,58,58,NZL,2,17,17,TG McIntosh,I Sharma,1,3,31,41.8,546,38.27,Left-hand bat,28,14,0,2916,31.77,60.7,rfm,0,NZL,seam,no,24.822222222222226,12.411111111111113
+1,59,59,NZL,2,17,17,TG McIntosh,I Sharma,1,3,32,41.8,546,38.27,Left-hand bat,29,14,0,2916,31.77,60.7,rfm,0,NZL,seam,no,24.822222222222226,12.411111111111113
+1,96,96,NZL,2,40,40,TG McIntosh,I Sharma,1,12,50,41.8,546,38.27,Left-hand bat,30,14,0,2916,31.77,60.7,rfm,0,NZL,seam,no,24.822222222222226,12.411111111111113
+1,97,97,NZL,2,40,40,TG McIntosh,I Sharma,1,12,51,41.8,546,38.27,Left-hand bat,31,14,0,2916,31.77,60.7,rfm,W,NZL,seam,no,24.822222222222226,12.411111111111113

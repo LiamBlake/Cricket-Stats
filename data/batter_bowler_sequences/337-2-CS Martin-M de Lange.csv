@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1454,557,NZL,9,263,-211,CS Martin,M de Lange,11,0,0,2.42,592,20.1,Right-hand bat,117,71,1,444.4,30.77,49.7,rf,0,NZL,seam,yes,37.73979591836735,2.903061224489796
+2,1455,558,NZL,9,263,-211,CS Martin,M de Lange,11,0,1,2.42,592,20.1,Right-hand bat,118,71,1,444.4,30.77,49.7,rf,0,NZL,seam,yes,37.73979591836735,2.903061224489796
+2,1456,559,NZL,9,263,-211,CS Martin,M de Lange,11,0,2,2.42,592,20.1,Right-hand bat,119,71,1,444.4,30.77,49.7,rf,0,NZL,seam,yes,37.73979591836735,2.903061224489796
+2,1457,560,NZL,9,263,-211,CS Martin,M de Lange,11,0,3,2.42,592,20.1,Right-hand bat,120,71,1,444.4,30.77,49.7,rf,2,NZL,seam,yes,37.73979591836735,2.903061224489796
+2,1468,571,NZL,9,267,-207,CS Martin,M de Lange,11,2,6,2.42,592,20.1,Right-hand bat,125,74,1,444.4,30.77,49.7,rf,0,NZL,seam,yes,37.73979591836735,2.903061224489796
+2,1469,572,NZL,9,267,-207,CS Martin,M de Lange,11,2,7,2.42,592,20.1,Right-hand bat,126,74,1,444.4,30.77,49.7,rf,0,NZL,seam,yes,37.73979591836735,2.903061224489796

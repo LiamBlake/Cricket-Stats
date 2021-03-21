@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1226,391,ENG,3,143,-327,KP Pietersen,KD Mills,5,7,3,49.54,4820,63.73,Right-hand bat,71,31,0,1476.5,25.58,51,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717
+2,1238,403,ENG,3,149,-321,KP Pietersen,KD Mills,5,7,5,49.54,4820,63.73,Right-hand bat,77,36,0,1476.5,25.58,51,rfm,2,NZL,seam,no,19.615384615384617,8.717948717948717
+2,1380,545,ENG,4,188,-282,KP Pietersen,KD Mills,5,20,64,49.54,4820,63.73,Right-hand bat,78,38,0,1476.5,25.58,51,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717
+2,1381,546,ENG,4,188,-282,KP Pietersen,KD Mills,5,20,65,49.54,4820,63.73,Right-hand bat,79,38,0,1476.5,25.58,51,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717
+2,1382,547,ENG,4,188,-282,KP Pietersen,KD Mills,5,20,66,49.54,4820,63.73,Right-hand bat,80,38,0,1476.5,25.58,51,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717
+2,1383,548,ENG,4,188,-282,KP Pietersen,KD Mills,5,20,67,49.54,4820,63.73,Right-hand bat,81,38,0,1476.5,25.58,51,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717
+2,1384,549,ENG,4,188,-282,KP Pietersen,KD Mills,5,20,68,49.54,4820,63.73,Right-hand bat,82,38,0,1476.5,25.58,51,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717
+2,1385,550,ENG,4,188,-282,KP Pietersen,KD Mills,5,20,69,49.54,4820,63.73,Right-hand bat,83,38,0,1476.5,25.58,51,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717
+2,1392,557,ENG,4,190,-280,KP Pietersen,KD Mills,5,21,72,49.54,4820,63.73,Right-hand bat,84,38,0,1476.5,25.58,51,rfm,1,NZL,seam,no,19.615384615384617,8.717948717948717
+2,1404,569,ENG,4,196,-274,KP Pietersen,KD Mills,5,22,73,49.54,4820,63.73,Right-hand bat,90,40,0,1476.5,25.58,51,rfm,1,NZL,seam,no,19.615384615384617,8.717948717948717
+2,1409,574,ENG,4,202,-268,KP Pietersen,KD Mills,5,23,74,49.54,4820,63.73,Right-hand bat,95,46,0,1476.5,25.58,51,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717
+2,1416,581,ENG,4,202,-268,KP Pietersen,KD Mills,5,23,75,49.54,4820,63.73,Right-hand bat,96,46,0,1476.5,25.58,51,rfm,1,NZL,seam,no,19.615384615384617,8.717948717948717

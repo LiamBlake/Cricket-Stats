@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2093,337,WIN,7,149,-137,DBL Powell,SCG MacGill,9,0,0,7.09,845,35.26,Right-hand bat,66,35,0,10992.5,28.28,53.1,rls,0,WIN,spin,no,24.084375,3.440625
+4,2094,338,WIN,7,149,-137,DBL Powell,SCG MacGill,9,0,1,7.09,845,35.26,Right-hand bat,67,35,0,10992.5,28.28,53.1,rls,0,WIN,spin,no,24.084375,3.440625
+4,2095,339,WIN,7,149,-137,DBL Powell,SCG MacGill,9,0,2,7.09,845,35.26,Right-hand bat,68,35,0,10992.5,28.28,53.1,rls,4,WIN,spin,no,24.084375,3.440625
+4,2096,340,WIN,7,153,-133,DBL Powell,SCG MacGill,9,4,3,7.09,845,35.26,Right-hand bat,69,39,0,10992.5,28.28,53.1,rls,0,WIN,spin,no,24.084375,3.440625
+4,2097,341,WIN,7,153,-133,DBL Powell,SCG MacGill,9,4,4,7.09,845,35.26,Right-hand bat,70,39,0,10992.5,28.28,53.1,rls,0,WIN,spin,no,24.084375,3.440625
+4,2098,342,WIN,7,153,-133,DBL Powell,SCG MacGill,9,4,5,7.09,845,35.26,Right-hand bat,71,39,0,10992.5,28.28,53.1,rls,2,WIN,spin,no,24.084375,3.440625
+4,2110,354,WIN,7,167,-119,DBL Powell,SCG MacGill,9,14,10,7.09,845,35.26,Right-hand bat,77,42,0,10992.5,28.28,53.1,rls,0,WIN,spin,no,24.084375,3.440625
+4,2157,401,WIN,8,191,-95,DBL Powell,SCG MacGill,9,27,32,7.09,845,35.26,Right-hand bat,80,43,0,10992.5,28.28,53.1,rls,0,WIN,spin,no,24.084375,3.440625
+4,2158,402,WIN,8,191,-95,DBL Powell,SCG MacGill,9,27,33,7.09,845,35.26,Right-hand bat,81,43,0,10992.5,28.28,53.1,rls,0,WIN,spin,no,24.084375,3.440625
+4,2159,403,WIN,8,191,-95,DBL Powell,SCG MacGill,9,27,34,7.09,845,35.26,Right-hand bat,82,43,0,10992.5,28.28,53.1,rls,W,WIN,spin,no,24.084375,3.440625

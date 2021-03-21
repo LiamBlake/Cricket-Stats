@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,840,211,NZL,7,133,-183,JS Patel,Mohammed Shami,9,10,12,13,648,50.15,Right-hand bat,67,46,1,3564.4,32.6,54,rf,0,IND,seam,no,15.925,8.575
+2,841,212,NZL,7,133,-183,JS Patel,Mohammed Shami,9,10,13,13,648,50.15,Right-hand bat,68,46,1,3564.4,32.6,54,rf,0,IND,seam,no,15.925,8.575
+2,842,213,NZL,7,133,-183,JS Patel,Mohammed Shami,9,10,14,13,648,50.15,Right-hand bat,69,46,1,3564.4,32.6,54,rf,0,IND,seam,no,15.925,8.575
+2,843,214,NZL,7,133,-183,JS Patel,Mohammed Shami,9,10,15,13,648,50.15,Right-hand bat,70,46,1,3564.4,32.6,54,rf,0,IND,seam,no,15.925,8.575
+2,844,215,NZL,7,133,-183,JS Patel,Mohammed Shami,9,10,16,13,648,50.15,Right-hand bat,71,46,1,3564.4,32.6,54,rf,2,IND,seam,no,15.925,8.575
+2,845,216,NZL,7,135,-181,JS Patel,Mohammed Shami,9,12,17,13,648,50.15,Right-hand bat,72,48,1,3564.4,32.6,54,rf,2,IND,seam,no,15.925,8.575
+2,852,223,NZL,7,143,-173,JS Patel,Mohammed Shami,9,19,20,13,648,50.15,Right-hand bat,73,50,1,3564.4,32.6,54,rf,0,IND,seam,no,15.925,8.575
+2,853,224,NZL,7,143,-173,JS Patel,Mohammed Shami,9,19,21,13,648,50.15,Right-hand bat,74,50,1,3564.4,32.6,54,rf,4,IND,seam,no,15.925,8.575
+2,854,225,NZL,7,147,-169,JS Patel,Mohammed Shami,9,23,22,13,648,50.15,Right-hand bat,75,54,1,3564.4,32.6,54,rf,0,IND,seam,no,15.925,8.575
+2,855,226,NZL,7,147,-169,JS Patel,Mohammed Shami,9,23,23,13,648,50.15,Right-hand bat,76,54,1,3564.4,32.6,54,rf,0,IND,seam,no,15.925,8.575
+2,856,227,NZL,7,147,-169,JS Patel,Mohammed Shami,9,23,24,13,648,50.15,Right-hand bat,77,54,1,3564.4,32.6,54,rf,1,IND,seam,no,15.925,8.575
+2,873,244,NZL,7,158,-158,JS Patel,Mohammed Shami,9,32,31,13,648,50.15,Right-hand bat,82,57,1,3564.4,32.6,54,rf,1,IND,seam,no,15.925,8.575
+2,875,246,NZL,7,160,-156,JS Patel,Mohammed Shami,9,33,32,13,648,50.15,Right-hand bat,84,59,1,3564.4,32.6,54,rf,0,IND,seam,no,15.925,8.575
+2,882,253,NZL,7,160,-156,JS Patel,Mohammed Shami,9,33,33,13,648,50.15,Right-hand bat,85,59,1,3564.4,32.6,54,rf,1,IND,seam,no,15.925,8.575

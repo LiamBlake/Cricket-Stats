@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1529,288,AUS,7,121,89,MS Wade,UT Yadav,7,9,72,31.03,1796,48.38,Left-hand bat,42,22,2,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1530,289,AUS,7,121,89,MS Wade,UT Yadav,7,9,73,31.03,1796,48.38,Left-hand bat,43,22,2,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1531,290,AUS,7,121,89,MS Wade,UT Yadav,7,9,74,31.03,1796,48.38,Left-hand bat,44,22,2,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1532,291,AUS,7,121,89,MS Wade,UT Yadav,7,9,75,31.03,1796,48.38,Left-hand bat,45,22,2,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1533,292,AUS,7,121,89,MS Wade,UT Yadav,7,9,76,31.03,1796,48.38,Left-hand bat,46,22,2,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1534,293,AUS,7,121,89,MS Wade,UT Yadav,7,9,77,31.03,1796,48.38,Left-hand bat,47,22,2,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1541,300,AUS,8,121,89,MS Wade,UT Yadav,7,9,78,31.03,1796,48.38,Left-hand bat,48,22,2,5250.5,35.94,59.7,rf,1,IND,seam,yes,11.1083984375,16.2353515625
+3,1553,312,AUS,9,131,99,MS Wade,UT Yadav,7,19,84,31.03,1796,48.38,Left-hand bat,54,23,3,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1554,313,AUS,9,131,99,MS Wade,UT Yadav,7,19,85,31.03,1796,48.38,Left-hand bat,55,23,3,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1555,314,AUS,9,131,99,MS Wade,UT Yadav,7,19,86,31.03,1796,48.38,Left-hand bat,56,23,3,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1556,315,AUS,9,131,99,MS Wade,UT Yadav,7,19,87,31.03,1796,48.38,Left-hand bat,57,23,3,5250.5,35.94,59.7,rf,0,IND,seam,yes,11.1083984375,16.2353515625
+3,1557,316,AUS,9,131,99,MS Wade,UT Yadav,7,19,88,31.03,1796,48.38,Left-hand bat,58,23,3,5250.5,35.94,59.7,rf,4,IND,seam,yes,11.1083984375,16.2353515625
+3,1558,317,AUS,9,135,103,MS Wade,UT Yadav,7,23,89,31.03,1796,48.38,Left-hand bat,59,27,3,5250.5,35.94,59.7,rf,2,IND,seam,yes,11.1083984375,16.2353515625

@@ -1,0 +1,25 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1917,126,NZL,5,39,-381,C de Grandhomme,NM Lyon,7,1,8,37.2,1332,83.78,Right-hand bat,36,15,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,1918,127,NZL,5,39,-381,C de Grandhomme,NM Lyon,7,1,9,37.2,1332,83.78,Right-hand bat,37,15,2,24564.4,31.58,62.9,rob,1,AUS,spin,no,16.609375,15.5712890625
+4,1941,150,NZL,5,45,-375,C de Grandhomme,NM Lyon,7,5,14,37.2,1332,83.78,Right-hand bat,48,16,2,24564.4,31.58,62.9,rob,2,AUS,spin,no,16.609375,15.5712890625
+4,1942,151,NZL,5,47,-373,C de Grandhomme,NM Lyon,7,7,15,37.2,1332,83.78,Right-hand bat,49,18,2,24564.4,31.58,62.9,rob,2,AUS,spin,no,16.609375,15.5712890625
+4,1943,152,NZL,5,49,-371,C de Grandhomme,NM Lyon,7,9,16,37.2,1332,83.78,Right-hand bat,50,20,2,24564.4,31.58,62.9,rob,1,AUS,spin,no,16.609375,15.5712890625
+4,1954,163,NZL,5,55,-365,C de Grandhomme,NM Lyon,7,14,23,37.2,1332,83.78,Right-hand bat,55,22,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,1955,164,NZL,5,55,-365,C de Grandhomme,NM Lyon,7,14,24,37.2,1332,83.78,Right-hand bat,56,22,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,1956,165,NZL,5,55,-365,C de Grandhomme,NM Lyon,7,14,25,37.2,1332,83.78,Right-hand bat,57,22,2,24564.4,31.58,62.9,rob,4,AUS,spin,no,16.609375,15.5712890625
+4,1957,166,NZL,5,59,-361,C de Grandhomme,NM Lyon,7,18,26,37.2,1332,83.78,Right-hand bat,58,26,2,24564.4,31.58,62.9,rob,4,AUS,spin,no,16.609375,15.5712890625
+4,1958,167,NZL,5,63,-357,C de Grandhomme,NM Lyon,7,22,27,37.2,1332,83.78,Right-hand bat,59,30,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,2001,210,NZL,5,83,-337,C de Grandhomme,NM Lyon,7,36,47,37.2,1332,83.78,Right-hand bat,60,30,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,2002,211,NZL,5,83,-337,C de Grandhomme,NM Lyon,7,36,48,37.2,1332,83.78,Right-hand bat,61,30,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,2003,212,NZL,5,83,-337,C de Grandhomme,NM Lyon,7,36,49,37.2,1332,83.78,Right-hand bat,62,30,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,2004,213,NZL,5,83,-337,C de Grandhomme,NM Lyon,7,36,50,37.2,1332,83.78,Right-hand bat,63,30,2,24564.4,31.58,62.9,rob,4,AUS,spin,no,16.609375,15.5712890625
+4,2005,214,NZL,5,87,-333,C de Grandhomme,NM Lyon,7,40,51,37.2,1332,83.78,Right-hand bat,64,34,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,2006,215,NZL,5,87,-333,C de Grandhomme,NM Lyon,7,40,52,37.2,1332,83.78,Right-hand bat,65,34,2,24564.4,31.58,62.9,rob,1,AUS,spin,no,16.609375,15.5712890625
+4,2013,222,NZL,5,89,-331,C de Grandhomme,NM Lyon,7,42,56,37.2,1332,83.78,Right-hand bat,66,35,2,24564.4,31.58,62.9,rob,1,AUS,spin,no,16.609375,15.5712890625
+4,2026,235,NZL,5,93,-327,C de Grandhomme,NM Lyon,7,44,59,37.2,1332,83.78,Right-hand bat,73,37,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,2027,236,NZL,5,93,-327,C de Grandhomme,NM Lyon,7,44,60,37.2,1332,83.78,Right-hand bat,74,37,2,24564.4,31.58,62.9,rob,1,AUS,spin,no,16.609375,15.5712890625
+4,2030,239,NZL,5,97,-323,C de Grandhomme,NM Lyon,7,45,61,37.2,1332,83.78,Right-hand bat,77,38,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,2039,248,NZL,5,101,-319,C de Grandhomme,NM Lyon,7,46,64,37.2,1332,83.78,Right-hand bat,80,39,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,2040,249,NZL,5,101,-319,C de Grandhomme,NM Lyon,7,46,65,37.2,1332,83.78,Right-hand bat,81,39,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,2041,250,NZL,5,101,-319,C de Grandhomme,NM Lyon,7,46,66,37.2,1332,83.78,Right-hand bat,82,39,2,24564.4,31.58,62.9,rob,6,AUS,spin,no,16.609375,15.5712890625
+4,2042,251,NZL,5,107,-313,C de Grandhomme,NM Lyon,7,52,67,37.2,1332,83.78,Right-hand bat,83,45,2,24564.4,31.58,62.9,rob,W,AUS,spin,no,16.609375,15.5712890625

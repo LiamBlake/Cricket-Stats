@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,993,371,BAN,8,232,-230,Mohammad Shahid,R Ashwin,10,0,0,10.33,58,53.44,Right-hand bat,140,78,5,7542.4,30.2,60.8,rob,0,BAN,spin,no,2.89453125,43.41796875
+2,994,372,BAN,8,232,-230,Mohammad Shahid,R Ashwin,10,0,1,10.33,58,53.44,Right-hand bat,141,78,5,7542.4,30.2,60.8,rob,0,BAN,spin,no,2.89453125,43.41796875
+2,995,373,BAN,8,232,-230,Mohammad Shahid,R Ashwin,10,0,2,10.33,58,53.44,Right-hand bat,142,78,5,7542.4,30.2,60.8,rob,4,BAN,spin,no,2.89453125,43.41796875
+2,996,374,BAN,8,236,-226,Mohammad Shahid,R Ashwin,10,4,3,10.33,58,53.44,Right-hand bat,143,82,5,7542.4,30.2,60.8,rob,0,BAN,spin,no,2.89453125,43.41796875
+2,1003,381,BAN,8,236,-226,Mohammad Shahid,R Ashwin,10,4,4,10.33,58,53.44,Right-hand bat,144,82,5,7542.4,30.2,60.8,rob,0,BAN,spin,no,2.89453125,43.41796875
+2,1004,382,BAN,8,236,-226,Mohammad Shahid,R Ashwin,10,4,5,10.33,58,53.44,Right-hand bat,145,82,5,7542.4,30.2,60.8,rob,0,BAN,spin,no,2.89453125,43.41796875
+2,1005,383,BAN,8,236,-226,Mohammad Shahid,R Ashwin,10,4,6,10.33,58,53.44,Right-hand bat,146,82,5,7542.4,30.2,60.8,rob,1,BAN,spin,no,2.89453125,43.41796875

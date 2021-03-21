@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,685,0,ZIM,0,0,-391,V Sibanda,Robiul Islam,1,0,0,23.25,847,54.89,Right-hand bat,0,0,0,1356,32.43,58.9,rfm,1,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,697,12,ZIM,0,2,-389,V Sibanda,Robiul Islam,1,2,5,23.25,847,54.89,Right-hand bat,6,1,0,1356,32.43,58.9,rfm,0,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,698,13,ZIM,0,2,-389,V Sibanda,Robiul Islam,1,2,6,23.25,847,54.89,Right-hand bat,7,1,0,1356,32.43,58.9,rfm,0,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,699,14,ZIM,0,2,-389,V Sibanda,Robiul Islam,1,2,7,23.25,847,54.89,Right-hand bat,8,1,0,1356,32.43,58.9,rfm,1lb,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,721,36,ZIM,0,12,-379,V Sibanda,Robiul Islam,1,7,15,23.25,847,54.89,Right-hand bat,18,1,0,1356,32.43,58.9,rfm,0,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,722,37,ZIM,0,12,-379,V Sibanda,Robiul Islam,1,7,16,23.25,847,54.89,Right-hand bat,19,1,0,1356,32.43,58.9,rfm,0,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,723,38,ZIM,0,12,-379,V Sibanda,Robiul Islam,1,7,17,23.25,847,54.89,Right-hand bat,20,1,0,1356,32.43,58.9,rfm,0,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,724,39,ZIM,0,12,-379,V Sibanda,Robiul Islam,1,7,18,23.25,847,54.89,Right-hand bat,21,1,0,1356,32.43,58.9,rfm,0,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,725,40,ZIM,0,12,-379,V Sibanda,Robiul Islam,1,7,19,23.25,847,54.89,Right-hand bat,22,1,0,1356,32.43,58.9,rfm,0,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,726,41,ZIM,0,12,-379,V Sibanda,Robiul Islam,1,7,20,23.25,847,54.89,Right-hand bat,23,1,0,1356,32.43,58.9,rfm,0,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,733,48,ZIM,0,12,-379,V Sibanda,Robiul Islam,1,7,21,23.25,847,54.89,Right-hand bat,24,1,0,1356,32.43,58.9,rfm,3,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,738,53,ZIM,0,20,-371,V Sibanda,Robiul Islam,1,10,22,23.25,847,54.89,Right-hand bat,29,9,0,1356,32.43,58.9,rfm,0,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,757,72,ZIM,1,26,-365,V Sibanda,Robiul Islam,1,10,25,23.25,847,54.89,Right-hand bat,36,12,1,1356,32.43,58.9,rfm,W,ZIM,seam,yes,20.871794871794872,10.435897435897436

@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1742,553,PAK,5,232,9,Misbah-ul-Haq,AD Mathews,5,90,234,47.49,7488,41.22,Right-hand bat,1,1,0,1704,72.41,142,rm,0,PAK,seam,no,24.014568158168572,9.824141519250778
+3,1743,554,PAK,5,232,9,Misbah-ul-Haq,AD Mathews,5,90,235,47.49,7488,41.22,Right-hand bat,2,1,0,1704,72.41,142,rm,1,PAK,seam,no,24.014568158168572,9.824141519250778
+3,1745,556,PAK,5,234,11,Misbah-ul-Haq,AD Mathews,5,91,236,47.49,7488,41.22,Right-hand bat,4,3,0,1704,72.41,142,rm,0,PAK,seam,no,24.014568158168572,9.824141519250778
+3,1746,557,PAK,5,234,11,Misbah-ul-Haq,AD Mathews,5,91,237,47.49,7488,41.22,Right-hand bat,5,3,0,1704,72.41,142,rm,0,PAK,seam,no,24.014568158168572,9.824141519250778
+3,1753,564,PAK,5,240,17,Misbah-ul-Haq,AD Mathews,5,92,241,47.49,7488,41.22,Right-hand bat,6,3,0,1704,72.41,142,rm,0,PAK,seam,no,24.014568158168572,9.824141519250778
+3,1754,565,PAK,5,240,17,Misbah-ul-Haq,AD Mathews,5,92,242,47.49,7488,41.22,Right-hand bat,7,3,0,1704,72.41,142,rm,0,PAK,seam,no,24.014568158168572,9.824141519250778
+3,1755,566,PAK,5,240,17,Misbah-ul-Haq,AD Mathews,5,92,243,47.49,7488,41.22,Right-hand bat,8,3,0,1704,72.41,142,rm,0,PAK,seam,no,24.014568158168572,9.824141519250778
+3,1756,567,PAK,5,240,17,Misbah-ul-Haq,AD Mathews,5,92,244,47.49,7488,41.22,Right-hand bat,9,3,0,1704,72.41,142,rm,1,PAK,seam,no,24.014568158168572,9.824141519250778

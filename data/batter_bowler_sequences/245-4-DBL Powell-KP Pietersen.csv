@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2615,761,WIN,9,369,-133,DBL Powell,KP Pietersen,10,21,46,7.88,1079,36.51,Right-hand bat,12,14,0,660.3,118.75,165.7,rob,0,WIN,spin,yes,22.253086419753085,17.80246913580247
+4,2616,762,WIN,9,369,-133,DBL Powell,KP Pietersen,10,21,47,7.88,1079,36.51,Right-hand bat,13,14,0,660.3,118.75,165.7,rob,0,WIN,spin,yes,22.253086419753085,17.80246913580247
+4,2617,763,WIN,9,369,-133,DBL Powell,KP Pietersen,10,21,48,7.88,1079,36.51,Right-hand bat,14,14,0,660.3,118.75,165.7,rob,1,WIN,spin,yes,22.253086419753085,17.80246913580247

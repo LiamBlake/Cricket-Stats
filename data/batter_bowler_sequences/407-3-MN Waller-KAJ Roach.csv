@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1063,94,ZIM,5,47,-49,MN Waller,KAJ Roach,6,0,0,27.6,278,49.64,Right-hand bat,34,10,1,4320.1,27.22,50.8,rfm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+3,1064,95,ZIM,5,47,-49,MN Waller,KAJ Roach,6,0,1,27.6,278,49.64,Right-hand bat,35,10,1,4320.1,27.22,50.8,rfm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+3,1071,102,ZIM,5,51,-45,MN Waller,KAJ Roach,6,0,2,27.6,278,49.64,Right-hand bat,36,10,1,4320.1,27.22,50.8,rfm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+3,1072,103,ZIM,5,51,-45,MN Waller,KAJ Roach,6,0,3,27.6,278,49.64,Right-hand bat,37,10,1,4320.1,27.22,50.8,rfm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+3,1073,104,ZIM,5,51,-45,MN Waller,KAJ Roach,6,0,4,27.6,278,49.64,Right-hand bat,38,10,1,4320.1,27.22,50.8,rfm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+3,1074,105,ZIM,5,51,-45,MN Waller,KAJ Roach,6,0,5,27.6,278,49.64,Right-hand bat,39,10,1,4320.1,27.22,50.8,rfm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+3,1075,106,ZIM,5,51,-45,MN Waller,KAJ Roach,6,0,6,27.6,278,49.64,Right-hand bat,40,10,1,4320.1,27.22,50.8,rfm,2,WIN,seam,yes,11.2684703433923,9.279916753381892
+3,1076,107,ZIM,5,53,-43,MN Waller,KAJ Roach,6,2,7,27.6,278,49.64,Right-hand bat,41,12,1,4320.1,27.22,50.8,rfm,0,WIN,seam,yes,11.2684703433923,9.279916753381892

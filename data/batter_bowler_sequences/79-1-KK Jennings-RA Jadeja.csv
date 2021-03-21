@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,93,93,ENG,0,44,44,KK Jennings,RA Jadeja,2,12,48,22.09,1147,42.37,Left-hand bat,3,1,0,10638.3,23.65,59.7,lo,0,ENG,spin,yes,20.24376731301939,16.38781163434903
+1,94,94,ENG,0,44,44,KK Jennings,RA Jadeja,2,12,49,22.09,1147,42.37,Left-hand bat,4,1,0,10638.3,23.65,59.7,lo,0,ENG,spin,yes,20.24376731301939,16.38781163434903
+1,95,95,ENG,0,44,44,KK Jennings,RA Jadeja,2,12,50,22.09,1147,42.37,Left-hand bat,5,1,0,10638.3,23.65,59.7,lo,4,ENG,spin,yes,20.24376731301939,16.38781163434903
+1,105,105,ENG,0,50,50,KK Jennings,RA Jadeja,2,16,56,22.09,1147,42.37,Left-hand bat,9,6,0,10638.3,23.65,59.7,lo,0,ENG,spin,yes,20.24376731301939,16.38781163434903
+1,106,106,ENG,0,50,50,KK Jennings,RA Jadeja,2,16,57,22.09,1147,42.37,Left-hand bat,10,6,0,10638.3,23.65,59.7,lo,2,ENG,spin,yes,20.24376731301939,16.38781163434903
+1,107,107,ENG,0,52,52,KK Jennings,RA Jadeja,2,18,58,22.09,1147,42.37,Left-hand bat,11,8,0,10638.3,23.65,59.7,lo,1,ENG,spin,yes,20.24376731301939,16.38781163434903
+1,119,119,ENG,0,56,56,KK Jennings,RA Jadeja,2,21,65,22.09,1147,42.37,Left-hand bat,17,10,0,10638.3,23.65,59.7,lo,0,ENG,spin,yes,20.24376731301939,16.38781163434903
+1,127,127,ENG,0,58,58,KK Jennings,RA Jadeja,2,21,69,22.09,1147,42.37,Left-hand bat,19,11,0,10638.3,23.65,59.7,lo,0,ENG,spin,yes,20.24376731301939,16.38781163434903
+1,128,128,ENG,0,58,58,KK Jennings,RA Jadeja,2,21,70,22.09,1147,42.37,Left-hand bat,20,11,0,10638.3,23.65,59.7,lo,0,ENG,spin,yes,20.24376731301939,16.38781163434903
+1,129,129,ENG,0,58,58,KK Jennings,RA Jadeja,2,21,71,22.09,1147,42.37,Left-hand bat,21,11,0,10638.3,23.65,59.7,lo,0,ENG,spin,yes,20.24376731301939,16.38781163434903
+1,130,130,ENG,0,58,58,KK Jennings,RA Jadeja,2,21,72,22.09,1147,42.37,Left-hand bat,22,11,0,10638.3,23.65,59.7,lo,2,ENG,spin,yes,20.24376731301939,16.38781163434903
+1,131,131,ENG,0,60,60,KK Jennings,RA Jadeja,2,23,73,22.09,1147,42.37,Left-hand bat,23,13,0,10638.3,23.65,59.7,lo,0,ENG,spin,yes,20.24376731301939,16.38781163434903
+1,138,138,ENG,0,60,60,KK Jennings,RA Jadeja,2,23,74,22.09,1147,42.37,Left-hand bat,24,13,0,10638.3,23.65,59.7,lo,W,ENG,spin,yes,20.24376731301939,16.38781163434903

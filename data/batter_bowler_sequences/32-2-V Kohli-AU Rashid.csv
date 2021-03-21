@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1601,643,IND,2,317,-220,V Kohli,AU Rashid,4,24,64,46.11,6785,53.69,Right-hand bat,90,46,0,1422.1,42.86,64.6,rls,0,IND,spin,no,12.127229488703923,38.1141498216409
+2,1602,644,IND,2,317,-220,V Kohli,AU Rashid,4,24,65,46.11,6785,53.69,Right-hand bat,91,46,0,1422.1,42.86,64.6,rls,0,IND,spin,no,12.127229488703923,38.1141498216409
+2,1603,645,IND,2,317,-220,V Kohli,AU Rashid,4,24,66,46.11,6785,53.69,Right-hand bat,92,46,0,1422.1,42.86,64.6,rls,0,IND,spin,no,12.127229488703923,38.1141498216409
+2,1604,646,IND,2,317,-220,V Kohli,AU Rashid,4,24,67,46.11,6785,53.69,Right-hand bat,93,46,0,1422.1,42.86,64.6,rls,0,IND,spin,no,12.127229488703923,38.1141498216409
+2,1605,647,IND,2,317,-220,V Kohli,AU Rashid,4,24,68,46.11,6785,53.69,Right-hand bat,94,46,0,1422.1,42.86,64.6,rls,1,IND,spin,no,12.127229488703923,38.1141498216409
+2,1649,691,IND,4,339,-198,V Kohli,AU Rashid,4,36,86,46.11,6785,53.69,Right-hand bat,96,47,1,1422.1,42.86,64.6,rls,0,IND,spin,no,12.127229488703923,38.1141498216409
+2,1650,692,IND,4,339,-198,V Kohli,AU Rashid,4,36,87,46.11,6785,53.69,Right-hand bat,97,47,1,1422.1,42.86,64.6,rls,1,IND,spin,no,12.127229488703923,38.1141498216409
+2,1652,694,IND,4,341,-196,V Kohli,AU Rashid,4,37,88,46.11,6785,53.69,Right-hand bat,99,49,1,1422.1,42.86,64.6,rls,1,IND,spin,no,12.127229488703923,38.1141498216409
+2,1661,703,IND,5,351,-186,V Kohli,AU Rashid,4,39,90,46.11,6785,53.69,Right-hand bat,102,50,1,1422.1,42.86,64.6,rls,1,IND,spin,no,12.127229488703923,38.1141498216409
+2,1666,708,IND,5,353,-184,V Kohli,AU Rashid,4,40,91,46.11,6785,53.69,Right-hand bat,107,52,1,1422.1,42.86,64.6,rls,0,IND,spin,no,12.127229488703923,38.1141498216409
+2,1675,717,IND,5,361,-176,V Kohli,AU Rashid,4,40,94,46.11,6785,53.69,Right-hand bat,110,55,1,1422.1,42.86,64.6,rls,W,IND,spin,no,12.127229488703923,38.1141498216409

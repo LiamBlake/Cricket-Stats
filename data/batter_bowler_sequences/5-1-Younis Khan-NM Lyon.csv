@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,223,223,PAK,2,90,90,Younis Khan,NM Lyon,4,7,37,52.34,18676,52.41,Right-hand bat,30,21,1,14202.5,33.87,63.7,rob,0,AUS,spin,yes,33.74485596707819,11.810699588477368
+1,224,224,PAK,2,90,90,Younis Khan,NM Lyon,4,7,38,52.34,18676,52.41,Right-hand bat,31,21,1,14202.5,33.87,63.7,rob,1,AUS,spin,yes,33.74485596707819,11.810699588477368
+1,227,227,PAK,2,92,92,Younis Khan,NM Lyon,4,8,39,52.34,18676,52.41,Right-hand bat,34,23,1,14202.5,33.87,63.7,rob,0,AUS,spin,yes,33.74485596707819,11.810699588477368
+1,228,228,PAK,2,92,92,Younis Khan,NM Lyon,4,8,40,52.34,18676,52.41,Right-hand bat,35,23,1,14202.5,33.87,63.7,rob,1,AUS,spin,yes,33.74485596707819,11.810699588477368
+1,236,236,PAK,2,100,100,Younis Khan,NM Lyon,4,12,46,52.34,18676,52.41,Right-hand bat,37,25,1,14202.5,33.87,63.7,rob,3,AUS,spin,yes,33.74485596707819,11.810699588477368
+1,238,238,PAK,2,104,104,Younis Khan,NM Lyon,4,15,47,52.34,18676,52.41,Right-hand bat,39,29,1,14202.5,33.87,63.7,rob,0,AUS,spin,yes,33.74485596707819,11.810699588477368
+1,239,239,PAK,2,104,104,Younis Khan,NM Lyon,4,15,48,52.34,18676,52.41,Right-hand bat,40,29,1,14202.5,33.87,63.7,rob,0,AUS,spin,yes,33.74485596707819,11.810699588477368
+1,240,240,PAK,2,104,104,Younis Khan,NM Lyon,4,15,49,52.34,18676,52.41,Right-hand bat,41,29,1,14202.5,33.87,63.7,rob,1,AUS,spin,yes,33.74485596707819,11.810699588477368
+1,250,250,PAK,2,110,110,Younis Khan,NM Lyon,4,20,56,52.34,18676,52.41,Right-hand bat,45,31,1,14202.5,33.87,63.7,rob,0,AUS,spin,yes,33.74485596707819,11.810699588477368
+1,251,251,PAK,2,110,110,Younis Khan,NM Lyon,4,20,57,52.34,18676,52.41,Right-hand bat,46,31,1,14202.5,33.87,63.7,rob,1,AUS,spin,yes,33.74485596707819,11.810699588477368

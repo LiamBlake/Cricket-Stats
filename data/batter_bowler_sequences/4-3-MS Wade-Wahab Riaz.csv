@@ -1,0 +1,2 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1348,228,AUS,5,199,486,MS Wade,Wahab Riaz,7,0,0,31.75,1275,49.8,Left-hand bat,42,46,1,4068.2,33.15,58.1,lf,0,AUS,seam,yes,29.951020408163263,4.9918367346938775

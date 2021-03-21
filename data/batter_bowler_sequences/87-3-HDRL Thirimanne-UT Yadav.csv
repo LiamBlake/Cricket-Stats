@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1642,108,SRL,2,36,-369,HDRL Thirimanne,UT Yadav,2,17,50,23.06,2989,38.57,Left-hand bat,0,0,0,5898,35.9,59.5,rf,0,SRL,seam,yes,13.060650887573965,24.67011834319527
+3,1643,109,SRL,2,36,-369,HDRL Thirimanne,UT Yadav,2,17,51,23.06,2989,38.57,Left-hand bat,1,0,0,5898,35.9,59.5,rf,2,SRL,seam,yes,13.060650887573965,24.67011834319527
+3,1644,110,SRL,2,38,-367,HDRL Thirimanne,UT Yadav,2,19,52,23.06,2989,38.57,Left-hand bat,2,2,0,5898,35.9,59.5,rf,1,SRL,seam,yes,13.060650887573965,24.67011834319527
+3,1654,120,SRL,2,48,-357,HDRL Thirimanne,UT Yadav,2,23,58,23.06,2989,38.57,Left-hand bat,6,3,0,5898,35.9,59.5,rf,0,SRL,seam,yes,13.060650887573965,24.67011834319527
+3,1655,121,SRL,2,48,-357,HDRL Thirimanne,UT Yadav,2,23,59,23.06,2989,38.57,Left-hand bat,7,3,0,5898,35.9,59.5,rf,0,SRL,seam,yes,13.060650887573965,24.67011834319527
+3,1656,122,SRL,2,48,-357,HDRL Thirimanne,UT Yadav,2,23,60,23.06,2989,38.57,Left-hand bat,8,3,0,5898,35.9,59.5,rf,0,SRL,seam,yes,13.060650887573965,24.67011834319527
+3,1657,123,SRL,2,48,-357,HDRL Thirimanne,UT Yadav,2,23,61,23.06,2989,38.57,Left-hand bat,9,3,0,5898,35.9,59.5,rf,W,SRL,seam,yes,13.060650887573965,24.67011834319527

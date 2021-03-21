@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,550,550,ENG,9,314,314,SJ Harmison,BW Hilfenhaus,11,0,2,11.79,1299,57.19,Right-hand bat,127,63,2,1830.5,33.44,63.2,rfm,0,ENG,seam,yes,19.937541091387246,11.165023011176858
+1,551,551,ENG,9,314,314,SJ Harmison,BW Hilfenhaus,11,0,3,11.79,1299,57.19,Right-hand bat,128,63,2,1830.5,33.44,63.2,rfm,0,ENG,seam,yes,19.937541091387246,11.165023011176858
+1,552,552,ENG,9,314,314,SJ Harmison,BW Hilfenhaus,11,0,4,11.79,1299,57.19,Right-hand bat,129,63,2,1830.5,33.44,63.2,rfm,4,ENG,seam,yes,19.937541091387246,11.165023011176858
+1,553,553,ENG,9,318,318,SJ Harmison,BW Hilfenhaus,11,4,5,11.79,1299,57.19,Right-hand bat,130,67,2,1830.5,33.44,63.2,rfm,0,ENG,seam,yes,19.937541091387246,11.165023011176858

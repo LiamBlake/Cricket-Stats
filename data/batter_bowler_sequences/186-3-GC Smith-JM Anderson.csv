@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,969,0,RSA,0,0,-122,GC Smith,JM Anderson,1,0,0,49.23,9458,60.91,Left-hand bat,0,0,0,5904.2,34.51,56.7,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609
+3,970,1,RSA,0,0,-122,GC Smith,JM Anderson,1,0,1,49.23,9458,60.91,Left-hand bat,1,0,0,5904.2,34.51,56.7,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609
+3,971,2,RSA,0,0,-122,GC Smith,JM Anderson,1,0,2,49.23,9458,60.91,Left-hand bat,2,0,0,5904.2,34.51,56.7,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609
+3,972,3,RSA,0,0,-122,GC Smith,JM Anderson,1,0,3,49.23,9458,60.91,Left-hand bat,3,0,0,5904.2,34.51,56.7,rfm,0,ENG,seam,yes,23.963667820069205,6.21280276816609
+3,973,4,RSA,0,0,-122,GC Smith,JM Anderson,1,0,4,49.23,9458,60.91,Left-hand bat,4,0,0,5904.2,34.51,56.7,rfm,W,ENG,seam,yes,23.963667820069205,6.21280276816609

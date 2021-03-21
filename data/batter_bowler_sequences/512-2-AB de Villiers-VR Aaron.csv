@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,778,367,RSA,6,168,-33,AB de Villiers,VR Aaron,5,58,69,51.92,14090,54.54,Right-hand bat,36,11,0,1134.1,52.7,66.7,rf,2,IND,seam,no,2.6025,14.747500000000002
+2,779,368,RSA,6,170,-31,AB de Villiers,VR Aaron,5,60,70,51.92,14090,54.54,Right-hand bat,37,13,0,1134.1,52.7,66.7,rf,0,IND,seam,no,2.6025,14.747500000000002
+2,780,369,RSA,6,170,-31,AB de Villiers,VR Aaron,5,60,71,51.92,14090,54.54,Right-hand bat,38,13,0,1134.1,52.7,66.7,rf,0,IND,seam,no,2.6025,14.747500000000002
+2,781,370,RSA,6,170,-31,AB de Villiers,VR Aaron,5,60,72,51.92,14090,54.54,Right-hand bat,39,13,0,1134.1,52.7,66.7,rf,0,IND,seam,no,2.6025,14.747500000000002
+2,782,371,RSA,6,170,-31,AB de Villiers,VR Aaron,5,60,73,51.92,14090,54.54,Right-hand bat,40,13,0,1134.1,52.7,66.7,rf,0,IND,seam,no,2.6025,14.747500000000002
+2,783,372,RSA,6,170,-31,AB de Villiers,VR Aaron,5,60,74,51.92,14090,54.54,Right-hand bat,41,13,0,1134.1,52.7,66.7,rf,0,IND,seam,no,2.6025,14.747500000000002
+2,790,379,RSA,7,170,-31,AB de Villiers,VR Aaron,5,60,75,51.92,14090,54.54,Right-hand bat,42,13,0,1134.1,52.7,66.7,rf,0,IND,seam,no,2.6025,14.747500000000002
+2,791,380,RSA,7,170,-31,AB de Villiers,VR Aaron,5,60,76,51.92,14090,54.54,Right-hand bat,43,13,0,1134.1,52.7,66.7,rf,0,IND,seam,no,2.6025,14.747500000000002
+2,792,381,RSA,7,170,-31,AB de Villiers,VR Aaron,5,60,77,51.92,14090,54.54,Right-hand bat,44,13,0,1134.1,52.7,66.7,rf,1,IND,seam,no,2.6025,14.747500000000002

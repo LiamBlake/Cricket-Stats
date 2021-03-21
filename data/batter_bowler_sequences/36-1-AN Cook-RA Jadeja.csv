@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,51,51,ENG,1,13,13,AN Cook,RA Jadeja,1,6,24,46.45,23560,46.93,Left-hand bat,2,1,0,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+1,52,52,ENG,1,13,13,AN Cook,RA Jadeja,1,6,25,46.45,23560,46.93,Left-hand bat,3,1,0,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+1,53,53,ENG,1,13,13,AN Cook,RA Jadeja,1,6,26,46.45,23560,46.93,Left-hand bat,4,1,0,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+1,54,54,ENG,1,13,13,AN Cook,RA Jadeja,1,6,27,46.45,23560,46.93,Left-hand bat,5,1,0,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+1,61,61,ENG,1,13,13,AN Cook,RA Jadeja,1,6,28,46.45,23560,46.93,Left-hand bat,6,1,0,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+1,62,62,ENG,1,13,13,AN Cook,RA Jadeja,1,6,29,46.45,23560,46.93,Left-hand bat,7,1,0,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+1,63,63,ENG,1,13,13,AN Cook,RA Jadeja,1,6,30,46.45,23560,46.93,Left-hand bat,8,1,0,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+1,64,64,ENG,1,13,13,AN Cook,RA Jadeja,1,6,31,46.45,23560,46.93,Left-hand bat,9,1,0,7050.1,24.07,63.5,lo,4,IND,spin,yes,17.814814814814813,35.629629629629626
+1,65,65,ENG,1,17,17,AN Cook,RA Jadeja,1,10,32,46.45,23560,46.93,Left-hand bat,10,5,0,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+1,66,66,ENG,1,17,17,AN Cook,RA Jadeja,1,10,33,46.45,23560,46.93,Left-hand bat,11,5,0,7050.1,24.07,63.5,lo,0,IND,spin,yes,17.814814814814813,35.629629629629626
+1,76,76,ENG,1,21,21,AN Cook,RA Jadeja,1,10,37,46.45,23560,46.93,Left-hand bat,15,6,0,7050.1,24.07,63.5,lo,W,IND,spin,yes,17.814814814814813,35.629629629629626

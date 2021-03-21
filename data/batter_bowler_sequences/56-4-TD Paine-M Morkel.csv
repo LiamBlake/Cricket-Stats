@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1869,177,AUS,5,75,-354,TD Paine,M Morkel,7,0,0,41.66,1340,46.64,Right-hand bat,27,9,1,16356.4,27.73,53.4,rf,4,RSA,seam,no,20.26625,5.88375
+4,1870,178,AUS,5,79,-350,TD Paine,M Morkel,7,4,1,41.66,1340,46.64,Right-hand bat,28,13,1,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
+4,1871,179,AUS,5,79,-350,TD Paine,M Morkel,7,4,2,41.66,1340,46.64,Right-hand bat,29,13,1,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
+4,1878,186,AUS,5,83,-346,TD Paine,M Morkel,7,4,3,41.66,1340,46.64,Right-hand bat,30,13,1,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
+4,1879,187,AUS,5,83,-346,TD Paine,M Morkel,7,4,4,41.66,1340,46.64,Right-hand bat,31,13,1,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
+4,1880,188,AUS,5,83,-346,TD Paine,M Morkel,7,4,5,41.66,1340,46.64,Right-hand bat,32,13,1,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
+4,1881,189,AUS,5,83,-346,TD Paine,M Morkel,7,4,6,41.66,1340,46.64,Right-hand bat,33,13,1,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
+4,1882,190,AUS,5,83,-346,TD Paine,M Morkel,7,4,7,41.66,1340,46.64,Right-hand bat,34,13,1,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
+4,1883,191,AUS,5,83,-346,TD Paine,M Morkel,7,4,8,41.66,1340,46.64,Right-hand bat,35,13,1,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
+4,1914,222,AUS,9,94,-335,TD Paine,M Morkel,7,5,16,41.66,1340,46.64,Right-hand bat,48,19,4,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
+4,1915,223,AUS,9,94,-335,TD Paine,M Morkel,7,5,17,41.66,1340,46.64,Right-hand bat,49,19,4,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
+4,1916,224,AUS,9,94,-335,TD Paine,M Morkel,7,5,18,41.66,1340,46.64,Right-hand bat,50,19,4,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
+4,1917,225,AUS,9,94,-335,TD Paine,M Morkel,7,5,19,41.66,1340,46.64,Right-hand bat,51,19,4,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
+4,1918,226,AUS,9,94,-335,TD Paine,M Morkel,7,5,20,41.66,1340,46.64,Right-hand bat,52,19,4,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
+4,1919,227,AUS,9,94,-335,TD Paine,M Morkel,7,5,21,41.66,1340,46.64,Right-hand bat,53,19,4,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375

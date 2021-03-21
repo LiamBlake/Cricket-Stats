@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,882,190,ENG,1,66,-261,IJL Trott,PP Ojha,3,0,0,48.08,5679,47.42,Right-hand bat,58,32,1,5916.4,30.46,66.5,lo,0,IND,spin,no,1.0444444444444445,30.288888888888888
+2,883,191,ENG,1,66,-261,IJL Trott,PP Ojha,3,0,1,48.08,5679,47.42,Right-hand bat,59,32,1,5916.4,30.46,66.5,lo,0,IND,spin,no,1.0444444444444445,30.288888888888888
+2,893,201,ENG,1,68,-259,IJL Trott,PP Ojha,3,0,3,48.08,5679,47.42,Right-hand bat,63,33,1,5916.4,30.46,66.5,lo,0,IND,spin,no,1.0444444444444445,30.288888888888888
+2,894,202,ENG,1,68,-259,IJL Trott,PP Ojha,3,0,4,48.08,5679,47.42,Right-hand bat,64,33,1,5916.4,30.46,66.5,lo,0,IND,spin,no,1.0444444444444445,30.288888888888888
+2,895,203,ENG,1,68,-259,IJL Trott,PP Ojha,3,0,5,48.08,5679,47.42,Right-hand bat,65,33,1,5916.4,30.46,66.5,lo,W,IND,spin,no,1.0444444444444445,30.288888888888888

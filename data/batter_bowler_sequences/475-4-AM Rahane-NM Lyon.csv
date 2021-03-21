@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2269,416,IND,3,242,-121,AM Rahane,NM Lyon,5,0,0,38.94,1386,53.39,Right-hand bat,151,116,2,8430.2,34.66,66.3,rob,0,AUS,spin,no,22.939453125,25.998046875
+4,2270,417,IND,3,242,-121,AM Rahane,NM Lyon,5,0,1,38.94,1386,53.39,Right-hand bat,152,116,2,8430.2,34.66,66.3,rob,0,AUS,spin,no,22.939453125,25.998046875
+4,2271,418,IND,3,242,-121,AM Rahane,NM Lyon,5,0,2,38.94,1386,53.39,Right-hand bat,153,116,2,8430.2,34.66,66.3,rob,0,AUS,spin,no,22.939453125,25.998046875
+4,2272,419,IND,3,242,-121,AM Rahane,NM Lyon,5,0,3,38.94,1386,53.39,Right-hand bat,154,116,2,8430.2,34.66,66.3,rob,0,AUS,spin,no,22.939453125,25.998046875
+4,2273,420,IND,3,242,-121,AM Rahane,NM Lyon,5,0,4,38.94,1386,53.39,Right-hand bat,155,116,2,8430.2,34.66,66.3,rob,W,AUS,spin,no,22.939453125,25.998046875

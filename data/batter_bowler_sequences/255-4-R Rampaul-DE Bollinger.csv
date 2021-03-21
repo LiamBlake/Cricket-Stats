@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2102,498,WIN,7,247,-111,R Rampaul,DE Bollinger,9,0,0,16.25,107,60.74,Left-hand bat,84,39,2,762.2,25.93,50.9,lfm,0,AUS,seam,no,26.69101533966399,9.532505478451425
+4,2103,499,WIN,7,247,-111,R Rampaul,DE Bollinger,9,0,1,16.25,107,60.74,Left-hand bat,85,39,2,762.2,25.93,50.9,lfm,0,AUS,seam,no,26.69101533966399,9.532505478451425
+4,2104,500,WIN,7,247,-111,R Rampaul,DE Bollinger,9,0,2,16.25,107,60.74,Left-hand bat,86,39,2,762.2,25.93,50.9,lfm,0,AUS,seam,no,26.69101533966399,9.532505478451425
+4,2105,501,WIN,7,247,-111,R Rampaul,DE Bollinger,9,0,3,16.25,107,60.74,Left-hand bat,87,39,2,762.2,25.93,50.9,lfm,2,AUS,seam,no,26.69101533966399,9.532505478451425
+4,2106,502,WIN,7,249,-109,R Rampaul,DE Bollinger,9,2,4,16.25,107,60.74,Left-hand bat,88,41,2,762.2,25.93,50.9,lfm,4,AUS,seam,no,26.69101533966399,9.532505478451425
+4,2107,503,WIN,7,253,-105,R Rampaul,DE Bollinger,9,6,5,16.25,107,60.74,Left-hand bat,89,45,2,762.2,25.93,50.9,lfm,0,AUS,seam,no,26.69101533966399,9.532505478451425
+4,2115,511,WIN,7,265,-93,R Rampaul,DE Bollinger,9,6,7,16.25,107,60.74,Left-hand bat,91,46,2,762.2,25.93,50.9,lfm,0,AUS,seam,no,26.69101533966399,9.532505478451425
+4,2116,512,WIN,7,265,-93,R Rampaul,DE Bollinger,9,6,8,16.25,107,60.74,Left-hand bat,92,46,2,762.2,25.93,50.9,lfm,4,AUS,seam,no,26.69101533966399,9.532505478451425
+4,2117,513,WIN,7,269,-89,R Rampaul,DE Bollinger,9,10,9,16.25,107,60.74,Left-hand bat,93,50,2,762.2,25.93,50.9,lfm,0,AUS,seam,no,26.69101533966399,9.532505478451425
+4,2118,514,WIN,7,269,-89,R Rampaul,DE Bollinger,9,10,10,16.25,107,60.74,Left-hand bat,94,50,2,762.2,25.93,50.9,lfm,0,AUS,seam,no,26.69101533966399,9.532505478451425
+4,2119,515,WIN,7,269,-89,R Rampaul,DE Bollinger,9,10,11,16.25,107,60.74,Left-hand bat,95,50,2,762.2,25.93,50.9,lfm,0,AUS,seam,no,26.69101533966399,9.532505478451425

@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2602,574,ZIM,5,288,-77,RW Chakabva,DAJ Bracewell,7,0,3,21,133,31.57,Right-hand bat,112,61,2,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+4,2603,575,ZIM,5,288,-77,RW Chakabva,DAJ Bracewell,7,0,4,21,133,31.57,Right-hand bat,113,61,2,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+4,2604,576,ZIM,5,288,-77,RW Chakabva,DAJ Bracewell,7,0,5,21,133,31.57,Right-hand bat,114,61,2,288,22.66,48,rfm,1nb,ZIM,seam,no,21.05678670360111,13.732686980609419
+4,2605,577,ZIM,5,289,-76,RW Chakabva,DAJ Bracewell,7,0,6,21,133,31.57,Right-hand bat,115,62,2,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+4,2606,578,ZIM,5,289,-76,RW Chakabva,DAJ Bracewell,7,0,7,21,133,31.57,Right-hand bat,116,62,2,288,22.66,48,rfm,2,ZIM,seam,no,21.05678670360111,13.732686980609419
+4,2607,579,ZIM,5,291,-74,RW Chakabva,DAJ Bracewell,7,2,8,21,133,31.57,Right-hand bat,117,64,2,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+4,2615,587,ZIM,5,297,-68,RW Chakabva,DAJ Bracewell,7,2,9,21,133,31.57,Right-hand bat,119,65,2,288,22.66,48,rfm,2,ZIM,seam,no,21.05678670360111,13.732686980609419
+4,2616,588,ZIM,5,299,-66,RW Chakabva,DAJ Bracewell,7,4,10,21,133,31.57,Right-hand bat,120,67,2,288,22.66,48,rfm,1,ZIM,seam,no,21.05678670360111,13.732686980609419
+4,2619,591,ZIM,5,301,-64,RW Chakabva,DAJ Bracewell,7,5,11,21,133,31.57,Right-hand bat,123,69,2,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+4,2627,599,ZIM,5,303,-62,RW Chakabva,DAJ Bracewell,7,5,15,21,133,31.57,Right-hand bat,125,70,2,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+4,2628,600,ZIM,5,303,-62,RW Chakabva,DAJ Bracewell,7,5,16,21,133,31.57,Right-hand bat,126,70,2,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+4,2629,601,ZIM,5,303,-62,RW Chakabva,DAJ Bracewell,7,5,17,21,133,31.57,Right-hand bat,127,70,2,288,22.66,48,rfm,W,ZIM,seam,no,21.05678670360111,13.732686980609419

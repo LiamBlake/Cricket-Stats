@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,53,53,SRL,2,18,18,LD Chandimal,SNJ O'Keefe,4,1,10,43.91,3691,55.91,Right-hand bat,5,1,0,654.5,35.6,65.9,lo,0,SRL,spin,yes,7.297500000000001,13.5525
+1,132,132,SRL,4,62,62,LD Chandimal,SNJ O'Keefe,4,14,37,43.91,3691,55.91,Right-hand bat,42,22,1,654.5,35.6,65.9,lo,0,SRL,spin,yes,7.297500000000001,13.5525
+1,133,133,SRL,4,62,62,LD Chandimal,SNJ O'Keefe,4,14,38,43.91,3691,55.91,Right-hand bat,43,22,1,654.5,35.6,65.9,lo,0,SRL,spin,yes,7.297500000000001,13.5525
+1,134,134,SRL,4,62,62,LD Chandimal,SNJ O'Keefe,4,14,39,43.91,3691,55.91,Right-hand bat,44,22,1,654.5,35.6,65.9,lo,0,SRL,spin,yes,7.297500000000001,13.5525
+1,135,135,SRL,4,62,62,LD Chandimal,SNJ O'Keefe,4,14,40,43.91,3691,55.91,Right-hand bat,45,22,1,654.5,35.6,65.9,lo,0,SRL,spin,yes,7.297500000000001,13.5525
+1,136,136,SRL,4,62,62,LD Chandimal,SNJ O'Keefe,4,14,41,43.91,3691,55.91,Right-hand bat,46,22,1,654.5,35.6,65.9,lo,0,SRL,spin,yes,7.297500000000001,13.5525
+1,137,137,SRL,4,62,62,LD Chandimal,SNJ O'Keefe,4,14,42,43.91,3691,55.91,Right-hand bat,47,22,1,654.5,35.6,65.9,lo,0,SRL,spin,yes,7.297500000000001,13.5525
+1,144,144,SRL,4,66,66,LD Chandimal,SNJ O'Keefe,4,14,43,43.91,3691,55.91,Right-hand bat,48,22,1,654.5,35.6,65.9,lo,0,SRL,spin,yes,7.297500000000001,13.5525
+1,145,145,SRL,4,66,66,LD Chandimal,SNJ O'Keefe,4,14,44,43.91,3691,55.91,Right-hand bat,49,22,1,654.5,35.6,65.9,lo,0,SRL,spin,yes,7.297500000000001,13.5525
+1,146,146,SRL,4,66,66,LD Chandimal,SNJ O'Keefe,4,14,45,43.91,3691,55.91,Right-hand bat,50,22,1,654.5,35.6,65.9,lo,0,SRL,spin,yes,7.297500000000001,13.5525
+1,147,147,SRL,4,66,66,LD Chandimal,SNJ O'Keefe,4,14,46,43.91,3691,55.91,Right-hand bat,51,22,1,654.5,35.6,65.9,lo,0,SRL,spin,yes,7.297500000000001,13.5525
+1,148,148,SRL,4,66,66,LD Chandimal,SNJ O'Keefe,4,14,47,43.91,3691,55.91,Right-hand bat,52,22,1,654.5,35.6,65.9,lo,1,SRL,spin,yes,7.297500000000001,13.5525

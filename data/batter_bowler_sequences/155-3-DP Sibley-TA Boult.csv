@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1997,30,ENG,0,16,-246,DP Sibley,TA Boult,2,7,12,17,125,27.2,Right-hand bat,12,0,0,14208,27.64,55.7,lfm,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,1998,31,ENG,0,16,-246,DP Sibley,TA Boult,2,7,13,17,125,27.2,Right-hand bat,13,0,0,14208,27.64,55.7,lfm,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,1999,32,ENG,0,16,-246,DP Sibley,TA Boult,2,7,14,17,125,27.2,Right-hand bat,14,0,0,14208,27.64,55.7,lfm,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2000,33,ENG,0,16,-246,DP Sibley,TA Boult,2,7,15,17,125,27.2,Right-hand bat,15,0,0,14208,27.64,55.7,lfm,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2001,34,ENG,0,16,-246,DP Sibley,TA Boult,2,7,16,17,125,27.2,Right-hand bat,16,0,0,14208,27.64,55.7,lfm,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2002,35,ENG,0,16,-246,DP Sibley,TA Boult,2,7,17,17,125,27.2,Right-hand bat,17,0,0,14208,27.64,55.7,lfm,1lb,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2014,47,ENG,0,20,-242,DP Sibley,TA Boult,2,9,24,17,125,27.2,Right-hand bat,23,1,0,14208,27.64,55.7,lfm,1,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2021,54,ENG,0,22,-240,DP Sibley,TA Boult,2,11,26,17,125,27.2,Right-hand bat,24,2,0,14208,27.64,55.7,lfm,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2022,55,ENG,0,22,-240,DP Sibley,TA Boult,2,11,27,17,125,27.2,Right-hand bat,25,2,0,14208,27.64,55.7,lfm,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2023,56,ENG,0,22,-240,DP Sibley,TA Boult,2,11,28,17,125,27.2,Right-hand bat,26,2,0,14208,27.64,55.7,lfm,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2024,57,ENG,0,22,-240,DP Sibley,TA Boult,2,11,29,17,125,27.2,Right-hand bat,27,2,0,14208,27.64,55.7,lfm,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2025,58,ENG,0,22,-240,DP Sibley,TA Boult,2,11,30,17,125,27.2,Right-hand bat,28,2,0,14208,27.64,55.7,lfm,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2026,59,ENG,0,22,-240,DP Sibley,TA Boult,2,11,31,17,125,27.2,Right-hand bat,29,2,0,14208,27.64,55.7,lfm,0,NZL,seam,yes,31.860879904875144,8.311533888228299

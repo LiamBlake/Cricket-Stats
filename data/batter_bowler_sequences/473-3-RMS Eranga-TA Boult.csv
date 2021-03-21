@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1620,837,SRL,8,330,27,RMS Eranga,TA Boult,10,0,8,16.9,427,43.55,Right-hand bat,218,85,3,6024.4,27.19,56.8,lfm,2,NZL,seam,yes,30.9541015625,3.2021484375
+3,1621,838,SRL,8,332,29,RMS Eranga,TA Boult,10,2,9,16.9,427,43.55,Right-hand bat,219,87,3,6024.4,27.19,56.8,lfm,0,NZL,seam,yes,30.9541015625,3.2021484375
+3,1622,839,SRL,8,332,29,RMS Eranga,TA Boult,10,2,10,16.9,427,43.55,Right-hand bat,220,87,3,6024.4,27.19,56.8,lfm,0,NZL,seam,yes,30.9541015625,3.2021484375
+3,1623,840,SRL,8,332,29,RMS Eranga,TA Boult,10,2,11,16.9,427,43.55,Right-hand bat,221,87,3,6024.4,27.19,56.8,lfm,0,NZL,seam,yes,30.9541015625,3.2021484375
+3,1624,841,SRL,8,332,29,RMS Eranga,TA Boult,10,2,12,16.9,427,43.55,Right-hand bat,222,87,3,6024.4,27.19,56.8,lfm,0,NZL,seam,yes,30.9541015625,3.2021484375
+3,1691,908,SRL,9,390,87,RMS Eranga,TA Boult,10,31,52,16.9,427,43.55,Right-hand bat,223,87,3,6024.4,27.19,56.8,lfm,4,NZL,seam,yes,30.9541015625,3.2021484375
+3,1692,909,SRL,9,394,91,RMS Eranga,TA Boult,10,35,53,16.9,427,43.55,Right-hand bat,224,91,3,6024.4,27.19,56.8,lfm,1,NZL,seam,yes,30.9541015625,3.2021484375
+3,1695,912,SRL,9,396,93,RMS Eranga,TA Boult,10,36,54,16.9,427,43.55,Right-hand bat,227,92,3,6024.4,27.19,56.8,lfm,2,NZL,seam,yes,30.9541015625,3.2021484375
+3,1696,913,SRL,9,398,95,RMS Eranga,TA Boult,10,38,55,16.9,427,43.55,Right-hand bat,228,94,3,6024.4,27.19,56.8,lfm,1,NZL,seam,yes,30.9541015625,3.2021484375
+3,1703,920,SRL,9,402,99,RMS Eranga,TA Boult,10,40,60,16.9,427,43.55,Right-hand bat,229,95,3,6024.4,27.19,56.8,lfm,4,NZL,seam,yes,30.9541015625,3.2021484375
+3,1704,921,SRL,9,406,103,RMS Eranga,TA Boult,10,44,61,16.9,427,43.55,Right-hand bat,230,99,3,6024.4,27.19,56.8,lfm,1,NZL,seam,yes,30.9541015625,3.2021484375

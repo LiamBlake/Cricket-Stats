@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,626,177,NZL,2,96,-135,LRPL Taylor,SR Watson,4,36,24,43.13,3103,62.55,Right-hand bat,18,15,0,1812.4,34.48,67.2,rfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,627,178,NZL,2,96,-135,LRPL Taylor,SR Watson,4,36,25,43.13,3103,62.55,Right-hand bat,19,15,0,1812.4,34.48,67.2,rfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,628,179,NZL,2,96,-135,LRPL Taylor,SR Watson,4,36,26,43.13,3103,62.55,Right-hand bat,20,15,0,1812.4,34.48,67.2,rfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,629,180,NZL,2,96,-135,LRPL Taylor,SR Watson,4,36,27,43.13,3103,62.55,Right-hand bat,21,15,0,1812.4,34.48,67.2,rfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,630,181,NZL,2,96,-135,LRPL Taylor,SR Watson,4,36,28,43.13,3103,62.55,Right-hand bat,22,15,0,1812.4,34.48,67.2,rfm,4,NZL,seam,no,24.457063711911356,9.963988919667589
+2,631,182,NZL,2,100,-131,LRPL Taylor,SR Watson,4,40,29,43.13,3103,62.55,Right-hand bat,23,19,0,1812.4,34.48,67.2,rfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,641,192,NZL,2,104,-127,LRPL Taylor,SR Watson,4,40,31,43.13,3103,62.55,Right-hand bat,27,20,0,1812.4,34.48,67.2,rfm,4,NZL,seam,no,24.457063711911356,9.963988919667589
+2,642,193,NZL,2,108,-123,LRPL Taylor,SR Watson,4,44,32,43.13,3103,62.55,Right-hand bat,28,24,0,1812.4,34.48,67.2,rfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,643,194,NZL,2,108,-123,LRPL Taylor,SR Watson,4,44,33,43.13,3103,62.55,Right-hand bat,29,24,0,1812.4,34.48,67.2,rfm,6,NZL,seam,no,24.457063711911356,9.963988919667589

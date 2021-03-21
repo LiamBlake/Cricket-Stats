@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2055,159,AUS,4,144,241,JA Burns,B Kumar,6,4,3,36.5,197,74.11,Right-hand bat,37,36,1,1908.5,35,65.9,rm,0,AUS,seam,yes,36.166666666666664,15.5
+3,2056,160,AUS,4,144,241,JA Burns,B Kumar,6,4,4,36.5,197,74.11,Right-hand bat,38,36,1,1908.5,35,65.9,rm,0,AUS,seam,yes,36.166666666666664,15.5
+3,2057,161,AUS,4,144,241,JA Burns,B Kumar,6,4,5,36.5,197,74.11,Right-hand bat,39,36,1,1908.5,35,65.9,rm,1,AUS,seam,yes,36.166666666666664,15.5
+3,2066,170,AUS,4,148,245,JA Burns,B Kumar,6,6,8,36.5,197,74.11,Right-hand bat,42,38,1,1908.5,35,65.9,rm,3,AUS,seam,yes,36.166666666666664,15.5
+3,2069,173,AUS,4,154,251,JA Burns,B Kumar,6,9,9,36.5,197,74.11,Right-hand bat,45,44,1,1908.5,35,65.9,rm,2,AUS,seam,yes,36.166666666666664,15.5
+3,2070,174,AUS,4,156,253,JA Burns,B Kumar,6,11,10,36.5,197,74.11,Right-hand bat,46,46,1,1908.5,35,65.9,rm,0,AUS,seam,yes,36.166666666666664,15.5
+3,2071,175,AUS,4,156,253,JA Burns,B Kumar,6,11,11,36.5,197,74.11,Right-hand bat,47,46,1,1908.5,35,65.9,rm,0,AUS,seam,yes,36.166666666666664,15.5

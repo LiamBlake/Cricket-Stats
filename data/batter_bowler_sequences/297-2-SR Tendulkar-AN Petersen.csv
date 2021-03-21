@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1147,458,IND,3,220,-142,SR Tendulkar,AN Petersen,4,89,190,56.94,NA,NA,Right-hand bat,0,0,0,72,36,72,rob,0,RSA,spin,yes,27.173553719008265,10.1900826446281
+2,1148,459,IND,3,220,-142,SR Tendulkar,AN Petersen,4,89,191,56.94,NA,NA,Right-hand bat,1,0,0,72,36,72,rob,0,RSA,spin,yes,27.173553719008265,10.1900826446281
+2,1149,460,IND,3,220,-142,SR Tendulkar,AN Petersen,4,89,192,56.94,NA,NA,Right-hand bat,2,0,0,72,36,72,rob,1,RSA,spin,yes,27.173553719008265,10.1900826446281
+2,1162,473,IND,3,232,-130,SR Tendulkar,AN Petersen,4,91,197,56.94,NA,NA,Right-hand bat,9,6,0,72,36,72,rob,3,RSA,spin,yes,27.173553719008265,10.1900826446281

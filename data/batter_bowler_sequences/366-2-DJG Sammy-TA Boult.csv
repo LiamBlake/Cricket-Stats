@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,822,313,WIN,6,149,-111,DJG Sammy,TA Boult,8,21,21,22.2,1569,67.94,Right-hand bat,90,46,3,636,31.16,53,lfm,4,WIN,seam,yes,16.241632653061227,7.444081632653061
+2,823,314,WIN,6,153,-107,DJG Sammy,TA Boult,8,25,22,22.2,1569,67.94,Right-hand bat,91,50,3,636,31.16,53,lfm,0,WIN,seam,yes,16.241632653061227,7.444081632653061
+2,824,315,WIN,6,153,-107,DJG Sammy,TA Boult,8,25,23,22.2,1569,67.94,Right-hand bat,92,50,3,636,31.16,53,lfm,4,WIN,seam,yes,16.241632653061227,7.444081632653061
+2,825,316,WIN,6,157,-103,DJG Sammy,TA Boult,8,29,24,22.2,1569,67.94,Right-hand bat,93,54,3,636,31.16,53,lfm,1,WIN,seam,yes,16.241632653061227,7.444081632653061
+2,827,318,WIN,6,159,-101,DJG Sammy,TA Boult,8,30,25,22.2,1569,67.94,Right-hand bat,95,56,3,636,31.16,53,lfm,1,WIN,seam,yes,16.241632653061227,7.444081632653061

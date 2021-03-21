@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1108,450,ENG,3,280,-90,IR Bell,S Shillingford,5,8,7,46.96,10112,52.48,Right-hand bat,102,84,0,2580,44.79,88.9,rob,0,ENG,spin,no,26.82206035379813,7.823100936524454
+2,1109,451,ENG,3,280,-90,IR Bell,S Shillingford,5,8,8,46.96,10112,52.48,Right-hand bat,103,84,0,2580,44.79,88.9,rob,4,ENG,spin,no,26.82206035379813,7.823100936524454
+2,1110,452,ENG,3,284,-86,IR Bell,S Shillingford,5,12,9,46.96,10112,52.48,Right-hand bat,104,88,0,2580,44.79,88.9,rob,1,ENG,spin,no,26.82206035379813,7.823100936524454
+2,1120,462,ENG,3,286,-84,IR Bell,S Shillingford,5,14,11,46.96,10112,52.48,Right-hand bat,108,89,0,2580,44.79,88.9,rob,0,ENG,spin,no,26.82206035379813,7.823100936524454
+2,1121,463,ENG,3,286,-84,IR Bell,S Shillingford,5,14,12,46.96,10112,52.48,Right-hand bat,109,89,0,2580,44.79,88.9,rob,1,ENG,spin,no,26.82206035379813,7.823100936524454
+2,1125,467,ENG,3,288,-82,IR Bell,S Shillingford,5,15,13,46.96,10112,52.48,Right-hand bat,113,91,0,2580,44.79,88.9,rob,0,ENG,spin,no,26.82206035379813,7.823100936524454
+2,1132,474,ENG,3,290,-80,IR Bell,S Shillingford,5,16,17,46.96,10112,52.48,Right-hand bat,114,91,0,2580,44.79,88.9,rob,4,ENG,spin,no,26.82206035379813,7.823100936524454
+2,1133,475,ENG,3,294,-76,IR Bell,S Shillingford,5,20,18,46.96,10112,52.48,Right-hand bat,115,95,0,2580,44.79,88.9,rob,0,ENG,spin,no,26.82206035379813,7.823100936524454
+2,1134,476,ENG,3,294,-76,IR Bell,S Shillingford,5,20,19,46.96,10112,52.48,Right-hand bat,116,95,0,2580,44.79,88.9,rob,1,ENG,spin,no,26.82206035379813,7.823100936524454
+2,1136,478,ENG,3,296,-74,IR Bell,S Shillingford,5,21,20,46.96,10112,52.48,Right-hand bat,118,97,0,2580,44.79,88.9,rob,1,ENG,spin,no,26.82206035379813,7.823100936524454
+2,1149,491,ENG,3,299,-71,IR Bell,S Shillingford,5,22,27,46.96,10112,52.48,Right-hand bat,124,99,0,2580,44.79,88.9,rob,0,ENG,spin,no,26.82206035379813,7.823100936524454
+2,1150,492,ENG,3,299,-71,IR Bell,S Shillingford,5,22,28,46.96,10112,52.48,Right-hand bat,125,99,0,2580,44.79,88.9,rob,0,ENG,spin,no,26.82206035379813,7.823100936524454

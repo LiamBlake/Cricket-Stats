@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1962,686,PAK,8,346,274,Wahab Riaz,MM Ali,10,13,16,8.76,392,38.01,Right-hand bat,116,64,1,3168,38.14,58.6,rob,1,ENG,spin,yes,9.19625,17.07875
+3,1964,688,PAK,8,348,276,Wahab Riaz,MM Ali,10,14,17,8.76,392,38.01,Right-hand bat,118,66,1,3168,38.14,58.6,rob,0,ENG,spin,yes,9.19625,17.07875
+3,1965,689,PAK,8,348,276,Wahab Riaz,MM Ali,10,14,18,8.76,392,38.01,Right-hand bat,119,66,1,3168,38.14,58.6,rob,0,ENG,spin,yes,9.19625,17.07875
+3,1972,696,PAK,8,348,276,Wahab Riaz,MM Ali,10,14,19,8.76,392,38.01,Right-hand bat,120,66,1,3168,38.14,58.6,rob,0,ENG,spin,yes,9.19625,17.07875
+3,1973,697,PAK,8,348,276,Wahab Riaz,MM Ali,10,14,20,8.76,392,38.01,Right-hand bat,121,66,1,3168,38.14,58.6,rob,0,ENG,spin,yes,9.19625,17.07875
+3,1974,698,PAK,8,348,276,Wahab Riaz,MM Ali,10,14,21,8.76,392,38.01,Right-hand bat,122,66,1,3168,38.14,58.6,rob,4,ENG,spin,yes,9.19625,17.07875
+3,1975,699,PAK,8,352,280,Wahab Riaz,MM Ali,10,18,22,8.76,392,38.01,Right-hand bat,123,70,1,3168,38.14,58.6,rob,1,ENG,spin,yes,9.19625,17.07875
+3,1984,708,PAK,9,354,282,Wahab Riaz,MM Ali,10,20,25,8.76,392,38.01,Right-hand bat,126,71,1,3168,38.14,58.6,rob,0,ENG,spin,yes,9.19625,17.07875
+3,1985,709,PAK,9,354,282,Wahab Riaz,MM Ali,10,20,26,8.76,392,38.01,Right-hand bat,127,71,1,3168,38.14,58.6,rob,W,ENG,spin,yes,9.19625,17.07875

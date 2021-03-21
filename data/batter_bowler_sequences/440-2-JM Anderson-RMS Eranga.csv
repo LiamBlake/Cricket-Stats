@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1119,698,ENG,9,351,94,JM Anderson,RMS Eranga,11,0,1,10.2,2195,38.13,Left-hand bat,197,83,3,2892.5,31.79,59.1,rfm,0,ENG,seam,yes,28.220000000000006,4.98
+2,1120,699,ENG,9,351,94,JM Anderson,RMS Eranga,11,0,2,10.2,2195,38.13,Left-hand bat,198,83,3,2892.5,31.79,59.1,rfm,0,ENG,seam,yes,28.220000000000006,4.98
+2,1131,710,ENG,9,365,108,JM Anderson,RMS Eranga,11,0,5,10.2,2195,38.13,Left-hand bat,203,92,3,2892.5,31.79,59.1,rfm,W,ENG,seam,yes,28.220000000000006,4.98

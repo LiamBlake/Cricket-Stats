@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,38,38,ENG,0,13,13,KK Jennings,M Morkel,2,6,18,24.5,685,42.91,Left-hand bat,20,7,0,15126.3,29.01,55.6,rf,0,ENG,seam,yes,19.36875,6.45625
+1,39,39,ENG,0,13,13,KK Jennings,M Morkel,2,6,19,24.5,685,42.91,Left-hand bat,21,7,0,15126.3,29.01,55.6,rf,0,ENG,seam,yes,19.36875,6.45625
+1,40,40,ENG,0,13,13,KK Jennings,M Morkel,2,6,20,24.5,685,42.91,Left-hand bat,22,7,0,15126.3,29.01,55.6,rf,0,ENG,seam,yes,19.36875,6.45625
+1,41,41,ENG,0,13,13,KK Jennings,M Morkel,2,6,21,24.5,685,42.91,Left-hand bat,23,7,0,15126.3,29.01,55.6,rf,0,ENG,seam,yes,19.36875,6.45625

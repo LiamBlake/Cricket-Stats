@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1586,154,NZL,1,67,-144,PG Fulton,IJL Trott,1,37,76,23.05,1026,40.44,Right-hand bat,4,1,0,612,118.33,204,rm,0,NZL,seam,yes,27.303719008264466,12.741735537190083
+3,1587,155,NZL,1,67,-144,PG Fulton,IJL Trott,1,37,77,23.05,1026,40.44,Right-hand bat,5,1,0,612,118.33,204,rm,0,NZL,seam,yes,27.303719008264466,12.741735537190083
+3,1594,162,NZL,1,67,-144,PG Fulton,IJL Trott,1,37,78,23.05,1026,40.44,Right-hand bat,6,1,0,612,118.33,204,rm,2,NZL,seam,yes,27.303719008264466,12.741735537190083
+3,1595,163,NZL,1,69,-142,PG Fulton,IJL Trott,1,39,79,23.05,1026,40.44,Right-hand bat,7,3,0,612,118.33,204,rm,0,NZL,seam,yes,27.303719008264466,12.741735537190083
+3,1596,164,NZL,1,69,-142,PG Fulton,IJL Trott,1,39,80,23.05,1026,40.44,Right-hand bat,8,3,0,612,118.33,204,rm,0,NZL,seam,yes,27.303719008264466,12.741735537190083
+3,1597,165,NZL,1,69,-142,PG Fulton,IJL Trott,1,39,81,23.05,1026,40.44,Right-hand bat,9,3,0,612,118.33,204,rm,0,NZL,seam,yes,27.303719008264466,12.741735537190083
+3,1598,166,NZL,1,69,-142,PG Fulton,IJL Trott,1,39,82,23.05,1026,40.44,Right-hand bat,10,3,0,612,118.33,204,rm,2,NZL,seam,yes,27.303719008264466,12.741735537190083
+3,1599,167,NZL,1,71,-140,PG Fulton,IJL Trott,1,41,83,23.05,1026,40.44,Right-hand bat,11,5,0,612,118.33,204,rm,0,NZL,seam,yes,27.303719008264466,12.741735537190083

@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1147,9,SRL,0,5,149,NT Paranavitana,DJG Sammy,1,1,5,37.03,2021,47.64,Left-hand bat,3,3,0,1812.4,31.03,62.6,rm,0,SRL,seam,yes,17.330578512396695,14.44214876033058
+3,1148,10,SRL,0,5,149,NT Paranavitana,DJG Sammy,1,1,6,37.03,2021,47.64,Left-hand bat,4,3,0,1812.4,31.03,62.6,rm,4,SRL,seam,yes,17.330578512396695,14.44214876033058
+3,1149,11,SRL,0,9,153,NT Paranavitana,DJG Sammy,1,5,7,37.03,2021,47.64,Left-hand bat,5,7,0,1812.4,31.03,62.6,rm,4,SRL,seam,yes,17.330578512396695,14.44214876033058
+3,1156,18,SRL,0,19,163,NT Paranavitana,DJG Sammy,1,10,10,37.03,2021,47.64,Left-hand bat,6,11,0,1812.4,31.03,62.6,rm,0,SRL,seam,yes,17.330578512396695,14.44214876033058
+3,1157,19,SRL,0,19,163,NT Paranavitana,DJG Sammy,1,10,11,37.03,2021,47.64,Left-hand bat,7,11,0,1812.4,31.03,62.6,rm,0,SRL,seam,yes,17.330578512396695,14.44214876033058
+3,1158,20,SRL,0,19,163,NT Paranavitana,DJG Sammy,1,10,12,37.03,2021,47.64,Left-hand bat,8,11,0,1812.4,31.03,62.6,rm,0,SRL,seam,yes,17.330578512396695,14.44214876033058
+3,1159,21,SRL,0,19,163,NT Paranavitana,DJG Sammy,1,10,13,37.03,2021,47.64,Left-hand bat,9,11,0,1812.4,31.03,62.6,rm,0,SRL,seam,yes,17.330578512396695,14.44214876033058
+3,1160,22,SRL,0,19,163,NT Paranavitana,DJG Sammy,1,10,14,37.03,2021,47.64,Left-hand bat,10,11,0,1812.4,31.03,62.6,rm,0,SRL,seam,yes,17.330578512396695,14.44214876033058
+3,1161,23,SRL,0,19,163,NT Paranavitana,DJG Sammy,1,10,15,37.03,2021,47.64,Left-hand bat,11,11,0,1812.4,31.03,62.6,rm,0,SRL,seam,yes,17.330578512396695,14.44214876033058
+3,1169,31,SRL,0,21,165,NT Paranavitana,DJG Sammy,1,10,21,37.03,2021,47.64,Left-hand bat,13,12,0,1812.4,31.03,62.6,rm,0,SRL,seam,yes,17.330578512396695,14.44214876033058
+3,1170,32,SRL,0,21,165,NT Paranavitana,DJG Sammy,1,10,22,37.03,2021,47.64,Left-hand bat,14,12,0,1812.4,31.03,62.6,rm,0,SRL,seam,yes,17.330578512396695,14.44214876033058
+3,1171,33,SRL,0,21,165,NT Paranavitana,DJG Sammy,1,10,23,37.03,2021,47.64,Left-hand bat,15,12,0,1812.4,31.03,62.6,rm,0,SRL,seam,yes,17.330578512396695,14.44214876033058
+3,1172,34,SRL,0,21,165,NT Paranavitana,DJG Sammy,1,10,24,37.03,2021,47.64,Left-hand bat,16,12,0,1812.4,31.03,62.6,rm,0,SRL,seam,yes,17.330578512396695,14.44214876033058
+3,1173,35,SRL,0,21,165,NT Paranavitana,DJG Sammy,1,10,25,37.03,2021,47.64,Left-hand bat,17,12,0,1812.4,31.03,62.6,rm,0,SRL,seam,yes,17.330578512396695,14.44214876033058

@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,528,30,SRL,1,9,-212,NT Paranavitana,TG Southee,1,0,12,33.05,4161,42.1,Left-hand bat,12,1,1,3804.2,37.85,66.7,rmf,0,SRL,seam,no,10.562222222222223,12.071111111111112
+2,529,31,SRL,1,9,-212,NT Paranavitana,TG Southee,1,0,13,33.05,4161,42.1,Left-hand bat,13,1,1,3804.2,37.85,66.7,rmf,0,SRL,seam,no,10.562222222222223,12.071111111111112
+2,530,32,SRL,1,9,-212,NT Paranavitana,TG Southee,1,0,14,33.05,4161,42.1,Left-hand bat,14,1,1,3804.2,37.85,66.7,rmf,0,SRL,seam,no,10.562222222222223,12.071111111111112
+2,531,33,SRL,1,9,-212,NT Paranavitana,TG Southee,1,0,15,33.05,4161,42.1,Left-hand bat,15,1,1,3804.2,37.85,66.7,rmf,W,SRL,seam,no,10.562222222222223,12.071111111111112

@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,814,185,WIN,4,112,-261,SW Ambris,C de Grandhomme,6,0,0,8.33,49,51.02,Right-hand bat,28,24,1,1212.5,26.1,60.8,rmf,0,NZL,seam,yes,25.617728531855956,3.0138504155124655
+2,815,186,WIN,4,112,-261,SW Ambris,C de Grandhomme,6,0,1,8.33,49,51.02,Right-hand bat,29,24,1,1212.5,26.1,60.8,rmf,1,NZL,seam,yes,25.617728531855956,3.0138504155124655
+2,824,195,WIN,4,116,-257,SW Ambris,C de Grandhomme,6,2,5,8.33,49,51.02,Right-hand bat,32,26,1,1212.5,26.1,60.8,rmf,0,NZL,seam,yes,25.617728531855956,3.0138504155124655
+2,825,196,WIN,4,116,-257,SW Ambris,C de Grandhomme,6,2,6,8.33,49,51.02,Right-hand bat,33,26,1,1212.5,26.1,60.8,rmf,0,NZL,seam,yes,25.617728531855956,3.0138504155124655
+2,826,197,WIN,4,116,-257,SW Ambris,C de Grandhomme,6,2,7,8.33,49,51.02,Right-hand bat,34,26,1,1212.5,26.1,60.8,rmf,0,NZL,seam,yes,25.617728531855956,3.0138504155124655
+2,827,198,WIN,4,116,-257,SW Ambris,C de Grandhomme,6,2,8,8.33,49,51.02,Right-hand bat,35,26,1,1212.5,26.1,60.8,rmf,0,NZL,seam,yes,25.617728531855956,3.0138504155124655

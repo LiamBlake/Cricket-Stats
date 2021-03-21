@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1197,247,SRL,7,150,-472,HMRKB Herath,Mohammed Shami,9,0,0,14.79,2969,50.31,Left-hand bat,19,7,1,4536.4,32.17,56,rf,0,IND,seam,no,9.913198573127229,31.15576694411415
+2,1198,248,SRL,7,150,-472,HMRKB Herath,Mohammed Shami,9,0,1,14.79,2969,50.31,Left-hand bat,20,7,1,4536.4,32.17,56,rf,0,IND,seam,no,9.913198573127229,31.15576694411415
+2,1199,249,SRL,7,150,-472,HMRKB Herath,Mohammed Shami,9,0,2,14.79,2969,50.31,Left-hand bat,21,7,1,4536.4,32.17,56,rf,0,IND,seam,no,9.913198573127229,31.15576694411415
+2,1200,250,SRL,7,150,-472,HMRKB Herath,Mohammed Shami,9,0,3,14.79,2969,50.31,Left-hand bat,22,7,1,4536.4,32.17,56,rf,2,IND,seam,no,9.913198573127229,31.15576694411415
+2,1201,251,SRL,7,152,-470,HMRKB Herath,Mohammed Shami,9,2,4,14.79,2969,50.31,Left-hand bat,23,9,1,4536.4,32.17,56,rf,W,IND,seam,no,9.913198573127229,31.15576694411415

@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1468,300,IND,4,153,66,CA Pujara,MR Marsh,3,45,107,49.84,7252,48.8,Right-hand bat,0,0,0,1896.1,37.48,65.4,rm,0,IND,seam,yes,7.446249999999999,13.82875
+3,1469,301,IND,4,153,66,CA Pujara,MR Marsh,3,45,108,49.84,7252,48.8,Right-hand bat,1,0,0,1896.1,37.48,65.4,rm,0,IND,seam,yes,7.446249999999999,13.82875
+3,1470,302,IND,4,153,66,CA Pujara,MR Marsh,3,45,109,49.84,7252,48.8,Right-hand bat,2,0,0,1896.1,37.48,65.4,rm,0,IND,seam,yes,7.446249999999999,13.82875
+3,1471,303,IND,4,153,66,CA Pujara,MR Marsh,3,45,110,49.84,7252,48.8,Right-hand bat,3,0,0,1896.1,37.48,65.4,rm,0,IND,seam,yes,7.446249999999999,13.82875
+3,1472,304,IND,4,153,66,CA Pujara,MR Marsh,3,45,111,49.84,7252,48.8,Right-hand bat,4,0,0,1896.1,37.48,65.4,rm,0,IND,seam,yes,7.446249999999999,13.82875
+3,1473,305,IND,4,153,66,CA Pujara,MR Marsh,3,45,112,49.84,7252,48.8,Right-hand bat,5,0,0,1896.1,37.48,65.4,rm,1,IND,seam,yes,7.446249999999999,13.82875
+3,1480,312,IND,4,155,68,CA Pujara,MR Marsh,3,47,116,49.84,7252,48.8,Right-hand bat,6,1,0,1896.1,37.48,65.4,rm,0,IND,seam,yes,7.446249999999999,13.82875
+3,1481,313,IND,4,155,68,CA Pujara,MR Marsh,3,47,117,49.84,7252,48.8,Right-hand bat,7,1,0,1896.1,37.48,65.4,rm,0,IND,seam,yes,7.446249999999999,13.82875
+3,1482,314,IND,4,155,68,CA Pujara,MR Marsh,3,47,118,49.84,7252,48.8,Right-hand bat,8,1,0,1896.1,37.48,65.4,rm,0,IND,seam,yes,7.446249999999999,13.82875
+3,1483,315,IND,4,155,68,CA Pujara,MR Marsh,3,47,119,49.84,7252,48.8,Right-hand bat,9,1,0,1896.1,37.48,65.4,rm,0,IND,seam,yes,7.446249999999999,13.82875
+3,1484,316,IND,4,155,68,CA Pujara,MR Marsh,3,47,120,49.84,7252,48.8,Right-hand bat,10,1,0,1896.1,37.48,65.4,rm,1,IND,seam,yes,7.446249999999999,13.82875
+3,1492,324,IND,4,157,70,CA Pujara,MR Marsh,3,49,123,49.84,7252,48.8,Right-hand bat,12,2,0,1896.1,37.48,65.4,rm,0,IND,seam,yes,7.446249999999999,13.82875
+3,1493,325,IND,4,157,70,CA Pujara,MR Marsh,3,49,124,49.84,7252,48.8,Right-hand bat,13,2,0,1896.1,37.48,65.4,rm,1,IND,seam,yes,7.446249999999999,13.82875
+3,1495,327,IND,4,159,72,CA Pujara,MR Marsh,3,50,125,49.84,7252,48.8,Right-hand bat,15,4,0,1896.1,37.48,65.4,rm,0,IND,seam,yes,7.446249999999999,13.82875
+3,1496,328,IND,4,159,72,CA Pujara,MR Marsh,3,50,126,49.84,7252,48.8,Right-hand bat,16,4,0,1896.1,37.48,65.4,rm,0,IND,seam,yes,7.446249999999999,13.82875
+3,1497,329,IND,4,159,72,CA Pujara,MR Marsh,3,50,127,49.84,7252,48.8,Right-hand bat,17,4,0,1896.1,37.48,65.4,rm,0,IND,seam,yes,7.446249999999999,13.82875

@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1468,178,SRL,2,154,-16,KC Sangakkara,Shoaib Malik,3,40,60,54.48,12359,55.99,Left-hand bat,0,0,0,1926,69.68,120.3,rob,0,SRL,spin,no,12.816345270890725,12.062442607897154
+4,1469,179,SRL,2,154,-16,KC Sangakkara,Shoaib Malik,3,40,61,54.48,12359,55.99,Left-hand bat,1,0,0,1926,69.68,120.3,rob,0,SRL,spin,no,12.816345270890725,12.062442607897154
+4,1470,180,SRL,2,154,-16,KC Sangakkara,Shoaib Malik,3,40,62,54.48,12359,55.99,Left-hand bat,2,0,0,1926,69.68,120.3,rob,6,SRL,spin,no,12.816345270890725,12.062442607897154
+4,1471,181,SRL,2,160,-10,KC Sangakkara,Shoaib Malik,3,46,63,54.48,12359,55.99,Left-hand bat,3,6,0,1926,69.68,120.3,rob,W,SRL,spin,no,12.816345270890725,12.062442607897154

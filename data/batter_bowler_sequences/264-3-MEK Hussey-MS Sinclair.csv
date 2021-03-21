@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1274,439,AUS,2,202,169,MEK Hussey,MS Sinclair,4,52,108,52.16,8130,48.11,Left-hand bat,0,0,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
+3,1275,440,AUS,2,202,169,MEK Hussey,MS Sinclair,4,52,109,52.16,8130,48.11,Left-hand bat,1,0,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
+3,1276,441,AUS,2,202,169,MEK Hussey,MS Sinclair,4,52,110,52.16,8130,48.11,Left-hand bat,2,0,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
+3,1277,442,AUS,2,202,169,MEK Hussey,MS Sinclair,4,52,111,52.16,8130,48.11,Left-hand bat,3,0,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
+3,1278,443,AUS,2,202,169,MEK Hussey,MS Sinclair,4,52,112,52.16,8130,48.11,Left-hand bat,4,0,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
+3,1279,444,AUS,2,202,169,MEK Hussey,MS Sinclair,4,52,113,52.16,8130,48.11,Left-hand bat,5,0,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
+3,1286,451,AUS,2,202,169,MEK Hussey,MS Sinclair,4,52,114,52.16,8130,48.11,Left-hand bat,6,0,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
+3,1287,452,AUS,2,202,169,MEK Hussey,MS Sinclair,4,52,115,52.16,8130,48.11,Left-hand bat,7,0,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
+3,1288,453,AUS,2,202,169,MEK Hussey,MS Sinclair,4,52,116,52.16,8130,48.11,Left-hand bat,8,0,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
+3,1289,454,AUS,2,202,169,MEK Hussey,MS Sinclair,4,52,117,52.16,8130,48.11,Left-hand bat,9,0,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
+3,1290,455,AUS,2,202,169,MEK Hussey,MS Sinclair,4,52,118,52.16,8130,48.11,Left-hand bat,10,0,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
+3,1291,456,AUS,2,202,169,MEK Hussey,MS Sinclair,4,52,119,52.16,8130,48.11,Left-hand bat,11,0,0,42,NA,NA,rm,1,NZL,seam,yes,24.457063711911356,9.963988919667589

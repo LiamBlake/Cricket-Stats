@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,809,360,NZL,8,242,11,BJ Arnel,DE Bollinger,10,0,3,2.5,32,31.25,Right-hand bat,75,53,3,1764.1,23.15,45.2,lfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,810,361,NZL,8,242,11,BJ Arnel,DE Bollinger,10,0,4,2.5,32,31.25,Right-hand bat,76,53,3,1764.1,23.15,45.2,lfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,811,362,NZL,8,242,11,BJ Arnel,DE Bollinger,10,0,5,2.5,32,31.25,Right-hand bat,77,53,3,1764.1,23.15,45.2,lfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,812,363,NZL,8,242,11,BJ Arnel,DE Bollinger,10,0,6,2.5,32,31.25,Right-hand bat,78,53,3,1764.1,23.15,45.2,lfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,813,364,NZL,8,242,11,BJ Arnel,DE Bollinger,10,0,7,2.5,32,31.25,Right-hand bat,79,53,3,1764.1,23.15,45.2,lfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,820,371,NZL,8,250,19,BJ Arnel,DE Bollinger,10,1,9,2.5,32,31.25,Right-hand bat,80,53,3,1764.1,23.15,45.2,lfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,821,372,NZL,8,250,19,BJ Arnel,DE Bollinger,10,1,10,2.5,32,31.25,Right-hand bat,81,53,3,1764.1,23.15,45.2,lfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,822,373,NZL,8,250,19,BJ Arnel,DE Bollinger,10,1,11,2.5,32,31.25,Right-hand bat,82,53,3,1764.1,23.15,45.2,lfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,823,374,NZL,8,250,19,BJ Arnel,DE Bollinger,10,1,12,2.5,32,31.25,Right-hand bat,83,53,3,1764.1,23.15,45.2,lfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,824,375,NZL,8,250,19,BJ Arnel,DE Bollinger,10,1,13,2.5,32,31.25,Right-hand bat,84,53,3,1764.1,23.15,45.2,lfm,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,825,376,NZL,8,250,19,BJ Arnel,DE Bollinger,10,1,14,2.5,32,31.25,Right-hand bat,85,53,3,1764.1,23.15,45.2,lfm,4,NZL,seam,no,24.457063711911356,9.963988919667589

@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,790,790,PAK,7,418,418,Abdur Rehman,HMRKB Herath,8,28,36,14.38,874,42.79,Left-hand bat,201,105,3,16140,29.96,65.6,lo,0,SRL,spin,yes,12.333984375,27.134765625
+1,791,791,PAK,7,418,418,Abdur Rehman,HMRKB Herath,8,28,37,14.38,874,42.79,Left-hand bat,202,105,3,16140,29.96,65.6,lo,1,SRL,spin,yes,12.333984375,27.134765625
+1,811,811,PAK,8,424,424,Abdur Rehman,HMRKB Herath,8,32,46,14.38,874,42.79,Left-hand bat,210,106,3,16140,29.96,65.6,lo,1,SRL,spin,yes,12.333984375,27.134765625
+1,835,835,PAK,8,442,442,Abdur Rehman,HMRKB Herath,8,47,56,14.38,874,42.79,Left-hand bat,222,107,3,16140,29.96,65.6,lo,0,SRL,spin,yes,12.333984375,27.134765625
+1,836,836,PAK,8,442,442,Abdur Rehman,HMRKB Herath,8,47,57,14.38,874,42.79,Left-hand bat,223,107,3,16140,29.96,65.6,lo,2,SRL,spin,yes,12.333984375,27.134765625
+1,837,837,PAK,8,444,444,Abdur Rehman,HMRKB Herath,8,49,58,14.38,874,42.79,Left-hand bat,224,109,3,16140,29.96,65.6,lo,1,SRL,spin,yes,12.333984375,27.134765625

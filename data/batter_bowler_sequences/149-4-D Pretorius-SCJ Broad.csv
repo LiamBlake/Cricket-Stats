@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1796,417,RSA,5,239,-226,D Pretorius,SCJ Broad,7,2,5,13.83,163,50.92,Right-hand bat,55,25,1,28074.5,28.5,57.8,rfm,0,RSA,seam,no,26.934375,0.690625
+4,1797,418,RSA,5,239,-226,D Pretorius,SCJ Broad,7,2,6,13.83,163,50.92,Right-hand bat,56,25,1,28074.5,28.5,57.8,rfm,0,RSA,seam,no,26.934375,0.690625
+4,1798,419,RSA,5,239,-226,D Pretorius,SCJ Broad,7,2,7,13.83,163,50.92,Right-hand bat,57,25,1,28074.5,28.5,57.8,rfm,W,RSA,seam,no,26.934375,0.690625

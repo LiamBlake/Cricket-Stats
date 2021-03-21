@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,669,60,ENG,0,29,-280,AN Cook,DW Steyn,2,6,28,47.84,13655,48,Left-hand bat,5,1,0,11916.5,23.5,41.5,rf,0,ENG,seam,no,26.966250000000002,4.758750000000001
+2,676,67,ENG,1,29,-280,AN Cook,DW Steyn,2,6,29,47.84,13655,48,Left-hand bat,6,1,0,11916.5,23.5,41.5,rf,0,ENG,seam,no,26.966250000000002,4.758750000000001
+2,677,68,ENG,1,29,-280,AN Cook,DW Steyn,2,6,30,47.84,13655,48,Left-hand bat,7,1,0,11916.5,23.5,41.5,rf,0,ENG,seam,no,26.966250000000002,4.758750000000001
+2,678,69,ENG,1,29,-280,AN Cook,DW Steyn,2,6,31,47.84,13655,48,Left-hand bat,8,1,0,11916.5,23.5,41.5,rf,1,ENG,seam,no,26.966250000000002,4.758750000000001
+2,700,91,ENG,2,39,-270,AN Cook,DW Steyn,2,7,38,47.84,13655,48,Left-hand bat,18,11,1,11916.5,23.5,41.5,rf,0,ENG,seam,no,26.966250000000002,4.758750000000001
+2,701,92,ENG,2,39,-270,AN Cook,DW Steyn,2,7,39,47.84,13655,48,Left-hand bat,19,11,1,11916.5,23.5,41.5,rf,W,ENG,seam,no,26.966250000000002,4.758750000000001

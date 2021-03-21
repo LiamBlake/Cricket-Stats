@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1923,324,SRL,5,170,146,JK Silva,MR Marsh,2,65,171,30.89,4267,40.54,Right-hand bat,0,0,0,1674.1,36.33,62,rm,0,SRL,seam,yes,7.734764542936287,24.923130193905813
+3,1924,325,SRL,5,170,146,JK Silva,MR Marsh,2,65,172,30.89,4267,40.54,Right-hand bat,1,0,0,1674.1,36.33,62,rm,0,SRL,seam,yes,7.734764542936287,24.923130193905813
+3,1925,326,SRL,5,170,146,JK Silva,MR Marsh,2,65,173,30.89,4267,40.54,Right-hand bat,2,0,0,1674.1,36.33,62,rm,0,SRL,seam,yes,7.734764542936287,24.923130193905813
+3,1926,327,SRL,5,170,146,JK Silva,MR Marsh,2,65,174,30.89,4267,40.54,Right-hand bat,3,0,0,1674.1,36.33,62,rm,0,SRL,seam,yes,7.734764542936287,24.923130193905813
+3,1927,328,SRL,5,170,146,JK Silva,MR Marsh,2,65,175,30.89,4267,40.54,Right-hand bat,4,0,0,1674.1,36.33,62,rm,1,SRL,seam,yes,7.734764542936287,24.923130193905813
+3,1937,338,SRL,5,174,150,JK Silva,MR Marsh,2,67,180,30.89,4267,40.54,Right-hand bat,8,2,0,1674.1,36.33,62,rm,1,SRL,seam,yes,7.734764542936287,24.923130193905813

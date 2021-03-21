@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,4,4,ENG,0,1,1,AN Cook,MG Johnson,2,0,0,44.04,7049,46.85,Left-hand bat,4,1,0,5574.2,27.91,56.3,lf,1,ENG,seam,yes,39.196799999999996,15.2432
+1,12,12,ENG,0,7,7,AN Cook,MG Johnson,2,4,3,44.04,7049,46.85,Left-hand bat,6,2,0,5574.2,27.91,56.3,lf,0,ENG,seam,yes,39.196799999999996,15.2432
+1,13,13,ENG,0,7,7,AN Cook,MG Johnson,2,4,4,44.04,7049,46.85,Left-hand bat,7,2,0,5574.2,27.91,56.3,lf,0,ENG,seam,yes,39.196799999999996,15.2432
+1,14,14,ENG,0,7,7,AN Cook,MG Johnson,2,4,5,44.04,7049,46.85,Left-hand bat,8,2,0,5574.2,27.91,56.3,lf,0,ENG,seam,yes,39.196799999999996,15.2432
+1,15,15,ENG,0,7,7,AN Cook,MG Johnson,2,4,6,44.04,7049,46.85,Left-hand bat,9,2,0,5574.2,27.91,56.3,lf,3,ENG,seam,yes,39.196799999999996,15.2432
+1,28,28,ENG,0,17,17,AN Cook,MG Johnson,2,9,13,44.04,7049,46.85,Left-hand bat,16,10,0,5574.2,27.91,56.3,lf,0,ENG,seam,yes,39.196799999999996,15.2432
+1,29,29,ENG,0,17,17,AN Cook,MG Johnson,2,9,14,44.04,7049,46.85,Left-hand bat,17,10,0,5574.2,27.91,56.3,lf,0,ENG,seam,yes,39.196799999999996,15.2432

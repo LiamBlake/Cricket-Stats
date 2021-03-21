@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1548,700,AUS,6,363,8,MA Starc,MDK Perera,8,0,3,24.8,1142,67.33,Left-hand bat,238,121,1,3354.4,28.35,56.9,rob,0,SRL,spin,no,7.734764542936287,24.923130193905813
+2,1549,701,AUS,6,363,8,MA Starc,MDK Perera,8,0,4,24.8,1142,67.33,Left-hand bat,239,121,1,3354.4,28.35,56.9,rob,0,SRL,spin,no,7.734764542936287,24.923130193905813
+2,1556,708,AUS,6,365,10,MA Starc,MDK Perera,8,0,5,24.8,1142,67.33,Left-hand bat,240,121,1,3354.4,28.35,56.9,rob,0,SRL,spin,no,7.734764542936287,24.923130193905813
+2,1557,709,AUS,6,365,10,MA Starc,MDK Perera,8,0,6,24.8,1142,67.33,Left-hand bat,241,121,1,3354.4,28.35,56.9,rob,0,SRL,spin,no,7.734764542936287,24.923130193905813
+2,1558,710,AUS,6,365,10,MA Starc,MDK Perera,8,0,7,24.8,1142,67.33,Left-hand bat,242,121,1,3354.4,28.35,56.9,rob,0,SRL,spin,no,7.734764542936287,24.923130193905813
+2,1559,711,AUS,6,365,10,MA Starc,MDK Perera,8,0,8,24.8,1142,67.33,Left-hand bat,243,121,1,3354.4,28.35,56.9,rob,1,SRL,spin,no,7.734764542936287,24.923130193905813
+2,1568,720,AUS,7,367,12,MA Starc,MDK Perera,8,1,9,24.8,1142,67.33,Left-hand bat,246,123,1,3354.4,28.35,56.9,rob,1,SRL,spin,no,7.734764542936287,24.923130193905813
+2,1572,724,AUS,7,369,14,MA Starc,MDK Perera,8,2,10,24.8,1142,67.33,Left-hand bat,250,125,1,3354.4,28.35,56.9,rob,1,SRL,spin,no,7.734764542936287,24.923130193905813
+2,1580,732,AUS,7,375,20,MA Starc,MDK Perera,8,6,14,24.8,1142,67.33,Left-hand bat,252,126,1,3354.4,28.35,56.9,rob,1,SRL,spin,no,7.734764542936287,24.923130193905813
+2,1592,744,AUS,9,377,22,MA Starc,MDK Perera,8,8,18,24.8,1142,67.33,Left-hand bat,258,127,2,3354.4,28.35,56.9,rob,1,SRL,spin,no,7.734764542936287,24.923130193905813

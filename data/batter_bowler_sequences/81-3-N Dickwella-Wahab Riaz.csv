@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1599,88,SRL,5,34,254,N Dickwella,Wahab Riaz,7,0,0,35.59,1077,72.7,Left-hand bat,22,10,3,4854.2,33.53,58.5,lf,4,SRL,seam,yes,10.879999999999999,16.32
+3,1600,89,SRL,5,38,258,N Dickwella,Wahab Riaz,7,4,1,35.59,1077,72.7,Left-hand bat,23,14,3,4854.2,33.53,58.5,lf,0,SRL,seam,yes,10.879999999999999,16.32
+3,1601,90,SRL,5,38,258,N Dickwella,Wahab Riaz,7,4,2,35.59,1077,72.7,Left-hand bat,24,14,3,4854.2,33.53,58.5,lf,4,SRL,seam,yes,10.879999999999999,16.32
+3,1608,97,SRL,5,44,264,N Dickwella,Wahab Riaz,7,9,6,35.59,1077,72.7,Left-hand bat,25,18,3,4854.2,33.53,58.5,lf,0,SRL,seam,yes,10.879999999999999,16.32
+3,1609,98,SRL,5,44,264,N Dickwella,Wahab Riaz,7,9,7,35.59,1077,72.7,Left-hand bat,26,18,3,4854.2,33.53,58.5,lf,0,SRL,seam,yes,10.879999999999999,16.32
+3,1610,99,SRL,5,44,264,N Dickwella,Wahab Riaz,7,9,8,35.59,1077,72.7,Left-hand bat,27,18,3,4854.2,33.53,58.5,lf,1nb,SRL,seam,yes,10.879999999999999,16.32
+3,1611,100,SRL,5,45,265,N Dickwella,Wahab Riaz,7,9,9,35.59,1077,72.7,Left-hand bat,28,19,3,4854.2,33.53,58.5,lf,0,SRL,seam,yes,10.879999999999999,16.32
+3,1612,101,SRL,5,45,265,N Dickwella,Wahab Riaz,7,9,10,35.59,1077,72.7,Left-hand bat,29,19,3,4854.2,33.53,58.5,lf,0,SRL,seam,yes,10.879999999999999,16.32
+3,1613,102,SRL,5,45,265,N Dickwella,Wahab Riaz,7,9,11,35.59,1077,72.7,Left-hand bat,30,19,3,4854.2,33.53,58.5,lf,0,SRL,seam,yes,10.879999999999999,16.32
+3,1614,103,SRL,5,45,265,N Dickwella,Wahab Riaz,7,9,12,35.59,1077,72.7,Left-hand bat,31,19,3,4854.2,33.53,58.5,lf,2,SRL,seam,yes,10.879999999999999,16.32
+3,1622,111,SRL,5,51,271,N Dickwella,Wahab Riaz,7,13,16,35.59,1077,72.7,Left-hand bat,33,22,3,4854.2,33.53,58.5,lf,0,SRL,seam,yes,10.879999999999999,16.32
+3,1623,112,SRL,5,51,271,N Dickwella,Wahab Riaz,7,13,17,35.59,1077,72.7,Left-hand bat,34,22,3,4854.2,33.53,58.5,lf,4,SRL,seam,yes,10.879999999999999,16.32
+3,1624,113,SRL,5,55,275,N Dickwella,Wahab Riaz,7,17,18,35.59,1077,72.7,Left-hand bat,35,26,3,4854.2,33.53,58.5,lf,0,SRL,seam,yes,10.879999999999999,16.32
+3,1625,114,SRL,5,55,275,N Dickwella,Wahab Riaz,7,17,19,35.59,1077,72.7,Left-hand bat,36,26,3,4854.2,33.53,58.5,lf,4,SRL,seam,yes,10.879999999999999,16.32
+3,1626,115,SRL,5,59,279,N Dickwella,Wahab Riaz,7,21,20,35.59,1077,72.7,Left-hand bat,37,30,3,4854.2,33.53,58.5,lf,W,SRL,seam,yes,10.879999999999999,16.32

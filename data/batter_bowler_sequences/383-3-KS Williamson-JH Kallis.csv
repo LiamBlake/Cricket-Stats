@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,782,90,NZL,1,27,-275,KS Williamson,JH Kallis,3,13,36,31.61,2593,41.45,Right-hand bat,0,0,0,19500.4,32.45,68.6,rfm,0,RSA,seam,yes,22.970663265306122,0.850765306122449
+3,783,91,NZL,1,27,-275,KS Williamson,JH Kallis,3,13,37,31.61,2593,41.45,Right-hand bat,1,0,0,19500.4,32.45,68.6,rfm,0,RSA,seam,yes,22.970663265306122,0.850765306122449
+3,784,92,NZL,1,27,-275,KS Williamson,JH Kallis,3,13,38,31.61,2593,41.45,Right-hand bat,2,0,0,19500.4,32.45,68.6,rfm,0,RSA,seam,yes,22.970663265306122,0.850765306122449
+3,785,93,NZL,1,27,-275,KS Williamson,JH Kallis,3,13,39,31.61,2593,41.45,Right-hand bat,3,0,0,19500.4,32.45,68.6,rfm,0,RSA,seam,yes,22.970663265306122,0.850765306122449
+3,786,94,NZL,1,27,-275,KS Williamson,JH Kallis,3,13,40,31.61,2593,41.45,Right-hand bat,4,0,0,19500.4,32.45,68.6,rfm,0,RSA,seam,yes,22.970663265306122,0.850765306122449
+3,787,95,NZL,1,27,-275,KS Williamson,JH Kallis,3,13,41,31.61,2593,41.45,Right-hand bat,5,0,0,19500.4,32.45,68.6,rfm,0,RSA,seam,yes,22.970663265306122,0.850765306122449
+3,794,102,NZL,1,27,-275,KS Williamson,JH Kallis,3,13,42,31.61,2593,41.45,Right-hand bat,6,0,0,19500.4,32.45,68.6,rfm,0,RSA,seam,yes,22.970663265306122,0.850765306122449
+3,795,103,NZL,1,27,-275,KS Williamson,JH Kallis,3,13,43,31.61,2593,41.45,Right-hand bat,7,0,0,19500.4,32.45,68.6,rfm,0,RSA,seam,yes,22.970663265306122,0.850765306122449
+3,796,104,NZL,1,27,-275,KS Williamson,JH Kallis,3,13,44,31.61,2593,41.45,Right-hand bat,8,0,0,19500.4,32.45,68.6,rfm,2,RSA,seam,yes,22.970663265306122,0.850765306122449
+3,797,105,NZL,1,29,-273,KS Williamson,JH Kallis,3,15,45,31.61,2593,41.45,Right-hand bat,9,2,0,19500.4,32.45,68.6,rfm,W,RSA,seam,yes,22.970663265306122,0.850765306122449

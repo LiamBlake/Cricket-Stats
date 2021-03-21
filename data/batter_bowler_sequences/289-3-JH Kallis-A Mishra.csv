@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1600,138,RSA,2,83,-264,JH Kallis,A Mishra,4,11,14,54.76,24402,44.43,Right-hand bat,8,5,1,2490.4,38.81,77.9,rls,0,IND,spin,yes,21.816568047337277,25.45266272189349
+3,1601,139,RSA,2,83,-264,JH Kallis,A Mishra,4,11,15,54.76,24402,44.43,Right-hand bat,9,5,1,2490.4,38.81,77.9,rls,0,IND,spin,yes,21.816568047337277,25.45266272189349
+3,1602,140,RSA,2,83,-264,JH Kallis,A Mishra,4,11,16,54.76,24402,44.43,Right-hand bat,10,5,1,2490.4,38.81,77.9,rls,0,IND,spin,yes,21.816568047337277,25.45266272189349
+3,1603,141,RSA,2,83,-264,JH Kallis,A Mishra,4,11,17,54.76,24402,44.43,Right-hand bat,11,5,1,2490.4,38.81,77.9,rls,0,IND,spin,yes,21.816568047337277,25.45266272189349
+3,1624,162,RSA,2,91,-256,JH Kallis,A Mishra,4,12,27,54.76,24402,44.43,Right-hand bat,20,10,1,2490.4,38.81,77.9,rls,0,IND,spin,yes,21.816568047337277,25.45266272189349
+3,1625,163,RSA,2,91,-256,JH Kallis,A Mishra,4,12,28,54.76,24402,44.43,Right-hand bat,21,10,1,2490.4,38.81,77.9,rls,0,IND,spin,yes,21.816568047337277,25.45266272189349
+3,1626,164,RSA,2,91,-256,JH Kallis,A Mishra,4,12,29,54.76,24402,44.43,Right-hand bat,22,10,1,2490.4,38.81,77.9,rls,1nb,IND,spin,yes,21.816568047337277,25.45266272189349
+3,1665,203,RSA,2,111,-236,JH Kallis,A Mishra,4,20,45,54.76,24402,44.43,Right-hand bat,37,14,1,2490.4,38.81,77.9,rls,0,IND,spin,yes,21.816568047337277,25.45266272189349
+3,1666,204,RSA,2,111,-236,JH Kallis,A Mishra,4,20,46,54.76,24402,44.43,Right-hand bat,38,14,1,2490.4,38.81,77.9,rls,W,IND,spin,yes,21.816568047337277,25.45266272189349

@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1810,312,IND,3,174,-117,SR Tendulkar,RS Bopara,4,56,108,56.25,NA,NA,Right-hand bat,0,0,0,324.2,212,326,rm,1,ENG,seam,no,26.050295857988164,19.10355029585799
+3,1822,324,IND,3,176,-115,SR Tendulkar,RS Bopara,4,58,111,56.25,NA,NA,Right-hand bat,6,1,0,324.2,212,326,rm,1,ENG,seam,no,26.050295857988164,19.10355029585799
+3,1825,327,IND,3,178,-113,SR Tendulkar,RS Bopara,4,59,112,56.25,NA,NA,Right-hand bat,9,3,0,324.2,212,326,rm,0,ENG,seam,no,26.050295857988164,19.10355029585799
+3,1826,328,IND,3,178,-113,SR Tendulkar,RS Bopara,4,59,113,56.25,NA,NA,Right-hand bat,10,3,0,324.2,212,326,rm,4,ENG,seam,no,26.050295857988164,19.10355029585799
+3,1827,329,IND,3,182,-109,SR Tendulkar,RS Bopara,4,63,114,56.25,NA,NA,Right-hand bat,11,7,0,324.2,212,326,rm,0,ENG,seam,no,26.050295857988164,19.10355029585799
+3,1834,336,IND,3,186,-105,SR Tendulkar,RS Bopara,4,63,115,56.25,NA,NA,Right-hand bat,12,7,0,324.2,212,326,rm,1,ENG,seam,no,26.050295857988164,19.10355029585799
+3,1837,339,IND,3,188,-103,SR Tendulkar,RS Bopara,4,64,116,56.25,NA,NA,Right-hand bat,15,9,0,324.2,212,326,rm,4,ENG,seam,no,26.050295857988164,19.10355029585799
+3,1838,340,IND,3,192,-99,SR Tendulkar,RS Bopara,4,68,117,56.25,NA,NA,Right-hand bat,16,13,0,324.2,212,326,rm,0,ENG,seam,no,26.050295857988164,19.10355029585799
+3,1839,341,IND,3,192,-99,SR Tendulkar,RS Bopara,4,68,118,56.25,NA,NA,Right-hand bat,17,13,0,324.2,212,326,rm,0,ENG,seam,no,26.050295857988164,19.10355029585799

@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1931,139,ENG,2,100,-126,KP Pietersen,MA Starc,4,12,11,48.38,12664,62.27,Right-hand bat,18,13,0,2448.2,33.6,59.7,lf,4,ENG,seam,no,34.26222222222222,5.271111111111111
+4,1932,140,ENG,2,104,-122,KP Pietersen,MA Starc,4,16,12,48.38,12664,62.27,Right-hand bat,19,17,0,2448.2,33.6,59.7,lf,0,ENG,seam,no,34.26222222222222,5.271111111111111
+4,1933,141,ENG,2,104,-122,KP Pietersen,MA Starc,4,16,13,48.38,12664,62.27,Right-hand bat,20,17,0,2448.2,33.6,59.7,lf,1,ENG,seam,no,34.26222222222222,5.271111111111111
+4,1943,151,ENG,2,112,-114,KP Pietersen,MA Starc,4,23,17,48.38,12664,62.27,Right-hand bat,24,18,0,2448.2,33.6,59.7,lf,0,ENG,seam,no,34.26222222222222,5.271111111111111
+4,1944,152,ENG,2,112,-114,KP Pietersen,MA Starc,4,23,18,48.38,12664,62.27,Right-hand bat,25,18,0,2448.2,33.6,59.7,lf,0,ENG,seam,no,34.26222222222222,5.271111111111111
+4,1945,153,ENG,2,112,-114,KP Pietersen,MA Starc,4,23,19,48.38,12664,62.27,Right-hand bat,26,18,0,2448.2,33.6,59.7,lf,0,ENG,seam,no,34.26222222222222,5.271111111111111
+4,1946,154,ENG,2,112,-114,KP Pietersen,MA Starc,4,23,20,48.38,12664,62.27,Right-hand bat,27,18,0,2448.2,33.6,59.7,lf,0,ENG,seam,no,34.26222222222222,5.271111111111111
+4,1947,155,ENG,2,112,-114,KP Pietersen,MA Starc,4,23,21,48.38,12664,62.27,Right-hand bat,28,18,0,2448.2,33.6,59.7,lf,0,ENG,seam,no,34.26222222222222,5.271111111111111
+4,1948,156,ENG,2,112,-114,KP Pietersen,MA Starc,4,23,22,48.38,12664,62.27,Right-hand bat,29,18,0,2448.2,33.6,59.7,lf,4,ENG,seam,no,34.26222222222222,5.271111111111111
+4,1955,163,ENG,2,124,-102,KP Pietersen,MA Starc,4,32,25,48.38,12664,62.27,Right-hand bat,30,22,0,2448.2,33.6,59.7,lf,4,ENG,seam,no,34.26222222222222,5.271111111111111
+4,1956,164,ENG,2,128,-98,KP Pietersen,MA Starc,4,36,26,48.38,12664,62.27,Right-hand bat,31,26,0,2448.2,33.6,59.7,lf,1,ENG,seam,no,34.26222222222222,5.271111111111111
+4,1958,166,ENG,2,130,-96,KP Pietersen,MA Starc,4,37,27,48.38,12664,62.27,Right-hand bat,33,28,0,2448.2,33.6,59.7,lf,4,ENG,seam,no,34.26222222222222,5.271111111111111
+4,1959,167,ENG,2,134,-92,KP Pietersen,MA Starc,4,41,28,48.38,12664,62.27,Right-hand bat,34,32,0,2448.2,33.6,59.7,lf,4,ENG,seam,no,34.26222222222222,5.271111111111111
+4,1960,168,ENG,2,138,-88,KP Pietersen,MA Starc,4,45,29,48.38,12664,62.27,Right-hand bat,35,36,0,2448.2,33.6,59.7,lf,1lb,ENG,seam,no,34.26222222222222,5.271111111111111

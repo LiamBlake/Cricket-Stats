@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,792,792,IND,7,494,494,R Ashwin,DL Piedt,9,0,0,29.16,4325,54.61,Right-hand bat,99,101,1,1716,42.96,68.6,rob,0,IND,spin,yes,13.551508844953174,33.125910509885536
+1,793,793,IND,7,494,494,R Ashwin,DL Piedt,9,0,1,29.16,4325,54.61,Right-hand bat,100,101,1,1716,42.96,68.6,rob,0,IND,spin,yes,13.551508844953174,33.125910509885536
+1,794,794,IND,7,494,494,R Ashwin,DL Piedt,9,0,2,29.16,4325,54.61,Right-hand bat,101,101,1,1716,42.96,68.6,rob,0,IND,spin,yes,13.551508844953174,33.125910509885536
+1,806,806,IND,7,498,498,R Ashwin,DL Piedt,9,0,8,29.16,4325,54.61,Right-hand bat,107,104,1,1716,42.96,68.6,rob,0,IND,spin,yes,13.551508844953174,33.125910509885536
+1,814,814,IND,7,500,500,R Ashwin,DL Piedt,9,0,13,29.16,4325,54.61,Right-hand bat,109,105,1,1716,42.96,68.6,rob,1,IND,spin,yes,13.551508844953174,33.125910509885536
+1,816,816,IND,7,502,502,R Ashwin,DL Piedt,9,1,14,29.16,4325,54.61,Right-hand bat,111,107,1,1716,42.96,68.6,rob,0,IND,spin,yes,13.551508844953174,33.125910509885536
+1,817,817,IND,7,502,502,R Ashwin,DL Piedt,9,1,15,29.16,4325,54.61,Right-hand bat,112,107,1,1716,42.96,68.6,rob,0,IND,spin,yes,13.551508844953174,33.125910509885536
+1,818,818,IND,7,502,502,R Ashwin,DL Piedt,9,1,16,29.16,4325,54.61,Right-hand bat,113,107,1,1716,42.96,68.6,rob,0,IND,spin,yes,13.551508844953174,33.125910509885536

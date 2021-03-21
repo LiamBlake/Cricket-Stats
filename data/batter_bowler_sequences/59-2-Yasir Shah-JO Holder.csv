@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1400,805,PAK,8,354,42,Yasir Shah,JO Holder,10,0,0,11.74,825,44.12,Right-hand bat,159,28,3,3306.2,36.92,87,rmf,0,WIN,seam,no,17.786250000000003,8.56375
+2,1401,806,PAK,8,354,42,Yasir Shah,JO Holder,10,0,1,11.74,825,44.12,Right-hand bat,160,28,3,3306.2,36.92,87,rmf,0,WIN,seam,no,17.786250000000003,8.56375
+2,1402,807,PAK,8,354,42,Yasir Shah,JO Holder,10,0,2,11.74,825,44.12,Right-hand bat,161,28,3,3306.2,36.92,87,rmf,0,WIN,seam,no,17.786250000000003,8.56375
+2,1403,808,PAK,8,354,42,Yasir Shah,JO Holder,10,0,3,11.74,825,44.12,Right-hand bat,162,28,3,3306.2,36.92,87,rmf,3,WIN,seam,no,17.786250000000003,8.56375
+2,1412,817,PAK,8,366,54,Yasir Shah,JO Holder,10,7,10,11.74,825,44.12,Right-hand bat,165,36,3,3306.2,36.92,87,rmf,0,WIN,seam,no,17.786250000000003,8.56375
+2,1413,818,PAK,8,366,54,Yasir Shah,JO Holder,10,7,11,11.74,825,44.12,Right-hand bat,166,36,3,3306.2,36.92,87,rmf,0,WIN,seam,no,17.786250000000003,8.56375
+2,1414,819,PAK,8,366,54,Yasir Shah,JO Holder,10,7,12,11.74,825,44.12,Right-hand bat,167,36,3,3306.2,36.92,87,rmf,0,WIN,seam,no,17.786250000000003,8.56375
+2,1415,820,PAK,8,366,54,Yasir Shah,JO Holder,10,7,13,11.74,825,44.12,Right-hand bat,168,36,3,3306.2,36.92,87,rmf,4lb,WIN,seam,no,17.786250000000003,8.56375
+2,1416,821,PAK,8,370,58,Yasir Shah,JO Holder,10,7,14,11.74,825,44.12,Right-hand bat,169,36,3,3306.2,36.92,87,rmf,2,WIN,seam,no,17.786250000000003,8.56375
+2,1423,828,PAK,8,380,68,Yasir Shah,JO Holder,10,16,18,11.74,825,44.12,Right-hand bat,170,38,3,3306.2,36.92,87,rmf,0,WIN,seam,no,17.786250000000003,8.56375
+2,1424,829,PAK,8,380,68,Yasir Shah,JO Holder,10,16,19,11.74,825,44.12,Right-hand bat,171,38,3,3306.2,36.92,87,rmf,0,WIN,seam,no,17.786250000000003,8.56375
+2,1425,830,PAK,8,380,68,Yasir Shah,JO Holder,10,16,20,11.74,825,44.12,Right-hand bat,172,38,3,3306.2,36.92,87,rmf,0,WIN,seam,no,17.786250000000003,8.56375
+2,1426,831,PAK,8,380,68,Yasir Shah,JO Holder,10,16,21,11.74,825,44.12,Right-hand bat,173,38,3,3306.2,36.92,87,rmf,4,WIN,seam,no,17.786250000000003,8.56375
+2,1427,832,PAK,8,384,72,Yasir Shah,JO Holder,10,20,22,11.74,825,44.12,Right-hand bat,174,42,3,3306.2,36.92,87,rmf,0,WIN,seam,no,17.786250000000003,8.56375
+2,1428,833,PAK,8,384,72,Yasir Shah,JO Holder,10,20,23,11.74,825,44.12,Right-hand bat,175,42,3,3306.2,36.92,87,rmf,0,WIN,seam,no,17.786250000000003,8.56375

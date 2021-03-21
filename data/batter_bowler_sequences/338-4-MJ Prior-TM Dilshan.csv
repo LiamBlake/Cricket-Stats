@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1790,414,ENG,4,173,-166,MJ Prior,TM Dilshan,6,11,34,43.6,4211,65.23,Right-hand bat,54,14,0,2454.3,41.89,84.7,rob,0,SRL,spin,no,7.417500000000001,17.3075
+4,1791,415,ENG,4,173,-166,MJ Prior,TM Dilshan,6,11,35,43.6,4211,65.23,Right-hand bat,55,14,0,2454.3,41.89,84.7,rob,0,SRL,spin,no,7.417500000000001,17.3075
+4,1792,416,ENG,4,173,-166,MJ Prior,TM Dilshan,6,11,36,43.6,4211,65.23,Right-hand bat,56,14,0,2454.3,41.89,84.7,rob,0,SRL,spin,no,7.417500000000001,17.3075
+4,1793,417,ENG,4,173,-166,MJ Prior,TM Dilshan,6,11,37,43.6,4211,65.23,Right-hand bat,57,14,0,2454.3,41.89,84.7,rob,0,SRL,spin,no,7.417500000000001,17.3075
+4,1794,418,ENG,4,173,-166,MJ Prior,TM Dilshan,6,11,38,43.6,4211,65.23,Right-hand bat,58,14,0,2454.3,41.89,84.7,rob,4,SRL,spin,no,7.417500000000001,17.3075
+4,1795,419,ENG,4,177,-162,MJ Prior,TM Dilshan,6,15,39,43.6,4211,65.23,Right-hand bat,59,18,0,2454.3,41.89,84.7,rob,0,SRL,spin,no,7.417500000000001,17.3075
+4,1815,439,ENG,4,185,-154,MJ Prior,TM Dilshan,6,17,50,43.6,4211,65.23,Right-hand bat,67,21,0,2454.3,41.89,84.7,rob,1,SRL,spin,no,7.417500000000001,17.3075
+4,1817,441,ENG,4,187,-152,MJ Prior,TM Dilshan,6,18,51,43.6,4211,65.23,Right-hand bat,69,23,0,2454.3,41.89,84.7,rob,1,SRL,spin,no,7.417500000000001,17.3075
+4,1819,443,ENG,4,189,-150,MJ Prior,TM Dilshan,6,19,52,43.6,4211,65.23,Right-hand bat,71,25,0,2454.3,41.89,84.7,rob,0,SRL,spin,no,7.417500000000001,17.3075

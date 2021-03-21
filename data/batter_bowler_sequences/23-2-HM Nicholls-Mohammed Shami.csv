@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,640,11,NZL,1,10,-306,HM Nicholls,Mohammed Shami,3,0,0,24.6,515,47.76,Left-hand bat,5,2,1,3564.4,32.6,54,rf,4lb,IND,seam,no,15.925,8.575
+2,647,18,NZL,2,18,-298,HM Nicholls,Mohammed Shami,3,0,1,24.6,515,47.76,Left-hand bat,6,2,1,3564.4,32.6,54,rf,0,IND,seam,no,15.925,8.575
+2,648,19,NZL,2,18,-298,HM Nicholls,Mohammed Shami,3,0,2,24.6,515,47.76,Left-hand bat,7,2,1,3564.4,32.6,54,rf,0,IND,seam,no,15.925,8.575
+2,649,20,NZL,2,18,-298,HM Nicholls,Mohammed Shami,3,0,3,24.6,515,47.76,Left-hand bat,8,2,1,3564.4,32.6,54,rf,0,IND,seam,no,15.925,8.575
+2,650,21,NZL,2,18,-298,HM Nicholls,Mohammed Shami,3,0,4,24.6,515,47.76,Left-hand bat,9,2,1,3564.4,32.6,54,rf,1,IND,seam,no,15.925,8.575
+2,662,33,NZL,2,22,-294,HM Nicholls,Mohammed Shami,3,1,6,24.6,515,47.76,Left-hand bat,15,5,1,3564.4,32.6,54,rf,0,IND,seam,no,15.925,8.575
+2,663,34,NZL,2,22,-294,HM Nicholls,Mohammed Shami,3,1,7,24.6,515,47.76,Left-hand bat,16,5,1,3564.4,32.6,54,rf,0,IND,seam,no,15.925,8.575
+2,664,35,NZL,2,22,-294,HM Nicholls,Mohammed Shami,3,1,8,24.6,515,47.76,Left-hand bat,17,5,1,3564.4,32.6,54,rf,0,IND,seam,no,15.925,8.575

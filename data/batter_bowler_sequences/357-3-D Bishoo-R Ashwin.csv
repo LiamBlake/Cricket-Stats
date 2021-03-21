@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1282,311,WIN,9,157,252,D Bishoo,R Ashwin,11,0,0,12.25,211,46.44,Left-hand bat,113,42,5,288.3,14.22,32.3,rob,0,IND,spin,yes,11.074285714285715,16.611428571428572
+3,1289,318,WIN,9,163,258,D Bishoo,R Ashwin,11,1,2,12.25,211,46.44,Left-hand bat,114,42,5,288.3,14.22,32.3,rob,0,IND,spin,yes,11.074285714285715,16.611428571428572
+3,1290,319,WIN,9,163,258,D Bishoo,R Ashwin,11,1,3,12.25,211,46.44,Left-hand bat,115,42,5,288.3,14.22,32.3,rob,2,IND,spin,yes,11.074285714285715,16.611428571428572
+3,1291,320,WIN,9,165,260,D Bishoo,R Ashwin,11,3,4,12.25,211,46.44,Left-hand bat,116,44,5,288.3,14.22,32.3,rob,0,IND,spin,yes,11.074285714285715,16.611428571428572
+3,1292,321,WIN,9,165,260,D Bishoo,R Ashwin,11,3,5,12.25,211,46.44,Left-hand bat,117,44,5,288.3,14.22,32.3,rob,0,IND,spin,yes,11.074285714285715,16.611428571428572
+3,1293,322,WIN,9,165,260,D Bishoo,R Ashwin,11,3,6,12.25,211,46.44,Left-hand bat,118,44,5,288.3,14.22,32.3,rob,0,IND,spin,yes,11.074285714285715,16.611428571428572
+3,1294,323,WIN,9,165,260,D Bishoo,R Ashwin,11,3,7,12.25,211,46.44,Left-hand bat,119,44,5,288.3,14.22,32.3,rob,2,IND,spin,yes,11.074285714285715,16.611428571428572
+3,1304,333,WIN,9,175,270,D Bishoo,R Ashwin,11,5,9,12.25,211,46.44,Left-hand bat,123,47,5,288.3,14.22,32.3,rob,0,IND,spin,yes,11.074285714285715,16.611428571428572
+3,1305,334,WIN,9,175,270,D Bishoo,R Ashwin,11,5,10,12.25,211,46.44,Left-hand bat,124,47,5,288.3,14.22,32.3,rob,0,IND,spin,yes,11.074285714285715,16.611428571428572
+3,1306,335,WIN,9,175,270,D Bishoo,R Ashwin,11,5,11,12.25,211,46.44,Left-hand bat,125,47,5,288.3,14.22,32.3,rob,0,IND,spin,yes,11.074285714285715,16.611428571428572

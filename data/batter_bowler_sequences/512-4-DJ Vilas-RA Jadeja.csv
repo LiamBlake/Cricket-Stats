@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1400,127,RSA,5,56,-161,DJ Vilas,RA Jadeja,7,6,14,4,25,32,Right-hand bat,24,11,2,3600.3,27.22,67.9,lo,0,IND,spin,no,2.6025,14.747500000000002
+4,1401,128,RSA,5,56,-161,DJ Vilas,RA Jadeja,7,6,15,4,25,32,Right-hand bat,25,11,2,3600.3,27.22,67.9,lo,0,IND,spin,no,2.6025,14.747500000000002
+4,1402,129,RSA,5,56,-161,DJ Vilas,RA Jadeja,7,6,16,4,25,32,Right-hand bat,26,11,2,3600.3,27.22,67.9,lo,1,IND,spin,no,2.6025,14.747500000000002
+4,1405,132,RSA,5,58,-159,DJ Vilas,RA Jadeja,7,7,17,4,25,32,Right-hand bat,29,13,2,3600.3,27.22,67.9,lo,0,IND,spin,no,2.6025,14.747500000000002
+4,1414,141,RSA,5,60,-157,DJ Vilas,RA Jadeja,7,7,18,4,25,32,Right-hand bat,32,13,2,3600.3,27.22,67.9,lo,0,IND,spin,no,2.6025,14.747500000000002
+4,1415,142,RSA,5,60,-157,DJ Vilas,RA Jadeja,7,7,19,4,25,32,Right-hand bat,33,13,2,3600.3,27.22,67.9,lo,0,IND,spin,no,2.6025,14.747500000000002
+4,1416,143,RSA,5,60,-157,DJ Vilas,RA Jadeja,7,7,20,4,25,32,Right-hand bat,34,13,2,3600.3,27.22,67.9,lo,0,IND,spin,no,2.6025,14.747500000000002
+4,1417,144,RSA,5,60,-157,DJ Vilas,RA Jadeja,7,7,21,4,25,32,Right-hand bat,35,13,2,3600.3,27.22,67.9,lo,W,IND,spin,no,2.6025,14.747500000000002

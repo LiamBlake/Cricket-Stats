@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1217,0,NZL,0,0,-328,JA Raval,Mohammad Abbas,1,0,0,34.95,1767,41.53,Left-hand bat,0,0,0,2592,16.62,42.4,rmf,0,PAK,seam,no,9.184,23.616
+3,1218,1,NZL,0,0,-328,JA Raval,Mohammad Abbas,1,0,1,34.95,1767,41.53,Left-hand bat,1,0,0,2592,16.62,42.4,rmf,1,PAK,seam,no,9.184,23.616
+3,1229,12,NZL,0,6,-322,JA Raval,Mohammad Abbas,1,1,2,34.95,1767,41.53,Left-hand bat,6,4,0,2592,16.62,42.4,rmf,0,PAK,seam,no,9.184,23.616
+3,1230,13,NZL,0,6,-322,JA Raval,Mohammad Abbas,1,1,3,34.95,1767,41.53,Left-hand bat,7,4,0,2592,16.62,42.4,rmf,0,PAK,seam,no,9.184,23.616
+3,1231,14,NZL,0,6,-322,JA Raval,Mohammad Abbas,1,1,4,34.95,1767,41.53,Left-hand bat,8,4,0,2592,16.62,42.4,rmf,0,PAK,seam,no,9.184,23.616
+3,1232,15,NZL,0,6,-322,JA Raval,Mohammad Abbas,1,1,5,34.95,1767,41.53,Left-hand bat,9,4,0,2592,16.62,42.4,rmf,0,PAK,seam,no,9.184,23.616
+3,1233,16,NZL,0,6,-322,JA Raval,Mohammad Abbas,1,1,6,34.95,1767,41.53,Left-hand bat,10,4,0,2592,16.62,42.4,rmf,0,PAK,seam,no,9.184,23.616
+3,1234,17,NZL,0,6,-322,JA Raval,Mohammad Abbas,1,1,7,34.95,1767,41.53,Left-hand bat,11,4,0,2592,16.62,42.4,rmf,1,PAK,seam,no,9.184,23.616

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,782,782,SRL,5,422,422,MDK Perera,Wahab Riaz,7,40,32,21.75,1559,50.22,Right-hand bat,136,50,0,4854.2,33.53,58.5,lf,0,SRL,seam,yes,10.879999999999999,16.32
+1,783,783,SRL,5,422,422,MDK Perera,Wahab Riaz,7,40,33,21.75,1559,50.22,Right-hand bat,137,50,0,4854.2,33.53,58.5,lf,1,SRL,seam,yes,10.879999999999999,16.32
+1,797,797,SRL,5,424,424,MDK Perera,Wahab Riaz,7,41,40,21.75,1559,50.22,Right-hand bat,145,52,0,4854.2,33.53,58.5,lf,0,SRL,seam,yes,10.879999999999999,16.32
+1,798,798,SRL,5,424,424,MDK Perera,Wahab Riaz,7,41,41,21.75,1559,50.22,Right-hand bat,146,52,0,4854.2,33.53,58.5,lf,0,SRL,seam,yes,10.879999999999999,16.32
+1,799,799,SRL,5,424,424,MDK Perera,Wahab Riaz,7,41,42,21.75,1559,50.22,Right-hand bat,147,52,0,4854.2,33.53,58.5,lf,0,SRL,seam,yes,10.879999999999999,16.32
+1,808,808,SRL,5,428,428,MDK Perera,Wahab Riaz,7,42,45,21.75,1559,50.22,Right-hand bat,150,53,0,4854.2,33.53,58.5,lf,1,SRL,seam,yes,10.879999999999999,16.32
+1,818,818,SRL,6,432,432,MDK Perera,Wahab Riaz,7,45,50,21.75,1559,50.22,Right-hand bat,154,54,1,4854.2,33.53,58.5,lf,0,SRL,seam,yes,10.879999999999999,16.32
+1,819,819,SRL,6,432,432,MDK Perera,Wahab Riaz,7,45,51,21.75,1559,50.22,Right-hand bat,155,54,1,4854.2,33.53,58.5,lf,1,SRL,seam,yes,10.879999999999999,16.32
+1,821,821,SRL,6,434,434,MDK Perera,Wahab Riaz,7,46,52,21.75,1559,50.22,Right-hand bat,157,56,1,4854.2,33.53,58.5,lf,1,SRL,seam,yes,10.879999999999999,16.32
+1,823,823,SRL,6,436,436,MDK Perera,Wahab Riaz,7,47,53,21.75,1559,50.22,Right-hand bat,159,57,1,4854.2,33.53,58.5,lf,1,SRL,seam,yes,10.879999999999999,16.32

@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1686,135,NZL,1,44,-459,KS Williamson,MA Starc,3,0,0,47.19,7256,46.83,Right-hand bat,45,14,1,4578.1,31.03,54.5,lf,1,AUS,seam,no,36.53061224489796,14.612244897959185
+4,1731,180,NZL,1,70,-433,KS Williamson,MA Starc,3,21,17,47.19,7256,46.83,Right-hand bat,48,18,1,4578.1,31.03,54.5,lf,2,AUS,seam,no,36.53061224489796,14.612244897959185
+4,1732,181,NZL,1,72,-431,KS Williamson,MA Starc,3,23,18,47.19,7256,46.83,Right-hand bat,49,20,1,4578.1,31.03,54.5,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+4,1733,182,NZL,1,72,-431,KS Williamson,MA Starc,3,23,19,47.19,7256,46.83,Right-hand bat,50,20,1,4578.1,31.03,54.5,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+4,1734,183,NZL,1,72,-431,KS Williamson,MA Starc,3,23,20,47.19,7256,46.83,Right-hand bat,51,20,1,4578.1,31.03,54.5,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+4,1735,184,NZL,1,72,-431,KS Williamson,MA Starc,3,23,21,47.19,7256,46.83,Right-hand bat,52,20,1,4578.1,31.03,54.5,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+4,1736,185,NZL,1,72,-431,KS Williamson,MA Starc,3,23,22,47.19,7256,46.83,Right-hand bat,53,20,1,4578.1,31.03,54.5,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+4,1743,192,NZL,1,74,-429,KS Williamson,MA Starc,3,24,24,47.19,7256,46.83,Right-hand bat,54,20,1,4578.1,31.03,54.5,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+4,1744,193,NZL,1,74,-429,KS Williamson,MA Starc,3,24,25,47.19,7256,46.83,Right-hand bat,55,20,1,4578.1,31.03,54.5,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+4,1745,194,NZL,1,74,-429,KS Williamson,MA Starc,3,24,26,47.19,7256,46.83,Right-hand bat,56,20,1,4578.1,31.03,54.5,lf,1,AUS,seam,no,36.53061224489796,14.612244897959185
+4,1779,228,NZL,1,90,-413,KS Williamson,MA Starc,3,37,37,47.19,7256,46.83,Right-hand bat,72,21,1,4578.1,31.03,54.5,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+4,1780,229,NZL,1,90,-413,KS Williamson,MA Starc,3,37,38,47.19,7256,46.83,Right-hand bat,73,21,1,4578.1,31.03,54.5,lf,1,AUS,seam,no,36.53061224489796,14.612244897959185

@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1972,42,WIN,1,11,119,KA Edwards,VR Aaron,3,4,6,54.09,1278,46.55,Right-hand bat,0,0,0,192,43,64,rf,0,IND,seam,yes,14.280078895463513,22.848126232741617
+3,1973,43,WIN,1,11,119,KA Edwards,VR Aaron,3,4,7,54.09,1278,46.55,Right-hand bat,1,0,0,192,43,64,rf,0,IND,seam,yes,14.280078895463513,22.848126232741617
+3,1974,44,WIN,1,11,119,KA Edwards,VR Aaron,3,4,8,54.09,1278,46.55,Right-hand bat,2,0,0,192,43,64,rf,0,IND,seam,yes,14.280078895463513,22.848126232741617
+3,1975,45,WIN,1,11,119,KA Edwards,VR Aaron,3,4,9,54.09,1278,46.55,Right-hand bat,3,0,0,192,43,64,rf,1,IND,seam,yes,14.280078895463513,22.848126232741617
+3,1984,54,WIN,1,21,129,KA Edwards,VR Aaron,3,10,16,54.09,1278,46.55,Right-hand bat,6,5,0,192,43,64,rf,4,IND,seam,yes,14.280078895463513,22.848126232741617
+3,1985,55,WIN,1,25,133,KA Edwards,VR Aaron,3,14,17,54.09,1278,46.55,Right-hand bat,7,9,0,192,43,64,rf,0,IND,seam,yes,14.280078895463513,22.848126232741617
+3,1986,56,WIN,1,25,133,KA Edwards,VR Aaron,3,14,18,54.09,1278,46.55,Right-hand bat,8,9,0,192,43,64,rf,1,IND,seam,yes,14.280078895463513,22.848126232741617
+3,1988,58,WIN,1,27,135,KA Edwards,VR Aaron,3,15,19,54.09,1278,46.55,Right-hand bat,10,11,0,192,43,64,rf,0,IND,seam,yes,14.280078895463513,22.848126232741617
+3,1989,59,WIN,1,27,135,KA Edwards,VR Aaron,3,15,20,54.09,1278,46.55,Right-hand bat,11,11,0,192,43,64,rf,1,IND,seam,yes,14.280078895463513,22.848126232741617

@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,397,1,WIN,0,1,-199,SD Hope,KTGD Prasad,2,0,0,16.2,384,42.18,Right-hand bat,1,1,0,4326.1,35.97,57.6,rfm,0,SRL,seam,no,5.55,12.95
+2,398,2,WIN,0,1,-199,SD Hope,KTGD Prasad,2,0,1,16.2,384,42.18,Right-hand bat,2,1,0,4326.1,35.97,57.6,rfm,1lb,SRL,seam,no,5.55,12.95
+2,400,4,WIN,0,3,-197,SD Hope,KTGD Prasad,2,0,2,16.2,384,42.18,Right-hand bat,4,1,0,4326.1,35.97,57.6,rfm,4,SRL,seam,no,5.55,12.95
+2,401,5,WIN,0,7,-193,SD Hope,KTGD Prasad,2,4,3,16.2,384,42.18,Right-hand bat,5,5,0,4326.1,35.97,57.6,rfm,W,SRL,seam,no,5.55,12.95

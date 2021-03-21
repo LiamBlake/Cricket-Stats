@@ -1,0 +1,20 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1035,63,ENG,1,26,-343,JE Root,C de Grandhomme,3,10,26,52.77,10360,55.52,Right-hand bat,3,1,0,1356.5,28.1,68,rmf,4,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1036,64,ENG,1,30,-339,JE Root,C de Grandhomme,3,14,27,52.77,10360,55.52,Right-hand bat,4,5,0,1356.5,28.1,68,rmf,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1037,65,ENG,1,30,-339,JE Root,C de Grandhomme,3,14,28,52.77,10360,55.52,Right-hand bat,5,5,0,1356.5,28.1,68,rmf,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1080,108,ENG,1,56,-313,JE Root,C de Grandhomme,3,20,44,52.77,10360,55.52,Right-hand bat,6,5,0,1356.5,28.1,68,rmf,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1081,109,ENG,1,56,-313,JE Root,C de Grandhomme,3,20,45,52.77,10360,55.52,Right-hand bat,7,5,0,1356.5,28.1,68,rmf,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1082,110,ENG,1,56,-313,JE Root,C de Grandhomme,3,20,46,52.77,10360,55.52,Right-hand bat,8,5,0,1356.5,28.1,68,rmf,2,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1083,111,ENG,1,58,-311,JE Root,C de Grandhomme,3,22,47,52.77,10360,55.52,Right-hand bat,9,7,0,1356.5,28.1,68,rmf,1,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1093,121,ENG,1,64,-305,JE Root,C de Grandhomme,3,24,51,52.77,10360,55.52,Right-hand bat,13,11,0,1356.5,28.1,68,rmf,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1094,122,ENG,1,64,-305,JE Root,C de Grandhomme,3,24,52,52.77,10360,55.52,Right-hand bat,14,11,0,1356.5,28.1,68,rmf,1,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1129,157,ENG,1,74,-295,JE Root,C de Grandhomme,3,28,69,52.77,10360,55.52,Right-hand bat,31,17,0,1356.5,28.1,68,rmf,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1130,158,ENG,1,74,-295,JE Root,C de Grandhomme,3,28,70,52.77,10360,55.52,Right-hand bat,32,17,0,1356.5,28.1,68,rmf,1,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1145,173,ENG,1,82,-287,JE Root,C de Grandhomme,3,33,75,52.77,10360,55.52,Right-hand bat,41,19,0,1356.5,28.1,68,rmf,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1152,180,ENG,2,94,-275,JE Root,C de Grandhomme,3,33,76,52.77,10360,55.52,Right-hand bat,42,19,0,1356.5,28.1,68,rmf,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1153,181,ENG,2,94,-275,JE Root,C de Grandhomme,3,33,77,52.77,10360,55.52,Right-hand bat,43,19,0,1356.5,28.1,68,rmf,4,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1154,182,ENG,2,98,-271,JE Root,C de Grandhomme,3,37,78,52.77,10360,55.52,Right-hand bat,44,23,0,1356.5,28.1,68,rmf,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1155,183,ENG,2,98,-271,JE Root,C de Grandhomme,3,37,79,52.77,10360,55.52,Right-hand bat,45,23,0,1356.5,28.1,68,rmf,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1156,184,ENG,2,98,-271,JE Root,C de Grandhomme,3,37,80,52.77,10360,55.52,Right-hand bat,46,23,0,1356.5,28.1,68,rmf,1,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1180,208,ENG,2,106,-263,JE Root,C de Grandhomme,3,39,91,52.77,10360,55.52,Right-hand bat,58,29,0,1356.5,28.1,68,rmf,2,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1181,209,ENG,2,108,-261,JE Root,C de Grandhomme,3,41,92,52.77,10360,55.52,Right-hand bat,59,31,0,1356.5,28.1,68,rmf,0,ENG,seam,no,24.642857142857142,4.107142857142857

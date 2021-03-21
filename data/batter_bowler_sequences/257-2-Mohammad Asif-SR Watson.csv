@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,853,583,PAK,9,331,204,Mohammad Asif,SR Watson,11,0,0,4.68,296,25.33,Left-hand bat,98,40,2,1602.4,33.12,64.2,rfm,0,AUS,seam,no,17.7625,6.7375
+2,854,584,PAK,9,331,204,Mohammad Asif,SR Watson,11,0,1,4.68,296,25.33,Left-hand bat,99,40,2,1602.4,33.12,64.2,rfm,0,AUS,seam,no,17.7625,6.7375
+2,855,585,PAK,9,331,204,Mohammad Asif,SR Watson,11,0,2,4.68,296,25.33,Left-hand bat,100,40,2,1602.4,33.12,64.2,rfm,0,AUS,seam,no,17.7625,6.7375
+2,856,586,PAK,9,331,204,Mohammad Asif,SR Watson,11,0,3,4.68,296,25.33,Left-hand bat,101,40,2,1602.4,33.12,64.2,rfm,0,AUS,seam,no,17.7625,6.7375

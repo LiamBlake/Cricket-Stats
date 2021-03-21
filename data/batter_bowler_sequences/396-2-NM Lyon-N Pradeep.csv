@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1137,607,AUS,8,388,94,NM Lyon,N Pradeep,10,0,2,13.69,396,44.94,Right-hand bat,107,85,2,636,157.66,212,rfm,0,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,1138,608,AUS,8,388,94,NM Lyon,N Pradeep,10,0,3,13.69,396,44.94,Right-hand bat,108,85,2,636,157.66,212,rfm,0,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,1139,609,AUS,8,388,94,NM Lyon,N Pradeep,10,0,4,13.69,396,44.94,Right-hand bat,109,85,2,636,157.66,212,rfm,0,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,1140,610,AUS,8,388,94,NM Lyon,N Pradeep,10,0,5,13.69,396,44.94,Right-hand bat,110,85,2,636,157.66,212,rfm,4,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,1141,611,AUS,8,392,98,NM Lyon,N Pradeep,10,4,6,13.69,396,44.94,Right-hand bat,111,89,2,636,157.66,212,rfm,0,AUS,seam,yes,21.79065743944637,11.885813148788927

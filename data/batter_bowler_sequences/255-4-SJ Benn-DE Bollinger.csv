@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2090,486,WIN,6,242,-116,SJ Benn,DE Bollinger,8,6,9,13.94,441,56.91,Left-hand bat,78,36,1,762.2,25.93,50.9,lfm,2,AUS,seam,no,26.69101533966399,9.532505478451425
+4,2091,487,WIN,6,244,-114,SJ Benn,DE Bollinger,8,8,10,13.94,441,56.91,Left-hand bat,79,38,1,762.2,25.93,50.9,lfm,0,AUS,seam,no,26.69101533966399,9.532505478451425
+4,2092,488,WIN,6,244,-114,SJ Benn,DE Bollinger,8,8,11,13.94,441,56.91,Left-hand bat,80,38,1,762.2,25.93,50.9,lfm,1,AUS,seam,no,26.69101533966399,9.532505478451425
+4,2114,510,WIN,7,264,-94,SJ Benn,DE Bollinger,8,22,23,13.94,441,56.91,Left-hand bat,90,45,2,762.2,25.93,50.9,lfm,1,AUS,seam,no,26.69101533966399,9.532505478451425

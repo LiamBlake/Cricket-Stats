@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,320,320,AUS,5,166,166,MR Marsh,K Rabada,7,0,0,30.13,2161,52.98,Right-hand bat,86,63,2,5250.4,21.45,38.9,rf,0,AUS,seam,yes,24.23356401384083,4.178200692041522
+1,321,321,AUS,5,166,166,MR Marsh,K Rabada,7,0,1,30.13,2161,52.98,Right-hand bat,87,63,2,5250.4,21.45,38.9,rf,4,AUS,seam,yes,24.23356401384083,4.178200692041522
+1,322,322,AUS,5,170,170,MR Marsh,K Rabada,7,4,2,30.13,2161,52.98,Right-hand bat,88,67,2,5250.4,21.45,38.9,rf,W,AUS,seam,yes,24.23356401384083,4.178200692041522

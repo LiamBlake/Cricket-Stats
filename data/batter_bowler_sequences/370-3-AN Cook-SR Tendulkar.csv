@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1605,198,ENG,0,93,-237,AN Cook,SR Tendulkar,1,61,107,48.71,14138,47.89,Left-hand bat,0,0,0,4182.4,54.64,93,NA,0,IND,seam,no,11.395957193816885,29.914387633769323
+3,1606,199,ENG,0,93,-237,AN Cook,SR Tendulkar,1,61,108,48.71,14138,47.89,Left-hand bat,1,0,0,4182.4,54.64,93,NA,0,IND,seam,no,11.395957193816885,29.914387633769323
+3,1607,200,ENG,0,93,-237,AN Cook,SR Tendulkar,1,61,109,48.71,14138,47.89,Left-hand bat,2,0,0,4182.4,54.64,93,NA,0,IND,seam,no,11.395957193816885,29.914387633769323
+3,1608,201,ENG,0,93,-237,AN Cook,SR Tendulkar,1,61,110,48.71,14138,47.89,Left-hand bat,3,0,0,4182.4,54.64,93,NA,0,IND,seam,no,11.395957193816885,29.914387633769323
+3,1609,202,ENG,0,93,-237,AN Cook,SR Tendulkar,1,61,111,48.71,14138,47.89,Left-hand bat,4,0,0,4182.4,54.64,93,NA,4,IND,seam,no,11.395957193816885,29.914387633769323
+3,1610,203,ENG,0,97,-233,AN Cook,SR Tendulkar,1,65,112,48.71,14138,47.89,Left-hand bat,5,4,0,4182.4,54.64,93,NA,4,IND,seam,no,11.395957193816885,29.914387633769323

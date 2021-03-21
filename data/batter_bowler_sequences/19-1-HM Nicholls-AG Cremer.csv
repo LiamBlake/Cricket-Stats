@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,633,633,NZL,3,385,385,HM Nicholls,AG Cremer,5,11,21,18.16,231,47.18,Left-hand bat,153,109,0,2214.2,57.23,85.2,rls,0,ZIM,spin,yes,20.21005917159763,27.559171597633135
+1,634,634,NZL,3,385,385,HM Nicholls,AG Cremer,5,11,22,18.16,231,47.18,Left-hand bat,154,109,0,2214.2,57.23,85.2,rls,4,ZIM,spin,yes,20.21005917159763,27.559171597633135
+1,635,635,NZL,3,389,389,HM Nicholls,AG Cremer,5,15,23,18.16,231,47.18,Left-hand bat,155,113,0,2214.2,57.23,85.2,rls,W,ZIM,spin,yes,20.21005917159763,27.559171597633135

@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1441,186,PAK,3,104,-276,Asad Shafiq,K Rabada,4,16,13,38.94,8922,48.45,Right-hand bat,42,23,0,6450.5,21.41,38.4,rf,0,RSA,seam,no,22.378125,3.196875
+4,1442,187,PAK,3,104,-276,Asad Shafiq,K Rabada,4,16,14,38.94,8922,48.45,Right-hand bat,43,23,0,6450.5,21.41,38.4,rf,0,RSA,seam,no,22.378125,3.196875
+4,1443,188,PAK,3,104,-276,Asad Shafiq,K Rabada,4,16,15,38.94,8922,48.45,Right-hand bat,44,23,0,6450.5,21.41,38.4,rf,0,RSA,seam,no,22.378125,3.196875
+4,1444,189,PAK,3,104,-276,Asad Shafiq,K Rabada,4,16,16,38.94,8922,48.45,Right-hand bat,45,23,0,6450.5,21.41,38.4,rf,4,RSA,seam,no,22.378125,3.196875
+4,1445,190,PAK,3,108,-272,Asad Shafiq,K Rabada,4,20,17,38.94,8922,48.45,Right-hand bat,46,27,0,6450.5,21.41,38.4,rf,0,RSA,seam,no,22.378125,3.196875
+4,1446,191,PAK,3,108,-272,Asad Shafiq,K Rabada,4,20,18,38.94,8922,48.45,Right-hand bat,47,27,0,6450.5,21.41,38.4,rf,1,RSA,seam,no,22.378125,3.196875
+4,1465,210,PAK,3,134,-246,Asad Shafiq,K Rabada,4,30,26,38.94,8922,48.45,Right-hand bat,54,36,0,6450.5,21.41,38.4,rf,4,RSA,seam,no,22.378125,3.196875
+4,1466,211,PAK,3,138,-242,Asad Shafiq,K Rabada,4,34,27,38.94,8922,48.45,Right-hand bat,55,40,0,6450.5,21.41,38.4,rf,0,RSA,seam,no,22.378125,3.196875
+4,1467,212,PAK,3,138,-242,Asad Shafiq,K Rabada,4,34,28,38.94,8922,48.45,Right-hand bat,56,40,0,6450.5,21.41,38.4,rf,0,RSA,seam,no,22.378125,3.196875
+4,1468,213,PAK,3,138,-242,Asad Shafiq,K Rabada,4,34,29,38.94,8922,48.45,Right-hand bat,57,40,0,6450.5,21.41,38.4,rf,2,RSA,seam,no,22.378125,3.196875
+4,1469,214,PAK,3,140,-240,Asad Shafiq,K Rabada,4,36,30,38.94,8922,48.45,Right-hand bat,58,42,0,6450.5,21.41,38.4,rf,4,RSA,seam,no,22.378125,3.196875
+4,1470,215,PAK,3,144,-236,Asad Shafiq,K Rabada,4,40,31,38.94,8922,48.45,Right-hand bat,59,46,0,6450.5,21.41,38.4,rf,0,RSA,seam,no,22.378125,3.196875

@@ -1,0 +1,21 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,780,141,SRL,5,98,273,DM de Silva,MA Starc,7,0,0,32.75,211,62.08,Right-hand bat,32,26,3,5238.5,27.88,48.5,lf,1,SRL,seam,yes,7.565625,12.609375
+3,782,143,SRL,5,102,277,DM de Silva,MA Starc,7,1,1,32.75,211,62.08,Right-hand bat,34,30,3,5238.5,27.88,48.5,lf,0,SRL,seam,yes,7.565625,12.609375
+3,783,144,SRL,5,102,277,DM de Silva,MA Starc,7,1,2,32.75,211,62.08,Right-hand bat,35,30,3,5238.5,27.88,48.5,lf,0,SRL,seam,yes,7.565625,12.609375
+3,791,152,SRL,5,104,279,DM de Silva,MA Starc,7,1,6,32.75,211,62.08,Right-hand bat,37,31,3,5238.5,27.88,48.5,lf,0,SRL,seam,yes,7.565625,12.609375
+3,792,153,SRL,5,104,279,DM de Silva,MA Starc,7,1,7,32.75,211,62.08,Right-hand bat,38,31,3,5238.5,27.88,48.5,lf,2,SRL,seam,yes,7.565625,12.609375
+3,793,154,SRL,5,106,281,DM de Silva,MA Starc,7,3,8,32.75,211,62.08,Right-hand bat,39,33,3,5238.5,27.88,48.5,lf,0,SRL,seam,yes,7.565625,12.609375
+3,794,155,SRL,5,106,281,DM de Silva,MA Starc,7,3,9,32.75,211,62.08,Right-hand bat,40,33,3,5238.5,27.88,48.5,lf,0,SRL,seam,yes,7.565625,12.609375
+3,795,156,SRL,5,106,281,DM de Silva,MA Starc,7,3,10,32.75,211,62.08,Right-hand bat,41,33,3,5238.5,27.88,48.5,lf,0,SRL,seam,yes,7.565625,12.609375
+3,862,223,SRL,6,156,331,DM de Silva,MA Starc,7,26,36,32.75,211,62.08,Right-hand bat,42,33,3,5238.5,27.88,48.5,lf,0,SRL,seam,yes,7.565625,12.609375
+3,863,224,SRL,6,156,331,DM de Silva,MA Starc,7,26,37,32.75,211,62.08,Right-hand bat,43,33,3,5238.5,27.88,48.5,lf,0,SRL,seam,yes,7.565625,12.609375
+3,864,225,SRL,6,156,331,DM de Silva,MA Starc,7,26,38,32.75,211,62.08,Right-hand bat,44,33,3,5238.5,27.88,48.5,lf,4,SRL,seam,yes,7.565625,12.609375
+3,865,226,SRL,6,160,335,DM de Silva,MA Starc,7,30,39,32.75,211,62.08,Right-hand bat,45,37,3,5238.5,27.88,48.5,lf,0,SRL,seam,yes,7.565625,12.609375
+3,866,227,SRL,6,160,335,DM de Silva,MA Starc,7,30,40,32.75,211,62.08,Right-hand bat,46,37,3,5238.5,27.88,48.5,lf,0,SRL,seam,yes,7.565625,12.609375
+3,867,228,SRL,6,160,335,DM de Silva,MA Starc,7,30,41,32.75,211,62.08,Right-hand bat,47,37,3,5238.5,27.88,48.5,lf,0,SRL,seam,yes,7.565625,12.609375
+3,874,235,SRL,6,168,343,DM de Silva,MA Starc,7,30,42,32.75,211,62.08,Right-hand bat,48,37,3,5238.5,27.88,48.5,lf,0,SRL,seam,yes,7.565625,12.609375
+3,875,236,SRL,6,168,343,DM de Silva,MA Starc,7,30,43,32.75,211,62.08,Right-hand bat,49,37,3,5238.5,27.88,48.5,lf,4,SRL,seam,yes,7.565625,12.609375
+3,876,237,SRL,6,172,347,DM de Silva,MA Starc,7,34,44,32.75,211,62.08,Right-hand bat,50,41,3,5238.5,27.88,48.5,lf,0,SRL,seam,yes,7.565625,12.609375
+3,877,238,SRL,6,172,347,DM de Silva,MA Starc,7,34,45,32.75,211,62.08,Right-hand bat,51,41,3,5238.5,27.88,48.5,lf,0,SRL,seam,yes,7.565625,12.609375
+3,878,239,SRL,6,172,347,DM de Silva,MA Starc,7,34,46,32.75,211,62.08,Right-hand bat,52,41,3,5238.5,27.88,48.5,lf,0,SRL,seam,yes,7.565625,12.609375
+3,879,240,SRL,6,172,347,DM de Silva,MA Starc,7,34,47,32.75,211,62.08,Right-hand bat,53,41,3,5238.5,27.88,48.5,lf,W,SRL,seam,yes,7.565625,12.609375

@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,725,32,WIN,0,11,-430,KA Edwards,TG Southee,1,5,17,38.76,1705,47.74,Right-hand bat,14,5,0,5838,32.81,62.1,rmf,1,NZL,seam,yes,25.168888888888887,1.7977777777777777
+2,735,42,WIN,0,13,-428,KA Edwards,TG Southee,1,7,19,38.76,1705,47.74,Right-hand bat,18,6,0,5838,32.81,62.1,rmf,1,NZL,seam,yes,25.168888888888887,1.7977777777777777
+2,740,47,WIN,0,20,-421,KA Edwards,TG Southee,1,8,20,38.76,1705,47.74,Right-hand bat,23,13,0,5838,32.81,62.1,rmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+2,741,48,WIN,0,20,-421,KA Edwards,TG Southee,1,8,21,38.76,1705,47.74,Right-hand bat,24,13,0,5838,32.81,62.1,rmf,1,NZL,seam,yes,25.168888888888887,1.7977777777777777
+2,778,85,WIN,0,45,-396,KA Edwards,TG Southee,1,19,38,38.76,1705,47.74,Right-hand bat,25,14,0,5838,32.81,62.1,rmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+2,779,86,WIN,0,45,-396,KA Edwards,TG Southee,1,19,39,38.76,1705,47.74,Right-hand bat,26,14,0,5838,32.81,62.1,rmf,1,NZL,seam,yes,25.168888888888887,1.7977777777777777
+2,807,114,WIN,2,73,-368,KA Edwards,TG Southee,1,35,50,38.76,1705,47.74,Right-hand bat,40,24,1,5838,32.81,62.1,rmf,1,NZL,seam,yes,25.168888888888887,1.7977777777777777
+2,809,116,WIN,2,75,-366,KA Edwards,TG Southee,1,36,51,38.76,1705,47.74,Right-hand bat,42,26,1,5838,32.81,62.1,rmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+2,816,123,WIN,2,77,-364,KA Edwards,TG Southee,1,36,55,38.76,1705,47.74,Right-hand bat,43,26,1,5838,32.81,62.1,rmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+2,817,124,WIN,2,77,-364,KA Edwards,TG Southee,1,36,56,38.76,1705,47.74,Right-hand bat,44,26,1,5838,32.81,62.1,rmf,4,NZL,seam,yes,25.168888888888887,1.7977777777777777
+2,818,125,WIN,2,81,-360,KA Edwards,TG Southee,1,40,57,38.76,1705,47.74,Right-hand bat,45,30,1,5838,32.81,62.1,rmf,3,NZL,seam,yes,25.168888888888887,1.7977777777777777
+2,820,127,WIN,2,85,-356,KA Edwards,TG Southee,1,43,58,38.76,1705,47.74,Right-hand bat,47,34,1,5838,32.81,62.1,rmf,3,NZL,seam,yes,25.168888888888887,1.7977777777777777
+2,828,135,WIN,2,91,-350,KA Edwards,TG Southee,1,49,62,38.76,1705,47.74,Right-hand bat,49,37,1,5838,32.81,62.1,rmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+2,829,136,WIN,2,91,-350,KA Edwards,TG Southee,1,49,63,38.76,1705,47.74,Right-hand bat,50,37,1,5838,32.81,62.1,rmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+2,830,137,WIN,2,91,-350,KA Edwards,TG Southee,1,49,64,38.76,1705,47.74,Right-hand bat,51,37,1,5838,32.81,62.1,rmf,2,NZL,seam,yes,25.168888888888887,1.7977777777777777
+2,831,138,WIN,2,93,-348,KA Edwards,TG Southee,1,51,65,38.76,1705,47.74,Right-hand bat,52,39,1,5838,32.81,62.1,rmf,1,NZL,seam,yes,25.168888888888887,1.7977777777777777

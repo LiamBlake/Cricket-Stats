@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1389,650,PAK,8,268,89,Umar Gul,GP Swann,10,0,0,11.07,838,50.23,Right-hand bat,194,45,5,5706.3,28.95,58.8,rob,0,ENG,spin,yes,15.338189386056191,8.436004162330905
+3,1390,651,PAK,8,268,89,Umar Gul,GP Swann,10,0,1,11.07,838,50.23,Right-hand bat,195,45,5,5706.3,28.95,58.8,rob,0,ENG,spin,yes,15.338189386056191,8.436004162330905
+3,1391,652,PAK,8,268,89,Umar Gul,GP Swann,10,0,2,11.07,838,50.23,Right-hand bat,196,45,5,5706.3,28.95,58.8,rob,0,ENG,spin,yes,15.338189386056191,8.436004162330905
+3,1392,653,PAK,8,268,89,Umar Gul,GP Swann,10,0,3,11.07,838,50.23,Right-hand bat,197,45,5,5706.3,28.95,58.8,rob,0,ENG,spin,yes,15.338189386056191,8.436004162330905
+3,1411,672,PAK,9,276,97,Umar Gul,GP Swann,10,3,9,11.07,838,50.23,Right-hand bat,204,49,6,5706.3,28.95,58.8,rob,1,ENG,spin,yes,15.338189386056191,8.436004162330905
+3,1423,684,PAK,9,278,99,Umar Gul,GP Swann,10,4,10,11.07,838,50.23,Right-hand bat,210,51,6,5706.3,28.95,58.8,rob,0,ENG,spin,yes,15.338189386056191,8.436004162330905
+3,1424,685,PAK,9,278,99,Umar Gul,GP Swann,10,4,11,11.07,838,50.23,Right-hand bat,211,51,6,5706.3,28.95,58.8,rob,1,ENG,spin,yes,15.338189386056191,8.436004162330905
+3,1437,698,PAK,9,292,113,Umar Gul,GP Swann,10,9,18,11.07,838,50.23,Right-hand bat,218,61,6,5706.3,28.95,58.8,rob,0,ENG,spin,yes,15.338189386056191,8.436004162330905
+3,1438,699,PAK,9,292,113,Umar Gul,GP Swann,10,9,19,11.07,838,50.23,Right-hand bat,219,61,6,5706.3,28.95,58.8,rob,0,ENG,spin,yes,15.338189386056191,8.436004162330905
+3,1439,700,PAK,9,292,113,Umar Gul,GP Swann,10,9,20,11.07,838,50.23,Right-hand bat,220,61,6,5706.3,28.95,58.8,rob,2,ENG,spin,yes,15.338189386056191,8.436004162330905
+3,1440,701,PAK,9,294,115,Umar Gul,GP Swann,10,11,21,11.07,838,50.23,Right-hand bat,221,63,6,5706.3,28.95,58.8,rob,2,ENG,spin,yes,15.338189386056191,8.436004162330905

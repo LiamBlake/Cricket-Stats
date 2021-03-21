@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,295,18,AUS,1,8,-142,UT Khawaja,TA Boult,3,1,5,29.22,673,39.07,Left-hand bat,6,0,0,150,20,37.5,lfm,0,AUS,seam,yes,17.228125,1.396875
+2,296,19,AUS,1,8,-142,UT Khawaja,TA Boult,3,1,6,29.22,673,39.07,Left-hand bat,7,0,0,150,20,37.5,lfm,0,AUS,seam,yes,17.228125,1.396875
+2,297,20,AUS,1,8,-142,UT Khawaja,TA Boult,3,1,7,29.22,673,39.07,Left-hand bat,8,0,0,150,20,37.5,lfm,0,AUS,seam,yes,17.228125,1.396875
+2,298,21,AUS,1,8,-142,UT Khawaja,TA Boult,3,1,8,29.22,673,39.07,Left-hand bat,9,0,0,150,20,37.5,lfm,0,AUS,seam,yes,17.228125,1.396875
+2,299,22,AUS,1,8,-142,UT Khawaja,TA Boult,3,1,9,29.22,673,39.07,Left-hand bat,10,0,0,150,20,37.5,lfm,0,AUS,seam,yes,17.228125,1.396875
+2,300,23,AUS,1,8,-142,UT Khawaja,TA Boult,3,1,10,29.22,673,39.07,Left-hand bat,11,0,0,150,20,37.5,lfm,0,AUS,seam,yes,17.228125,1.396875
+2,331,54,AUS,2,24,-126,UT Khawaja,TA Boult,3,4,17,29.22,673,39.07,Left-hand bat,24,5,0,150,20,37.5,lfm,0,AUS,seam,yes,17.228125,1.396875
+2,332,55,AUS,2,24,-126,UT Khawaja,TA Boult,3,4,18,29.22,673,39.07,Left-hand bat,25,5,0,150,20,37.5,lfm,0,AUS,seam,yes,17.228125,1.396875
+2,333,56,AUS,2,24,-126,UT Khawaja,TA Boult,3,4,19,29.22,673,39.07,Left-hand bat,26,5,0,150,20,37.5,lfm,0,AUS,seam,yes,17.228125,1.396875
+2,334,57,AUS,2,24,-126,UT Khawaja,TA Boult,3,4,20,29.22,673,39.07,Left-hand bat,27,5,0,150,20,37.5,lfm,0,AUS,seam,yes,17.228125,1.396875
+2,335,58,AUS,2,24,-126,UT Khawaja,TA Boult,3,4,21,29.22,673,39.07,Left-hand bat,28,5,0,150,20,37.5,lfm,0,AUS,seam,yes,17.228125,1.396875
+2,336,59,AUS,2,24,-126,UT Khawaja,TA Boult,3,4,22,29.22,673,39.07,Left-hand bat,29,5,0,150,20,37.5,lfm,0,AUS,seam,yes,17.228125,1.396875

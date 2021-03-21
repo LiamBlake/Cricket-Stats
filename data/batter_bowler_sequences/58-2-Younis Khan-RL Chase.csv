@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,862,292,PAK,2,125,-161,Younis Khan,RL Chase,4,22,82,52.84,19202,52.29,Right-hand bat,6,4,0,1290.5,56.66,107.9,rob,0,WIN,spin,yes,17.797979797979796,8.898989898989898
+2,863,293,PAK,2,125,-161,Younis Khan,RL Chase,4,22,83,52.84,19202,52.29,Right-hand bat,7,4,0,1290.5,56.66,107.9,rob,4,WIN,spin,yes,17.797979797979796,8.898989898989898
+2,864,294,PAK,2,129,-157,Younis Khan,RL Chase,4,26,84,52.84,19202,52.29,Right-hand bat,8,8,0,1290.5,56.66,107.9,rob,1,WIN,spin,yes,17.797979797979796,8.898989898989898
+2,874,304,PAK,2,139,-147,Younis Khan,RL Chase,4,27,85,52.84,19202,52.29,Right-hand bat,12,14,0,1290.5,56.66,107.9,rob,0,WIN,spin,yes,17.797979797979796,8.898989898989898
+2,875,305,PAK,2,139,-147,Younis Khan,RL Chase,4,27,86,52.84,19202,52.29,Right-hand bat,13,14,0,1290.5,56.66,107.9,rob,1,WIN,spin,yes,17.797979797979796,8.898989898989898
+2,898,328,PAK,2,147,-139,Younis Khan,RL Chase,4,33,97,52.84,19202,52.29,Right-hand bat,24,17,0,1290.5,56.66,107.9,rob,0,WIN,spin,yes,17.797979797979796,8.898989898989898
+2,899,329,PAK,2,147,-139,Younis Khan,RL Chase,4,33,98,52.84,19202,52.29,Right-hand bat,25,17,0,1290.5,56.66,107.9,rob,1,WIN,spin,yes,17.797979797979796,8.898989898989898
+2,912,342,PAK,2,151,-135,Younis Khan,RL Chase,4,34,100,52.84,19202,52.29,Right-hand bat,32,20,0,1290.5,56.66,107.9,rob,0,WIN,spin,yes,17.797979797979796,8.898989898989898
+2,913,343,PAK,2,151,-135,Younis Khan,RL Chase,4,34,101,52.84,19202,52.29,Right-hand bat,33,20,0,1290.5,56.66,107.9,rob,4,WIN,spin,yes,17.797979797979796,8.898989898989898
+2,914,344,PAK,2,155,-131,Younis Khan,RL Chase,4,38,102,52.84,19202,52.29,Right-hand bat,34,24,0,1290.5,56.66,107.9,rob,0,WIN,spin,yes,17.797979797979796,8.898989898989898
+2,915,345,PAK,2,155,-131,Younis Khan,RL Chase,4,38,103,52.84,19202,52.29,Right-hand bat,35,24,0,1290.5,56.66,107.9,rob,1,WIN,spin,yes,17.797979797979796,8.898989898989898

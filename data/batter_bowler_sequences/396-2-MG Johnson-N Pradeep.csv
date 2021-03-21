@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,953,423,AUS,5,281,-13,MG Johnson,N Pradeep,7,5,11,22.62,2377,59.02,Left-hand bat,55,53,0,636,157.66,212,rfm,0,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,954,424,AUS,5,281,-13,MG Johnson,N Pradeep,7,5,12,22.62,2377,59.02,Left-hand bat,56,53,0,636,157.66,212,rfm,3,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,1020,490,AUS,5,307,13,MG Johnson,N Pradeep,7,13,35,22.62,2377,59.02,Left-hand bat,68,58,0,636,157.66,212,rfm,0,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,1021,491,AUS,5,307,13,MG Johnson,N Pradeep,7,13,36,22.62,2377,59.02,Left-hand bat,69,58,0,636,157.66,212,rfm,0,AUS,seam,yes,21.79065743944637,11.885813148788927
+2,1022,492,AUS,5,307,13,MG Johnson,N Pradeep,7,13,37,22.62,2377,59.02,Left-hand bat,70,58,0,636,157.66,212,rfm,W,AUS,seam,yes,21.79065743944637,11.885813148788927

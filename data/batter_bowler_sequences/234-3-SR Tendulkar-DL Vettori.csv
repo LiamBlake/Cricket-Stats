@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1247,294,IND,2,184,366,SR Tendulkar,DL Vettori,4,0,0,54.58,NA,NA,Right-hand bat,58,31,1,22398,33.55,76.4,lo,0,NZL,spin,no,27.400816326530613,9.484897959183675
+3,1248,295,IND,2,184,366,SR Tendulkar,DL Vettori,4,0,1,54.58,NA,NA,Right-hand bat,59,31,1,22398,33.55,76.4,lo,0,NZL,spin,no,27.400816326530613,9.484897959183675
+3,1249,296,IND,2,184,366,SR Tendulkar,DL Vettori,4,0,2,54.58,NA,NA,Right-hand bat,60,31,1,22398,33.55,76.4,lo,0,NZL,spin,no,27.400816326530613,9.484897959183675
+3,1256,303,IND,2,184,366,SR Tendulkar,DL Vettori,4,0,3,54.58,NA,NA,Right-hand bat,61,31,1,22398,33.55,76.4,lo,0,NZL,spin,no,27.400816326530613,9.484897959183675
+3,1257,304,IND,2,184,366,SR Tendulkar,DL Vettori,4,0,4,54.58,NA,NA,Right-hand bat,62,31,1,22398,33.55,76.4,lo,0,NZL,spin,no,27.400816326530613,9.484897959183675
+3,1258,305,IND,2,184,366,SR Tendulkar,DL Vettori,4,0,5,54.58,NA,NA,Right-hand bat,63,31,1,22398,33.55,76.4,lo,1,NZL,spin,no,27.400816326530613,9.484897959183675
+3,1260,307,IND,2,188,370,SR Tendulkar,DL Vettori,4,1,6,54.58,NA,NA,Right-hand bat,65,35,1,22398,33.55,76.4,lo,1,NZL,spin,no,27.400816326530613,9.484897959183675
+3,1268,315,IND,2,198,380,SR Tendulkar,DL Vettori,4,3,9,54.58,NA,NA,Right-hand bat,67,36,1,22398,33.55,76.4,lo,6,NZL,spin,no,27.400816326530613,9.484897959183675
+3,1269,316,IND,2,204,386,SR Tendulkar,DL Vettori,4,9,10,54.58,NA,NA,Right-hand bat,68,42,1,22398,33.55,76.4,lo,0,NZL,spin,no,27.400816326530613,9.484897959183675
+3,1270,317,IND,2,204,386,SR Tendulkar,DL Vettori,4,9,11,54.58,NA,NA,Right-hand bat,69,42,1,22398,33.55,76.4,lo,0,NZL,spin,no,27.400816326530613,9.484897959183675
+3,1271,318,IND,2,204,386,SR Tendulkar,DL Vettori,4,9,12,54.58,NA,NA,Right-hand bat,70,42,1,22398,33.55,76.4,lo,0,NZL,spin,no,27.400816326530613,9.484897959183675
+3,1272,319,IND,2,204,386,SR Tendulkar,DL Vettori,4,9,13,54.58,NA,NA,Right-hand bat,71,42,1,22398,33.55,76.4,lo,0,NZL,spin,no,27.400816326530613,9.484897959183675
+3,1273,320,IND,2,204,386,SR Tendulkar,DL Vettori,4,9,14,54.58,NA,NA,Right-hand bat,72,42,1,22398,33.55,76.4,lo,0,NZL,spin,no,27.400816326530613,9.484897959183675
+3,1284,331,IND,2,208,390,SR Tendulkar,DL Vettori,4,9,18,54.58,NA,NA,Right-hand bat,77,43,1,22398,33.55,76.4,lo,0,NZL,spin,no,27.400816326530613,9.484897959183675
+3,1285,332,IND,2,208,390,SR Tendulkar,DL Vettori,4,9,19,54.58,NA,NA,Right-hand bat,78,43,1,22398,33.55,76.4,lo,W,NZL,spin,no,27.400816326530613,9.484897959183675

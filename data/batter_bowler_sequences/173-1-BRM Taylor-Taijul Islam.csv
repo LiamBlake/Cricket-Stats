@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,297,297,ZIM,2,123,123,BRM Taylor,Taijul Islam,4,3,3,35.43,3864,53.18,Right-hand bat,37,34,0,7044.4,33.17,61.8,lo,0,BAN,spin,yes,10.5,28.5
+1,298,298,ZIM,2,123,123,BRM Taylor,Taijul Islam,4,3,4,35.43,3864,53.18,Right-hand bat,38,34,0,7044.4,33.17,61.8,lo,4,BAN,spin,yes,10.5,28.5
+1,299,299,ZIM,2,127,127,BRM Taylor,Taijul Islam,4,7,5,35.43,3864,53.18,Right-hand bat,39,38,0,7044.4,33.17,61.8,lo,0,BAN,spin,yes,10.5,28.5
+1,300,300,ZIM,2,127,127,BRM Taylor,Taijul Islam,4,7,6,35.43,3864,53.18,Right-hand bat,40,38,0,7044.4,33.17,61.8,lo,1,BAN,spin,yes,10.5,28.5

@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,629,24,AUS,1,7,195,PJ Hughes,DW Steyn,3,3,12,37.28,1709,54.53,Left-hand bat,12,4,1,9660.5,22.96,39.6,rf,4,RSA,seam,no,20.71875,0
+3,630,25,AUS,1,11,199,PJ Hughes,DW Steyn,3,7,13,37.28,1709,54.53,Left-hand bat,13,8,1,9660.5,22.96,39.6,rf,0,RSA,seam,no,20.71875,0
+3,631,26,AUS,1,11,199,PJ Hughes,DW Steyn,3,7,14,37.28,1709,54.53,Left-hand bat,14,8,1,9660.5,22.96,39.6,rf,0,RSA,seam,no,20.71875,0
+3,632,27,AUS,1,11,199,PJ Hughes,DW Steyn,3,7,15,37.28,1709,54.53,Left-hand bat,15,8,1,9660.5,22.96,39.6,rf,0,RSA,seam,no,20.71875,0
+3,633,28,AUS,1,11,199,PJ Hughes,DW Steyn,3,7,16,37.28,1709,54.53,Left-hand bat,16,8,1,9660.5,22.96,39.6,rf,0,RSA,seam,no,20.71875,0
+3,634,29,AUS,1,11,199,PJ Hughes,DW Steyn,3,7,17,37.28,1709,54.53,Left-hand bat,17,8,1,9660.5,22.96,39.6,rf,0,RSA,seam,no,20.71875,0

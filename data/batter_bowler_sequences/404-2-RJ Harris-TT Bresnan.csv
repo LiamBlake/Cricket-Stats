@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1000,398,AUS,7,151,-104,RJ Harris,TT Bresnan,9,0,0,19.65,664,59.18,Right-hand bat,92,21,2,4674,32.73,64.9,rmf,0,AUS,seam,yes,20.3671875,6.7890625
+2,1001,399,AUS,7,151,-104,RJ Harris,TT Bresnan,9,0,1,19.65,664,59.18,Right-hand bat,93,21,2,4674,32.73,64.9,rmf,0,AUS,seam,yes,20.3671875,6.7890625
+2,1002,400,AUS,7,151,-104,RJ Harris,TT Bresnan,9,0,2,19.65,664,59.18,Right-hand bat,94,21,2,4674,32.73,64.9,rmf,0,AUS,seam,yes,20.3671875,6.7890625
+2,1003,401,AUS,7,151,-104,RJ Harris,TT Bresnan,9,0,3,19.65,664,59.18,Right-hand bat,95,21,2,4674,32.73,64.9,rmf,0,AUS,seam,yes,20.3671875,6.7890625
+2,1011,409,AUS,7,157,-98,RJ Harris,TT Bresnan,9,4,9,19.65,664,59.18,Right-hand bat,97,22,2,4674,32.73,64.9,rmf,0,AUS,seam,yes,20.3671875,6.7890625
+2,1012,410,AUS,7,157,-98,RJ Harris,TT Bresnan,9,4,10,19.65,664,59.18,Right-hand bat,98,22,2,4674,32.73,64.9,rmf,0,AUS,seam,yes,20.3671875,6.7890625
+2,1013,411,AUS,7,157,-98,RJ Harris,TT Bresnan,9,4,11,19.65,664,59.18,Right-hand bat,99,22,2,4674,32.73,64.9,rmf,0,AUS,seam,yes,20.3671875,6.7890625
+2,1014,412,AUS,7,157,-98,RJ Harris,TT Bresnan,9,4,12,19.65,664,59.18,Right-hand bat,100,22,2,4674,32.73,64.9,rmf,0,AUS,seam,yes,20.3671875,6.7890625
+2,1015,413,AUS,7,157,-98,RJ Harris,TT Bresnan,9,4,13,19.65,664,59.18,Right-hand bat,101,22,2,4674,32.73,64.9,rmf,0,AUS,seam,yes,20.3671875,6.7890625
+2,1022,420,AUS,7,159,-96,RJ Harris,TT Bresnan,9,5,18,19.65,664,59.18,Right-hand bat,102,22,2,4674,32.73,64.9,rmf,1,AUS,seam,yes,20.3671875,6.7890625
+2,1024,422,AUS,7,161,-94,RJ Harris,TT Bresnan,9,6,19,19.65,664,59.18,Right-hand bat,104,24,2,4674,32.73,64.9,rmf,0,AUS,seam,yes,20.3671875,6.7890625
+2,1025,423,AUS,7,161,-94,RJ Harris,TT Bresnan,9,6,20,19.65,664,59.18,Right-hand bat,105,24,2,4674,32.73,64.9,rmf,0,AUS,seam,yes,20.3671875,6.7890625
+2,1026,424,AUS,7,161,-94,RJ Harris,TT Bresnan,9,6,21,19.65,664,59.18,Right-hand bat,106,24,2,4674,32.73,64.9,rmf,0,AUS,seam,yes,20.3671875,6.7890625
+2,1027,425,AUS,7,161,-94,RJ Harris,TT Bresnan,9,6,22,19.65,664,59.18,Right-hand bat,107,24,2,4674,32.73,64.9,rmf,0,AUS,seam,yes,20.3671875,6.7890625

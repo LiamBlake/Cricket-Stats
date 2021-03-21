@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,400,400,AUS,5,243,243,BJ Haddin,JP Duminy,7,28,41,39.8,1590,52.57,Right-hand bat,5,1,0,108,68,108,rob,0,RSA,spin,yes,26.640000000000004,2.96
+1,407,407,AUS,5,245,245,BJ Haddin,JP Duminy,7,29,44,39.8,1590,52.57,Right-hand bat,6,1,0,108,68,108,rob,1,RSA,spin,yes,26.640000000000004,2.96
+1,409,409,AUS,5,247,247,BJ Haddin,JP Duminy,7,30,45,39.8,1590,52.57,Right-hand bat,8,3,0,108,68,108,rob,4,RSA,spin,yes,26.640000000000004,2.96
+1,410,410,AUS,5,251,251,BJ Haddin,JP Duminy,7,34,46,39.8,1590,52.57,Right-hand bat,9,7,0,108,68,108,rob,0,RSA,spin,yes,26.640000000000004,2.96
+1,411,411,AUS,5,251,251,BJ Haddin,JP Duminy,7,34,47,39.8,1590,52.57,Right-hand bat,10,7,0,108,68,108,rob,3,RSA,spin,yes,26.640000000000004,2.96
+1,470,470,AUS,5,277,277,BJ Haddin,JP Duminy,7,49,78,39.8,1590,52.57,Right-hand bat,15,11,0,108,68,108,rob,2,RSA,spin,yes,26.640000000000004,2.96
+1,471,471,AUS,5,279,279,BJ Haddin,JP Duminy,7,51,79,39.8,1590,52.57,Right-hand bat,16,13,0,108,68,108,rob,0,RSA,spin,yes,26.640000000000004,2.96
+1,472,472,AUS,5,279,279,BJ Haddin,JP Duminy,7,51,80,39.8,1590,52.57,Right-hand bat,17,13,0,108,68,108,rob,0,RSA,spin,yes,26.640000000000004,2.96
+1,479,479,AUS,5,281,281,BJ Haddin,JP Duminy,7,52,86,39.8,1590,52.57,Right-hand bat,18,13,0,108,68,108,rob,2,RSA,spin,yes,26.640000000000004,2.96
+1,480,480,AUS,5,283,283,BJ Haddin,JP Duminy,7,54,87,39.8,1590,52.57,Right-hand bat,19,15,0,108,68,108,rob,0,RSA,spin,yes,26.640000000000004,2.96
+1,481,481,AUS,5,283,283,BJ Haddin,JP Duminy,7,54,88,39.8,1590,52.57,Right-hand bat,20,15,0,108,68,108,rob,3,RSA,spin,yes,26.640000000000004,2.96
+1,483,483,AUS,5,287,287,BJ Haddin,JP Duminy,7,57,89,39.8,1590,52.57,Right-hand bat,22,19,0,108,68,108,rob,0,RSA,spin,yes,26.640000000000004,2.96
+1,484,484,AUS,5,287,287,BJ Haddin,JP Duminy,7,57,90,39.8,1590,52.57,Right-hand bat,23,19,0,108,68,108,rob,0,RSA,spin,yes,26.640000000000004,2.96

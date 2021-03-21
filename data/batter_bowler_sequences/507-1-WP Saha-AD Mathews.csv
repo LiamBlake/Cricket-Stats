@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,491,491,IND,5,306,306,WP Saha,AD Mathews,7,18,29,23.66,677,41.94,Right-hand bat,42,15,0,2946,49.67,105.2,rm,0,SRL,seam,yes,12.831024930747922,17.642659279778393
+1,492,492,IND,5,306,306,WP Saha,AD Mathews,7,18,30,23.66,677,41.94,Right-hand bat,43,15,0,2946,49.67,105.2,rm,0,SRL,seam,yes,12.831024930747922,17.642659279778393
+1,493,493,IND,5,306,306,WP Saha,AD Mathews,7,18,31,23.66,677,41.94,Right-hand bat,44,15,0,2946,49.67,105.2,rm,0,SRL,seam,yes,12.831024930747922,17.642659279778393
+1,494,494,IND,5,306,306,WP Saha,AD Mathews,7,18,32,23.66,677,41.94,Right-hand bat,45,15,0,2946,49.67,105.2,rm,0,SRL,seam,yes,12.831024930747922,17.642659279778393
+1,495,495,IND,5,306,306,WP Saha,AD Mathews,7,18,33,23.66,677,41.94,Right-hand bat,46,15,0,2946,49.67,105.2,rm,0,SRL,seam,yes,12.831024930747922,17.642659279778393
+1,496,496,IND,5,306,306,WP Saha,AD Mathews,7,18,34,23.66,677,41.94,Right-hand bat,47,15,0,2946,49.67,105.2,rm,0,SRL,seam,yes,12.831024930747922,17.642659279778393
+1,564,564,IND,7,327,327,WP Saha,AD Mathews,7,24,60,23.66,677,41.94,Right-hand bat,78,19,2,2946,49.67,105.2,rm,0,SRL,seam,yes,12.831024930747922,17.642659279778393
+1,565,565,IND,7,327,327,WP Saha,AD Mathews,7,24,61,23.66,677,41.94,Right-hand bat,79,19,2,2946,49.67,105.2,rm,0,SRL,seam,yes,12.831024930747922,17.642659279778393
+1,566,566,IND,7,327,327,WP Saha,AD Mathews,7,24,62,23.66,677,41.94,Right-hand bat,80,19,2,2946,49.67,105.2,rm,1,SRL,seam,yes,12.831024930747922,17.642659279778393

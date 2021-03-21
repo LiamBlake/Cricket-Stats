@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,111,111,SRL,3,53,53,HDRL Thirimanne,A Mishra,3,13,32,25.52,2143,40.5,Left-hand bat,2,3,0,3630.5,40.47,75.7,rls,0,SRL,spin,yes,5.833125000000001,20.091875
+1,112,112,SRL,3,53,53,HDRL Thirimanne,A Mishra,3,13,33,25.52,2143,40.5,Left-hand bat,3,3,0,3630.5,40.47,75.7,rls,0,SRL,spin,yes,5.833125000000001,20.091875
+1,113,113,SRL,3,53,53,HDRL Thirimanne,A Mishra,3,13,34,25.52,2143,40.5,Left-hand bat,4,3,0,3630.5,40.47,75.7,rls,0,SRL,spin,yes,5.833125000000001,20.091875
+1,114,114,SRL,3,53,53,HDRL Thirimanne,A Mishra,3,13,35,25.52,2143,40.5,Left-hand bat,5,3,0,3630.5,40.47,75.7,rls,0,SRL,spin,yes,5.833125000000001,20.091875

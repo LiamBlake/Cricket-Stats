@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,876,313,NZL,7,147,-232,BB McCullum,Z Khan,7,7,30,32.67,3520,63.12,Right-hand bat,85,49,4,12960.2,33.84,61.7,lfm,2,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,877,314,NZL,7,149,-230,BB McCullum,Z Khan,7,9,31,32.67,3520,63.12,Right-hand bat,86,51,4,12960.2,33.84,61.7,lfm,1,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,887,324,NZL,7,159,-220,BB McCullum,Z Khan,7,11,34,32.67,3520,63.12,Right-hand bat,90,56,4,12960.2,33.84,61.7,lfm,0,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,888,325,NZL,7,159,-220,BB McCullum,Z Khan,7,11,35,32.67,3520,63.12,Right-hand bat,91,56,4,12960.2,33.84,61.7,lfm,0,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,889,326,NZL,7,159,-220,BB McCullum,Z Khan,7,11,36,32.67,3520,63.12,Right-hand bat,92,56,4,12960.2,33.84,61.7,lfm,1,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,891,328,NZL,8,160,-219,BB McCullum,Z Khan,7,12,37,32.67,3520,63.12,Right-hand bat,94,57,5,12960.2,33.84,61.7,lfm,4,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,892,329,NZL,8,164,-215,BB McCullum,Z Khan,7,16,38,32.67,3520,63.12,Right-hand bat,95,61,5,12960.2,33.84,61.7,lfm,0,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,899,336,NZL,8,166,-213,BB McCullum,Z Khan,7,17,41,32.67,3520,63.12,Right-hand bat,96,61,5,12960.2,33.84,61.7,lfm,1,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,911,348,NZL,8,170,-209,BB McCullum,Z Khan,7,20,45,32.67,3520,63.12,Right-hand bat,102,62,5,12960.2,33.84,61.7,lfm,0,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,912,349,NZL,8,170,-209,BB McCullum,Z Khan,7,20,46,32.67,3520,63.12,Right-hand bat,103,62,5,12960.2,33.84,61.7,lfm,0,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,913,350,NZL,8,170,-209,BB McCullum,Z Khan,7,20,47,32.67,3520,63.12,Right-hand bat,104,62,5,12960.2,33.84,61.7,lfm,1,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,915,352,NZL,8,172,-207,BB McCullum,Z Khan,7,21,48,32.67,3520,63.12,Right-hand bat,106,64,5,12960.2,33.84,61.7,lfm,1,NZL,seam,yes,27.400816326530613,9.484897959183675

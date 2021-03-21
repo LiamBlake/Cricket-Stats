@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1018,36,WIN,1,19,85,LMP Simmons,Abdur Rehman,2,6,9,19.62,386,40.67,Right-hand bat,0,0,0,2604.1,33.97,76.6,lo,4,WIN,spin,yes,8.5025,9.397499999999999
+3,1019,37,WIN,1,23,89,LMP Simmons,Abdur Rehman,2,10,10,19.62,386,40.67,Right-hand bat,1,4,0,2604.1,33.97,76.6,lo,0,WIN,spin,yes,8.5025,9.397499999999999
+3,1020,38,WIN,1,23,89,LMP Simmons,Abdur Rehman,2,10,11,19.62,386,40.67,Right-hand bat,2,4,0,2604.1,33.97,76.6,lo,0,WIN,spin,yes,8.5025,9.397499999999999
+3,1021,39,WIN,1,23,89,LMP Simmons,Abdur Rehman,2,10,12,19.62,386,40.67,Right-hand bat,3,4,0,2604.1,33.97,76.6,lo,0,WIN,spin,yes,8.5025,9.397499999999999
+3,1022,40,WIN,1,23,89,LMP Simmons,Abdur Rehman,2,10,13,19.62,386,40.67,Right-hand bat,4,4,0,2604.1,33.97,76.6,lo,0,WIN,spin,yes,8.5025,9.397499999999999
+3,1023,41,WIN,1,23,89,LMP Simmons,Abdur Rehman,2,10,14,19.62,386,40.67,Right-hand bat,5,4,0,2604.1,33.97,76.6,lo,0,WIN,spin,yes,8.5025,9.397499999999999
+3,1030,48,WIN,2,23,89,LMP Simmons,Abdur Rehman,2,10,15,19.62,386,40.67,Right-hand bat,6,4,0,2604.1,33.97,76.6,lo,1,WIN,spin,yes,8.5025,9.397499999999999
+3,1033,51,WIN,2,27,93,LMP Simmons,Abdur Rehman,2,11,16,19.62,386,40.67,Right-hand bat,9,8,0,2604.1,33.97,76.6,lo,1,WIN,spin,yes,8.5025,9.397499999999999

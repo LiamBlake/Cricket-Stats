@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1033,555,WIN,7,272,19,KAJ Roach,CAK Rajitha,9,0,1,10.95,1887,35.4,Right-hand bat,120,48,2,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1034,556,WIN,7,272,19,KAJ Roach,CAK Rajitha,9,0,2,10.95,1887,35.4,Right-hand bat,121,48,2,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1054,576,WIN,8,285,32,KAJ Roach,CAK Rajitha,9,7,8,10.95,1887,35.4,Right-hand bat,128,48,3,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1055,577,WIN,8,285,32,KAJ Roach,CAK Rajitha,9,7,9,10.95,1887,35.4,Right-hand bat,129,48,3,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1056,578,WIN,8,285,32,KAJ Roach,CAK Rajitha,9,7,10,10.95,1887,35.4,Right-hand bat,130,48,3,210,14.4,42,rmf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1057,579,WIN,8,285,32,KAJ Roach,CAK Rajitha,9,7,11,10.95,1887,35.4,Right-hand bat,131,48,3,210,14.4,42,rmf,1,SRL,seam,no,28.070204081632653,1.7012244897959183

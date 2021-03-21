@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,664,664,RSA,3,342,342,AB de Villiers,KS Williamson,5,16,45,49.16,9930,54.95,Right-hand bat,35,15,0,420.3,56,84.6,rob,1,NZL,spin,no,37.73979591836735,2.903061224489796
+1,683,683,RSA,3,356,356,AB de Villiers,KS Williamson,5,22,53,49.16,9930,54.95,Right-hand bat,42,16,0,420.3,56,84.6,rob,4b,NZL,spin,no,37.73979591836735,2.903061224489796
+1,684,684,RSA,3,360,360,AB de Villiers,KS Williamson,5,22,54,49.16,9930,54.95,Right-hand bat,43,16,0,420.3,56,84.6,rob,0,NZL,spin,no,37.73979591836735,2.903061224489796
+1,685,685,RSA,3,360,360,AB de Villiers,KS Williamson,5,22,55,49.16,9930,54.95,Right-hand bat,44,16,0,420.3,56,84.6,rob,0,NZL,spin,no,37.73979591836735,2.903061224489796
+1,686,686,RSA,3,360,360,AB de Villiers,KS Williamson,5,22,56,49.16,9930,54.95,Right-hand bat,45,16,0,420.3,56,84.6,rob,0,NZL,spin,no,37.73979591836735,2.903061224489796
+1,687,687,RSA,3,360,360,AB de Villiers,KS Williamson,5,22,57,49.16,9930,54.95,Right-hand bat,46,16,0,420.3,56,84.6,rob,1,NZL,spin,no,37.73979591836735,2.903061224489796
+1,695,695,RSA,4,364,364,AB de Villiers,KS Williamson,5,23,58,49.16,9930,54.95,Right-hand bat,48,18,0,420.3,56,84.6,rob,1,NZL,spin,no,37.73979591836735,2.903061224489796
+1,707,707,RSA,4,366,366,AB de Villiers,KS Williamson,5,25,60,49.16,9930,54.95,Right-hand bat,54,19,0,420.3,56,84.6,rob,0,NZL,spin,no,37.73979591836735,2.903061224489796
+1,708,708,RSA,4,366,366,AB de Villiers,KS Williamson,5,25,61,49.16,9930,54.95,Right-hand bat,55,19,0,420.3,56,84.6,rob,4,NZL,spin,no,37.73979591836735,2.903061224489796
+1,709,709,RSA,4,370,370,AB de Villiers,KS Williamson,5,29,62,49.16,9930,54.95,Right-hand bat,56,23,0,420.3,56,84.6,rob,0,NZL,spin,no,37.73979591836735,2.903061224489796
+1,710,710,RSA,4,370,370,AB de Villiers,KS Williamson,5,29,63,49.16,9930,54.95,Right-hand bat,57,23,0,420.3,56,84.6,rob,1,NZL,spin,no,37.73979591836735,2.903061224489796
+1,712,712,RSA,4,372,372,AB de Villiers,KS Williamson,5,30,64,49.16,9930,54.95,Right-hand bat,59,25,0,420.3,56,84.6,rob,2,NZL,spin,no,37.73979591836735,2.903061224489796

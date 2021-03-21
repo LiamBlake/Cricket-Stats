@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1136,745,NZL,8,409,186,IE O'Brien,Danish Kaneria,10,0,0,7.55,569,38.48,Right-hand bat,272,144,5,16512.5,33.84,67.4,rls,0,NZL,spin,no,24.779999999999998,16.52
+2,1137,746,NZL,8,409,186,IE O'Brien,Danish Kaneria,10,0,1,7.55,569,38.48,Right-hand bat,273,144,5,16512.5,33.84,67.4,rls,0,NZL,spin,no,24.779999999999998,16.52
+2,1138,747,NZL,8,409,186,IE O'Brien,Danish Kaneria,10,0,2,7.55,569,38.48,Right-hand bat,274,144,5,16512.5,33.84,67.4,rls,0,NZL,spin,no,24.779999999999998,16.52
+2,1139,748,NZL,8,409,186,IE O'Brien,Danish Kaneria,10,0,3,7.55,569,38.48,Right-hand bat,275,144,5,16512.5,33.84,67.4,rls,0,NZL,spin,no,24.779999999999998,16.52
+2,1146,755,NZL,8,415,192,IE O'Brien,Danish Kaneria,10,1,6,7.55,569,38.48,Right-hand bat,276,144,5,16512.5,33.84,67.4,rls,0,NZL,spin,no,24.779999999999998,16.52
+2,1147,756,NZL,8,415,192,IE O'Brien,Danish Kaneria,10,1,7,7.55,569,38.48,Right-hand bat,277,144,5,16512.5,33.84,67.4,rls,0,NZL,spin,no,24.779999999999998,16.52
+2,1148,757,NZL,8,415,192,IE O'Brien,Danish Kaneria,10,1,8,7.55,569,38.48,Right-hand bat,278,144,5,16512.5,33.84,67.4,rls,1,NZL,spin,no,24.779999999999998,16.52
+2,1177,786,NZL,8,435,212,IE O'Brien,Danish Kaneria,10,7,18,7.55,569,38.48,Right-hand bat,288,148,5,16512.5,33.84,67.4,rls,1,NZL,spin,no,24.779999999999998,16.52
+2,1203,812,NZL,8,461,238,IE O'Brien,Danish Kaneria,10,17,30,7.55,569,38.48,Right-hand bat,302,164,5,16512.5,33.84,67.4,rls,0,NZL,spin,no,24.779999999999998,16.52
+2,1204,813,NZL,8,461,238,IE O'Brien,Danish Kaneria,10,17,31,7.55,569,38.48,Right-hand bat,303,164,5,16512.5,33.84,67.4,rls,0,NZL,spin,no,24.779999999999998,16.52
+2,1205,814,NZL,8,461,238,IE O'Brien,Danish Kaneria,10,17,32,7.55,569,38.48,Right-hand bat,304,164,5,16512.5,33.84,67.4,rls,1,NZL,spin,no,24.779999999999998,16.52
+2,1215,824,NZL,8,467,244,IE O'Brien,Danish Kaneria,10,18,34,7.55,569,38.48,Right-hand bat,308,167,5,16512.5,33.84,67.4,rls,0,NZL,spin,no,24.779999999999998,16.52
+2,1216,825,NZL,8,467,244,IE O'Brien,Danish Kaneria,10,18,35,7.55,569,38.48,Right-hand bat,309,167,5,16512.5,33.84,67.4,rls,0,NZL,spin,no,24.779999999999998,16.52
+2,1217,826,NZL,8,467,244,IE O'Brien,Danish Kaneria,10,18,36,7.55,569,38.48,Right-hand bat,310,167,5,16512.5,33.84,67.4,rls,0,NZL,spin,no,24.779999999999998,16.52
+2,1218,827,NZL,8,467,244,IE O'Brien,Danish Kaneria,10,18,37,7.55,569,38.48,Right-hand bat,311,167,5,16512.5,33.84,67.4,rls,0,NZL,spin,no,24.779999999999998,16.52
+2,1226,835,NZL,8,471,248,IE O'Brien,Danish Kaneria,10,19,40,7.55,569,38.48,Right-hand bat,313,168,5,16512.5,33.84,67.4,rls,W,NZL,spin,no,24.779999999999998,16.52

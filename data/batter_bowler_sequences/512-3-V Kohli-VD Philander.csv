@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1065,245,IND,2,128,145,V Kohli,VD Philander,4,11,27,44.12,5345,52.83,Right-hand bat,47,20,1,6060.5,22.08,48.1,rfm,0,IND,seam,yes,2.6025,14.747500000000002
+3,1072,252,IND,2,128,145,V Kohli,VD Philander,4,11,28,44.12,5345,52.83,Right-hand bat,48,20,1,6060.5,22.08,48.1,rfm,0,IND,seam,yes,2.6025,14.747500000000002
+3,1073,253,IND,2,128,145,V Kohli,VD Philander,4,11,29,44.12,5345,52.83,Right-hand bat,49,20,1,6060.5,22.08,48.1,rfm,0,IND,seam,yes,2.6025,14.747500000000002
+3,1074,254,IND,2,128,145,V Kohli,VD Philander,4,11,30,44.12,5345,52.83,Right-hand bat,50,20,1,6060.5,22.08,48.1,rfm,0,IND,seam,yes,2.6025,14.747500000000002
+3,1075,255,IND,2,128,145,V Kohli,VD Philander,4,11,31,44.12,5345,52.83,Right-hand bat,51,20,1,6060.5,22.08,48.1,rfm,0,IND,seam,yes,2.6025,14.747500000000002
+3,1076,256,IND,2,128,145,V Kohli,VD Philander,4,11,32,44.12,5345,52.83,Right-hand bat,52,20,1,6060.5,22.08,48.1,rfm,0,IND,seam,yes,2.6025,14.747500000000002
+3,1077,257,IND,2,128,145,V Kohli,VD Philander,4,11,33,44.12,5345,52.83,Right-hand bat,53,20,1,6060.5,22.08,48.1,rfm,0,IND,seam,yes,2.6025,14.747500000000002
+3,1084,264,IND,2,132,149,V Kohli,VD Philander,4,11,34,44.12,5345,52.83,Right-hand bat,54,20,1,6060.5,22.08,48.1,rfm,0,IND,seam,yes,2.6025,14.747500000000002
+3,1085,265,IND,2,132,149,V Kohli,VD Philander,4,11,35,44.12,5345,52.83,Right-hand bat,55,20,1,6060.5,22.08,48.1,rfm,0,IND,seam,yes,2.6025,14.747500000000002
+3,1086,266,IND,2,132,149,V Kohli,VD Philander,4,11,36,44.12,5345,52.83,Right-hand bat,56,20,1,6060.5,22.08,48.1,rfm,0,IND,seam,yes,2.6025,14.747500000000002
+3,1087,267,IND,2,132,149,V Kohli,VD Philander,4,11,37,44.12,5345,52.83,Right-hand bat,57,20,1,6060.5,22.08,48.1,rfm,0,IND,seam,yes,2.6025,14.747500000000002
+3,1088,268,IND,2,132,149,V Kohli,VD Philander,4,11,38,44.12,5345,52.83,Right-hand bat,58,20,1,6060.5,22.08,48.1,rfm,0,IND,seam,yes,2.6025,14.747500000000002
+3,1089,269,IND,2,132,149,V Kohli,VD Philander,4,11,39,44.12,5345,52.83,Right-hand bat,59,20,1,6060.5,22.08,48.1,rfm,0,IND,seam,yes,2.6025,14.747500000000002
+3,1099,279,IND,2,134,151,V Kohli,VD Philander,4,11,42,44.12,5345,52.83,Right-hand bat,63,21,1,6060.5,22.08,48.1,rfm,0,IND,seam,yes,2.6025,14.747500000000002
+3,1100,280,IND,2,134,151,V Kohli,VD Philander,4,11,43,44.12,5345,52.83,Right-hand bat,64,21,1,6060.5,22.08,48.1,rfm,2,IND,seam,yes,2.6025,14.747500000000002
+3,1101,281,IND,2,136,153,V Kohli,VD Philander,4,13,44,44.12,5345,52.83,Right-hand bat,65,23,1,6060.5,22.08,48.1,rfm,0,IND,seam,yes,2.6025,14.747500000000002

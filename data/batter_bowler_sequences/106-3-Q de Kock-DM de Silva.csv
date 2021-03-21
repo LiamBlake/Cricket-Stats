@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,971,254,RSA,4,142,186,Q de Kock,DM de Silva,6,30,32,39.16,3186,72.53,Left-hand bat,0,0,0,1278.1,75.3,127.9,rob,0,RSA,spin,no,19.506903353057197,5.85207100591716
+3,972,255,RSA,4,142,186,Q de Kock,DM de Silva,6,30,33,39.16,3186,72.53,Left-hand bat,1,0,0,1278.1,75.3,127.9,rob,0,RSA,spin,no,19.506903353057197,5.85207100591716
+3,973,256,RSA,4,142,186,Q de Kock,DM de Silva,6,30,34,39.16,3186,72.53,Left-hand bat,2,0,0,1278.1,75.3,127.9,rob,0,RSA,spin,no,19.506903353057197,5.85207100591716
+3,974,257,RSA,4,142,186,Q de Kock,DM de Silva,6,30,35,39.16,3186,72.53,Left-hand bat,3,0,0,1278.1,75.3,127.9,rob,0,RSA,spin,no,19.506903353057197,5.85207100591716
+3,975,258,RSA,4,142,186,Q de Kock,DM de Silva,6,30,36,39.16,3186,72.53,Left-hand bat,4,0,0,1278.1,75.3,127.9,rob,0,RSA,spin,no,19.506903353057197,5.85207100591716
+3,976,259,RSA,4,142,186,Q de Kock,DM de Silva,6,30,37,39.16,3186,72.53,Left-hand bat,5,0,0,1278.1,75.3,127.9,rob,4,RSA,spin,no,19.506903353057197,5.85207100591716
+3,983,266,RSA,4,154,198,Q de Kock,DM de Silva,6,34,38,39.16,3186,72.53,Left-hand bat,6,4,0,1278.1,75.3,127.9,rob,1,RSA,spin,no,19.506903353057197,5.85207100591716
+3,986,269,RSA,4,156,200,Q de Kock,DM de Silva,6,35,39,39.16,3186,72.53,Left-hand bat,9,6,0,1278.1,75.3,127.9,rob,1,RSA,spin,no,19.506903353057197,5.85207100591716

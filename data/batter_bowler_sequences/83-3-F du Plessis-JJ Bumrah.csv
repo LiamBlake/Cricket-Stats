@@ -1,0 +1,19 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1559,319,RSA,5,172,200,F du Plessis,JJ Bumrah,5,11,33,46.33,6753,44.6,Right-hand bat,67,46,2,432.2,34.57,62,rf,0,RSA,seam,yes,22.33375,3.9412499999999993
+3,1560,320,RSA,5,172,200,F du Plessis,JJ Bumrah,5,11,34,46.33,6753,44.6,Right-hand bat,68,46,2,432.2,34.57,62,rf,0,RSA,seam,yes,22.33375,3.9412499999999993
+3,1561,321,RSA,5,172,200,F du Plessis,JJ Bumrah,5,11,35,46.33,6753,44.6,Right-hand bat,69,46,2,432.2,34.57,62,rf,0,RSA,seam,yes,22.33375,3.9412499999999993
+3,1562,322,RSA,5,172,200,F du Plessis,JJ Bumrah,5,11,36,46.33,6753,44.6,Right-hand bat,70,46,2,432.2,34.57,62,rf,1,RSA,seam,yes,22.33375,3.9412499999999993
+3,1573,333,RSA,5,174,202,F du Plessis,JJ Bumrah,5,12,43,46.33,6753,44.6,Right-hand bat,75,48,2,432.2,34.57,62,rf,1,RSA,seam,yes,22.33375,3.9412499999999993
+3,1607,367,RSA,5,190,218,F du Plessis,JJ Bumrah,5,17,51,46.33,6753,44.6,Right-hand bat,91,52,2,432.2,34.57,62,rf,0,RSA,seam,yes,22.33375,3.9412499999999993
+3,1608,368,RSA,5,190,218,F du Plessis,JJ Bumrah,5,17,52,46.33,6753,44.6,Right-hand bat,92,52,2,432.2,34.57,62,rf,0,RSA,seam,yes,22.33375,3.9412499999999993
+3,1609,369,RSA,5,190,218,F du Plessis,JJ Bumrah,5,17,53,46.33,6753,44.6,Right-hand bat,93,52,2,432.2,34.57,62,rf,0,RSA,seam,yes,22.33375,3.9412499999999993
+3,1610,370,RSA,5,190,218,F du Plessis,JJ Bumrah,5,17,54,46.33,6753,44.6,Right-hand bat,94,52,2,432.2,34.57,62,rf,1,RSA,seam,yes,22.33375,3.9412499999999993
+3,1745,505,RSA,7,235,263,F du Plessis,JJ Bumrah,5,38,125,46.33,6753,44.6,Right-hand bat,97,57,2,432.2,34.57,62,rf,2,RSA,seam,yes,22.33375,3.9412499999999993
+3,1746,506,RSA,7,237,265,F du Plessis,JJ Bumrah,5,40,126,46.33,6753,44.6,Right-hand bat,98,59,2,432.2,34.57,62,rf,4,RSA,seam,yes,22.33375,3.9412499999999993
+3,1747,507,RSA,7,241,269,F du Plessis,JJ Bumrah,5,44,127,46.33,6753,44.6,Right-hand bat,99,63,2,432.2,34.57,62,rf,1,RSA,seam,yes,22.33375,3.9412499999999993
+3,1757,517,RSA,7,243,271,F du Plessis,JJ Bumrah,5,46,134,46.33,6753,44.6,Right-hand bat,103,64,2,432.2,34.57,62,rf,0,RSA,seam,yes,22.33375,3.9412499999999993
+3,1758,518,RSA,7,243,271,F du Plessis,JJ Bumrah,5,46,135,46.33,6753,44.6,Right-hand bat,104,64,2,432.2,34.57,62,rf,1,RSA,seam,yes,22.33375,3.9412499999999993
+3,1769,529,RSA,8,245,273,F du Plessis,JJ Bumrah,5,48,137,46.33,6753,44.6,Right-hand bat,109,65,2,432.2,34.57,62,rf,0,RSA,seam,yes,22.33375,3.9412499999999993
+3,1770,530,RSA,8,245,273,F du Plessis,JJ Bumrah,5,48,138,46.33,6753,44.6,Right-hand bat,110,65,2,432.2,34.57,62,rf,0,RSA,seam,yes,22.33375,3.9412499999999993
+3,1771,531,RSA,8,245,273,F du Plessis,JJ Bumrah,5,48,139,46.33,6753,44.6,Right-hand bat,111,65,2,432.2,34.57,62,rf,0,RSA,seam,yes,22.33375,3.9412499999999993
+3,1772,532,RSA,8,245,273,F du Plessis,JJ Bumrah,5,48,140,46.33,6753,44.6,Right-hand bat,112,65,2,432.2,34.57,62,rf,W,RSA,seam,yes,22.33375,3.9412499999999993

@@ -1,0 +1,2 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,670,670,ENG,9,394,394,CJ Jordan,MN Samuels,9,20,37,22.71,271,58.67,Right-hand bat,60,46,0,3708.3,57.7,100.2,rob,1,WIN,spin,no,26.205882352941178,14.294117647058824

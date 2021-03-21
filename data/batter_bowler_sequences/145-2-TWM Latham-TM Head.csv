@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1077,174,NZL,0,63,-391,TWM Latham,TM Head,1,26,81,42.4,7754,46.47,Left-hand bat,0,0,0,126,NA,NA,rob,0,AUS,spin,no,16.609375,15.5712890625
+2,1078,175,NZL,0,63,-391,TWM Latham,TM Head,1,26,82,42.4,7754,46.47,Left-hand bat,1,0,0,126,NA,NA,rob,0,AUS,spin,no,16.609375,15.5712890625
+2,1079,176,NZL,0,63,-391,TWM Latham,TM Head,1,26,83,42.4,7754,46.47,Left-hand bat,2,0,0,126,NA,NA,rob,0,AUS,spin,no,16.609375,15.5712890625
+2,1080,177,NZL,0,63,-391,TWM Latham,TM Head,1,26,84,42.4,7754,46.47,Left-hand bat,3,0,0,126,NA,NA,rob,0,AUS,spin,no,16.609375,15.5712890625
+2,1081,178,NZL,0,63,-391,TWM Latham,TM Head,1,26,85,42.4,7754,46.47,Left-hand bat,4,0,0,126,NA,NA,rob,1,AUS,spin,no,16.609375,15.5712890625

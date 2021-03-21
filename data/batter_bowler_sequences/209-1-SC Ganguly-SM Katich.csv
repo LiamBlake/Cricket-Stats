@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,753,753,IND,4,436,436,SC Ganguly,SM Katich,6,0,0,42.17,13916,51.21,Left-hand bat,37,18,0,750.5,36.23,58,lc,1,IND,spin,yes,29.52479338842975,35.429752066115704
+1,757,757,IND,4,438,438,SC Ganguly,SM Katich,6,1,1,42.17,13916,51.21,Left-hand bat,41,20,0,750.5,36.23,58,lc,4,IND,spin,yes,29.52479338842975,35.429752066115704
+1,765,765,IND,4,444,444,SC Ganguly,SM Katich,6,5,7,42.17,13916,51.21,Left-hand bat,43,25,0,750.5,36.23,58,lc,W,IND,spin,yes,29.52479338842975,35.429752066115704

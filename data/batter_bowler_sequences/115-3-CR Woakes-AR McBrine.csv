@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,890,393,ENG,6,239,117,CR Woakes,AR McBrine,8,8,8,29.28,2042,50.19,Right-hand bat,41,32,1,300,53,100,rob,0,ENG,spin,yes,15.033750000000001,0.79125
+3,897,400,ENG,7,243,121,CR Woakes,AR McBrine,8,8,9,29.28,2042,50.19,Right-hand bat,42,32,1,300,53,100,rob,0,ENG,spin,yes,15.033750000000001,0.79125
+3,898,401,ENG,7,243,121,CR Woakes,AR McBrine,8,8,10,29.28,2042,50.19,Right-hand bat,43,32,1,300,53,100,rob,0,ENG,spin,yes,15.033750000000001,0.79125
+3,899,402,ENG,7,243,121,CR Woakes,AR McBrine,8,8,11,29.28,2042,50.19,Right-hand bat,44,32,1,300,53,100,rob,0,ENG,spin,yes,15.033750000000001,0.79125
+3,900,403,ENG,7,243,121,CR Woakes,AR McBrine,8,8,12,29.28,2042,50.19,Right-hand bat,45,32,1,300,53,100,rob,4,ENG,spin,yes,15.033750000000001,0.79125
+3,901,404,ENG,7,247,125,CR Woakes,AR McBrine,8,12,13,29.28,2042,50.19,Right-hand bat,46,36,1,300,53,100,rob,1,ENG,spin,yes,15.033750000000001,0.79125

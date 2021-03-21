@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2028,289,WIN,3,121,-248,DM Bravo,RJ Harris,4,32,101,49.59,2856,46.88,Left-hand bat,25,14,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2029,290,WIN,3,121,-248,DM Bravo,RJ Harris,4,32,102,49.59,2856,46.88,Left-hand bat,26,14,0,2310.2,23.63,49.1,rf,1lb,WIN,seam,no,9.61625,17.85875
+4,2051,312,WIN,3,135,-234,DM Bravo,RJ Harris,4,40,113,49.59,2856,46.88,Left-hand bat,36,16,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2052,313,WIN,3,135,-234,DM Bravo,RJ Harris,4,40,114,49.59,2856,46.88,Left-hand bat,37,16,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2053,314,WIN,3,135,-234,DM Bravo,RJ Harris,4,40,115,49.59,2856,46.88,Left-hand bat,38,16,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2054,315,WIN,3,135,-234,DM Bravo,RJ Harris,4,40,116,49.59,2856,46.88,Left-hand bat,39,16,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2055,316,WIN,3,135,-234,DM Bravo,RJ Harris,4,40,117,49.59,2856,46.88,Left-hand bat,40,16,0,2310.2,23.63,49.1,rf,1,WIN,seam,no,9.61625,17.85875
+4,2066,327,WIN,3,143,-226,DM Bravo,RJ Harris,4,43,124,49.59,2856,46.88,Left-hand bat,45,22,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2067,328,WIN,3,143,-226,DM Bravo,RJ Harris,4,43,125,49.59,2856,46.88,Left-hand bat,46,22,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2068,329,WIN,3,143,-226,DM Bravo,RJ Harris,4,43,126,49.59,2856,46.88,Left-hand bat,47,22,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2076,337,WIN,3,145,-224,DM Bravo,RJ Harris,4,43,132,49.59,2856,46.88,Left-hand bat,49,23,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2077,338,WIN,3,145,-224,DM Bravo,RJ Harris,4,43,133,49.59,2856,46.88,Left-hand bat,50,23,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2078,339,WIN,3,145,-224,DM Bravo,RJ Harris,4,43,134,49.59,2856,46.88,Left-hand bat,51,23,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2079,340,WIN,3,145,-224,DM Bravo,RJ Harris,4,43,135,49.59,2856,46.88,Left-hand bat,52,23,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+4,2080,341,WIN,3,145,-224,DM Bravo,RJ Harris,4,43,136,49.59,2856,46.88,Left-hand bat,53,23,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875

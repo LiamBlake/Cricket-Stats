@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,546,4,ENG,0,3,-240,AN Cook,FH Edwards,2,0,0,48.75,13018,48.31,Left-hand bat,4,3,0,9390.1,38.37,59.4,rf,0,ENG,seam,yes,28.873469387755097,4.812244897959183
+2,547,5,ENG,0,3,-240,AN Cook,FH Edwards,2,0,1,48.75,13018,48.31,Left-hand bat,5,3,0,9390.1,38.37,59.4,rf,0,ENG,seam,yes,28.873469387755097,4.812244897959183
+2,554,12,ENG,0,5,-238,AN Cook,FH Edwards,2,0,2,48.75,13018,48.31,Left-hand bat,6,3,0,9390.1,38.37,59.4,rf,0,ENG,seam,yes,28.873469387755097,4.812244897959183
+2,555,13,ENG,0,5,-238,AN Cook,FH Edwards,2,0,3,48.75,13018,48.31,Left-hand bat,7,3,0,9390.1,38.37,59.4,rf,0,ENG,seam,yes,28.873469387755097,4.812244897959183
+2,556,14,ENG,0,5,-238,AN Cook,FH Edwards,2,0,4,48.75,13018,48.31,Left-hand bat,8,3,0,9390.1,38.37,59.4,rf,0,ENG,seam,yes,28.873469387755097,4.812244897959183
+2,557,15,ENG,0,5,-238,AN Cook,FH Edwards,2,0,5,48.75,13018,48.31,Left-hand bat,9,3,0,9390.1,38.37,59.4,rf,0,ENG,seam,yes,28.873469387755097,4.812244897959183
+2,558,16,ENG,0,5,-238,AN Cook,FH Edwards,2,0,6,48.75,13018,48.31,Left-hand bat,10,3,0,9390.1,38.37,59.4,rf,1,ENG,seam,yes,28.873469387755097,4.812244897959183

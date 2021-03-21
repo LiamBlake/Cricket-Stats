@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1883,84,RSA,3,25,-305,Q de Kock,LA Dawson,5,0,0,50.07,1936,72.41,Left-hand bat,0,0,0,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
+4,1884,85,RSA,3,25,-305,Q de Kock,LA Dawson,5,0,1,50.07,1936,72.41,Left-hand bat,1,0,0,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
+4,1885,86,RSA,3,25,-305,Q de Kock,LA Dawson,5,0,2,50.07,1936,72.41,Left-hand bat,2,0,0,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
+4,1886,87,RSA,3,25,-305,Q de Kock,LA Dawson,5,0,3,50.07,1936,72.41,Left-hand bat,3,0,0,414.4,38.33,69.6,lo,3,ENG,spin,no,16.10125,13.173749999999998
+4,1908,109,RSA,4,37,-293,Q de Kock,LA Dawson,5,6,14,50.07,1936,72.41,Left-hand bat,13,6,1,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
+4,1909,110,RSA,4,37,-293,Q de Kock,LA Dawson,5,6,15,50.07,1936,72.41,Left-hand bat,14,6,1,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
+4,1910,111,RSA,4,37,-293,Q de Kock,LA Dawson,5,6,16,50.07,1936,72.41,Left-hand bat,15,6,1,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
+4,1911,112,RSA,4,37,-293,Q de Kock,LA Dawson,5,6,17,50.07,1936,72.41,Left-hand bat,16,6,1,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
+4,1912,113,RSA,4,37,-293,Q de Kock,LA Dawson,5,6,18,50.07,1936,72.41,Left-hand bat,17,6,1,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
+4,1943,144,RSA,4,61,-269,Q de Kock,LA Dawson,5,16,29,50.07,1936,72.41,Left-hand bat,30,10,1,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
+4,1944,145,RSA,4,61,-269,Q de Kock,LA Dawson,5,16,30,50.07,1936,72.41,Left-hand bat,31,10,1,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
+4,1945,146,RSA,4,61,-269,Q de Kock,LA Dawson,5,16,31,50.07,1936,72.41,Left-hand bat,32,10,1,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
+4,1946,147,RSA,4,61,-269,Q de Kock,LA Dawson,5,16,32,50.07,1936,72.41,Left-hand bat,33,10,1,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
+4,1947,148,RSA,4,61,-269,Q de Kock,LA Dawson,5,16,33,50.07,1936,72.41,Left-hand bat,34,10,1,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
+4,1948,149,RSA,4,61,-269,Q de Kock,LA Dawson,5,16,34,50.07,1936,72.41,Left-hand bat,35,10,1,414.4,38.33,69.6,lo,2,ENG,spin,no,16.10125,13.173749999999998

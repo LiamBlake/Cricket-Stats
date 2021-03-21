@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,855,415,IND,9,199,-87,JJ Bumrah,K Rabada,11,0,0,1,14,14.28,Right-hand bat,85,33,2,4314,21.96,39.2,rf,0,RSA,seam,no,18.05,0.95
+2,856,416,IND,9,199,-87,JJ Bumrah,K Rabada,11,0,1,1,14,14.28,Right-hand bat,86,33,2,4314,21.96,39.2,rf,1,RSA,seam,no,18.05,0.95
+2,866,426,IND,9,201,-85,JJ Bumrah,K Rabada,11,2,3,1,14,14.28,Right-hand bat,90,34,2,4314,21.96,39.2,rf,0,RSA,seam,no,18.05,0.95
+2,867,427,IND,9,201,-85,JJ Bumrah,K Rabada,11,2,4,1,14,14.28,Right-hand bat,91,34,2,4314,21.96,39.2,rf,0,RSA,seam,no,18.05,0.95
+2,868,428,IND,9,201,-85,JJ Bumrah,K Rabada,11,2,5,1,14,14.28,Right-hand bat,92,34,2,4314,21.96,39.2,rf,4lb,RSA,seam,no,18.05,0.95
+2,869,429,IND,9,205,-81,JJ Bumrah,K Rabada,11,2,6,1,14,14.28,Right-hand bat,93,34,2,4314,21.96,39.2,rf,0,RSA,seam,no,18.05,0.95
+2,870,430,IND,9,205,-81,JJ Bumrah,K Rabada,11,2,7,1,14,14.28,Right-hand bat,94,34,2,4314,21.96,39.2,rf,0,RSA,seam,no,18.05,0.95
+2,871,431,IND,9,205,-81,JJ Bumrah,K Rabada,11,2,8,1,14,14.28,Right-hand bat,95,34,2,4314,21.96,39.2,rf,0,RSA,seam,no,18.05,0.95
+2,878,438,IND,9,209,-77,JJ Bumrah,K Rabada,11,2,9,1,14,14.28,Right-hand bat,96,34,2,4314,21.96,39.2,rf,0,RSA,seam,no,18.05,0.95
+2,879,439,IND,9,209,-77,JJ Bumrah,K Rabada,11,2,10,1,14,14.28,Right-hand bat,97,34,2,4314,21.96,39.2,rf,0,RSA,seam,no,18.05,0.95
+2,880,440,IND,9,209,-77,JJ Bumrah,K Rabada,11,2,11,1,14,14.28,Right-hand bat,98,34,2,4314,21.96,39.2,rf,0,RSA,seam,no,18.05,0.95
+2,881,441,IND,9,209,-77,JJ Bumrah,K Rabada,11,2,12,1,14,14.28,Right-hand bat,99,34,2,4314,21.96,39.2,rf,W,RSA,seam,no,18.05,0.95

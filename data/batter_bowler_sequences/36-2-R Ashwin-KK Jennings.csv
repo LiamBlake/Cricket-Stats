@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1896,951,IND,5,564,87,R Ashwin,KK Jennings,7,47,113,34.92,3297,55.08,Right-hand bat,3,1,0,30,NA,NA,rmf,0,IND,seam,no,17.814814814814813,35.629629629629626
+2,1897,952,IND,5,564,87,R Ashwin,KK Jennings,7,47,114,34.92,3297,55.08,Right-hand bat,4,1,0,30,NA,NA,rmf,0,IND,seam,no,17.814814814814813,35.629629629629626
+2,1898,953,IND,5,564,87,R Ashwin,KK Jennings,7,47,115,34.92,3297,55.08,Right-hand bat,5,1,0,30,NA,NA,rmf,4,IND,seam,no,17.814814814814813,35.629629629629626
+2,1906,961,IND,5,570,93,R Ashwin,KK Jennings,7,51,118,34.92,3297,55.08,Right-hand bat,7,6,0,30,NA,NA,rmf,0,IND,seam,no,17.814814814814813,35.629629629629626
+2,1907,962,IND,5,570,93,R Ashwin,KK Jennings,7,51,119,34.92,3297,55.08,Right-hand bat,8,6,0,30,NA,NA,rmf,1,IND,seam,no,17.814814814814813,35.629629629629626
+2,1910,965,IND,5,572,95,R Ashwin,KK Jennings,7,52,120,34.92,3297,55.08,Right-hand bat,11,8,0,30,NA,NA,rmf,0,IND,seam,no,17.814814814814813,35.629629629629626
+2,1929,984,IND,5,582,105,R Ashwin,KK Jennings,7,54,124,34.92,3297,55.08,Right-hand bat,18,12,0,30,NA,NA,rmf,0,IND,seam,no,17.814814814814813,35.629629629629626
+2,1930,985,IND,5,582,105,R Ashwin,KK Jennings,7,54,125,34.92,3297,55.08,Right-hand bat,19,12,0,30,NA,NA,rmf,0,IND,seam,no,17.814814814814813,35.629629629629626
+2,1931,986,IND,5,582,105,R Ashwin,KK Jennings,7,54,126,34.92,3297,55.08,Right-hand bat,20,12,0,30,NA,NA,rmf,0,IND,seam,no,17.814814814814813,35.629629629629626
+2,1932,987,IND,5,582,105,R Ashwin,KK Jennings,7,54,127,34.92,3297,55.08,Right-hand bat,21,12,0,30,NA,NA,rmf,0,IND,seam,no,17.814814814814813,35.629629629629626
+2,1933,988,IND,5,582,105,R Ashwin,KK Jennings,7,54,128,34.92,3297,55.08,Right-hand bat,22,12,0,30,NA,NA,rmf,0,IND,seam,no,17.814814814814813,35.629629629629626
+2,1934,989,IND,5,582,105,R Ashwin,KK Jennings,7,54,129,34.92,3297,55.08,Right-hand bat,23,12,0,30,NA,NA,rmf,0,IND,seam,no,17.814814814814813,35.629629629629626
+2,1944,999,IND,5,590,113,R Ashwin,KK Jennings,7,55,134,34.92,3297,55.08,Right-hand bat,27,17,0,30,NA,NA,rmf,2,IND,seam,no,17.814814814814813,35.629629629629626
+2,1945,1000,IND,5,592,115,R Ashwin,KK Jennings,7,57,135,34.92,3297,55.08,Right-hand bat,28,19,0,30,NA,NA,rmf,1,IND,seam,no,17.814814814814813,35.629629629629626

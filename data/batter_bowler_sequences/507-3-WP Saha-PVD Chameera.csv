@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1873,529,IND,7,312,399,WP Saha,PVD Chameera,7,5,11,23.66,677,41.94,Right-hand bat,78,57,0,372.5,36.83,62.8,rf,4,SRL,seam,yes,12.831024930747922,17.642659279778393
+3,1874,530,IND,7,316,403,WP Saha,PVD Chameera,7,9,12,23.66,677,41.94,Right-hand bat,79,61,0,372.5,36.83,62.8,rf,0,SRL,seam,yes,12.831024930747922,17.642659279778393
+3,1875,531,IND,7,316,403,WP Saha,PVD Chameera,7,9,13,23.66,677,41.94,Right-hand bat,80,61,0,372.5,36.83,62.8,rf,0,SRL,seam,yes,12.831024930747922,17.642659279778393
+3,1882,538,IND,8,318,405,WP Saha,PVD Chameera,7,10,15,23.66,677,41.94,Right-hand bat,81,61,0,372.5,36.83,62.8,rf,1,SRL,seam,yes,12.831024930747922,17.642659279778393
+3,1886,542,IND,8,320,407,WP Saha,PVD Chameera,7,11,16,23.66,677,41.94,Right-hand bat,85,63,0,372.5,36.83,62.8,rf,0,SRL,seam,yes,12.831024930747922,17.642659279778393
+3,1887,543,IND,8,320,407,WP Saha,PVD Chameera,7,11,17,23.66,677,41.94,Right-hand bat,86,63,0,372.5,36.83,62.8,rf,0,SRL,seam,yes,12.831024930747922,17.642659279778393

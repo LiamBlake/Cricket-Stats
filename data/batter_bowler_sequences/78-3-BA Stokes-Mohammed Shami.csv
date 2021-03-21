@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1178,200,ENG,4,98,71,BA Stokes,Mohammed Shami,6,0,2,34.13,4606,59.29,Left-hand bat,26,21,2,6336.4,29.19,51.1,rf,0,ENG,seam,yes,16.43625,7.91375
+3,1179,201,ENG,4,98,71,BA Stokes,Mohammed Shami,6,0,3,34.13,4606,59.29,Left-hand bat,27,21,2,6336.4,29.19,51.1,rf,0,ENG,seam,yes,16.43625,7.91375
+3,1180,202,ENG,4,98,71,BA Stokes,Mohammed Shami,6,0,4,34.13,4606,59.29,Left-hand bat,28,21,2,6336.4,29.19,51.1,rf,0,ENG,seam,yes,16.43625,7.91375
+3,1181,203,ENG,4,98,71,BA Stokes,Mohammed Shami,6,0,5,34.13,4606,59.29,Left-hand bat,29,21,2,6336.4,29.19,51.1,rf,1,ENG,seam,yes,16.43625,7.91375
+3,1204,226,ENG,4,106,79,BA Stokes,Mohammed Shami,6,1,18,34.13,4606,59.29,Left-hand bat,40,29,2,6336.4,29.19,51.1,rf,0,ENG,seam,yes,16.43625,7.91375
+3,1205,227,ENG,4,106,79,BA Stokes,Mohammed Shami,6,1,19,34.13,4606,59.29,Left-hand bat,41,29,2,6336.4,29.19,51.1,rf,0,ENG,seam,yes,16.43625,7.91375
+3,1288,310,ENG,5,137,110,BA Stokes,Mohammed Shami,6,13,61,34.13,4606,59.29,Left-hand bat,52,34,2,6336.4,29.19,51.1,rf,1,ENG,seam,yes,16.43625,7.91375
+3,1301,323,ENG,5,145,118,BA Stokes,Mohammed Shami,6,17,67,34.13,4606,59.29,Left-hand bat,59,38,2,6336.4,29.19,51.1,rf,1,ENG,seam,yes,16.43625,7.91375
+3,1310,332,ENG,5,149,122,BA Stokes,Mohammed Shami,6,20,74,34.13,4606,59.29,Left-hand bat,62,40,2,6336.4,29.19,51.1,rf,0,ENG,seam,yes,16.43625,7.91375
+3,1311,333,ENG,5,149,122,BA Stokes,Mohammed Shami,6,20,75,34.13,4606,59.29,Left-hand bat,63,40,2,6336.4,29.19,51.1,rf,0,ENG,seam,yes,16.43625,7.91375
+3,1312,334,ENG,5,149,122,BA Stokes,Mohammed Shami,6,20,76,34.13,4606,59.29,Left-hand bat,64,40,2,6336.4,29.19,51.1,rf,0,ENG,seam,yes,16.43625,7.91375
+3,1313,335,ENG,5,149,122,BA Stokes,Mohammed Shami,6,20,77,34.13,4606,59.29,Left-hand bat,65,40,2,6336.4,29.19,51.1,rf,0,ENG,seam,yes,16.43625,7.91375

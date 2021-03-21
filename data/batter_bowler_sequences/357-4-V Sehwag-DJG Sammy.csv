@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1340,24,IND,0,23,-252,V Sehwag,DJG Sammy,2,14,16,52.3,9569,81.98,Right-hand bat,0,0,0,3462.4,28.2,63,rm,1,IND,seam,no,11.074285714285715,16.611428571428572
+4,1342,26,IND,0,25,-250,V Sehwag,DJG Sammy,2,15,17,52.3,9569,81.98,Right-hand bat,2,2,0,3462.4,28.2,63,rm,1,IND,seam,no,11.074285714285715,16.611428571428572
+4,1345,29,IND,0,27,-248,V Sehwag,DJG Sammy,2,16,18,52.3,9569,81.98,Right-hand bat,5,4,0,3462.4,28.2,63,rm,1,IND,seam,no,11.074285714285715,16.611428571428572
+4,1356,40,IND,0,35,-240,V Sehwag,DJG Sammy,2,18,21,52.3,9569,81.98,Right-hand bat,10,10,0,3462.4,28.2,63,rm,0,IND,seam,no,11.074285714285715,16.611428571428572
+4,1357,41,IND,0,35,-240,V Sehwag,DJG Sammy,2,18,22,52.3,9569,81.98,Right-hand bat,11,10,0,3462.4,28.2,63,rm,2,IND,seam,no,11.074285714285715,16.611428571428572
+4,1412,96,IND,1,85,-190,V Sehwag,DJG Sammy,2,49,49,52.3,9569,81.98,Right-hand bat,18,17,0,3462.4,28.2,63,rm,0,IND,seam,no,11.074285714285715,16.611428571428572
+4,1413,97,IND,1,85,-190,V Sehwag,DJG Sammy,2,49,50,52.3,9569,81.98,Right-hand bat,19,17,0,3462.4,28.2,63,rm,0,IND,seam,no,11.074285714285715,16.611428571428572
+4,1414,98,IND,1,85,-190,V Sehwag,DJG Sammy,2,49,51,52.3,9569,81.98,Right-hand bat,20,17,0,3462.4,28.2,63,rm,1,IND,seam,no,11.074285714285715,16.611428571428572
+4,1424,108,IND,1,95,-180,V Sehwag,DJG Sammy,2,55,54,52.3,9569,81.98,Right-hand bat,24,22,0,3462.4,28.2,63,rm,W,IND,seam,no,11.074285714285715,16.611428571428572

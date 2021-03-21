@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,985,213,RSA,1,86,-299,GC Smith,RS Bopara,1,37,114,50.14,13588,60.14,Left-hand bat,8,7,0,432.2,290,434,rm,0,ENG,seam,no,46.933884297520656,10.429752066115704
+2,986,214,RSA,1,86,-299,GC Smith,RS Bopara,1,37,115,50.14,13588,60.14,Left-hand bat,9,7,0,432.2,290,434,rm,0,ENG,seam,no,46.933884297520656,10.429752066115704
+2,987,215,RSA,1,86,-299,GC Smith,RS Bopara,1,37,116,50.14,13588,60.14,Left-hand bat,10,7,0,432.2,290,434,rm,0,ENG,seam,no,46.933884297520656,10.429752066115704
+2,988,216,RSA,1,86,-299,GC Smith,RS Bopara,1,37,117,50.14,13588,60.14,Left-hand bat,11,7,0,432.2,290,434,rm,0,ENG,seam,no,46.933884297520656,10.429752066115704
+2,1111,339,RSA,1,151,-234,GC Smith,RS Bopara,1,79,175,50.14,13588,60.14,Left-hand bat,14,8,0,432.2,290,434,rm,0,ENG,seam,no,46.933884297520656,10.429752066115704
+2,1112,340,RSA,1,151,-234,GC Smith,RS Bopara,1,79,176,50.14,13588,60.14,Left-hand bat,15,8,0,432.2,290,434,rm,0,ENG,seam,no,46.933884297520656,10.429752066115704
+2,1113,341,RSA,1,151,-234,GC Smith,RS Bopara,1,79,177,50.14,13588,60.14,Left-hand bat,16,8,0,432.2,290,434,rm,4,ENG,seam,no,46.933884297520656,10.429752066115704
+2,1114,342,RSA,1,155,-230,GC Smith,RS Bopara,1,83,178,50.14,13588,60.14,Left-hand bat,17,12,0,432.2,290,434,rm,0,ENG,seam,no,46.933884297520656,10.429752066115704
+2,1124,352,RSA,1,159,-226,GC Smith,RS Bopara,1,84,181,50.14,13588,60.14,Left-hand bat,21,13,0,432.2,290,434,rm,0,ENG,seam,no,46.933884297520656,10.429752066115704
+2,1125,353,RSA,1,159,-226,GC Smith,RS Bopara,1,84,182,50.14,13588,60.14,Left-hand bat,22,13,0,432.2,290,434,rm,1,ENG,seam,no,46.933884297520656,10.429752066115704

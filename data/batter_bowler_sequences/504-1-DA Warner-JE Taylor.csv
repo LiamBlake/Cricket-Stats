@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,12,12,AUS,0,19,19,DA Warner,JE Taylor,2,15,5,49.94,5693,76.32,Left-hand bat,6,4,0,7728.5,34.25,59.4,rf,4,AUS,seam,no,34.162721893491124,15.183431952662723
+1,13,13,AUS,0,23,23,DA Warner,JE Taylor,2,19,6,49.94,5693,76.32,Left-hand bat,7,8,0,7728.5,34.25,59.4,rf,0,AUS,seam,no,34.162721893491124,15.183431952662723
+1,14,14,AUS,0,23,23,DA Warner,JE Taylor,2,19,7,49.94,5693,76.32,Left-hand bat,8,8,0,7728.5,34.25,59.4,rf,4,AUS,seam,no,34.162721893491124,15.183431952662723
+1,15,15,AUS,0,27,27,DA Warner,JE Taylor,2,23,8,49.94,5693,76.32,Left-hand bat,9,12,0,7728.5,34.25,59.4,rf,0,AUS,seam,no,34.162721893491124,15.183431952662723
+1,16,16,AUS,0,27,27,DA Warner,JE Taylor,2,23,9,49.94,5693,76.32,Left-hand bat,10,12,0,7728.5,34.25,59.4,rf,0,AUS,seam,no,34.162721893491124,15.183431952662723
+1,17,17,AUS,0,27,27,DA Warner,JE Taylor,2,23,10,49.94,5693,76.32,Left-hand bat,11,12,0,7728.5,34.25,59.4,rf,0,AUS,seam,no,34.162721893491124,15.183431952662723
+1,24,24,AUS,0,29,29,DA Warner,JE Taylor,2,23,11,49.94,5693,76.32,Left-hand bat,12,12,0,7728.5,34.25,59.4,rf,W,AUS,seam,no,34.162721893491124,15.183431952662723

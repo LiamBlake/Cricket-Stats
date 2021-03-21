@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,800,473,IND,2,221,25,V Kohli,ML Cummins,4,3,14,46.25,6030,53.69,Right-hand bat,72,44,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,801,474,IND,2,221,25,V Kohli,ML Cummins,4,3,15,46.25,6030,53.69,Right-hand bat,73,44,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,802,475,IND,2,221,25,V Kohli,ML Cummins,4,3,16,46.25,6030,53.69,Right-hand bat,74,44,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,803,476,IND,2,221,25,V Kohli,ML Cummins,4,3,17,46.25,6030,53.69,Right-hand bat,75,44,0,156.4,NA,NA,rfm,2,WIN,seam,no,17.344,26.016
+2,804,477,IND,2,223,27,V Kohli,ML Cummins,4,5,18,46.25,6030,53.69,Right-hand bat,76,46,0,156.4,NA,NA,rfm,1,WIN,seam,no,17.344,26.016
+2,824,497,IND,2,233,37,V Kohli,ML Cummins,4,8,24,46.25,6030,53.69,Right-hand bat,84,47,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,825,498,IND,2,233,37,V Kohli,ML Cummins,4,8,25,46.25,6030,53.69,Right-hand bat,85,47,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,826,499,IND,2,233,37,V Kohli,ML Cummins,4,8,26,46.25,6030,53.69,Right-hand bat,86,47,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,827,500,IND,2,233,37,V Kohli,ML Cummins,4,8,27,46.25,6030,53.69,Right-hand bat,87,47,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,828,501,IND,2,233,37,V Kohli,ML Cummins,4,8,28,46.25,6030,53.69,Right-hand bat,88,47,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,829,502,IND,2,233,37,V Kohli,ML Cummins,4,8,29,46.25,6030,53.69,Right-hand bat,89,47,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,884,557,IND,2,263,67,V Kohli,ML Cummins,4,21,51,46.25,6030,53.69,Right-hand bat,90,47,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,885,558,IND,2,263,67,V Kohli,ML Cummins,4,21,52,46.25,6030,53.69,Right-hand bat,91,47,0,156.4,NA,NA,rfm,2,WIN,seam,no,17.344,26.016
+2,886,559,IND,2,265,69,V Kohli,ML Cummins,4,23,53,46.25,6030,53.69,Right-hand bat,92,49,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,887,560,IND,2,265,69,V Kohli,ML Cummins,4,23,54,46.25,6030,53.69,Right-hand bat,93,49,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,888,561,IND,2,265,69,V Kohli,ML Cummins,4,23,55,46.25,6030,53.69,Right-hand bat,94,49,0,156.4,NA,NA,rfm,5wd,WIN,seam,no,17.344,26.016

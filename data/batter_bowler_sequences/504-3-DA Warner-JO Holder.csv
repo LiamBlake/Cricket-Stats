@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1430,6,AUS,0,6,286,DA Warner,JO Holder,2,1,1,49.94,5693,76.32,Left-hand bat,0,0,0,1800.5,38.28,85.9,rmf,1,AUS,seam,no,34.162721893491124,15.183431952662723
+3,1454,30,AUS,1,26,306,DA Warner,JO Holder,2,6,5,49.94,5693,76.32,Left-hand bat,12,1,1,1800.5,38.28,85.9,rmf,1,AUS,seam,no,34.162721893491124,15.183431952662723
+3,1466,42,AUS,1,38,318,DA Warner,JO Holder,2,13,10,49.94,5693,76.32,Left-hand bat,18,6,1,1800.5,38.28,85.9,rmf,1,AUS,seam,no,34.162721893491124,15.183431952662723
+3,1469,45,AUS,1,40,320,DA Warner,JO Holder,2,14,11,49.94,5693,76.32,Left-hand bat,21,8,1,1800.5,38.28,85.9,rmf,1,AUS,seam,no,34.162721893491124,15.183431952662723
+3,1478,54,AUS,1,42,322,DA Warner,JO Holder,2,15,14,49.94,5693,76.32,Left-hand bat,24,9,1,1800.5,38.28,85.9,rmf,0,AUS,seam,no,34.162721893491124,15.183431952662723
+3,1479,55,AUS,1,42,322,DA Warner,JO Holder,2,15,15,49.94,5693,76.32,Left-hand bat,25,9,1,1800.5,38.28,85.9,rmf,0,AUS,seam,no,34.162721893491124,15.183431952662723
+3,1480,56,AUS,1,42,322,DA Warner,JO Holder,2,15,16,49.94,5693,76.32,Left-hand bat,26,9,1,1800.5,38.28,85.9,rmf,0,AUS,seam,no,34.162721893491124,15.183431952662723
+3,1481,57,AUS,1,42,322,DA Warner,JO Holder,2,15,17,49.94,5693,76.32,Left-hand bat,27,9,1,1800.5,38.28,85.9,rmf,0,AUS,seam,no,34.162721893491124,15.183431952662723
+3,1482,58,AUS,1,42,322,DA Warner,JO Holder,2,15,18,49.94,5693,76.32,Left-hand bat,28,9,1,1800.5,38.28,85.9,rmf,2,AUS,seam,no,34.162721893491124,15.183431952662723

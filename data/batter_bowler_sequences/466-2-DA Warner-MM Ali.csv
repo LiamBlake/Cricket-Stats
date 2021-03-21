@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,664,49,AUS,0,26,-404,DA Warner,MM Ali,2,5,19,46.47,4472,73.79,Left-hand bat,0,0,0,1968.3,31.73,51.8,rob,0,ENG,spin,no,21.414375,10.310625
+2,665,50,AUS,0,26,-404,DA Warner,MM Ali,2,5,20,46.47,4472,73.79,Left-hand bat,1,0,0,1968.3,31.73,51.8,rob,0,ENG,spin,no,21.414375,10.310625
+2,666,51,AUS,0,26,-404,DA Warner,MM Ali,2,5,21,46.47,4472,73.79,Left-hand bat,2,0,0,1968.3,31.73,51.8,rob,0,ENG,spin,no,21.414375,10.310625
+2,667,52,AUS,0,26,-404,DA Warner,MM Ali,2,5,22,46.47,4472,73.79,Left-hand bat,3,0,0,1968.3,31.73,51.8,rob,0,ENG,spin,no,21.414375,10.310625
+2,668,53,AUS,0,26,-404,DA Warner,MM Ali,2,5,23,46.47,4472,73.79,Left-hand bat,4,0,0,1968.3,31.73,51.8,rob,0,ENG,spin,no,21.414375,10.310625
+2,669,54,AUS,0,26,-404,DA Warner,MM Ali,2,5,24,46.47,4472,73.79,Left-hand bat,5,0,0,1968.3,31.73,51.8,rob,0,ENG,spin,no,21.414375,10.310625

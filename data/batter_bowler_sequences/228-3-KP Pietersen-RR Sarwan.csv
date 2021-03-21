@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2566,460,ENG,2,255,106,KP Pietersen,RR Sarwan,4,61,101,50.97,6920,62.61,Right-hand bat,1,1,0,2016,50.26,87.6,rls,4,WIN,spin,yes,50.69896193771626,45.06574394463668
+3,2567,461,ENG,2,259,110,KP Pietersen,RR Sarwan,4,65,102,50.97,6920,62.61,Right-hand bat,2,5,0,2016,50.26,87.6,rls,0,WIN,spin,yes,50.69896193771626,45.06574394463668
+3,2568,462,ENG,2,259,110,KP Pietersen,RR Sarwan,4,65,103,50.97,6920,62.61,Right-hand bat,3,5,0,2016,50.26,87.6,rls,0,WIN,spin,yes,50.69896193771626,45.06574394463668
+3,2569,463,ENG,2,259,110,KP Pietersen,RR Sarwan,4,65,104,50.97,6920,62.61,Right-hand bat,4,5,0,2016,50.26,87.6,rls,0,WIN,spin,yes,50.69896193771626,45.06574394463668
+3,2570,464,ENG,2,259,110,KP Pietersen,RR Sarwan,4,65,105,50.97,6920,62.61,Right-hand bat,5,5,0,2016,50.26,87.6,rls,0,WIN,spin,yes,50.69896193771626,45.06574394463668
+3,2578,472,ENG,2,263,114,KP Pietersen,RR Sarwan,4,66,108,50.97,6920,62.61,Right-hand bat,7,6,0,2016,50.26,87.6,rls,0,WIN,spin,yes,50.69896193771626,45.06574394463668
+3,2579,473,ENG,2,263,114,KP Pietersen,RR Sarwan,4,66,109,50.97,6920,62.61,Right-hand bat,8,6,0,2016,50.26,87.6,rls,0,WIN,spin,yes,50.69896193771626,45.06574394463668
+3,2580,474,ENG,2,263,114,KP Pietersen,RR Sarwan,4,66,110,50.97,6920,62.61,Right-hand bat,9,6,0,2016,50.26,87.6,rls,1,WIN,spin,yes,50.69896193771626,45.06574394463668
+3,2591,485,ENG,2,275,126,KP Pietersen,RR Sarwan,4,68,112,50.97,6920,62.61,Right-hand bat,14,12,0,2016,50.26,87.6,rls,0,WIN,spin,yes,50.69896193771626,45.06574394463668
+3,2592,486,ENG,2,275,126,KP Pietersen,RR Sarwan,4,68,113,50.97,6920,62.61,Right-hand bat,15,12,0,2016,50.26,87.6,rls,0,WIN,spin,yes,50.69896193771626,45.06574394463668
+3,2593,487,ENG,2,275,126,KP Pietersen,RR Sarwan,4,68,114,50.97,6920,62.61,Right-hand bat,16,12,0,2016,50.26,87.6,rls,4,WIN,spin,yes,50.69896193771626,45.06574394463668
+3,2594,488,ENG,2,279,130,KP Pietersen,RR Sarwan,4,72,115,50.97,6920,62.61,Right-hand bat,17,16,0,2016,50.26,87.6,rls,0,WIN,spin,yes,50.69896193771626,45.06574394463668

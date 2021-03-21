@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,429,97,IND,2,88,-94,SR Tendulkar,ST Gabriel,3,2,5,53.78,NA,NA,Right-hand bat,25,26,0,450.1,23.18,41,rf,0,IND,seam,yes,5.760000000000001,23.040000000000003
+2,430,98,IND,2,88,-94,SR Tendulkar,ST Gabriel,3,2,6,53.78,NA,NA,Right-hand bat,26,26,0,450.1,23.18,41,rf,0,IND,seam,yes,5.760000000000001,23.040000000000003
+2,431,99,IND,2,88,-94,SR Tendulkar,ST Gabriel,3,2,7,53.78,NA,NA,Right-hand bat,27,26,0,450.1,23.18,41,rf,0,IND,seam,yes,5.760000000000001,23.040000000000003
+2,432,100,IND,2,88,-94,SR Tendulkar,ST Gabriel,3,2,8,53.78,NA,NA,Right-hand bat,28,26,0,450.1,23.18,41,rf,1,IND,seam,yes,5.760000000000001,23.040000000000003
+2,445,113,IND,2,100,-82,SR Tendulkar,ST Gabriel,3,12,14,53.78,NA,NA,Right-hand bat,35,28,0,450.1,23.18,41,rf,4,IND,seam,yes,5.760000000000001,23.040000000000003
+2,446,114,IND,2,104,-78,SR Tendulkar,ST Gabriel,3,16,15,53.78,NA,NA,Right-hand bat,36,32,0,450.1,23.18,41,rf,0,IND,seam,yes,5.760000000000001,23.040000000000003
+2,601,269,IND,2,204,22,SR Tendulkar,ST Gabriel,3,67,109,53.78,NA,NA,Right-hand bat,41,35,0,450.1,23.18,41,rf,0,IND,seam,yes,5.760000000000001,23.040000000000003
+2,602,270,IND,2,204,22,SR Tendulkar,ST Gabriel,3,67,110,53.78,NA,NA,Right-hand bat,42,35,0,450.1,23.18,41,rf,4,IND,seam,yes,5.760000000000001,23.040000000000003
+2,612,280,IND,2,216,34,SR Tendulkar,ST Gabriel,3,71,112,53.78,NA,NA,Right-hand bat,46,42,0,450.1,23.18,41,rf,0,IND,seam,yes,5.760000000000001,23.040000000000003
+2,613,281,IND,2,216,34,SR Tendulkar,ST Gabriel,3,71,113,53.78,NA,NA,Right-hand bat,47,42,0,450.1,23.18,41,rf,0,IND,seam,yes,5.760000000000001,23.040000000000003
+2,614,282,IND,2,216,34,SR Tendulkar,ST Gabriel,3,71,114,53.78,NA,NA,Right-hand bat,48,42,0,450.1,23.18,41,rf,0,IND,seam,yes,5.760000000000001,23.040000000000003

@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1501,523,ENG,7,246,219,AU Rashid,Mohammed Shami,9,4,6,18.04,999,37.93,Right-hand bat,67,41,2,6336.4,29.19,51.1,rf,0,ENG,seam,yes,16.43625,7.91375
+3,1502,524,ENG,7,246,219,AU Rashid,Mohammed Shami,9,4,7,18.04,999,37.93,Right-hand bat,68,41,2,6336.4,29.19,51.1,rf,1,ENG,seam,yes,16.43625,7.91375
+3,1513,535,ENG,7,254,227,AU Rashid,Mohammed Shami,9,6,11,18.04,999,37.93,Right-hand bat,73,47,2,6336.4,29.19,51.1,rf,4,ENG,seam,yes,16.43625,7.91375
+3,1514,536,ENG,7,258,231,AU Rashid,Mohammed Shami,9,10,12,18.04,999,37.93,Right-hand bat,74,51,2,6336.4,29.19,51.1,rf,1,ENG,seam,yes,16.43625,7.91375
+3,1526,548,ENG,7,260,233,AU Rashid,Mohammed Shami,9,11,19,18.04,999,37.93,Right-hand bat,80,53,2,6336.4,29.19,51.1,rf,0,ENG,seam,yes,16.43625,7.91375
+3,1527,549,ENG,7,260,233,AU Rashid,Mohammed Shami,9,11,20,18.04,999,37.93,Right-hand bat,81,53,2,6336.4,29.19,51.1,rf,0,ENG,seam,yes,16.43625,7.91375
+3,1528,550,ENG,7,260,233,AU Rashid,Mohammed Shami,9,11,21,18.04,999,37.93,Right-hand bat,82,53,2,6336.4,29.19,51.1,rf,W,ENG,seam,yes,16.43625,7.91375

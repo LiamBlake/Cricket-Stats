@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2413,670,RSA,4,374,-39,JP Duminy,MJ Clarke,6,33,96,51,130,39.23,Left-hand bat,20,18,0,1338.4,35.44,74.5,lo,0,AUS,spin,no,33.64359861591695,7.209342560553633
+4,2414,671,RSA,4,374,-39,JP Duminy,MJ Clarke,6,33,97,51,130,39.23,Left-hand bat,21,18,0,1338.4,35.44,74.5,lo,0,AUS,spin,no,33.64359861591695,7.209342560553633
+4,2415,672,RSA,4,374,-39,JP Duminy,MJ Clarke,6,33,98,51,130,39.23,Left-hand bat,22,18,0,1338.4,35.44,74.5,lo,0,AUS,spin,no,33.64359861591695,7.209342560553633
+4,2416,673,RSA,4,374,-39,JP Duminy,MJ Clarke,6,33,99,51,130,39.23,Left-hand bat,23,18,0,1338.4,35.44,74.5,lo,0,AUS,spin,no,33.64359861591695,7.209342560553633
+4,2435,692,RSA,4,380,-33,JP Duminy,MJ Clarke,6,35,107,51,130,39.23,Left-hand bat,30,20,0,1338.4,35.44,74.5,lo,4,AUS,spin,no,33.64359861591695,7.209342560553633
+4,2436,693,RSA,4,384,-29,JP Duminy,MJ Clarke,6,39,108,51,130,39.23,Left-hand bat,31,24,0,1338.4,35.44,74.5,lo,1,AUS,spin,no,33.64359861591695,7.209342560553633
+4,2452,709,RSA,4,396,-17,JP Duminy,MJ Clarke,6,44,112,51,130,39.23,Left-hand bat,41,29,0,1338.4,35.44,74.5,lo,2,AUS,spin,no,33.64359861591695,7.209342560553633
+4,2464,721,RSA,4,410,-3,JP Duminy,MJ Clarke,6,46,116,51,130,39.23,Left-hand bat,47,34,0,1338.4,35.44,74.5,lo,1,AUS,spin,no,33.64359861591695,7.209342560553633

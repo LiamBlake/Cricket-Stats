@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1800,103,SRL,0,63,-428,SM Warnapura,Shoaib Malik,2,22,54,35.69,1412,58.14,Left-hand bat,7,1,0,2010,67.82,118.2,rob,0,SRL,spin,yes,19.80532598714417,21.043158861340682
+4,1801,104,SRL,0,63,-428,SM Warnapura,Shoaib Malik,2,22,55,35.69,1412,58.14,Left-hand bat,8,1,0,2010,67.82,118.2,rob,0,SRL,spin,yes,19.80532598714417,21.043158861340682
+4,1802,105,SRL,0,63,-428,SM Warnapura,Shoaib Malik,2,22,56,35.69,1412,58.14,Left-hand bat,9,1,0,2010,67.82,118.2,rob,0,SRL,spin,yes,19.80532598714417,21.043158861340682
+4,1803,106,SRL,0,63,-428,SM Warnapura,Shoaib Malik,2,22,57,35.69,1412,58.14,Left-hand bat,10,1,0,2010,67.82,118.2,rob,1,SRL,spin,yes,19.80532598714417,21.043158861340682

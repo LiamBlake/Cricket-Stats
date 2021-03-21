@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1863,264,SRL,4,148,124,JK Silva,SPD Smith,2,51,142,30.89,4267,40.54,Right-hand bat,0,0,0,1206,54.31,75.3,rls,2,SRL,spin,yes,7.734764542936287,24.923130193905813
+3,1864,265,SRL,4,150,126,JK Silva,SPD Smith,2,53,143,30.89,4267,40.54,Right-hand bat,1,2,0,1206,54.31,75.3,rls,1,SRL,spin,yes,7.734764542936287,24.923130193905813
+3,1867,268,SRL,4,152,128,JK Silva,SPD Smith,2,54,144,30.89,4267,40.54,Right-hand bat,4,4,0,1206,54.31,75.3,rls,0,SRL,spin,yes,7.734764542936287,24.923130193905813
+3,1868,269,SRL,4,152,128,JK Silva,SPD Smith,2,54,145,30.89,4267,40.54,Right-hand bat,5,4,0,1206,54.31,75.3,rls,0,SRL,spin,yes,7.734764542936287,24.923130193905813

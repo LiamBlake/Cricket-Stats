@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,506,506,RSA,9,243,243,DW Steyn,Umar Gul,10,2,4,13.95,2012,42.29,Right-hand bat,108,46,2,9426.5,33.53,58.2,rfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+1,507,507,RSA,9,243,243,DW Steyn,Umar Gul,10,2,5,13.95,2012,42.29,Right-hand bat,109,46,2,9426.5,33.53,58.2,rfm,4,RSA,seam,yes,20.950413223140497,4.65564738292011
+1,508,508,RSA,9,247,247,DW Steyn,Umar Gul,10,6,6,13.95,2012,42.29,Right-hand bat,110,50,2,9426.5,33.53,58.2,rfm,6,RSA,seam,yes,20.950413223140497,4.65564738292011
+1,509,509,RSA,9,253,253,DW Steyn,Umar Gul,10,12,7,13.95,2012,42.29,Right-hand bat,111,56,2,9426.5,33.53,58.2,rfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+1,510,510,RSA,9,253,253,DW Steyn,Umar Gul,10,12,8,13.95,2012,42.29,Right-hand bat,112,56,2,9426.5,33.53,58.2,rfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011
+1,511,511,RSA,9,253,253,DW Steyn,Umar Gul,10,12,9,13.95,2012,42.29,Right-hand bat,113,56,2,9426.5,33.53,58.2,rfm,0,RSA,seam,yes,20.950413223140497,4.65564738292011

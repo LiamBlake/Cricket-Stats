@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1870,267,WIN,5,122,-185,JO Holder,TG Southee,7,0,0,45,155,58.06,Right-hand bat,69,21,2,7104.1,29.83,57.7,rmf,0,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1871,268,WIN,5,122,-185,JO Holder,TG Southee,7,0,1,45,155,58.06,Right-hand bat,70,21,2,7104.1,29.83,57.7,rmf,0,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1872,269,WIN,5,122,-185,JO Holder,TG Southee,7,0,2,45,155,58.06,Right-hand bat,71,21,2,7104.1,29.83,57.7,rmf,0,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1873,270,WIN,5,122,-185,JO Holder,TG Southee,7,0,3,45,155,58.06,Right-hand bat,72,21,2,7104.1,29.83,57.7,rmf,1,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1885,282,WIN,6,130,-177,JO Holder,TG Southee,7,7,10,45,155,58.06,Right-hand bat,78,23,3,7104.1,29.83,57.7,rmf,0,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1904,301,WIN,6,138,-169,JO Holder,TG Southee,7,9,19,45,155,58.06,Right-hand bat,85,27,3,7104.1,29.83,57.7,rmf,0,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1905,302,WIN,6,138,-169,JO Holder,TG Southee,7,9,20,45,155,58.06,Right-hand bat,86,27,3,7104.1,29.83,57.7,rmf,0,WIN,seam,no,23.56829802775749,8.728999269539809
+4,1906,303,WIN,6,138,-169,JO Holder,TG Southee,7,9,21,45,155,58.06,Right-hand bat,87,27,3,7104.1,29.83,57.7,rmf,1,WIN,seam,no,23.56829802775749,8.728999269539809

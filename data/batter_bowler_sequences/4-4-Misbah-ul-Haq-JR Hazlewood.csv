@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1719,364,PAK,3,146,-343,Misbah-ul-Haq,JR Hazlewood,5,0,0,46.96,10973,44.5,Right-hand bat,123,29,0,5178.2,26.07,53.4,rfm,0,AUS,seam,no,29.951020408163263,4.9918367346938775
+4,1720,365,PAK,3,146,-343,Misbah-ul-Haq,JR Hazlewood,5,0,1,46.96,10973,44.5,Right-hand bat,124,29,0,5178.2,26.07,53.4,rfm,0,AUS,seam,no,29.951020408163263,4.9918367346938775
+4,1721,366,PAK,3,146,-343,Misbah-ul-Haq,JR Hazlewood,5,0,2,46.96,10973,44.5,Right-hand bat,125,29,0,5178.2,26.07,53.4,rfm,0,AUS,seam,no,29.951020408163263,4.9918367346938775
+4,1729,374,PAK,3,152,-337,Misbah-ul-Haq,JR Hazlewood,5,0,4,46.96,10973,44.5,Right-hand bat,127,30,0,5178.2,26.07,53.4,rfm,0,AUS,seam,no,29.951020408163263,4.9918367346938775
+4,1730,375,PAK,3,152,-337,Misbah-ul-Haq,JR Hazlewood,5,0,5,46.96,10973,44.5,Right-hand bat,128,30,0,5178.2,26.07,53.4,rfm,0,AUS,seam,no,29.951020408163263,4.9918367346938775
+4,1731,376,PAK,3,152,-337,Misbah-ul-Haq,JR Hazlewood,5,0,6,46.96,10973,44.5,Right-hand bat,129,30,0,5178.2,26.07,53.4,rfm,1lb,AUS,seam,no,29.951020408163263,4.9918367346938775

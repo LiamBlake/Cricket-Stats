@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,136,136,WIN,1,62,62,DS Smith,SR Harmer,2,42,69,24.59,3167,47.36,Left-hand bat,9,3,0,300,21.85,42.8,rob,0,RSA,spin,yes,18.0791015625,15.9521484375
+1,137,137,WIN,1,62,62,DS Smith,SR Harmer,2,42,70,24.59,3167,47.36,Left-hand bat,10,3,0,300,21.85,42.8,rob,0,RSA,spin,yes,18.0791015625,15.9521484375
+1,138,138,WIN,1,62,62,DS Smith,SR Harmer,2,42,71,24.59,3167,47.36,Left-hand bat,11,3,0,300,21.85,42.8,rob,4,RSA,spin,yes,18.0791015625,15.9521484375
+1,157,157,WIN,1,80,80,DS Smith,SR Harmer,2,47,80,24.59,3167,47.36,Left-hand bat,18,15,0,300,21.85,42.8,rob,0,RSA,spin,yes,18.0791015625,15.9521484375
+1,158,158,WIN,1,80,80,DS Smith,SR Harmer,2,47,81,24.59,3167,47.36,Left-hand bat,19,15,0,300,21.85,42.8,rob,0,RSA,spin,yes,18.0791015625,15.9521484375
+1,159,159,WIN,1,80,80,DS Smith,SR Harmer,2,47,82,24.59,3167,47.36,Left-hand bat,20,15,0,300,21.85,42.8,rob,0,RSA,spin,yes,18.0791015625,15.9521484375
+1,160,160,WIN,1,80,80,DS Smith,SR Harmer,2,47,83,24.59,3167,47.36,Left-hand bat,21,15,0,300,21.85,42.8,rob,0,RSA,spin,yes,18.0791015625,15.9521484375
+1,161,161,WIN,1,80,80,DS Smith,SR Harmer,2,47,84,24.59,3167,47.36,Left-hand bat,22,15,0,300,21.85,42.8,rob,0,RSA,spin,yes,18.0791015625,15.9521484375
+1,162,162,WIN,1,80,80,DS Smith,SR Harmer,2,47,85,24.59,3167,47.36,Left-hand bat,23,15,0,300,21.85,42.8,rob,W,RSA,spin,yes,18.0791015625,15.9521484375

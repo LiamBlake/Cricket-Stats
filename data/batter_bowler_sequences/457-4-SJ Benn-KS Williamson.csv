@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2052,449,WIN,8,224,-83,SJ Benn,KS Williamson,10,2,3,15.1,736,59.51,Left-hand bat,14,8,0,1740.1,40.66,72.5,rob,4,WIN,spin,no,23.56829802775749,8.728999269539809
+4,2053,450,WIN,8,228,-79,SJ Benn,KS Williamson,10,6,4,15.1,736,59.51,Left-hand bat,15,12,0,1740.1,40.66,72.5,rob,0,WIN,spin,no,23.56829802775749,8.728999269539809
+4,2054,451,WIN,8,228,-79,SJ Benn,KS Williamson,10,6,5,15.1,736,59.51,Left-hand bat,16,12,0,1740.1,40.66,72.5,rob,0,WIN,spin,no,23.56829802775749,8.728999269539809
+4,2055,452,WIN,8,228,-79,SJ Benn,KS Williamson,10,6,6,15.1,736,59.51,Left-hand bat,17,12,0,1740.1,40.66,72.5,rob,4,WIN,spin,no,23.56829802775749,8.728999269539809

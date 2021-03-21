@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2300,236,ZIM,8,101,-240,T Panyangara,Abdur Rehman,10,6,12,27.6,217,63.59,Right-hand bat,55,18,3,5544.2,28.15,65.2,lo,0,ZIM,spin,yes,13.928336620644313,14.661406969099277
+4,2301,237,ZIM,8,101,-240,T Panyangara,Abdur Rehman,10,6,13,27.6,217,63.59,Right-hand bat,56,18,3,5544.2,28.15,65.2,lo,0,ZIM,spin,yes,13.928336620644313,14.661406969099277
+4,2302,238,ZIM,8,101,-240,T Panyangara,Abdur Rehman,10,6,14,27.6,217,63.59,Right-hand bat,57,18,3,5544.2,28.15,65.2,lo,W,ZIM,spin,yes,13.928336620644313,14.661406969099277

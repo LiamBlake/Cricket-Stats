@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1246,247,ENG,7,130,143,AU Rashid,R Ashwin,9,14,26,18,894,36.24,Right-hand bat,102,42,3,16914.1,25.17,52.3,rob,0,ENG,spin,yes,16.366875,6.208125
+3,1247,248,ENG,7,130,143,AU Rashid,R Ashwin,9,14,27,18,894,36.24,Right-hand bat,103,42,3,16914.1,25.17,52.3,rob,0,ENG,spin,yes,16.366875,6.208125
+3,1248,249,ENG,7,130,143,AU Rashid,R Ashwin,9,14,28,18,894,36.24,Right-hand bat,104,42,3,16914.1,25.17,52.3,rob,0,ENG,spin,yes,16.366875,6.208125
+3,1249,250,ENG,7,130,143,AU Rashid,R Ashwin,9,14,29,18,894,36.24,Right-hand bat,105,42,3,16914.1,25.17,52.3,rob,0,ENG,spin,yes,16.366875,6.208125
+3,1250,251,ENG,7,130,143,AU Rashid,R Ashwin,9,14,30,18,894,36.24,Right-hand bat,106,42,3,16914.1,25.17,52.3,rob,0,ENG,spin,yes,16.366875,6.208125
+3,1251,252,ENG,7,130,143,AU Rashid,R Ashwin,9,14,31,18,894,36.24,Right-hand bat,107,42,3,16914.1,25.17,52.3,rob,1,ENG,spin,yes,16.366875,6.208125

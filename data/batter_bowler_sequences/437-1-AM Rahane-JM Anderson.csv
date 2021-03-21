@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,28,28,IND,3,8,8,AM Rahane,JM Anderson,5,0,0,44.93,1282,52.57,Right-hand bat,16,0,2,21960.4,29.86,58.4,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778
+1,29,29,IND,3,8,8,AM Rahane,JM Anderson,5,0,1,44.93,1282,52.57,Right-hand bat,17,0,2,21960.4,29.86,58.4,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778
+1,36,36,IND,4,8,8,AM Rahane,JM Anderson,5,0,2,44.93,1282,52.57,Right-hand bat,18,0,2,21960.4,29.86,58.4,rfm,3,ENG,seam,yes,18.888888888888893,3.777777777777778
+1,76,76,IND,4,24,24,AM Rahane,JM Anderson,5,7,21,44.93,1282,52.57,Right-hand bat,40,12,2,21960.4,29.86,58.4,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778
+1,77,77,IND,4,24,24,AM Rahane,JM Anderson,5,7,22,44.93,1282,52.57,Right-hand bat,41,12,2,21960.4,29.86,58.4,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778
+1,84,84,IND,4,30,30,AM Rahane,JM Anderson,5,8,24,44.93,1282,52.57,Right-hand bat,42,12,2,21960.4,29.86,58.4,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778
+1,85,85,IND,4,30,30,AM Rahane,JM Anderson,5,8,25,44.93,1282,52.57,Right-hand bat,43,12,2,21960.4,29.86,58.4,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778
+1,86,86,IND,4,30,30,AM Rahane,JM Anderson,5,8,26,44.93,1282,52.57,Right-hand bat,44,12,2,21960.4,29.86,58.4,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778
+1,87,87,IND,4,30,30,AM Rahane,JM Anderson,5,8,27,44.93,1282,52.57,Right-hand bat,45,12,2,21960.4,29.86,58.4,rfm,2,ENG,seam,yes,18.888888888888893,3.777777777777778
+1,88,88,IND,4,32,32,AM Rahane,JM Anderson,5,10,28,44.93,1282,52.57,Right-hand bat,46,14,2,21960.4,29.86,58.4,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778
+1,89,89,IND,4,32,32,AM Rahane,JM Anderson,5,10,29,44.93,1282,52.57,Right-hand bat,47,14,2,21960.4,29.86,58.4,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778
+1,96,96,IND,4,36,36,AM Rahane,JM Anderson,5,10,30,44.93,1282,52.57,Right-hand bat,48,14,2,21960.4,29.86,58.4,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778
+1,97,97,IND,4,36,36,AM Rahane,JM Anderson,5,10,31,44.93,1282,52.57,Right-hand bat,49,14,2,21960.4,29.86,58.4,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778
+1,98,98,IND,4,36,36,AM Rahane,JM Anderson,5,10,32,44.93,1282,52.57,Right-hand bat,50,14,2,21960.4,29.86,58.4,rfm,0,ENG,seam,yes,18.888888888888893,3.777777777777778
+1,99,99,IND,4,36,36,AM Rahane,JM Anderson,5,10,33,44.93,1282,52.57,Right-hand bat,51,14,2,21960.4,29.86,58.4,rfm,3,ENG,seam,yes,18.888888888888893,3.777777777777778

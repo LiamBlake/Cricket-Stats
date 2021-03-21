@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1058,670,SRL,5,375,143,AD Mathews,Al-Amin Hossain,7,0,4,46.12,4813,46.95,Right-hand bat,152,87,1,288,88,144,rmf,0,BAN,seam,yes,23.307692307692307,23.307692307692307
+2,1059,671,SRL,5,375,143,AD Mathews,Al-Amin Hossain,7,0,5,46.12,4813,46.95,Right-hand bat,153,87,1,288,88,144,rmf,0,BAN,seam,yes,23.307692307692307,23.307692307692307
+2,1060,672,SRL,5,375,143,AD Mathews,Al-Amin Hossain,7,0,6,46.12,4813,46.95,Right-hand bat,154,87,1,288,88,144,rmf,0,BAN,seam,yes,23.307692307692307,23.307692307692307
+2,1061,673,SRL,5,375,143,AD Mathews,Al-Amin Hossain,7,0,7,46.12,4813,46.95,Right-hand bat,155,87,1,288,88,144,rmf,0,BAN,seam,yes,23.307692307692307,23.307692307692307
+2,1062,674,SRL,5,375,143,AD Mathews,Al-Amin Hossain,7,0,8,46.12,4813,46.95,Right-hand bat,156,87,1,288,88,144,rmf,1,BAN,seam,yes,23.307692307692307,23.307692307692307
+2,1070,682,SRL,5,377,145,AD Mathews,Al-Amin Hossain,7,2,11,46.12,4813,46.95,Right-hand bat,158,88,1,288,88,144,rmf,1,BAN,seam,yes,23.307692307692307,23.307692307692307
+2,1075,687,SRL,5,381,149,AD Mathews,Al-Amin Hossain,7,3,12,46.12,4813,46.95,Right-hand bat,163,92,1,288,88,144,rmf,0,BAN,seam,yes,23.307692307692307,23.307692307692307
+2,1096,708,SRL,5,391,159,AD Mathews,Al-Amin Hossain,7,10,22,46.12,4813,46.95,Right-hand bat,172,93,1,288,88,144,rmf,1,BAN,seam,yes,23.307692307692307,23.307692307692307
+2,1106,718,SRL,5,401,169,AD Mathews,Al-Amin Hossain,7,16,28,46.12,4813,46.95,Right-hand bat,176,98,1,288,88,144,rmf,0,BAN,seam,yes,23.307692307692307,23.307692307692307
+2,1107,719,SRL,5,401,169,AD Mathews,Al-Amin Hossain,7,16,29,46.12,4813,46.95,Right-hand bat,177,98,1,288,88,144,rmf,1,BAN,seam,yes,23.307692307692307,23.307692307692307
+2,1111,723,SRL,5,403,171,AD Mathews,Al-Amin Hossain,7,17,30,46.12,4813,46.95,Right-hand bat,181,100,1,288,88,144,rmf,0,BAN,seam,yes,23.307692307692307,23.307692307692307

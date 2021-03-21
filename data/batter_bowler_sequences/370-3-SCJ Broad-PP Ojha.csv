@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2256,849,ENG,7,365,35,SCJ Broad,PP Ojha,9,0,0,26.32,2484,64.65,Left-hand bat,303,108,4,5652.4,30.38,67.3,lo,0,IND,spin,no,11.395957193816885,29.914387633769323
+3,2257,850,ENG,7,365,35,SCJ Broad,PP Ojha,9,0,1,26.32,2484,64.65,Left-hand bat,304,108,4,5652.4,30.38,67.3,lo,0,IND,spin,no,11.395957193816885,29.914387633769323
+3,2258,851,ENG,7,365,35,SCJ Broad,PP Ojha,9,0,2,26.32,2484,64.65,Left-hand bat,305,108,4,5652.4,30.38,67.3,lo,0,IND,spin,no,11.395957193816885,29.914387633769323
+3,2265,858,ENG,7,371,41,SCJ Broad,PP Ojha,9,0,3,26.32,2484,64.65,Left-hand bat,306,108,4,5652.4,30.38,67.3,lo,0,IND,spin,no,11.395957193816885,29.914387633769323
+3,2266,859,ENG,7,371,41,SCJ Broad,PP Ojha,9,0,4,26.32,2484,64.65,Left-hand bat,307,108,4,5652.4,30.38,67.3,lo,0,IND,spin,no,11.395957193816885,29.914387633769323
+3,2267,860,ENG,7,371,41,SCJ Broad,PP Ojha,9,0,5,26.32,2484,64.65,Left-hand bat,308,108,4,5652.4,30.38,67.3,lo,0,IND,spin,no,11.395957193816885,29.914387633769323
+3,2268,861,ENG,7,371,41,SCJ Broad,PP Ojha,9,0,6,26.32,2484,64.65,Left-hand bat,309,108,4,5652.4,30.38,67.3,lo,0,IND,spin,no,11.395957193816885,29.914387633769323
+3,2269,862,ENG,7,371,41,SCJ Broad,PP Ojha,9,0,7,26.32,2484,64.65,Left-hand bat,310,108,4,5652.4,30.38,67.3,lo,1,IND,spin,no,11.395957193816885,29.914387633769323

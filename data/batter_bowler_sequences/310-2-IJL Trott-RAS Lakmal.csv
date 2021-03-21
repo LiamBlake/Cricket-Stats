@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,422,30,ENG,1,9,-175,IJL Trott,RAS Lakmal,3,4,7,62.23,3830,48.74,Right-hand bat,12,2,0,738.5,49.5,74.3,rfm,0,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,423,31,ENG,1,9,-175,IJL Trott,RAS Lakmal,3,4,8,62.23,3830,48.74,Right-hand bat,13,2,0,738.5,49.5,74.3,rfm,0,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,424,32,ENG,1,9,-175,IJL Trott,RAS Lakmal,3,4,9,62.23,3830,48.74,Right-hand bat,14,2,0,738.5,49.5,74.3,rfm,1nb,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,425,33,ENG,1,10,-174,IJL Trott,RAS Lakmal,3,4,10,62.23,3830,48.74,Right-hand bat,15,3,0,738.5,49.5,74.3,rfm,0,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,426,34,ENG,1,10,-174,IJL Trott,RAS Lakmal,3,4,11,62.23,3830,48.74,Right-hand bat,16,3,0,738.5,49.5,74.3,rfm,0,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,427,35,ENG,1,10,-174,IJL Trott,RAS Lakmal,3,4,12,62.23,3830,48.74,Right-hand bat,17,3,0,738.5,49.5,74.3,rfm,0,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,428,36,ENG,1,10,-174,IJL Trott,RAS Lakmal,3,4,13,62.23,3830,48.74,Right-hand bat,18,3,0,738.5,49.5,74.3,rfm,0,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,435,43,ENG,1,14,-170,IJL Trott,RAS Lakmal,3,4,14,62.23,3830,48.74,Right-hand bat,19,3,0,738.5,49.5,74.3,rfm,0,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,436,44,ENG,1,14,-170,IJL Trott,RAS Lakmal,3,4,15,62.23,3830,48.74,Right-hand bat,20,3,0,738.5,49.5,74.3,rfm,0,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,437,45,ENG,1,14,-170,IJL Trott,RAS Lakmal,3,4,16,62.23,3830,48.74,Right-hand bat,21,3,0,738.5,49.5,74.3,rfm,W,ENG,seam,yes,35.52930056710775,3.383742911153119

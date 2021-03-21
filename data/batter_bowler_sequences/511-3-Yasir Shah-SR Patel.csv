@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1905,629,PAK,7,312,240,Yasir Shah,SR Patel,9,0,0,10.46,274,49.63,Right-hand bat,89,62,1,858,60.14,122.5,lo,4,ENG,spin,yes,9.19625,17.07875
+3,1925,649,PAK,7,318,246,Yasir Shah,SR Patel,9,4,10,10.46,274,49.63,Right-hand bat,97,67,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875
+3,1926,650,PAK,7,318,246,Yasir Shah,SR Patel,9,4,11,10.46,274,49.63,Right-hand bat,98,67,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875
+3,1927,651,PAK,7,318,246,Yasir Shah,SR Patel,9,4,12,10.46,274,49.63,Right-hand bat,99,67,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875
+3,1928,652,PAK,7,318,246,Yasir Shah,SR Patel,9,4,13,10.46,274,49.63,Right-hand bat,100,67,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875
+3,1929,653,PAK,7,318,246,Yasir Shah,SR Patel,9,4,14,10.46,274,49.63,Right-hand bat,101,67,1,858,60.14,122.5,lo,0,ENG,spin,yes,9.19625,17.07875

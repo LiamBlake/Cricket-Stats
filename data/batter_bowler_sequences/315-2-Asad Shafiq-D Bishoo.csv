@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,743,151,PAK,3,60,-166,Asad Shafiq,D Bishoo,5,0,0,35.33,531,39.92,Right-hand bat,31,10,1,276,31,69,rls,0,WIN,spin,no,8.5025,9.397499999999999
+2,744,152,PAK,3,60,-166,Asad Shafiq,D Bishoo,5,0,1,35.33,531,39.92,Right-hand bat,32,10,1,276,31,69,rls,2,WIN,spin,no,8.5025,9.397499999999999
+2,745,153,PAK,3,62,-164,Asad Shafiq,D Bishoo,5,2,2,35.33,531,39.92,Right-hand bat,33,12,1,276,31,69,rls,0,WIN,spin,no,8.5025,9.397499999999999
+2,746,154,PAK,3,62,-164,Asad Shafiq,D Bishoo,5,2,3,35.33,531,39.92,Right-hand bat,34,12,1,276,31,69,rls,0,WIN,spin,no,8.5025,9.397499999999999
+2,747,155,PAK,3,62,-164,Asad Shafiq,D Bishoo,5,2,4,35.33,531,39.92,Right-hand bat,35,12,1,276,31,69,rls,0,WIN,spin,no,8.5025,9.397499999999999
+2,754,162,PAK,4,66,-160,Asad Shafiq,D Bishoo,5,2,5,35.33,531,39.92,Right-hand bat,36,12,1,276,31,69,rls,0,WIN,spin,no,8.5025,9.397499999999999
+2,755,163,PAK,4,66,-160,Asad Shafiq,D Bishoo,5,2,6,35.33,531,39.92,Right-hand bat,37,12,1,276,31,69,rls,0,WIN,spin,no,8.5025,9.397499999999999
+2,756,164,PAK,4,66,-160,Asad Shafiq,D Bishoo,5,2,7,35.33,531,39.92,Right-hand bat,38,12,1,276,31,69,rls,0,WIN,spin,no,8.5025,9.397499999999999
+2,757,165,PAK,4,66,-160,Asad Shafiq,D Bishoo,5,2,8,35.33,531,39.92,Right-hand bat,39,12,1,276,31,69,rls,0,WIN,spin,no,8.5025,9.397499999999999
+2,758,166,PAK,4,66,-160,Asad Shafiq,D Bishoo,5,2,9,35.33,531,39.92,Right-hand bat,40,12,1,276,31,69,rls,0,WIN,spin,no,8.5025,9.397499999999999
+2,759,167,PAK,4,66,-160,Asad Shafiq,D Bishoo,5,2,10,35.33,531,39.92,Right-hand bat,41,12,1,276,31,69,rls,W,WIN,spin,no,8.5025,9.397499999999999

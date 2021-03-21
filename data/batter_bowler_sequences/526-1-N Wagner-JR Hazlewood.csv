@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,335,335,NZL,8,303,303,N Wagner,JR Hazlewood,10,0,2,11.85,611,38.78,Left-hand bat,86,71,1,3570.5,25.77,51,rfm,0,NZL,seam,no,37.57483930211203,5.182736455463728
+1,336,336,NZL,8,303,303,N Wagner,JR Hazlewood,10,0,3,11.85,611,38.78,Left-hand bat,87,71,1,3570.5,25.77,51,rfm,0,NZL,seam,no,37.57483930211203,5.182736455463728
+1,337,337,NZL,8,303,303,N Wagner,JR Hazlewood,10,0,4,11.85,611,38.78,Left-hand bat,88,71,1,3570.5,25.77,51,rfm,0,NZL,seam,no,37.57483930211203,5.182736455463728
+1,338,338,NZL,8,303,303,N Wagner,JR Hazlewood,10,0,5,11.85,611,38.78,Left-hand bat,89,71,1,3570.5,25.77,51,rfm,0,NZL,seam,no,37.57483930211203,5.182736455463728
+1,370,370,NZL,8,333,333,N Wagner,JR Hazlewood,10,10,22,11.85,611,38.78,Left-hand bat,103,88,1,3570.5,25.77,51,rfm,W,NZL,seam,no,37.57483930211203,5.182736455463728

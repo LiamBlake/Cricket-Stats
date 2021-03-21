@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1022,216,SRL,2,102,-432,LD Chandimal,MA Starc,3,5,12,41.86,7667,49.14,Right-hand bat,24,22,0,10530.2,28.2,49.9,lf,0,AUS,seam,no,32.09438775510204,6.97704081632653
+2,1023,217,SRL,2,102,-432,LD Chandimal,MA Starc,3,5,13,41.86,7667,49.14,Right-hand bat,25,22,0,10530.2,28.2,49.9,lf,0,AUS,seam,no,32.09438775510204,6.97704081632653
+2,1024,218,SRL,2,102,-432,LD Chandimal,MA Starc,3,5,14,41.86,7667,49.14,Right-hand bat,26,22,0,10530.2,28.2,49.9,lf,0,AUS,seam,no,32.09438775510204,6.97704081632653
+2,1025,219,SRL,2,102,-432,LD Chandimal,MA Starc,3,5,15,41.86,7667,49.14,Right-hand bat,27,22,0,10530.2,28.2,49.9,lf,4,AUS,seam,no,32.09438775510204,6.97704081632653
+2,1026,220,SRL,2,106,-428,LD Chandimal,MA Starc,3,9,16,41.86,7667,49.14,Right-hand bat,28,26,0,10530.2,28.2,49.9,lf,4,AUS,seam,no,32.09438775510204,6.97704081632653
+2,1027,221,SRL,2,110,-424,LD Chandimal,MA Starc,3,13,17,41.86,7667,49.14,Right-hand bat,29,30,0,10530.2,28.2,49.9,lf,0,AUS,seam,no,32.09438775510204,6.97704081632653
+2,1034,228,SRL,2,114,-420,LD Chandimal,MA Starc,3,13,18,41.86,7667,49.14,Right-hand bat,30,30,0,10530.2,28.2,49.9,lf,0,AUS,seam,no,32.09438775510204,6.97704081632653
+2,1035,229,SRL,2,114,-420,LD Chandimal,MA Starc,3,13,19,41.86,7667,49.14,Right-hand bat,31,30,0,10530.2,28.2,49.9,lf,0,AUS,seam,no,32.09438775510204,6.97704081632653
+2,1036,230,SRL,2,114,-420,LD Chandimal,MA Starc,3,13,20,41.86,7667,49.14,Right-hand bat,32,30,0,10530.2,28.2,49.9,lf,0,AUS,seam,no,32.09438775510204,6.97704081632653
+2,1037,231,SRL,2,114,-420,LD Chandimal,MA Starc,3,13,21,41.86,7667,49.14,Right-hand bat,33,30,0,10530.2,28.2,49.9,lf,1,AUS,seam,no,32.09438775510204,6.97704081632653
+2,1046,240,SRL,2,120,-414,LD Chandimal,MA Starc,3,15,25,41.86,7667,49.14,Right-hand bat,36,31,0,10530.2,28.2,49.9,lf,0,AUS,seam,no,32.09438775510204,6.97704081632653
+2,1047,241,SRL,2,120,-414,LD Chandimal,MA Starc,3,15,26,41.86,7667,49.14,Right-hand bat,37,31,0,10530.2,28.2,49.9,lf,0,AUS,seam,no,32.09438775510204,6.97704081632653
+2,1048,242,SRL,2,120,-414,LD Chandimal,MA Starc,3,15,27,41.86,7667,49.14,Right-hand bat,38,31,0,10530.2,28.2,49.9,lf,W,AUS,seam,no,32.09438775510204,6.97704081632653

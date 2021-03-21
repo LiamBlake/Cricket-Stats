@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1596,662,ENG,5,334,567,JM Bairstow,RJ Harris,7,11,41,32,935,51.33,Right-hand bat,98,29,0,2574.3,22.48,47.7,rf,0,ENG,seam,yes,17.243243243243242,11.756756756756756
+3,1597,663,ENG,5,334,567,JM Bairstow,RJ Harris,7,11,42,32,935,51.33,Right-hand bat,99,29,0,2574.3,22.48,47.7,rf,0,ENG,seam,yes,17.243243243243242,11.756756756756756
+3,1598,664,ENG,5,334,567,JM Bairstow,RJ Harris,7,11,43,32,935,51.33,Right-hand bat,100,29,0,2574.3,22.48,47.7,rf,0,ENG,seam,yes,17.243243243243242,11.756756756756756
+3,1599,665,ENG,5,334,567,JM Bairstow,RJ Harris,7,11,44,32,935,51.33,Right-hand bat,101,29,0,2574.3,22.48,47.7,rf,1,ENG,seam,yes,17.243243243243242,11.756756756756756
+3,1606,672,ENG,5,344,577,JM Bairstow,RJ Harris,7,20,50,32,935,51.33,Right-hand bat,102,30,0,2574.3,22.48,47.7,rf,0,ENG,seam,yes,17.243243243243242,11.756756756756756
+3,1607,673,ENG,5,344,577,JM Bairstow,RJ Harris,7,20,51,32,935,51.33,Right-hand bat,103,30,0,2574.3,22.48,47.7,rf,0,ENG,seam,yes,17.243243243243242,11.756756756756756
+3,1608,674,ENG,5,344,577,JM Bairstow,RJ Harris,7,20,52,32,935,51.33,Right-hand bat,104,30,0,2574.3,22.48,47.7,rf,0,ENG,seam,yes,17.243243243243242,11.756756756756756
+3,1609,675,ENG,5,344,577,JM Bairstow,RJ Harris,7,20,53,32,935,51.33,Right-hand bat,105,30,0,2574.3,22.48,47.7,rf,W,ENG,seam,yes,17.243243243243242,11.756756756756756

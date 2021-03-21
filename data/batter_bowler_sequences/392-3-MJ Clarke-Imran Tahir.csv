@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1553,141,AUS,3,92,254,MJ Clarke,Imran Tahir,5,1,6,52.15,11899,55.66,Right-hand bat,37,32,0,2148.3,50.19,82.7,rls,0,AUS,spin,yes,31.39197530864198,8.969135802469136
+3,1554,142,AUS,3,92,254,MJ Clarke,Imran Tahir,5,1,7,52.15,11899,55.66,Right-hand bat,38,32,0,2148.3,50.19,82.7,rls,0,AUS,spin,yes,31.39197530864198,8.969135802469136
+3,1555,143,AUS,3,92,254,MJ Clarke,Imran Tahir,5,1,8,52.15,11899,55.66,Right-hand bat,39,32,0,2148.3,50.19,82.7,rls,1,AUS,spin,yes,31.39197530864198,8.969135802469136
+3,1669,257,AUS,5,147,309,MJ Clarke,Imran Tahir,5,21,48,52.15,11899,55.66,Right-hand bat,49,43,0,2148.3,50.19,82.7,rls,1,AUS,spin,yes,31.39197530864198,8.969135802469136
+3,1682,270,AUS,5,156,318,MJ Clarke,Imran Tahir,5,22,49,52.15,11899,55.66,Right-hand bat,56,50,0,2148.3,50.19,82.7,rls,0,AUS,spin,yes,31.39197530864198,8.969135802469136
+3,1683,271,AUS,5,156,318,MJ Clarke,Imran Tahir,5,22,50,52.15,11899,55.66,Right-hand bat,57,50,0,2148.3,50.19,82.7,rls,1,AUS,spin,yes,31.39197530864198,8.969135802469136
+3,1687,275,AUS,5,158,320,MJ Clarke,Imran Tahir,5,23,51,52.15,11899,55.66,Right-hand bat,61,52,0,2148.3,50.19,82.7,rls,1,AUS,spin,yes,31.39197530864198,8.969135802469136
+3,1694,282,AUS,5,160,322,MJ Clarke,Imran Tahir,5,25,55,52.15,11899,55.66,Right-hand bat,62,53,0,2148.3,50.19,82.7,rls,4,AUS,spin,yes,31.39197530864198,8.969135802469136
+3,1695,283,AUS,5,164,326,MJ Clarke,Imran Tahir,5,29,56,52.15,11899,55.66,Right-hand bat,63,57,0,2148.3,50.19,82.7,rls,2,AUS,spin,yes,31.39197530864198,8.969135802469136
+3,1696,284,AUS,5,166,328,MJ Clarke,Imran Tahir,5,31,57,52.15,11899,55.66,Right-hand bat,64,59,0,2148.3,50.19,82.7,rls,6,AUS,spin,yes,31.39197530864198,8.969135802469136
+3,1697,285,AUS,5,172,334,MJ Clarke,Imran Tahir,5,37,58,52.15,11899,55.66,Right-hand bat,65,65,0,2148.3,50.19,82.7,rls,0,AUS,spin,yes,31.39197530864198,8.969135802469136
+3,1698,286,AUS,5,172,334,MJ Clarke,Imran Tahir,5,37,59,52.15,11899,55.66,Right-hand bat,66,65,0,2148.3,50.19,82.7,rls,1,AUS,spin,yes,31.39197530864198,8.969135802469136

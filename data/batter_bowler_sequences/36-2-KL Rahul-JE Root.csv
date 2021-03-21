@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1430,485,IND,3,282,-195,KL Rahul,JE Root,1,146,247,41.84,1408,56.46,Right-hand bat,5,7,0,1422.5,48.06,95.1,rob,0,IND,spin,no,17.814814814814813,35.629629629629626
+2,1437,492,IND,3,286,-191,KL Rahul,JE Root,1,149,250,41.84,1408,56.46,Right-hand bat,6,7,0,1422.5,48.06,95.1,rob,0,IND,spin,no,17.814814814814813,35.629629629629626
+2,1438,493,IND,3,286,-191,KL Rahul,JE Root,1,149,251,41.84,1408,56.46,Right-hand bat,7,7,0,1422.5,48.06,95.1,rob,0,IND,spin,no,17.814814814814813,35.629629629629626
+2,1439,494,IND,3,286,-191,KL Rahul,JE Root,1,149,252,41.84,1408,56.46,Right-hand bat,8,7,0,1422.5,48.06,95.1,rob,4,IND,spin,no,17.814814814814813,35.629629629629626
+2,1440,495,IND,3,290,-187,KL Rahul,JE Root,1,153,253,41.84,1408,56.46,Right-hand bat,9,11,0,1422.5,48.06,95.1,rob,0,IND,spin,no,17.814814814814813,35.629629629629626
+2,1441,496,IND,3,290,-187,KL Rahul,JE Root,1,153,254,41.84,1408,56.46,Right-hand bat,10,11,0,1422.5,48.06,95.1,rob,1,IND,spin,no,17.814814814814813,35.629629629629626

@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,929,13,ENG,1,8,-435,IJL Trott,TA Boult,3,0,0,50.03,6911,47.05,Right-hand bat,7,4,1,2514,30.82,61.3,lfm,3,NZL,seam,yes,27.497142857142858,6.8742857142857146
+2,933,17,ENG,1,12,-431,IJL Trott,TA Boult,3,3,1,50.03,6911,47.05,Right-hand bat,11,8,1,2514,30.82,61.3,lfm,4,NZL,seam,yes,27.497142857142858,6.8742857142857146
+2,940,24,ENG,1,16,-427,IJL Trott,TA Boult,3,7,2,50.03,6911,47.05,Right-hand bat,12,12,1,2514,30.82,61.3,lfm,0,NZL,seam,yes,27.497142857142858,6.8742857142857146
+2,941,25,ENG,1,16,-427,IJL Trott,TA Boult,3,7,3,50.03,6911,47.05,Right-hand bat,13,12,1,2514,30.82,61.3,lfm,1,NZL,seam,yes,27.497142857142858,6.8742857142857146
+2,997,81,ENG,1,40,-403,IJL Trott,TA Boult,3,23,30,50.03,6911,47.05,Right-hand bat,26,18,1,2514,30.82,61.3,lfm,0,NZL,seam,yes,27.497142857142858,6.8742857142857146
+2,998,82,ENG,1,40,-403,IJL Trott,TA Boult,3,23,31,50.03,6911,47.05,Right-hand bat,27,18,1,2514,30.82,61.3,lfm,0,NZL,seam,yes,27.497142857142858,6.8742857142857146
+2,999,83,ENG,1,40,-403,IJL Trott,TA Boult,3,23,32,50.03,6911,47.05,Right-hand bat,28,18,1,2514,30.82,61.3,lfm,1,NZL,seam,yes,27.497142857142858,6.8742857142857146
+2,1007,91,ENG,1,42,-401,IJL Trott,TA Boult,3,25,39,50.03,6911,47.05,Right-hand bat,30,19,1,2514,30.82,61.3,lfm,0,NZL,seam,yes,27.497142857142858,6.8742857142857146
+2,1008,92,ENG,1,42,-401,IJL Trott,TA Boult,3,25,40,50.03,6911,47.05,Right-hand bat,31,19,1,2514,30.82,61.3,lfm,0,NZL,seam,yes,27.497142857142858,6.8742857142857146
+2,1009,93,ENG,1,42,-401,IJL Trott,TA Boult,3,25,41,50.03,6911,47.05,Right-hand bat,32,19,1,2514,30.82,61.3,lfm,2,NZL,seam,yes,27.497142857142858,6.8742857142857146
+2,1010,94,ENG,1,44,-399,IJL Trott,TA Boult,3,27,42,50.03,6911,47.05,Right-hand bat,33,21,1,2514,30.82,61.3,lfm,0,NZL,seam,yes,27.497142857142858,6.8742857142857146
+2,1011,95,ENG,1,44,-399,IJL Trott,TA Boult,3,27,43,50.03,6911,47.05,Right-hand bat,34,21,1,2514,30.82,61.3,lfm,W,NZL,seam,yes,27.497142857142858,6.8742857142857146

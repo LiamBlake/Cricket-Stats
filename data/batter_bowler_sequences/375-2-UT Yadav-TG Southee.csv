@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1084,543,IND,9,330,-35,UT Yadav,TG Southee,11,0,0,6,108,33.33,Right-hand bat,125,46,7,3696.2,39.84,69.7,rmf,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,1085,544,IND,9,330,-35,UT Yadav,TG Southee,11,0,1,6,108,33.33,Right-hand bat,126,46,7,3696.2,39.84,69.7,rmf,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,1086,545,IND,9,330,-35,UT Yadav,TG Southee,11,0,2,6,108,33.33,Right-hand bat,127,46,7,3696.2,39.84,69.7,rmf,4,IND,seam,no,19.0465306122449,16.039183673469388
+2,1098,557,IND,9,340,-25,UT Yadav,TG Southee,11,4,7,6,108,33.33,Right-hand bat,133,55,7,3696.2,39.84,69.7,rmf,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,1106,565,IND,9,344,-21,UT Yadav,TG Southee,11,4,10,6,108,33.33,Right-hand bat,135,56,7,3696.2,39.84,69.7,rmf,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,1107,566,IND,9,344,-21,UT Yadav,TG Southee,11,4,11,6,108,33.33,Right-hand bat,136,56,7,3696.2,39.84,69.7,rmf,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,1108,567,IND,9,344,-21,UT Yadav,TG Southee,11,4,12,6,108,33.33,Right-hand bat,137,56,7,3696.2,39.84,69.7,rmf,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,1109,568,IND,9,344,-21,UT Yadav,TG Southee,11,4,13,6,108,33.33,Right-hand bat,138,56,7,3696.2,39.84,69.7,rmf,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,1110,569,IND,9,344,-21,UT Yadav,TG Southee,11,4,14,6,108,33.33,Right-hand bat,139,56,7,3696.2,39.84,69.7,rmf,0,IND,seam,no,19.0465306122449,16.039183673469388

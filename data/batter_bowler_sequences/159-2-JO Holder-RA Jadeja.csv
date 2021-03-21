@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,981,399,WIN,8,209,-88,JO Holder,RA Jadeja,8,28,41,33.27,3091,59.2,Right-hand bat,96,58,1,11622.4,23.98,59.9,lo,1,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,1005,423,WIN,8,215,-82,JO Holder,RA Jadeja,8,34,51,33.27,3091,59.2,Right-hand bat,108,59,1,11622.4,23.98,59.9,lo,0,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,1006,424,WIN,8,215,-82,JO Holder,RA Jadeja,8,34,52,33.27,3091,59.2,Right-hand bat,109,59,1,11622.4,23.98,59.9,lo,0,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,1007,425,WIN,8,215,-82,JO Holder,RA Jadeja,8,34,53,33.27,3091,59.2,Right-hand bat,110,59,1,11622.4,23.98,59.9,lo,2,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,1008,426,WIN,8,217,-80,JO Holder,RA Jadeja,8,36,54,33.27,3091,59.2,Right-hand bat,111,61,1,11622.4,23.98,59.9,lo,0,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,1009,427,WIN,8,217,-80,JO Holder,RA Jadeja,8,36,55,33.27,3091,59.2,Right-hand bat,112,61,1,11622.4,23.98,59.9,lo,1,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,1017,435,WIN,8,219,-78,JO Holder,RA Jadeja,8,38,60,33.27,3091,59.2,Right-hand bat,114,62,1,11622.4,23.98,59.9,lo,0,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,1018,436,WIN,8,219,-78,JO Holder,RA Jadeja,8,38,61,33.27,3091,59.2,Right-hand bat,115,62,1,11622.4,23.98,59.9,lo,0,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,1019,437,WIN,8,219,-78,JO Holder,RA Jadeja,8,38,62,33.27,3091,59.2,Right-hand bat,116,62,1,11622.4,23.98,59.9,lo,0,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,1020,438,WIN,8,219,-78,JO Holder,RA Jadeja,8,38,63,33.27,3091,59.2,Right-hand bat,117,62,1,11622.4,23.98,59.9,lo,1,WIN,spin,yes,20.37837837837838,5.621621621621622

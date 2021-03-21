@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2304,490,SRL,8,168,-194,RMS Eranga,TA Boult,10,0,0,6.33,58,32.75,Right-hand bat,93,24,2,1392,29.11,53.5,lfm,0,SRL,seam,no,15.802103879026955,10.992767915844839
+4,2305,491,SRL,8,168,-194,RMS Eranga,TA Boult,10,0,1,6.33,58,32.75,Right-hand bat,94,24,2,1392,29.11,53.5,lfm,0,SRL,seam,no,15.802103879026955,10.992767915844839
+4,2306,492,SRL,8,168,-194,RMS Eranga,TA Boult,10,0,2,6.33,58,32.75,Right-hand bat,95,24,2,1392,29.11,53.5,lfm,0,SRL,seam,no,15.802103879026955,10.992767915844839

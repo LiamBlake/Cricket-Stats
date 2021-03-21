@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1249,358,NZL,5,163,-302,BB McCullum,JE Root,6,46,62,35.72,7190,60.12,Right-hand bat,0,0,0,54,NA,NA,rob,0,NZL,spin,yes,27.303719008264466,12.741735537190083
+2,1250,359,NZL,5,163,-302,BB McCullum,JE Root,6,46,63,35.72,7190,60.12,Right-hand bat,1,0,0,54,NA,NA,rob,4,NZL,spin,yes,27.303719008264466,12.741735537190083
+2,1251,360,NZL,5,167,-298,BB McCullum,JE Root,6,50,64,35.72,7190,60.12,Right-hand bat,2,4,0,54,NA,NA,rob,0,NZL,spin,yes,27.303719008264466,12.741735537190083
+2,1252,361,NZL,5,167,-298,BB McCullum,JE Root,6,50,65,35.72,7190,60.12,Right-hand bat,3,4,0,54,NA,NA,rob,0,NZL,spin,yes,27.303719008264466,12.741735537190083
+2,1253,362,NZL,5,167,-298,BB McCullum,JE Root,6,50,66,35.72,7190,60.12,Right-hand bat,4,4,0,54,NA,NA,rob,0,NZL,spin,yes,27.303719008264466,12.741735537190083
+2,1254,363,NZL,5,167,-298,BB McCullum,JE Root,6,50,67,35.72,7190,60.12,Right-hand bat,5,4,0,54,NA,NA,rob,2,NZL,spin,yes,27.303719008264466,12.741735537190083

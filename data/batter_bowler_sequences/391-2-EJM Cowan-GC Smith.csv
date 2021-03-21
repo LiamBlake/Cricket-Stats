@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1228,307,AUS,3,176,-274,EJM Cowan,GC Smith,1,76,145,38,1113,44.38,Left-hand bat,0,0,0,1410.2,109.37,176.5,rob,1,AUS,spin,no,44.2875,11.809999999999999
+2,1233,312,AUS,3,178,-272,EJM Cowan,GC Smith,1,77,146,38,1113,44.38,Left-hand bat,5,2,0,1410.2,109.37,176.5,rob,1,AUS,spin,no,44.2875,11.809999999999999
+2,1240,319,AUS,3,180,-270,EJM Cowan,GC Smith,1,79,152,38,1113,44.38,Left-hand bat,6,3,0,1410.2,109.37,176.5,rob,0,AUS,spin,no,44.2875,11.809999999999999
+2,1241,320,AUS,3,180,-270,EJM Cowan,GC Smith,1,79,153,38,1113,44.38,Left-hand bat,7,3,0,1410.2,109.37,176.5,rob,4,AUS,spin,no,44.2875,11.809999999999999
+2,1242,321,AUS,3,184,-266,EJM Cowan,GC Smith,1,83,154,38,1113,44.38,Left-hand bat,8,7,0,1410.2,109.37,176.5,rob,1,AUS,spin,no,44.2875,11.809999999999999
+2,1245,324,AUS,3,186,-264,EJM Cowan,GC Smith,1,84,155,38,1113,44.38,Left-hand bat,11,9,0,1410.2,109.37,176.5,rob,0,AUS,spin,no,44.2875,11.809999999999999
+2,1255,334,AUS,3,189,-261,EJM Cowan,GC Smith,1,84,159,38,1113,44.38,Left-hand bat,14,10,0,1410.2,109.37,176.5,rob,0,AUS,spin,no,44.2875,11.809999999999999
+2,1256,335,AUS,3,189,-261,EJM Cowan,GC Smith,1,84,160,38,1113,44.38,Left-hand bat,15,10,0,1410.2,109.37,176.5,rob,1,AUS,spin,no,44.2875,11.809999999999999
+2,1266,345,AUS,3,199,-251,EJM Cowan,GC Smith,1,92,165,38,1113,44.38,Left-hand bat,19,12,0,1410.2,109.37,176.5,rob,1,AUS,spin,no,44.2875,11.809999999999999
+2,1405,484,AUS,3,279,-171,EJM Cowan,GC Smith,1,126,228,38,1113,44.38,Left-hand bat,26,18,0,1410.2,109.37,176.5,rob,1,AUS,spin,no,44.2875,11.809999999999999
+2,1416,495,AUS,3,283,-167,EJM Cowan,GC Smith,1,127,235,38,1113,44.38,Left-hand bat,31,22,0,1410.2,109.37,176.5,rob,0,AUS,spin,no,44.2875,11.809999999999999
+2,1417,496,AUS,3,283,-167,EJM Cowan,GC Smith,1,127,236,38,1113,44.38,Left-hand bat,32,22,0,1410.2,109.37,176.5,rob,0,AUS,spin,no,44.2875,11.809999999999999
+2,1418,497,AUS,3,283,-167,EJM Cowan,GC Smith,1,127,237,38,1113,44.38,Left-hand bat,33,22,0,1410.2,109.37,176.5,rob,0,AUS,spin,no,44.2875,11.809999999999999
+2,1419,498,AUS,3,283,-167,EJM Cowan,GC Smith,1,127,238,38,1113,44.38,Left-hand bat,34,22,0,1410.2,109.37,176.5,rob,0,AUS,spin,no,44.2875,11.809999999999999
+2,1420,499,AUS,3,283,-167,EJM Cowan,GC Smith,1,127,239,38,1113,44.38,Left-hand bat,35,22,0,1410.2,109.37,176.5,rob,0,AUS,spin,no,44.2875,11.809999999999999

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1057,278,ENG,5,94,-361,JM Bairstow,Mohammed Shami,7,6,33,41.81,3990,55.53,Right-hand bat,44,15,1,4086.5,33.49,57.6,rf,0,IND,seam,no,9.379999999999999,17.42
+2,1058,279,ENG,5,94,-361,JM Bairstow,Mohammed Shami,7,6,34,41.81,3990,55.53,Right-hand bat,45,15,1,4086.5,33.49,57.6,rf,0,IND,seam,no,9.379999999999999,17.42
+2,1059,280,ENG,5,94,-361,JM Bairstow,Mohammed Shami,7,6,35,41.81,3990,55.53,Right-hand bat,46,15,1,4086.5,33.49,57.6,rf,0,IND,seam,no,9.379999999999999,17.42
+2,1060,281,ENG,5,94,-361,JM Bairstow,Mohammed Shami,7,6,36,41.81,3990,55.53,Right-hand bat,47,15,1,4086.5,33.49,57.6,rf,0,IND,seam,no,9.379999999999999,17.42
+2,1133,354,ENG,5,137,-318,JM Bairstow,Mohammed Shami,7,29,80,41.81,3990,55.53,Right-hand bat,48,15,1,4086.5,33.49,57.6,rf,0,IND,seam,no,9.379999999999999,17.42
+2,1134,355,ENG,5,137,-318,JM Bairstow,Mohammed Shami,7,29,81,41.81,3990,55.53,Right-hand bat,49,15,1,4086.5,33.49,57.6,rf,0,IND,seam,no,9.379999999999999,17.42
+2,1135,356,ENG,5,137,-318,JM Bairstow,Mohammed Shami,7,29,82,41.81,3990,55.53,Right-hand bat,50,15,1,4086.5,33.49,57.6,rf,1,IND,seam,no,9.379999999999999,17.42
+2,1147,368,ENG,5,141,-314,JM Bairstow,Mohammed Shami,7,30,89,41.81,3990,55.53,Right-hand bat,56,17,1,4086.5,33.49,57.6,rf,0,IND,seam,no,9.379999999999999,17.42
+2,1148,369,ENG,5,141,-314,JM Bairstow,Mohammed Shami,7,30,90,41.81,3990,55.53,Right-hand bat,57,17,1,4086.5,33.49,57.6,rf,1,IND,seam,no,9.379999999999999,17.42
+2,1150,371,ENG,5,147,-308,JM Bairstow,Mohammed Shami,7,31,91,41.81,3990,55.53,Right-hand bat,59,23,1,4086.5,33.49,57.6,rf,0,IND,seam,no,9.379999999999999,17.42

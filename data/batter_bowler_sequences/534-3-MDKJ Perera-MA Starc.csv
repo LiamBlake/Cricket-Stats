@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,682,0,SRL,0,0,-86,MDKJ Perera,MA Starc,1,0,0,29.37,323,72.75,Left-hand bat,0,0,0,5070.1,30.08,52.2,lf,0,SRL,seam,yes,7.297500000000001,13.5525
+3,683,1,SRL,0,0,-86,MDKJ Perera,MA Starc,1,0,1,29.37,323,72.75,Left-hand bat,1,0,0,5070.1,30.08,52.2,lf,1,SRL,seam,yes,7.297500000000001,13.5525
+3,694,12,SRL,0,6,-80,MDKJ Perera,MA Starc,1,4,3,29.37,323,72.75,Left-hand bat,6,3,0,5070.1,30.08,52.2,lf,0,SRL,seam,yes,7.297500000000001,13.5525
+3,695,13,SRL,0,6,-80,MDKJ Perera,MA Starc,1,4,4,29.37,323,72.75,Left-hand bat,7,3,0,5070.1,30.08,52.2,lf,W,SRL,seam,yes,7.297500000000001,13.5525

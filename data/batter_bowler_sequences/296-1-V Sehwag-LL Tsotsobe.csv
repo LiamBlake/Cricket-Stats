@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,42,42,IND,0,23,23,V Sehwag,LL Tsotsobe,1,14,20,54.01,9333,82.18,Right-hand bat,0,0,0,636,42.12,79.5,lfm,0,RSA,seam,no,16.066875000000003,3.4081250000000005
+1,43,43,IND,0,23,23,V Sehwag,LL Tsotsobe,1,14,21,54.01,9333,82.18,Right-hand bat,1,0,0,636,42.12,79.5,lfm,4,RSA,seam,no,16.066875000000003,3.4081250000000005
+1,44,44,IND,0,27,27,V Sehwag,LL Tsotsobe,1,18,22,54.01,9333,82.18,Right-hand bat,2,4,0,636,42.12,79.5,lfm,0,RSA,seam,no,16.066875000000003,3.4081250000000005
+1,45,45,IND,0,27,27,V Sehwag,LL Tsotsobe,1,18,23,54.01,9333,82.18,Right-hand bat,3,4,0,636,42.12,79.5,lfm,4,RSA,seam,no,16.066875000000003,3.4081250000000005
+1,46,46,IND,0,31,31,V Sehwag,LL Tsotsobe,1,22,24,54.01,9333,82.18,Right-hand bat,4,8,0,636,42.12,79.5,lfm,0,RSA,seam,no,16.066875000000003,3.4081250000000005
+1,47,47,IND,0,31,31,V Sehwag,LL Tsotsobe,1,22,25,54.01,9333,82.18,Right-hand bat,5,8,0,636,42.12,79.5,lfm,0,RSA,seam,no,16.066875000000003,3.4081250000000005
+1,54,54,IND,0,31,31,V Sehwag,LL Tsotsobe,1,22,26,54.01,9333,82.18,Right-hand bat,6,8,0,636,42.12,79.5,lfm,0,RSA,seam,no,16.066875000000003,3.4081250000000005
+1,55,55,IND,0,31,31,V Sehwag,LL Tsotsobe,1,22,27,54.01,9333,82.18,Right-hand bat,7,8,0,636,42.12,79.5,lfm,1,RSA,seam,no,16.066875000000003,3.4081250000000005
+1,57,57,IND,0,33,33,V Sehwag,LL Tsotsobe,1,23,28,54.01,9333,82.18,Right-hand bat,9,10,0,636,42.12,79.5,lfm,0,RSA,seam,no,16.066875000000003,3.4081250000000005
+1,58,58,IND,0,33,33,V Sehwag,LL Tsotsobe,1,23,29,54.01,9333,82.18,Right-hand bat,10,10,0,636,42.12,79.5,lfm,2,RSA,seam,no,16.066875000000003,3.4081250000000005
+1,59,59,IND,0,35,35,V Sehwag,LL Tsotsobe,1,25,30,54.01,9333,82.18,Right-hand bat,11,12,0,636,42.12,79.5,lfm,3wd,RSA,seam,no,16.066875000000003,3.4081250000000005
+1,60,60,IND,0,38,38,V Sehwag,LL Tsotsobe,1,25,30,54.01,9333,82.18,Right-hand bat,12,15,0,636,42.12,79.5,lfm,0,RSA,seam,no,16.066875000000003,3.4081250000000005

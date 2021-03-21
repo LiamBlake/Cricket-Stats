@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1669,673,PAK,7,304,127,Zulfiqar Babar,HMRKB Herath,9,0,4,23.6,165,71.51,Right-hand bat,188,79,0,17226.4,30.17,65.5,lo,1,SRL,spin,yes,12.020202020202019,16.31313131313131
+3,1673,677,PAK,7,306,129,Zulfiqar Babar,HMRKB Herath,9,1,5,23.6,165,71.51,Right-hand bat,192,81,0,17226.4,30.17,65.5,lo,0,SRL,spin,yes,12.020202020202019,16.31313131313131
+3,1696,700,PAK,8,319,142,Zulfiqar Babar,HMRKB Herath,9,3,12,23.6,165,71.51,Right-hand bat,203,85,1,17226.4,30.17,65.5,lo,2,SRL,spin,yes,12.020202020202019,16.31313131313131
+3,1697,701,PAK,8,321,144,Zulfiqar Babar,HMRKB Herath,9,5,13,23.6,165,71.51,Right-hand bat,204,87,1,17226.4,30.17,65.5,lo,2,SRL,spin,yes,12.020202020202019,16.31313131313131
+3,1698,702,PAK,8,323,146,Zulfiqar Babar,HMRKB Herath,9,7,14,23.6,165,71.51,Right-hand bat,205,89,1,17226.4,30.17,65.5,lo,0,SRL,spin,yes,12.020202020202019,16.31313131313131

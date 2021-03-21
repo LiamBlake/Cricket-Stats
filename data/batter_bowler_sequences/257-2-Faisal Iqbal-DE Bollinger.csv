@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,537,267,PAK,1,112,-15,Faisal Iqbal,DE Bollinger,3,0,3,26.76,2545,44.16,Right-hand bat,67,22,0,1176.1,22.5,45.2,lfm,0,AUS,seam,no,17.7625,6.7375
+2,538,268,PAK,1,112,-15,Faisal Iqbal,DE Bollinger,3,0,4,26.76,2545,44.16,Right-hand bat,68,22,0,1176.1,22.5,45.2,lfm,0,AUS,seam,no,17.7625,6.7375
+2,546,276,PAK,1,114,-13,Faisal Iqbal,DE Bollinger,3,0,6,26.76,2545,44.16,Right-hand bat,70,23,0,1176.1,22.5,45.2,lfm,1,AUS,seam,no,17.7625,6.7375
+2,635,365,PAK,2,153,26,Faisal Iqbal,DE Bollinger,3,11,48,26.76,2545,44.16,Right-hand bat,81,30,0,1176.1,22.5,45.2,lfm,1lb,AUS,seam,no,17.7625,6.7375

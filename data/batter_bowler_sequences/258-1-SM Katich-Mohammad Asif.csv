@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,1,1,AUS,0,3,3,SM Katich,Mohammad Asif,2,0,0,44.91,6948,50.41,Left-hand bat,1,3,0,3900.4,23.2,47,rfm,0,AUS,seam,yes,18.292011019283745,19.435261707988982
+1,2,2,AUS,0,3,3,SM Katich,Mohammad Asif,2,0,1,44.91,6948,50.41,Left-hand bat,2,3,0,3900.4,23.2,47,rfm,4,AUS,seam,yes,18.292011019283745,19.435261707988982
+1,3,3,AUS,0,7,7,SM Katich,Mohammad Asif,2,4,2,44.91,6948,50.41,Left-hand bat,3,7,0,3900.4,23.2,47,rfm,1,AUS,seam,yes,18.292011019283745,19.435261707988982
+1,12,12,AUS,0,11,11,SM Katich,Mohammad Asif,2,8,5,44.91,6948,50.41,Left-hand bat,6,8,0,3900.4,23.2,47,rfm,1,AUS,seam,yes,18.292011019283745,19.435261707988982
+1,25,25,AUS,0,22,22,SM Katich,Mohammad Asif,2,10,7,44.91,6948,50.41,Left-hand bat,12,13,0,3900.4,23.2,47,rfm,0,AUS,seam,yes,18.292011019283745,19.435261707988982
+1,26,26,AUS,0,22,22,SM Katich,Mohammad Asif,2,10,8,44.91,6948,50.41,Left-hand bat,13,13,0,3900.4,23.2,47,rfm,1,AUS,seam,yes,18.292011019283745,19.435261707988982
+1,30,30,AUS,0,24,24,SM Katich,Mohammad Asif,2,11,9,44.91,6948,50.41,Left-hand bat,17,15,0,3900.4,23.2,47,rfm,0,AUS,seam,yes,18.292011019283745,19.435261707988982
+1,37,37,AUS,0,28,28,SM Katich,Mohammad Asif,2,11,10,44.91,6948,50.41,Left-hand bat,18,15,0,3900.4,23.2,47,rfm,0,AUS,seam,yes,18.292011019283745,19.435261707988982
+1,38,38,AUS,0,28,28,SM Katich,Mohammad Asif,2,11,11,44.91,6948,50.41,Left-hand bat,19,15,0,3900.4,23.2,47,rfm,0,AUS,seam,yes,18.292011019283745,19.435261707988982
+1,39,39,AUS,0,28,28,SM Katich,Mohammad Asif,2,11,12,44.91,6948,50.41,Left-hand bat,20,15,0,3900.4,23.2,47,rfm,0,AUS,seam,yes,18.292011019283745,19.435261707988982
+1,40,40,AUS,0,28,28,SM Katich,Mohammad Asif,2,11,13,44.91,6948,50.41,Left-hand bat,21,15,0,3900.4,23.2,47,rfm,0,AUS,seam,yes,18.292011019283745,19.435261707988982
+1,41,41,AUS,0,28,28,SM Katich,Mohammad Asif,2,11,14,44.91,6948,50.41,Left-hand bat,22,15,0,3900.4,23.2,47,rfm,0,AUS,seam,yes,18.292011019283745,19.435261707988982
+1,42,42,AUS,0,28,28,SM Katich,Mohammad Asif,2,11,15,44.91,6948,50.41,Left-hand bat,23,15,0,3900.4,23.2,47,rfm,W,AUS,seam,yes,18.292011019283745,19.435261707988982

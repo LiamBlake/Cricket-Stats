@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,898,205,WIN,4,145,-296,MN Samuels,KS Williamson,4,41,46,36.28,6094,48.81,Right-hand bat,2,5,0,1554.1,39.13,70.6,rob,0,NZL,spin,yes,25.168888888888887,1.7977777777777777
+2,899,206,WIN,4,145,-296,MN Samuels,KS Williamson,4,41,47,36.28,6094,48.81,Right-hand bat,3,5,0,1554.1,39.13,70.6,rob,0,NZL,spin,yes,25.168888888888887,1.7977777777777777
+2,900,207,WIN,4,145,-296,MN Samuels,KS Williamson,4,41,48,36.28,6094,48.81,Right-hand bat,4,5,0,1554.1,39.13,70.6,rob,0,NZL,spin,yes,25.168888888888887,1.7977777777777777
+2,901,208,WIN,4,145,-296,MN Samuels,KS Williamson,4,41,49,36.28,6094,48.81,Right-hand bat,5,5,0,1554.1,39.13,70.6,rob,2,NZL,spin,yes,25.168888888888887,1.7977777777777777
+2,908,215,WIN,4,147,-294,MN Samuels,KS Williamson,4,43,50,36.28,6094,48.81,Right-hand bat,6,7,0,1554.1,39.13,70.6,rob,1,NZL,spin,yes,25.168888888888887,1.7977777777777777

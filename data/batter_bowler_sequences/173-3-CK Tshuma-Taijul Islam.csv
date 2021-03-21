@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1884,306,ZIM,9,181,-114,CK Tshuma,Taijul Islam,10,2,4,1.5,30,10,Right-hand bat,126,73,4,7044.4,33.17,61.8,lo,0,BAN,spin,yes,10.5,28.5
+3,1885,307,ZIM,9,181,-114,CK Tshuma,Taijul Islam,10,2,5,1.5,30,10,Right-hand bat,127,73,4,7044.4,33.17,61.8,lo,0,BAN,spin,yes,10.5,28.5
+3,1886,308,ZIM,9,181,-114,CK Tshuma,Taijul Islam,10,2,6,1.5,30,10,Right-hand bat,128,73,4,7044.4,33.17,61.8,lo,0,BAN,spin,yes,10.5,28.5
+3,1887,309,ZIM,9,181,-114,CK Tshuma,Taijul Islam,10,2,7,1.5,30,10,Right-hand bat,129,73,4,7044.4,33.17,61.8,lo,0,BAN,spin,yes,10.5,28.5
+3,1888,310,ZIM,9,181,-114,CK Tshuma,Taijul Islam,10,2,8,1.5,30,10,Right-hand bat,130,73,4,7044.4,33.17,61.8,lo,0,BAN,spin,yes,10.5,28.5
+3,1889,311,ZIM,9,181,-114,CK Tshuma,Taijul Islam,10,2,9,1.5,30,10,Right-hand bat,131,73,4,7044.4,33.17,61.8,lo,0,BAN,spin,yes,10.5,28.5
+3,1897,319,ZIM,9,187,-108,CK Tshuma,Taijul Islam,10,2,11,1.5,30,10,Right-hand bat,133,76,4,7044.4,33.17,61.8,lo,0,BAN,spin,yes,10.5,28.5
+3,1898,320,ZIM,9,187,-108,CK Tshuma,Taijul Islam,10,2,12,1.5,30,10,Right-hand bat,134,76,4,7044.4,33.17,61.8,lo,1,BAN,spin,yes,10.5,28.5
+3,1922,344,ZIM,9,189,-106,CK Tshuma,Taijul Islam,10,3,25,1.5,30,10,Right-hand bat,146,78,4,7044.4,33.17,61.8,lo,W,BAN,spin,yes,10.5,28.5

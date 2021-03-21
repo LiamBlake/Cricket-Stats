@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,254,254,SRL,4,100,100,LD Chandimal,SR Patel,6,15,28,34.33,367,56.13,Right-hand bat,22,9,0,108,18,54,lo,1,SRL,spin,yes,7.417500000000001,17.3075
+1,262,262,SRL,4,102,102,LD Chandimal,SR Patel,6,16,29,34.33,367,56.13,Right-hand bat,24,11,0,108,18,54,lo,0,SRL,spin,yes,7.417500000000001,17.3075
+1,263,263,SRL,4,102,102,LD Chandimal,SR Patel,6,16,30,34.33,367,56.13,Right-hand bat,25,11,0,108,18,54,lo,0,SRL,spin,yes,7.417500000000001,17.3075
+1,264,264,SRL,4,102,102,LD Chandimal,SR Patel,6,16,31,34.33,367,56.13,Right-hand bat,26,11,0,108,18,54,lo,6,SRL,spin,yes,7.417500000000001,17.3075
+1,265,265,SRL,4,108,108,LD Chandimal,SR Patel,6,22,32,34.33,367,56.13,Right-hand bat,27,17,0,108,18,54,lo,0,SRL,spin,yes,7.417500000000001,17.3075
+1,266,266,SRL,4,108,108,LD Chandimal,SR Patel,6,22,33,34.33,367,56.13,Right-hand bat,28,17,0,108,18,54,lo,0,SRL,spin,yes,7.417500000000001,17.3075
+1,267,267,SRL,4,108,108,LD Chandimal,SR Patel,6,22,34,34.33,367,56.13,Right-hand bat,29,17,0,108,18,54,lo,0,SRL,spin,yes,7.417500000000001,17.3075
+1,274,274,SRL,4,112,112,LD Chandimal,SR Patel,6,22,35,34.33,367,56.13,Right-hand bat,30,17,0,108,18,54,lo,0,SRL,spin,yes,7.417500000000001,17.3075
+1,275,275,SRL,4,112,112,LD Chandimal,SR Patel,6,22,36,34.33,367,56.13,Right-hand bat,31,17,0,108,18,54,lo,1,SRL,spin,yes,7.417500000000001,17.3075
+1,290,290,SRL,4,118,118,LD Chandimal,SR Patel,6,23,43,34.33,367,56.13,Right-hand bat,40,21,0,108,18,54,lo,4,SRL,spin,yes,7.417500000000001,17.3075
+1,291,291,SRL,4,122,122,LD Chandimal,SR Patel,6,27,44,34.33,367,56.13,Right-hand bat,41,25,0,108,18,54,lo,0,SRL,spin,yes,7.417500000000001,17.3075
+1,302,302,SRL,4,128,128,LD Chandimal,SR Patel,6,27,46,34.33,367,56.13,Right-hand bat,46,26,0,108,18,54,lo,0,SRL,spin,yes,7.417500000000001,17.3075
+1,303,303,SRL,4,128,128,LD Chandimal,SR Patel,6,27,47,34.33,367,56.13,Right-hand bat,47,26,0,108,18,54,lo,W,SRL,spin,yes,7.417500000000001,17.3075

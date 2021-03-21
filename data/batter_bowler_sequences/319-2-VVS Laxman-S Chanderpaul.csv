@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,807,348,IND,4,168,-36,VVS Laxman,S Chanderpaul,4,55,122,47.36,16519,49.31,Right-hand bat,0,0,0,1740,98.11,193.3,rls,0,WIN,spin,yes,18.647382920110193,10.65564738292011
+2,808,349,IND,4,168,-36,VVS Laxman,S Chanderpaul,4,55,123,47.36,16519,49.31,Right-hand bat,1,0,0,1740,98.11,193.3,rls,0,WIN,spin,yes,18.647382920110193,10.65564738292011
+2,809,350,IND,4,168,-36,VVS Laxman,S Chanderpaul,4,55,124,47.36,16519,49.31,Right-hand bat,2,0,0,1740,98.11,193.3,rls,0,WIN,spin,yes,18.647382920110193,10.65564738292011
+2,810,351,IND,4,168,-36,VVS Laxman,S Chanderpaul,4,55,125,47.36,16519,49.31,Right-hand bat,3,0,0,1740,98.11,193.3,rls,1,WIN,spin,yes,18.647382920110193,10.65564738292011
+2,812,353,IND,4,170,-34,VVS Laxman,S Chanderpaul,4,56,126,47.36,16519,49.31,Right-hand bat,5,2,0,1740,98.11,193.3,rls,0,WIN,spin,yes,18.647382920110193,10.65564738292011
+2,820,361,IND,4,172,-32,VVS Laxman,S Chanderpaul,4,56,127,47.36,16519,49.31,Right-hand bat,7,3,0,1740,98.11,193.3,rls,0,WIN,spin,yes,18.647382920110193,10.65564738292011
+2,821,362,IND,4,172,-32,VVS Laxman,S Chanderpaul,4,56,128,47.36,16519,49.31,Right-hand bat,8,3,0,1740,98.11,193.3,rls,W,WIN,spin,yes,18.647382920110193,10.65564738292011

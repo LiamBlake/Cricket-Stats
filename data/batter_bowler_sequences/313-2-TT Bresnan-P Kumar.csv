@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1514,1140,ENG,6,706,482,TT Bresnan,P Kumar,8,50,72,45.42,678,46.9,Right-hand bat,237,94,2,1608.3,25.81,59.6,rm,1,ENG,seam,yes,32.318244170096015,11.311385459533607
+2,1516,1142,ENG,6,708,484,TT Bresnan,P Kumar,8,51,73,45.42,678,46.9,Right-hand bat,239,96,2,1608.3,25.81,59.6,rm,0,ENG,seam,yes,32.318244170096015,11.311385459533607
+2,1517,1143,ENG,6,708,484,TT Bresnan,P Kumar,8,51,74,45.42,678,46.9,Right-hand bat,240,96,2,1608.3,25.81,59.6,rm,2,ENG,seam,yes,32.318244170096015,11.311385459533607

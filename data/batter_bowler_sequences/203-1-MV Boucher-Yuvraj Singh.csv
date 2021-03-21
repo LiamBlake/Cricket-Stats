@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,474,474,RSA,7,241,241,MV Boucher,Yuvraj Singh,7,18,39,30.02,8475,49.95,Right-hand bat,48,29,1,282,41.75,70.5,lo,1,IND,spin,yes,10.595703125,13.623046875
+1,476,476,RSA,7,243,243,MV Boucher,Yuvraj Singh,7,19,40,30.02,8475,49.95,Right-hand bat,50,31,1,282,41.75,70.5,lo,1,IND,spin,yes,10.595703125,13.623046875
+1,486,486,RSA,7,245,245,MV Boucher,Yuvraj Singh,7,21,45,30.02,8475,49.95,Right-hand bat,54,32,1,282,41.75,70.5,lo,0,IND,spin,yes,10.595703125,13.623046875
+1,487,487,RSA,7,245,245,MV Boucher,Yuvraj Singh,7,21,46,30.02,8475,49.95,Right-hand bat,55,32,1,282,41.75,70.5,lo,0,IND,spin,yes,10.595703125,13.623046875
+1,488,488,RSA,7,245,245,MV Boucher,Yuvraj Singh,7,21,47,30.02,8475,49.95,Right-hand bat,56,32,1,282,41.75,70.5,lo,1,IND,spin,yes,10.595703125,13.623046875
+1,498,498,RSA,7,249,249,MV Boucher,Yuvraj Singh,7,24,52,30.02,8475,49.95,Right-hand bat,60,33,1,282,41.75,70.5,lo,1,IND,spin,yes,10.595703125,13.623046875
+1,501,501,RSA,7,251,251,MV Boucher,Yuvraj Singh,7,25,53,30.02,8475,49.95,Right-hand bat,63,35,1,282,41.75,70.5,lo,0,IND,spin,yes,10.595703125,13.623046875
+1,502,502,RSA,7,251,251,MV Boucher,Yuvraj Singh,7,25,54,30.02,8475,49.95,Right-hand bat,64,35,1,282,41.75,70.5,lo,4,IND,spin,yes,10.595703125,13.623046875
+1,503,503,RSA,7,255,255,MV Boucher,Yuvraj Singh,7,29,55,30.02,8475,49.95,Right-hand bat,65,39,1,282,41.75,70.5,lo,0,IND,spin,yes,10.595703125,13.623046875

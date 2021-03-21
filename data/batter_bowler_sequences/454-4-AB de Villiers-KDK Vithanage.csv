@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2168,296,RSA,3,77,-291,AB de Villiers,KDK Vithanage,5,3,27,51.33,13501,53.98,Right-hand bat,0,0,0,150,102,150,rls,0,SRL,spin,no,10.943672839506172,19.361882716049383
+4,2169,297,RSA,3,77,-291,AB de Villiers,KDK Vithanage,5,3,28,51.33,13501,53.98,Right-hand bat,1,0,0,150,102,150,rls,1,SRL,spin,no,10.943672839506172,19.361882716049383
+4,2171,299,RSA,3,79,-289,AB de Villiers,KDK Vithanage,5,4,29,51.33,13501,53.98,Right-hand bat,3,2,0,150,102,150,rls,0,SRL,spin,no,10.943672839506172,19.361882716049383
+4,2172,300,RSA,3,79,-289,AB de Villiers,KDK Vithanage,5,4,30,51.33,13501,53.98,Right-hand bat,4,2,0,150,102,150,rls,0,SRL,spin,no,10.943672839506172,19.361882716049383
+4,2173,301,RSA,3,79,-289,AB de Villiers,KDK Vithanage,5,4,31,51.33,13501,53.98,Right-hand bat,5,2,0,150,102,150,rls,0,SRL,spin,no,10.943672839506172,19.361882716049383
+4,2181,309,RSA,3,81,-287,AB de Villiers,KDK Vithanage,5,4,33,51.33,13501,53.98,Right-hand bat,7,3,0,150,102,150,rls,4,SRL,spin,no,10.943672839506172,19.361882716049383
+4,2182,310,RSA,3,85,-283,AB de Villiers,KDK Vithanage,5,8,34,51.33,13501,53.98,Right-hand bat,8,7,0,150,102,150,rls,1,SRL,spin,no,10.943672839506172,19.361882716049383
+4,2198,326,RSA,3,86,-282,AB de Villiers,KDK Vithanage,5,9,41,51.33,13501,53.98,Right-hand bat,12,8,0,150,102,150,rls,0,SRL,spin,no,10.943672839506172,19.361882716049383
+4,2199,327,RSA,3,86,-282,AB de Villiers,KDK Vithanage,5,9,42,51.33,13501,53.98,Right-hand bat,13,8,0,150,102,150,rls,0,SRL,spin,no,10.943672839506172,19.361882716049383
+4,2200,328,RSA,3,86,-282,AB de Villiers,KDK Vithanage,5,9,43,51.33,13501,53.98,Right-hand bat,14,8,0,150,102,150,rls,0,SRL,spin,no,10.943672839506172,19.361882716049383
+4,2201,329,RSA,3,86,-282,AB de Villiers,KDK Vithanage,5,9,44,51.33,13501,53.98,Right-hand bat,15,8,0,150,102,150,rls,0,SRL,spin,no,10.943672839506172,19.361882716049383
+4,2202,330,RSA,3,86,-282,AB de Villiers,KDK Vithanage,5,9,45,51.33,13501,53.98,Right-hand bat,16,8,0,150,102,150,rls,0,SRL,spin,no,10.943672839506172,19.361882716049383
+4,2203,331,RSA,3,86,-282,AB de Villiers,KDK Vithanage,5,9,46,51.33,13501,53.98,Right-hand bat,17,8,0,150,102,150,rls,0,SRL,spin,no,10.943672839506172,19.361882716049383
+4,2212,340,RSA,3,88,-280,AB de Villiers,KDK Vithanage,5,9,50,51.33,13501,53.98,Right-hand bat,20,9,0,150,102,150,rls,0,SRL,spin,no,10.943672839506172,19.361882716049383
+4,2213,341,RSA,3,88,-280,AB de Villiers,KDK Vithanage,5,9,51,51.33,13501,53.98,Right-hand bat,21,9,0,150,102,150,rls,1,SRL,spin,no,10.943672839506172,19.361882716049383
+4,2225,353,RSA,3,90,-278,AB de Villiers,KDK Vithanage,5,10,58,51.33,13501,53.98,Right-hand bat,27,11,0,150,102,150,rls,1,SRL,spin,no,10.943672839506172,19.361882716049383

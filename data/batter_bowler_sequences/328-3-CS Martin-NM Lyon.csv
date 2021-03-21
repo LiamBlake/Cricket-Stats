@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1575,288,NZL,9,150,18,CS Martin,NM Lyon,11,0,0,2.39,558,19.71,Right-hand bat,60,19,2,960.2,26.47,50.6,rob,0,AUS,spin,yes,18.54318418314256,10.198751300728409
+3,1576,289,NZL,9,150,18,CS Martin,NM Lyon,11,0,1,2.39,558,19.71,Right-hand bat,61,19,2,960.2,26.47,50.6,rob,0,AUS,spin,yes,18.54318418314256,10.198751300728409
+3,1577,290,NZL,9,150,18,CS Martin,NM Lyon,11,0,2,2.39,558,19.71,Right-hand bat,62,19,2,960.2,26.47,50.6,rob,0,AUS,spin,yes,18.54318418314256,10.198751300728409
+3,1578,291,NZL,9,150,18,CS Martin,NM Lyon,11,0,3,2.39,558,19.71,Right-hand bat,63,19,2,960.2,26.47,50.6,rob,0,AUS,spin,yes,18.54318418314256,10.198751300728409
+3,1579,292,NZL,9,150,18,CS Martin,NM Lyon,11,0,4,2.39,558,19.71,Right-hand bat,64,19,2,960.2,26.47,50.6,rob,0,AUS,spin,yes,18.54318418314256,10.198751300728409
+3,1580,293,NZL,9,150,18,CS Martin,NM Lyon,11,0,5,2.39,558,19.71,Right-hand bat,65,19,2,960.2,26.47,50.6,rob,0,AUS,spin,yes,18.54318418314256,10.198751300728409
+3,1587,300,NZL,9,150,18,CS Martin,NM Lyon,11,0,6,2.39,558,19.71,Right-hand bat,66,19,2,960.2,26.47,50.6,rob,0,AUS,spin,yes,18.54318418314256,10.198751300728409
+3,1588,301,NZL,9,150,18,CS Martin,NM Lyon,11,0,7,2.39,558,19.71,Right-hand bat,67,19,2,960.2,26.47,50.6,rob,0,AUS,spin,yes,18.54318418314256,10.198751300728409
+3,1589,302,NZL,9,150,18,CS Martin,NM Lyon,11,0,8,2.39,558,19.71,Right-hand bat,68,19,2,960.2,26.47,50.6,rob,0,AUS,spin,yes,18.54318418314256,10.198751300728409
+3,1590,303,NZL,9,150,18,CS Martin,NM Lyon,11,0,9,2.39,558,19.71,Right-hand bat,69,19,2,960.2,26.47,50.6,rob,W,AUS,spin,yes,18.54318418314256,10.198751300728409

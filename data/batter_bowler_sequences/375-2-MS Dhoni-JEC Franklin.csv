@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,930,389,IND,5,244,-121,MS Dhoni,JEC Franklin,7,33,38,38.45,6153,60,Right-hand bat,24,10,0,4620.3,33.81,57.7,lm,2,IND,seam,no,19.0465306122449,16.039183673469388
+2,931,390,IND,5,246,-119,MS Dhoni,JEC Franklin,7,35,39,38.45,6153,60,Right-hand bat,25,12,0,4620.3,33.81,57.7,lm,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,932,391,IND,5,246,-119,MS Dhoni,JEC Franklin,7,35,40,38.45,6153,60,Right-hand bat,26,12,0,4620.3,33.81,57.7,lm,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,933,392,IND,5,246,-119,MS Dhoni,JEC Franklin,7,35,41,38.45,6153,60,Right-hand bat,27,12,0,4620.3,33.81,57.7,lm,1,IND,seam,no,19.0465306122449,16.039183673469388
+2,954,413,IND,5,260,-105,MS Dhoni,JEC Franklin,7,39,48,38.45,6153,60,Right-hand bat,36,13,0,4620.3,33.81,57.7,lm,1,IND,seam,no,19.0465306122449,16.039183673469388
+2,983,442,IND,5,264,-101,MS Dhoni,JEC Franklin,7,41,59,38.45,6153,60,Right-hand bat,53,15,0,4620.3,33.81,57.7,lm,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,992,451,IND,5,272,-93,MS Dhoni,JEC Franklin,7,45,63,38.45,6153,60,Right-hand bat,56,16,0,4620.3,33.81,57.7,lm,1nb,IND,seam,no,19.0465306122449,16.039183673469388
+2,993,452,IND,5,273,-92,MS Dhoni,JEC Franklin,7,45,64,38.45,6153,60,Right-hand bat,57,17,0,4620.3,33.81,57.7,lm,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,994,453,IND,5,273,-92,MS Dhoni,JEC Franklin,7,45,65,38.45,6153,60,Right-hand bat,58,17,0,4620.3,33.81,57.7,lm,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,995,454,IND,5,273,-92,MS Dhoni,JEC Franklin,7,45,66,38.45,6153,60,Right-hand bat,59,17,0,4620.3,33.81,57.7,lm,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,996,455,IND,5,273,-92,MS Dhoni,JEC Franklin,7,45,67,38.45,6153,60,Right-hand bat,60,17,0,4620.3,33.81,57.7,lm,0,IND,seam,no,19.0465306122449,16.039183673469388

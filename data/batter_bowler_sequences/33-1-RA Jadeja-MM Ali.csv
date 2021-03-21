@@ -1,0 +1,3 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,627,627,IND,6,363,363,RA Jadeja,MM Ali,8,0,0,23.51,1052,64.82,Left-hand bat,86,58,2,6006,39.24,63.2,rob,0,IND,spin,yes,9.379999999999999,17.42
+1,628,628,IND,6,363,363,RA Jadeja,MM Ali,8,0,1,23.51,1052,64.82,Left-hand bat,87,58,2,6006,39.24,63.2,rob,W,IND,spin,yes,9.379999999999999,17.42

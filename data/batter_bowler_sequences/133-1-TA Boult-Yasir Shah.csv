@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,692,692,NZL,9,273,273,TA Boult,Yasir Shah,11,0,4,14.47,1056,52.08,Right-hand bat,242,74,3,11094.3,28.26,54.9,rls,0,NZL,spin,yes,9.913805697589481,20.653761869978087
+1,693,693,NZL,9,273,273,TA Boult,Yasir Shah,11,0,5,14.47,1056,52.08,Right-hand bat,243,74,3,11094.3,28.26,54.9,rls,0,NZL,spin,yes,9.913805697589481,20.653761869978087
+1,694,694,NZL,9,273,273,TA Boult,Yasir Shah,11,0,6,14.47,1056,52.08,Right-hand bat,244,74,3,11094.3,28.26,54.9,rls,0,NZL,spin,yes,9.913805697589481,20.653761869978087
+1,695,695,NZL,9,273,273,TA Boult,Yasir Shah,11,0,7,14.47,1056,52.08,Right-hand bat,245,74,3,11094.3,28.26,54.9,rls,1,NZL,spin,yes,9.913805697589481,20.653761869978087

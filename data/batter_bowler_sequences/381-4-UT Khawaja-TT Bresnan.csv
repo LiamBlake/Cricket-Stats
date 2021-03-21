@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1866,193,AUS,1,120,-178,UT Khawaja,TT Bresnan,3,6,10,25.13,939,40.14,Left-hand bat,37,23,0,4296.3,32.1,64.1,rmf,0,ENG,seam,no,19.24875,7.3012500000000005
+4,1867,194,AUS,1,120,-178,UT Khawaja,TT Bresnan,3,6,11,25.13,939,40.14,Left-hand bat,38,23,0,4296.3,32.1,64.1,rmf,0,ENG,seam,no,19.24875,7.3012500000000005
+4,1868,195,AUS,1,120,-178,UT Khawaja,TT Bresnan,3,6,12,25.13,939,40.14,Left-hand bat,39,23,0,4296.3,32.1,64.1,rmf,0,ENG,seam,no,19.24875,7.3012500000000005
+4,1869,196,AUS,1,120,-178,UT Khawaja,TT Bresnan,3,6,13,25.13,939,40.14,Left-hand bat,40,23,0,4296.3,32.1,64.1,rmf,0,ENG,seam,no,19.24875,7.3012500000000005
+4,1870,197,AUS,1,120,-178,UT Khawaja,TT Bresnan,3,6,14,25.13,939,40.14,Left-hand bat,41,23,0,4296.3,32.1,64.1,rmf,0,ENG,seam,no,19.24875,7.3012500000000005

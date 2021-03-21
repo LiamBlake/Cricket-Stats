@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,176,176,PAK,6,78,78,Faheem Ashraf,SCJ Broad,8,0,0,30.75,177,69.49,Left-hand bat,62,29,3,24342.4,28.89,58.3,rfm,0,PAK,seam,yes,19.384444444444444,2.982222222222222
+1,177,177,PAK,6,78,78,Faheem Ashraf,SCJ Broad,8,0,1,30.75,177,69.49,Left-hand bat,63,29,3,24342.4,28.89,58.3,rfm,0,PAK,seam,yes,19.384444444444444,2.982222222222222
+1,178,178,PAK,6,78,78,Faheem Ashraf,SCJ Broad,8,0,2,30.75,177,69.49,Left-hand bat,64,29,3,24342.4,28.89,58.3,rfm,0,PAK,seam,yes,19.384444444444444,2.982222222222222
+1,179,179,PAK,6,78,78,Faheem Ashraf,SCJ Broad,8,0,3,30.75,177,69.49,Left-hand bat,65,29,3,24342.4,28.89,58.3,rfm,0,PAK,seam,yes,19.384444444444444,2.982222222222222

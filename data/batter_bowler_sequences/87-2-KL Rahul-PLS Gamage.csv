@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,482,6,IND,0,5,-200,KL Rahul,PLS Gamage,1,5,2,44.62,2483,57.51,Right-hand bat,0,0,0,636.3,45.71,91.2,rfm,0,SRL,seam,no,13.060650887573965,24.67011834319527
+2,483,7,IND,0,5,-200,KL Rahul,PLS Gamage,1,5,3,44.62,2483,57.51,Right-hand bat,1,0,0,636.3,45.71,91.2,rfm,2,SRL,seam,no,13.060650887573965,24.67011834319527
+2,484,8,IND,0,7,-198,KL Rahul,PLS Gamage,1,7,4,44.62,2483,57.51,Right-hand bat,2,2,0,636.3,45.71,91.2,rfm,0,SRL,seam,no,13.060650887573965,24.67011834319527
+2,485,9,IND,0,7,-198,KL Rahul,PLS Gamage,1,7,5,44.62,2483,57.51,Right-hand bat,3,2,0,636.3,45.71,91.2,rfm,0,SRL,seam,no,13.060650887573965,24.67011834319527
+2,486,10,IND,0,7,-198,KL Rahul,PLS Gamage,1,7,6,44.62,2483,57.51,Right-hand bat,4,2,0,636.3,45.71,91.2,rfm,0,SRL,seam,no,13.060650887573965,24.67011834319527
+2,487,11,IND,0,7,-198,KL Rahul,PLS Gamage,1,7,7,44.62,2483,57.51,Right-hand bat,5,2,0,636.3,45.71,91.2,rfm,0,SRL,seam,no,13.060650887573965,24.67011834319527
+2,494,18,IND,0,7,-198,KL Rahul,PLS Gamage,1,7,8,44.62,2483,57.51,Right-hand bat,6,2,0,636.3,45.71,91.2,rfm,0,SRL,seam,no,13.060650887573965,24.67011834319527
+2,495,19,IND,0,7,-198,KL Rahul,PLS Gamage,1,7,9,44.62,2483,57.51,Right-hand bat,7,2,0,636.3,45.71,91.2,rfm,0,SRL,seam,no,13.060650887573965,24.67011834319527
+2,496,20,IND,0,7,-198,KL Rahul,PLS Gamage,1,7,10,44.62,2483,57.51,Right-hand bat,8,2,0,636.3,45.71,91.2,rfm,0,SRL,seam,no,13.060650887573965,24.67011834319527
+2,497,21,IND,0,7,-198,KL Rahul,PLS Gamage,1,7,11,44.62,2483,57.51,Right-hand bat,9,2,0,636.3,45.71,91.2,rfm,0,SRL,seam,no,13.060650887573965,24.67011834319527
+2,498,22,IND,0,7,-198,KL Rahul,PLS Gamage,1,7,12,44.62,2483,57.51,Right-hand bat,10,2,0,636.3,45.71,91.2,rfm,W,SRL,seam,no,13.060650887573965,24.67011834319527

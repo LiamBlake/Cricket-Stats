@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1464,773,SRL,8,472,-14,RAS Lakmal,ST Finn,10,0,0,1,16,12.5,Right-hand bat,190,104,4,2070.4,26.92,41.4,rfm,0,ENG,seam,yes,33.29666666666667,14.270000000000001
+2,1465,774,SRL,8,472,-14,RAS Lakmal,ST Finn,10,0,1,1,16,12.5,Right-hand bat,191,104,4,2070.4,26.92,41.4,rfm,0,ENG,seam,yes,33.29666666666667,14.270000000000001
+2,1466,775,SRL,8,472,-14,RAS Lakmal,ST Finn,10,0,2,1,16,12.5,Right-hand bat,192,104,4,2070.4,26.92,41.4,rfm,0,ENG,seam,yes,33.29666666666667,14.270000000000001
+2,1467,776,SRL,8,472,-14,RAS Lakmal,ST Finn,10,0,3,1,16,12.5,Right-hand bat,193,104,4,2070.4,26.92,41.4,rfm,0,ENG,seam,yes,33.29666666666667,14.270000000000001
+2,1468,777,SRL,8,472,-14,RAS Lakmal,ST Finn,10,0,4,1,16,12.5,Right-hand bat,194,104,4,2070.4,26.92,41.4,rfm,0,ENG,seam,yes,33.29666666666667,14.270000000000001
+2,1479,788,SRL,9,476,-10,RAS Lakmal,ST Finn,10,0,7,1,16,12.5,Right-hand bat,199,107,4,2070.4,26.92,41.4,rfm,0,ENG,seam,yes,33.29666666666667,14.270000000000001
+2,1480,789,SRL,9,476,-10,RAS Lakmal,ST Finn,10,0,8,1,16,12.5,Right-hand bat,200,107,4,2070.4,26.92,41.4,rfm,1wd,ENG,seam,yes,33.29666666666667,14.270000000000001
+2,1481,790,SRL,9,477,-9,RAS Lakmal,ST Finn,10,0,8,1,16,12.5,Right-hand bat,201,108,4,2070.4,26.92,41.4,rfm,0,ENG,seam,yes,33.29666666666667,14.270000000000001

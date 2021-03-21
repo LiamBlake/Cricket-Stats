@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,700,60,ENG,0,50,-230,AJ Strauss,SR Watson,1,36,26,43.14,12116,50.21,Left-hand bat,0,0,0,2598.3,31.41,60.4,rfm,2,AUS,seam,no,34.81111111111111,5.355555555555555
+2,701,61,ENG,0,52,-228,AJ Strauss,SR Watson,1,38,27,43.14,12116,50.21,Left-hand bat,1,2,0,2598.3,31.41,60.4,rfm,0,AUS,seam,no,34.81111111111111,5.355555555555555
+2,702,62,ENG,0,52,-228,AJ Strauss,SR Watson,1,38,28,43.14,12116,50.21,Left-hand bat,2,2,0,2598.3,31.41,60.4,rfm,0,AUS,seam,no,34.81111111111111,5.355555555555555
+2,703,63,ENG,0,52,-228,AJ Strauss,SR Watson,1,38,29,43.14,12116,50.21,Left-hand bat,3,2,0,2598.3,31.41,60.4,rfm,0,AUS,seam,no,34.81111111111111,5.355555555555555
+2,704,64,ENG,0,52,-228,AJ Strauss,SR Watson,1,38,30,43.14,12116,50.21,Left-hand bat,4,2,0,2598.3,31.41,60.4,rfm,2b,AUS,seam,no,34.81111111111111,5.355555555555555
+2,705,65,ENG,0,54,-226,AJ Strauss,SR Watson,1,38,31,43.14,12116,50.21,Left-hand bat,5,2,0,2598.3,31.41,60.4,rfm,0,AUS,seam,no,34.81111111111111,5.355555555555555
+2,714,74,ENG,0,56,-224,AJ Strauss,SR Watson,1,38,34,43.14,12116,50.21,Left-hand bat,8,3,0,2598.3,31.41,60.4,rfm,0,AUS,seam,no,34.81111111111111,5.355555555555555
+2,715,75,ENG,0,56,-224,AJ Strauss,SR Watson,1,38,35,43.14,12116,50.21,Left-hand bat,9,3,0,2598.3,31.41,60.4,rfm,0,AUS,seam,no,34.81111111111111,5.355555555555555
+2,716,76,ENG,0,56,-224,AJ Strauss,SR Watson,1,38,36,43.14,12116,50.21,Left-hand bat,10,3,0,2598.3,31.41,60.4,rfm,2,AUS,seam,no,34.81111111111111,5.355555555555555
+2,717,77,ENG,0,58,-222,AJ Strauss,SR Watson,1,40,37,43.14,12116,50.21,Left-hand bat,11,5,0,2598.3,31.41,60.4,rfm,0,AUS,seam,no,34.81111111111111,5.355555555555555

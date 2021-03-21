@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1534,169,WIN,4,109,-195,J Blackwood,R Ashwin,5,37,34,33.03,1583,58.43,Right-hand bat,4,1,0,9750.2,25.19,51.5,rob,4,WIN,spin,yes,17.344,26.016
+3,1535,170,WIN,4,113,-191,J Blackwood,R Ashwin,5,41,35,33.03,1583,58.43,Right-hand bat,5,5,0,9750.2,25.19,51.5,rob,1,WIN,spin,yes,17.344,26.016
+3,1542,177,WIN,4,119,-185,J Blackwood,R Ashwin,5,43,38,33.03,1583,58.43,Right-hand bat,6,6,0,9750.2,25.19,51.5,rob,6,WIN,spin,yes,17.344,26.016
+3,1543,178,WIN,4,125,-179,J Blackwood,R Ashwin,5,49,39,33.03,1583,58.43,Right-hand bat,7,12,0,9750.2,25.19,51.5,rob,0,WIN,spin,yes,17.344,26.016
+3,1544,179,WIN,4,125,-179,J Blackwood,R Ashwin,5,49,40,33.03,1583,58.43,Right-hand bat,8,12,0,9750.2,25.19,51.5,rob,1,WIN,spin,yes,17.344,26.016
+3,1546,181,WIN,4,127,-177,J Blackwood,R Ashwin,5,50,41,33.03,1583,58.43,Right-hand bat,10,14,0,9750.2,25.19,51.5,rob,0,WIN,spin,yes,17.344,26.016
+3,1547,182,WIN,4,127,-177,J Blackwood,R Ashwin,5,50,42,33.03,1583,58.43,Right-hand bat,11,14,0,9750.2,25.19,51.5,rob,0,WIN,spin,yes,17.344,26.016
+3,1554,189,WIN,4,135,-169,J Blackwood,R Ashwin,5,57,46,33.03,1583,58.43,Right-hand bat,12,14,0,9750.2,25.19,51.5,rob,0,WIN,spin,yes,17.344,26.016
+3,1555,190,WIN,4,135,-169,J Blackwood,R Ashwin,5,57,47,33.03,1583,58.43,Right-hand bat,13,14,0,9750.2,25.19,51.5,rob,4,WIN,spin,yes,17.344,26.016
+3,1556,191,WIN,4,139,-165,J Blackwood,R Ashwin,5,61,48,33.03,1583,58.43,Right-hand bat,14,18,0,9750.2,25.19,51.5,rob,0,WIN,spin,yes,17.344,26.016
+3,1557,192,WIN,4,139,-165,J Blackwood,R Ashwin,5,61,49,33.03,1583,58.43,Right-hand bat,15,18,0,9750.2,25.19,51.5,rob,1,WIN,spin,yes,17.344,26.016
+3,1566,201,WIN,4,141,-163,J Blackwood,R Ashwin,5,63,51,33.03,1583,58.43,Right-hand bat,18,19,0,9750.2,25.19,51.5,rob,0,WIN,spin,yes,17.344,26.016
+3,1567,202,WIN,4,141,-163,J Blackwood,R Ashwin,5,63,52,33.03,1583,58.43,Right-hand bat,19,19,0,9750.2,25.19,51.5,rob,0,WIN,spin,yes,17.344,26.016
+3,1568,203,WIN,4,141,-163,J Blackwood,R Ashwin,5,63,53,33.03,1583,58.43,Right-hand bat,20,19,0,9750.2,25.19,51.5,rob,W,WIN,spin,yes,17.344,26.016

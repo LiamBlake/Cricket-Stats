@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,351,8,AUS,0,6,-138,JA Burns,CBRLS Kumara,2,0,1,35.92,1593,58.63,Right-hand bat,2,1,0,2784.5,36.44,55.7,rf,0,AUS,seam,no,16.16,3.3666666666666667
+2,352,9,AUS,0,6,-138,JA Burns,CBRLS Kumara,2,0,2,35.92,1593,58.63,Right-hand bat,3,1,0,2784.5,36.44,55.7,rf,0,AUS,seam,no,16.16,3.3666666666666667
+2,353,10,AUS,0,6,-138,JA Burns,CBRLS Kumara,2,0,3,35.92,1593,58.63,Right-hand bat,4,1,0,2784.5,36.44,55.7,rf,0,AUS,seam,no,16.16,3.3666666666666667
+2,354,11,AUS,0,6,-138,JA Burns,CBRLS Kumara,2,0,4,35.92,1593,58.63,Right-hand bat,5,1,0,2784.5,36.44,55.7,rf,0,AUS,seam,no,16.16,3.3666666666666667
+2,362,19,AUS,0,12,-132,JA Burns,CBRLS Kumara,2,0,6,35.92,1593,58.63,Right-hand bat,7,2,0,2784.5,36.44,55.7,rf,0,AUS,seam,no,16.16,3.3666666666666667
+2,363,20,AUS,0,12,-132,JA Burns,CBRLS Kumara,2,0,7,35.92,1593,58.63,Right-hand bat,8,2,0,2784.5,36.44,55.7,rf,4,AUS,seam,no,16.16,3.3666666666666667
+2,364,21,AUS,0,16,-128,JA Burns,CBRLS Kumara,2,4,8,35.92,1593,58.63,Right-hand bat,9,6,0,2784.5,36.44,55.7,rf,0,AUS,seam,no,16.16,3.3666666666666667
+2,365,22,AUS,0,16,-128,JA Burns,CBRLS Kumara,2,4,9,35.92,1593,58.63,Right-hand bat,10,6,0,2784.5,36.44,55.7,rf,0,AUS,seam,no,16.16,3.3666666666666667
+2,366,23,AUS,0,16,-128,JA Burns,CBRLS Kumara,2,4,10,35.92,1593,58.63,Right-hand bat,11,6,0,2784.5,36.44,55.7,rf,0,AUS,seam,no,16.16,3.3666666666666667
+2,373,30,AUS,0,16,-128,JA Burns,CBRLS Kumara,2,4,11,35.92,1593,58.63,Right-hand bat,12,6,0,2784.5,36.44,55.7,rf,4,AUS,seam,no,16.16,3.3666666666666667
+2,374,31,AUS,0,20,-124,JA Burns,CBRLS Kumara,2,8,12,35.92,1593,58.63,Right-hand bat,13,10,0,2784.5,36.44,55.7,rf,4,AUS,seam,no,16.16,3.3666666666666667
+2,375,32,AUS,0,24,-120,JA Burns,CBRLS Kumara,2,12,13,35.92,1593,58.63,Right-hand bat,14,14,0,2784.5,36.44,55.7,rf,0,AUS,seam,no,16.16,3.3666666666666667
+2,376,33,AUS,0,24,-120,JA Burns,CBRLS Kumara,2,12,14,35.92,1593,58.63,Right-hand bat,15,14,0,2784.5,36.44,55.7,rf,0,AUS,seam,no,16.16,3.3666666666666667
+2,377,34,AUS,0,24,-120,JA Burns,CBRLS Kumara,2,12,15,35.92,1593,58.63,Right-hand bat,16,14,0,2784.5,36.44,55.7,rf,0,AUS,seam,no,16.16,3.3666666666666667
+2,378,35,AUS,0,24,-120,JA Burns,CBRLS Kumara,2,12,16,35.92,1593,58.63,Right-hand bat,17,14,0,2784.5,36.44,55.7,rf,0,AUS,seam,no,16.16,3.3666666666666667

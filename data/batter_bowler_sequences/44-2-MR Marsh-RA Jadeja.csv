@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,891,463,AUS,4,160,-29,MR Marsh,RA Jadeja,6,0,0,21.74,1287,52.36,Right-hand bat,70,31,3,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875
+2,892,464,AUS,4,160,-29,MR Marsh,RA Jadeja,6,0,1,21.74,1287,52.36,Right-hand bat,71,31,3,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875
+2,903,475,AUS,4,162,-27,MR Marsh,RA Jadeja,6,0,7,21.74,1287,52.36,Right-hand bat,76,32,3,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875
+2,904,476,AUS,4,162,-27,MR Marsh,RA Jadeja,6,0,8,21.74,1287,52.36,Right-hand bat,77,32,3,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875

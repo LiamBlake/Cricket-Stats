@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,894,368,AUS,8,187,-107,NM Lyon,CR Woakes,10,0,0,12.23,2135,46.97,Right-hand bat,43,30,1,5274.2,31.29,59.9,rfm,0,ENG,seam,yes,20.83125,6.94375
+2,895,369,AUS,8,187,-107,NM Lyon,CR Woakes,10,0,1,12.23,2135,46.97,Right-hand bat,44,30,1,5274.2,31.29,59.9,rfm,4,ENG,seam,yes,20.83125,6.94375
+2,896,370,AUS,8,191,-103,NM Lyon,CR Woakes,10,4,2,12.23,2135,46.97,Right-hand bat,45,34,1,5274.2,31.29,59.9,rfm,0,ENG,seam,yes,20.83125,6.94375
+2,897,371,AUS,8,191,-103,NM Lyon,CR Woakes,10,4,3,12.23,2135,46.97,Right-hand bat,46,34,1,5274.2,31.29,59.9,rfm,0,ENG,seam,yes,20.83125,6.94375
+2,898,372,AUS,8,191,-103,NM Lyon,CR Woakes,10,4,4,12.23,2135,46.97,Right-hand bat,47,34,1,5274.2,31.29,59.9,rfm,4,ENG,seam,yes,20.83125,6.94375
+2,906,380,AUS,8,201,-93,NM Lyon,CR Woakes,10,8,9,12.23,2135,46.97,Right-hand bat,49,41,1,5274.2,31.29,59.9,rfm,0,ENG,seam,yes,20.83125,6.94375
+2,907,381,AUS,8,201,-93,NM Lyon,CR Woakes,10,8,10,12.23,2135,46.97,Right-hand bat,50,41,1,5274.2,31.29,59.9,rfm,0,ENG,seam,yes,20.83125,6.94375
+2,908,382,AUS,8,201,-93,NM Lyon,CR Woakes,10,8,11,12.23,2135,46.97,Right-hand bat,51,41,1,5274.2,31.29,59.9,rfm,0,ENG,seam,yes,20.83125,6.94375
+2,909,383,AUS,8,201,-93,NM Lyon,CR Woakes,10,8,12,12.23,2135,46.97,Right-hand bat,52,41,1,5274.2,31.29,59.9,rfm,0,ENG,seam,yes,20.83125,6.94375
+2,910,384,AUS,8,201,-93,NM Lyon,CR Woakes,10,8,13,12.23,2135,46.97,Right-hand bat,53,41,1,5274.2,31.29,59.9,rfm,0,ENG,seam,yes,20.83125,6.94375
+2,917,391,AUS,8,205,-89,NM Lyon,CR Woakes,10,8,14,12.23,2135,46.97,Right-hand bat,54,41,1,5274.2,31.29,59.9,rfm,0,ENG,seam,yes,20.83125,6.94375
+2,918,392,AUS,8,205,-89,NM Lyon,CR Woakes,10,8,15,12.23,2135,46.97,Right-hand bat,55,41,1,5274.2,31.29,59.9,rfm,0,ENG,seam,yes,20.83125,6.94375
+2,919,393,AUS,8,205,-89,NM Lyon,CR Woakes,10,8,16,12.23,2135,46.97,Right-hand bat,56,41,1,5274.2,31.29,59.9,rfm,4,ENG,seam,yes,20.83125,6.94375
+2,920,394,AUS,8,209,-85,NM Lyon,CR Woakes,10,12,17,12.23,2135,46.97,Right-hand bat,57,45,1,5274.2,31.29,59.9,rfm,0,ENG,seam,yes,20.83125,6.94375
+2,921,395,AUS,8,209,-85,NM Lyon,CR Woakes,10,12,18,12.23,2135,46.97,Right-hand bat,58,45,1,5274.2,31.29,59.9,rfm,6,ENG,seam,yes,20.83125,6.94375
+2,922,396,AUS,8,215,-79,NM Lyon,CR Woakes,10,18,19,12.23,2135,46.97,Right-hand bat,59,51,1,5274.2,31.29,59.9,rfm,0,ENG,seam,yes,20.83125,6.94375

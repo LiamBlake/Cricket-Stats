@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2061,478,SRL,4,233,31,TT Samaraweera,DJ Bravo,5,17,35,53.93,8981,48.04,Right-hand bat,67,36,0,6330.4,39.96,75.4,rm,0,SRL,seam,no,20.398865784499055,31.73156899810964
+3,2062,479,SRL,4,233,31,TT Samaraweera,DJ Bravo,5,17,36,53.93,8981,48.04,Right-hand bat,68,36,0,6330.4,39.96,75.4,rm,1,SRL,seam,no,20.398865784499055,31.73156899810964
+3,2065,482,SRL,4,235,33,TT Samaraweera,DJ Bravo,5,18,37,53.93,8981,48.04,Right-hand bat,71,38,0,6330.4,39.96,75.4,rm,0,SRL,seam,no,20.398865784499055,31.73156899810964
+3,2066,483,SRL,4,235,33,TT Samaraweera,DJ Bravo,5,18,38,53.93,8981,48.04,Right-hand bat,72,38,0,6330.4,39.96,75.4,rm,0,SRL,seam,no,20.398865784499055,31.73156899810964
+3,2073,490,SRL,4,239,37,TT Samaraweera,DJ Bravo,5,18,39,53.93,8981,48.04,Right-hand bat,73,38,0,6330.4,39.96,75.4,rm,0,SRL,seam,no,20.398865784499055,31.73156899810964
+3,2074,491,SRL,4,239,37,TT Samaraweera,DJ Bravo,5,18,40,53.93,8981,48.04,Right-hand bat,74,38,0,6330.4,39.96,75.4,rm,1wd,SRL,seam,no,20.398865784499055,31.73156899810964
+3,2075,492,SRL,4,240,38,TT Samaraweera,DJ Bravo,5,18,40,53.93,8981,48.04,Right-hand bat,75,39,0,6330.4,39.96,75.4,rm,1,SRL,seam,no,20.398865784499055,31.73156899810964

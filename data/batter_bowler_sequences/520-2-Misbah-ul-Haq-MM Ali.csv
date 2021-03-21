@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1264,332,PAK,8,155,-434,Misbah-ul-Haq,MM Ali,6,38,98,48.95,10242,44.45,Right-hand bat,19,11,0,4704.2,40.42,64.4,rob,4,ENG,spin,no,31.234244946492268,9.938168846611177
+2,1265,333,PAK,8,159,-430,Misbah-ul-Haq,MM Ali,6,42,99,48.95,10242,44.45,Right-hand bat,20,15,0,4704.2,40.42,64.4,rob,1,ENG,spin,no,31.234244946492268,9.938168846611177
+2,1267,335,PAK,8,161,-428,Misbah-ul-Haq,MM Ali,6,43,100,48.95,10242,44.45,Right-hand bat,22,17,0,4704.2,40.42,64.4,rob,1,ENG,spin,no,31.234244946492268,9.938168846611177
+2,1276,344,PAK,8,167,-422,Misbah-ul-Haq,MM Ali,6,47,104,48.95,10242,44.45,Right-hand bat,25,19,0,4704.2,40.42,64.4,rob,2,ENG,spin,no,31.234244946492268,9.938168846611177
+2,1277,345,PAK,8,169,-420,Misbah-ul-Haq,MM Ali,6,49,105,48.95,10242,44.45,Right-hand bat,26,21,0,4704.2,40.42,64.4,rob,0,ENG,spin,no,31.234244946492268,9.938168846611177
+2,1278,346,PAK,8,169,-420,Misbah-ul-Haq,MM Ali,6,49,106,48.95,10242,44.45,Right-hand bat,27,21,0,4704.2,40.42,64.4,rob,0,ENG,spin,no,31.234244946492268,9.938168846611177
+2,1279,347,PAK,8,169,-420,Misbah-ul-Haq,MM Ali,6,49,107,48.95,10242,44.45,Right-hand bat,28,21,0,4704.2,40.42,64.4,rob,1,ENG,spin,no,31.234244946492268,9.938168846611177
+2,1288,356,PAK,8,177,-412,Misbah-ul-Haq,MM Ali,6,51,110,48.95,10242,44.45,Right-hand bat,31,28,0,4704.2,40.42,64.4,rob,0,ENG,spin,no,31.234244946492268,9.938168846611177
+2,1289,357,PAK,8,177,-412,Misbah-ul-Haq,MM Ali,6,51,111,48.95,10242,44.45,Right-hand bat,32,28,0,4704.2,40.42,64.4,rob,0,ENG,spin,no,31.234244946492268,9.938168846611177
+2,1290,358,PAK,8,177,-412,Misbah-ul-Haq,MM Ali,6,51,112,48.95,10242,44.45,Right-hand bat,33,28,0,4704.2,40.42,64.4,rob,1,ENG,spin,no,31.234244946492268,9.938168846611177
+2,1293,361,PAK,8,179,-410,Misbah-ul-Haq,MM Ali,6,52,113,48.95,10242,44.45,Right-hand bat,36,30,0,4704.2,40.42,64.4,rob,W,ENG,spin,no,31.234244946492268,9.938168846611177

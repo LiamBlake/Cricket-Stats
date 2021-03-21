@@ -1,0 +1,3 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,769,769,AUS,9,415,415,NM Lyon,Yasir Shah,11,19,13,13.65,1423,44.13,Right-hand bat,251,127,1,6666,28.65,56,rls,0,AUS,spin,yes,29.951020408163263,4.9918367346938775
+1,788,788,AUS,9,429,429,NM Lyon,Yasir Shah,11,29,23,13.65,1423,44.13,Right-hand bat,258,129,1,6666,28.65,56,rls,W,AUS,spin,yes,29.951020408163263,4.9918367346938775

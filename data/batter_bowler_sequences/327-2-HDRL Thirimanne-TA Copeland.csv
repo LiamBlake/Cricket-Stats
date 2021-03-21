@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,647,16,SRL,0,9,-307,HDRL Thirimanne,TA Copeland,2,1,5,26.66,236,33.89,Left-hand bat,10,5,0,648,37.83,108,rfm,0,SRL,seam,yes,29.959999999999997,12.84
+2,648,17,SRL,0,9,-307,HDRL Thirimanne,TA Copeland,2,1,6,26.66,236,33.89,Left-hand bat,11,5,0,648,37.83,108,rfm,0,SRL,seam,yes,29.959999999999997,12.84
+2,654,23,SRL,0,15,-301,HDRL Thirimanne,TA Copeland,2,1,7,26.66,236,33.89,Left-hand bat,12,5,0,648,37.83,108,rfm,0,SRL,seam,yes,29.959999999999997,12.84
+2,655,24,SRL,0,15,-301,HDRL Thirimanne,TA Copeland,2,1,8,26.66,236,33.89,Left-hand bat,13,5,0,648,37.83,108,rfm,0,SRL,seam,yes,29.959999999999997,12.84
+2,656,25,SRL,0,15,-301,HDRL Thirimanne,TA Copeland,2,1,9,26.66,236,33.89,Left-hand bat,14,5,0,648,37.83,108,rfm,0,SRL,seam,yes,29.959999999999997,12.84
+2,657,26,SRL,0,15,-301,HDRL Thirimanne,TA Copeland,2,1,10,26.66,236,33.89,Left-hand bat,15,5,0,648,37.83,108,rfm,3,SRL,seam,yes,29.959999999999997,12.84
+2,678,47,SRL,0,21,-295,HDRL Thirimanne,TA Copeland,2,7,23,26.66,236,33.89,Left-hand bat,24,8,0,648,37.83,108,rfm,0,SRL,seam,yes,29.959999999999997,12.84
+2,679,48,SRL,0,21,-295,HDRL Thirimanne,TA Copeland,2,7,24,26.66,236,33.89,Left-hand bat,25,8,0,648,37.83,108,rfm,0,SRL,seam,yes,29.959999999999997,12.84
+2,680,49,SRL,0,21,-295,HDRL Thirimanne,TA Copeland,2,7,25,26.66,236,33.89,Left-hand bat,26,8,0,648,37.83,108,rfm,0,SRL,seam,yes,29.959999999999997,12.84
+2,681,50,SRL,0,21,-295,HDRL Thirimanne,TA Copeland,2,7,26,26.66,236,33.89,Left-hand bat,27,8,0,648,37.83,108,rfm,0,SRL,seam,yes,29.959999999999997,12.84
+2,682,51,SRL,0,21,-295,HDRL Thirimanne,TA Copeland,2,7,27,26.66,236,33.89,Left-hand bat,28,8,0,648,37.83,108,rfm,0,SRL,seam,yes,29.959999999999997,12.84
+2,683,52,SRL,0,21,-295,HDRL Thirimanne,TA Copeland,2,7,28,26.66,236,33.89,Left-hand bat,29,8,0,648,37.83,108,rfm,0,SRL,seam,yes,29.959999999999997,12.84
+2,693,62,SRL,0,23,-293,HDRL Thirimanne,TA Copeland,2,7,30,26.66,236,33.89,Left-hand bat,33,9,0,648,37.83,108,rfm,0,SRL,seam,yes,29.959999999999997,12.84
+2,694,63,SRL,0,23,-293,HDRL Thirimanne,TA Copeland,2,7,31,26.66,236,33.89,Left-hand bat,34,9,0,648,37.83,108,rfm,0,SRL,seam,yes,29.959999999999997,12.84
+2,695,64,SRL,0,23,-293,HDRL Thirimanne,TA Copeland,2,7,32,26.66,236,33.89,Left-hand bat,35,9,0,648,37.83,108,rfm,2,SRL,seam,yes,29.959999999999997,12.84

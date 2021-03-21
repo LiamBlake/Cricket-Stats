@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2276,2,IND,0,5,-237,V Sehwag,FH Edwards,2,0,0,52.15,9717,82.12,Right-hand bat,2,5,0,8772.1,37.45,56.9,rf,1,IND,seam,no,14.280078895463513,22.848126232741617
+4,2278,4,IND,0,7,-235,V Sehwag,FH Edwards,2,1,1,52.15,9717,82.12,Right-hand bat,4,7,0,8772.1,37.45,56.9,rf,0,IND,seam,no,14.280078895463513,22.848126232741617
+4,2279,5,IND,0,7,-235,V Sehwag,FH Edwards,2,1,2,52.15,9717,82.12,Right-hand bat,5,7,0,8772.1,37.45,56.9,rf,1,IND,seam,no,14.280078895463513,22.848126232741617
+4,2286,12,IND,0,13,-229,V Sehwag,FH Edwards,2,5,7,52.15,9717,82.12,Right-hand bat,6,8,0,8772.1,37.45,56.9,rf,0,IND,seam,no,14.280078895463513,22.848126232741617
+4,2287,13,IND,0,13,-229,V Sehwag,FH Edwards,2,5,8,52.15,9717,82.12,Right-hand bat,7,8,0,8772.1,37.45,56.9,rf,1nb,IND,seam,no,14.280078895463513,22.848126232741617
+4,2288,14,IND,0,14,-228,V Sehwag,FH Edwards,2,5,9,52.15,9717,82.12,Right-hand bat,8,9,0,8772.1,37.45,56.9,rf,0,IND,seam,no,14.280078895463513,22.848126232741617
+4,2289,15,IND,0,14,-228,V Sehwag,FH Edwards,2,5,10,52.15,9717,82.12,Right-hand bat,9,9,0,8772.1,37.45,56.9,rf,1,IND,seam,no,14.280078895463513,22.848126232741617
+4,2292,18,IND,0,16,-226,V Sehwag,FH Edwards,2,6,11,52.15,9717,82.12,Right-hand bat,12,11,0,8772.1,37.45,56.9,rf,0,IND,seam,no,14.280078895463513,22.848126232741617
+4,2312,38,IND,1,26,-216,V Sehwag,FH Edwards,2,7,18,52.15,9717,82.12,Right-hand bat,20,18,1,8772.1,37.45,56.9,rf,1,IND,seam,no,14.280078895463513,22.848126232741617
+4,2314,40,IND,1,28,-214,V Sehwag,FH Edwards,2,8,19,52.15,9717,82.12,Right-hand bat,22,20,1,8772.1,37.45,56.9,rf,1,IND,seam,no,14.280078895463513,22.848126232741617
+4,2325,51,IND,1,40,-202,V Sehwag,FH Edwards,2,18,25,52.15,9717,82.12,Right-hand bat,27,22,1,8772.1,37.45,56.9,rf,0,IND,seam,no,14.280078895463513,22.848126232741617
+4,2326,52,IND,1,40,-202,V Sehwag,FH Edwards,2,18,26,52.15,9717,82.12,Right-hand bat,28,22,1,8772.1,37.45,56.9,rf,0,IND,seam,no,14.280078895463513,22.848126232741617
+4,2327,53,IND,1,40,-202,V Sehwag,FH Edwards,2,18,27,52.15,9717,82.12,Right-hand bat,29,22,1,8772.1,37.45,56.9,rf,0,IND,seam,no,14.280078895463513,22.848126232741617
+4,2328,54,IND,1,40,-202,V Sehwag,FH Edwards,2,18,28,52.15,9717,82.12,Right-hand bat,30,22,1,8772.1,37.45,56.9,rf,0,IND,seam,no,14.280078895463513,22.848126232741617

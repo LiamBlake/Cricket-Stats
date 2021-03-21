@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1719,631,ENG,7,368,414,SM Curran,D Pretorius,9,6,7,27.47,994,63.58,Left-hand bat,90,49,1,306,26.2,61.2,rmf,4,RSA,seam,yes,24.280470914127424,5.482686980609418
+3,1720,632,ENG,7,372,418,SM Curran,D Pretorius,9,10,8,27.47,994,63.58,Left-hand bat,91,53,1,306,26.2,61.2,rmf,0,RSA,seam,yes,24.280470914127424,5.482686980609418
+3,1721,633,ENG,7,372,418,SM Curran,D Pretorius,9,10,9,27.47,994,63.58,Left-hand bat,92,53,1,306,26.2,61.2,rmf,0,RSA,seam,yes,24.280470914127424,5.482686980609418
+3,1722,634,ENG,7,372,418,SM Curran,D Pretorius,9,10,10,27.47,994,63.58,Left-hand bat,93,53,1,306,26.2,61.2,rmf,2,RSA,seam,yes,24.280470914127424,5.482686980609418
+3,1723,635,ENG,7,374,420,SM Curran,D Pretorius,9,12,11,27.47,994,63.58,Left-hand bat,94,55,1,306,26.2,61.2,rmf,1,RSA,seam,yes,24.280470914127424,5.482686980609418

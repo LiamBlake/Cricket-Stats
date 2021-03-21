@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1343,67,PAK,0,42,-397,Imran Farhat,SPD Smith,1,17,33,33.31,4308,48.72,Left-hand bat,0,0,0,126,17,42,rls,0,AUS,spin,yes,16.64,8.96
+4,1344,68,PAK,0,42,-397,Imran Farhat,SPD Smith,1,17,34,33.31,4308,48.72,Left-hand bat,1,0,0,126,17,42,rls,0,AUS,spin,yes,16.64,8.96
+4,1345,69,PAK,0,42,-397,Imran Farhat,SPD Smith,1,17,35,33.31,4308,48.72,Left-hand bat,2,0,0,126,17,42,rls,1,AUS,spin,yes,16.64,8.96
+4,1367,91,PAK,0,50,-389,Imran Farhat,SPD Smith,1,24,47,33.31,4308,48.72,Left-hand bat,12,1,0,126,17,42,rls,W,AUS,spin,yes,16.64,8.96

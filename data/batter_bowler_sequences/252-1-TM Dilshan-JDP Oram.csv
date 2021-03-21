@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,78,78,SRL,1,46,46,TM Dilshan,JDP Oram,2,17,29,43.03,5390,63.87,Right-hand bat,0,0,0,4962.2,33.05,82.7,rfm,0,SRL,seam,yes,8.868571428571428,29.93142857142857
+1,79,79,SRL,1,46,46,TM Dilshan,JDP Oram,2,17,30,43.03,5390,63.87,Right-hand bat,1,0,0,4962.2,33.05,82.7,rfm,0,SRL,seam,yes,8.868571428571428,29.93142857142857
+1,80,80,SRL,1,46,46,TM Dilshan,JDP Oram,2,17,31,43.03,5390,63.87,Right-hand bat,2,0,0,4962.2,33.05,82.7,rfm,0,SRL,seam,yes,8.868571428571428,29.93142857142857
+1,81,81,SRL,1,46,46,TM Dilshan,JDP Oram,2,17,32,43.03,5390,63.87,Right-hand bat,3,0,0,4962.2,33.05,82.7,rfm,0,SRL,seam,yes,8.868571428571428,29.93142857142857
+1,82,82,SRL,1,46,46,TM Dilshan,JDP Oram,2,17,33,43.03,5390,63.87,Right-hand bat,4,0,0,4962.2,33.05,82.7,rfm,0,SRL,seam,yes,8.868571428571428,29.93142857142857
+1,83,83,SRL,1,46,46,TM Dilshan,JDP Oram,2,17,34,43.03,5390,63.87,Right-hand bat,5,0,0,4962.2,33.05,82.7,rfm,0,SRL,seam,yes,8.868571428571428,29.93142857142857
+1,114,114,SRL,1,54,54,TM Dilshan,JDP Oram,2,19,44,43.03,5390,63.87,Right-hand bat,18,4,0,4962.2,33.05,82.7,rfm,2,SRL,seam,yes,8.868571428571428,29.93142857142857
+1,115,115,SRL,1,56,56,TM Dilshan,JDP Oram,2,21,45,43.03,5390,63.87,Right-hand bat,19,6,0,4962.2,33.05,82.7,rfm,0,SRL,seam,yes,8.868571428571428,29.93142857142857
+1,116,116,SRL,1,56,56,TM Dilshan,JDP Oram,2,21,46,43.03,5390,63.87,Right-hand bat,20,6,0,4962.2,33.05,82.7,rfm,2,SRL,seam,yes,8.868571428571428,29.93142857142857
+1,117,117,SRL,1,58,58,TM Dilshan,JDP Oram,2,23,47,43.03,5390,63.87,Right-hand bat,21,8,0,4962.2,33.05,82.7,rfm,0,SRL,seam,yes,8.868571428571428,29.93142857142857
+1,118,118,SRL,1,58,58,TM Dilshan,JDP Oram,2,23,48,43.03,5390,63.87,Right-hand bat,22,8,0,4962.2,33.05,82.7,rfm,2,SRL,seam,yes,8.868571428571428,29.93142857142857
+1,119,119,SRL,1,60,60,TM Dilshan,JDP Oram,2,25,49,43.03,5390,63.87,Right-hand bat,23,10,0,4962.2,33.05,82.7,rfm,0,SRL,seam,yes,8.868571428571428,29.93142857142857

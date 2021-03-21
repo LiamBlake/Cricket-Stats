@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1039,90,IND,4,53,165,V Kohli,JS Patel,4,20,26,43.76,6198,53.66,Right-hand bat,0,0,0,4896.1,48.81,90.6,rob,2,IND,spin,yes,15.925,8.575
+3,1040,91,IND,4,55,167,V Kohli,JS Patel,4,22,27,43.76,6198,53.66,Right-hand bat,1,2,0,4896.1,48.81,90.6,rob,0,IND,spin,yes,15.925,8.575
+3,1041,92,IND,4,55,167,V Kohli,JS Patel,4,22,28,43.76,6198,53.66,Right-hand bat,2,2,0,4896.1,48.81,90.6,rob,0,IND,spin,yes,15.925,8.575
+3,1042,93,IND,4,55,167,V Kohli,JS Patel,4,22,29,43.76,6198,53.66,Right-hand bat,3,2,0,4896.1,48.81,90.6,rob,1,IND,spin,yes,15.925,8.575
+3,1054,105,IND,4,68,180,V Kohli,JS Patel,4,27,36,43.76,6198,53.66,Right-hand bat,8,10,0,4896.1,48.81,90.6,rob,4,IND,spin,yes,15.925,8.575
+3,1055,106,IND,4,72,184,V Kohli,JS Patel,4,31,37,43.76,6198,53.66,Right-hand bat,9,14,0,4896.1,48.81,90.6,rob,4,IND,spin,yes,15.925,8.575
+3,1056,107,IND,4,76,188,V Kohli,JS Patel,4,35,38,43.76,6198,53.66,Right-hand bat,10,18,0,4896.1,48.81,90.6,rob,0,IND,spin,yes,15.925,8.575
+3,1057,108,IND,4,76,188,V Kohli,JS Patel,4,35,39,43.76,6198,53.66,Right-hand bat,11,18,0,4896.1,48.81,90.6,rob,0,IND,spin,yes,15.925,8.575
+3,1067,118,IND,4,84,196,V Kohli,JS Patel,4,39,45,43.76,6198,53.66,Right-hand bat,15,21,0,4896.1,48.81,90.6,rob,4,IND,spin,yes,15.925,8.575
+3,1068,119,IND,4,88,200,V Kohli,JS Patel,4,43,46,43.76,6198,53.66,Right-hand bat,16,25,0,4896.1,48.81,90.6,rob,1,IND,spin,yes,15.925,8.575

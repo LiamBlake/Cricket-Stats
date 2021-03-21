@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,352,352,RSA,4,194,194,T Bavuma,SCJ Broad,6,0,0,31.09,2123,45.4,Right-hand bat,88,29,3,21372,28.67,57.2,rfm,0,RSA,seam,yes,18.703484549638397,7.3477975016436545
+1,353,353,RSA,4,194,194,T Bavuma,SCJ Broad,6,0,1,31.09,2123,45.4,Right-hand bat,89,29,3,21372,28.67,57.2,rfm,0,RSA,seam,yes,18.703484549638397,7.3477975016436545
+1,363,363,RSA,4,200,200,T Bavuma,SCJ Broad,6,0,3,31.09,2123,45.4,Right-hand bat,93,30,3,21372,28.67,57.2,rfm,0,RSA,seam,yes,18.703484549638397,7.3477975016436545
+1,364,364,RSA,4,200,200,T Bavuma,SCJ Broad,6,0,4,31.09,2123,45.4,Right-hand bat,94,30,3,21372,28.67,57.2,rfm,4,RSA,seam,yes,18.703484549638397,7.3477975016436545
+1,365,365,RSA,4,204,204,T Bavuma,SCJ Broad,6,4,5,31.09,2123,45.4,Right-hand bat,95,34,3,21372,28.67,57.2,rfm,0,RSA,seam,yes,18.703484549638397,7.3477975016436545

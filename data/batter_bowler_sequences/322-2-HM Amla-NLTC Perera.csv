@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,570,274,RSA,2,124,-56,HM Amla,NLTC Perera,4,18,27,47.2,8252,50.33,Right-hand bat,48,34,0,432,59.2,86.4,rmf,0,RSA,seam,yes,22.23,2.4699999999999998
+2,571,275,RSA,2,124,-56,HM Amla,NLTC Perera,4,18,28,47.2,8252,50.33,Right-hand bat,49,34,0,432,59.2,86.4,rmf,1wd,RSA,seam,yes,22.23,2.4699999999999998
+2,572,276,RSA,2,125,-55,HM Amla,NLTC Perera,4,18,28,47.2,8252,50.33,Right-hand bat,50,35,0,432,59.2,86.4,rmf,0,RSA,seam,yes,22.23,2.4699999999999998
+2,573,277,RSA,2,125,-55,HM Amla,NLTC Perera,4,18,29,47.2,8252,50.33,Right-hand bat,51,35,0,432,59.2,86.4,rmf,0,RSA,seam,yes,22.23,2.4699999999999998
+2,574,278,RSA,2,125,-55,HM Amla,NLTC Perera,4,18,30,47.2,8252,50.33,Right-hand bat,52,35,0,432,59.2,86.4,rmf,0,RSA,seam,yes,22.23,2.4699999999999998
+2,575,279,RSA,2,125,-55,HM Amla,NLTC Perera,4,18,31,47.2,8252,50.33,Right-hand bat,53,35,0,432,59.2,86.4,rmf,0,RSA,seam,yes,22.23,2.4699999999999998
+2,576,280,RSA,2,125,-55,HM Amla,NLTC Perera,4,18,32,47.2,8252,50.33,Right-hand bat,54,35,0,432,59.2,86.4,rmf,W,RSA,seam,yes,22.23,2.4699999999999998

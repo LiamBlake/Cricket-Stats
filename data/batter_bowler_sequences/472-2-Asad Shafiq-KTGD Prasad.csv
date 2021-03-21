@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,889,286,PAK,5,164,-156,Asad Shafiq,KTGD Prasad,6,12,25,36.85,3672,42.15,Right-hand bat,40,16,0,2406.2,48.36,72.9,rfm,0,SRL,seam,no,9.61625,17.171875
+2,890,287,PAK,5,164,-156,Asad Shafiq,KTGD Prasad,6,12,26,36.85,3672,42.15,Right-hand bat,41,16,0,2406.2,48.36,72.9,rfm,0,SRL,seam,no,9.61625,17.171875
+2,891,288,PAK,5,164,-156,Asad Shafiq,KTGD Prasad,6,12,27,36.85,3672,42.15,Right-hand bat,42,16,0,2406.2,48.36,72.9,rfm,0,SRL,seam,no,9.61625,17.171875
+2,902,299,PAK,5,172,-148,Asad Shafiq,KTGD Prasad,6,13,32,36.85,3672,42.15,Right-hand bat,47,21,0,2406.2,48.36,72.9,rfm,0,SRL,seam,no,9.61625,17.171875
+2,903,300,PAK,5,172,-148,Asad Shafiq,KTGD Prasad,6,13,33,36.85,3672,42.15,Right-hand bat,48,21,0,2406.2,48.36,72.9,rfm,1,SRL,seam,no,9.61625,17.171875
+2,910,307,PAK,5,180,-140,Asad Shafiq,KTGD Prasad,6,19,37,36.85,3672,42.15,Right-hand bat,49,22,0,2406.2,48.36,72.9,rfm,0,SRL,seam,no,9.61625,17.171875
+2,911,308,PAK,5,180,-140,Asad Shafiq,KTGD Prasad,6,19,38,36.85,3672,42.15,Right-hand bat,50,22,0,2406.2,48.36,72.9,rfm,2,SRL,seam,no,9.61625,17.171875
+2,912,309,PAK,5,182,-138,Asad Shafiq,KTGD Prasad,6,21,39,36.85,3672,42.15,Right-hand bat,51,24,0,2406.2,48.36,72.9,rfm,0,SRL,seam,no,9.61625,17.171875
+2,913,310,PAK,5,182,-138,Asad Shafiq,KTGD Prasad,6,21,40,36.85,3672,42.15,Right-hand bat,52,24,0,2406.2,48.36,72.9,rfm,2,SRL,seam,no,9.61625,17.171875
+2,914,311,PAK,5,184,-136,Asad Shafiq,KTGD Prasad,6,23,41,36.85,3672,42.15,Right-hand bat,53,26,0,2406.2,48.36,72.9,rfm,1,SRL,seam,no,9.61625,17.171875

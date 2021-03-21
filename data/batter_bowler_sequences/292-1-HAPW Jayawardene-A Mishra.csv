@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,624,624,SRL,5,331,331,HAPW Jayawardene,A Mishra,7,0,3,29.18,2226,48.51,Right-hand bat,157,95,0,2850,39.69,79.1,rls,0,SRL,spin,yes,9.051428571428572,30.54857142857143
+1,625,625,SRL,5,331,331,HAPW Jayawardene,A Mishra,7,0,4,29.18,2226,48.51,Right-hand bat,158,95,0,2850,39.69,79.1,rls,1,SRL,spin,yes,9.051428571428572,30.54857142857143
+1,638,638,SRL,5,338,338,HAPW Jayawardene,A Mishra,7,1,11,29.18,2226,48.51,Right-hand bat,165,98,0,2850,39.69,79.1,rls,0,SRL,spin,yes,9.051428571428572,30.54857142857143
+1,639,639,SRL,5,338,338,HAPW Jayawardene,A Mishra,7,1,12,29.18,2226,48.51,Right-hand bat,166,98,0,2850,39.69,79.1,rls,0,SRL,spin,yes,9.051428571428572,30.54857142857143
+1,640,640,SRL,5,338,338,HAPW Jayawardene,A Mishra,7,1,13,29.18,2226,48.51,Right-hand bat,167,98,0,2850,39.69,79.1,rls,1,SRL,spin,yes,9.051428571428572,30.54857142857143
+1,652,652,SRL,5,340,340,HAPW Jayawardene,A Mishra,7,2,20,29.18,2226,48.51,Right-hand bat,173,100,0,2850,39.69,79.1,rls,0,SRL,spin,yes,9.051428571428572,30.54857142857143
+1,653,653,SRL,5,340,340,HAPW Jayawardene,A Mishra,7,2,21,29.18,2226,48.51,Right-hand bat,174,100,0,2850,39.69,79.1,rls,0,SRL,spin,yes,9.051428571428572,30.54857142857143
+1,662,662,SRL,5,344,344,HAPW Jayawardene,A Mishra,7,3,26,29.18,2226,48.51,Right-hand bat,177,101,0,2850,39.69,79.1,rls,0,SRL,spin,yes,9.051428571428572,30.54857142857143
+1,663,663,SRL,5,344,344,HAPW Jayawardene,A Mishra,7,3,27,29.18,2226,48.51,Right-hand bat,178,101,0,2850,39.69,79.1,rls,0,SRL,spin,yes,9.051428571428572,30.54857142857143
+1,664,664,SRL,5,344,344,HAPW Jayawardene,A Mishra,7,3,28,29.18,2226,48.51,Right-hand bat,179,101,0,2850,39.69,79.1,rls,4,SRL,spin,yes,9.051428571428572,30.54857142857143
+1,665,665,SRL,5,348,348,HAPW Jayawardene,A Mishra,7,7,29,29.18,2226,48.51,Right-hand bat,180,105,0,2850,39.69,79.1,rls,0,SRL,spin,yes,9.051428571428572,30.54857142857143
+1,674,674,SRL,5,354,354,HAPW Jayawardene,A Mishra,7,7,30,29.18,2226,48.51,Right-hand bat,183,106,0,2850,39.69,79.1,rls,0,SRL,spin,yes,9.051428571428572,30.54857142857143
+1,675,675,SRL,5,354,354,HAPW Jayawardene,A Mishra,7,7,31,29.18,2226,48.51,Right-hand bat,184,106,0,2850,39.69,79.1,rls,1,SRL,spin,yes,9.051428571428572,30.54857142857143
+1,687,687,SRL,5,356,356,HAPW Jayawardene,A Mishra,7,8,38,29.18,2226,48.51,Right-hand bat,190,108,0,2850,39.69,79.1,rls,1,SRL,spin,yes,9.051428571428572,30.54857142857143
+1,689,689,SRL,5,358,358,HAPW Jayawardene,A Mishra,7,9,39,29.18,2226,48.51,Right-hand bat,192,110,0,2850,39.69,79.1,rls,0,SRL,spin,yes,9.051428571428572,30.54857142857143

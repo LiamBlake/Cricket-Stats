@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1436,163,RSA,6,74,-143,SR Harmer,RA Jadeja,8,1,6,9.25,140,26.42,Right-hand bat,42,13,3,3600.3,27.22,67.9,lo,0,IND,spin,no,2.6025,14.747500000000002
+4,1437,164,RSA,6,74,-143,SR Harmer,RA Jadeja,8,1,7,9.25,140,26.42,Right-hand bat,43,13,3,3600.3,27.22,67.9,lo,0,IND,spin,no,2.6025,14.747500000000002
+4,1438,165,RSA,6,74,-143,SR Harmer,RA Jadeja,8,1,8,9.25,140,26.42,Right-hand bat,44,13,3,3600.3,27.22,67.9,lo,0,IND,spin,no,2.6025,14.747500000000002
+4,1439,166,RSA,6,74,-143,SR Harmer,RA Jadeja,8,1,9,9.25,140,26.42,Right-hand bat,45,13,3,3600.3,27.22,67.9,lo,0,IND,spin,no,2.6025,14.747500000000002
+4,1440,167,RSA,6,74,-143,SR Harmer,RA Jadeja,8,1,10,9.25,140,26.42,Right-hand bat,46,13,3,3600.3,27.22,67.9,lo,1,IND,spin,no,2.6025,14.747500000000002
+4,1484,211,RSA,6,102,-115,SR Harmer,RA Jadeja,8,11,29,9.25,140,26.42,Right-hand bat,54,14,3,3600.3,27.22,67.9,lo,W,IND,spin,no,2.6025,14.747500000000002

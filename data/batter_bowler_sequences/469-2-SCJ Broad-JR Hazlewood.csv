@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,574,460,ENG,8,332,272,SCJ Broad,JR Hazlewood,10,0,0,23.15,3589,67.09,Left-hand bat,134,75,2,1764.1,21.75,44.1,rfm,1,ENG,seam,yes,24.275862068965516,0
+2,581,467,ENG,8,334,274,SCJ Broad,JR Hazlewood,10,2,7,23.15,3589,67.09,Left-hand bat,135,76,2,1764.1,21.75,44.1,rfm,0,ENG,seam,yes,24.275862068965516,0
+2,582,468,ENG,8,334,274,SCJ Broad,JR Hazlewood,10,2,8,23.15,3589,67.09,Left-hand bat,136,76,2,1764.1,21.75,44.1,rfm,1,ENG,seam,yes,24.275862068965516,0
+2,609,495,ENG,8,369,309,SCJ Broad,JR Hazlewood,10,13,21,23.15,3589,67.09,Left-hand bat,145,87,2,1764.1,21.75,44.1,rfm,4,ENG,seam,yes,24.275862068965516,0
+2,610,496,ENG,8,373,313,SCJ Broad,JR Hazlewood,10,17,22,23.15,3589,67.09,Left-hand bat,146,91,2,1764.1,21.75,44.1,rfm,6,ENG,seam,yes,24.275862068965516,0
+2,611,497,ENG,8,379,319,SCJ Broad,JR Hazlewood,10,23,23,23.15,3589,67.09,Left-hand bat,147,97,2,1764.1,21.75,44.1,rfm,0,ENG,seam,yes,24.275862068965516,0

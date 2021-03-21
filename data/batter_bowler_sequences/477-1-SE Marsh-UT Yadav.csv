@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,303,303,AUS,3,142,142,SE Marsh,UT Yadav,5,16,48,35.42,1494,45.04,Left-hand bat,66,44,1,2016,33.47,48,rf,4,AUS,seam,yes,33.98857142857143,8.497142857142858
+1,304,304,AUS,3,146,146,SE Marsh,UT Yadav,5,20,49,35.42,1494,45.04,Left-hand bat,67,48,1,2016,33.47,48,rf,0,AUS,seam,yes,33.98857142857143,8.497142857142858
+1,305,305,AUS,3,146,146,SE Marsh,UT Yadav,5,20,50,35.42,1494,45.04,Left-hand bat,68,48,1,2016,33.47,48,rf,1,AUS,seam,yes,33.98857142857143,8.497142857142858
+1,308,308,AUS,3,148,148,SE Marsh,UT Yadav,5,21,51,35.42,1494,45.04,Left-hand bat,71,50,1,2016,33.47,48,rf,0,AUS,seam,yes,33.98857142857143,8.497142857142858
+1,315,315,AUS,3,152,152,SE Marsh,UT Yadav,5,21,52,35.42,1494,45.04,Left-hand bat,72,50,1,2016,33.47,48,rf,0,AUS,seam,yes,33.98857142857143,8.497142857142858
+1,316,316,AUS,3,152,152,SE Marsh,UT Yadav,5,21,53,35.42,1494,45.04,Left-hand bat,73,50,1,2016,33.47,48,rf,0,AUS,seam,yes,33.98857142857143,8.497142857142858
+1,317,317,AUS,3,152,152,SE Marsh,UT Yadav,5,21,54,35.42,1494,45.04,Left-hand bat,74,50,1,2016,33.47,48,rf,1,AUS,seam,yes,33.98857142857143,8.497142857142858
+1,328,328,AUS,3,156,156,SE Marsh,UT Yadav,5,23,60,35.42,1494,45.04,Left-hand bat,79,52,1,2016,33.47,48,rf,0,AUS,seam,yes,33.98857142857143,8.497142857142858
+1,329,329,AUS,3,156,156,SE Marsh,UT Yadav,5,23,61,35.42,1494,45.04,Left-hand bat,80,52,1,2016,33.47,48,rf,0,AUS,seam,yes,33.98857142857143,8.497142857142858
+1,330,330,AUS,3,156,156,SE Marsh,UT Yadav,5,23,62,35.42,1494,45.04,Left-hand bat,81,52,1,2016,33.47,48,rf,1,AUS,seam,yes,33.98857142857143,8.497142857142858

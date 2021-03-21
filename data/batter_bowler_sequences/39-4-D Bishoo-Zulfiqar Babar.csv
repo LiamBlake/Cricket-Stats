@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2308,609,WIN,7,306,-149,D Bishoo,Zulfiqar Babar,9,19,37,16.47,893,42.44,Left-hand bat,111,43,0,4332.2,39.05,81.7,lo,1,PAK,spin,no,19.140625,19.140625
+4,2310,611,WIN,7,308,-147,D Bishoo,Zulfiqar Babar,9,20,38,16.47,893,42.44,Left-hand bat,113,45,0,4332.2,39.05,81.7,lo,0,PAK,spin,no,19.140625,19.140625
+4,2317,618,WIN,7,310,-145,D Bishoo,Zulfiqar Babar,9,21,40,16.47,893,42.44,Left-hand bat,114,45,0,4332.2,39.05,81.7,lo,0,PAK,spin,no,19.140625,19.140625
+4,2318,619,WIN,7,310,-145,D Bishoo,Zulfiqar Babar,9,21,41,16.47,893,42.44,Left-hand bat,115,45,0,4332.2,39.05,81.7,lo,1,PAK,spin,no,19.140625,19.140625
+4,2329,630,WIN,9,316,-139,D Bishoo,Zulfiqar Babar,9,23,43,16.47,893,42.44,Left-hand bat,120,46,1,4332.2,39.05,81.7,lo,0,PAK,spin,no,19.140625,19.140625
+4,2330,631,WIN,9,316,-139,D Bishoo,Zulfiqar Babar,9,23,44,16.47,893,42.44,Left-hand bat,121,46,1,4332.2,39.05,81.7,lo,0,PAK,spin,no,19.140625,19.140625
+4,2331,632,WIN,9,316,-139,D Bishoo,Zulfiqar Babar,9,23,45,16.47,893,42.44,Left-hand bat,122,46,1,4332.2,39.05,81.7,lo,1,PAK,spin,no,19.140625,19.140625
+4,2341,642,WIN,9,318,-137,D Bishoo,Zulfiqar Babar,9,25,51,16.47,893,42.44,Left-hand bat,126,47,1,4332.2,39.05,81.7,lo,1,PAK,spin,no,19.140625,19.140625
+4,2345,646,WIN,9,322,-133,D Bishoo,Zulfiqar Babar,9,26,52,16.47,893,42.44,Left-hand bat,130,51,1,4332.2,39.05,81.7,lo,0,PAK,spin,no,19.140625,19.140625
+4,2346,647,WIN,9,322,-133,D Bishoo,Zulfiqar Babar,9,26,53,16.47,893,42.44,Left-hand bat,131,51,1,4332.2,39.05,81.7,lo,W,PAK,spin,no,19.140625,19.140625

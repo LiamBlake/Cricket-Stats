@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,475,186,ENG,1,95,-79,AN Cook,Shadab Khan,1,40,90,45.65,25844,46.99,Left-hand bat,0,0,0,756,48.25,94.5,rls,0,PAK,spin,no,19.384444444444444,2.982222222222222
+2,476,187,ENG,1,95,-79,AN Cook,Shadab Khan,1,40,91,45.65,25844,46.99,Left-hand bat,1,0,0,756,48.25,94.5,rls,0,PAK,spin,no,19.384444444444444,2.982222222222222
+2,477,188,ENG,1,95,-79,AN Cook,Shadab Khan,1,40,92,45.65,25844,46.99,Left-hand bat,2,0,0,756,48.25,94.5,rls,0,PAK,spin,no,19.384444444444444,2.982222222222222
+2,478,189,ENG,1,95,-79,AN Cook,Shadab Khan,1,40,93,45.65,25844,46.99,Left-hand bat,3,0,0,756,48.25,94.5,rls,1,PAK,spin,no,19.384444444444444,2.982222222222222
+2,487,198,ENG,1,99,-75,AN Cook,Shadab Khan,1,44,99,45.65,25844,46.99,Left-hand bat,6,1,0,756,48.25,94.5,rls,0,PAK,spin,no,19.384444444444444,2.982222222222222
+2,488,199,ENG,1,99,-75,AN Cook,Shadab Khan,1,44,100,45.65,25844,46.99,Left-hand bat,7,1,0,756,48.25,94.5,rls,0,PAK,spin,no,19.384444444444444,2.982222222222222
+2,489,200,ENG,1,99,-75,AN Cook,Shadab Khan,1,44,101,45.65,25844,46.99,Left-hand bat,8,1,0,756,48.25,94.5,rls,0,PAK,spin,no,19.384444444444444,2.982222222222222
+2,490,201,ENG,1,99,-75,AN Cook,Shadab Khan,1,44,102,45.65,25844,46.99,Left-hand bat,9,1,0,756,48.25,94.5,rls,1,PAK,spin,no,19.384444444444444,2.982222222222222

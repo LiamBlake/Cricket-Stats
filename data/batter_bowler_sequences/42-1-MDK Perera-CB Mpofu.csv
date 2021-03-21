@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,635,635,SRL,6,347,347,MDK Perera,CB Mpofu,8,0,0,14.39,674,49.1,Right-hand bat,122,80,1,1992.2,46.8,79.7,rfm,0,ZIM,seam,no,11.662064431295201,20.825115055884286
+1,636,636,SRL,6,347,347,MDK Perera,CB Mpofu,8,0,1,14.39,674,49.1,Right-hand bat,123,80,1,1992.2,46.8,79.7,rfm,4,ZIM,seam,no,11.662064431295201,20.825115055884286
+1,637,637,SRL,6,351,351,MDK Perera,CB Mpofu,8,4,2,14.39,674,49.1,Right-hand bat,124,84,1,1992.2,46.8,79.7,rfm,0,ZIM,seam,no,11.662064431295201,20.825115055884286
+1,638,638,SRL,6,351,351,MDK Perera,CB Mpofu,8,4,3,14.39,674,49.1,Right-hand bat,125,84,1,1992.2,46.8,79.7,rfm,0,ZIM,seam,no,11.662064431295201,20.825115055884286
+1,645,645,SRL,6,357,357,MDK Perera,CB Mpofu,8,5,6,14.39,674,49.1,Right-hand bat,126,84,1,1992.2,46.8,79.7,rfm,0,ZIM,seam,no,11.662064431295201,20.825115055884286
+1,646,646,SRL,6,357,357,MDK Perera,CB Mpofu,8,5,7,14.39,674,49.1,Right-hand bat,127,84,1,1992.2,46.8,79.7,rfm,0,ZIM,seam,no,11.662064431295201,20.825115055884286
+1,647,647,SRL,6,357,357,MDK Perera,CB Mpofu,8,5,8,14.39,674,49.1,Right-hand bat,128,84,1,1992.2,46.8,79.7,rfm,0,ZIM,seam,no,11.662064431295201,20.825115055884286
+1,648,648,SRL,6,357,357,MDK Perera,CB Mpofu,8,5,9,14.39,674,49.1,Right-hand bat,129,84,1,1992.2,46.8,79.7,rfm,0,ZIM,seam,no,11.662064431295201,20.825115055884286
+1,649,649,SRL,6,357,357,MDK Perera,CB Mpofu,8,5,10,14.39,674,49.1,Right-hand bat,130,84,1,1992.2,46.8,79.7,rfm,4,ZIM,seam,no,11.662064431295201,20.825115055884286
+1,650,650,SRL,6,361,361,MDK Perera,CB Mpofu,8,9,11,14.39,674,49.1,Right-hand bat,131,88,1,1992.2,46.8,79.7,rfm,0,ZIM,seam,no,11.662064431295201,20.825115055884286

@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,769,85,WIN,2,76,-301,DS Smith,G Onions,2,30,33,25.43,2732,47.47,Left-hand bat,0,0,0,126.3,14.57,18.4,rmf,4,ENG,seam,yes,19.97111111111111,7.262222222222222
+2,770,86,WIN,2,80,-297,DS Smith,G Onions,2,34,34,25.43,2732,47.47,Left-hand bat,1,4,0,126.3,14.57,18.4,rmf,1,ENG,seam,yes,19.97111111111111,7.262222222222222
+2,783,99,WIN,2,90,-287,DS Smith,G Onions,2,39,41,25.43,2732,47.47,Left-hand bat,8,9,0,126.3,14.57,18.4,rmf,0,ENG,seam,yes,19.97111111111111,7.262222222222222
+2,784,100,WIN,2,90,-287,DS Smith,G Onions,2,39,42,25.43,2732,47.47,Left-hand bat,9,9,0,126.3,14.57,18.4,rmf,4,ENG,seam,yes,19.97111111111111,7.262222222222222
+2,785,101,WIN,2,94,-283,DS Smith,G Onions,2,43,43,25.43,2732,47.47,Left-hand bat,10,13,0,126.3,14.57,18.4,rmf,1,ENG,seam,yes,19.97111111111111,7.262222222222222
+2,793,109,WIN,2,96,-281,DS Smith,G Onions,2,45,48,25.43,2732,47.47,Left-hand bat,12,14,0,126.3,14.57,18.4,rmf,1,ENG,seam,yes,19.97111111111111,7.262222222222222

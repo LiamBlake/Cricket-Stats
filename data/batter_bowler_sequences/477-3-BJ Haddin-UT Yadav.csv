@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1947,312,AUS,5,182,247,BJ Haddin,UT Yadav,7,4,15,33.33,5455,58.05,Right-hand bat,49,55,1,2016,33.47,48,rf,0,AUS,seam,yes,33.98857142857143,8.497142857142858
+3,1948,313,AUS,5,182,247,BJ Haddin,UT Yadav,7,4,16,33.33,5455,58.05,Right-hand bat,50,55,1,2016,33.47,48,rf,1,AUS,seam,yes,33.98857142857143,8.497142857142858
+3,1950,315,AUS,5,184,249,BJ Haddin,UT Yadav,7,5,17,33.33,5455,58.05,Right-hand bat,52,57,1,2016,33.47,48,rf,0,AUS,seam,yes,33.98857142857143,8.497142857142858
+3,1951,316,AUS,5,184,249,BJ Haddin,UT Yadav,7,5,18,33.33,5455,58.05,Right-hand bat,53,57,1,2016,33.47,48,rf,0,AUS,seam,yes,33.98857142857143,8.497142857142858
+3,1952,317,AUS,5,184,249,BJ Haddin,UT Yadav,7,5,19,33.33,5455,58.05,Right-hand bat,54,57,1,2016,33.47,48,rf,1,AUS,seam,yes,33.98857142857143,8.497142857142858
+3,1971,336,AUS,5,200,265,BJ Haddin,UT Yadav,7,11,25,33.33,5455,58.05,Right-hand bat,61,66,1,2016,33.47,48,rf,2,AUS,seam,yes,33.98857142857143,8.497142857142858
+3,1972,337,AUS,5,202,267,BJ Haddin,UT Yadav,7,13,26,33.33,5455,58.05,Right-hand bat,62,68,1,2016,33.47,48,rf,W,AUS,seam,yes,33.98857142857143,8.497142857142858

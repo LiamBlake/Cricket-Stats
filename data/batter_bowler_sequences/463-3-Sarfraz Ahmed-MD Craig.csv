@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1794,166,PAK,5,63,-276,Sarfraz Ahmed,MD Craig,7,0,0,43.78,1164,71.47,Right-hand bat,51,28,2,1488.1,41.24,59.5,rob,1,NZL,spin,yes,13,30.333333333333332
+3,1796,168,PAK,5,65,-274,Sarfraz Ahmed,MD Craig,7,1,1,43.78,1164,71.47,Right-hand bat,53,30,2,1488.1,41.24,59.5,rob,0,NZL,spin,yes,13,30.333333333333332
+3,1804,176,PAK,5,67,-272,Sarfraz Ahmed,MD Craig,7,1,6,43.78,1164,71.47,Right-hand bat,55,31,2,1488.1,41.24,59.5,rob,0,NZL,spin,yes,13,30.333333333333332
+3,1805,177,PAK,5,67,-272,Sarfraz Ahmed,MD Craig,7,1,7,43.78,1164,71.47,Right-hand bat,56,31,2,1488.1,41.24,59.5,rob,4,NZL,spin,yes,13,30.333333333333332
+3,1806,178,PAK,5,71,-268,Sarfraz Ahmed,MD Craig,7,5,8,43.78,1164,71.47,Right-hand bat,57,35,2,1488.1,41.24,59.5,rob,2,NZL,spin,yes,13,30.333333333333332
+3,1807,179,PAK,5,73,-266,Sarfraz Ahmed,MD Craig,7,7,9,43.78,1164,71.47,Right-hand bat,58,37,2,1488.1,41.24,59.5,rob,4,NZL,spin,yes,13,30.333333333333332
+3,1808,180,PAK,5,77,-262,Sarfraz Ahmed,MD Craig,7,11,10,43.78,1164,71.47,Right-hand bat,59,41,2,1488.1,41.24,59.5,rob,4,NZL,spin,yes,13,30.333333333333332
+3,1815,187,PAK,5,87,-252,Sarfraz Ahmed,MD Craig,7,16,15,43.78,1164,71.47,Right-hand bat,60,45,2,1488.1,41.24,59.5,rob,1,NZL,spin,yes,13,30.333333333333332
+3,1820,192,PAK,5,89,-250,Sarfraz Ahmed,MD Craig,7,17,16,43.78,1164,71.47,Right-hand bat,65,47,2,1488.1,41.24,59.5,rob,4,NZL,spin,yes,13,30.333333333333332
+3,1839,211,PAK,5,123,-216,Sarfraz Ahmed,MD Craig,7,30,20,43.78,1164,71.47,Right-hand bat,72,61,2,1488.1,41.24,59.5,rob,0,NZL,spin,yes,13,30.333333333333332
+3,1840,212,PAK,5,123,-216,Sarfraz Ahmed,MD Craig,7,30,21,43.78,1164,71.47,Right-hand bat,73,61,2,1488.1,41.24,59.5,rob,0,NZL,spin,yes,13,30.333333333333332
+3,1841,213,PAK,5,123,-216,Sarfraz Ahmed,MD Craig,7,30,22,43.78,1164,71.47,Right-hand bat,74,61,2,1488.1,41.24,59.5,rob,1,NZL,spin,yes,13,30.333333333333332

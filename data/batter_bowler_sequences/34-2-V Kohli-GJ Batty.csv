@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,841,277,IND,2,122,-161,V Kohli,GJ Batty,4,22,60,48.28,7299,54.24,Right-hand bat,0,0,0,1710.4,60.93,114.2,rob,1,IND,spin,no,14.21875,18.28125
+2,843,279,IND,2,124,-159,V Kohli,GJ Batty,4,23,61,48.28,7299,54.24,Right-hand bat,2,2,0,1710.4,60.93,114.2,rob,1,IND,spin,no,14.21875,18.28125
+2,846,282,IND,2,126,-157,V Kohli,GJ Batty,4,24,62,48.28,7299,54.24,Right-hand bat,5,4,0,1710.4,60.93,114.2,rob,1,IND,spin,no,14.21875,18.28125
+2,856,292,IND,2,132,-151,V Kohli,GJ Batty,4,25,69,48.28,7299,54.24,Right-hand bat,9,10,0,1710.4,60.93,114.2,rob,4,IND,spin,no,14.21875,18.28125
+2,857,293,IND,2,136,-147,V Kohli,GJ Batty,4,29,70,48.28,7299,54.24,Right-hand bat,10,14,0,1710.4,60.93,114.2,rob,1,IND,spin,no,14.21875,18.28125
+2,866,302,IND,2,142,-141,V Kohli,GJ Batty,4,34,77,48.28,7299,54.24,Right-hand bat,13,16,0,1710.4,60.93,114.2,rob,4,IND,spin,no,14.21875,18.28125
+2,867,303,IND,2,146,-137,V Kohli,GJ Batty,4,38,78,48.28,7299,54.24,Right-hand bat,14,20,0,1710.4,60.93,114.2,rob,2,IND,spin,no,14.21875,18.28125
+2,868,304,IND,2,148,-135,V Kohli,GJ Batty,4,40,79,48.28,7299,54.24,Right-hand bat,15,22,0,1710.4,60.93,114.2,rob,0,IND,spin,no,14.21875,18.28125
+2,869,305,IND,2,148,-135,V Kohli,GJ Batty,4,40,80,48.28,7299,54.24,Right-hand bat,16,22,0,1710.4,60.93,114.2,rob,0,IND,spin,no,14.21875,18.28125
+2,870,306,IND,2,148,-135,V Kohli,GJ Batty,4,40,81,48.28,7299,54.24,Right-hand bat,17,22,0,1710.4,60.93,114.2,rob,0,IND,spin,no,14.21875,18.28125

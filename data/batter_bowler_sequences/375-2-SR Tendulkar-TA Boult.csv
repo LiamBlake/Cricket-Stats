@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,601,60,IND,2,27,-338,SR Tendulkar,TA Boult,4,0,0,55.08,NA,NA,Right-hand bat,30,17,0,1032.5,36.52,61,lfm,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,602,61,IND,2,27,-338,SR Tendulkar,TA Boult,4,0,1,55.08,NA,NA,Right-hand bat,31,17,0,1032.5,36.52,61,lfm,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,603,62,IND,2,27,-338,SR Tendulkar,TA Boult,4,0,2,55.08,NA,NA,Right-hand bat,32,17,0,1032.5,36.52,61,lfm,4b,IND,seam,no,19.0465306122449,16.039183673469388
+2,604,63,IND,2,31,-334,SR Tendulkar,TA Boult,4,0,3,55.08,NA,NA,Right-hand bat,33,17,0,1032.5,36.52,61,lfm,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,605,64,IND,2,31,-334,SR Tendulkar,TA Boult,4,0,4,55.08,NA,NA,Right-hand bat,34,17,0,1032.5,36.52,61,lfm,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,606,65,IND,2,31,-334,SR Tendulkar,TA Boult,4,0,5,55.08,NA,NA,Right-hand bat,35,17,0,1032.5,36.52,61,lfm,1lb,IND,seam,no,19.0465306122449,16.039183673469388
+2,613,72,IND,2,33,-332,SR Tendulkar,TA Boult,4,1,12,55.08,NA,NA,Right-hand bat,36,17,0,1032.5,36.52,61,lfm,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,614,73,IND,2,33,-332,SR Tendulkar,TA Boult,4,1,13,55.08,NA,NA,Right-hand bat,37,17,0,1032.5,36.52,61,lfm,3,IND,seam,no,19.0465306122449,16.039183673469388
+2,673,132,IND,3,67,-298,SR Tendulkar,TA Boult,4,4,41,55.08,NA,NA,Right-hand bat,42,24,0,1032.5,36.52,61,lfm,4,IND,seam,no,19.0465306122449,16.039183673469388
+2,674,133,IND,3,71,-294,SR Tendulkar,TA Boult,4,8,42,55.08,NA,NA,Right-hand bat,43,28,0,1032.5,36.52,61,lfm,4,IND,seam,no,19.0465306122449,16.039183673469388
+2,675,134,IND,3,75,-290,SR Tendulkar,TA Boult,4,12,43,55.08,NA,NA,Right-hand bat,44,32,0,1032.5,36.52,61,lfm,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,676,135,IND,3,75,-290,SR Tendulkar,TA Boult,4,12,44,55.08,NA,NA,Right-hand bat,45,32,0,1032.5,36.52,61,lfm,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,677,136,IND,3,75,-290,SR Tendulkar,TA Boult,4,12,45,55.08,NA,NA,Right-hand bat,46,32,0,1032.5,36.52,61,lfm,0,IND,seam,no,19.0465306122449,16.039183673469388
+2,678,137,IND,3,75,-290,SR Tendulkar,TA Boult,4,12,46,55.08,NA,NA,Right-hand bat,47,32,0,1032.5,36.52,61,lfm,1,IND,seam,no,19.0465306122449,16.039183673469388

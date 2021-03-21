@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2355,781,NZL,7,438,316,TG Southee,PP Ojha,9,4,2,16.92,253,86.95,Right-hand bat,267,134,2,3318.2,42.51,89.7,lo,0,IND,spin,yes,20.479591836734695,27.30612244897959
+3,2356,782,NZL,7,438,316,TG Southee,PP Ojha,9,4,3,16.92,253,86.95,Right-hand bat,268,134,2,3318.2,42.51,89.7,lo,0,IND,spin,yes,20.479591836734695,27.30612244897959
+3,2357,783,NZL,7,438,316,TG Southee,PP Ojha,9,4,4,16.92,253,86.95,Right-hand bat,269,134,2,3318.2,42.51,89.7,lo,0,IND,spin,yes,20.479591836734695,27.30612244897959
+3,2358,784,NZL,7,438,316,TG Southee,PP Ojha,9,4,5,16.92,253,86.95,Right-hand bat,270,134,2,3318.2,42.51,89.7,lo,1,IND,spin,yes,20.479591836734695,27.30612244897959
+3,2367,793,NZL,7,446,324,TG Southee,PP Ojha,9,10,9,16.92,253,86.95,Right-hand bat,273,136,2,3318.2,42.51,89.7,lo,0,IND,spin,yes,20.479591836734695,27.30612244897959
+3,2368,794,NZL,7,446,324,TG Southee,PP Ojha,9,10,10,16.92,253,86.95,Right-hand bat,274,136,2,3318.2,42.51,89.7,lo,0,IND,spin,yes,20.479591836734695,27.30612244897959
+3,2369,795,NZL,7,446,324,TG Southee,PP Ojha,9,10,11,16.92,253,86.95,Right-hand bat,275,136,2,3318.2,42.51,89.7,lo,1,IND,spin,yes,20.479591836734695,27.30612244897959

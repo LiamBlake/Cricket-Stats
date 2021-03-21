@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1032,197,AUS,1,85,52,RT Ponting,TG Southee,3,0,0,55.22,20034,59.53,Right-hand bat,28,24,1,1740.3,40.88,69.7,rmf,0,NZL,seam,yes,24.457063711911356,9.963988919667589
+3,1033,198,AUS,1,85,52,RT Ponting,TG Southee,3,0,1,55.22,20034,59.53,Right-hand bat,29,24,1,1740.3,40.88,69.7,rmf,0,NZL,seam,yes,24.457063711911356,9.963988919667589
+3,1040,205,AUS,1,85,52,RT Ponting,TG Southee,3,0,2,55.22,20034,59.53,Right-hand bat,30,24,1,1740.3,40.88,69.7,rmf,6,NZL,seam,yes,24.457063711911356,9.963988919667589
+3,1041,206,AUS,1,91,58,RT Ponting,TG Southee,3,6,3,55.22,20034,59.53,Right-hand bat,31,30,1,1740.3,40.88,69.7,rmf,W,NZL,seam,yes,24.457063711911356,9.963988919667589

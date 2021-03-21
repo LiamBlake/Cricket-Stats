@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1364,665,NZL,8,322,-45,N Wagner,V Permaul,9,4,3,13.3,428,40.42,Left-hand bat,187,77,1,846.4,37.66,70.8,lo,0,NZL,spin,yes,21.1806640625,8.2880859375
+2,1365,666,NZL,8,322,-45,N Wagner,V Permaul,9,4,4,13.3,428,40.42,Left-hand bat,188,77,1,846.4,37.66,70.8,lo,0,NZL,spin,yes,21.1806640625,8.2880859375
+2,1366,667,NZL,8,322,-45,N Wagner,V Permaul,9,4,5,13.3,428,40.42,Left-hand bat,189,77,1,846.4,37.66,70.8,lo,0,NZL,spin,yes,21.1806640625,8.2880859375
+2,1367,668,NZL,8,322,-45,N Wagner,V Permaul,9,4,6,13.3,428,40.42,Left-hand bat,190,77,1,846.4,37.66,70.8,lo,0,NZL,spin,yes,21.1806640625,8.2880859375
+2,1368,669,NZL,8,322,-45,N Wagner,V Permaul,9,4,7,13.3,428,40.42,Left-hand bat,191,77,1,846.4,37.66,70.8,lo,0,NZL,spin,yes,21.1806640625,8.2880859375
+2,1380,681,NZL,8,330,-37,N Wagner,V Permaul,9,4,10,13.3,428,40.42,Left-hand bat,197,84,1,846.4,37.66,70.8,lo,2,NZL,spin,yes,21.1806640625,8.2880859375
+2,1387,688,NZL,9,332,-35,N Wagner,V Permaul,9,6,11,13.3,428,40.42,Left-hand bat,198,86,1,846.4,37.66,70.8,lo,0,NZL,spin,yes,21.1806640625,8.2880859375
+2,1388,689,NZL,9,332,-35,N Wagner,V Permaul,9,6,12,13.3,428,40.42,Left-hand bat,199,86,1,846.4,37.66,70.8,lo,0,NZL,spin,yes,21.1806640625,8.2880859375
+2,1389,690,NZL,9,332,-35,N Wagner,V Permaul,9,6,13,13.3,428,40.42,Left-hand bat,200,86,1,846.4,37.66,70.8,lo,1,NZL,spin,yes,21.1806640625,8.2880859375
+2,1392,693,NZL,9,334,-33,N Wagner,V Permaul,9,7,14,13.3,428,40.42,Left-hand bat,203,88,1,846.4,37.66,70.8,lo,0,NZL,spin,yes,21.1806640625,8.2880859375
+2,1399,700,NZL,9,334,-33,N Wagner,V Permaul,9,7,15,13.3,428,40.42,Left-hand bat,204,88,1,846.4,37.66,70.8,lo,6,NZL,spin,yes,21.1806640625,8.2880859375
+2,1400,701,NZL,9,340,-27,N Wagner,V Permaul,9,13,16,13.3,428,40.42,Left-hand bat,205,94,1,846.4,37.66,70.8,lo,0,NZL,spin,yes,21.1806640625,8.2880859375
+2,1401,702,NZL,9,340,-27,N Wagner,V Permaul,9,13,17,13.3,428,40.42,Left-hand bat,206,94,1,846.4,37.66,70.8,lo,4,NZL,spin,yes,21.1806640625,8.2880859375
+2,1402,703,NZL,9,344,-23,N Wagner,V Permaul,9,17,18,13.3,428,40.42,Left-hand bat,207,98,1,846.4,37.66,70.8,lo,0,NZL,spin,yes,21.1806640625,8.2880859375
+2,1403,704,NZL,9,344,-23,N Wagner,V Permaul,9,17,19,13.3,428,40.42,Left-hand bat,208,98,1,846.4,37.66,70.8,lo,4,NZL,spin,yes,21.1806640625,8.2880859375
+2,1404,705,NZL,9,348,-19,N Wagner,V Permaul,9,21,20,13.3,428,40.42,Left-hand bat,209,102,1,846.4,37.66,70.8,lo,1,NZL,spin,yes,21.1806640625,8.2880859375

@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,483,0,AUS,0,0,112,MS Harris,JC Archer,1,0,0,29.5,667,53.07,Left-hand bat,0,0,0,450.1,13.53,34.6,rf,0,ENG,seam,no,19.65154503616042,2.245890861275477
+3,484,1,AUS,0,0,112,MS Harris,JC Archer,1,0,1,29.5,667,53.07,Left-hand bat,1,0,0,450.1,13.53,34.6,rf,4,ENG,seam,no,19.65154503616042,2.245890861275477
+3,485,2,AUS,0,4,116,MS Harris,JC Archer,1,4,2,29.5,667,53.07,Left-hand bat,2,4,0,450.1,13.53,34.6,rf,0,ENG,seam,no,19.65154503616042,2.245890861275477
+3,486,3,AUS,0,4,116,MS Harris,JC Archer,1,4,3,29.5,667,53.07,Left-hand bat,3,4,0,450.1,13.53,34.6,rf,2,ENG,seam,no,19.65154503616042,2.245890861275477
+3,487,4,AUS,0,6,118,MS Harris,JC Archer,1,6,4,29.5,667,53.07,Left-hand bat,4,6,0,450.1,13.53,34.6,rf,0,ENG,seam,no,19.65154503616042,2.245890861275477
+3,488,5,AUS,0,6,118,MS Harris,JC Archer,1,6,5,29.5,667,53.07,Left-hand bat,5,6,0,450.1,13.53,34.6,rf,0,ENG,seam,no,19.65154503616042,2.245890861275477
+3,495,12,AUS,1,10,122,MS Harris,JC Archer,1,6,6,29.5,667,53.07,Left-hand bat,6,6,0,450.1,13.53,34.6,rf,1wd,ENG,seam,no,19.65154503616042,2.245890861275477
+3,496,13,AUS,1,11,123,MS Harris,JC Archer,1,6,6,29.5,667,53.07,Left-hand bat,7,7,0,450.1,13.53,34.6,rf,0,ENG,seam,no,19.65154503616042,2.245890861275477
+3,497,14,AUS,1,11,123,MS Harris,JC Archer,1,6,7,29.5,667,53.07,Left-hand bat,8,7,0,450.1,13.53,34.6,rf,0,ENG,seam,no,19.65154503616042,2.245890861275477
+3,498,15,AUS,1,11,123,MS Harris,JC Archer,1,6,8,29.5,667,53.07,Left-hand bat,9,7,0,450.1,13.53,34.6,rf,0,ENG,seam,no,19.65154503616042,2.245890861275477
+3,499,16,AUS,1,11,123,MS Harris,JC Archer,1,6,9,29.5,667,53.07,Left-hand bat,10,7,0,450.1,13.53,34.6,rf,0,ENG,seam,no,19.65154503616042,2.245890861275477
+3,500,17,AUS,1,11,123,MS Harris,JC Archer,1,6,10,29.5,667,53.07,Left-hand bat,11,7,0,450.1,13.53,34.6,rf,0,ENG,seam,no,19.65154503616042,2.245890861275477
+3,501,18,AUS,1,11,123,MS Harris,JC Archer,1,6,11,29.5,667,53.07,Left-hand bat,12,7,0,450.1,13.53,34.6,rf,0,ENG,seam,no,19.65154503616042,2.245890861275477
+3,512,29,AUS,1,17,129,MS Harris,JC Archer,1,10,16,29.5,667,53.07,Left-hand bat,17,7,0,450.1,13.53,34.6,rf,0,ENG,seam,no,19.65154503616042,2.245890861275477
+3,513,30,AUS,1,17,129,MS Harris,JC Archer,1,10,17,29.5,667,53.07,Left-hand bat,18,7,0,450.1,13.53,34.6,rf,0,ENG,seam,no,19.65154503616042,2.245890861275477

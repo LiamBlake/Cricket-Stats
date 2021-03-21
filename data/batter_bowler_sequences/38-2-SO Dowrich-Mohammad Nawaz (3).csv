@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1549,605,WIN,5,283,-296,SO Dowrich,Mohammad Nawaz (3),7,9,26,27.45,647,46.67,Right-hand bat,70,22,0,204.5,17.5,52.2,lo,0,PAK,spin,no,11.140495867768596,29.70798898071626
+2,1550,606,WIN,5,283,-296,SO Dowrich,Mohammad Nawaz (3),7,9,27,27.45,647,46.67,Right-hand bat,71,22,0,204.5,17.5,52.2,lo,4,PAK,spin,no,11.140495867768596,29.70798898071626
+2,1551,607,WIN,5,287,-292,SO Dowrich,Mohammad Nawaz (3),7,13,28,27.45,647,46.67,Right-hand bat,72,26,0,204.5,17.5,52.2,lo,0,PAK,spin,no,11.140495867768596,29.70798898071626
+2,1562,618,WIN,5,293,-286,SO Dowrich,Mohammad Nawaz (3),7,17,33,27.45,647,46.67,Right-hand bat,77,27,0,204.5,17.5,52.2,lo,4,PAK,spin,no,11.140495867768596,29.70798898071626
+2,1563,619,WIN,5,297,-282,SO Dowrich,Mohammad Nawaz (3),7,21,34,27.45,647,46.67,Right-hand bat,78,31,0,204.5,17.5,52.2,lo,0,PAK,spin,no,11.140495867768596,29.70798898071626
+2,1582,638,WIN,6,303,-276,SO Dowrich,Mohammad Nawaz (3),7,25,45,27.45,647,46.67,Right-hand bat,85,31,1,204.5,17.5,52.2,lo,0,PAK,spin,no,11.140495867768596,29.70798898071626
+2,1583,639,WIN,6,303,-276,SO Dowrich,Mohammad Nawaz (3),7,25,46,27.45,647,46.67,Right-hand bat,86,31,1,204.5,17.5,52.2,lo,0,PAK,spin,no,11.140495867768596,29.70798898071626
+2,1584,640,WIN,6,303,-276,SO Dowrich,Mohammad Nawaz (3),7,25,47,27.45,647,46.67,Right-hand bat,87,31,1,204.5,17.5,52.2,lo,1,PAK,spin,no,11.140495867768596,29.70798898071626
+2,1586,642,WIN,6,305,-274,SO Dowrich,Mohammad Nawaz (3),7,26,48,27.45,647,46.67,Right-hand bat,89,33,1,204.5,17.5,52.2,lo,0,PAK,spin,no,11.140495867768596,29.70798898071626
+2,1587,643,WIN,6,305,-274,SO Dowrich,Mohammad Nawaz (3),7,26,49,27.45,647,46.67,Right-hand bat,90,33,1,204.5,17.5,52.2,lo,0,PAK,spin,no,11.140495867768596,29.70798898071626
+2,1599,655,WIN,6,313,-266,SO Dowrich,Mohammad Nawaz (3),7,27,52,27.45,647,46.67,Right-hand bat,96,38,1,204.5,17.5,52.2,lo,0,PAK,spin,no,11.140495867768596,29.70798898071626

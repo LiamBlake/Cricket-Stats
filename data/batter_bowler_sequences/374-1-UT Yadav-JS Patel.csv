@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,801,801,IND,9,430,430,UT Yadav,JS Patel,11,0,0,6.4,87,36.78,Right-hand bat,241,96,4,3798,46.27,86.3,rob,0,IND,spin,yes,6.764444444444445,18.602222222222224
+1,802,802,IND,9,430,430,UT Yadav,JS Patel,11,0,1,6.4,87,36.78,Right-hand bat,242,96,4,3798,46.27,86.3,rob,4,IND,spin,yes,6.764444444444445,18.602222222222224
+1,803,803,IND,9,434,434,UT Yadav,JS Patel,11,4,2,6.4,87,36.78,Right-hand bat,243,100,4,3798,46.27,86.3,rob,0,IND,spin,yes,6.764444444444445,18.602222222222224
+1,804,804,IND,9,434,434,UT Yadav,JS Patel,11,4,3,6.4,87,36.78,Right-hand bat,244,100,4,3798,46.27,86.3,rob,0,IND,spin,yes,6.764444444444445,18.602222222222224
+1,805,805,IND,9,434,434,UT Yadav,JS Patel,11,4,4,6.4,87,36.78,Right-hand bat,245,100,4,3798,46.27,86.3,rob,0,IND,spin,yes,6.764444444444445,18.602222222222224

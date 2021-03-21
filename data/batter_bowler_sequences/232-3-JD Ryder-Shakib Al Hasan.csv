@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,846,42,NZL,1,21,114,JD Ryder,Shakib Al Hasan,3,7,8,56.33,330,51.21,Left-hand bat,0,0,0,1224.4,37.84,94.4,lo,4,BAN,spin,no,13.9453125,17.9296875
+3,847,43,NZL,1,25,118,JD Ryder,Shakib Al Hasan,3,11,9,56.33,330,51.21,Left-hand bat,1,4,0,1224.4,37.84,94.4,lo,0,BAN,spin,no,13.9453125,17.9296875
+3,848,44,NZL,1,25,118,JD Ryder,Shakib Al Hasan,3,11,10,56.33,330,51.21,Left-hand bat,2,4,0,1224.4,37.84,94.4,lo,0,BAN,spin,no,13.9453125,17.9296875
+3,849,45,NZL,1,25,118,JD Ryder,Shakib Al Hasan,3,11,11,56.33,330,51.21,Left-hand bat,3,4,0,1224.4,37.84,94.4,lo,0,BAN,spin,no,13.9453125,17.9296875
+3,850,46,NZL,1,25,118,JD Ryder,Shakib Al Hasan,3,11,12,56.33,330,51.21,Left-hand bat,4,4,0,1224.4,37.84,94.4,lo,0,BAN,spin,no,13.9453125,17.9296875
+3,851,47,NZL,1,25,118,JD Ryder,Shakib Al Hasan,3,11,13,56.33,330,51.21,Left-hand bat,5,4,0,1224.4,37.84,94.4,lo,0,BAN,spin,no,13.9453125,17.9296875
+3,862,58,NZL,1,31,124,JD Ryder,Shakib Al Hasan,3,12,18,56.33,330,51.21,Left-hand bat,10,5,0,1224.4,37.84,94.4,lo,0,BAN,spin,no,13.9453125,17.9296875
+3,863,59,NZL,1,31,124,JD Ryder,Shakib Al Hasan,3,12,19,56.33,330,51.21,Left-hand bat,11,5,0,1224.4,37.84,94.4,lo,0,BAN,spin,no,13.9453125,17.9296875
+3,870,66,NZL,1,33,126,JD Ryder,Shakib Al Hasan,3,13,25,56.33,330,51.21,Left-hand bat,12,5,0,1224.4,37.84,94.4,lo,0,BAN,spin,no,13.9453125,17.9296875
+3,871,67,NZL,1,33,126,JD Ryder,Shakib Al Hasan,3,13,26,56.33,330,51.21,Left-hand bat,13,5,0,1224.4,37.84,94.4,lo,0,BAN,spin,no,13.9453125,17.9296875
+3,872,68,NZL,1,33,126,JD Ryder,Shakib Al Hasan,3,13,27,56.33,330,51.21,Left-hand bat,14,5,0,1224.4,37.84,94.4,lo,1,BAN,spin,no,13.9453125,17.9296875

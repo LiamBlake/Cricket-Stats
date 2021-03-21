@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1807,360,WIN,7,195,-261,SJ Benn,DW Steyn,9,1,2,14.65,501,58.48,Left-hand bat,72,48,2,7950.5,23.05,38.9,rf,0,WIN,seam,no,14.839100346020762,13.190311418685122
+4,1808,361,WIN,7,195,-261,SJ Benn,DW Steyn,9,1,3,14.65,501,58.48,Left-hand bat,73,48,2,7950.5,23.05,38.9,rf,0,WIN,seam,no,14.839100346020762,13.190311418685122
+4,1809,362,WIN,7,195,-261,SJ Benn,DW Steyn,9,1,4,14.65,501,58.48,Left-hand bat,74,48,2,7950.5,23.05,38.9,rf,0,WIN,seam,no,14.839100346020762,13.190311418685122
+4,1810,363,WIN,7,195,-261,SJ Benn,DW Steyn,9,1,5,14.65,501,58.48,Left-hand bat,75,48,2,7950.5,23.05,38.9,rf,0,WIN,seam,no,14.839100346020762,13.190311418685122
+4,1811,364,WIN,7,195,-261,SJ Benn,DW Steyn,9,1,6,14.65,501,58.48,Left-hand bat,76,48,2,7950.5,23.05,38.9,rf,0,WIN,seam,no,14.839100346020762,13.190311418685122
+4,1812,365,WIN,7,195,-261,SJ Benn,DW Steyn,9,1,7,14.65,501,58.48,Left-hand bat,77,48,2,7950.5,23.05,38.9,rf,4,WIN,seam,no,14.839100346020762,13.190311418685122
+4,1823,376,WIN,7,205,-251,SJ Benn,DW Steyn,9,5,11,14.65,501,58.48,Left-hand bat,82,57,2,7950.5,23.05,38.9,rf,0,WIN,seam,no,14.839100346020762,13.190311418685122
+4,1824,377,WIN,7,205,-251,SJ Benn,DW Steyn,9,5,12,14.65,501,58.48,Left-hand bat,83,57,2,7950.5,23.05,38.9,rf,0,WIN,seam,no,14.839100346020762,13.190311418685122

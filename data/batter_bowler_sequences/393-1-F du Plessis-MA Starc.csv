@@ -1,0 +1,23 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,230,230,RSA,6,98,98,F du Plessis,MA Starc,7,17,31,146.5,715,40.97,Right-hand bat,54,27,2,876.3,29.66,48.8,lf,2,AUS,seam,yes,24.780625,7.194375000000001
+1,231,231,RSA,6,100,100,F du Plessis,MA Starc,7,19,32,146.5,715,40.97,Right-hand bat,55,29,2,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+1,232,232,RSA,6,100,100,F du Plessis,MA Starc,7,19,33,146.5,715,40.97,Right-hand bat,56,29,2,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+1,233,233,RSA,6,100,100,F du Plessis,MA Starc,7,19,34,146.5,715,40.97,Right-hand bat,57,29,2,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+1,234,234,RSA,6,100,100,F du Plessis,MA Starc,7,19,35,146.5,715,40.97,Right-hand bat,58,29,2,876.3,29.66,48.8,lf,3,AUS,seam,yes,24.780625,7.194375000000001
+1,242,242,RSA,6,104,104,F du Plessis,MA Starc,7,23,40,146.5,715,40.97,Right-hand bat,60,32,2,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+1,243,243,RSA,6,104,104,F du Plessis,MA Starc,7,23,41,146.5,715,40.97,Right-hand bat,61,32,2,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+1,244,244,RSA,6,104,104,F du Plessis,MA Starc,7,23,42,146.5,715,40.97,Right-hand bat,62,32,2,876.3,29.66,48.8,lf,1,AUS,seam,yes,24.780625,7.194375000000001
+1,247,247,RSA,6,110,110,F du Plessis,MA Starc,7,24,43,146.5,715,40.97,Right-hand bat,65,38,2,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+1,256,256,RSA,6,118,118,F du Plessis,MA Starc,7,24,45,146.5,715,40.97,Right-hand bat,68,41,2,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+1,257,257,RSA,6,118,118,F du Plessis,MA Starc,7,24,46,146.5,715,40.97,Right-hand bat,69,41,2,876.3,29.66,48.8,lf,4,AUS,seam,yes,24.780625,7.194375000000001
+1,258,258,RSA,6,122,122,F du Plessis,MA Starc,7,28,47,146.5,715,40.97,Right-hand bat,70,45,2,876.3,29.66,48.8,lf,2,AUS,seam,yes,24.780625,7.194375000000001
+1,259,259,RSA,6,124,124,F du Plessis,MA Starc,7,30,48,146.5,715,40.97,Right-hand bat,71,47,2,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+1,350,350,RSA,7,160,160,F du Plessis,MA Starc,7,49,97,146.5,715,40.97,Right-hand bat,72,47,2,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+1,351,351,RSA,7,160,160,F du Plessis,MA Starc,7,49,98,146.5,715,40.97,Right-hand bat,73,47,2,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+1,352,352,RSA,7,160,160,F du Plessis,MA Starc,7,49,99,146.5,715,40.97,Right-hand bat,74,47,2,876.3,29.66,48.8,lf,4,AUS,seam,yes,24.780625,7.194375000000001
+1,353,353,RSA,7,164,164,F du Plessis,MA Starc,7,53,100,146.5,715,40.97,Right-hand bat,75,51,2,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+1,354,354,RSA,7,164,164,F du Plessis,MA Starc,7,53,101,146.5,715,40.97,Right-hand bat,76,51,2,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+1,355,355,RSA,7,164,164,F du Plessis,MA Starc,7,53,102,146.5,715,40.97,Right-hand bat,77,51,2,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+1,374,374,RSA,7,180,180,F du Plessis,MA Starc,7,54,106,146.5,715,40.97,Right-hand bat,84,52,2,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+1,375,375,RSA,7,180,180,F du Plessis,MA Starc,7,54,107,146.5,715,40.97,Right-hand bat,85,52,2,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+1,376,376,RSA,7,180,180,F du Plessis,MA Starc,7,54,108,146.5,715,40.97,Right-hand bat,86,52,2,876.3,29.66,48.8,lf,1,AUS,seam,yes,24.780625,7.194375000000001

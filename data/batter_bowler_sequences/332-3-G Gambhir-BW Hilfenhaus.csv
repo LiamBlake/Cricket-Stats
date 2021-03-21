@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,830,7,IND,0,7,-201,G Gambhir,BW Hilfenhaus,1,6,6,45.93,7006,52.45,Left-hand bat,1,1,0,4590.2,29.15,58.8,rfm,0,AUS,seam,no,22.587777777777777,0.7788888888888889
+3,831,8,IND,0,7,-201,G Gambhir,BW Hilfenhaus,1,6,7,45.93,7006,52.45,Left-hand bat,2,1,0,4590.2,29.15,58.8,rfm,4,AUS,seam,no,22.587777777777777,0.7788888888888889
+3,832,9,IND,0,11,-197,G Gambhir,BW Hilfenhaus,1,10,8,45.93,7006,52.45,Left-hand bat,3,5,0,4590.2,29.15,58.8,rfm,0,AUS,seam,no,22.587777777777777,0.7788888888888889
+3,833,10,IND,0,11,-197,G Gambhir,BW Hilfenhaus,1,10,9,45.93,7006,52.45,Left-hand bat,4,5,0,4590.2,29.15,58.8,rfm,0,AUS,seam,no,22.587777777777777,0.7788888888888889
+3,834,11,IND,0,11,-197,G Gambhir,BW Hilfenhaus,1,10,10,45.93,7006,52.45,Left-hand bat,5,5,0,4590.2,29.15,58.8,rfm,0,AUS,seam,no,22.587777777777777,0.7788888888888889
+3,867,44,IND,0,21,-187,G Gambhir,BW Hilfenhaus,1,14,27,45.93,7006,52.45,Left-hand bat,20,10,0,4590.2,29.15,58.8,rfm,0,AUS,seam,no,22.587777777777777,0.7788888888888889
+3,868,45,IND,0,21,-187,G Gambhir,BW Hilfenhaus,1,14,28,45.93,7006,52.45,Left-hand bat,21,10,0,4590.2,29.15,58.8,rfm,0,AUS,seam,no,22.587777777777777,0.7788888888888889
+3,869,46,IND,0,21,-187,G Gambhir,BW Hilfenhaus,1,14,29,45.93,7006,52.45,Left-hand bat,22,10,0,4590.2,29.15,58.8,rfm,0,AUS,seam,no,22.587777777777777,0.7788888888888889
+3,870,47,IND,0,21,-187,G Gambhir,BW Hilfenhaus,1,14,30,45.93,7006,52.45,Left-hand bat,23,10,0,4590.2,29.15,58.8,rfm,0,AUS,seam,no,22.587777777777777,0.7788888888888889
+3,881,58,IND,0,23,-185,G Gambhir,BW Hilfenhaus,1,14,34,45.93,7006,52.45,Left-hand bat,28,11,0,4590.2,29.15,58.8,rfm,0,AUS,seam,no,22.587777777777777,0.7788888888888889
+3,882,59,IND,0,23,-185,G Gambhir,BW Hilfenhaus,1,14,35,45.93,7006,52.45,Left-hand bat,29,11,0,4590.2,29.15,58.8,rfm,0,AUS,seam,no,22.587777777777777,0.7788888888888889

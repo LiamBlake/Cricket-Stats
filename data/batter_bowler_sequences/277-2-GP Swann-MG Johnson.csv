@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,788,332,ENG,6,170,-98,GP Swann,MG Johnson,8,8,23,23.55,845,80.82,Right-hand bat,83,31,4,9294.5,29,53.1,lf,0,AUS,seam,yes,21.06625,1.1087500000000001
+2,795,339,ENG,6,178,-90,GP Swann,MG Johnson,8,8,24,23.55,845,80.82,Right-hand bat,84,31,4,9294.5,29,53.1,lf,0,AUS,seam,yes,21.06625,1.1087500000000001
+2,796,340,ENG,6,178,-90,GP Swann,MG Johnson,8,8,25,23.55,845,80.82,Right-hand bat,85,31,4,9294.5,29,53.1,lf,0,AUS,seam,yes,21.06625,1.1087500000000001
+2,797,341,ENG,6,178,-90,GP Swann,MG Johnson,8,8,26,23.55,845,80.82,Right-hand bat,86,31,4,9294.5,29,53.1,lf,0,AUS,seam,yes,21.06625,1.1087500000000001
+2,798,342,ENG,6,178,-90,GP Swann,MG Johnson,8,8,27,23.55,845,80.82,Right-hand bat,87,31,4,9294.5,29,53.1,lf,0,AUS,seam,yes,21.06625,1.1087500000000001
+2,799,343,ENG,6,178,-90,GP Swann,MG Johnson,8,8,28,23.55,845,80.82,Right-hand bat,88,31,4,9294.5,29,53.1,lf,2,AUS,seam,yes,21.06625,1.1087500000000001
+2,800,344,ENG,6,180,-88,GP Swann,MG Johnson,8,10,29,23.55,845,80.82,Right-hand bat,89,33,4,9294.5,29,53.1,lf,1,AUS,seam,yes,21.06625,1.1087500000000001

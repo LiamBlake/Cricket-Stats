@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1555,881,RSA,7,431,97,RJ Peterson,Mohammed Shami,9,29,30,28.86,603,71.8,Left-hand bat,138,72,1,744.1,26.17,43.8,rf,2,RSA,seam,no,23.560000000000002,13.640000000000002
+2,1556,882,RSA,7,433,99,RJ Peterson,Mohammed Shami,9,31,31,28.86,603,71.8,Left-hand bat,139,74,1,744.1,26.17,43.8,rf,4lb,RSA,seam,no,23.560000000000002,13.640000000000002
+2,1557,883,RSA,7,437,103,RJ Peterson,Mohammed Shami,9,31,32,28.86,603,71.8,Left-hand bat,140,74,1,744.1,26.17,43.8,rf,4,RSA,seam,no,23.560000000000002,13.640000000000002
+2,1558,884,RSA,7,441,107,RJ Peterson,Mohammed Shami,9,35,33,28.86,603,71.8,Left-hand bat,141,78,1,744.1,26.17,43.8,rf,1,RSA,seam,no,23.560000000000002,13.640000000000002
+2,1560,886,RSA,7,443,109,RJ Peterson,Mohammed Shami,9,36,34,28.86,603,71.8,Left-hand bat,143,80,1,744.1,26.17,43.8,rf,1,RSA,seam,no,23.560000000000002,13.640000000000002
+2,1582,908,RSA,7,467,133,RJ Peterson,Mohammed Shami,9,43,39,28.86,603,71.8,Left-hand bat,153,92,1,744.1,26.17,43.8,rf,4,RSA,seam,no,23.560000000000002,13.640000000000002
+2,1583,909,RSA,7,471,137,RJ Peterson,Mohammed Shami,9,47,40,28.86,603,71.8,Left-hand bat,154,96,1,744.1,26.17,43.8,rf,0,RSA,seam,no,23.560000000000002,13.640000000000002
+2,1584,910,RSA,7,471,137,RJ Peterson,Mohammed Shami,9,47,41,28.86,603,71.8,Left-hand bat,155,96,1,744.1,26.17,43.8,rf,1,RSA,seam,no,23.560000000000002,13.640000000000002

@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1037,559,WIN,7,275,22,KAJ Roach,CBRLS Kumara,9,0,3,10.95,1887,35.4,Right-hand bat,136,72,2,2040.3,40.76,60,rf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1038,560,WIN,7,275,22,KAJ Roach,CBRLS Kumara,9,0,4,10.95,1887,35.4,Right-hand bat,137,72,2,2040.3,40.76,60,rf,4,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1039,561,WIN,7,279,26,KAJ Roach,CBRLS Kumara,9,4,5,10.95,1887,35.4,Right-hand bat,138,76,2,2040.3,40.76,60,rf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1040,562,WIN,7,279,26,KAJ Roach,CBRLS Kumara,9,4,6,10.95,1887,35.4,Right-hand bat,139,76,2,2040.3,40.76,60,rf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1047,569,WIN,8,279,26,KAJ Roach,CBRLS Kumara,9,4,7,10.95,1887,35.4,Right-hand bat,140,76,2,2040.3,40.76,60,rf,3,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1060,582,WIN,8,286,33,KAJ Roach,CBRLS Kumara,9,8,12,10.95,1887,35.4,Right-hand bat,147,82,2,2040.3,40.76,60,rf,0,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1061,583,WIN,8,286,33,KAJ Roach,CBRLS Kumara,9,8,13,10.95,1887,35.4,Right-hand bat,148,82,2,2040.3,40.76,60,rf,1,SRL,seam,no,28.070204081632653,1.7012244897959183
+2,1075,597,WIN,8,292,39,KAJ Roach,CBRLS Kumara,9,13,20,10.95,1887,35.4,Right-hand bat,156,84,2,2040.3,40.76,60,rf,W,SRL,seam,no,28.070204081632653,1.7012244897959183

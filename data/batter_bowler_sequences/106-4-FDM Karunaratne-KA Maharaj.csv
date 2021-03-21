@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1239,42,SRL,0,25,-278,FDM Karunaratne,KA Maharaj,1,9,14,36.37,8210,49.18,Left-hand bat,0,0,0,4974.2,28.17,53.5,lo,0,RSA,spin,yes,19.506903353057197,5.85207100591716
+4,1240,43,SRL,0,25,-278,FDM Karunaratne,KA Maharaj,1,9,15,36.37,8210,49.18,Left-hand bat,1,0,0,4974.2,28.17,53.5,lo,1,RSA,spin,yes,19.506903353057197,5.85207100591716
+4,1243,46,SRL,0,27,-276,FDM Karunaratne,KA Maharaj,1,10,16,36.37,8210,49.18,Left-hand bat,4,2,0,4974.2,28.17,53.5,lo,0,RSA,spin,yes,19.506903353057197,5.85207100591716
+4,1244,47,SRL,0,27,-276,FDM Karunaratne,KA Maharaj,1,10,17,36.37,8210,49.18,Left-hand bat,5,2,0,4974.2,28.17,53.5,lo,1,RSA,spin,yes,19.506903353057197,5.85207100591716

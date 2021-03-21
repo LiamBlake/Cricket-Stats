@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,910,910,WIN,3,537,537,CH Gayle,AD Mathews,1,317,412,42.26,10734,59.06,Left-hand bat,0,0,0,708,64.33,118,rm,0,SRL,seam,yes,20.398865784499055,31.73156899810964
+1,911,911,WIN,3,537,537,CH Gayle,AD Mathews,1,317,413,42.26,10734,59.06,Left-hand bat,1,0,0,708,64.33,118,rm,0,SRL,seam,yes,20.398865784499055,31.73156899810964
+1,912,912,WIN,3,537,537,CH Gayle,AD Mathews,1,317,414,42.26,10734,59.06,Left-hand bat,2,0,0,708,64.33,118,rm,0,SRL,seam,yes,20.398865784499055,31.73156899810964
+1,913,913,WIN,3,537,537,CH Gayle,AD Mathews,1,317,415,42.26,10734,59.06,Left-hand bat,3,0,0,708,64.33,118,rm,0,SRL,seam,yes,20.398865784499055,31.73156899810964
+1,914,914,WIN,3,537,537,CH Gayle,AD Mathews,1,317,416,42.26,10734,59.06,Left-hand bat,4,0,0,708,64.33,118,rm,0,SRL,seam,yes,20.398865784499055,31.73156899810964
+1,915,915,WIN,3,537,537,CH Gayle,AD Mathews,1,317,417,42.26,10734,59.06,Left-hand bat,5,0,0,708,64.33,118,rm,2,SRL,seam,yes,20.398865784499055,31.73156899810964
+1,922,922,WIN,3,541,541,CH Gayle,AD Mathews,1,320,419,42.26,10734,59.06,Left-hand bat,6,2,0,708,64.33,118,rm,4,SRL,seam,yes,20.398865784499055,31.73156899810964
+1,923,923,WIN,3,545,545,CH Gayle,AD Mathews,1,324,420,42.26,10734,59.06,Left-hand bat,7,6,0,708,64.33,118,rm,0,SRL,seam,yes,20.398865784499055,31.73156899810964
+1,924,924,WIN,3,545,545,CH Gayle,AD Mathews,1,324,421,42.26,10734,59.06,Left-hand bat,8,6,0,708,64.33,118,rm,1,SRL,seam,yes,20.398865784499055,31.73156899810964
+1,927,927,WIN,3,549,549,CH Gayle,AD Mathews,1,325,422,42.26,10734,59.06,Left-hand bat,11,10,0,708,64.33,118,rm,0,SRL,seam,yes,20.398865784499055,31.73156899810964

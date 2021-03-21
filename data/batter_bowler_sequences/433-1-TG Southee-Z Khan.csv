@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,264,264,NZL,7,134,134,TG Southee,Z Khan,9,1,1,19,987,86.62,Right-hand bat,93,43,0,18780.5,32.94,60.4,lfm,0,NZL,seam,no,46.07700312174818,1.5359001040582725
+1,265,265,NZL,7,134,134,TG Southee,Z Khan,9,1,2,19,987,86.62,Right-hand bat,94,43,0,18780.5,32.94,60.4,lfm,1,NZL,seam,no,46.07700312174818,1.5359001040582725
+1,276,276,NZL,7,146,146,TG Southee,Z Khan,9,5,5,19,987,86.62,Right-hand bat,99,48,0,18780.5,32.94,60.4,lfm,0,NZL,seam,no,46.07700312174818,1.5359001040582725
+1,277,277,NZL,7,146,146,TG Southee,Z Khan,9,5,6,19,987,86.62,Right-hand bat,100,48,0,18780.5,32.94,60.4,lfm,0,NZL,seam,no,46.07700312174818,1.5359001040582725
+1,278,278,NZL,7,146,146,TG Southee,Z Khan,9,5,7,19,987,86.62,Right-hand bat,101,48,0,18780.5,32.94,60.4,lfm,0,NZL,seam,no,46.07700312174818,1.5359001040582725
+1,279,279,NZL,7,146,146,TG Southee,Z Khan,9,5,8,19,987,86.62,Right-hand bat,102,48,0,18780.5,32.94,60.4,lfm,2,NZL,seam,no,46.07700312174818,1.5359001040582725
+1,280,280,NZL,7,148,148,TG Southee,Z Khan,9,7,9,19,987,86.62,Right-hand bat,103,50,0,18780.5,32.94,60.4,lfm,6,NZL,seam,no,46.07700312174818,1.5359001040582725
+1,281,281,NZL,7,154,154,TG Southee,Z Khan,9,13,10,19,987,86.62,Right-hand bat,104,56,0,18780.5,32.94,60.4,lfm,1,NZL,seam,no,46.07700312174818,1.5359001040582725

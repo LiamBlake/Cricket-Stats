@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1920,65,SRL,0,66,-28,TM Dilshan,Harbhajan Singh,2,39,32,44,5796,65.28,Right-hand bat,0,0,0,23592.2,31.28,66.4,rob,2,SRL,spin,yes,26.67091836734694,17.25765306122449
+4,1921,66,SRL,0,68,-26,TM Dilshan,Harbhajan Singh,2,41,33,44,5796,65.28,Right-hand bat,1,2,0,23592.2,31.28,66.4,rob,4,SRL,spin,yes,26.67091836734694,17.25765306122449
+4,1922,67,SRL,0,72,-22,TM Dilshan,Harbhajan Singh,2,45,34,44,5796,65.28,Right-hand bat,2,6,0,23592.2,31.28,66.4,rob,0,SRL,spin,yes,26.67091836734694,17.25765306122449
+4,1923,68,SRL,0,72,-22,TM Dilshan,Harbhajan Singh,2,45,35,44,5796,65.28,Right-hand bat,3,6,0,23592.2,31.28,66.4,rob,4,SRL,spin,yes,26.67091836734694,17.25765306122449
+4,1924,69,SRL,0,76,-18,TM Dilshan,Harbhajan Singh,2,49,36,44,5796,65.28,Right-hand bat,4,10,0,23592.2,31.28,66.4,rob,1,SRL,spin,yes,26.67091836734694,17.25765306122449
+4,1932,77,SRL,0,80,-14,TM Dilshan,Harbhajan Singh,2,52,40,44,5796,65.28,Right-hand bat,6,11,0,23592.2,31.28,66.4,rob,2,SRL,spin,yes,26.67091836734694,17.25765306122449
+4,1933,78,SRL,0,82,-12,TM Dilshan,Harbhajan Singh,2,54,41,44,5796,65.28,Right-hand bat,7,13,0,23592.2,31.28,66.4,rob,4,SRL,spin,yes,26.67091836734694,17.25765306122449
+4,1934,79,SRL,0,86,-8,TM Dilshan,Harbhajan Singh,2,58,42,44,5796,65.28,Right-hand bat,8,17,0,23592.2,31.28,66.4,rob,1,SRL,spin,yes,26.67091836734694,17.25765306122449
+4,1944,89,SRL,0,90,-4,TM Dilshan,Harbhajan Singh,2,62,46,44,5796,65.28,Right-hand bat,12,18,0,23592.2,31.28,66.4,rob,6,SRL,spin,yes,26.67091836734694,17.25765306122449

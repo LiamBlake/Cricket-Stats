@@ -1,0 +1,20 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,242,242,RSA,5,118,118,Q de Kock,JE Root,6,20,18,38.88,3679,72.92,Left-hand bat,0,0,0,2310,51.58,96.2,rob,4,RSA,spin,no,23.86875,1.25625
+1,243,243,RSA,5,122,122,Q de Kock,JE Root,6,24,19,38.88,3679,72.92,Left-hand bat,1,4,0,2310,51.58,96.2,rob,0,RSA,spin,no,23.86875,1.25625
+1,244,244,RSA,5,122,122,Q de Kock,JE Root,6,24,20,38.88,3679,72.92,Left-hand bat,2,4,0,2310,51.58,96.2,rob,1,RSA,spin,no,23.86875,1.25625
+1,246,246,RSA,5,124,124,Q de Kock,JE Root,6,25,21,38.88,3679,72.92,Left-hand bat,4,6,0,2310,51.58,96.2,rob,0,RSA,spin,no,23.86875,1.25625
+1,247,247,RSA,5,124,124,Q de Kock,JE Root,6,25,22,38.88,3679,72.92,Left-hand bat,5,6,0,2310,51.58,96.2,rob,1,RSA,spin,no,23.86875,1.25625
+1,255,255,RSA,5,134,134,Q de Kock,JE Root,6,34,29,38.88,3679,72.92,Left-hand bat,7,8,0,2310,51.58,96.2,rob,1,RSA,spin,no,23.86875,1.25625
+1,258,258,RSA,5,142,142,Q de Kock,JE Root,6,35,30,38.88,3679,72.92,Left-hand bat,10,16,0,2310,51.58,96.2,rob,0,RSA,spin,no,23.86875,1.25625
+1,259,259,RSA,5,142,142,Q de Kock,JE Root,6,35,31,38.88,3679,72.92,Left-hand bat,11,16,0,2310,51.58,96.2,rob,1,RSA,spin,no,23.86875,1.25625
+1,266,266,RSA,5,152,152,Q de Kock,JE Root,6,45,37,38.88,3679,72.92,Left-hand bat,12,17,0,2310,51.58,96.2,rob,0,RSA,spin,no,23.86875,1.25625
+1,267,267,RSA,5,152,152,Q de Kock,JE Root,6,45,38,38.88,3679,72.92,Left-hand bat,13,17,0,2310,51.58,96.2,rob,0,RSA,spin,no,23.86875,1.25625
+1,268,268,RSA,5,152,152,Q de Kock,JE Root,6,45,39,38.88,3679,72.92,Left-hand bat,14,17,0,2310,51.58,96.2,rob,0,RSA,spin,no,23.86875,1.25625
+1,269,269,RSA,5,152,152,Q de Kock,JE Root,6,45,40,38.88,3679,72.92,Left-hand bat,15,17,0,2310,51.58,96.2,rob,2,RSA,spin,no,23.86875,1.25625
+1,270,270,RSA,5,154,154,Q de Kock,JE Root,6,47,41,38.88,3679,72.92,Left-hand bat,16,19,0,2310,51.58,96.2,rob,2,RSA,spin,no,23.86875,1.25625
+1,271,271,RSA,5,156,156,Q de Kock,JE Root,6,49,42,38.88,3679,72.92,Left-hand bat,17,21,0,2310,51.58,96.2,rob,0,RSA,spin,no,23.86875,1.25625
+1,278,278,RSA,5,162,162,Q de Kock,JE Root,6,50,45,38.88,3679,72.92,Left-hand bat,18,21,0,2310,51.58,96.2,rob,0,RSA,spin,no,23.86875,1.25625
+1,279,279,RSA,5,162,162,Q de Kock,JE Root,6,50,46,38.88,3679,72.92,Left-hand bat,19,21,0,2310,51.58,96.2,rob,0,RSA,spin,no,23.86875,1.25625
+1,280,280,RSA,5,162,162,Q de Kock,JE Root,6,50,47,38.88,3679,72.92,Left-hand bat,20,21,0,2310,51.58,96.2,rob,0,RSA,spin,no,23.86875,1.25625
+1,281,281,RSA,5,162,162,Q de Kock,JE Root,6,50,48,38.88,3679,72.92,Left-hand bat,21,21,0,2310,51.58,96.2,rob,0,RSA,spin,no,23.86875,1.25625
+1,282,282,RSA,5,162,162,Q de Kock,JE Root,6,50,49,38.88,3679,72.92,Left-hand bat,22,21,0,2310,51.58,96.2,rob,1,RSA,spin,no,23.86875,1.25625

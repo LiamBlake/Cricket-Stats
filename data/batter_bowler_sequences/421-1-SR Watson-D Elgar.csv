@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,655,655,AUS,4,401,401,SR Watson,D Elgar,6,0,0,36.25,6414,53.13,Right-hand bat,113,78,1,228.1,54.33,76.3,lo,1,RSA,spin,yes,34.251953125,7.904296875
+1,664,664,AUS,4,405,405,SR Watson,D Elgar,6,3,7,36.25,6414,53.13,Right-hand bat,116,80,1,228.1,54.33,76.3,lo,1,RSA,spin,yes,34.251953125,7.904296875
+1,666,666,AUS,4,407,407,SR Watson,D Elgar,6,4,8,36.25,6414,53.13,Right-hand bat,118,82,1,228.1,54.33,76.3,lo,0,RSA,spin,yes,34.251953125,7.904296875
+1,667,667,AUS,4,407,407,SR Watson,D Elgar,6,4,9,36.25,6414,53.13,Right-hand bat,119,82,1,228.1,54.33,76.3,lo,0,RSA,spin,yes,34.251953125,7.904296875
+1,674,674,AUS,4,415,415,SR Watson,D Elgar,6,11,13,36.25,6414,53.13,Right-hand bat,120,82,1,228.1,54.33,76.3,lo,1,RSA,spin,yes,34.251953125,7.904296875
+1,686,686,AUS,4,425,425,SR Watson,D Elgar,6,13,16,36.25,6414,53.13,Right-hand bat,126,90,1,228.1,54.33,76.3,lo,1,RSA,spin,yes,34.251953125,7.904296875
+1,690,690,AUS,4,427,427,SR Watson,D Elgar,6,14,17,36.25,6414,53.13,Right-hand bat,130,92,1,228.1,54.33,76.3,lo,6,RSA,spin,yes,34.251953125,7.904296875
+1,691,691,AUS,4,433,433,SR Watson,D Elgar,6,20,18,36.25,6414,53.13,Right-hand bat,131,98,1,228.1,54.33,76.3,lo,1,RSA,spin,yes,34.251953125,7.904296875

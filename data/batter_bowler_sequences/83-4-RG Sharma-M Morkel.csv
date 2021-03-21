@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2042,252,IND,7,121,-165,RG Sharma,M Morkel,6,32,49,39.97,2682,55.14,Right-hand bat,30,4,0,15726,28.24,54.4,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+4,2043,253,IND,7,121,-165,RG Sharma,M Morkel,6,32,50,39.97,2682,55.14,Right-hand bat,31,4,0,15726,28.24,54.4,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+4,2044,254,IND,7,121,-165,RG Sharma,M Morkel,6,32,51,39.97,2682,55.14,Right-hand bat,32,4,0,15726,28.24,54.4,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+4,2045,255,IND,7,121,-165,RG Sharma,M Morkel,6,32,52,39.97,2682,55.14,Right-hand bat,33,4,0,15726,28.24,54.4,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+4,2046,256,IND,7,121,-165,RG Sharma,M Morkel,6,32,53,39.97,2682,55.14,Right-hand bat,34,4,0,15726,28.24,54.4,rf,1,RSA,seam,no,22.33375,3.9412499999999993
+4,2054,264,IND,7,127,-159,RG Sharma,M Morkel,6,34,58,39.97,2682,55.14,Right-hand bat,36,5,0,15726,28.24,54.4,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+4,2055,265,IND,7,127,-159,RG Sharma,M Morkel,6,34,59,39.97,2682,55.14,Right-hand bat,37,5,0,15726,28.24,54.4,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+4,2056,266,IND,7,127,-159,RG Sharma,M Morkel,6,34,60,39.97,2682,55.14,Right-hand bat,38,5,0,15726,28.24,54.4,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+4,2057,267,IND,7,127,-159,RG Sharma,M Morkel,6,34,61,39.97,2682,55.14,Right-hand bat,39,5,0,15726,28.24,54.4,rf,1,RSA,seam,no,22.33375,3.9412499999999993
+4,2067,277,IND,7,138,-148,RG Sharma,M Morkel,6,44,67,39.97,2682,55.14,Right-hand bat,43,7,0,15726,28.24,54.4,rf,2,RSA,seam,no,22.33375,3.9412499999999993
+4,2068,278,IND,7,140,-146,RG Sharma,M Morkel,6,46,68,39.97,2682,55.14,Right-hand bat,44,9,0,15726,28.24,54.4,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+4,2069,279,IND,7,140,-146,RG Sharma,M Morkel,6,46,69,39.97,2682,55.14,Right-hand bat,45,9,0,15726,28.24,54.4,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+4,2070,280,IND,7,140,-146,RG Sharma,M Morkel,6,46,70,39.97,2682,55.14,Right-hand bat,46,9,0,15726,28.24,54.4,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+4,2071,281,IND,7,140,-146,RG Sharma,M Morkel,6,46,71,39.97,2682,55.14,Right-hand bat,47,9,0,15726,28.24,54.4,rf,1,RSA,seam,no,22.33375,3.9412499999999993

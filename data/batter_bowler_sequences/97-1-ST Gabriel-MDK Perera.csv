@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,410,410,WIN,9,201,201,ST Gabriel,MDK Perera,11,0,0,5.19,422,38.15,Right-hand bat,55,14,1,7224.3,35.73,66.3,rob,0,WIN,spin,yes,15.609567901234568,0.91820987654321
+1,411,411,WIN,9,201,201,ST Gabriel,MDK Perera,11,0,1,5.19,422,38.15,Right-hand bat,56,14,1,7224.3,35.73,66.3,rob,0,WIN,spin,yes,15.609567901234568,0.91820987654321
+1,412,412,WIN,9,201,201,ST Gabriel,MDK Perera,11,0,2,5.19,422,38.15,Right-hand bat,57,14,1,7224.3,35.73,66.3,rob,2,WIN,spin,yes,15.609567901234568,0.91820987654321
+1,413,413,WIN,9,203,203,ST Gabriel,MDK Perera,11,2,3,5.19,422,38.15,Right-hand bat,58,16,1,7224.3,35.73,66.3,rob,0,WIN,spin,yes,15.609567901234568,0.91820987654321
+1,414,414,WIN,9,203,203,ST Gabriel,MDK Perera,11,2,4,5.19,422,38.15,Right-hand bat,59,16,1,7224.3,35.73,66.3,rob,0,WIN,spin,yes,15.609567901234568,0.91820987654321

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2166,363,NZL,5,171,-262,BJ Watling,R Ashwin,7,5,7,38.7,5239,45.06,Right-hand bat,152,98,4,10404.4,25.06,51.2,rob,0,IND,spin,no,7.791020408163266,26.294693877551023
+4,2167,364,NZL,5,171,-262,BJ Watling,R Ashwin,7,5,8,38.7,5239,45.06,Right-hand bat,153,98,4,10404.4,25.06,51.2,rob,0,IND,spin,no,7.791020408163266,26.294693877551023
+4,2168,365,NZL,5,171,-262,BJ Watling,R Ashwin,7,5,9,38.7,5239,45.06,Right-hand bat,154,98,4,10404.4,25.06,51.2,rob,4,IND,spin,no,7.791020408163266,26.294693877551023
+4,2169,366,NZL,5,175,-258,BJ Watling,R Ashwin,7,9,10,38.7,5239,45.06,Right-hand bat,155,102,4,10404.4,25.06,51.2,rob,0,IND,spin,no,7.791020408163266,26.294693877551023
+4,2176,373,NZL,5,175,-258,BJ Watling,R Ashwin,7,9,11,38.7,5239,45.06,Right-hand bat,156,102,4,10404.4,25.06,51.2,rob,1,IND,spin,no,7.791020408163266,26.294693877551023
+4,2189,386,NZL,5,183,-250,BJ Watling,R Ashwin,7,14,18,38.7,5239,45.06,Right-hand bat,163,106,4,10404.4,25.06,51.2,rob,0,IND,spin,no,7.791020408163266,26.294693877551023
+4,2190,387,NZL,5,183,-250,BJ Watling,R Ashwin,7,14,19,38.7,5239,45.06,Right-hand bat,164,106,4,10404.4,25.06,51.2,rob,0,IND,spin,no,7.791020408163266,26.294693877551023
+4,2191,388,NZL,5,183,-250,BJ Watling,R Ashwin,7,14,20,38.7,5239,45.06,Right-hand bat,165,106,4,10404.4,25.06,51.2,rob,4,IND,spin,no,7.791020408163266,26.294693877551023
+4,2192,389,NZL,5,187,-246,BJ Watling,R Ashwin,7,18,21,38.7,5239,45.06,Right-hand bat,166,110,4,10404.4,25.06,51.2,rob,0,IND,spin,no,7.791020408163266,26.294693877551023
+4,2193,390,NZL,5,187,-246,BJ Watling,R Ashwin,7,18,22,38.7,5239,45.06,Right-hand bat,167,110,4,10404.4,25.06,51.2,rob,0,IND,spin,no,7.791020408163266,26.294693877551023

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1130,200,ZIM,3,105,-432,CR Ervine,CBRLS Kumara,4,9,19,29.66,1147,46.55,Left-hand bat,26,35,0,246,45,82,rf,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1131,201,ZIM,3,105,-432,CR Ervine,CBRLS Kumara,4,9,20,29.66,1147,46.55,Left-hand bat,27,35,0,246,45,82,rf,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1132,202,ZIM,3,105,-432,CR Ervine,CBRLS Kumara,4,9,21,29.66,1147,46.55,Left-hand bat,28,35,0,246,45,82,rf,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1133,203,ZIM,3,105,-432,CR Ervine,CBRLS Kumara,4,9,22,29.66,1147,46.55,Left-hand bat,29,35,0,246,45,82,rf,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1134,204,ZIM,3,105,-432,CR Ervine,CBRLS Kumara,4,9,23,29.66,1147,46.55,Left-hand bat,30,35,0,246,45,82,rf,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1141,211,ZIM,4,113,-424,CR Ervine,CBRLS Kumara,4,9,24,29.66,1147,46.55,Left-hand bat,31,35,0,246,45,82,rf,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1142,212,ZIM,4,113,-424,CR Ervine,CBRLS Kumara,4,9,25,29.66,1147,46.55,Left-hand bat,32,35,0,246,45,82,rf,1lb,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1144,214,ZIM,4,115,-422,CR Ervine,CBRLS Kumara,4,9,26,29.66,1147,46.55,Left-hand bat,34,36,0,246,45,82,rf,1,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1157,227,ZIM,4,129,-408,CR Ervine,CBRLS Kumara,4,11,28,29.66,1147,46.55,Left-hand bat,41,46,0,246,45,82,rf,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1158,228,ZIM,4,129,-408,CR Ervine,CBRLS Kumara,4,11,29,29.66,1147,46.55,Left-hand bat,42,46,0,246,45,82,rf,0,ZIM,seam,no,17.616512345679013,19.689043209876544

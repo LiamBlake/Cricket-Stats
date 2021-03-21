@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1157,578,SRL,6,236,-195,TAM Siriwardana,N Wagner,7,22,45,35,278,62.94,Left-hand bat,100,58,1,3768.4,34.01,59.8,lmf,0,NZL,seam,yes,30.416896235078056,8.189164370982553
+2,1158,579,SRL,6,236,-195,TAM Siriwardana,N Wagner,7,22,46,35,278,62.94,Left-hand bat,101,58,1,3768.4,34.01,59.8,lmf,0,NZL,seam,yes,30.416896235078056,8.189164370982553
+2,1165,586,SRL,6,236,-195,TAM Siriwardana,N Wagner,7,22,47,35,278,62.94,Left-hand bat,102,58,1,3768.4,34.01,59.8,lmf,4,NZL,seam,yes,30.416896235078056,8.189164370982553
+2,1166,587,SRL,6,240,-191,TAM Siriwardana,N Wagner,7,26,48,35,278,62.94,Left-hand bat,103,62,1,3768.4,34.01,59.8,lmf,0,NZL,seam,yes,30.416896235078056,8.189164370982553
+2,1167,588,SRL,6,240,-191,TAM Siriwardana,N Wagner,7,26,49,35,278,62.94,Left-hand bat,104,62,1,3768.4,34.01,59.8,lmf,0,NZL,seam,yes,30.416896235078056,8.189164370982553
+2,1168,589,SRL,6,240,-191,TAM Siriwardana,N Wagner,7,26,50,35,278,62.94,Left-hand bat,105,62,1,3768.4,34.01,59.8,lmf,0,NZL,seam,yes,30.416896235078056,8.189164370982553
+2,1169,590,SRL,6,240,-191,TAM Siriwardana,N Wagner,7,26,51,35,278,62.94,Left-hand bat,106,62,1,3768.4,34.01,59.8,lmf,0,NZL,seam,yes,30.416896235078056,8.189164370982553
+2,1170,591,SRL,6,240,-191,TAM Siriwardana,N Wagner,7,26,52,35,278,62.94,Left-hand bat,107,62,1,3768.4,34.01,59.8,lmf,0,NZL,seam,yes,30.416896235078056,8.189164370982553
+2,1189,610,SRL,6,246,-185,TAM Siriwardana,N Wagner,7,29,55,35,278,62.94,Left-hand bat,114,64,1,3768.4,34.01,59.8,lmf,0,NZL,seam,yes,30.416896235078056,8.189164370982553
+2,1190,611,SRL,6,246,-185,TAM Siriwardana,N Wagner,7,29,56,35,278,62.94,Left-hand bat,115,64,1,3768.4,34.01,59.8,lmf,6,NZL,seam,yes,30.416896235078056,8.189164370982553
+2,1191,612,SRL,6,252,-179,TAM Siriwardana,N Wagner,7,35,57,35,278,62.94,Left-hand bat,116,70,1,3768.4,34.01,59.8,lmf,0,NZL,seam,yes,30.416896235078056,8.189164370982553
+2,1192,613,SRL,6,252,-179,TAM Siriwardana,N Wagner,7,35,58,35,278,62.94,Left-hand bat,117,70,1,3768.4,34.01,59.8,lmf,0,NZL,seam,yes,30.416896235078056,8.189164370982553
+2,1193,614,SRL,6,252,-179,TAM Siriwardana,N Wagner,7,35,59,35,278,62.94,Left-hand bat,118,70,1,3768.4,34.01,59.8,lmf,W,NZL,seam,yes,30.416896235078056,8.189164370982553

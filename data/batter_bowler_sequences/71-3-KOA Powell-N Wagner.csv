@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1275,93,WIN,0,44,-342,KOA Powell,N Wagner,2,22,44,28.92,3333,48.6,Left-hand bat,3,3,0,7260.5,28.05,52.2,lmf,0,WIN,seam,no,30.080856123662304,3.4708680142687274
+3,1276,94,WIN,0,44,-342,KOA Powell,N Wagner,2,22,45,28.92,3333,48.6,Left-hand bat,4,3,0,7260.5,28.05,52.2,lmf,0,WIN,seam,no,30.080856123662304,3.4708680142687274
+3,1277,95,WIN,0,44,-342,KOA Powell,N Wagner,2,22,46,28.92,3333,48.6,Left-hand bat,5,3,0,7260.5,28.05,52.2,lmf,6,WIN,seam,no,30.080856123662304,3.4708680142687274
+3,1284,102,WIN,0,56,-330,KOA Powell,N Wagner,2,29,48,28.92,3333,48.6,Left-hand bat,6,9,0,7260.5,28.05,52.2,lmf,6,WIN,seam,no,30.080856123662304,3.4708680142687274
+3,1285,103,WIN,0,62,-324,KOA Powell,N Wagner,2,35,49,28.92,3333,48.6,Left-hand bat,7,15,0,7260.5,28.05,52.2,lmf,4,WIN,seam,no,30.080856123662304,3.4708680142687274
+3,1286,104,WIN,0,66,-320,KOA Powell,N Wagner,2,39,50,28.92,3333,48.6,Left-hand bat,8,19,0,7260.5,28.05,52.2,lmf,0,WIN,seam,no,30.080856123662304,3.4708680142687274
+3,1287,105,WIN,0,66,-320,KOA Powell,N Wagner,2,39,51,28.92,3333,48.6,Left-hand bat,9,19,0,7260.5,28.05,52.2,lmf,0,WIN,seam,no,30.080856123662304,3.4708680142687274
+3,1288,106,WIN,0,66,-320,KOA Powell,N Wagner,2,39,52,28.92,3333,48.6,Left-hand bat,10,19,0,7260.5,28.05,52.2,lmf,0,WIN,seam,no,30.080856123662304,3.4708680142687274
+3,1289,107,WIN,0,66,-320,KOA Powell,N Wagner,2,39,53,28.92,3333,48.6,Left-hand bat,11,19,0,7260.5,28.05,52.2,lmf,5wd,WIN,seam,no,30.080856123662304,3.4708680142687274
+3,1290,108,WIN,0,71,-315,KOA Powell,N Wagner,2,39,53,28.92,3333,48.6,Left-hand bat,12,24,0,7260.5,28.05,52.2,lmf,1,WIN,seam,no,30.080856123662304,3.4708680142687274

@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,858,82,WIN,5,39,89,SO Dowrich,CAK Rajitha,6,14,25,28.91,2190,46.21,Right-hand bat,4,1,0,360,14.54,32.7,rmf,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,859,83,WIN,5,39,89,SO Dowrich,CAK Rajitha,6,14,26,28.91,2190,46.21,Right-hand bat,5,1,0,360,14.54,32.7,rmf,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,866,90,WIN,5,39,89,SO Dowrich,CAK Rajitha,6,14,27,28.91,2190,46.21,Right-hand bat,6,1,0,360,14.54,32.7,rmf,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,867,91,WIN,5,39,89,SO Dowrich,CAK Rajitha,6,14,28,28.91,2190,46.21,Right-hand bat,7,1,0,360,14.54,32.7,rmf,2,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,868,92,WIN,5,41,91,SO Dowrich,CAK Rajitha,6,16,29,28.91,2190,46.21,Right-hand bat,8,3,0,360,14.54,32.7,rmf,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,869,93,WIN,5,41,91,SO Dowrich,CAK Rajitha,6,16,30,28.91,2190,46.21,Right-hand bat,9,3,0,360,14.54,32.7,rmf,W,WIN,seam,yes,15.609567901234568,0.91820987654321

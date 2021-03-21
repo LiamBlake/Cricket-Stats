@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1844,812,ENG,3,358,65,KP Pietersen,TG Southee,5,3,3,48.85,11798,62.94,Right-hand bat,187,89,0,4362.2,36.62,66.1,rmf,0,NZL,seam,no,30.1824,11.7376
+3,1845,813,ENG,3,358,65,KP Pietersen,TG Southee,5,3,4,48.85,11798,62.94,Right-hand bat,188,89,0,4362.2,36.62,66.1,rmf,2,NZL,seam,no,30.1824,11.7376
+3,1846,814,ENG,3,360,67,KP Pietersen,TG Southee,5,5,5,48.85,11798,62.94,Right-hand bat,189,91,0,4362.2,36.62,66.1,rmf,1,NZL,seam,no,30.1824,11.7376

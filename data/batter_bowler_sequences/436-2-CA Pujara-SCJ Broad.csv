@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1115,131,IND,1,52,-517,CA Pujara,SCJ Broad,3,24,49,54.11,3656,50.32,Right-hand bat,29,11,0,15282,30.66,59.9,rfm,0,ENG,seam,no,21.34443288241415,20.010405827263266
+2,1122,138,IND,1,56,-513,CA Pujara,SCJ Broad,3,24,50,54.11,3656,50.32,Right-hand bat,30,11,0,15282,30.66,59.9,rfm,0,ENG,seam,no,21.34443288241415,20.010405827263266
+2,1123,139,IND,1,56,-513,CA Pujara,SCJ Broad,3,24,51,54.11,3656,50.32,Right-hand bat,31,11,0,15282,30.66,59.9,rfm,W,ENG,seam,no,21.34443288241415,20.010405827263266

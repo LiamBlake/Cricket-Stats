@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,628,628,AUS,8,260,260,BW Hilfenhaus,DJG Sammy,10,7,31,14.04,620,54.35,Right-hand bat,114,32,1,4284.4,30.89,67,rm,6,WIN,seam,yes,9.61625,17.85875
+1,629,629,AUS,8,266,266,BW Hilfenhaus,DJG Sammy,10,13,32,14.04,620,54.35,Right-hand bat,115,38,1,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+1,630,630,AUS,8,266,266,BW Hilfenhaus,DJG Sammy,10,13,33,14.04,620,54.35,Right-hand bat,116,38,1,4284.4,30.89,67,rm,1,WIN,seam,yes,9.61625,17.85875
+1,634,634,AUS,8,269,269,BW Hilfenhaus,DJG Sammy,10,14,34,14.04,620,54.35,Right-hand bat,120,41,1,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+1,643,643,AUS,8,283,283,BW Hilfenhaus,DJG Sammy,10,15,37,14.04,620,54.35,Right-hand bat,123,46,1,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+1,644,644,AUS,8,283,283,BW Hilfenhaus,DJG Sammy,10,15,38,14.04,620,54.35,Right-hand bat,124,46,1,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+1,645,645,AUS,8,283,283,BW Hilfenhaus,DJG Sammy,10,15,39,14.04,620,54.35,Right-hand bat,125,46,1,4284.4,30.89,67,rm,1,WIN,seam,yes,9.61625,17.85875

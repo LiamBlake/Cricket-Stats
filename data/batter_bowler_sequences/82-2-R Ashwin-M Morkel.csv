@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,618,178,IND,4,62,-224,R Ashwin,M Morkel,6,4,4,30.94,3840,54.79,Right-hand bat,40,12,1,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+2,619,179,IND,4,62,-224,R Ashwin,M Morkel,6,4,5,30.94,3840,54.79,Right-hand bat,41,12,1,15540.5,28.39,54.5,rf,1,RSA,seam,no,18.05,0.95
+2,626,186,IND,4,64,-222,R Ashwin,M Morkel,6,6,8,30.94,3840,54.79,Right-hand bat,42,13,1,15540.5,28.39,54.5,rf,4,RSA,seam,no,18.05,0.95
+2,627,187,IND,4,68,-218,R Ashwin,M Morkel,6,10,9,30.94,3840,54.79,Right-hand bat,43,17,1,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+2,628,188,IND,4,68,-218,R Ashwin,M Morkel,6,10,10,30.94,3840,54.79,Right-hand bat,44,17,1,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+2,629,189,IND,4,68,-218,R Ashwin,M Morkel,6,10,11,30.94,3840,54.79,Right-hand bat,45,17,1,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+2,630,190,IND,4,68,-218,R Ashwin,M Morkel,6,10,12,30.94,3840,54.79,Right-hand bat,46,17,1,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+2,631,191,IND,4,68,-218,R Ashwin,M Morkel,6,10,13,30.94,3840,54.79,Right-hand bat,47,17,1,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95

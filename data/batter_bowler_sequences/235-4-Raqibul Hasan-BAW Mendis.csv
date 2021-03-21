@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1885,78,BAN,2,27,-596,Raqibul Hasan,BAW Mendis,4,3,11,14.66,244,36.06,Right-hand bat,18,0,1,1236.1,18.36,37.4,rob,1,BAN,spin,no,9.23611111111111,24.01388888888889
+4,1889,82,BAN,2,31,-592,Raqibul Hasan,BAW Mendis,4,4,12,14.66,244,36.06,Right-hand bat,22,4,1,1236.1,18.36,37.4,rob,0,BAN,spin,no,9.23611111111111,24.01388888888889
+4,1890,83,BAN,2,31,-592,Raqibul Hasan,BAW Mendis,4,4,13,14.66,244,36.06,Right-hand bat,23,4,1,1236.1,18.36,37.4,rob,0,BAN,spin,no,9.23611111111111,24.01388888888889
+4,1909,102,BAN,3,33,-590,Raqibul Hasan,BAW Mendis,4,4,21,14.66,244,36.06,Right-hand bat,30,4,2,1236.1,18.36,37.4,rob,0,BAN,spin,no,9.23611111111111,24.01388888888889
+4,1910,103,BAN,3,33,-590,Raqibul Hasan,BAW Mendis,4,4,22,14.66,244,36.06,Right-hand bat,31,4,2,1236.1,18.36,37.4,rob,0,BAN,spin,no,9.23611111111111,24.01388888888889
+4,1911,104,BAN,3,33,-590,Raqibul Hasan,BAW Mendis,4,4,23,14.66,244,36.06,Right-hand bat,32,4,2,1236.1,18.36,37.4,rob,0,BAN,spin,no,9.23611111111111,24.01388888888889
+4,1912,105,BAN,3,33,-590,Raqibul Hasan,BAW Mendis,4,4,24,14.66,244,36.06,Right-hand bat,33,4,2,1236.1,18.36,37.4,rob,1,BAN,spin,no,9.23611111111111,24.01388888888889
+4,1924,117,BAN,4,43,-580,Raqibul Hasan,BAW Mendis,4,5,26,14.66,244,36.06,Right-hand bat,39,9,3,1236.1,18.36,37.4,rob,0,BAN,spin,no,9.23611111111111,24.01388888888889
+4,1925,118,BAN,4,43,-580,Raqibul Hasan,BAW Mendis,4,5,27,14.66,244,36.06,Right-hand bat,40,9,3,1236.1,18.36,37.4,rob,1,BAN,spin,no,9.23611111111111,24.01388888888889
+4,1947,140,BAN,4,47,-576,Raqibul Hasan,BAW Mendis,4,6,40,14.66,244,36.06,Right-hand bat,50,13,3,1236.1,18.36,37.4,rob,0,BAN,spin,no,9.23611111111111,24.01388888888889
+4,1948,141,BAN,4,47,-576,Raqibul Hasan,BAW Mendis,4,6,41,14.66,244,36.06,Right-hand bat,51,13,3,1236.1,18.36,37.4,rob,0,BAN,spin,no,9.23611111111111,24.01388888888889
+4,1949,142,BAN,4,47,-576,Raqibul Hasan,BAW Mendis,4,6,42,14.66,244,36.06,Right-hand bat,52,13,3,1236.1,18.36,37.4,rob,4,BAN,spin,no,9.23611111111111,24.01388888888889
+4,1950,143,BAN,4,51,-572,Raqibul Hasan,BAW Mendis,4,10,43,14.66,244,36.06,Right-hand bat,53,17,3,1236.1,18.36,37.4,rob,0,BAN,spin,no,9.23611111111111,24.01388888888889

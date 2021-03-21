@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,54,54,PAK,2,13,13,Haris Sohail,TE Kane,4,0,0,35.66,463,46.22,Left-hand bat,0,0,0,156,NA,NA,rmf,1nb,IRE,seam,no,24.36851211072664,3.2491349480968856
+1,79,79,PAK,2,18,18,Haris Sohail,TE Kane,4,2,9,35.66,463,46.22,Left-hand bat,13,1,0,156,NA,NA,rmf,0,IRE,seam,no,24.36851211072664,3.2491349480968856
+1,80,80,PAK,2,18,18,Haris Sohail,TE Kane,4,2,10,35.66,463,46.22,Left-hand bat,14,1,0,156,NA,NA,rmf,4,IRE,seam,no,24.36851211072664,3.2491349480968856
+1,81,81,PAK,2,22,22,Haris Sohail,TE Kane,4,6,11,35.66,463,46.22,Left-hand bat,15,5,0,156,NA,NA,rmf,0,IRE,seam,no,24.36851211072664,3.2491349480968856
+1,82,82,PAK,2,22,22,Haris Sohail,TE Kane,4,6,12,35.66,463,46.22,Left-hand bat,16,5,0,156,NA,NA,rmf,0,IRE,seam,no,24.36851211072664,3.2491349480968856
+1,83,83,PAK,2,22,22,Haris Sohail,TE Kane,4,6,13,35.66,463,46.22,Left-hand bat,17,5,0,156,NA,NA,rmf,0,IRE,seam,no,24.36851211072664,3.2491349480968856
+1,84,84,PAK,2,22,22,Haris Sohail,TE Kane,4,6,14,35.66,463,46.22,Left-hand bat,18,5,0,156,NA,NA,rmf,0,IRE,seam,no,24.36851211072664,3.2491349480968856
+1,91,91,PAK,2,22,22,Haris Sohail,TE Kane,4,6,15,35.66,463,46.22,Left-hand bat,19,5,0,156,NA,NA,rmf,0,IRE,seam,no,24.36851211072664,3.2491349480968856
+1,92,92,PAK,2,22,22,Haris Sohail,TE Kane,4,6,16,35.66,463,46.22,Left-hand bat,20,5,0,156,NA,NA,rmf,3,IRE,seam,no,24.36851211072664,3.2491349480968856
+1,96,96,PAK,2,30,30,Haris Sohail,TE Kane,4,9,17,35.66,463,46.22,Left-hand bat,24,13,0,156,NA,NA,rmf,0,IRE,seam,no,24.36851211072664,3.2491349480968856
+1,135,135,PAK,2,48,48,Haris Sohail,TE Kane,4,15,31,35.66,463,46.22,Left-hand bat,38,18,0,156,NA,NA,rmf,0,IRE,seam,no,24.36851211072664,3.2491349480968856
+1,136,136,PAK,2,48,48,Haris Sohail,TE Kane,4,15,32,35.66,463,46.22,Left-hand bat,39,18,0,156,NA,NA,rmf,0,IRE,seam,no,24.36851211072664,3.2491349480968856
+1,137,137,PAK,2,48,48,Haris Sohail,TE Kane,4,15,33,35.66,463,46.22,Left-hand bat,40,18,0,156,NA,NA,rmf,2,IRE,seam,no,24.36851211072664,3.2491349480968856
+1,138,138,PAK,2,50,50,Haris Sohail,TE Kane,4,17,34,35.66,463,46.22,Left-hand bat,41,20,0,156,NA,NA,rmf,0,IRE,seam,no,24.36851211072664,3.2491349480968856
+1,139,139,PAK,2,50,50,Haris Sohail,TE Kane,4,17,35,35.66,463,46.22,Left-hand bat,42,20,0,156,NA,NA,rmf,2,IRE,seam,no,24.36851211072664,3.2491349480968856

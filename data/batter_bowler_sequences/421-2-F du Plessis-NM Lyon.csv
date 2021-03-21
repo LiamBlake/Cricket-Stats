@@ -1,0 +1,25 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1061,287,RSA,6,164,-330,F du Plessis,NM Lyon,6,22,66,52.42,2302,43.26,Right-hand bat,25,26,0,7350.1,32.99,65.6,rob,0,RSA,spin,no,34.251953125,7.904296875
+2,1062,288,RSA,6,164,-330,F du Plessis,NM Lyon,6,22,67,52.42,2302,43.26,Right-hand bat,26,26,0,7350.1,32.99,65.6,rob,2,RSA,spin,no,34.251953125,7.904296875
+2,1063,289,RSA,6,166,-328,F du Plessis,NM Lyon,6,24,68,52.42,2302,43.26,Right-hand bat,27,28,0,7350.1,32.99,65.6,rob,1,RSA,spin,no,34.251953125,7.904296875
+2,1073,299,RSA,6,173,-321,F du Plessis,NM Lyon,6,26,71,52.42,2302,43.26,Right-hand bat,30,29,0,7350.1,32.99,65.6,rob,1,RSA,spin,no,34.251953125,7.904296875
+2,1085,311,RSA,6,181,-313,F du Plessis,NM Lyon,6,30,75,52.42,2302,43.26,Right-hand bat,36,32,0,7350.1,32.99,65.6,rob,0,RSA,spin,no,34.251953125,7.904296875
+2,1086,312,RSA,6,181,-313,F du Plessis,NM Lyon,6,30,76,52.42,2302,43.26,Right-hand bat,37,32,0,7350.1,32.99,65.6,rob,0,RSA,spin,no,34.251953125,7.904296875
+2,1087,313,RSA,6,181,-313,F du Plessis,NM Lyon,6,30,77,52.42,2302,43.26,Right-hand bat,38,32,0,7350.1,32.99,65.6,rob,0,RSA,spin,no,34.251953125,7.904296875
+2,1088,314,RSA,6,181,-313,F du Plessis,NM Lyon,6,30,78,52.42,2302,43.26,Right-hand bat,39,32,0,7350.1,32.99,65.6,rob,1,RSA,spin,no,34.251953125,7.904296875
+2,1098,324,RSA,6,189,-305,F du Plessis,NM Lyon,6,33,84,52.42,2302,43.26,Right-hand bat,43,34,0,7350.1,32.99,65.6,rob,1,RSA,spin,no,34.251953125,7.904296875
+2,1127,353,RSA,6,200,-294,F du Plessis,NM Lyon,6,42,99,52.42,2302,43.26,Right-hand bat,48,35,0,7350.1,32.99,65.6,rob,1,RSA,spin,no,34.251953125,7.904296875
+2,1129,355,RSA,6,202,-292,F du Plessis,NM Lyon,6,43,100,52.42,2302,43.26,Right-hand bat,50,37,0,7350.1,32.99,65.6,rob,0,RSA,spin,no,34.251953125,7.904296875
+2,1130,356,RSA,6,202,-292,F du Plessis,NM Lyon,6,43,101,52.42,2302,43.26,Right-hand bat,51,37,0,7350.1,32.99,65.6,rob,2,RSA,spin,no,34.251953125,7.904296875
+2,1131,357,RSA,6,204,-290,F du Plessis,NM Lyon,6,45,102,52.42,2302,43.26,Right-hand bat,52,39,0,7350.1,32.99,65.6,rob,0,RSA,spin,no,34.251953125,7.904296875
+2,1132,358,RSA,6,204,-290,F du Plessis,NM Lyon,6,45,103,52.42,2302,43.26,Right-hand bat,53,39,0,7350.1,32.99,65.6,rob,0,RSA,spin,no,34.251953125,7.904296875
+2,1153,379,RSA,6,212,-282,F du Plessis,NM Lyon,6,49,114,52.42,2302,43.26,Right-hand bat,62,42,0,7350.1,32.99,65.6,rob,0,RSA,spin,no,34.251953125,7.904296875
+2,1154,380,RSA,6,212,-282,F du Plessis,NM Lyon,6,49,115,52.42,2302,43.26,Right-hand bat,63,42,0,7350.1,32.99,65.6,rob,0,RSA,spin,no,34.251953125,7.904296875
+2,1155,381,RSA,6,212,-282,F du Plessis,NM Lyon,6,49,116,52.42,2302,43.26,Right-hand bat,64,42,0,7350.1,32.99,65.6,rob,0,RSA,spin,no,34.251953125,7.904296875
+2,1156,382,RSA,6,212,-282,F du Plessis,NM Lyon,6,49,117,52.42,2302,43.26,Right-hand bat,65,42,0,7350.1,32.99,65.6,rob,0,RSA,spin,no,34.251953125,7.904296875
+2,1163,389,RSA,6,216,-278,F du Plessis,NM Lyon,6,49,118,52.42,2302,43.26,Right-hand bat,66,42,0,7350.1,32.99,65.6,rob,4,RSA,spin,no,34.251953125,7.904296875
+2,1164,390,RSA,6,220,-274,F du Plessis,NM Lyon,6,53,119,52.42,2302,43.26,Right-hand bat,67,46,0,7350.1,32.99,65.6,rob,4,RSA,spin,no,34.251953125,7.904296875
+2,1165,391,RSA,6,224,-270,F du Plessis,NM Lyon,6,57,120,52.42,2302,43.26,Right-hand bat,68,50,0,7350.1,32.99,65.6,rob,0,RSA,spin,no,34.251953125,7.904296875
+2,1166,392,RSA,6,224,-270,F du Plessis,NM Lyon,6,57,121,52.42,2302,43.26,Right-hand bat,69,50,0,7350.1,32.99,65.6,rob,2,RSA,spin,no,34.251953125,7.904296875
+2,1167,393,RSA,6,226,-268,F du Plessis,NM Lyon,6,59,122,52.42,2302,43.26,Right-hand bat,70,52,0,7350.1,32.99,65.6,rob,0,RSA,spin,no,34.251953125,7.904296875
+2,1168,394,RSA,6,226,-268,F du Plessis,NM Lyon,6,59,123,52.42,2302,43.26,Right-hand bat,71,52,0,7350.1,32.99,65.6,rob,1,RSA,spin,no,34.251953125,7.904296875

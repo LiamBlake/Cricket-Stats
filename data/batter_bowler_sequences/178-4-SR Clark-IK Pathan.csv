@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1905,499,AUS,8,314,-98,SR Clark,IK Pathan,10,21,26,14.08,232,72.84,Right-hand bat,78,46,2,5538.2,31.22,57.1,lmf,1,AUS,seam,no,24.99,4.409999999999999
+4,1917,511,AUS,8,324,-88,SR Clark,IK Pathan,10,31,31,14.08,232,72.84,Right-hand bat,84,47,2,5538.2,31.22,57.1,lmf,0,AUS,seam,no,24.99,4.409999999999999
+4,1918,512,AUS,8,324,-88,SR Clark,IK Pathan,10,31,32,14.08,232,72.84,Right-hand bat,85,47,2,5538.2,31.22,57.1,lmf,0,AUS,seam,no,24.99,4.409999999999999
+4,1919,513,AUS,8,324,-88,SR Clark,IK Pathan,10,31,33,14.08,232,72.84,Right-hand bat,86,47,2,5538.2,31.22,57.1,lmf,1,AUS,seam,no,24.99,4.409999999999999
+4,1922,516,AUS,8,326,-86,SR Clark,IK Pathan,10,32,34,14.08,232,72.84,Right-hand bat,89,49,2,5538.2,31.22,57.1,lmf,W,AUS,seam,no,24.99,4.409999999999999

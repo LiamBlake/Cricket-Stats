@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1353,109,AUS,3,64,-203,AC Voges,MDK Perera,5,0,0,87.25,2414,57.82,Right-hand bat,37,14,1,2730.4,30.53,60.7,rob,0,SRL,spin,no,7.297500000000001,13.5525
+4,1354,110,AUS,3,64,-203,AC Voges,MDK Perera,5,0,1,87.25,2414,57.82,Right-hand bat,38,14,1,2730.4,30.53,60.7,rob,0,SRL,spin,no,7.297500000000001,13.5525
+4,1355,111,AUS,3,64,-203,AC Voges,MDK Perera,5,0,2,87.25,2414,57.82,Right-hand bat,39,14,1,2730.4,30.53,60.7,rob,2,SRL,spin,no,7.297500000000001,13.5525
+4,1356,112,AUS,3,66,-201,AC Voges,MDK Perera,5,2,3,87.25,2414,57.82,Right-hand bat,40,16,1,2730.4,30.53,60.7,rob,0,SRL,spin,no,7.297500000000001,13.5525
+4,1357,113,AUS,3,66,-201,AC Voges,MDK Perera,5,2,4,87.25,2414,57.82,Right-hand bat,41,16,1,2730.4,30.53,60.7,rob,0,SRL,spin,no,7.297500000000001,13.5525
+4,1365,121,AUS,3,68,-199,AC Voges,MDK Perera,5,2,8,87.25,2414,57.82,Right-hand bat,43,17,1,2730.4,30.53,60.7,rob,0,SRL,spin,no,7.297500000000001,13.5525
+4,1366,122,AUS,3,68,-199,AC Voges,MDK Perera,5,2,9,87.25,2414,57.82,Right-hand bat,44,17,1,2730.4,30.53,60.7,rob,0,SRL,spin,no,7.297500000000001,13.5525
+4,1367,123,AUS,3,68,-199,AC Voges,MDK Perera,5,2,10,87.25,2414,57.82,Right-hand bat,45,17,1,2730.4,30.53,60.7,rob,0,SRL,spin,no,7.297500000000001,13.5525
+4,1368,124,AUS,3,68,-199,AC Voges,MDK Perera,5,2,11,87.25,2414,57.82,Right-hand bat,46,17,1,2730.4,30.53,60.7,rob,0,SRL,spin,no,7.297500000000001,13.5525
+4,1369,125,AUS,3,68,-199,AC Voges,MDK Perera,5,2,12,87.25,2414,57.82,Right-hand bat,47,17,1,2730.4,30.53,60.7,rob,0,SRL,spin,no,7.297500000000001,13.5525
+4,1376,132,AUS,3,68,-199,AC Voges,MDK Perera,5,2,13,87.25,2414,57.82,Right-hand bat,48,17,1,2730.4,30.53,60.7,rob,0,SRL,spin,no,7.297500000000001,13.5525
+4,1377,133,AUS,3,68,-199,AC Voges,MDK Perera,5,2,14,87.25,2414,57.82,Right-hand bat,49,17,1,2730.4,30.53,60.7,rob,0,SRL,spin,no,7.297500000000001,13.5525
+4,1378,134,AUS,3,68,-199,AC Voges,MDK Perera,5,2,15,87.25,2414,57.82,Right-hand bat,50,17,1,2730.4,30.53,60.7,rob,0,SRL,spin,no,7.297500000000001,13.5525
+4,1379,135,AUS,3,68,-199,AC Voges,MDK Perera,5,2,16,87.25,2414,57.82,Right-hand bat,51,17,1,2730.4,30.53,60.7,rob,1,SRL,spin,no,7.297500000000001,13.5525
+4,1381,137,AUS,3,70,-197,AC Voges,MDK Perera,5,3,17,87.25,2414,57.82,Right-hand bat,53,19,1,2730.4,30.53,60.7,rob,0,SRL,spin,no,7.297500000000001,13.5525

@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1144,520,ENG,9,238,-147,GP Swann,RJ Harris,10,8,14,22.09,1791,76.49,Right-hand bat,128,38,3,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+2,1145,521,ENG,9,238,-147,GP Swann,RJ Harris,10,8,15,22.09,1791,76.49,Right-hand bat,129,38,3,3936.1,22.45,47.4,rf,0,AUS,seam,no,30.38734567901234,7.334876543209877
+2,1146,522,ENG,9,238,-147,GP Swann,RJ Harris,10,8,16,22.09,1791,76.49,Right-hand bat,130,38,3,3936.1,22.45,47.4,rf,4,AUS,seam,no,30.38734567901234,7.334876543209877
+2,1147,523,ENG,9,242,-143,GP Swann,RJ Harris,10,12,17,22.09,1791,76.49,Right-hand bat,131,42,3,3936.1,22.45,47.4,rf,1nb,AUS,seam,no,30.38734567901234,7.334876543209877
+2,1148,524,ENG,9,247,-138,GP Swann,RJ Harris,10,16,18,22.09,1791,76.49,Right-hand bat,132,43,3,3936.1,22.45,47.4,rf,1,AUS,seam,no,30.38734567901234,7.334876543209877

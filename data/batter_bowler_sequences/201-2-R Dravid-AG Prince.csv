@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1449,530,IND,1,389,-151,R Dravid,AG Prince,3,36,117,55.41,23873,42.01,Right-hand bat,4,1,0,96,47,96,rob,2,IND,spin,no,19.174400000000002,40.745599999999996
+2,1450,531,IND,1,391,-149,R Dravid,AG Prince,3,38,118,55.41,23873,42.01,Right-hand bat,5,3,0,96,47,96,rob,0,IND,spin,no,19.174400000000002,40.745599999999996
+2,1459,540,IND,1,399,-141,R Dravid,AG Prince,3,38,123,55.41,23873,42.01,Right-hand bat,8,6,0,96,47,96,rob,0,IND,spin,no,19.174400000000002,40.745599999999996
+2,1460,541,IND,1,399,-141,R Dravid,AG Prince,3,38,124,55.41,23873,42.01,Right-hand bat,9,6,0,96,47,96,rob,0,IND,spin,no,19.174400000000002,40.745599999999996
+2,1461,542,IND,1,399,-141,R Dravid,AG Prince,3,38,125,55.41,23873,42.01,Right-hand bat,10,6,0,96,47,96,rob,1,IND,spin,no,19.174400000000002,40.745599999999996
+2,1473,554,IND,1,409,-131,R Dravid,AG Prince,3,39,131,55.41,23873,42.01,Right-hand bat,16,15,0,96,47,96,rob,0,IND,spin,no,19.174400000000002,40.745599999999996
+2,1474,555,IND,1,409,-131,R Dravid,AG Prince,3,39,132,55.41,23873,42.01,Right-hand bat,17,15,0,96,47,96,rob,1wd,IND,spin,no,19.174400000000002,40.745599999999996
+2,1475,556,IND,1,410,-130,R Dravid,AG Prince,3,39,132,55.41,23873,42.01,Right-hand bat,18,16,0,96,47,96,rob,0,IND,spin,no,19.174400000000002,40.745599999999996

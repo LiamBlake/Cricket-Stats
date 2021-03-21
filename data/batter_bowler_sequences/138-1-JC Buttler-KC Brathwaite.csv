@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,455,455,ENG,4,210,210,JC Buttler,KC Brathwaite,5,53,100,35.87,2876,59.87,Right-hand bat,5,1,0,1842.3,58.41,108.5,rob,0,WIN,spin,no,23.862857142857145,5.965714285714286
+1,462,462,ENG,4,212,212,JC Buttler,KC Brathwaite,5,53,101,35.87,2876,59.87,Right-hand bat,6,1,0,1842.3,58.41,108.5,rob,0,WIN,spin,no,23.862857142857145,5.965714285714286
+1,463,463,ENG,4,212,212,JC Buttler,KC Brathwaite,5,53,102,35.87,2876,59.87,Right-hand bat,7,1,0,1842.3,58.41,108.5,rob,0,WIN,spin,no,23.862857142857145,5.965714285714286
+1,464,464,ENG,4,212,212,JC Buttler,KC Brathwaite,5,53,103,35.87,2876,59.87,Right-hand bat,8,1,0,1842.3,58.41,108.5,rob,1,WIN,spin,no,23.862857142857145,5.965714285714286
+1,474,474,ENG,4,218,218,JC Buttler,KC Brathwaite,5,56,107,35.87,2876,59.87,Right-hand bat,12,2,0,1842.3,58.41,108.5,rob,1,WIN,spin,no,23.862857142857145,5.965714285714286
+1,488,488,ENG,4,222,222,JC Buttler,KC Brathwaite,5,58,110,35.87,2876,59.87,Right-hand bat,20,4,0,1842.3,58.41,108.5,rob,1,WIN,spin,no,23.862857142857145,5.965714285714286

@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,938,333,RSA,5,148,-155,JP Duminy,ST Finn,7,2,8,32.8,3231,42.64,Left-hand bat,68,42,0,4998.3,27.84,46.3,rfm,0,RSA,seam,yes,17.161875000000002,8.263125
+2,939,334,RSA,5,148,-155,JP Duminy,ST Finn,7,2,9,32.8,3231,42.64,Left-hand bat,69,42,0,4998.3,27.84,46.3,rfm,0,RSA,seam,yes,17.161875000000002,8.263125
+2,940,335,RSA,5,148,-155,JP Duminy,ST Finn,7,2,10,32.8,3231,42.64,Left-hand bat,70,42,0,4998.3,27.84,46.3,rfm,0,RSA,seam,yes,17.161875000000002,8.263125
+2,941,336,RSA,5,148,-155,JP Duminy,ST Finn,7,2,11,32.8,3231,42.64,Left-hand bat,71,42,0,4998.3,27.84,46.3,rfm,0,RSA,seam,yes,17.161875000000002,8.263125

@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2524,726,ENG,7,264,-216,SCJ Broad,KS Williamson,9,0,23,25,2611,63.19,Left-hand bat,96,37,2,900.4,36.71,64.5,rob,0,NZL,spin,yes,27.497142857142858,6.8742857142857146
+4,2525,727,ENG,7,264,-216,SCJ Broad,KS Williamson,9,0,24,25,2611,63.19,Left-hand bat,97,37,2,900.4,36.71,64.5,rob,0,NZL,spin,yes,27.497142857142858,6.8742857142857146
+4,2526,728,ENG,7,264,-216,SCJ Broad,KS Williamson,9,0,25,25,2611,63.19,Left-hand bat,98,37,2,900.4,36.71,64.5,rob,0,NZL,spin,yes,27.497142857142858,6.8742857142857146
+4,2527,729,ENG,7,264,-216,SCJ Broad,KS Williamson,9,0,26,25,2611,63.19,Left-hand bat,99,37,2,900.4,36.71,64.5,rob,0,NZL,spin,yes,27.497142857142858,6.8742857142857146
+4,2528,730,ENG,7,264,-216,SCJ Broad,KS Williamson,9,0,27,25,2611,63.19,Left-hand bat,100,37,2,900.4,36.71,64.5,rob,0,NZL,spin,yes,27.497142857142858,6.8742857142857146
+4,2529,731,ENG,7,264,-216,SCJ Broad,KS Williamson,9,0,28,25,2611,63.19,Left-hand bat,101,37,2,900.4,36.71,64.5,rob,0,NZL,spin,yes,27.497142857142858,6.8742857142857146
+4,2632,834,ENG,7,300,-180,SCJ Broad,KS Williamson,9,2,74,25,2611,63.19,Left-hand bat,108,39,2,900.4,36.71,64.5,rob,4,NZL,spin,yes,27.497142857142858,6.8742857142857146
+4,2633,835,ENG,7,304,-176,SCJ Broad,KS Williamson,9,6,75,25,2611,63.19,Left-hand bat,109,43,2,900.4,36.71,64.5,rob,0,NZL,spin,yes,27.497142857142858,6.8742857142857146
+4,2634,836,ENG,7,304,-176,SCJ Broad,KS Williamson,9,6,76,25,2611,63.19,Left-hand bat,110,43,2,900.4,36.71,64.5,rob,W,NZL,spin,yes,27.497142857142858,6.8742857142857146

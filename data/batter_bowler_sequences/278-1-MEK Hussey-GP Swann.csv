@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,133,133,AUS,3,57,57,MEK Hussey,GP Swann,5,7,27,51.74,9448,48.74,Left-hand bat,0,0,0,7164.3,27.66,56.8,rob,0,AUS,spin,no,25.104444444444443,2.8966666666666665
+1,134,134,AUS,3,57,57,MEK Hussey,GP Swann,5,7,28,51.74,9448,48.74,Left-hand bat,1,0,0,7164.3,27.66,56.8,rob,0,AUS,spin,no,25.104444444444443,2.8966666666666665
+1,135,135,AUS,3,57,57,MEK Hussey,GP Swann,5,7,29,51.74,9448,48.74,Left-hand bat,2,0,0,7164.3,27.66,56.8,rob,0,AUS,spin,no,25.104444444444443,2.8966666666666665
+1,136,136,AUS,3,57,57,MEK Hussey,GP Swann,5,7,30,51.74,9448,48.74,Left-hand bat,3,0,0,7164.3,27.66,56.8,rob,0,AUS,spin,no,25.104444444444443,2.8966666666666665
+1,137,137,AUS,3,57,57,MEK Hussey,GP Swann,5,7,31,51.74,9448,48.74,Left-hand bat,4,0,0,7164.3,27.66,56.8,rob,0,AUS,spin,no,25.104444444444443,2.8966666666666665
+1,138,138,AUS,3,57,57,MEK Hussey,GP Swann,5,7,32,51.74,9448,48.74,Left-hand bat,5,0,0,7164.3,27.66,56.8,rob,1,AUS,spin,no,25.104444444444443,2.8966666666666665

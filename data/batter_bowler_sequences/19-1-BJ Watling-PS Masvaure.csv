@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,821,821,NZL,4,513,513,BJ Watling,PS Masvaure,6,60,101,40.03,5042,45.25,Right-hand bat,4,2,0,84,NA,NA,lfm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,822,822,NZL,4,513,513,BJ Watling,PS Masvaure,6,60,102,40.03,5042,45.25,Right-hand bat,5,2,0,84,NA,NA,lfm,1,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,832,832,NZL,4,519,519,BJ Watling,PS Masvaure,6,62,107,40.03,5042,45.25,Right-hand bat,9,5,0,84,NA,NA,lfm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,833,833,NZL,4,519,519,BJ Watling,PS Masvaure,6,62,108,40.03,5042,45.25,Right-hand bat,10,5,0,84,NA,NA,lfm,1,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,835,835,NZL,4,523,523,BJ Watling,PS Masvaure,6,63,109,40.03,5042,45.25,Right-hand bat,12,9,0,84,NA,NA,lfm,1,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,855,855,NZL,4,541,541,BJ Watling,PS Masvaure,6,70,118,40.03,5042,45.25,Right-hand bat,20,18,0,84,NA,NA,lfm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,856,856,NZL,4,541,541,BJ Watling,PS Masvaure,6,70,119,40.03,5042,45.25,Right-hand bat,21,18,0,84,NA,NA,lfm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,857,857,NZL,4,541,541,BJ Watling,PS Masvaure,6,70,120,40.03,5042,45.25,Right-hand bat,22,18,0,84,NA,NA,lfm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,858,858,NZL,4,541,541,BJ Watling,PS Masvaure,6,70,121,40.03,5042,45.25,Right-hand bat,23,18,0,84,NA,NA,lfm,1nb,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,859,859,NZL,4,546,546,BJ Watling,PS Masvaure,6,74,122,40.03,5042,45.25,Right-hand bat,24,19,0,84,NA,NA,lfm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,860,860,NZL,4,546,546,BJ Watling,PS Masvaure,6,74,123,40.03,5042,45.25,Right-hand bat,25,19,0,84,NA,NA,lfm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135

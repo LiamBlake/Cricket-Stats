@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1014,560,SRL,9,308,23,RAS Lakmal,MM Ali,11,0,0,11.43,1351,49.07,Right-hand bat,128,72,2,9900.2,37.46,62.2,rob,0,ENG,spin,no,1.51875,28.85625
+2,1015,561,SRL,9,308,23,RAS Lakmal,MM Ali,11,0,1,11.43,1351,49.07,Right-hand bat,129,72,2,9900.2,37.46,62.2,rob,1,ENG,spin,no,1.51875,28.85625
+2,1027,573,SRL,9,318,33,RAS Lakmal,MM Ali,11,6,7,11.43,1351,49.07,Right-hand bat,135,76,2,9900.2,37.46,62.2,rob,1,ENG,spin,no,1.51875,28.85625
+2,1037,583,SRL,9,322,37,RAS Lakmal,MM Ali,11,7,10,11.43,1351,49.07,Right-hand bat,139,79,2,9900.2,37.46,62.2,rob,0,ENG,spin,no,1.51875,28.85625
+2,1038,584,SRL,9,322,37,RAS Lakmal,MM Ali,11,7,11,11.43,1351,49.07,Right-hand bat,140,79,2,9900.2,37.46,62.2,rob,0,ENG,spin,no,1.51875,28.85625
+2,1039,585,SRL,9,322,37,RAS Lakmal,MM Ali,11,7,12,11.43,1351,49.07,Right-hand bat,141,79,2,9900.2,37.46,62.2,rob,1,ENG,spin,no,1.51875,28.85625
+2,1041,587,SRL,9,324,39,RAS Lakmal,MM Ali,11,8,13,11.43,1351,49.07,Right-hand bat,143,81,2,9900.2,37.46,62.2,rob,0,ENG,spin,no,1.51875,28.85625
+2,1048,594,SRL,9,324,39,RAS Lakmal,MM Ali,11,8,14,11.43,1351,49.07,Right-hand bat,144,81,2,9900.2,37.46,62.2,rob,0,ENG,spin,no,1.51875,28.85625
+2,1049,595,SRL,9,324,39,RAS Lakmal,MM Ali,11,8,15,11.43,1351,49.07,Right-hand bat,145,81,2,9900.2,37.46,62.2,rob,0,ENG,spin,no,1.51875,28.85625
+2,1050,596,SRL,9,324,39,RAS Lakmal,MM Ali,11,8,16,11.43,1351,49.07,Right-hand bat,146,81,2,9900.2,37.46,62.2,rob,4,ENG,spin,no,1.51875,28.85625
+2,1051,597,SRL,9,328,43,RAS Lakmal,MM Ali,11,12,17,11.43,1351,49.07,Right-hand bat,147,85,2,9900.2,37.46,62.2,rob,0,ENG,spin,no,1.51875,28.85625
+2,1052,598,SRL,9,328,43,RAS Lakmal,MM Ali,11,12,18,11.43,1351,49.07,Right-hand bat,148,85,2,9900.2,37.46,62.2,rob,0,ENG,spin,no,1.51875,28.85625
+2,1053,599,SRL,9,328,43,RAS Lakmal,MM Ali,11,12,19,11.43,1351,49.07,Right-hand bat,149,85,2,9900.2,37.46,62.2,rob,0,ENG,spin,no,1.51875,28.85625

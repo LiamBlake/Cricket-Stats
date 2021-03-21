@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,774,127,PAK,1,74,32,Imam-ul-Haq,KA Maharaj,1,48,69,30.07,813,48.09,Left-hand bat,0,0,0,4836.2,28.14,53.7,lo,1,RSA,spin,yes,21.267301038062282,0.6444636678200691
+3,778,131,PAK,1,80,38,Imam-ul-Haq,KA Maharaj,1,49,70,30.07,813,48.09,Left-hand bat,4,6,0,4836.2,28.14,53.7,lo,1,RSA,spin,yes,21.267301038062282,0.6444636678200691
+3,812,165,PAK,1,98,56,Imam-ul-Haq,KA Maharaj,1,55,88,30.07,813,48.09,Left-hand bat,20,12,0,4836.2,28.14,53.7,lo,2,RSA,spin,yes,21.267301038062282,0.6444636678200691
+3,813,166,PAK,1,100,58,Imam-ul-Haq,KA Maharaj,1,57,89,30.07,813,48.09,Left-hand bat,21,14,0,4836.2,28.14,53.7,lo,0,RSA,spin,yes,21.267301038062282,0.6444636678200691
+3,814,167,PAK,1,100,58,Imam-ul-Haq,KA Maharaj,1,57,90,30.07,813,48.09,Left-hand bat,22,14,0,4836.2,28.14,53.7,lo,0,RSA,spin,yes,21.267301038062282,0.6444636678200691
+3,815,168,PAK,1,100,58,Imam-ul-Haq,KA Maharaj,1,57,91,30.07,813,48.09,Left-hand bat,23,14,0,4836.2,28.14,53.7,lo,0,RSA,spin,yes,21.267301038062282,0.6444636678200691

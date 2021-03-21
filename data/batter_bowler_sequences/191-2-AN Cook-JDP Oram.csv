@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,918,83,ENG,0,33,-437,AN Cook,JDP Oram,1,17,50,44.15,4329,45.89,Left-hand bat,5,1,0,3930.2,31.9,77,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717
+2,949,114,ENG,0,45,-425,AN Cook,JDP Oram,1,22,58,44.15,4329,45.89,Left-hand bat,18,7,0,3930.2,31.9,77,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717
+2,950,115,ENG,0,45,-425,AN Cook,JDP Oram,1,22,59,44.15,4329,45.89,Left-hand bat,19,7,0,3930.2,31.9,77,rfm,2,NZL,seam,no,19.615384615384617,8.717948717948717
+2,951,116,ENG,0,47,-423,AN Cook,JDP Oram,1,24,60,44.15,4329,45.89,Left-hand bat,20,9,0,3930.2,31.9,77,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717
+2,952,117,ENG,0,47,-423,AN Cook,JDP Oram,1,24,61,44.15,4329,45.89,Left-hand bat,21,9,0,3930.2,31.9,77,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717
+2,953,118,ENG,0,47,-423,AN Cook,JDP Oram,1,24,62,44.15,4329,45.89,Left-hand bat,22,9,0,3930.2,31.9,77,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717
+2,954,119,ENG,0,47,-423,AN Cook,JDP Oram,1,24,63,44.15,4329,45.89,Left-hand bat,23,9,0,3930.2,31.9,77,rfm,0,NZL,seam,no,19.615384615384617,8.717948717948717

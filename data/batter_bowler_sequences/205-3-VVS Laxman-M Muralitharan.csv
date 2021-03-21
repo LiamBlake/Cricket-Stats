@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1400,342,IND,4,200,237,VVS Laxman,M Muralitharan,6,0,0,43.48,12005,49.26,Right-hand bat,126,70,1,40632.3,21.9,54.1,rob,0,SRL,spin,yes,5.77125,19.87875
+3,1401,343,IND,4,200,237,VVS Laxman,M Muralitharan,6,0,1,43.48,12005,49.26,Right-hand bat,127,70,1,40632.3,21.9,54.1,rob,1,SRL,spin,yes,5.77125,19.87875
+3,1412,354,IND,4,212,249,VVS Laxman,M Muralitharan,6,10,5,43.48,12005,49.26,Right-hand bat,132,73,1,40632.3,21.9,54.1,rob,0,SRL,spin,yes,5.77125,19.87875
+3,1413,355,IND,4,212,249,VVS Laxman,M Muralitharan,6,10,6,43.48,12005,49.26,Right-hand bat,133,73,1,40632.3,21.9,54.1,rob,1,SRL,spin,yes,5.77125,19.87875
+3,1424,366,IND,4,218,255,VVS Laxman,M Muralitharan,6,12,9,43.48,12005,49.26,Right-hand bat,138,75,1,40632.3,21.9,54.1,rob,0,SRL,spin,yes,5.77125,19.87875
+3,1425,367,IND,4,218,255,VVS Laxman,M Muralitharan,6,12,10,43.48,12005,49.26,Right-hand bat,139,75,1,40632.3,21.9,54.1,rob,1,SRL,spin,yes,5.77125,19.87875
+3,1427,369,IND,4,220,257,VVS Laxman,M Muralitharan,6,13,11,43.48,12005,49.26,Right-hand bat,141,77,1,40632.3,21.9,54.1,rob,0,SRL,spin,yes,5.77125,19.87875
+3,1428,370,IND,4,220,257,VVS Laxman,M Muralitharan,6,13,12,43.48,12005,49.26,Right-hand bat,142,77,1,40632.3,21.9,54.1,rob,0,SRL,spin,yes,5.77125,19.87875
+3,1429,371,IND,4,220,257,VVS Laxman,M Muralitharan,6,13,13,43.48,12005,49.26,Right-hand bat,143,77,1,40632.3,21.9,54.1,rob,0,SRL,spin,yes,5.77125,19.87875

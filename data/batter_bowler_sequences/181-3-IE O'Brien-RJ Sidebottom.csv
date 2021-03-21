@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1266,211,NZL,7,106,285,IE O'Brien,RJ Sidebottom,9,0,0,4.4,110,40,Right-hand bat,55,20,1,3522,26.06,55.9,lfm,0,ENG,seam,yes,16.288062283737027,12.001730103806228
+3,1267,212,NZL,7,106,285,IE O'Brien,RJ Sidebottom,9,0,1,4.4,110,40,Right-hand bat,56,20,1,3522,26.06,55.9,lfm,0,ENG,seam,yes,16.288062283737027,12.001730103806228
+3,1268,213,NZL,7,106,285,IE O'Brien,RJ Sidebottom,9,0,2,4.4,110,40,Right-hand bat,57,20,1,3522,26.06,55.9,lfm,1,ENG,seam,yes,16.288062283737027,12.001730103806228
+3,1289,234,NZL,7,110,289,IE O'Brien,RJ Sidebottom,9,2,12,4.4,110,40,Right-hand bat,66,23,1,3522,26.06,55.9,lfm,0,ENG,seam,yes,16.288062283737027,12.001730103806228
+3,1290,235,NZL,7,110,289,IE O'Brien,RJ Sidebottom,9,2,13,4.4,110,40,Right-hand bat,67,23,1,3522,26.06,55.9,lfm,0,ENG,seam,yes,16.288062283737027,12.001730103806228
+3,1291,236,NZL,7,110,289,IE O'Brien,RJ Sidebottom,9,2,14,4.4,110,40,Right-hand bat,68,23,1,3522,26.06,55.9,lfm,0,ENG,seam,yes,16.288062283737027,12.001730103806228
+3,1292,237,NZL,7,110,289,IE O'Brien,RJ Sidebottom,9,2,15,4.4,110,40,Right-hand bat,69,23,1,3522,26.06,55.9,lfm,0,ENG,seam,yes,16.288062283737027,12.001730103806228
+3,1293,238,NZL,7,110,289,IE O'Brien,RJ Sidebottom,9,2,16,4.4,110,40,Right-hand bat,70,23,1,3522,26.06,55.9,lfm,3,ENG,seam,yes,16.288062283737027,12.001730103806228
+3,1301,246,NZL,8,114,293,IE O'Brien,RJ Sidebottom,9,6,20,4.4,110,40,Right-hand bat,72,26,1,3522,26.06,55.9,lfm,0,ENG,seam,yes,16.288062283737027,12.001730103806228
+3,1302,247,NZL,8,114,293,IE O'Brien,RJ Sidebottom,9,6,21,4.4,110,40,Right-hand bat,73,26,1,3522,26.06,55.9,lfm,W,ENG,seam,yes,16.288062283737027,12.001730103806228

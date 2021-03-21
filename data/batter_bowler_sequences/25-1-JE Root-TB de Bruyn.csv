@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,317,317,ENG,4,180,180,JE Root,TB de Bruyn,4,77,127,53.8,8599,55.69,Right-hand bat,17,7,0,30,NA,NA,rmf,2,ENG,seam,yes,16.10125,13.173749999999998
+1,409,409,ENG,5,255,255,JE Root,TB de Bruyn,4,120,167,53.8,8599,55.69,Right-hand bat,18,9,0,30,NA,NA,rmf,1,ENG,seam,yes,16.10125,13.173749999999998
+1,411,411,ENG,5,259,259,JE Root,TB de Bruyn,4,121,168,53.8,8599,55.69,Right-hand bat,20,13,0,30,NA,NA,rmf,4,ENG,seam,yes,16.10125,13.173749999999998
+1,412,412,ENG,5,263,263,JE Root,TB de Bruyn,4,125,169,53.8,8599,55.69,Right-hand bat,21,17,0,30,NA,NA,rmf,0,ENG,seam,yes,16.10125,13.173749999999998
+1,413,413,ENG,5,263,263,JE Root,TB de Bruyn,4,125,170,53.8,8599,55.69,Right-hand bat,22,17,0,30,NA,NA,rmf,4,ENG,seam,yes,16.10125,13.173749999999998
+1,414,414,ENG,5,267,267,JE Root,TB de Bruyn,4,129,171,53.8,8599,55.69,Right-hand bat,23,21,0,30,NA,NA,rmf,0,ENG,seam,yes,16.10125,13.173749999999998
+1,422,422,ENG,5,269,269,JE Root,TB de Bruyn,4,129,176,53.8,8599,55.69,Right-hand bat,25,22,0,30,NA,NA,rmf,0,ENG,seam,yes,16.10125,13.173749999999998
+1,423,423,ENG,5,269,269,JE Root,TB de Bruyn,4,129,177,53.8,8599,55.69,Right-hand bat,26,22,0,30,NA,NA,rmf,2,ENG,seam,yes,16.10125,13.173749999999998
+1,424,424,ENG,5,271,271,JE Root,TB de Bruyn,4,131,178,53.8,8599,55.69,Right-hand bat,27,24,0,30,NA,NA,rmf,0,ENG,seam,yes,16.10125,13.173749999999998
+1,425,425,ENG,5,271,271,JE Root,TB de Bruyn,4,131,179,53.8,8599,55.69,Right-hand bat,28,24,0,30,NA,NA,rmf,4,ENG,seam,yes,16.10125,13.173749999999998
+1,426,426,ENG,5,275,275,JE Root,TB de Bruyn,4,135,180,53.8,8599,55.69,Right-hand bat,29,28,0,30,NA,NA,rmf,2,ENG,seam,yes,16.10125,13.173749999999998

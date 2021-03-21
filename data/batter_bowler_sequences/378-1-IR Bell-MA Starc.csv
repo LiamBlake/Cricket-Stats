@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,240,240,ENG,4,134,134,IR Bell,MA Starc,5,8,34,45.9,12284,49.32,Right-hand bat,54,25,0,2022.2,33.02,57.8,lf,0,ENG,seam,yes,24.04875,5.101249999999999
+1,241,241,ENG,4,134,134,IR Bell,MA Starc,5,8,35,45.9,12284,49.32,Right-hand bat,55,25,0,2022.2,33.02,57.8,lf,0,ENG,seam,yes,24.04875,5.101249999999999
+1,242,242,ENG,4,134,134,IR Bell,MA Starc,5,8,36,45.9,12284,49.32,Right-hand bat,56,25,0,2022.2,33.02,57.8,lf,0,ENG,seam,yes,24.04875,5.101249999999999
+1,243,243,ENG,4,134,134,IR Bell,MA Starc,5,8,37,45.9,12284,49.32,Right-hand bat,57,25,0,2022.2,33.02,57.8,lf,0,ENG,seam,yes,24.04875,5.101249999999999
+1,244,244,ENG,4,134,134,IR Bell,MA Starc,5,8,38,45.9,12284,49.32,Right-hand bat,58,25,0,2022.2,33.02,57.8,lf,4,ENG,seam,yes,24.04875,5.101249999999999
+1,245,245,ENG,4,138,138,IR Bell,MA Starc,5,12,39,45.9,12284,49.32,Right-hand bat,59,29,0,2022.2,33.02,57.8,lf,0,ENG,seam,yes,24.04875,5.101249999999999
+1,255,255,ENG,4,148,148,IR Bell,MA Starc,5,12,40,45.9,12284,49.32,Right-hand bat,63,30,0,2022.2,33.02,57.8,lf,0,ENG,seam,yes,24.04875,5.101249999999999
+1,256,256,ENG,4,148,148,IR Bell,MA Starc,5,12,41,45.9,12284,49.32,Right-hand bat,64,30,0,2022.2,33.02,57.8,lf,0,ENG,seam,yes,24.04875,5.101249999999999
+1,257,257,ENG,4,148,148,IR Bell,MA Starc,5,12,42,45.9,12284,49.32,Right-hand bat,65,30,0,2022.2,33.02,57.8,lf,0,ENG,seam,yes,24.04875,5.101249999999999
+1,264,264,ENG,4,152,152,IR Bell,MA Starc,5,12,43,45.9,12284,49.32,Right-hand bat,66,30,0,2022.2,33.02,57.8,lf,0,ENG,seam,yes,24.04875,5.101249999999999
+1,265,265,ENG,4,152,152,IR Bell,MA Starc,5,12,44,45.9,12284,49.32,Right-hand bat,67,30,0,2022.2,33.02,57.8,lf,0,ENG,seam,yes,24.04875,5.101249999999999
+1,266,266,ENG,4,152,152,IR Bell,MA Starc,5,12,45,45.9,12284,49.32,Right-hand bat,68,30,0,2022.2,33.02,57.8,lf,4,ENG,seam,yes,24.04875,5.101249999999999
+1,267,267,ENG,4,156,156,IR Bell,MA Starc,5,16,46,45.9,12284,49.32,Right-hand bat,69,34,0,2022.2,33.02,57.8,lf,0,ENG,seam,yes,24.04875,5.101249999999999
+1,268,268,ENG,4,156,156,IR Bell,MA Starc,5,16,47,45.9,12284,49.32,Right-hand bat,70,34,0,2022.2,33.02,57.8,lf,0,ENG,seam,yes,24.04875,5.101249999999999
+1,269,269,ENG,4,156,156,IR Bell,MA Starc,5,16,48,45.9,12284,49.32,Right-hand bat,71,34,0,2022.2,33.02,57.8,lf,0,ENG,seam,yes,24.04875,5.101249999999999

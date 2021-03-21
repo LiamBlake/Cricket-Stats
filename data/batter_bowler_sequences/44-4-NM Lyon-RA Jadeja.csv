@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1960,207,AUS,8,110,-77,NM Lyon,RA Jadeja,10,0,0,12.84,1452,45.11,Right-hand bat,44,3,1,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875
+4,1961,208,AUS,8,110,-77,NM Lyon,RA Jadeja,10,0,1,12.84,1452,45.11,Right-hand bat,45,3,1,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875
+4,1962,209,AUS,8,110,-77,NM Lyon,RA Jadeja,10,0,2,12.84,1452,45.11,Right-hand bat,46,3,1,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875
+4,1963,210,AUS,8,110,-77,NM Lyon,RA Jadeja,10,0,3,12.84,1452,45.11,Right-hand bat,47,3,1,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875

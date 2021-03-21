@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1769,93,RSA,3,41,-190,AB de Villiers,GP Swann,5,0,4,43.6,6987,53.04,Right-hand bat,21,10,2,3708.3,29.41,59.8,rob,0,RSA,spin,yes,19.976218787158142,16.230677764565993
+3,1770,94,RSA,3,41,-190,AB de Villiers,GP Swann,5,0,5,43.6,6987,53.04,Right-hand bat,22,10,2,3708.3,29.41,59.8,rob,0,RSA,spin,yes,19.976218787158142,16.230677764565993
+3,1771,95,RSA,3,41,-190,AB de Villiers,GP Swann,5,0,6,43.6,6987,53.04,Right-hand bat,23,10,2,3708.3,29.41,59.8,rob,0,RSA,spin,yes,19.976218787158142,16.230677764565993
+3,1778,102,RSA,3,41,-190,AB de Villiers,GP Swann,5,0,7,43.6,6987,53.04,Right-hand bat,24,10,2,3708.3,29.41,59.8,rob,0,RSA,spin,yes,19.976218787158142,16.230677764565993
+3,1779,103,RSA,3,41,-190,AB de Villiers,GP Swann,5,0,8,43.6,6987,53.04,Right-hand bat,25,10,2,3708.3,29.41,59.8,rob,0,RSA,spin,yes,19.976218787158142,16.230677764565993
+3,1780,104,RSA,3,41,-190,AB de Villiers,GP Swann,5,0,9,43.6,6987,53.04,Right-hand bat,26,10,2,3708.3,29.41,59.8,rob,2,RSA,spin,yes,19.976218787158142,16.230677764565993
+3,1781,105,RSA,3,43,-188,AB de Villiers,GP Swann,5,2,10,43.6,6987,53.04,Right-hand bat,27,12,2,3708.3,29.41,59.8,rob,0,RSA,spin,yes,19.976218787158142,16.230677764565993
+3,1782,106,RSA,3,43,-188,AB de Villiers,GP Swann,5,2,11,43.6,6987,53.04,Right-hand bat,28,12,2,3708.3,29.41,59.8,rob,0,RSA,spin,yes,19.976218787158142,16.230677764565993
+3,1783,107,RSA,3,43,-188,AB de Villiers,GP Swann,5,2,12,43.6,6987,53.04,Right-hand bat,29,12,2,3708.3,29.41,59.8,rob,0,RSA,spin,yes,19.976218787158142,16.230677764565993

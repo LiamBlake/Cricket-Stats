@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1265,367,NZL,8,142,193,TG Southee,SP Narine,10,0,0,19.61,617,82.65,Right-hand bat,55,15,2,828,31.5,69,rob,0,WIN,spin,no,16.241632653061227,7.444081632653061
+3,1266,368,NZL,8,142,193,TG Southee,SP Narine,10,0,1,19.61,617,82.65,Right-hand bat,56,15,2,828,31.5,69,rob,0,WIN,spin,no,16.241632653061227,7.444081632653061
+3,1267,369,NZL,8,142,193,TG Southee,SP Narine,10,0,2,19.61,617,82.65,Right-hand bat,57,15,2,828,31.5,69,rob,0,WIN,spin,no,16.241632653061227,7.444081632653061
+3,1268,370,NZL,8,142,193,TG Southee,SP Narine,10,0,3,19.61,617,82.65,Right-hand bat,58,15,2,828,31.5,69,rob,0,WIN,spin,no,16.241632653061227,7.444081632653061
+3,1269,371,NZL,8,142,193,TG Southee,SP Narine,10,0,4,19.61,617,82.65,Right-hand bat,59,15,2,828,31.5,69,rob,0,WIN,spin,no,16.241632653061227,7.444081632653061
+3,1276,378,NZL,8,146,197,TG Southee,SP Narine,10,1,9,19.61,617,82.65,Right-hand bat,60,15,2,828,31.5,69,rob,0,WIN,spin,no,16.241632653061227,7.444081632653061
+3,1277,379,NZL,8,146,197,TG Southee,SP Narine,10,1,10,19.61,617,82.65,Right-hand bat,61,15,2,828,31.5,69,rob,0,WIN,spin,no,16.241632653061227,7.444081632653061
+3,1278,380,NZL,8,146,197,TG Southee,SP Narine,10,1,11,19.61,617,82.65,Right-hand bat,62,15,2,828,31.5,69,rob,0,WIN,spin,no,16.241632653061227,7.444081632653061
+3,1279,381,NZL,8,146,197,TG Southee,SP Narine,10,1,12,19.61,617,82.65,Right-hand bat,63,15,2,828,31.5,69,rob,1,WIN,spin,no,16.241632653061227,7.444081632653061
+3,1289,391,NZL,9,151,202,TG Southee,SP Narine,10,4,16,19.61,617,82.65,Right-hand bat,67,16,3,828,31.5,69,rob,2,WIN,spin,no,16.241632653061227,7.444081632653061
+3,1290,392,NZL,9,153,204,TG Southee,SP Narine,10,6,17,19.61,617,82.65,Right-hand bat,68,18,3,828,31.5,69,rob,0,WIN,spin,no,16.241632653061227,7.444081632653061
+3,1291,393,NZL,9,153,204,TG Southee,SP Narine,10,6,18,19.61,617,82.65,Right-hand bat,69,18,3,828,31.5,69,rob,1,WIN,spin,no,16.241632653061227,7.444081632653061

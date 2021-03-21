@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,936,386,WIN,5,196,-85,SO Dowrich,Zulfiqar Babar,7,20,52,34.08,824,49.63,Right-hand bat,75,29,1,4476.2,39.42,82.9,lo,0,PAK,spin,no,16,12
+2,937,387,WIN,5,196,-85,SO Dowrich,Zulfiqar Babar,7,20,53,34.08,824,49.63,Right-hand bat,76,29,1,4476.2,39.42,82.9,lo,0,PAK,spin,no,16,12
+2,938,388,WIN,5,196,-85,SO Dowrich,Zulfiqar Babar,7,20,54,34.08,824,49.63,Right-hand bat,77,29,1,4476.2,39.42,82.9,lo,1,PAK,spin,no,16,12
+2,945,395,WIN,5,198,-83,SO Dowrich,Zulfiqar Babar,7,22,61,34.08,824,49.63,Right-hand bat,78,30,1,4476.2,39.42,82.9,lo,0,PAK,spin,no,16,12
+2,946,396,WIN,5,198,-83,SO Dowrich,Zulfiqar Babar,7,22,62,34.08,824,49.63,Right-hand bat,79,30,1,4476.2,39.42,82.9,lo,0,PAK,spin,no,16,12
+2,947,397,WIN,5,198,-83,SO Dowrich,Zulfiqar Babar,7,22,63,34.08,824,49.63,Right-hand bat,80,30,1,4476.2,39.42,82.9,lo,0,PAK,spin,no,16,12
+2,948,398,WIN,5,198,-83,SO Dowrich,Zulfiqar Babar,7,22,64,34.08,824,49.63,Right-hand bat,81,30,1,4476.2,39.42,82.9,lo,0,PAK,spin,no,16,12
+2,949,399,WIN,5,198,-83,SO Dowrich,Zulfiqar Babar,7,22,65,34.08,824,49.63,Right-hand bat,82,30,1,4476.2,39.42,82.9,lo,4,PAK,spin,no,16,12
+2,950,400,WIN,5,202,-79,SO Dowrich,Zulfiqar Babar,7,26,66,34.08,824,49.63,Right-hand bat,83,34,1,4476.2,39.42,82.9,lo,0,PAK,spin,no,16,12
+2,961,411,WIN,5,206,-75,SO Dowrich,Zulfiqar Babar,7,27,70,34.08,824,49.63,Right-hand bat,88,35,1,4476.2,39.42,82.9,lo,0,PAK,spin,no,16,12
+2,962,412,WIN,5,206,-75,SO Dowrich,Zulfiqar Babar,7,27,71,34.08,824,49.63,Right-hand bat,89,35,1,4476.2,39.42,82.9,lo,0,PAK,spin,no,16,12
+2,969,419,WIN,5,208,-73,SO Dowrich,Zulfiqar Babar,7,28,73,34.08,824,49.63,Right-hand bat,90,35,1,4476.2,39.42,82.9,lo,6,PAK,spin,no,16,12
+2,970,420,WIN,5,214,-67,SO Dowrich,Zulfiqar Babar,7,34,74,34.08,824,49.63,Right-hand bat,91,41,1,4476.2,39.42,82.9,lo,1,PAK,spin,no,16,12
+2,981,431,WIN,5,218,-63,SO Dowrich,Zulfiqar Babar,7,38,81,34.08,824,49.63,Right-hand bat,96,42,1,4476.2,39.42,82.9,lo,1,PAK,spin,no,16,12

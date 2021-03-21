@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1299,324,WIN,5,137,-339,RO Hinds,T Thushara,7,13,28,24.11,972,42.18,Left-hand bat,81,33,2,312.5,37.6,63.4,lfm,0,WIN,seam,no,24.61469387755102,12.842448979591836
+2,1300,325,WIN,5,137,-339,RO Hinds,T Thushara,7,13,29,24.11,972,42.18,Left-hand bat,82,33,2,312.5,37.6,63.4,lfm,0,WIN,seam,no,24.61469387755102,12.842448979591836
+2,1301,326,WIN,5,137,-339,RO Hinds,T Thushara,7,13,30,24.11,972,42.18,Left-hand bat,83,33,2,312.5,37.6,63.4,lfm,0,WIN,seam,no,24.61469387755102,12.842448979591836
+2,1312,337,WIN,5,141,-335,RO Hinds,T Thushara,7,13,33,24.11,972,42.18,Left-hand bat,88,36,2,312.5,37.6,63.4,lfm,0,WIN,seam,no,24.61469387755102,12.842448979591836
+2,1313,338,WIN,5,141,-335,RO Hinds,T Thushara,7,13,34,24.11,972,42.18,Left-hand bat,89,36,2,312.5,37.6,63.4,lfm,0,WIN,seam,no,24.61469387755102,12.842448979591836
+2,1320,345,WIN,5,143,-333,RO Hinds,T Thushara,7,14,37,24.11,972,42.18,Left-hand bat,90,36,2,312.5,37.6,63.4,lfm,0,WIN,seam,no,24.61469387755102,12.842448979591836
+2,1321,346,WIN,5,143,-333,RO Hinds,T Thushara,7,14,38,24.11,972,42.18,Left-hand bat,91,36,2,312.5,37.6,63.4,lfm,4,WIN,seam,no,24.61469387755102,12.842448979591836
+2,1322,347,WIN,5,147,-329,RO Hinds,T Thushara,7,18,39,24.11,972,42.18,Left-hand bat,92,40,2,312.5,37.6,63.4,lfm,0,WIN,seam,no,24.61469387755102,12.842448979591836
+2,1323,348,WIN,5,147,-329,RO Hinds,T Thushara,7,18,40,24.11,972,42.18,Left-hand bat,93,40,2,312.5,37.6,63.4,lfm,0,WIN,seam,no,24.61469387755102,12.842448979591836
+2,1324,349,WIN,5,147,-329,RO Hinds,T Thushara,7,18,41,24.11,972,42.18,Left-hand bat,94,40,2,312.5,37.6,63.4,lfm,1,WIN,seam,no,24.61469387755102,12.842448979591836

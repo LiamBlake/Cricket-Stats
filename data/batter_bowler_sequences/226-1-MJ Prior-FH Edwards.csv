@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,515,515,ENG,5,232,232,MJ Prior,FH Edwards,7,26,51,39.66,1280,55.78,Right-hand bat,55,39,0,6258.5,38.86,58.5,rf,0,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,516,516,ENG,5,232,232,MJ Prior,FH Edwards,7,26,52,39.66,1280,55.78,Right-hand bat,56,39,0,6258.5,38.86,58.5,rf,0,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,525,525,ENG,5,234,234,MJ Prior,FH Edwards,7,26,55,39.66,1280,55.78,Right-hand bat,59,40,0,6258.5,38.86,58.5,rf,1,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,528,528,ENG,5,236,236,MJ Prior,FH Edwards,7,27,56,39.66,1280,55.78,Right-hand bat,62,42,0,6258.5,38.86,58.5,rf,0,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,613,613,ENG,7,279,279,MJ Prior,FH Edwards,7,57,93,39.66,1280,55.78,Right-hand bat,63,42,0,6258.5,38.86,58.5,rf,4,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,614,614,ENG,7,283,283,MJ Prior,FH Edwards,7,61,94,39.66,1280,55.78,Right-hand bat,64,46,0,6258.5,38.86,58.5,rf,0,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,615,615,ENG,7,283,283,MJ Prior,FH Edwards,7,61,95,39.66,1280,55.78,Right-hand bat,65,46,0,6258.5,38.86,58.5,rf,1,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,617,617,ENG,7,285,285,MJ Prior,FH Edwards,7,62,96,39.66,1280,55.78,Right-hand bat,67,48,0,6258.5,38.86,58.5,rf,1,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,628,628,ENG,7,287,287,MJ Prior,FH Edwards,7,63,103,39.66,1280,55.78,Right-hand bat,72,50,0,6258.5,38.86,58.5,rf,0,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,629,629,ENG,7,287,287,MJ Prior,FH Edwards,7,63,104,39.66,1280,55.78,Right-hand bat,73,50,0,6258.5,38.86,58.5,rf,0,WIN,seam,yes,16.91111111111111,8.455555555555556
+1,630,630,ENG,7,287,287,MJ Prior,FH Edwards,7,63,105,39.66,1280,55.78,Right-hand bat,74,50,0,6258.5,38.86,58.5,rf,1,WIN,seam,yes,16.91111111111111,8.455555555555556

@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1883,315,IND,6,168,254,MS Dhoni,CL White,7,4,7,36.7,2716,63.51,Right-hand bat,0,0,0,558,68.4,111.6,rls,0,IND,spin,yes,11.375,21.125
+3,1884,316,IND,6,168,254,MS Dhoni,CL White,7,4,8,36.7,2716,63.51,Right-hand bat,1,0,0,558,68.4,111.6,rls,2,IND,spin,yes,11.375,21.125
+3,1885,317,IND,6,170,256,MS Dhoni,CL White,7,6,9,36.7,2716,63.51,Right-hand bat,2,2,0,558,68.4,111.6,rls,5wd,IND,spin,yes,11.375,21.125
+3,1886,318,IND,6,175,261,MS Dhoni,CL White,7,6,9,36.7,2716,63.51,Right-hand bat,3,7,0,558,68.4,111.6,rls,1,IND,spin,yes,11.375,21.125
+3,1888,320,IND,6,177,263,MS Dhoni,CL White,7,7,10,36.7,2716,63.51,Right-hand bat,5,9,0,558,68.4,111.6,rls,1,IND,spin,yes,11.375,21.125
+3,1897,329,IND,6,187,273,MS Dhoni,CL White,7,9,12,36.7,2716,63.51,Right-hand bat,8,13,0,558,68.4,111.6,rls,1,IND,spin,yes,11.375,21.125
+3,1900,332,IND,6,189,275,MS Dhoni,CL White,7,10,13,36.7,2716,63.51,Right-hand bat,11,15,0,558,68.4,111.6,rls,0,IND,spin,yes,11.375,21.125
+3,1901,333,IND,6,189,275,MS Dhoni,CL White,7,10,14,36.7,2716,63.51,Right-hand bat,12,15,0,558,68.4,111.6,rls,0,IND,spin,yes,11.375,21.125

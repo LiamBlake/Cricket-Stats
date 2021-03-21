@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,311,73,RSA,0,30,-106,AN Petersen,JD Unadkat,2,7,26,36.84,904,52.98,Right-hand bat,18,9,0,156,NA,NA,lm,0,RSA,seam,yes,42.1875,8.4375
+2,312,74,RSA,0,30,-106,AN Petersen,JD Unadkat,2,7,27,36.84,904,52.98,Right-hand bat,19,9,0,156,NA,NA,lm,4,RSA,seam,yes,42.1875,8.4375
+2,313,75,RSA,0,34,-102,AN Petersen,JD Unadkat,2,11,28,36.84,904,52.98,Right-hand bat,20,13,0,156,NA,NA,lm,0,RSA,seam,yes,42.1875,8.4375
+2,314,76,RSA,0,34,-102,AN Petersen,JD Unadkat,2,11,29,36.84,904,52.98,Right-hand bat,21,13,0,156,NA,NA,lm,0,RSA,seam,yes,42.1875,8.4375
+2,315,77,RSA,0,34,-102,AN Petersen,JD Unadkat,2,11,30,36.84,904,52.98,Right-hand bat,22,13,0,156,NA,NA,lm,4,RSA,seam,yes,42.1875,8.4375
+2,316,78,RSA,0,38,-98,AN Petersen,JD Unadkat,2,15,31,36.84,904,52.98,Right-hand bat,23,17,0,156,NA,NA,lm,0,RSA,seam,yes,42.1875,8.4375
+2,323,85,RSA,0,42,-94,AN Petersen,JD Unadkat,2,16,36,36.84,904,52.98,Right-hand bat,24,17,0,156,NA,NA,lm,2,RSA,seam,yes,42.1875,8.4375
+2,324,86,RSA,0,44,-92,AN Petersen,JD Unadkat,2,18,37,36.84,904,52.98,Right-hand bat,25,19,0,156,NA,NA,lm,0,RSA,seam,yes,42.1875,8.4375
+2,325,87,RSA,0,44,-92,AN Petersen,JD Unadkat,2,18,38,36.84,904,52.98,Right-hand bat,26,19,0,156,NA,NA,lm,0,RSA,seam,yes,42.1875,8.4375
+2,326,88,RSA,0,44,-92,AN Petersen,JD Unadkat,2,18,39,36.84,904,52.98,Right-hand bat,27,19,0,156,NA,NA,lm,2,RSA,seam,yes,42.1875,8.4375
+2,327,89,RSA,0,46,-90,AN Petersen,JD Unadkat,2,20,40,36.84,904,52.98,Right-hand bat,28,21,0,156,NA,NA,lm,1,RSA,seam,yes,42.1875,8.4375
+2,335,97,RSA,0,54,-82,AN Petersen,JD Unadkat,2,22,44,36.84,904,52.98,Right-hand bat,30,22,0,156,NA,NA,lm,1,RSA,seam,yes,42.1875,8.4375
+2,337,99,RSA,0,57,-79,AN Petersen,JD Unadkat,2,23,45,36.84,904,52.98,Right-hand bat,32,24,0,156,NA,NA,lm,0,RSA,seam,yes,42.1875,8.4375
+2,338,100,RSA,0,57,-79,AN Petersen,JD Unadkat,2,23,46,36.84,904,52.98,Right-hand bat,33,24,0,156,NA,NA,lm,1,RSA,seam,yes,42.1875,8.4375

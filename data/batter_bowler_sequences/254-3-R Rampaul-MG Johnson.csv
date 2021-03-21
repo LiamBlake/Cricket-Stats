@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2117,561,WIN,8,284,296,R Rampaul,MG Johnson,10,0,0,27.5,91,60.43,Left-hand bat,111,85,4,6738.5,28.58,53.5,lf,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2118,562,WIN,8,284,296,R Rampaul,MG Johnson,10,0,1,27.5,91,60.43,Left-hand bat,112,85,4,6738.5,28.58,53.5,lf,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2119,563,WIN,8,284,296,R Rampaul,MG Johnson,10,0,2,27.5,91,60.43,Left-hand bat,113,85,4,6738.5,28.58,53.5,lf,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2120,564,WIN,8,284,296,R Rampaul,MG Johnson,10,0,3,27.5,91,60.43,Left-hand bat,114,85,4,6738.5,28.58,53.5,lf,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2127,571,WIN,8,286,298,R Rampaul,MG Johnson,10,1,8,27.5,91,60.43,Left-hand bat,115,85,4,6738.5,28.58,53.5,lf,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2128,572,WIN,8,286,298,R Rampaul,MG Johnson,10,1,9,27.5,91,60.43,Left-hand bat,116,85,4,6738.5,28.58,53.5,lf,3,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2132,576,WIN,8,290,302,R Rampaul,MG Johnson,10,4,10,27.5,91,60.43,Left-hand bat,120,89,4,6738.5,28.58,53.5,lf,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2140,584,WIN,8,298,310,R Rampaul,MG Johnson,10,10,16,27.5,91,60.43,Left-hand bat,122,90,4,6738.5,28.58,53.5,lf,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2141,585,WIN,8,298,310,R Rampaul,MG Johnson,10,10,17,27.5,91,60.43,Left-hand bat,123,90,4,6738.5,28.58,53.5,lf,4,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2142,586,WIN,8,302,314,R Rampaul,MG Johnson,10,14,18,27.5,91,60.43,Left-hand bat,124,94,4,6738.5,28.58,53.5,lf,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2143,587,WIN,8,302,314,R Rampaul,MG Johnson,10,14,19,27.5,91,60.43,Left-hand bat,125,94,4,6738.5,28.58,53.5,lf,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2144,588,WIN,8,302,314,R Rampaul,MG Johnson,10,14,20,27.5,91,60.43,Left-hand bat,126,94,4,6738.5,28.58,53.5,lf,W,AUS,seam,yes,31.27591836734694,9.266938775510205

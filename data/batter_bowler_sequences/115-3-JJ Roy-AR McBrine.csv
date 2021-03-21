@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,624,127,ENG,1,75,-47,JJ Roy,AR McBrine,3,18,22,38.5,89,86.51,Right-hand bat,0,0,0,300,53,100,rob,2,ENG,spin,yes,15.033750000000001,0.79125
+3,625,128,ENG,1,77,-45,JJ Roy,AR McBrine,3,20,23,38.5,89,86.51,Right-hand bat,1,2,0,300,53,100,rob,6,ENG,spin,yes,15.033750000000001,0.79125
+3,626,129,ENG,1,83,-39,JJ Roy,AR McBrine,3,26,24,38.5,89,86.51,Right-hand bat,2,8,0,300,53,100,rob,0,ENG,spin,yes,15.033750000000001,0.79125
+3,627,130,ENG,1,83,-39,JJ Roy,AR McBrine,3,26,25,38.5,89,86.51,Right-hand bat,3,8,0,300,53,100,rob,2,ENG,spin,yes,15.033750000000001,0.79125
+3,628,131,ENG,1,85,-37,JJ Roy,AR McBrine,3,28,26,38.5,89,86.51,Right-hand bat,4,10,0,300,53,100,rob,0,ENG,spin,yes,15.033750000000001,0.79125
+3,629,132,ENG,1,85,-37,JJ Roy,AR McBrine,3,28,27,38.5,89,86.51,Right-hand bat,5,10,0,300,53,100,rob,0,ENG,spin,yes,15.033750000000001,0.79125
+3,636,139,ENG,1,89,-33,JJ Roy,AR McBrine,3,28,28,38.5,89,86.51,Right-hand bat,6,10,0,300,53,100,rob,0,ENG,spin,yes,15.033750000000001,0.79125
+3,637,140,ENG,1,89,-33,JJ Roy,AR McBrine,3,28,29,38.5,89,86.51,Right-hand bat,7,10,0,300,53,100,rob,1,ENG,spin,yes,15.033750000000001,0.79125
+3,648,151,ENG,1,99,-23,JJ Roy,AR McBrine,3,34,36,38.5,89,86.51,Right-hand bat,12,15,0,300,53,100,rob,4,ENG,spin,yes,15.033750000000001,0.79125
+3,649,152,ENG,1,103,-19,JJ Roy,AR McBrine,3,38,37,38.5,89,86.51,Right-hand bat,13,19,0,300,53,100,rob,0,ENG,spin,yes,15.033750000000001,0.79125
+3,650,153,ENG,1,103,-19,JJ Roy,AR McBrine,3,38,38,38.5,89,86.51,Right-hand bat,14,19,0,300,53,100,rob,3,ENG,spin,yes,15.033750000000001,0.79125
+3,660,163,ENG,1,109,-13,JJ Roy,AR McBrine,3,43,42,38.5,89,86.51,Right-hand bat,18,22,0,300,53,100,rob,1,ENG,spin,yes,15.033750000000001,0.79125
+3,665,168,ENG,1,113,-9,JJ Roy,AR McBrine,3,44,43,38.5,89,86.51,Right-hand bat,23,26,0,300,53,100,rob,2,ENG,spin,yes,15.033750000000001,0.79125

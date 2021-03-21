@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1456,439,NZL,6,226,-331,JDS Neesham,M Vijay,6,44,78,37.94,1016,67.22,Left-hand bat,12,8,0,306,147,306,rob,1,IND,spin,no,4.6875,39.0625
+2,1468,451,NZL,6,228,-329,JDS Neesham,M Vijay,6,46,81,37.94,1016,67.22,Left-hand bat,18,9,0,306,147,306,rob,0,IND,spin,no,4.6875,39.0625
+2,1469,452,NZL,6,228,-329,JDS Neesham,M Vijay,6,46,82,37.94,1016,67.22,Left-hand bat,19,9,0,306,147,306,rob,0,IND,spin,no,4.6875,39.0625
+2,1470,453,NZL,6,228,-329,JDS Neesham,M Vijay,6,46,83,37.94,1016,67.22,Left-hand bat,20,9,0,306,147,306,rob,1,IND,spin,no,4.6875,39.0625
+2,1473,456,NZL,6,230,-327,JDS Neesham,M Vijay,6,47,84,37.94,1016,67.22,Left-hand bat,23,11,0,306,147,306,rob,4,IND,spin,no,4.6875,39.0625
+2,1492,475,NZL,7,248,-309,JDS Neesham,M Vijay,6,58,91,37.94,1016,67.22,Left-hand bat,30,19,0,306,147,306,rob,0,IND,spin,no,4.6875,39.0625
+2,1493,476,NZL,7,248,-309,JDS Neesham,M Vijay,6,58,92,37.94,1016,67.22,Left-hand bat,31,19,0,306,147,306,rob,0,IND,spin,no,4.6875,39.0625
+2,1494,477,NZL,7,248,-309,JDS Neesham,M Vijay,6,58,93,37.94,1016,67.22,Left-hand bat,32,19,0,306,147,306,rob,0,IND,spin,no,4.6875,39.0625
+2,1495,478,NZL,7,248,-309,JDS Neesham,M Vijay,6,58,94,37.94,1016,67.22,Left-hand bat,33,19,0,306,147,306,rob,1,IND,spin,no,4.6875,39.0625
+2,1504,487,NZL,7,250,-307,JDS Neesham,M Vijay,6,60,101,37.94,1016,67.22,Left-hand bat,36,20,0,306,147,306,rob,0,IND,spin,no,4.6875,39.0625
+2,1505,488,NZL,7,250,-307,JDS Neesham,M Vijay,6,60,102,37.94,1016,67.22,Left-hand bat,37,20,0,306,147,306,rob,0,IND,spin,no,4.6875,39.0625
+2,1506,489,NZL,7,250,-307,JDS Neesham,M Vijay,6,60,103,37.94,1016,67.22,Left-hand bat,38,20,0,306,147,306,rob,1,IND,spin,no,4.6875,39.0625
+2,1508,491,NZL,7,252,-305,JDS Neesham,M Vijay,6,61,104,37.94,1016,67.22,Left-hand bat,40,22,0,306,147,306,rob,4,IND,spin,no,4.6875,39.0625
+2,1509,492,NZL,7,256,-301,JDS Neesham,M Vijay,6,65,105,37.94,1016,67.22,Left-hand bat,41,26,0,306,147,306,rob,1,IND,spin,no,4.6875,39.0625

@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1648,189,PAK,4,129,-18,Umar Akmal,GP Swann,6,1,4,34.9,1096,66.87,Right-hand bat,78,37,3,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1649,190,PAK,4,129,-18,Umar Akmal,GP Swann,6,1,5,34.9,1096,66.87,Right-hand bat,79,37,3,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1650,191,PAK,4,129,-18,Umar Akmal,GP Swann,6,1,6,34.9,1096,66.87,Right-hand bat,80,37,3,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1651,192,PAK,4,129,-18,Umar Akmal,GP Swann,6,1,7,34.9,1096,66.87,Right-hand bat,81,37,3,5982.3,28.14,57.5,rob,2,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1652,193,PAK,4,131,-16,Umar Akmal,GP Swann,6,3,8,34.9,1096,66.87,Right-hand bat,82,39,3,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1653,194,PAK,4,131,-16,Umar Akmal,GP Swann,6,3,9,34.9,1096,66.87,Right-hand bat,83,39,3,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1660,201,PAK,5,131,-16,Umar Akmal,GP Swann,6,3,10,34.9,1096,66.87,Right-hand bat,84,39,3,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1661,202,PAK,5,131,-16,Umar Akmal,GP Swann,6,3,11,34.9,1096,66.87,Right-hand bat,85,39,3,5982.3,28.14,57.5,rob,1,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1696,237,PAK,6,133,-14,Umar Akmal,GP Swann,6,5,25,34.9,1096,66.87,Right-hand bat,102,40,4,5982.3,28.14,57.5,rob,1,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1708,249,PAK,6,143,-4,Umar Akmal,GP Swann,6,11,32,34.9,1096,66.87,Right-hand bat,108,45,4,5982.3,28.14,57.5,rob,2,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1709,250,PAK,6,145,-2,Umar Akmal,GP Swann,6,13,33,34.9,1096,66.87,Right-hand bat,109,47,4,5982.3,28.14,57.5,rob,0,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1710,251,PAK,6,145,-2,Umar Akmal,GP Swann,6,13,34,34.9,1096,66.87,Right-hand bat,110,47,4,5982.3,28.14,57.5,rob,2,ENG,spin,no,16.16743827160494,9.138117283950617
+4,1711,252,PAK,6,147,0,Umar Akmal,GP Swann,6,15,35,34.9,1096,66.87,Right-hand bat,111,49,4,5982.3,28.14,57.5,rob,1,ENG,spin,no,16.16743827160494,9.138117283950617

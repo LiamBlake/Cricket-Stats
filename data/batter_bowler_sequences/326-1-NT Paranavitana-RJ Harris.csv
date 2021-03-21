@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,0,0,SRL,0,0,0,NT Paranavitana,RJ Harris,1,0,0,34.52,2844,43.7,Left-hand bat,0,0,0,1320.1,20.9,42.6,rf,0,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,1,1,SRL,0,0,0,NT Paranavitana,RJ Harris,1,0,1,34.52,2844,43.7,Left-hand bat,1,0,0,1320.1,20.9,42.6,rf,0,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,2,2,SRL,0,0,0,NT Paranavitana,RJ Harris,1,0,2,34.52,2844,43.7,Left-hand bat,2,0,0,1320.1,20.9,42.6,rf,0,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,3,3,SRL,0,0,0,NT Paranavitana,RJ Harris,1,0,3,34.52,2844,43.7,Left-hand bat,3,0,0,1320.1,20.9,42.6,rf,0,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,4,4,SRL,0,0,0,NT Paranavitana,RJ Harris,1,0,4,34.52,2844,43.7,Left-hand bat,4,0,0,1320.1,20.9,42.6,rf,0,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,5,5,SRL,0,0,0,NT Paranavitana,RJ Harris,1,0,5,34.52,2844,43.7,Left-hand bat,5,0,0,1320.1,20.9,42.6,rf,0,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,14,14,SRL,0,2,2,NT Paranavitana,RJ Harris,1,0,10,34.52,2844,43.7,Left-hand bat,8,0,0,1320.1,20.9,42.6,rf,0,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,15,15,SRL,0,2,2,NT Paranavitana,RJ Harris,1,0,11,34.52,2844,43.7,Left-hand bat,9,0,0,1320.1,20.9,42.6,rf,W,SRL,seam,yes,28.98676748582231,10.23062381852552

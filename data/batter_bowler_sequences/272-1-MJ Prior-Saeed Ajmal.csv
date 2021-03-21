@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,199,199,ENG,5,84,84,MJ Prior,Saeed Ajmal,7,18,56,42.13,3034,62.49,Right-hand bat,0,0,0,2370.5,37.13,79.1,rob,0,ENG,spin,no,13.340000000000002,8.893333333333334
+1,200,200,ENG,5,84,84,MJ Prior,Saeed Ajmal,7,18,57,42.13,3034,62.49,Right-hand bat,1,0,0,2370.5,37.13,79.1,rob,1,ENG,spin,no,13.340000000000002,8.893333333333334
+1,204,204,ENG,5,90,90,MJ Prior,Saeed Ajmal,7,19,58,42.13,3034,62.49,Right-hand bat,5,6,0,2370.5,37.13,79.1,rob,0,ENG,spin,no,13.340000000000002,8.893333333333334
+1,211,211,ENG,5,94,94,MJ Prior,Saeed Ajmal,7,19,59,42.13,3034,62.49,Right-hand bat,6,6,0,2370.5,37.13,79.1,rob,1,ENG,spin,no,13.340000000000002,8.893333333333334
+1,213,213,ENG,5,96,96,MJ Prior,Saeed Ajmal,7,20,60,42.13,3034,62.49,Right-hand bat,8,8,0,2370.5,37.13,79.1,rob,0,ENG,spin,no,13.340000000000002,8.893333333333334
+1,214,214,ENG,5,96,96,MJ Prior,Saeed Ajmal,7,20,61,42.13,3034,62.49,Right-hand bat,9,8,0,2370.5,37.13,79.1,rob,1,ENG,spin,no,13.340000000000002,8.893333333333334

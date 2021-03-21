@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,556,556,WIN,6,283,283,JO Holder,VD Philander,8,9,20,23.2,207,56.03,Right-hand bat,101,57,0,5712.5,21.95,47.2,rfm,0,RSA,seam,yes,18.0791015625,15.9521484375
+1,557,557,WIN,6,283,283,JO Holder,VD Philander,8,9,21,23.2,207,56.03,Right-hand bat,102,57,0,5712.5,21.95,47.2,rfm,4,RSA,seam,yes,18.0791015625,15.9521484375
+1,564,564,WIN,6,295,295,JO Holder,VD Philander,8,13,22,23.2,207,56.03,Right-hand bat,103,61,0,5712.5,21.95,47.2,rfm,0,RSA,seam,yes,18.0791015625,15.9521484375
+1,565,565,WIN,6,295,295,JO Holder,VD Philander,8,13,23,23.2,207,56.03,Right-hand bat,104,61,0,5712.5,21.95,47.2,rfm,4,RSA,seam,yes,18.0791015625,15.9521484375
+1,566,566,WIN,6,299,299,JO Holder,VD Philander,8,17,24,23.2,207,56.03,Right-hand bat,105,65,0,5712.5,21.95,47.2,rfm,0,RSA,seam,yes,18.0791015625,15.9521484375
+1,567,567,WIN,6,299,299,JO Holder,VD Philander,8,17,25,23.2,207,56.03,Right-hand bat,106,65,0,5712.5,21.95,47.2,rfm,0,RSA,seam,yes,18.0791015625,15.9521484375
+1,568,568,WIN,6,299,299,JO Holder,VD Philander,8,17,26,23.2,207,56.03,Right-hand bat,107,65,0,5712.5,21.95,47.2,rfm,0,RSA,seam,yes,18.0791015625,15.9521484375
+1,569,569,WIN,6,299,299,JO Holder,VD Philander,8,17,27,23.2,207,56.03,Right-hand bat,108,65,0,5712.5,21.95,47.2,rfm,0,RSA,seam,yes,18.0791015625,15.9521484375
+1,576,576,WIN,7,305,305,JO Holder,VD Philander,8,22,32,23.2,207,56.03,Right-hand bat,109,65,0,5712.5,21.95,47.2,rfm,1,RSA,seam,yes,18.0791015625,15.9521484375

@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,583,121,IND,2,67,-179,V Kohli,SM Curran,4,5,3,54.44,10486,58.15,Right-hand bat,24,8,0,426.5,23,43.1,lmf,0,ENG,seam,no,16.43625,7.91375
+2,584,122,IND,2,67,-179,V Kohli,SM Curran,4,5,4,54.44,10486,58.15,Right-hand bat,25,8,0,426.5,23,43.1,lmf,0,ENG,seam,no,16.43625,7.91375
+2,585,123,IND,2,67,-179,V Kohli,SM Curran,4,5,5,54.44,10486,58.15,Right-hand bat,26,8,0,426.5,23,43.1,lmf,0,ENG,seam,no,16.43625,7.91375
+2,586,124,IND,2,67,-179,V Kohli,SM Curran,4,5,6,54.44,10486,58.15,Right-hand bat,27,8,0,426.5,23,43.1,lmf,0,ENG,seam,no,16.43625,7.91375
+2,587,125,IND,2,67,-179,V Kohli,SM Curran,4,5,7,54.44,10486,58.15,Right-hand bat,28,8,0,426.5,23,43.1,lmf,0,ENG,seam,no,16.43625,7.91375
+2,588,126,IND,2,67,-179,V Kohli,SM Curran,4,5,8,54.44,10486,58.15,Right-hand bat,29,8,0,426.5,23,43.1,lmf,0,ENG,seam,no,16.43625,7.91375
+2,598,136,IND,2,73,-173,V Kohli,SM Curran,4,9,12,54.44,10486,58.15,Right-hand bat,33,9,0,426.5,23,43.1,lmf,0,ENG,seam,no,16.43625,7.91375
+2,599,137,IND,2,73,-173,V Kohli,SM Curran,4,9,13,54.44,10486,58.15,Right-hand bat,34,9,0,426.5,23,43.1,lmf,0,ENG,seam,no,16.43625,7.91375
+2,600,138,IND,2,73,-173,V Kohli,SM Curran,4,9,14,54.44,10486,58.15,Right-hand bat,35,9,0,426.5,23,43.1,lmf,0,ENG,seam,no,16.43625,7.91375
+2,607,145,IND,2,79,-167,V Kohli,SM Curran,4,9,15,54.44,10486,58.15,Right-hand bat,36,9,0,426.5,23,43.1,lmf,4,ENG,seam,no,16.43625,7.91375
+2,608,146,IND,2,83,-163,V Kohli,SM Curran,4,13,16,54.44,10486,58.15,Right-hand bat,37,13,0,426.5,23,43.1,lmf,1,ENG,seam,no,16.43625,7.91375
+2,709,247,IND,2,142,-104,V Kohli,SM Curran,4,46,70,54.44,10486,58.15,Right-hand bat,48,20,0,426.5,23,43.1,lmf,W,ENG,seam,no,16.43625,7.91375

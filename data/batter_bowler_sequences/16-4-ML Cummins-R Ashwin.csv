@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1965,257,WIN,9,96,-249,ML Cummins,R Ashwin,10,0,2,26,63,41.26,Left-hand bat,58,25,1,9978.2,25.21,51.9,rob,0,WIN,spin,yes,17.809349890430973,6.596055514974434
+4,1966,258,WIN,9,96,-249,ML Cummins,R Ashwin,10,0,3,26,63,41.26,Left-hand bat,59,25,1,9978.2,25.21,51.9,rob,0,WIN,spin,yes,17.809349890430973,6.596055514974434
+4,1973,265,WIN,9,100,-245,ML Cummins,R Ashwin,10,0,4,26,63,41.26,Left-hand bat,60,25,1,9978.2,25.21,51.9,rob,0,WIN,spin,yes,17.809349890430973,6.596055514974434
+4,1974,266,WIN,9,100,-245,ML Cummins,R Ashwin,10,0,5,26,63,41.26,Left-hand bat,61,25,1,9978.2,25.21,51.9,rob,0,WIN,spin,yes,17.809349890430973,6.596055514974434
+4,1975,267,WIN,9,100,-245,ML Cummins,R Ashwin,10,0,6,26,63,41.26,Left-hand bat,62,25,1,9978.2,25.21,51.9,rob,0,WIN,spin,yes,17.809349890430973,6.596055514974434
+4,1976,268,WIN,9,100,-245,ML Cummins,R Ashwin,10,0,7,26,63,41.26,Left-hand bat,63,25,1,9978.2,25.21,51.9,rob,2,WIN,spin,yes,17.809349890430973,6.596055514974434
+4,1977,269,WIN,9,102,-243,ML Cummins,R Ashwin,10,2,8,26,63,41.26,Left-hand bat,64,27,1,9978.2,25.21,51.9,rob,0,WIN,spin,yes,17.809349890430973,6.596055514974434
+4,1978,270,WIN,9,102,-243,ML Cummins,R Ashwin,10,2,9,26,63,41.26,Left-hand bat,65,27,1,9978.2,25.21,51.9,rob,0,WIN,spin,yes,17.809349890430973,6.596055514974434
+4,1988,280,WIN,9,104,-241,ML Cummins,R Ashwin,10,2,14,26,63,41.26,Left-hand bat,69,28,1,9978.2,25.21,51.9,rob,0,WIN,spin,yes,17.809349890430973,6.596055514974434
+4,1989,281,WIN,9,104,-241,ML Cummins,R Ashwin,10,2,15,26,63,41.26,Left-hand bat,70,28,1,9978.2,25.21,51.9,rob,0,WIN,spin,yes,17.809349890430973,6.596055514974434
+4,1990,282,WIN,9,104,-241,ML Cummins,R Ashwin,10,2,16,26,63,41.26,Left-hand bat,71,28,1,9978.2,25.21,51.9,rob,0,WIN,spin,yes,17.809349890430973,6.596055514974434

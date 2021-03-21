@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1840,141,PAK,4,93,315,Sarfraz Ahmed,D Bishoo,6,0,0,42.97,2059,73.04,Right-hand bat,55,31,3,4770,36.76,69.1,rls,1,PAK,spin,yes,11.140495867768596,29.70798898071626
+3,1843,144,PAK,4,95,317,Sarfraz Ahmed,D Bishoo,6,1,1,42.97,2059,73.04,Right-hand bat,58,33,3,4770,36.76,69.1,rls,1,PAK,spin,yes,11.140495867768596,29.70798898071626
+3,1851,152,PAK,4,101,323,Sarfraz Ahmed,D Bishoo,6,4,5,42.97,2059,73.04,Right-hand bat,60,34,3,4770,36.76,69.1,rls,3,PAK,spin,yes,11.140495867768596,29.70798898071626
+3,1854,155,PAK,4,105,327,Sarfraz Ahmed,D Bishoo,6,7,6,42.97,2059,73.04,Right-hand bat,63,38,3,4770,36.76,69.1,rls,2,PAK,spin,yes,11.140495867768596,29.70798898071626
+3,1855,156,PAK,4,107,329,Sarfraz Ahmed,D Bishoo,6,9,7,42.97,2059,73.04,Right-hand bat,64,40,3,4770,36.76,69.1,rls,0,PAK,spin,yes,11.140495867768596,29.70798898071626
+3,1856,157,PAK,4,107,329,Sarfraz Ahmed,D Bishoo,6,9,8,42.97,2059,73.04,Right-hand bat,65,40,3,4770,36.76,69.1,rls,1,PAK,spin,yes,11.140495867768596,29.70798898071626
+3,1863,164,PAK,4,111,333,Sarfraz Ahmed,D Bishoo,6,12,13,42.97,2059,73.04,Right-hand bat,66,41,3,4770,36.76,69.1,rls,1,PAK,spin,yes,11.140495867768596,29.70798898071626
+3,1887,188,PAK,8,121,343,Sarfraz Ahmed,D Bishoo,6,15,19,42.97,2059,73.04,Right-hand bat,78,47,6,4770,36.76,69.1,rls,W,PAK,spin,yes,11.140495867768596,29.70798898071626

@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,523,523,WIN,8,232,232,FH Edwards,JM Anderson,10,0,5,6.64,1392,28.16,Right-hand bat,142,57,2,14994.2,30.3,57.4,rfm,0,ENG,seam,no,28.873469387755097,4.812244897959183
+1,524,524,WIN,8,232,232,FH Edwards,JM Anderson,10,0,6,6.64,1392,28.16,Right-hand bat,143,57,2,14994.2,30.3,57.4,rfm,2,ENG,seam,no,28.873469387755097,4.812244897959183
+1,531,531,WIN,8,242,242,FH Edwards,JM Anderson,10,2,7,6.64,1392,28.16,Right-hand bat,144,59,2,14994.2,30.3,57.4,rfm,0,ENG,seam,no,28.873469387755097,4.812244897959183
+1,532,532,WIN,8,242,242,FH Edwards,JM Anderson,10,2,8,6.64,1392,28.16,Right-hand bat,145,59,2,14994.2,30.3,57.4,rfm,0,ENG,seam,no,28.873469387755097,4.812244897959183
+1,533,533,WIN,8,242,242,FH Edwards,JM Anderson,10,2,9,6.64,1392,28.16,Right-hand bat,146,59,2,14994.2,30.3,57.4,rfm,0,ENG,seam,no,28.873469387755097,4.812244897959183
+1,534,534,WIN,8,242,242,FH Edwards,JM Anderson,10,2,10,6.64,1392,28.16,Right-hand bat,147,59,2,14994.2,30.3,57.4,rfm,0,ENG,seam,no,28.873469387755097,4.812244897959183
+1,535,535,WIN,8,242,242,FH Edwards,JM Anderson,10,2,11,6.64,1392,28.16,Right-hand bat,148,59,2,14994.2,30.3,57.4,rfm,0,ENG,seam,no,28.873469387755097,4.812244897959183
+1,536,536,WIN,8,242,242,FH Edwards,JM Anderson,10,2,12,6.64,1392,28.16,Right-hand bat,149,59,2,14994.2,30.3,57.4,rfm,0,ENG,seam,no,28.873469387755097,4.812244897959183

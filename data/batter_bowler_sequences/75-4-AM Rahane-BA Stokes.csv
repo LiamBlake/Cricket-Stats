@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1415,97,IND,3,52,-141,AM Rahane,BA Stokes,5,0,0,42.17,5560,52.33,Right-hand bat,13,6,1,6126,32.97,58.9,rfm,2,ENG,seam,no,16.366875,6.208125
+4,1416,98,IND,3,54,-139,AM Rahane,BA Stokes,5,2,1,42.17,5560,52.33,Right-hand bat,14,8,1,6126,32.97,58.9,rfm,0,ENG,seam,no,16.366875,6.208125
+4,1417,99,IND,3,54,-139,AM Rahane,BA Stokes,5,2,2,42.17,5560,52.33,Right-hand bat,15,8,1,6126,32.97,58.9,rfm,0,ENG,seam,no,16.366875,6.208125
+4,1418,100,IND,3,54,-139,AM Rahane,BA Stokes,5,2,3,42.17,5560,52.33,Right-hand bat,16,8,1,6126,32.97,58.9,rfm,0,ENG,seam,no,16.366875,6.208125
+4,1419,101,IND,3,54,-139,AM Rahane,BA Stokes,5,2,4,42.17,5560,52.33,Right-hand bat,17,8,1,6126,32.97,58.9,rfm,0,ENG,seam,no,16.366875,6.208125

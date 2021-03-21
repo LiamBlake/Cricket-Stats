@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1009,178,WIN,5,96,-384,D Ramdin,SR Watson,7,0,0,24.43,2896,48.1,Right-hand bat,26,12,1,1128.4,36.58,66.5,rfm,0,AUS,seam,no,23.973214285714285,7.991071428571429
+2,1010,179,WIN,5,96,-384,D Ramdin,SR Watson,7,0,1,24.43,2896,48.1,Right-hand bat,27,12,1,1128.4,36.58,66.5,rfm,0,AUS,seam,no,23.973214285714285,7.991071428571429
+2,1011,180,WIN,5,96,-384,D Ramdin,SR Watson,7,0,2,24.43,2896,48.1,Right-hand bat,28,12,1,1128.4,36.58,66.5,rfm,0,AUS,seam,no,23.973214285714285,7.991071428571429
+2,1012,181,WIN,5,96,-384,D Ramdin,SR Watson,7,0,3,24.43,2896,48.1,Right-hand bat,29,12,1,1128.4,36.58,66.5,rfm,2,AUS,seam,no,23.973214285714285,7.991071428571429

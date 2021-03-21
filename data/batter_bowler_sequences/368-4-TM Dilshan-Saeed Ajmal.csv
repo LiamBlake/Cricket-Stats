@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1792,48,SRL,0,33,-227,TM Dilshan,Saeed Ajmal,2,17,25,41.21,7628,65.91,Right-hand bat,0,0,0,7170.5,27.5,61.8,rob,1,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1804,60,SRL,0,37,-223,TM Dilshan,Saeed Ajmal,2,18,26,41.21,7628,65.91,Right-hand bat,6,3,0,7170.5,27.5,61.8,rob,0,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1805,61,SRL,0,37,-223,TM Dilshan,Saeed Ajmal,2,18,27,41.21,7628,65.91,Right-hand bat,7,3,0,7170.5,27.5,61.8,rob,0,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1806,62,SRL,0,37,-223,TM Dilshan,Saeed Ajmal,2,18,28,41.21,7628,65.91,Right-hand bat,8,3,0,7170.5,27.5,61.8,rob,6,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1807,63,SRL,0,43,-217,TM Dilshan,Saeed Ajmal,2,24,29,41.21,7628,65.91,Right-hand bat,9,9,0,7170.5,27.5,61.8,rob,2,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1808,64,SRL,0,45,-215,TM Dilshan,Saeed Ajmal,2,26,30,41.21,7628,65.91,Right-hand bat,10,11,0,7170.5,27.5,61.8,rob,0,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1809,65,SRL,0,45,-215,TM Dilshan,Saeed Ajmal,2,26,31,41.21,7628,65.91,Right-hand bat,11,11,0,7170.5,27.5,61.8,rob,2,SRL,spin,yes,16.919999999999998,39.480000000000004

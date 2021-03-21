@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2193,619,RSA,5,299,-246,PL Harris,BW Hilfenhaus,7,0,0,9.89,916,30.24,Right-hand bat,142,69,1,546,46.6,109.2,rfm,0,RSA,seam,no,26.25061224489796,6.805714285714286
+4,2194,620,RSA,5,299,-246,PL Harris,BW Hilfenhaus,7,0,1,9.89,916,30.24,Right-hand bat,143,69,1,546,46.6,109.2,rfm,0,RSA,seam,no,26.25061224489796,6.805714285714286
+4,2195,621,RSA,5,299,-246,PL Harris,BW Hilfenhaus,7,0,2,9.89,916,30.24,Right-hand bat,144,69,1,546,46.6,109.2,rfm,1,RSA,seam,no,26.25061224489796,6.805714285714286
+4,2205,631,RSA,5,303,-242,PL Harris,BW Hilfenhaus,7,3,9,9.89,916,30.24,Right-hand bat,148,71,1,546,46.6,109.2,rfm,0,RSA,seam,no,26.25061224489796,6.805714285714286
+4,2206,632,RSA,5,303,-242,PL Harris,BW Hilfenhaus,7,3,10,9.89,916,30.24,Right-hand bat,149,71,1,546,46.6,109.2,rfm,0,RSA,seam,no,26.25061224489796,6.805714285714286
+4,2207,633,RSA,5,303,-242,PL Harris,BW Hilfenhaus,7,3,11,9.89,916,30.24,Right-hand bat,150,71,1,546,46.6,109.2,rfm,2,RSA,seam,no,26.25061224489796,6.805714285714286
+4,2208,634,RSA,5,305,-240,PL Harris,BW Hilfenhaus,7,5,12,9.89,916,30.24,Right-hand bat,151,73,1,546,46.6,109.2,rfm,0,RSA,seam,no,26.25061224489796,6.805714285714286

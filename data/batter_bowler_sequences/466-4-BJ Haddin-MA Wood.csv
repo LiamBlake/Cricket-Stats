@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1743,194,AUS,5,106,-305,BJ Haddin,MA Wood,7,0,0,32.98,5587,58.45,Right-hand bat,38,20,1,642,32.15,49.3,rf,0,ENG,seam,no,21.414375,10.310625
+4,1744,195,AUS,5,106,-305,BJ Haddin,MA Wood,7,0,1,32.98,5587,58.45,Right-hand bat,39,20,1,642,32.15,49.3,rf,0,ENG,seam,no,21.414375,10.310625
+4,1745,196,AUS,5,106,-305,BJ Haddin,MA Wood,7,0,2,32.98,5587,58.45,Right-hand bat,40,20,1,642,32.15,49.3,rf,0,ENG,seam,no,21.414375,10.310625
+4,1746,197,AUS,5,106,-305,BJ Haddin,MA Wood,7,0,3,32.98,5587,58.45,Right-hand bat,41,20,1,642,32.15,49.3,rf,0,ENG,seam,no,21.414375,10.310625
+4,1754,205,AUS,5,110,-301,BJ Haddin,MA Wood,7,0,4,32.98,5587,58.45,Right-hand bat,43,21,1,642,32.15,49.3,rf,0,ENG,seam,no,21.414375,10.310625
+4,1755,206,AUS,5,110,-301,BJ Haddin,MA Wood,7,0,5,32.98,5587,58.45,Right-hand bat,44,21,1,642,32.15,49.3,rf,0,ENG,seam,no,21.414375,10.310625
+4,1756,207,AUS,5,110,-301,BJ Haddin,MA Wood,7,0,6,32.98,5587,58.45,Right-hand bat,45,21,1,642,32.15,49.3,rf,0,ENG,seam,no,21.414375,10.310625
+4,1757,208,AUS,5,110,-301,BJ Haddin,MA Wood,7,0,7,32.98,5587,58.45,Right-hand bat,46,21,1,642,32.15,49.3,rf,4,ENG,seam,no,21.414375,10.310625
+4,1758,209,AUS,5,114,-297,BJ Haddin,MA Wood,7,4,8,32.98,5587,58.45,Right-hand bat,47,25,1,642,32.15,49.3,rf,0,ENG,seam,no,21.414375,10.310625
+4,1765,216,AUS,5,116,-295,BJ Haddin,MA Wood,7,5,13,32.98,5587,58.45,Right-hand bat,48,25,1,642,32.15,49.3,rf,0,ENG,seam,no,21.414375,10.310625
+4,1766,217,AUS,5,116,-295,BJ Haddin,MA Wood,7,5,14,32.98,5587,58.45,Right-hand bat,49,25,1,642,32.15,49.3,rf,0,ENG,seam,no,21.414375,10.310625
+4,1767,218,AUS,5,116,-295,BJ Haddin,MA Wood,7,5,15,32.98,5587,58.45,Right-hand bat,50,25,1,642,32.15,49.3,rf,2,ENG,seam,no,21.414375,10.310625
+4,1768,219,AUS,5,118,-293,BJ Haddin,MA Wood,7,7,16,32.98,5587,58.45,Right-hand bat,51,27,1,642,32.15,49.3,rf,0,ENG,seam,no,21.414375,10.310625
+4,1769,220,AUS,5,118,-293,BJ Haddin,MA Wood,7,7,17,32.98,5587,58.45,Right-hand bat,52,27,1,642,32.15,49.3,rf,0,ENG,seam,no,21.414375,10.310625
+4,1770,221,AUS,5,118,-293,BJ Haddin,MA Wood,7,7,18,32.98,5587,58.45,Right-hand bat,53,27,1,642,32.15,49.3,rf,0,ENG,seam,no,21.414375,10.310625

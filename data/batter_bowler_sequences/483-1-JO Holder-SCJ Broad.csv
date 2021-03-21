@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,512,512,WIN,6,226,226,JO Holder,SCJ Broad,8,3,5,32.37,433,59.81,Right-hand bat,108,47,1,16038.5,29.97,58.9,rfm,0,WIN,seam,no,26.52861602497399,12.63267429760666
+1,513,513,WIN,6,226,226,JO Holder,SCJ Broad,8,3,6,32.37,433,59.81,Right-hand bat,109,47,1,16038.5,29.97,58.9,rfm,0,WIN,seam,no,26.52861602497399,12.63267429760666
+1,514,514,WIN,6,226,226,JO Holder,SCJ Broad,8,3,7,32.37,433,59.81,Right-hand bat,110,47,1,16038.5,29.97,58.9,rfm,0,WIN,seam,no,26.52861602497399,12.63267429760666
+1,515,515,WIN,6,226,226,JO Holder,SCJ Broad,8,3,8,32.37,433,59.81,Right-hand bat,111,47,1,16038.5,29.97,58.9,rfm,0,WIN,seam,no,26.52861602497399,12.63267429760666
+1,516,516,WIN,6,226,226,JO Holder,SCJ Broad,8,3,9,32.37,433,59.81,Right-hand bat,112,47,1,16038.5,29.97,58.9,rfm,0,WIN,seam,no,26.52861602497399,12.63267429760666
+1,517,517,WIN,6,226,226,JO Holder,SCJ Broad,8,3,10,32.37,433,59.81,Right-hand bat,113,47,1,16038.5,29.97,58.9,rfm,0,WIN,seam,no,26.52861602497399,12.63267429760666
+1,536,536,WIN,7,240,240,JO Holder,SCJ Broad,8,16,22,32.37,433,59.81,Right-hand bat,120,47,2,16038.5,29.97,58.9,rfm,0,WIN,seam,no,26.52861602497399,12.63267429760666
+1,537,537,WIN,7,240,240,JO Holder,SCJ Broad,8,16,23,32.37,433,59.81,Right-hand bat,121,47,2,16038.5,29.97,58.9,rfm,0,WIN,seam,no,26.52861602497399,12.63267429760666
+1,538,538,WIN,7,240,240,JO Holder,SCJ Broad,8,16,24,32.37,433,59.81,Right-hand bat,122,47,2,16038.5,29.97,58.9,rfm,0,WIN,seam,no,26.52861602497399,12.63267429760666
+1,539,539,WIN,7,240,240,JO Holder,SCJ Broad,8,16,25,32.37,433,59.81,Right-hand bat,123,47,2,16038.5,29.97,58.9,rfm,0,WIN,seam,no,26.52861602497399,12.63267429760666
+1,540,540,WIN,7,240,240,JO Holder,SCJ Broad,8,16,26,32.37,433,59.81,Right-hand bat,124,47,2,16038.5,29.97,58.9,rfm,6,WIN,seam,no,26.52861602497399,12.63267429760666
+1,541,541,WIN,7,246,246,JO Holder,SCJ Broad,8,22,27,32.37,433,59.81,Right-hand bat,125,53,2,16038.5,29.97,58.9,rfm,W,WIN,seam,no,26.52861602497399,12.63267429760666

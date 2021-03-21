@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2292,4,WIN,0,1,-238,LMP Simmons,JM Anderson,2,0,0,16,91,35.16,Right-hand bat,4,1,0,7116.2,35.43,60.8,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
+4,2293,5,WIN,0,1,-238,LMP Simmons,JM Anderson,2,0,1,16,91,35.16,Right-hand bat,5,1,0,7116.2,35.43,60.8,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
+4,2305,17,WIN,0,9,-230,LMP Simmons,JM Anderson,2,0,3,16,91,35.16,Right-hand bat,11,3,0,7116.2,35.43,60.8,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
+4,2312,24,WIN,0,13,-226,LMP Simmons,JM Anderson,2,0,4,16,91,35.16,Right-hand bat,12,3,0,7116.2,35.43,60.8,rfm,4,WIN,seam,no,25.61777777777778,22.415555555555557
+4,2313,25,WIN,0,17,-222,LMP Simmons,JM Anderson,2,4,5,16,91,35.16,Right-hand bat,13,7,0,7116.2,35.43,60.8,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
+4,2314,26,WIN,0,17,-222,LMP Simmons,JM Anderson,2,4,6,16,91,35.16,Right-hand bat,14,7,0,7116.2,35.43,60.8,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
+4,2315,27,WIN,0,17,-222,LMP Simmons,JM Anderson,2,4,7,16,91,35.16,Right-hand bat,15,7,0,7116.2,35.43,60.8,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
+4,2316,28,WIN,0,17,-222,LMP Simmons,JM Anderson,2,4,8,16,91,35.16,Right-hand bat,16,7,0,7116.2,35.43,60.8,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
+4,2317,29,WIN,0,17,-222,LMP Simmons,JM Anderson,2,4,9,16,91,35.16,Right-hand bat,17,7,0,7116.2,35.43,60.8,rfm,4,WIN,seam,no,25.61777777777778,22.415555555555557
+4,2324,36,WIN,0,25,-214,LMP Simmons,JM Anderson,2,8,10,16,91,35.16,Right-hand bat,18,11,0,7116.2,35.43,60.8,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
+4,2325,37,WIN,0,25,-214,LMP Simmons,JM Anderson,2,8,11,16,91,35.16,Right-hand bat,19,11,0,7116.2,35.43,60.8,rfm,W,WIN,seam,no,25.61777777777778,22.415555555555557

@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1340,90,RSA,2,58,235,F du Plessis,MG Johnson,4,1,5,51.88,2058,42.85,Right-hand bat,24,20,1,12906.3,27.64,50.2,lf,1,RSA,seam,yes,20.742857142857144,12.257142857142858
+3,1344,94,RSA,2,60,237,F du Plessis,MG Johnson,4,2,6,51.88,2058,42.85,Right-hand bat,28,22,1,12906.3,27.64,50.2,lf,0,RSA,seam,yes,20.742857142857144,12.257142857142858
+3,1345,95,RSA,2,60,237,F du Plessis,MG Johnson,4,2,7,51.88,2058,42.85,Right-hand bat,29,22,1,12906.3,27.64,50.2,lf,0,RSA,seam,yes,20.742857142857144,12.257142857142858
+3,1352,102,RSA,2,66,243,F du Plessis,MG Johnson,4,7,12,51.88,2058,42.85,Right-hand bat,30,22,1,12906.3,27.64,50.2,lf,2,RSA,seam,yes,20.742857142857144,12.257142857142858
+3,1353,103,RSA,2,68,245,F du Plessis,MG Johnson,4,9,13,51.88,2058,42.85,Right-hand bat,31,24,1,12906.3,27.64,50.2,lf,0,RSA,seam,yes,20.742857142857144,12.257142857142858
+3,1354,104,RSA,2,68,245,F du Plessis,MG Johnson,4,9,14,51.88,2058,42.85,Right-hand bat,32,24,1,12906.3,27.64,50.2,lf,0,RSA,seam,yes,20.742857142857144,12.257142857142858
+3,1355,105,RSA,2,68,245,F du Plessis,MG Johnson,4,9,15,51.88,2058,42.85,Right-hand bat,33,24,1,12906.3,27.64,50.2,lf,1,RSA,seam,yes,20.742857142857144,12.257142857142858

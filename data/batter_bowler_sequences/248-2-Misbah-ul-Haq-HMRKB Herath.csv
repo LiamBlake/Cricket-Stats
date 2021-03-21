@@ -1,0 +1,25 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,771,288,PAK,4,160,-132,Misbah-ul-Haq,HMRKB Herath,6,27,85,40.84,1984,39.11,Right-hand bat,0,0,0,3066.4,36.21,74.8,lo,0,SRL,spin,yes,16.335,7.864999999999999
+2,772,289,PAK,4,160,-132,Misbah-ul-Haq,HMRKB Herath,6,27,86,40.84,1984,39.11,Right-hand bat,1,0,0,3066.4,36.21,74.8,lo,0,SRL,spin,yes,16.335,7.864999999999999
+2,773,290,PAK,4,160,-132,Misbah-ul-Haq,HMRKB Herath,6,27,87,40.84,1984,39.11,Right-hand bat,2,0,0,3066.4,36.21,74.8,lo,0,SRL,spin,yes,16.335,7.864999999999999
+2,774,291,PAK,4,160,-132,Misbah-ul-Haq,HMRKB Herath,6,27,88,40.84,1984,39.11,Right-hand bat,3,0,0,3066.4,36.21,74.8,lo,0,SRL,spin,yes,16.335,7.864999999999999
+2,775,292,PAK,4,160,-132,Misbah-ul-Haq,HMRKB Herath,6,27,89,40.84,1984,39.11,Right-hand bat,4,0,0,3066.4,36.21,74.8,lo,2,SRL,spin,yes,16.335,7.864999999999999
+2,776,293,PAK,4,162,-130,Misbah-ul-Haq,HMRKB Herath,6,29,90,40.84,1984,39.11,Right-hand bat,5,2,0,3066.4,36.21,74.8,lo,1,SRL,spin,yes,16.335,7.864999999999999
+2,787,304,PAK,4,170,-122,Misbah-ul-Haq,HMRKB Herath,6,32,97,40.84,1984,39.11,Right-hand bat,10,8,0,3066.4,36.21,74.8,lo,0,SRL,spin,yes,16.335,7.864999999999999
+2,788,305,PAK,4,170,-122,Misbah-ul-Haq,HMRKB Herath,6,32,98,40.84,1984,39.11,Right-hand bat,11,8,0,3066.4,36.21,74.8,lo,0,SRL,spin,yes,16.335,7.864999999999999
+2,795,312,PAK,4,176,-116,Misbah-ul-Haq,HMRKB Herath,6,33,100,40.84,1984,39.11,Right-hand bat,12,8,0,3066.4,36.21,74.8,lo,0,SRL,spin,yes,16.335,7.864999999999999
+2,796,313,PAK,4,176,-116,Misbah-ul-Haq,HMRKB Herath,6,33,101,40.84,1984,39.11,Right-hand bat,13,8,0,3066.4,36.21,74.8,lo,4,SRL,spin,yes,16.335,7.864999999999999
+2,797,314,PAK,4,180,-112,Misbah-ul-Haq,HMRKB Herath,6,37,102,40.84,1984,39.11,Right-hand bat,14,12,0,3066.4,36.21,74.8,lo,4,SRL,spin,yes,16.335,7.864999999999999
+2,798,315,PAK,4,184,-108,Misbah-ul-Haq,HMRKB Herath,6,41,103,40.84,1984,39.11,Right-hand bat,15,16,0,3066.4,36.21,74.8,lo,0,SRL,spin,yes,16.335,7.864999999999999
+2,799,316,PAK,4,184,-108,Misbah-ul-Haq,HMRKB Herath,6,41,104,40.84,1984,39.11,Right-hand bat,16,16,0,3066.4,36.21,74.8,lo,0,SRL,spin,yes,16.335,7.864999999999999
+2,800,317,PAK,4,184,-108,Misbah-ul-Haq,HMRKB Herath,6,41,105,40.84,1984,39.11,Right-hand bat,17,16,0,3066.4,36.21,74.8,lo,0,SRL,spin,yes,16.335,7.864999999999999
+2,811,328,PAK,4,187,-105,Misbah-ul-Haq,HMRKB Herath,6,41,107,40.84,1984,39.11,Right-hand bat,21,17,0,3066.4,36.21,74.8,lo,0,SRL,spin,yes,16.335,7.864999999999999
+2,812,329,PAK,4,187,-105,Misbah-ul-Haq,HMRKB Herath,6,41,108,40.84,1984,39.11,Right-hand bat,22,17,0,3066.4,36.21,74.8,lo,1,SRL,spin,yes,16.335,7.864999999999999
+2,822,339,PAK,4,193,-99,Misbah-ul-Haq,HMRKB Herath,6,42,113,40.84,1984,39.11,Right-hand bat,26,20,0,3066.4,36.21,74.8,lo,0,SRL,spin,yes,16.335,7.864999999999999
+2,823,340,PAK,4,193,-99,Misbah-ul-Haq,HMRKB Herath,6,42,114,40.84,1984,39.11,Right-hand bat,27,20,0,3066.4,36.21,74.8,lo,0,SRL,spin,yes,16.335,7.864999999999999
+2,824,341,PAK,4,193,-99,Misbah-ul-Haq,HMRKB Herath,6,42,115,40.84,1984,39.11,Right-hand bat,28,20,0,3066.4,36.21,74.8,lo,4,SRL,spin,yes,16.335,7.864999999999999
+2,825,342,PAK,4,197,-95,Misbah-ul-Haq,HMRKB Herath,6,46,116,40.84,1984,39.11,Right-hand bat,29,24,0,3066.4,36.21,74.8,lo,4,SRL,spin,yes,16.335,7.864999999999999
+2,834,351,PAK,4,207,-85,Misbah-ul-Haq,HMRKB Herath,6,50,121,40.84,1984,39.11,Right-hand bat,32,31,0,3066.4,36.21,74.8,lo,1,SRL,spin,yes,16.335,7.864999999999999
+2,837,354,PAK,4,209,-83,Misbah-ul-Haq,HMRKB Herath,6,51,122,40.84,1984,39.11,Right-hand bat,35,33,0,3066.4,36.21,74.8,lo,0,SRL,spin,yes,16.335,7.864999999999999
+2,844,361,PAK,4,219,-73,Misbah-ul-Haq,HMRKB Herath,6,56,126,40.84,1984,39.11,Right-hand bat,36,33,0,3066.4,36.21,74.8,lo,0,SRL,spin,yes,16.335,7.864999999999999
+2,845,362,PAK,4,219,-73,Misbah-ul-Haq,HMRKB Herath,6,56,127,40.84,1984,39.11,Right-hand bat,37,33,0,3066.4,36.21,74.8,lo,W,SRL,spin,yes,16.335,7.864999999999999

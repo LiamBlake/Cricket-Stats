@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,439,439,BAN,8,273,273,Abdur Razzak,N Wagner,9,4,6,16.71,363,64.46,Left-hand bat,108,63,4,2028,36,65.4,lmf,0,BAN,seam,yes,18.676748582230626,24.279773156899815
+1,440,440,BAN,8,273,273,Abdur Razzak,N Wagner,9,4,7,16.71,363,64.46,Left-hand bat,109,63,4,2028,36,65.4,lmf,0,BAN,seam,yes,18.676748582230626,24.279773156899815
+1,441,441,BAN,8,273,273,Abdur Razzak,N Wagner,9,4,8,16.71,363,64.46,Left-hand bat,110,63,4,2028,36,65.4,lmf,0,BAN,seam,yes,18.676748582230626,24.279773156899815
+1,442,442,BAN,8,273,273,Abdur Razzak,N Wagner,9,4,9,16.71,363,64.46,Left-hand bat,111,63,4,2028,36,65.4,lmf,1,BAN,seam,yes,18.676748582230626,24.279773156899815

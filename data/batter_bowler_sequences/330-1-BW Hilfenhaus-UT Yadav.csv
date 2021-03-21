@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,627,627,AUS,8,315,315,BW Hilfenhaus,UT Yadav,10,16,23,15.27,499,55.11,Right-hand bat,145,100,3,576.3,22.93,36.1,rf,0,AUS,seam,yes,22.4,3.2
+1,628,628,AUS,8,315,315,BW Hilfenhaus,UT Yadav,10,16,24,15.27,499,55.11,Right-hand bat,146,100,3,576.3,22.93,36.1,rf,0,AUS,seam,yes,22.4,3.2
+1,629,629,AUS,8,315,315,BW Hilfenhaus,UT Yadav,10,16,25,15.27,499,55.11,Right-hand bat,147,100,3,576.3,22.93,36.1,rf,0,AUS,seam,yes,22.4,3.2
+1,630,630,AUS,8,315,315,BW Hilfenhaus,UT Yadav,10,16,26,15.27,499,55.11,Right-hand bat,148,100,3,576.3,22.93,36.1,rf,0,AUS,seam,yes,22.4,3.2
+1,631,631,AUS,8,315,315,BW Hilfenhaus,UT Yadav,10,16,27,15.27,499,55.11,Right-hand bat,149,100,3,576.3,22.93,36.1,rf,1,AUS,seam,yes,22.4,3.2

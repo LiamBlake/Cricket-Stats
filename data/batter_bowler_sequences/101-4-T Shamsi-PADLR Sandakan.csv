@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1320,170,RSA,9,73,-278,T Shamsi,PADLR Sandakan,11,2,18,20,48,41.66,Right-hand bat,2,1,0,1830.5,36.83,61.1,lc,0,SRL,spin,no,5.914999999999999,10.985
+4,1321,171,RSA,9,73,-278,T Shamsi,PADLR Sandakan,11,2,19,20,48,41.66,Right-hand bat,3,1,0,1830.5,36.83,61.1,lc,0,SRL,spin,no,5.914999999999999,10.985
+4,1322,172,RSA,9,73,-278,T Shamsi,PADLR Sandakan,11,2,20,20,48,41.66,Right-hand bat,4,1,0,1830.5,36.83,61.1,lc,W,SRL,spin,no,5.914999999999999,10.985

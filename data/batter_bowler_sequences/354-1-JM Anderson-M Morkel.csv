@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,768,768,ENG,9,383,383,JM Anderson,M Morkel,11,0,0,11.32,1783,37.46,Left-hand bat,152,70,3,7800.5,29.77,54.2,rf,0,ENG,seam,yes,46.933884297520656,10.429752066115704
+1,769,769,ENG,9,383,383,JM Anderson,M Morkel,11,0,1,11.32,1783,37.46,Left-hand bat,153,70,3,7800.5,29.77,54.2,rf,0,ENG,seam,yes,46.933884297520656,10.429752066115704
+1,770,770,ENG,9,383,383,JM Anderson,M Morkel,11,0,2,11.32,1783,37.46,Left-hand bat,154,70,3,7800.5,29.77,54.2,rf,2,ENG,seam,yes,46.933884297520656,10.429752066115704
+1,771,771,ENG,9,385,385,JM Anderson,M Morkel,11,2,3,11.32,1783,37.46,Left-hand bat,155,72,3,7800.5,29.77,54.2,rf,W,ENG,seam,yes,46.933884297520656,10.429752066115704

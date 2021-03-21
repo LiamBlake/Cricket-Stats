@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1652,205,WIN,3,98,17,RL Chase,Shadab Khan,5,0,2,39.85,1275,43.76,Right-hand bat,31,19,0,240,145,240,rls,1,WIN,spin,yes,17.786250000000003,8.56375
+3,1663,216,WIN,3,102,21,RL Chase,Shadab Khan,5,4,7,39.85,1275,43.76,Right-hand bat,36,20,0,240,145,240,rls,0,WIN,spin,yes,17.786250000000003,8.56375
+3,1664,217,WIN,3,102,21,RL Chase,Shadab Khan,5,4,8,39.85,1275,43.76,Right-hand bat,37,20,0,240,145,240,rls,1,WIN,spin,yes,17.786250000000003,8.56375
+3,1679,232,WIN,3,104,23,RL Chase,Shadab Khan,5,5,15,39.85,1275,43.76,Right-hand bat,46,22,0,240,145,240,rls,0,WIN,spin,yes,17.786250000000003,8.56375
+3,1680,233,WIN,3,104,23,RL Chase,Shadab Khan,5,5,16,39.85,1275,43.76,Right-hand bat,47,22,0,240,145,240,rls,4,WIN,spin,yes,17.786250000000003,8.56375

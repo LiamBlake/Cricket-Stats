@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1786,347,AUS,5,188,-443,MS Wade,RJ Peterson,7,0,0,35.44,641,49.76,Left-hand bat,65,54,2,1128,33.4,56.4,lo,0,AUS,spin,no,24.780625,7.194375000000001
+4,1793,354,AUS,5,188,-443,MS Wade,RJ Peterson,7,0,1,35.44,641,49.76,Left-hand bat,66,54,2,1128,33.4,56.4,lo,4,AUS,spin,no,24.780625,7.194375000000001
+4,1794,355,AUS,5,192,-439,MS Wade,RJ Peterson,7,4,2,35.44,641,49.76,Left-hand bat,67,58,2,1128,33.4,56.4,lo,0,AUS,spin,no,24.780625,7.194375000000001
+4,1795,356,AUS,5,192,-439,MS Wade,RJ Peterson,7,4,3,35.44,641,49.76,Left-hand bat,68,58,2,1128,33.4,56.4,lo,2,AUS,spin,no,24.780625,7.194375000000001
+4,1796,357,AUS,5,194,-437,MS Wade,RJ Peterson,7,6,4,35.44,641,49.76,Left-hand bat,69,60,2,1128,33.4,56.4,lo,0,AUS,spin,no,24.780625,7.194375000000001
+4,1797,358,AUS,5,194,-437,MS Wade,RJ Peterson,7,6,5,35.44,641,49.76,Left-hand bat,70,60,2,1128,33.4,56.4,lo,0,AUS,spin,no,24.780625,7.194375000000001
+4,1798,359,AUS,5,194,-437,MS Wade,RJ Peterson,7,6,6,35.44,641,49.76,Left-hand bat,71,60,2,1128,33.4,56.4,lo,4,AUS,spin,no,24.780625,7.194375000000001
+4,1805,366,AUS,6,198,-433,MS Wade,RJ Peterson,7,10,7,35.44,641,49.76,Left-hand bat,72,64,2,1128,33.4,56.4,lo,0,AUS,spin,no,24.780625,7.194375000000001
+4,1806,367,AUS,6,198,-433,MS Wade,RJ Peterson,7,10,8,35.44,641,49.76,Left-hand bat,73,64,2,1128,33.4,56.4,lo,0,AUS,spin,no,24.780625,7.194375000000001
+4,1807,368,AUS,6,198,-433,MS Wade,RJ Peterson,7,10,9,35.44,641,49.76,Left-hand bat,74,64,2,1128,33.4,56.4,lo,0,AUS,spin,no,24.780625,7.194375000000001
+4,1808,369,AUS,6,198,-433,MS Wade,RJ Peterson,7,10,10,35.44,641,49.76,Left-hand bat,75,64,2,1128,33.4,56.4,lo,0,AUS,spin,no,24.780625,7.194375000000001
+4,1809,370,AUS,6,198,-433,MS Wade,RJ Peterson,7,10,11,35.44,641,49.76,Left-hand bat,76,64,2,1128,33.4,56.4,lo,W,AUS,spin,no,24.780625,7.194375000000001

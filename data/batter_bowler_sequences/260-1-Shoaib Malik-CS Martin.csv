@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,277,277,PAK,4,120,120,Shoaib Malik,CS Martin,6,1,1,36,3261,44.15,Right-hand bat,60,24,0,10224.5,33.32,58.7,rfm,0,NZL,seam,no,16.21875,5.40625
+1,278,278,PAK,4,120,120,Shoaib Malik,CS Martin,6,1,2,36,3261,44.15,Right-hand bat,61,24,0,10224.5,33.32,58.7,rfm,4,NZL,seam,no,16.21875,5.40625
+1,279,279,PAK,4,124,124,Shoaib Malik,CS Martin,6,5,3,36,3261,44.15,Right-hand bat,62,28,0,10224.5,33.32,58.7,rfm,0,NZL,seam,no,16.21875,5.40625
+1,280,280,PAK,4,124,124,Shoaib Malik,CS Martin,6,5,4,36,3261,44.15,Right-hand bat,63,28,0,10224.5,33.32,58.7,rfm,4,NZL,seam,no,16.21875,5.40625
+1,281,281,PAK,4,128,128,Shoaib Malik,CS Martin,6,9,5,36,3261,44.15,Right-hand bat,64,32,0,10224.5,33.32,58.7,rfm,0,NZL,seam,no,16.21875,5.40625
+1,282,282,PAK,4,128,128,Shoaib Malik,CS Martin,6,9,6,36,3261,44.15,Right-hand bat,65,32,0,10224.5,33.32,58.7,rfm,0,NZL,seam,no,16.21875,5.40625

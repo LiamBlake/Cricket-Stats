@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1765,491,WIN,8,167,89,FH Edwards,DW Steyn,11,0,0,4.41,647,24.57,Right-hand bat,88,28,3,3234.2,24.08,38.5,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1766,492,WIN,8,167,89,FH Edwards,DW Steyn,11,0,1,4.41,647,24.57,Right-hand bat,89,28,3,3234.2,24.08,38.5,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1774,500,WIN,8,169,91,FH Edwards,DW Steyn,11,0,7,4.41,647,24.57,Right-hand bat,91,28,3,3234.2,24.08,38.5,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1775,501,WIN,8,169,91,FH Edwards,DW Steyn,11,0,8,4.41,647,24.57,Right-hand bat,92,28,3,3234.2,24.08,38.5,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1776,502,WIN,8,169,91,FH Edwards,DW Steyn,11,0,9,4.41,647,24.57,Right-hand bat,93,28,3,3234.2,24.08,38.5,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1777,503,WIN,8,169,91,FH Edwards,DW Steyn,11,0,10,4.41,647,24.57,Right-hand bat,94,28,3,3234.2,24.08,38.5,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1778,504,WIN,8,169,91,FH Edwards,DW Steyn,11,0,11,4.41,647,24.57,Right-hand bat,95,28,3,3234.2,24.08,38.5,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1789,515,WIN,8,179,101,FH Edwards,DW Steyn,11,8,14,4.41,647,24.57,Right-hand bat,100,29,3,3234.2,24.08,38.5,rf,1,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1797,523,WIN,8,181,103,FH Edwards,DW Steyn,11,10,17,4.41,647,24.57,Right-hand bat,102,30,3,3234.2,24.08,38.5,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1798,524,WIN,8,181,103,FH Edwards,DW Steyn,11,10,18,4.41,647,24.57,Right-hand bat,103,30,3,3234.2,24.08,38.5,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1799,525,WIN,8,181,103,FH Edwards,DW Steyn,11,10,19,4.41,647,24.57,Right-hand bat,104,30,3,3234.2,24.08,38.5,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1800,526,WIN,8,181,103,FH Edwards,DW Steyn,11,10,20,4.41,647,24.57,Right-hand bat,105,30,3,3234.2,24.08,38.5,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1801,527,WIN,8,181,103,FH Edwards,DW Steyn,11,10,21,4.41,647,24.57,Right-hand bat,106,30,3,3234.2,24.08,38.5,rf,1,RSA,seam,yes,26.94949494949495,3.717171717171717

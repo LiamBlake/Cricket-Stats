@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,168,168,AUS,1,120,120,DA Warner,Kuldeep Yadav,1,48,70,47.42,6985,78.08,Left-hand bat,0,0,0,168,22.75,42,lc,0,IND,spin,yes,11.1083984375,16.2353515625
+1,169,169,AUS,1,120,120,DA Warner,Kuldeep Yadav,1,48,71,47.42,6985,78.08,Left-hand bat,1,0,0,168,22.75,42,lc,4,IND,spin,yes,11.1083984375,16.2353515625
+1,170,170,AUS,1,124,124,DA Warner,Kuldeep Yadav,1,52,72,47.42,6985,78.08,Left-hand bat,2,4,0,168,22.75,42,lc,0,IND,spin,yes,11.1083984375,16.2353515625
+1,171,171,AUS,1,124,124,DA Warner,Kuldeep Yadav,1,52,73,47.42,6985,78.08,Left-hand bat,3,4,0,168,22.75,42,lc,0,IND,spin,yes,11.1083984375,16.2353515625
+1,172,172,AUS,1,124,124,DA Warner,Kuldeep Yadav,1,52,74,47.42,6985,78.08,Left-hand bat,4,4,0,168,22.75,42,lc,0,IND,spin,yes,11.1083984375,16.2353515625
+1,173,173,AUS,1,124,124,DA Warner,Kuldeep Yadav,1,52,75,47.42,6985,78.08,Left-hand bat,5,4,0,168,22.75,42,lc,1,IND,spin,yes,11.1083984375,16.2353515625
+1,194,194,AUS,1,136,136,DA Warner,Kuldeep Yadav,1,56,82,47.42,6985,78.08,Left-hand bat,14,10,0,168,22.75,42,lc,0,IND,spin,yes,11.1083984375,16.2353515625
+1,195,195,AUS,1,136,136,DA Warner,Kuldeep Yadav,1,56,83,47.42,6985,78.08,Left-hand bat,15,10,0,168,22.75,42,lc,0,IND,spin,yes,11.1083984375,16.2353515625
+1,196,196,AUS,1,136,136,DA Warner,Kuldeep Yadav,1,56,84,47.42,6985,78.08,Left-hand bat,16,10,0,168,22.75,42,lc,0,IND,spin,yes,11.1083984375,16.2353515625
+1,197,197,AUS,1,136,136,DA Warner,Kuldeep Yadav,1,56,85,47.42,6985,78.08,Left-hand bat,17,10,0,168,22.75,42,lc,0,IND,spin,yes,11.1083984375,16.2353515625
+1,204,204,AUS,1,144,144,DA Warner,Kuldeep Yadav,1,56,86,47.42,6985,78.08,Left-hand bat,18,10,0,168,22.75,42,lc,W,IND,spin,yes,11.1083984375,16.2353515625

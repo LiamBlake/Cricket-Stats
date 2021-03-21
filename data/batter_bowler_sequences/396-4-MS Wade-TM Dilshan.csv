@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1873,203,AUS,4,113,-27,MS Wade,TM Dilshan,6,0,1,42.5,972,52.46,Left-hand bat,83,46,1,3030.1,42.88,84.1,rob,0,AUS,spin,yes,21.79065743944637,11.885813148788927
+4,1880,210,AUS,4,117,-23,MS Wade,TM Dilshan,6,1,5,42.5,972,52.46,Left-hand bat,84,46,1,3030.1,42.88,84.1,rob,4,AUS,spin,yes,21.79065743944637,11.885813148788927
+4,1881,211,AUS,4,121,-19,MS Wade,TM Dilshan,6,5,6,42.5,972,52.46,Left-hand bat,85,50,1,3030.1,42.88,84.1,rob,0,AUS,spin,yes,21.79065743944637,11.885813148788927
+4,1882,212,AUS,4,121,-19,MS Wade,TM Dilshan,6,5,7,42.5,972,52.46,Left-hand bat,86,50,1,3030.1,42.88,84.1,rob,0,AUS,spin,yes,21.79065743944637,11.885813148788927
+4,1883,213,AUS,4,121,-19,MS Wade,TM Dilshan,6,5,8,42.5,972,52.46,Left-hand bat,87,50,1,3030.1,42.88,84.1,rob,0,AUS,spin,yes,21.79065743944637,11.885813148788927
+4,1884,214,AUS,4,121,-19,MS Wade,TM Dilshan,6,5,9,42.5,972,52.46,Left-hand bat,88,50,1,3030.1,42.88,84.1,rob,0,AUS,spin,yes,21.79065743944637,11.885813148788927
+4,1885,215,AUS,4,121,-19,MS Wade,TM Dilshan,6,5,10,42.5,972,52.46,Left-hand bat,89,50,1,3030.1,42.88,84.1,rob,0,AUS,spin,yes,21.79065743944637,11.885813148788927
+4,1892,222,AUS,4,123,-17,MS Wade,TM Dilshan,6,6,13,42.5,972,52.46,Left-hand bat,90,50,1,3030.1,42.88,84.1,rob,0,AUS,spin,yes,21.79065743944637,11.885813148788927
+4,1893,223,AUS,4,123,-17,MS Wade,TM Dilshan,6,6,14,42.5,972,52.46,Left-hand bat,91,50,1,3030.1,42.88,84.1,rob,1,AUS,spin,yes,21.79065743944637,11.885813148788927
+4,1896,226,AUS,4,125,-15,MS Wade,TM Dilshan,6,7,15,42.5,972,52.46,Left-hand bat,94,52,1,3030.1,42.88,84.1,rob,1,AUS,spin,yes,21.79065743944637,11.885813148788927

@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1508,18,PAK,0,10,290,Mohammad Hafeez,NM Lyon,2,5,8,39.94,6374,56.4,Right-hand bat,6,4,0,19656.5,32.35,63.4,rob,0,PAK,spin,yes,12.737024221453286,23.35121107266436
+3,1509,19,PAK,0,10,290,Mohammad Hafeez,NM Lyon,2,5,9,39.94,6374,56.4,Right-hand bat,7,4,0,19656.5,32.35,63.4,rob,0,PAK,spin,yes,12.737024221453286,23.35121107266436
+3,1510,20,PAK,0,10,290,Mohammad Hafeez,NM Lyon,2,5,10,39.94,6374,56.4,Right-hand bat,8,4,0,19656.5,32.35,63.4,rob,4,PAK,spin,yes,12.737024221453286,23.35121107266436
+3,1511,21,PAK,0,14,294,Mohammad Hafeez,NM Lyon,2,9,11,39.94,6374,56.4,Right-hand bat,9,8,0,19656.5,32.35,63.4,rob,0,PAK,spin,yes,12.737024221453286,23.35121107266436
+3,1512,22,PAK,0,14,294,Mohammad Hafeez,NM Lyon,2,9,12,39.94,6374,56.4,Right-hand bat,10,8,0,19656.5,32.35,63.4,rob,0,PAK,spin,yes,12.737024221453286,23.35121107266436
+3,1513,23,PAK,0,14,294,Mohammad Hafeez,NM Lyon,2,9,13,39.94,6374,56.4,Right-hand bat,11,8,0,19656.5,32.35,63.4,rob,1,PAK,spin,yes,12.737024221453286,23.35121107266436
+3,1537,47,PAK,0,24,304,Mohammad Hafeez,NM Lyon,2,14,26,39.94,6374,56.4,Right-hand bat,23,14,0,19656.5,32.35,63.4,rob,0,PAK,spin,yes,12.737024221453286,23.35121107266436
+3,1557,67,PAK,0,36,316,Mohammad Hafeez,NM Lyon,2,16,29,39.94,6374,56.4,Right-hand bat,31,16,0,19656.5,32.35,63.4,rob,0,PAK,spin,yes,12.737024221453286,23.35121107266436
+3,1558,68,PAK,0,36,316,Mohammad Hafeez,NM Lyon,2,16,30,39.94,6374,56.4,Right-hand bat,32,16,0,19656.5,32.35,63.4,rob,0,PAK,spin,yes,12.737024221453286,23.35121107266436
+3,1559,69,PAK,0,36,316,Mohammad Hafeez,NM Lyon,2,16,31,39.94,6374,56.4,Right-hand bat,33,16,0,19656.5,32.35,63.4,rob,0,PAK,spin,yes,12.737024221453286,23.35121107266436
+3,1560,70,PAK,0,36,316,Mohammad Hafeez,NM Lyon,2,16,32,39.94,6374,56.4,Right-hand bat,34,16,0,19656.5,32.35,63.4,rob,1,PAK,spin,yes,12.737024221453286,23.35121107266436

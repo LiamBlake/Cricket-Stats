@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,49,49,SRL,3,15,15,TT Samaraweera,RJ Harris,5,0,3,52.61,9767,47.94,Right-hand bat,25,7,1,1320.1,20.9,42.6,rf,0,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,50,50,SRL,3,15,15,TT Samaraweera,RJ Harris,5,0,4,52.61,9767,47.94,Right-hand bat,26,7,1,1320.1,20.9,42.6,rf,4,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,51,51,SRL,3,19,19,TT Samaraweera,RJ Harris,5,4,5,52.61,9767,47.94,Right-hand bat,27,11,1,1320.1,20.9,42.6,rf,0,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,52,52,SRL,3,19,19,TT Samaraweera,RJ Harris,5,4,6,52.61,9767,47.94,Right-hand bat,28,11,1,1320.1,20.9,42.6,rf,1,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,127,127,SRL,3,47,47,TT Samaraweera,RJ Harris,5,17,48,52.61,9767,47.94,Right-hand bat,30,14,1,1320.1,20.9,42.6,rf,0,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,128,128,SRL,3,47,47,TT Samaraweera,RJ Harris,5,17,49,52.61,9767,47.94,Right-hand bat,31,14,1,1320.1,20.9,42.6,rf,0,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,129,129,SRL,3,47,47,TT Samaraweera,RJ Harris,5,17,50,52.61,9767,47.94,Right-hand bat,32,14,1,1320.1,20.9,42.6,rf,0,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,130,130,SRL,3,47,47,TT Samaraweera,RJ Harris,5,17,51,52.61,9767,47.94,Right-hand bat,33,14,1,1320.1,20.9,42.6,rf,0,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,131,131,SRL,3,47,47,TT Samaraweera,RJ Harris,5,17,52,52.61,9767,47.94,Right-hand bat,34,14,1,1320.1,20.9,42.6,rf,0,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,132,132,SRL,3,47,47,TT Samaraweera,RJ Harris,5,17,53,52.61,9767,47.94,Right-hand bat,35,14,1,1320.1,20.9,42.6,rf,0,SRL,seam,yes,28.98676748582231,10.23062381852552
+1,140,140,SRL,3,57,57,TT Samaraweera,RJ Harris,5,17,54,52.61,9767,47.94,Right-hand bat,37,15,1,1320.1,20.9,42.6,rf,W,SRL,seam,yes,28.98676748582231,10.23062381852552

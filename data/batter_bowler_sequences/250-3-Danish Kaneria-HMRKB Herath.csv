@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1634,679,PAK,7,374,440,Danish Kaneria,HMRKB Herath,9,0,5,6.65,574,46.34,Right-hand bat,243,122,3,3726.4,35.72,73.1,lo,1,SRL,spin,no,19.80532598714417,21.043158861340682
+3,1643,688,PAK,7,380,446,Danish Kaneria,HMRKB Herath,9,2,11,6.65,574,46.34,Right-hand bat,246,127,3,3726.4,35.72,73.1,lo,1,SRL,spin,no,19.80532598714417,21.043158861340682
+3,1647,692,PAK,7,388,454,Danish Kaneria,HMRKB Herath,9,3,12,6.65,574,46.34,Right-hand bat,250,135,3,3726.4,35.72,73.1,lo,0,SRL,spin,no,19.80532598714417,21.043158861340682
+3,1648,693,PAK,7,388,454,Danish Kaneria,HMRKB Herath,9,3,13,6.65,574,46.34,Right-hand bat,251,135,3,3726.4,35.72,73.1,lo,0,SRL,spin,no,19.80532598714417,21.043158861340682
+3,1655,700,PAK,7,392,458,Danish Kaneria,HMRKB Herath,9,3,14,6.65,574,46.34,Right-hand bat,252,135,3,3726.4,35.72,73.1,lo,0,SRL,spin,no,19.80532598714417,21.043158861340682
+3,1656,701,PAK,7,392,458,Danish Kaneria,HMRKB Herath,9,3,15,6.65,574,46.34,Right-hand bat,253,135,3,3726.4,35.72,73.1,lo,1,SRL,spin,no,19.80532598714417,21.043158861340682
+3,1659,704,PAK,8,399,465,Danish Kaneria,HMRKB Herath,9,4,16,6.65,574,46.34,Right-hand bat,256,142,4,3726.4,35.72,73.1,lo,0,SRL,spin,no,19.80532598714417,21.043158861340682
+3,1660,705,PAK,8,399,465,Danish Kaneria,HMRKB Herath,9,4,17,6.65,574,46.34,Right-hand bat,257,142,4,3726.4,35.72,73.1,lo,0,SRL,spin,no,19.80532598714417,21.043158861340682
+3,1667,712,PAK,8,403,469,Danish Kaneria,HMRKB Herath,9,4,18,6.65,574,46.34,Right-hand bat,258,142,4,3726.4,35.72,73.1,lo,1,SRL,spin,no,19.80532598714417,21.043158861340682
+3,1670,715,PAK,8,405,471,Danish Kaneria,HMRKB Herath,9,5,19,6.65,574,46.34,Right-hand bat,261,144,4,3726.4,35.72,73.1,lo,0,SRL,spin,no,19.80532598714417,21.043158861340682
+3,1671,716,PAK,8,405,471,Danish Kaneria,HMRKB Herath,9,5,20,6.65,574,46.34,Right-hand bat,262,144,4,3726.4,35.72,73.1,lo,W,SRL,spin,no,19.80532598714417,21.043158861340682

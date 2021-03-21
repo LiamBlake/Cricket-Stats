@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1627,80,RSA,2,45,-436,HM Amla,RJ Harris,3,14,26,50.91,11493,52.27,Right-hand bat,30,9,0,4458.3,22.02,46.9,rf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1628,81,RSA,2,45,-436,HM Amla,RJ Harris,3,14,27,50.91,11493,52.27,Right-hand bat,31,9,0,4458.3,22.02,46.9,rf,1,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1699,152,RSA,3,87,-394,HM Amla,RJ Harris,3,29,56,50.91,11493,52.27,Right-hand bat,36,10,0,4458.3,22.02,46.9,rf,4,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1700,153,RSA,3,91,-390,HM Amla,RJ Harris,3,33,57,50.91,11493,52.27,Right-hand bat,37,14,0,4458.3,22.02,46.9,rf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1701,154,RSA,3,91,-390,HM Amla,RJ Harris,3,33,58,50.91,11493,52.27,Right-hand bat,38,14,0,4458.3,22.02,46.9,rf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1702,155,RSA,3,91,-390,HM Amla,RJ Harris,3,33,59,50.91,11493,52.27,Right-hand bat,39,14,0,4458.3,22.02,46.9,rf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1703,156,RSA,3,91,-390,HM Amla,RJ Harris,3,33,60,50.91,11493,52.27,Right-hand bat,40,14,0,4458.3,22.02,46.9,rf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1704,157,RSA,3,91,-390,HM Amla,RJ Harris,3,33,61,50.91,11493,52.27,Right-hand bat,41,14,0,4458.3,22.02,46.9,rf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1723,176,RSA,3,97,-384,HM Amla,RJ Harris,3,35,67,50.91,11493,52.27,Right-hand bat,48,16,0,4458.3,22.02,46.9,rf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1724,177,RSA,3,97,-384,HM Amla,RJ Harris,3,35,68,50.91,11493,52.27,Right-hand bat,49,16,0,4458.3,22.02,46.9,rf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1725,178,RSA,3,97,-384,HM Amla,RJ Harris,3,35,69,50.91,11493,52.27,Right-hand bat,50,16,0,4458.3,22.02,46.9,rf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1726,179,RSA,3,97,-384,HM Amla,RJ Harris,3,35,70,50.91,11493,52.27,Right-hand bat,51,16,0,4458.3,22.02,46.9,rf,W,RSA,seam,yes,26.474048442906575,5.673010380622837

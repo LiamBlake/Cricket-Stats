@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,227,227,RSA,1,115,115,HM Amla,Naeem Islam,3,4,3,39.66,4034,49.15,Right-hand bat,0,0,0,120,46,120,rob,1,RSA,spin,no,19.243333333333336,5.0200000000000005
+1,239,239,RSA,1,119,119,HM Amla,Naeem Islam,3,7,8,39.66,4034,49.15,Right-hand bat,6,1,0,120,46,120,rob,0,RSA,spin,no,19.243333333333336,5.0200000000000005
+1,240,240,RSA,1,119,119,HM Amla,Naeem Islam,3,7,9,39.66,4034,49.15,Right-hand bat,7,1,0,120,46,120,rob,2,RSA,spin,no,19.243333333333336,5.0200000000000005
+1,241,241,RSA,1,121,121,HM Amla,Naeem Islam,3,9,10,39.66,4034,49.15,Right-hand bat,8,3,0,120,46,120,rob,2,RSA,spin,no,19.243333333333336,5.0200000000000005
+1,242,242,RSA,1,123,123,HM Amla,Naeem Islam,3,11,11,39.66,4034,49.15,Right-hand bat,9,5,0,120,46,120,rob,1,RSA,spin,no,19.243333333333336,5.0200000000000005
+1,253,253,RSA,1,127,127,HM Amla,Naeem Islam,3,13,17,39.66,4034,49.15,Right-hand bat,14,7,0,120,46,120,rob,0,RSA,spin,no,19.243333333333336,5.0200000000000005
+1,254,254,RSA,1,127,127,HM Amla,Naeem Islam,3,13,18,39.66,4034,49.15,Right-hand bat,15,7,0,120,46,120,rob,0,RSA,spin,no,19.243333333333336,5.0200000000000005
+1,255,255,RSA,1,127,127,HM Amla,Naeem Islam,3,13,19,39.66,4034,49.15,Right-hand bat,16,7,0,120,46,120,rob,4,RSA,spin,no,19.243333333333336,5.0200000000000005
+1,256,256,RSA,1,131,131,HM Amla,Naeem Islam,3,17,20,39.66,4034,49.15,Right-hand bat,17,11,0,120,46,120,rob,1,RSA,spin,no,19.243333333333336,5.0200000000000005
+1,263,263,RSA,1,135,135,HM Amla,Naeem Islam,3,20,26,39.66,4034,49.15,Right-hand bat,18,12,0,120,46,120,rob,0,RSA,spin,no,19.243333333333336,5.0200000000000005
+1,264,264,RSA,1,135,135,HM Amla,Naeem Islam,3,20,27,39.66,4034,49.15,Right-hand bat,19,12,0,120,46,120,rob,0,RSA,spin,no,19.243333333333336,5.0200000000000005
+1,265,265,RSA,1,135,135,HM Amla,Naeem Islam,3,20,28,39.66,4034,49.15,Right-hand bat,20,12,0,120,46,120,rob,1,RSA,spin,no,19.243333333333336,5.0200000000000005
+1,268,268,RSA,1,137,137,HM Amla,Naeem Islam,3,21,29,39.66,4034,49.15,Right-hand bat,23,14,0,120,46,120,rob,4,RSA,spin,no,19.243333333333336,5.0200000000000005
+1,275,275,RSA,1,147,147,HM Amla,Naeem Islam,3,26,32,39.66,4034,49.15,Right-hand bat,24,18,0,120,46,120,rob,1,RSA,spin,no,19.243333333333336,5.0200000000000005

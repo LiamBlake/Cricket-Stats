@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1582,679,IND,9,344,-86,I Sharma,MG Johnson,11,0,0,16.33,310,31.61,Right-hand bat,151,68,4,2340,31.05,60,lf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1583,680,IND,9,344,-86,I Sharma,MG Johnson,11,0,1,16.33,310,31.61,Right-hand bat,152,68,4,2340,31.05,60,lf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1584,681,IND,9,344,-86,I Sharma,MG Johnson,11,0,2,16.33,310,31.61,Right-hand bat,153,68,4,2340,31.05,60,lf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1585,682,IND,9,344,-86,I Sharma,MG Johnson,11,0,3,16.33,310,31.61,Right-hand bat,154,68,4,2340,31.05,60,lf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1586,683,IND,9,344,-86,I Sharma,MG Johnson,11,0,4,16.33,310,31.61,Right-hand bat,155,68,4,2340,31.05,60,lf,1,IND,seam,no,31.866666666666667,7.966666666666667
+2,1594,691,IND,9,350,-80,I Sharma,MG Johnson,11,5,11,16.33,310,31.61,Right-hand bat,157,70,4,2340,31.05,60,lf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1595,692,IND,9,350,-80,I Sharma,MG Johnson,11,5,12,16.33,310,31.61,Right-hand bat,158,70,4,2340,31.05,60,lf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1596,693,IND,9,350,-80,I Sharma,MG Johnson,11,5,13,16.33,310,31.61,Right-hand bat,159,70,4,2340,31.05,60,lf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1597,694,IND,9,350,-80,I Sharma,MG Johnson,11,5,14,16.33,310,31.61,Right-hand bat,160,70,4,2340,31.05,60,lf,1lb,IND,seam,no,31.866666666666667,7.966666666666667

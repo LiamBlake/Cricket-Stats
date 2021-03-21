@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1102,153,IND,5,94,206,RG Sharma,TA Boult,6,15,24,35.4,2118,53.49,Right-hand bat,56,17,2,9786.4,29.03,58.9,lfm,1,IND,seam,yes,15.925,8.575
+3,1105,156,IND,5,96,208,RG Sharma,TA Boult,6,16,25,35.4,2118,53.49,Right-hand bat,59,19,2,9786.4,29.03,58.9,lfm,4b,IND,seam,yes,15.925,8.575
+3,1106,157,IND,5,100,212,RG Sharma,TA Boult,6,16,26,35.4,2118,53.49,Right-hand bat,60,19,2,9786.4,29.03,58.9,lfm,0,IND,seam,yes,15.925,8.575
+3,1185,236,IND,6,136,248,RG Sharma,TA Boult,6,29,56,35.4,2118,53.49,Right-hand bat,61,19,2,9786.4,29.03,58.9,lfm,0,IND,seam,yes,15.925,8.575
+3,1186,237,IND,6,136,248,RG Sharma,TA Boult,6,29,57,35.4,2118,53.49,Right-hand bat,62,19,2,9786.4,29.03,58.9,lfm,0,IND,seam,yes,15.925,8.575
+3,1187,238,IND,6,136,248,RG Sharma,TA Boult,6,29,58,35.4,2118,53.49,Right-hand bat,63,19,2,9786.4,29.03,58.9,lfm,0,IND,seam,yes,15.925,8.575
+3,1188,239,IND,6,136,248,RG Sharma,TA Boult,6,29,59,35.4,2118,53.49,Right-hand bat,64,19,2,9786.4,29.03,58.9,lfm,6,IND,seam,yes,15.925,8.575
+3,1189,240,IND,6,142,254,RG Sharma,TA Boult,6,35,60,35.4,2118,53.49,Right-hand bat,65,25,2,9786.4,29.03,58.9,lfm,1,IND,seam,yes,15.925,8.575
+3,1209,260,IND,6,152,264,RG Sharma,TA Boult,6,45,72,35.4,2118,53.49,Right-hand bat,73,26,2,9786.4,29.03,58.9,lfm,0,IND,seam,yes,15.925,8.575
+3,1210,261,IND,6,152,264,RG Sharma,TA Boult,6,45,73,35.4,2118,53.49,Right-hand bat,74,26,2,9786.4,29.03,58.9,lfm,0,IND,seam,yes,15.925,8.575
+3,1211,262,IND,6,152,264,RG Sharma,TA Boult,6,45,74,35.4,2118,53.49,Right-hand bat,75,26,2,9786.4,29.03,58.9,lfm,0,IND,seam,yes,15.925,8.575
+3,1212,263,IND,6,152,264,RG Sharma,TA Boult,6,45,75,35.4,2118,53.49,Right-hand bat,76,26,2,9786.4,29.03,58.9,lfm,0,IND,seam,yes,15.925,8.575
+3,1213,264,IND,6,152,264,RG Sharma,TA Boult,6,45,76,35.4,2118,53.49,Right-hand bat,77,26,2,9786.4,29.03,58.9,lfm,0,IND,seam,yes,15.925,8.575
+3,1214,265,IND,6,152,264,RG Sharma,TA Boult,6,45,77,35.4,2118,53.49,Right-hand bat,78,26,2,9786.4,29.03,58.9,lfm,0,IND,seam,yes,15.925,8.575

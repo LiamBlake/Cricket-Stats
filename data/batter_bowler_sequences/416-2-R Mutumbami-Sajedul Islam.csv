@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1175,490,ZIM,5,223,-168,R Mutumbami,Sajedul Islam,7,23,49,16.25,126,51.58,Right-hand bat,88,40,0,330,77.33,110,lm,1,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,1186,501,ZIM,5,228,-163,R Mutumbami,Sajedul Islam,7,25,56,16.25,126,51.58,Right-hand bat,92,42,0,330,77.33,110,lm,2,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,1187,502,ZIM,5,230,-161,R Mutumbami,Sajedul Islam,7,27,57,16.25,126,51.58,Right-hand bat,93,44,0,330,77.33,110,lm,4,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,1188,503,ZIM,5,234,-157,R Mutumbami,Sajedul Islam,7,31,58,16.25,126,51.58,Right-hand bat,94,48,0,330,77.33,110,lm,0,ZIM,seam,yes,20.871794871794872,10.435897435897436
+2,1189,504,ZIM,5,234,-157,R Mutumbami,Sajedul Islam,7,31,59,16.25,126,51.58,Right-hand bat,95,48,0,330,77.33,110,lm,0,ZIM,seam,yes,20.871794871794872,10.435897435897436

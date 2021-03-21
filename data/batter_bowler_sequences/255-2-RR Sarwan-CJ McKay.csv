@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1055,255,WIN,2,207,-313,RR Sarwan,CJ McKay,3,37,45,41.73,12249,47.01,Right-hand bat,37,26,0,168,101,168,rfm,1nb,AUS,seam,no,26.69101533966399,9.532505478451425
+2,1056,256,WIN,2,208,-312,RR Sarwan,CJ McKay,3,37,46,41.73,12249,47.01,Right-hand bat,38,27,0,168,101,168,rfm,0,AUS,seam,no,26.69101533966399,9.532505478451425
+2,1057,257,WIN,2,208,-312,RR Sarwan,CJ McKay,3,37,47,41.73,12249,47.01,Right-hand bat,39,27,0,168,101,168,rfm,0,AUS,seam,no,26.69101533966399,9.532505478451425
+2,1058,258,WIN,2,208,-312,RR Sarwan,CJ McKay,3,37,48,41.73,12249,47.01,Right-hand bat,40,27,0,168,101,168,rfm,1,AUS,seam,no,26.69101533966399,9.532505478451425
+2,1068,268,WIN,2,210,-310,RR Sarwan,CJ McKay,3,38,49,41.73,12249,47.01,Right-hand bat,44,29,0,168,101,168,rfm,0,AUS,seam,no,26.69101533966399,9.532505478451425
+2,1069,269,WIN,2,210,-310,RR Sarwan,CJ McKay,3,38,50,41.73,12249,47.01,Right-hand bat,45,29,0,168,101,168,rfm,1,AUS,seam,no,26.69101533966399,9.532505478451425

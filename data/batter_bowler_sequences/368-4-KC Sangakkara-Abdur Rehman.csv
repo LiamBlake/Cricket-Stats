@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1822,78,SRL,1,54,-206,KC Sangakkara,Abdur Rehman,3,5,3,56.63,18098,54.13,Left-hand bat,24,2,1,5352.2,28.4,66,lo,0,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1823,79,SRL,1,54,-206,KC Sangakkara,Abdur Rehman,3,5,4,56.63,18098,54.13,Left-hand bat,25,2,1,5352.2,28.4,66,lo,0,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1824,80,SRL,1,54,-206,KC Sangakkara,Abdur Rehman,3,5,5,56.63,18098,54.13,Left-hand bat,26,2,1,5352.2,28.4,66,lo,1,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1834,90,SRL,1,66,-194,KC Sangakkara,Abdur Rehman,3,12,9,56.63,18098,54.13,Left-hand bat,30,3,1,5352.2,28.4,66,lo,0,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1835,91,SRL,1,66,-194,KC Sangakkara,Abdur Rehman,3,12,10,56.63,18098,54.13,Left-hand bat,31,3,1,5352.2,28.4,66,lo,0,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1836,92,SRL,1,66,-194,KC Sangakkara,Abdur Rehman,3,12,11,56.63,18098,54.13,Left-hand bat,32,3,1,5352.2,28.4,66,lo,1,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1846,102,SRL,1,68,-192,KC Sangakkara,Abdur Rehman,3,14,14,56.63,18098,54.13,Left-hand bat,36,4,1,5352.2,28.4,66,lo,1,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1858,114,SRL,1,74,-186,KC Sangakkara,Abdur Rehman,3,16,16,56.63,18098,54.13,Left-hand bat,42,9,1,5352.2,28.4,66,lo,1,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1870,126,SRL,2,78,-182,KC Sangakkara,Abdur Rehman,3,17,17,56.63,18098,54.13,Left-hand bat,48,11,1,5352.2,28.4,66,lo,0,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1871,127,SRL,2,78,-182,KC Sangakkara,Abdur Rehman,3,17,18,56.63,18098,54.13,Left-hand bat,49,11,1,5352.2,28.4,66,lo,0,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1872,128,SRL,2,78,-182,KC Sangakkara,Abdur Rehman,3,17,19,56.63,18098,54.13,Left-hand bat,50,11,1,5352.2,28.4,66,lo,1,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1874,130,SRL,2,80,-180,KC Sangakkara,Abdur Rehman,3,18,20,56.63,18098,54.13,Left-hand bat,52,13,1,5352.2,28.4,66,lo,6,SRL,spin,yes,16.919999999999998,39.480000000000004
+4,1875,131,SRL,2,86,-174,KC Sangakkara,Abdur Rehman,3,24,21,56.63,18098,54.13,Left-hand bat,53,19,1,5352.2,28.4,66,lo,0,SRL,spin,yes,16.919999999999998,39.480000000000004

@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1498,61,SRL,1,35,-378,NT Paranavitana,V Sehwag,1,18,31,26.43,810,52.22,Left-hand bat,0,0,0,2496.1,42.93,83.2,rob,0,IND,spin,no,10.133333333333333,27.866666666666667
+3,1499,62,SRL,1,35,-378,NT Paranavitana,V Sehwag,1,18,32,26.43,810,52.22,Left-hand bat,1,0,0,2496.1,42.93,83.2,rob,2,IND,spin,no,10.133333333333333,27.866666666666667
+3,1500,63,SRL,1,37,-376,NT Paranavitana,V Sehwag,1,20,33,26.43,810,52.22,Left-hand bat,2,2,0,2496.1,42.93,83.2,rob,0,IND,spin,no,10.133333333333333,27.866666666666667
+3,1501,64,SRL,1,37,-376,NT Paranavitana,V Sehwag,1,20,34,26.43,810,52.22,Left-hand bat,3,2,0,2496.1,42.93,83.2,rob,0,IND,spin,no,10.133333333333333,27.866666666666667
+3,1502,65,SRL,1,37,-376,NT Paranavitana,V Sehwag,1,20,35,26.43,810,52.22,Left-hand bat,4,2,0,2496.1,42.93,83.2,rob,W,IND,spin,no,10.133333333333333,27.866666666666667

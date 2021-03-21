@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1174,177,WIN,3,88,-160,S Chanderpaul,N Wagner,5,2,5,51.52,25651,43.18,Left-hand bat,63,33,1,2430,38.3,67.5,lmf,4,NZL,seam,yes,25.168888888888887,1.7977777777777777
+3,1175,178,WIN,3,92,-156,S Chanderpaul,N Wagner,5,6,6,51.52,25651,43.18,Left-hand bat,64,37,1,2430,38.3,67.5,lmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+3,1176,179,WIN,3,92,-156,S Chanderpaul,N Wagner,5,6,7,51.52,25651,43.18,Left-hand bat,65,37,1,2430,38.3,67.5,lmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+3,1177,180,WIN,3,92,-156,S Chanderpaul,N Wagner,5,6,8,51.52,25651,43.18,Left-hand bat,66,37,1,2430,38.3,67.5,lmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+3,1185,188,WIN,3,94,-154,S Chanderpaul,N Wagner,5,6,14,51.52,25651,43.18,Left-hand bat,68,38,1,2430,38.3,67.5,lmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+3,1186,189,WIN,3,94,-154,S Chanderpaul,N Wagner,5,6,15,51.52,25651,43.18,Left-hand bat,69,38,1,2430,38.3,67.5,lmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+3,1187,190,WIN,3,94,-154,S Chanderpaul,N Wagner,5,6,16,51.52,25651,43.18,Left-hand bat,70,38,1,2430,38.3,67.5,lmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+3,1188,191,WIN,3,94,-154,S Chanderpaul,N Wagner,5,6,17,51.52,25651,43.18,Left-hand bat,71,38,1,2430,38.3,67.5,lmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+3,1189,192,WIN,3,94,-154,S Chanderpaul,N Wagner,5,6,18,51.52,25651,43.18,Left-hand bat,72,38,1,2430,38.3,67.5,lmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+3,1200,203,WIN,4,98,-150,S Chanderpaul,N Wagner,5,8,22,51.52,25651,43.18,Left-hand bat,77,39,1,2430,38.3,67.5,lmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+3,1201,204,WIN,4,98,-150,S Chanderpaul,N Wagner,5,8,23,51.52,25651,43.18,Left-hand bat,78,39,1,2430,38.3,67.5,lmf,3,NZL,seam,yes,25.168888888888887,1.7977777777777777
+3,1305,308,WIN,8,157,-91,S Chanderpaul,N Wagner,5,27,65,51.52,25651,43.18,Left-hand bat,91,51,2,2430,38.3,67.5,lmf,0,NZL,seam,yes,25.168888888888887,1.7977777777777777
+3,1306,309,WIN,8,157,-91,S Chanderpaul,N Wagner,5,27,66,51.52,25651,43.18,Left-hand bat,92,51,2,2430,38.3,67.5,lmf,1,NZL,seam,yes,25.168888888888887,1.7977777777777777

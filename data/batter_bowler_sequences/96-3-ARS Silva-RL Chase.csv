@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1384,297,SRL,5,166,119,ARS Silva,RL Chase,7,0,2,54.57,828,46.13,Right-hand bat,44,27,0,2844.5,46,81.4,rob,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1385,298,SRL,5,166,119,ARS Silva,RL Chase,7,0,3,54.57,828,46.13,Right-hand bat,45,27,0,2844.5,46,81.4,rob,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1386,299,SRL,5,166,119,ARS Silva,RL Chase,7,0,4,54.57,828,46.13,Right-hand bat,46,27,0,2844.5,46,81.4,rob,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1387,300,SRL,5,166,119,ARS Silva,RL Chase,7,0,5,54.57,828,46.13,Right-hand bat,47,27,0,2844.5,46,81.4,rob,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1394,307,SRL,5,172,125,ARS Silva,RL Chase,7,0,6,54.57,828,46.13,Right-hand bat,48,27,0,2844.5,46,81.4,rob,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1395,308,SRL,5,172,125,ARS Silva,RL Chase,7,0,7,54.57,828,46.13,Right-hand bat,49,27,0,2844.5,46,81.4,rob,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1396,309,SRL,5,172,125,ARS Silva,RL Chase,7,0,8,54.57,828,46.13,Right-hand bat,50,27,0,2844.5,46,81.4,rob,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1397,310,SRL,5,172,125,ARS Silva,RL Chase,7,0,9,54.57,828,46.13,Right-hand bat,51,27,0,2844.5,46,81.4,rob,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1398,311,SRL,5,172,125,ARS Silva,RL Chase,7,0,10,54.57,828,46.13,Right-hand bat,52,27,0,2844.5,46,81.4,rob,3,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1574,487,SRL,6,292,245,ARS Silva,RL Chase,7,46,112,54.57,828,46.13,Right-hand bat,55,34,0,2844.5,46,81.4,rob,1,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1577,490,SRL,6,294,247,ARS Silva,RL Chase,7,47,113,54.57,828,46.13,Right-hand bat,58,36,0,2844.5,46,81.4,rob,1,SRL,spin,yes,28.070204081632653,1.7012244897959183

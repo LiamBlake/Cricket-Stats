@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1020,152,SRL,2,109,-87,BKG Mendis,KA Maharaj,4,38,44,36.65,4612,57.22,Right-hand bat,8,9,0,5028,28.44,53.4,lo,1,RSA,spin,no,17.1142578125,4.107421875
+4,1030,162,SRL,2,113,-83,BKG Mendis,KA Maharaj,4,40,46,36.65,4612,57.22,Right-hand bat,12,12,0,5028,28.44,53.4,lo,4,RSA,spin,no,17.1142578125,4.107421875
+4,1031,163,SRL,2,117,-79,BKG Mendis,KA Maharaj,4,44,47,36.65,4612,57.22,Right-hand bat,13,16,0,5028,28.44,53.4,lo,0,RSA,spin,no,17.1142578125,4.107421875
+4,1032,164,SRL,2,117,-79,BKG Mendis,KA Maharaj,4,44,48,36.65,4612,57.22,Right-hand bat,14,16,0,5028,28.44,53.4,lo,1,RSA,spin,no,17.1142578125,4.107421875
+4,1035,167,SRL,2,119,-77,BKG Mendis,KA Maharaj,4,45,49,36.65,4612,57.22,Right-hand bat,17,18,0,5028,28.44,53.4,lo,1,RSA,spin,no,17.1142578125,4.107421875
+4,1042,174,SRL,2,125,-71,BKG Mendis,KA Maharaj,4,51,56,36.65,4612,57.22,Right-hand bat,18,19,0,5028,28.44,53.4,lo,0,RSA,spin,no,17.1142578125,4.107421875
+4,1043,175,SRL,2,125,-71,BKG Mendis,KA Maharaj,4,51,57,36.65,4612,57.22,Right-hand bat,19,19,0,5028,28.44,53.4,lo,0,RSA,spin,no,17.1142578125,4.107421875
+4,1044,176,SRL,2,125,-71,BKG Mendis,KA Maharaj,4,51,58,36.65,4612,57.22,Right-hand bat,20,19,0,5028,28.44,53.4,lo,0,RSA,spin,no,17.1142578125,4.107421875
+4,1045,177,SRL,2,125,-71,BKG Mendis,KA Maharaj,4,51,59,36.65,4612,57.22,Right-hand bat,21,19,0,5028,28.44,53.4,lo,0,RSA,spin,no,17.1142578125,4.107421875
+4,1046,178,SRL,2,125,-71,BKG Mendis,KA Maharaj,4,51,60,36.65,4612,57.22,Right-hand bat,22,19,0,5028,28.44,53.4,lo,1,RSA,spin,no,17.1142578125,4.107421875
+4,1054,186,SRL,2,133,-63,BKG Mendis,KA Maharaj,4,53,62,36.65,4612,57.22,Right-hand bat,24,26,0,5028,28.44,53.4,lo,1,RSA,spin,no,17.1142578125,4.107421875
+4,1138,270,SRL,2,189,-7,BKG Mendis,KA Maharaj,4,83,109,36.65,4612,57.22,Right-hand bat,36,37,0,5028,28.44,53.4,lo,1,RSA,spin,no,17.1142578125,4.107421875

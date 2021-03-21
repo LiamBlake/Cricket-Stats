@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1935,308,PAK,8,159,-22,Wahab Riaz,MA Starc,10,0,0,8.16,633,39.96,Right-hand bat,84,36,2,6840.5,27.74,48.5,lf,0,AUS,seam,yes,33.74485596707819,11.810699588477368
+3,1936,309,PAK,8,159,-22,Wahab Riaz,MA Starc,10,0,1,8.16,633,39.96,Right-hand bat,85,36,2,6840.5,27.74,48.5,lf,0,AUS,seam,yes,33.74485596707819,11.810699588477368
+3,1937,310,PAK,8,159,-22,Wahab Riaz,MA Starc,10,0,2,8.16,633,39.96,Right-hand bat,86,36,2,6840.5,27.74,48.5,lf,0,AUS,seam,yes,33.74485596707819,11.810699588477368
+3,1938,311,PAK,8,159,-22,Wahab Riaz,MA Starc,10,0,3,8.16,633,39.96,Right-hand bat,87,36,2,6840.5,27.74,48.5,lf,0,AUS,seam,yes,33.74485596707819,11.810699588477368
+3,1939,312,PAK,8,159,-22,Wahab Riaz,MA Starc,10,0,4,8.16,633,39.96,Right-hand bat,88,36,2,6840.5,27.74,48.5,lf,W,AUS,seam,yes,33.74485596707819,11.810699588477368

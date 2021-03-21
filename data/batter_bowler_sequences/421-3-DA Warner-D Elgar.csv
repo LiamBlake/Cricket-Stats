@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1523,246,AUS,1,173,380,DA Warner,D Elgar,2,91,104,46.54,3363,73.35,Left-hand bat,3,1,0,228.1,54.33,76.3,lo,1,RSA,spin,yes,34.251953125,7.904296875
+3,1568,291,AUS,2,220,427,DA Warner,D Elgar,2,105,127,46.54,3363,73.35,Left-hand bat,12,6,0,228.1,54.33,76.3,lo,2,RSA,spin,yes,34.251953125,7.904296875
+3,1569,292,AUS,2,222,429,DA Warner,D Elgar,2,107,128,46.54,3363,73.35,Left-hand bat,13,8,0,228.1,54.33,76.3,lo,1,RSA,spin,yes,34.251953125,7.904296875
+3,1571,294,AUS,2,224,431,DA Warner,D Elgar,2,108,129,46.54,3363,73.35,Left-hand bat,15,10,0,228.1,54.33,76.3,lo,6,RSA,spin,yes,34.251953125,7.904296875
+3,1572,295,AUS,2,230,437,DA Warner,D Elgar,2,114,130,46.54,3363,73.35,Left-hand bat,16,16,0,228.1,54.33,76.3,lo,0,RSA,spin,yes,34.251953125,7.904296875
+3,1573,296,AUS,2,230,437,DA Warner,D Elgar,2,114,131,46.54,3363,73.35,Left-hand bat,17,16,0,228.1,54.33,76.3,lo,2,RSA,spin,yes,34.251953125,7.904296875

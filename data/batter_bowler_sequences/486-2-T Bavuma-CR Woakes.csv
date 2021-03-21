@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,847,242,RSA,4,114,-189,T Bavuma,CR Woakes,6,0,0,20.71,397,36.52,Right-hand bat,62,22,0,714,52.28,102,rfm,0,RSA,seam,yes,17.161875000000002,8.263125
+2,848,243,RSA,4,114,-189,T Bavuma,CR Woakes,6,0,1,20.71,397,36.52,Right-hand bat,63,22,0,714,52.28,102,rfm,0,RSA,seam,yes,17.161875000000002,8.263125
+2,849,244,RSA,4,114,-189,T Bavuma,CR Woakes,6,0,2,20.71,397,36.52,Right-hand bat,64,22,0,714,52.28,102,rfm,0,RSA,seam,yes,17.161875000000002,8.263125
+2,850,245,RSA,4,114,-189,T Bavuma,CR Woakes,6,0,3,20.71,397,36.52,Right-hand bat,65,22,0,714,52.28,102,rfm,0,RSA,seam,yes,17.161875000000002,8.263125

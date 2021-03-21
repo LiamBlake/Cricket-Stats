@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,610,6,AUS,0,2,-328,CJL Rogers,IK Pathan,2,0,0,9.5,27,70.37,Left-hand bat,0,0,0,5538.2,31.22,57.1,lmf,0,AUS,seam,no,24.99,4.409999999999999
+2,611,7,AUS,0,2,-328,CJL Rogers,IK Pathan,2,0,1,9.5,27,70.37,Left-hand bat,1,0,0,5538.2,31.22,57.1,lmf,0,AUS,seam,no,24.99,4.409999999999999
+2,612,8,AUS,0,2,-328,CJL Rogers,IK Pathan,2,0,2,9.5,27,70.37,Left-hand bat,2,0,0,5538.2,31.22,57.1,lmf,0,AUS,seam,no,24.99,4.409999999999999
+2,613,9,AUS,0,2,-328,CJL Rogers,IK Pathan,2,0,3,9.5,27,70.37,Left-hand bat,3,0,0,5538.2,31.22,57.1,lmf,0,AUS,seam,no,24.99,4.409999999999999
+2,614,10,AUS,0,2,-328,CJL Rogers,IK Pathan,2,0,4,9.5,27,70.37,Left-hand bat,4,0,0,5538.2,31.22,57.1,lmf,0,AUS,seam,no,24.99,4.409999999999999
+2,615,11,AUS,0,2,-328,CJL Rogers,IK Pathan,2,0,5,9.5,27,70.37,Left-hand bat,5,0,0,5538.2,31.22,57.1,lmf,0,AUS,seam,no,24.99,4.409999999999999
+2,622,18,AUS,0,8,-322,CJL Rogers,IK Pathan,2,0,6,9.5,27,70.37,Left-hand bat,6,0,0,5538.2,31.22,57.1,lmf,4,AUS,seam,no,24.99,4.409999999999999
+2,623,19,AUS,0,12,-318,CJL Rogers,IK Pathan,2,4,7,9.5,27,70.37,Left-hand bat,7,4,0,5538.2,31.22,57.1,lmf,0,AUS,seam,no,24.99,4.409999999999999
+2,624,20,AUS,0,12,-318,CJL Rogers,IK Pathan,2,4,8,9.5,27,70.37,Left-hand bat,8,4,0,5538.2,31.22,57.1,lmf,W,AUS,seam,no,24.99,4.409999999999999

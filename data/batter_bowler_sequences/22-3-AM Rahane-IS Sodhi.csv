@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1579,420,IND,3,227,283,AM Rahane,IS Sodhi,5,8,9,48,3556,53.99,Right-hand bat,78,53,1,2826,46.68,74.3,rls,0,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1580,421,IND,3,227,283,AM Rahane,IS Sodhi,5,8,10,48,3556,53.99,Right-hand bat,79,53,1,2826,46.68,74.3,rls,1,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1591,432,IND,4,229,285,AM Rahane,IS Sodhi,5,10,15,48,3556,53.99,Right-hand bat,84,54,2,2826,46.68,74.3,rls,0,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1592,433,IND,4,229,285,AM Rahane,IS Sodhi,5,10,16,48,3556,53.99,Right-hand bat,85,54,2,2826,46.68,74.3,rls,1,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1596,437,IND,4,231,287,AM Rahane,IS Sodhi,5,11,17,48,3556,53.99,Right-hand bat,89,56,2,2826,46.68,74.3,rls,3,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1604,445,IND,4,235,291,AM Rahane,IS Sodhi,5,14,24,48,3556,53.99,Right-hand bat,91,60,2,2826,46.68,74.3,rls,0,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1605,446,IND,4,235,291,AM Rahane,IS Sodhi,5,14,25,48,3556,53.99,Right-hand bat,92,60,2,2826,46.68,74.3,rls,2,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1606,447,IND,4,237,293,AM Rahane,IS Sodhi,5,16,26,48,3556,53.99,Right-hand bat,93,62,2,2826,46.68,74.3,rls,0,IND,spin,yes,7.791020408163266,26.294693877551023
+3,1607,448,IND,4,237,293,AM Rahane,IS Sodhi,5,16,27,48,3556,53.99,Right-hand bat,94,62,2,2826,46.68,74.3,rls,1,IND,spin,yes,7.791020408163266,26.294693877551023

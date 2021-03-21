@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,619,619,ENG,8,431,431,CT Tremlett,RAS Lakmal,10,8,11,13.28,207,44.92,Right-hand bat,139,119,3,594.3,56.57,85.2,rfm,0,ENG,seam,no,33.29666666666667,14.270000000000001
+1,620,620,ENG,8,431,431,CT Tremlett,RAS Lakmal,10,8,12,13.28,207,44.92,Right-hand bat,140,119,3,594.3,56.57,85.2,rfm,0,ENG,seam,no,33.29666666666667,14.270000000000001
+1,621,621,ENG,8,431,431,CT Tremlett,RAS Lakmal,10,8,13,13.28,207,44.92,Right-hand bat,141,119,3,594.3,56.57,85.2,rfm,0,ENG,seam,no,33.29666666666667,14.270000000000001
+1,622,622,ENG,8,431,431,CT Tremlett,RAS Lakmal,10,8,14,13.28,207,44.92,Right-hand bat,142,119,3,594.3,56.57,85.2,rfm,0,ENG,seam,no,33.29666666666667,14.270000000000001
+1,623,623,ENG,8,431,431,CT Tremlett,RAS Lakmal,10,8,15,13.28,207,44.92,Right-hand bat,143,119,3,594.3,56.57,85.2,rfm,4,ENG,seam,no,33.29666666666667,14.270000000000001
+1,624,624,ENG,8,435,435,CT Tremlett,RAS Lakmal,10,12,16,13.28,207,44.92,Right-hand bat,144,123,3,594.3,56.57,85.2,rfm,0,ENG,seam,no,33.29666666666667,14.270000000000001
+1,633,633,ENG,8,446,446,CT Tremlett,RAS Lakmal,10,13,19,13.28,207,44.92,Right-hand bat,146,124,3,594.3,56.57,85.2,rfm,0,ENG,seam,no,33.29666666666667,14.270000000000001
+1,634,634,ENG,8,446,446,CT Tremlett,RAS Lakmal,10,13,20,13.28,207,44.92,Right-hand bat,147,124,3,594.3,56.57,85.2,rfm,1,ENG,seam,no,33.29666666666667,14.270000000000001
+1,636,636,ENG,8,448,448,CT Tremlett,RAS Lakmal,10,14,21,13.28,207,44.92,Right-hand bat,149,126,3,594.3,56.57,85.2,rfm,0,ENG,seam,no,33.29666666666667,14.270000000000001
+1,637,637,ENG,8,448,448,CT Tremlett,RAS Lakmal,10,14,22,13.28,207,44.92,Right-hand bat,150,126,3,594.3,56.57,85.2,rfm,0,ENG,seam,no,33.29666666666667,14.270000000000001

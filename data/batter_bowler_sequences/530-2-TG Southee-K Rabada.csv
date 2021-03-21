@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1208,284,NZL,7,144,-337,TG Southee,K Rabada,9,0,0,16.63,1400,87.92,Right-hand bat,67,34,3,1128.1,24.44,38.9,rf,0,RSA,seam,yes,26.697142857142858,2.5028571428571427
+2,1215,291,NZL,7,150,-331,TG Southee,K Rabada,9,1,4,16.63,1400,87.92,Right-hand bat,68,34,3,1128.1,24.44,38.9,rf,0,RSA,seam,yes,26.697142857142858,2.5028571428571427
+2,1216,292,NZL,7,150,-331,TG Southee,K Rabada,9,1,5,16.63,1400,87.92,Right-hand bat,69,34,3,1128.1,24.44,38.9,rf,0,RSA,seam,yes,26.697142857142858,2.5028571428571427
+2,1217,293,NZL,7,150,-331,TG Southee,K Rabada,9,1,6,16.63,1400,87.92,Right-hand bat,70,34,3,1128.1,24.44,38.9,rf,0,RSA,seam,yes,26.697142857142858,2.5028571428571427
+2,1218,294,NZL,7,150,-331,TG Southee,K Rabada,9,1,7,16.63,1400,87.92,Right-hand bat,71,34,3,1128.1,24.44,38.9,rf,0,RSA,seam,yes,26.697142857142858,2.5028571428571427
+2,1219,295,NZL,7,150,-331,TG Southee,K Rabada,9,1,8,16.63,1400,87.92,Right-hand bat,72,34,3,1128.1,24.44,38.9,rf,0,RSA,seam,yes,26.697142857142858,2.5028571428571427
+2,1220,296,NZL,7,150,-331,TG Southee,K Rabada,9,1,9,16.63,1400,87.92,Right-hand bat,73,34,3,1128.1,24.44,38.9,rf,0,RSA,seam,yes,26.697142857142858,2.5028571428571427
+2,1227,303,NZL,7,160,-321,TG Southee,K Rabada,9,1,10,16.63,1400,87.92,Right-hand bat,74,34,3,1128.1,24.44,38.9,rf,4,RSA,seam,yes,26.697142857142858,2.5028571428571427
+2,1228,304,NZL,7,164,-317,TG Southee,K Rabada,9,5,11,16.63,1400,87.92,Right-hand bat,75,38,3,1128.1,24.44,38.9,rf,0,RSA,seam,yes,26.697142857142858,2.5028571428571427
+2,1229,305,NZL,7,164,-317,TG Southee,K Rabada,9,5,12,16.63,1400,87.92,Right-hand bat,76,38,3,1128.1,24.44,38.9,rf,1,RSA,seam,yes,26.697142857142858,2.5028571428571427
+2,1231,307,NZL,7,166,-315,TG Southee,K Rabada,9,6,13,16.63,1400,87.92,Right-hand bat,78,40,3,1128.1,24.44,38.9,rf,0,RSA,seam,yes,26.697142857142858,2.5028571428571427
+2,1232,308,NZL,7,166,-315,TG Southee,K Rabada,9,6,14,16.63,1400,87.92,Right-hand bat,79,40,3,1128.1,24.44,38.9,rf,2,RSA,seam,yes,26.697142857142858,2.5028571428571427

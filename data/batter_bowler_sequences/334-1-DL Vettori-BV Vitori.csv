@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,364,364,NZL,4,202,202,DL Vettori,BV Vitori,6,0,0,30.69,7555,58.09,Left-hand bat,81,45,0,540,55.66,90,lfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
+1,365,365,NZL,4,202,202,DL Vettori,BV Vitori,6,0,1,30.69,7555,58.09,Left-hand bat,82,45,0,540,55.66,90,lfm,4,NZL,seam,no,21.737997256515776,4.725651577503429
+1,366,366,NZL,4,206,206,DL Vettori,BV Vitori,6,4,2,30.69,7555,58.09,Left-hand bat,83,49,0,540,55.66,90,lfm,1,NZL,seam,no,21.737997256515776,4.725651577503429
+1,376,376,NZL,4,214,214,DL Vettori,BV Vitori,6,10,6,30.69,7555,58.09,Left-hand bat,87,50,0,540,55.66,90,lfm,4,NZL,seam,no,21.737997256515776,4.725651577503429
+1,377,377,NZL,4,218,218,DL Vettori,BV Vitori,6,14,7,30.69,7555,58.09,Left-hand bat,88,54,0,540,55.66,90,lfm,1nb,NZL,seam,no,21.737997256515776,4.725651577503429
+1,378,378,NZL,4,221,221,DL Vettori,BV Vitori,6,16,8,30.69,7555,58.09,Left-hand bat,89,55,0,540,55.66,90,lfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
+1,379,379,NZL,4,221,221,DL Vettori,BV Vitori,6,16,9,30.69,7555,58.09,Left-hand bat,90,55,0,540,55.66,90,lfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
+1,380,380,NZL,4,221,221,DL Vettori,BV Vitori,6,16,10,30.69,7555,58.09,Left-hand bat,91,55,0,540,55.66,90,lfm,4,NZL,seam,no,21.737997256515776,4.725651577503429
+1,381,381,NZL,4,225,225,DL Vettori,BV Vitori,6,20,11,30.69,7555,58.09,Left-hand bat,92,59,0,540,55.66,90,lfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
+1,382,382,NZL,4,225,225,DL Vettori,BV Vitori,6,20,12,30.69,7555,58.09,Left-hand bat,93,59,0,540,55.66,90,lfm,1,NZL,seam,no,21.737997256515776,4.725651577503429

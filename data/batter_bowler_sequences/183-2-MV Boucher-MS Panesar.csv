@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1338,386,RSA,5,161,-432,MV Boucher,MS Panesar,7,0,0,29.84,8486,49.94,Right-hand bat,90,46,2,7164,32.58,68.2,lo,2,ENG,spin,yes,36.3469387755102,22.367346938775512
+2,1339,387,RSA,5,163,-430,MV Boucher,MS Panesar,7,2,1,29.84,8486,49.94,Right-hand bat,91,48,2,7164,32.58,68.2,lo,0,ENG,spin,yes,36.3469387755102,22.367346938775512
+2,1340,388,RSA,5,163,-430,MV Boucher,MS Panesar,7,2,2,29.84,8486,49.94,Right-hand bat,92,48,2,7164,32.58,68.2,lo,0,ENG,spin,yes,36.3469387755102,22.367346938775512
+2,1341,389,RSA,5,163,-430,MV Boucher,MS Panesar,7,2,3,29.84,8486,49.94,Right-hand bat,93,48,2,7164,32.58,68.2,lo,0,ENG,spin,yes,36.3469387755102,22.367346938775512
+2,1342,390,RSA,5,163,-430,MV Boucher,MS Panesar,7,2,4,29.84,8486,49.94,Right-hand bat,94,48,2,7164,32.58,68.2,lo,2,ENG,spin,yes,36.3469387755102,22.367346938775512
+2,1343,391,RSA,5,165,-428,MV Boucher,MS Panesar,7,4,5,29.84,8486,49.94,Right-hand bat,95,50,2,7164,32.58,68.2,lo,0,ENG,spin,yes,36.3469387755102,22.367346938775512

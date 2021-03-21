@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1001,288,RSA,2,222,-13,JH Kallis,MG Johnson,4,0,0,57.17,26428,45.21,Right-hand bat,59,51,1,10392.3,30.73,55.2,lf,0,RSA,seam,yes,20.71875,0
+4,1002,289,RSA,2,222,-13,JH Kallis,MG Johnson,4,0,1,57.17,26428,45.21,Right-hand bat,60,51,1,10392.3,30.73,55.2,lf,1wd,RSA,seam,yes,20.71875,0
+4,1003,290,RSA,2,223,-12,JH Kallis,MG Johnson,4,0,1,57.17,26428,45.21,Right-hand bat,61,52,1,10392.3,30.73,55.2,lf,0,RSA,seam,yes,20.71875,0
+4,1015,302,RSA,2,235,0,JH Kallis,MG Johnson,4,2,5,57.17,26428,45.21,Right-hand bat,67,57,1,10392.3,30.73,55.2,lf,0,RSA,seam,yes,20.71875,0

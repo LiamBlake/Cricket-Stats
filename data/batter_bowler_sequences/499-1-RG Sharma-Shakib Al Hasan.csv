@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,408,408,IND,1,283,283,RG Sharma,Shakib Al Hasan,3,0,0,39.29,1294,51.62,Right-hand bat,65,43,1,9666.2,33.1,66.2,lo,1,BAN,spin,yes,2.89453125,43.41796875
+1,417,417,IND,1,291,291,RG Sharma,Shakib Al Hasan,3,6,6,39.29,1294,51.62,Right-hand bat,68,45,1,9666.2,33.1,66.2,lo,0,BAN,spin,yes,2.89453125,43.41796875
+1,418,418,IND,1,291,291,RG Sharma,Shakib Al Hasan,3,6,7,39.29,1294,51.62,Right-hand bat,69,45,1,9666.2,33.1,66.2,lo,0,BAN,spin,yes,2.89453125,43.41796875
+1,419,419,IND,1,291,291,RG Sharma,Shakib Al Hasan,3,6,8,39.29,1294,51.62,Right-hand bat,70,45,1,9666.2,33.1,66.2,lo,W,BAN,spin,yes,2.89453125,43.41796875

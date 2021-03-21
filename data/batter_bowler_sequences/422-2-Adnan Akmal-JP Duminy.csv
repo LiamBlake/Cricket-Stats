@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1267,707,PAK,5,372,123,Adnan Akmal,JP Duminy,7,0,0,27.61,1304,44.47,Right-hand bat,76,47,2,984.5,41.28,70.6,rob,0,PAK,spin,no,16.888888888888886,12.444444444444443
+2,1268,708,PAK,5,372,123,Adnan Akmal,JP Duminy,7,0,1,27.61,1304,44.47,Right-hand bat,77,47,2,984.5,41.28,70.6,rob,0,PAK,spin,no,16.888888888888886,12.444444444444443
+2,1278,718,PAK,5,374,125,Adnan Akmal,JP Duminy,7,0,6,27.61,1304,44.47,Right-hand bat,81,48,2,984.5,41.28,70.6,rob,1,PAK,spin,no,16.888888888888886,12.444444444444443
+2,1280,720,PAK,5,376,127,Adnan Akmal,JP Duminy,7,1,7,27.61,1304,44.47,Right-hand bat,83,50,2,984.5,41.28,70.6,rob,0,PAK,spin,no,16.888888888888886,12.444444444444443
+2,1291,731,PAK,5,378,129,Adnan Akmal,JP Duminy,7,1,13,27.61,1304,44.47,Right-hand bat,88,51,2,984.5,41.28,70.6,rob,0,PAK,spin,no,16.888888888888886,12.444444444444443
+2,1292,732,PAK,5,378,129,Adnan Akmal,JP Duminy,7,1,14,27.61,1304,44.47,Right-hand bat,89,51,2,984.5,41.28,70.6,rob,2,PAK,spin,no,16.888888888888886,12.444444444444443
+2,1302,742,PAK,5,382,133,Adnan Akmal,JP Duminy,7,3,15,27.61,1304,44.47,Right-hand bat,93,54,2,984.5,41.28,70.6,rob,2,PAK,spin,no,16.888888888888886,12.444444444444443
+2,1303,743,PAK,5,384,135,Adnan Akmal,JP Duminy,7,5,16,27.61,1304,44.47,Right-hand bat,94,56,2,984.5,41.28,70.6,rob,0,PAK,spin,no,16.888888888888886,12.444444444444443
+2,1304,744,PAK,5,384,135,Adnan Akmal,JP Duminy,7,5,17,27.61,1304,44.47,Right-hand bat,95,56,2,984.5,41.28,70.6,rob,0,PAK,spin,no,16.888888888888886,12.444444444444443
+2,1327,767,PAK,5,392,143,Adnan Akmal,JP Duminy,7,5,28,27.61,1304,44.47,Right-hand bat,106,63,2,984.5,41.28,70.6,rob,1,PAK,spin,no,16.888888888888886,12.444444444444443
+2,1335,775,PAK,6,402,153,Adnan Akmal,JP Duminy,7,7,30,27.61,1304,44.47,Right-hand bat,108,65,2,984.5,41.28,70.6,rob,1,PAK,spin,no,16.888888888888886,12.444444444444443
+2,1338,778,PAK,6,404,155,Adnan Akmal,JP Duminy,7,8,31,27.61,1304,44.47,Right-hand bat,111,67,2,984.5,41.28,70.6,rob,1,PAK,spin,no,16.888888888888886,12.444444444444443

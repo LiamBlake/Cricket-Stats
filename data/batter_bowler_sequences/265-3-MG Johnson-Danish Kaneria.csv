@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,936,217,AUS,4,126,231,MG Johnson,Danish Kaneria,6,23,27,24.53,1584,60.41,Left-hand bat,52,28,0,17364.3,34.21,67.3,rls,0,AUS,spin,no,16.64,8.96
+3,937,218,AUS,4,126,231,MG Johnson,Danish Kaneria,6,23,28,24.53,1584,60.41,Left-hand bat,53,28,0,17364.3,34.21,67.3,rls,4,AUS,spin,no,16.64,8.96
+3,938,219,AUS,4,130,235,MG Johnson,Danish Kaneria,6,27,29,24.53,1584,60.41,Left-hand bat,54,32,0,17364.3,34.21,67.3,rls,0,AUS,spin,no,16.64,8.96
+3,939,220,AUS,4,130,235,MG Johnson,Danish Kaneria,6,27,30,24.53,1584,60.41,Left-hand bat,55,32,0,17364.3,34.21,67.3,rls,1,AUS,spin,no,16.64,8.96
+3,947,228,AUS,4,137,242,MG Johnson,Danish Kaneria,6,29,33,24.53,1584,60.41,Left-hand bat,56,33,0,17364.3,34.21,67.3,rls,0,AUS,spin,no,16.64,8.96
+3,948,229,AUS,4,137,242,MG Johnson,Danish Kaneria,6,29,34,24.53,1584,60.41,Left-hand bat,57,33,0,17364.3,34.21,67.3,rls,1,AUS,spin,no,16.64,8.96

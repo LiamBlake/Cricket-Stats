@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1198,229,ZIM,8,97,1,KM Jarvis,S Shillingford,10,0,0,9.2,161,28.57,Right-hand bat,84,40,6,2808,37,73.8,rob,0,WIN,spin,yes,11.2684703433923,9.279916753381892
+3,1199,230,ZIM,8,97,1,KM Jarvis,S Shillingford,10,0,1,9.2,161,28.57,Right-hand bat,85,40,6,2808,37,73.8,rob,0,WIN,spin,yes,11.2684703433923,9.279916753381892
+3,1200,231,ZIM,8,97,1,KM Jarvis,S Shillingford,10,0,2,9.2,161,28.57,Right-hand bat,86,40,6,2808,37,73.8,rob,0,WIN,spin,yes,11.2684703433923,9.279916753381892
+3,1201,232,ZIM,8,97,1,KM Jarvis,S Shillingford,10,0,3,9.2,161,28.57,Right-hand bat,87,40,6,2808,37,73.8,rob,2,WIN,spin,yes,11.2684703433923,9.279916753381892
+3,1202,233,ZIM,8,99,3,KM Jarvis,S Shillingford,10,2,4,9.2,161,28.57,Right-hand bat,88,42,6,2808,37,73.8,rob,0,WIN,spin,yes,11.2684703433923,9.279916753381892
+3,1203,234,ZIM,8,99,3,KM Jarvis,S Shillingford,10,2,5,9.2,161,28.57,Right-hand bat,89,42,6,2808,37,73.8,rob,0,WIN,spin,yes,11.2684703433923,9.279916753381892
+3,1210,241,ZIM,8,99,3,KM Jarvis,S Shillingford,10,2,6,9.2,161,28.57,Right-hand bat,90,42,6,2808,37,73.8,rob,0,WIN,spin,yes,11.2684703433923,9.279916753381892
+3,1211,242,ZIM,8,99,3,KM Jarvis,S Shillingford,10,2,7,9.2,161,28.57,Right-hand bat,91,42,6,2808,37,73.8,rob,6,WIN,spin,yes,11.2684703433923,9.279916753381892
+3,1212,243,ZIM,8,105,9,KM Jarvis,S Shillingford,10,8,8,9.2,161,28.57,Right-hand bat,92,48,6,2808,37,73.8,rob,0,WIN,spin,yes,11.2684703433923,9.279916753381892
+3,1213,244,ZIM,8,105,9,KM Jarvis,S Shillingford,10,8,9,9.2,161,28.57,Right-hand bat,93,48,6,2808,37,73.8,rob,1,WIN,spin,yes,11.2684703433923,9.279916753381892

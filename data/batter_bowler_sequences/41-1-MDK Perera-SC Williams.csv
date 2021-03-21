@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,816,816,SRL,6,454,454,MDK Perera,SC Williams,8,0,0,14.04,625,47.2,Right-hand bat,78,38,1,354.4,58.5,89.5,lo,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
+1,817,817,SRL,6,454,454,MDK Perera,SC Williams,8,0,1,14.04,625,47.2,Right-hand bat,79,38,1,354.4,58.5,89.5,lo,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
+1,818,818,SRL,6,454,454,MDK Perera,SC Williams,8,0,2,14.04,625,47.2,Right-hand bat,80,38,1,354.4,58.5,89.5,lo,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
+1,819,819,SRL,6,454,454,MDK Perera,SC Williams,8,0,3,14.04,625,47.2,Right-hand bat,81,38,1,354.4,58.5,89.5,lo,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
+1,820,820,SRL,6,454,454,MDK Perera,SC Williams,8,0,4,14.04,625,47.2,Right-hand bat,82,38,1,354.4,58.5,89.5,lo,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
+1,821,821,SRL,6,454,454,MDK Perera,SC Williams,8,0,5,14.04,625,47.2,Right-hand bat,83,38,1,354.4,58.5,89.5,lo,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
+1,829,829,SRL,6,456,456,MDK Perera,SC Williams,8,0,10,14.04,625,47.2,Right-hand bat,85,39,1,354.4,58.5,89.5,lo,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
+1,830,830,SRL,6,456,456,MDK Perera,SC Williams,8,0,11,14.04,625,47.2,Right-hand bat,86,39,1,354.4,58.5,89.5,lo,2lb,ZIM,spin,yes,17.616512345679013,19.689043209876544
+1,831,831,SRL,6,458,458,MDK Perera,SC Williams,8,0,12,14.04,625,47.2,Right-hand bat,87,39,1,354.4,58.5,89.5,lo,4,ZIM,spin,yes,17.616512345679013,19.689043209876544
+1,832,832,SRL,6,462,462,MDK Perera,SC Williams,8,4,13,14.04,625,47.2,Right-hand bat,88,43,1,354.4,58.5,89.5,lo,1,ZIM,spin,yes,17.616512345679013,19.689043209876544
+1,845,845,SRL,6,472,472,MDK Perera,SC Williams,8,9,18,14.04,625,47.2,Right-hand bat,95,48,1,354.4,58.5,89.5,lo,4b,ZIM,spin,yes,17.616512345679013,19.689043209876544
+1,852,852,SRL,6,480,480,MDK Perera,SC Williams,8,9,19,14.04,625,47.2,Right-hand bat,96,48,1,354.4,58.5,89.5,lo,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
+1,853,853,SRL,6,480,480,MDK Perera,SC Williams,8,9,20,14.04,625,47.2,Right-hand bat,97,48,1,354.4,58.5,89.5,lo,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
+1,854,854,SRL,6,480,480,MDK Perera,SC Williams,8,9,21,14.04,625,47.2,Right-hand bat,98,48,1,354.4,58.5,89.5,lo,1,ZIM,spin,yes,17.616512345679013,19.689043209876544
+1,856,856,SRL,6,482,482,MDK Perera,SC Williams,8,10,22,14.04,625,47.2,Right-hand bat,100,50,1,354.4,58.5,89.5,lo,4,ZIM,spin,yes,17.616512345679013,19.689043209876544
+1,857,857,SRL,6,486,486,MDK Perera,SC Williams,8,14,23,14.04,625,47.2,Right-hand bat,101,54,1,354.4,58.5,89.5,lo,0,ZIM,spin,yes,17.616512345679013,19.689043209876544

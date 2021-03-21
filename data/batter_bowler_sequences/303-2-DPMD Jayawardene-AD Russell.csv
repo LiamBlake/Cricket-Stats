@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1099,100,SRL,2,70,-510,DPMD Jayawardene,AD Russell,4,0,0,54.11,18093,52.64,Right-hand bat,31,25,1,138,104,138,rf,0,SRL,seam,no,20.398865784499055,31.73156899810964
+2,1109,110,SRL,2,78,-502,DPMD Jayawardene,AD Russell,4,0,6,54.11,18093,52.64,Right-hand bat,35,30,1,138,104,138,rf,0,SRL,seam,no,20.398865784499055,31.73156899810964
+2,1110,111,SRL,2,78,-502,DPMD Jayawardene,AD Russell,4,0,7,54.11,18093,52.64,Right-hand bat,36,30,1,138,104,138,rf,0,SRL,seam,no,20.398865784499055,31.73156899810964
+2,1111,112,SRL,2,78,-502,DPMD Jayawardene,AD Russell,4,0,8,54.11,18093,52.64,Right-hand bat,37,30,1,138,104,138,rf,0,SRL,seam,no,20.398865784499055,31.73156899810964
+2,1121,122,SRL,2,84,-496,DPMD Jayawardene,AD Russell,4,1,10,54.11,18093,52.64,Right-hand bat,41,31,1,138,104,138,rf,5nb,SRL,seam,no,20.398865784499055,31.73156899810964
+2,1122,123,SRL,2,89,-491,DPMD Jayawardene,AD Russell,4,1,11,54.11,18093,52.64,Right-hand bat,42,36,1,138,104,138,rf,0,SRL,seam,no,20.398865784499055,31.73156899810964
+2,1123,124,SRL,2,89,-491,DPMD Jayawardene,AD Russell,4,1,12,54.11,18093,52.64,Right-hand bat,43,36,1,138,104,138,rf,0,SRL,seam,no,20.398865784499055,31.73156899810964
+2,1124,125,SRL,2,89,-491,DPMD Jayawardene,AD Russell,4,1,13,54.11,18093,52.64,Right-hand bat,44,36,1,138,104,138,rf,1wd,SRL,seam,no,20.398865784499055,31.73156899810964
+2,1125,126,SRL,2,90,-490,DPMD Jayawardene,AD Russell,4,1,13,54.11,18093,52.64,Right-hand bat,45,37,1,138,104,138,rf,1nb,SRL,seam,no,20.398865784499055,31.73156899810964
+2,1126,127,SRL,2,95,-485,DPMD Jayawardene,AD Russell,4,5,14,54.11,18093,52.64,Right-hand bat,46,38,1,138,104,138,rf,1wd,SRL,seam,no,20.398865784499055,31.73156899810964
+2,1127,128,SRL,2,96,-484,DPMD Jayawardene,AD Russell,4,5,14,54.11,18093,52.64,Right-hand bat,47,39,1,138,104,138,rf,0,SRL,seam,no,20.398865784499055,31.73156899810964

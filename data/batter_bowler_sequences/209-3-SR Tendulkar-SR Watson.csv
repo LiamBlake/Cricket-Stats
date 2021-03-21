@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2375,313,IND,4,126,162,SR Tendulkar,SR Watson,5,36,105,54.25,NA,NA,Right-hand bat,0,0,0,666,51.42,95.1,rfm,4,IND,seam,yes,29.52479338842975,35.429752066115704
+3,2376,314,IND,4,130,166,SR Tendulkar,SR Watson,5,40,106,54.25,NA,NA,Right-hand bat,1,4,0,666,51.42,95.1,rfm,0,IND,seam,yes,29.52479338842975,35.429752066115704
+3,2377,315,IND,4,130,166,SR Tendulkar,SR Watson,5,40,107,54.25,NA,NA,Right-hand bat,2,4,0,666,51.42,95.1,rfm,0,IND,seam,yes,29.52479338842975,35.429752066115704
+3,2378,316,IND,4,130,166,SR Tendulkar,SR Watson,5,40,108,54.25,NA,NA,Right-hand bat,3,4,0,666,51.42,95.1,rfm,0,IND,seam,yes,29.52479338842975,35.429752066115704
+3,2379,317,IND,4,130,166,SR Tendulkar,SR Watson,5,40,109,54.25,NA,NA,Right-hand bat,4,4,0,666,51.42,95.1,rfm,0,IND,seam,yes,29.52479338842975,35.429752066115704
+3,2380,318,IND,4,130,166,SR Tendulkar,SR Watson,5,40,110,54.25,NA,NA,Right-hand bat,5,4,0,666,51.42,95.1,rfm,2,IND,seam,yes,29.52479338842975,35.429752066115704
+3,2387,325,IND,4,136,172,SR Tendulkar,SR Watson,5,43,112,54.25,NA,NA,Right-hand bat,6,6,0,666,51.42,95.1,rfm,0,IND,seam,yes,29.52479338842975,35.429752066115704
+3,2388,326,IND,4,136,172,SR Tendulkar,SR Watson,5,43,113,54.25,NA,NA,Right-hand bat,7,6,0,666,51.42,95.1,rfm,0,IND,seam,yes,29.52479338842975,35.429752066115704
+3,2389,327,IND,4,136,172,SR Tendulkar,SR Watson,5,43,114,54.25,NA,NA,Right-hand bat,8,6,0,666,51.42,95.1,rfm,4,IND,seam,yes,29.52479338842975,35.429752066115704
+3,2390,328,IND,4,140,176,SR Tendulkar,SR Watson,5,47,115,54.25,NA,NA,Right-hand bat,9,10,0,666,51.42,95.1,rfm,0,IND,seam,yes,29.52479338842975,35.429752066115704
+3,2391,329,IND,4,140,176,SR Tendulkar,SR Watson,5,47,116,54.25,NA,NA,Right-hand bat,10,10,0,666,51.42,95.1,rfm,0,IND,seam,yes,29.52479338842975,35.429752066115704
+3,2392,330,IND,4,140,176,SR Tendulkar,SR Watson,5,47,117,54.25,NA,NA,Right-hand bat,11,10,0,666,51.42,95.1,rfm,0,IND,seam,yes,29.52479338842975,35.429752066115704

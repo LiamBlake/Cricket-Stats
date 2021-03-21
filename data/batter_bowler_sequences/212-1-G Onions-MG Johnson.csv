@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,590,590,ENG,9,394,394,G Onions,MG Johnson,11,11,15,17,30,56.66,Right-hand bat,114,107,2,5808,29.05,56.9,lf,1,ENG,seam,yes,29.3179012345679,8.376543209876543
+1,592,592,ENG,9,396,396,G Onions,MG Johnson,11,12,16,17,30,56.66,Right-hand bat,116,109,2,5808,29.05,56.9,lf,0,ENG,seam,yes,29.3179012345679,8.376543209876543
+1,593,593,ENG,9,396,396,G Onions,MG Johnson,11,12,17,17,30,56.66,Right-hand bat,117,109,2,5808,29.05,56.9,lf,1,ENG,seam,yes,29.3179012345679,8.376543209876543
+1,615,615,ENG,9,420,420,G Onions,MG Johnson,11,16,28,17,30,56.66,Right-hand bat,127,127,2,5808,29.05,56.9,lf,1,ENG,seam,yes,29.3179012345679,8.376543209876543

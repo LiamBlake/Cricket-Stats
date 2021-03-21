@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1152,198,ENG,5,129,225,MM Ali,DM de Silva,7,0,1,30.94,5240,51.37,Left-hand bat,38,16,0,984.1,84.28,140.7,rob,1,ENG,spin,yes,3.40625,23.84375
+3,1154,200,ENG,5,131,227,MM Ali,DM de Silva,7,1,2,30.94,5240,51.37,Left-hand bat,40,18,0,984.1,84.28,140.7,rob,0,ENG,spin,yes,3.40625,23.84375
+3,1155,201,ENG,5,131,227,MM Ali,DM de Silva,7,1,3,30.94,5240,51.37,Left-hand bat,41,18,0,984.1,84.28,140.7,rob,1,ENG,spin,yes,3.40625,23.84375
+3,1162,208,ENG,5,135,231,MM Ali,DM de Silva,7,4,8,30.94,5240,51.37,Left-hand bat,42,19,0,984.1,84.28,140.7,rob,0,ENG,spin,yes,3.40625,23.84375
+3,1163,209,ENG,5,135,231,MM Ali,DM de Silva,7,4,9,30.94,5240,51.37,Left-hand bat,43,19,0,984.1,84.28,140.7,rob,1,ENG,spin,yes,3.40625,23.84375
+3,1165,211,ENG,5,137,233,MM Ali,DM de Silva,7,5,10,30.94,5240,51.37,Left-hand bat,45,21,0,984.1,84.28,140.7,rob,0,ENG,spin,yes,3.40625,23.84375
+3,1166,212,ENG,5,137,233,MM Ali,DM de Silva,7,5,11,30.94,5240,51.37,Left-hand bat,46,21,0,984.1,84.28,140.7,rob,0,ENG,spin,yes,3.40625,23.84375
+3,1167,213,ENG,5,137,233,MM Ali,DM de Silva,7,5,12,30.94,5240,51.37,Left-hand bat,47,21,0,984.1,84.28,140.7,rob,1,ENG,spin,yes,3.40625,23.84375
+3,1174,220,ENG,5,147,243,MM Ali,DM de Silva,7,11,17,30.94,5240,51.37,Left-hand bat,48,22,0,984.1,84.28,140.7,rob,0,ENG,spin,yes,3.40625,23.84375
+3,1175,221,ENG,5,147,243,MM Ali,DM de Silva,7,11,18,30.94,5240,51.37,Left-hand bat,49,22,0,984.1,84.28,140.7,rob,0,ENG,spin,yes,3.40625,23.84375
+3,1176,222,ENG,5,147,243,MM Ali,DM de Silva,7,11,19,30.94,5240,51.37,Left-hand bat,50,22,0,984.1,84.28,140.7,rob,1,ENG,spin,yes,3.40625,23.84375
+3,1178,224,ENG,5,149,245,MM Ali,DM de Silva,7,12,20,30.94,5240,51.37,Left-hand bat,52,24,0,984.1,84.28,140.7,rob,0,ENG,spin,yes,3.40625,23.84375
+3,1179,225,ENG,5,149,245,MM Ali,DM de Silva,7,12,21,30.94,5240,51.37,Left-hand bat,53,24,0,984.1,84.28,140.7,rob,0,ENG,spin,yes,3.40625,23.84375

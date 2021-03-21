@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,853,853,IND,6,380,380,Harbhajan Singh,GP Swann,8,0,3,16.69,2184,64.19,Right-hand bat,235,99,3,600.3,39.5,75.3,rob,0,IND,spin,yes,17.74234693877551,20.471938775510207
+1,854,854,IND,6,380,380,Harbhajan Singh,GP Swann,8,0,4,16.69,2184,64.19,Right-hand bat,236,99,3,600.3,39.5,75.3,rob,4,IND,spin,yes,17.74234693877551,20.471938775510207
+1,855,855,IND,6,384,384,Harbhajan Singh,GP Swann,8,4,5,16.69,2184,64.19,Right-hand bat,237,103,3,600.3,39.5,75.3,rob,2,IND,spin,yes,17.74234693877551,20.471938775510207
+1,856,856,IND,6,386,386,Harbhajan Singh,GP Swann,8,6,6,16.69,2184,64.19,Right-hand bat,238,105,3,600.3,39.5,75.3,rob,0,IND,spin,yes,17.74234693877551,20.471938775510207
+1,857,857,IND,6,386,386,Harbhajan Singh,GP Swann,8,6,7,16.69,2184,64.19,Right-hand bat,239,105,3,600.3,39.5,75.3,rob,0,IND,spin,yes,17.74234693877551,20.471938775510207
+1,864,864,IND,6,388,388,Harbhajan Singh,GP Swann,8,7,9,16.69,2184,64.19,Right-hand bat,240,105,3,600.3,39.5,75.3,rob,6,IND,spin,yes,17.74234693877551,20.471938775510207
+1,865,865,IND,6,394,394,Harbhajan Singh,GP Swann,8,13,10,16.69,2184,64.19,Right-hand bat,241,111,3,600.3,39.5,75.3,rob,0,IND,spin,yes,17.74234693877551,20.471938775510207
+1,866,866,IND,6,394,394,Harbhajan Singh,GP Swann,8,13,11,16.69,2184,64.19,Right-hand bat,242,111,3,600.3,39.5,75.3,rob,1,IND,spin,yes,17.74234693877551,20.471938775510207
+1,878,878,IND,6,406,406,Harbhajan Singh,GP Swann,8,23,17,16.69,2184,64.19,Right-hand bat,248,113,3,600.3,39.5,75.3,rob,1,IND,spin,yes,17.74234693877551,20.471938775510207
+1,881,881,IND,6,410,410,Harbhajan Singh,GP Swann,8,24,18,16.69,2184,64.19,Right-hand bat,251,117,3,600.3,39.5,75.3,rob,0,IND,spin,yes,17.74234693877551,20.471938775510207

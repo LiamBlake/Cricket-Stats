@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1716,372,ENG,5,193,321,AN Cook,AD Mathews,7,27,60,46.89,21917,46.42,Left-hand bat,24,8,0,3444,51.12,111,rm,0,ENG,seam,yes,31.071428571428573,5.178571428571429
+3,1717,373,ENG,5,193,321,AN Cook,AD Mathews,7,27,61,46.89,21917,46.42,Left-hand bat,25,8,0,3444,51.12,111,rm,1,ENG,seam,yes,31.071428571428573,5.178571428571429
+3,1720,376,ENG,5,195,323,AN Cook,AD Mathews,7,28,62,46.89,21917,46.42,Left-hand bat,28,10,0,3444,51.12,111,rm,0,ENG,seam,yes,31.071428571428573,5.178571428571429
+3,1721,377,ENG,5,195,323,AN Cook,AD Mathews,7,28,63,46.89,21917,46.42,Left-hand bat,29,10,0,3444,51.12,111,rm,0,ENG,seam,yes,31.071428571428573,5.178571428571429
+3,1752,408,ENG,6,209,337,AN Cook,AD Mathews,7,34,76,46.89,21917,46.42,Left-hand bat,42,10,1,3444,51.12,111,rm,1,ENG,seam,yes,31.071428571428573,5.178571428571429
+3,1764,420,ENG,6,217,345,AN Cook,AD Mathews,7,36,79,46.89,21917,46.42,Left-hand bat,48,14,1,3444,51.12,111,rm,2,ENG,seam,yes,31.071428571428573,5.178571428571429
+3,1765,421,ENG,6,219,347,AN Cook,AD Mathews,7,38,80,46.89,21917,46.42,Left-hand bat,49,16,1,3444,51.12,111,rm,1,ENG,seam,yes,31.071428571428573,5.178571428571429
+3,1767,423,ENG,6,221,349,AN Cook,AD Mathews,7,39,81,46.89,21917,46.42,Left-hand bat,51,18,1,3444,51.12,111,rm,0,ENG,seam,yes,31.071428571428573,5.178571428571429
+3,1768,424,ENG,6,221,349,AN Cook,AD Mathews,7,39,82,46.89,21917,46.42,Left-hand bat,52,18,1,3444,51.12,111,rm,1,ENG,seam,yes,31.071428571428573,5.178571428571429

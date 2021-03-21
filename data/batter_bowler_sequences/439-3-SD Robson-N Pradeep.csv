@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1635,6,ENG,0,1,123,SD Robson,N Pradeep,1,1,4,10,57,35.08,Right-hand bat,0,0,0,1254.4,72.83,104.8,rfm,0,ENG,seam,no,34.62962962962963,6.9259259259259265
+3,1636,7,ENG,0,1,123,SD Robson,N Pradeep,1,1,5,10,57,35.08,Right-hand bat,1,0,0,1254.4,72.83,104.8,rfm,0,ENG,seam,no,34.62962962962963,6.9259259259259265
+3,1637,8,ENG,0,1,123,SD Robson,N Pradeep,1,1,6,10,57,35.08,Right-hand bat,2,0,0,1254.4,72.83,104.8,rfm,0,ENG,seam,no,34.62962962962963,6.9259259259259265
+3,1638,9,ENG,0,1,123,SD Robson,N Pradeep,1,1,7,10,57,35.08,Right-hand bat,3,0,0,1254.4,72.83,104.8,rfm,0,ENG,seam,no,34.62962962962963,6.9259259259259265
+3,1639,10,ENG,0,1,123,SD Robson,N Pradeep,1,1,8,10,57,35.08,Right-hand bat,4,0,0,1254.4,72.83,104.8,rfm,0,ENG,seam,no,34.62962962962963,6.9259259259259265
+3,1640,11,ENG,0,1,123,SD Robson,N Pradeep,1,1,9,10,57,35.08,Right-hand bat,5,0,0,1254.4,72.83,104.8,rfm,0,ENG,seam,no,34.62962962962963,6.9259259259259265
+3,1647,18,ENG,0,5,127,SD Robson,N Pradeep,1,1,10,10,57,35.08,Right-hand bat,6,0,0,1254.4,72.83,104.8,rfm,0,ENG,seam,no,34.62962962962963,6.9259259259259265
+3,1648,19,ENG,0,5,127,SD Robson,N Pradeep,1,1,11,10,57,35.08,Right-hand bat,7,0,0,1254.4,72.83,104.8,rfm,3,ENG,seam,no,34.62962962962963,6.9259259259259265

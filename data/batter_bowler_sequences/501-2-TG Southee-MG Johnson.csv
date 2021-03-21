@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1646,844,NZL,8,568,9,TG Southee,MG Johnson,10,10,9,17.51,1294,86.63,Right-hand bat,145,131,1,15996.5,28.4,51.1,lf,0,AUS,seam,no,46.91836734693878,12.795918367346939
+2,1647,845,NZL,8,568,9,TG Southee,MG Johnson,10,10,10,17.51,1294,86.63,Right-hand bat,146,131,1,15996.5,28.4,51.1,lf,6,AUS,seam,no,46.91836734693878,12.795918367346939
+2,1648,846,NZL,8,574,15,TG Southee,MG Johnson,10,16,11,17.51,1294,86.63,Right-hand bat,147,137,1,15996.5,28.4,51.1,lf,0,AUS,seam,no,46.91836734693878,12.795918367346939
+2,1649,847,NZL,8,574,15,TG Southee,MG Johnson,10,16,12,17.51,1294,86.63,Right-hand bat,148,137,1,15996.5,28.4,51.1,lf,4,AUS,seam,no,46.91836734693878,12.795918367346939
+2,1650,848,NZL,8,578,19,TG Southee,MG Johnson,10,20,13,17.51,1294,86.63,Right-hand bat,149,141,1,15996.5,28.4,51.1,lf,0,AUS,seam,no,46.91836734693878,12.795918367346939
+2,1651,849,NZL,8,578,19,TG Southee,MG Johnson,10,20,14,17.51,1294,86.63,Right-hand bat,150,141,1,15996.5,28.4,51.1,lf,1,AUS,seam,no,46.91836734693878,12.795918367346939

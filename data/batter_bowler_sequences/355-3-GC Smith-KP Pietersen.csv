@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1836,223,RSA,0,119,113,GC Smith,KP Pietersen,2,47,101,50.16,13798,59.98,Left-hand bat,0,0,0,1236.3,93.77,137.6,rob,1,ENG,spin,no,28.282828282828284,9.050505050505052
+3,1841,228,RSA,1,121,115,GC Smith,KP Pietersen,2,48,102,50.16,13798,59.98,Left-hand bat,5,2,1,1236.3,93.77,137.6,rob,2,ENG,spin,no,28.282828282828284,9.050505050505052
+3,1848,235,RSA,1,123,117,GC Smith,KP Pietersen,2,50,103,50.16,13798,59.98,Left-hand bat,6,4,1,1236.3,93.77,137.6,rob,0,ENG,spin,no,28.282828282828284,9.050505050505052
+3,1849,236,RSA,1,123,117,GC Smith,KP Pietersen,2,50,104,50.16,13798,59.98,Left-hand bat,7,4,1,1236.3,93.77,137.6,rob,0,ENG,spin,no,28.282828282828284,9.050505050505052
+3,1850,237,RSA,1,123,117,GC Smith,KP Pietersen,2,50,105,50.16,13798,59.98,Left-hand bat,8,4,1,1236.3,93.77,137.6,rob,0,ENG,spin,no,28.282828282828284,9.050505050505052
+3,1851,238,RSA,1,123,117,GC Smith,KP Pietersen,2,50,106,50.16,13798,59.98,Left-hand bat,9,4,1,1236.3,93.77,137.6,rob,0,ENG,spin,no,28.282828282828284,9.050505050505052
+3,1852,239,RSA,1,123,117,GC Smith,KP Pietersen,2,50,107,50.16,13798,59.98,Left-hand bat,10,4,1,1236.3,93.77,137.6,rob,1,ENG,spin,no,28.282828282828284,9.050505050505052
+3,1860,247,RSA,1,129,123,GC Smith,KP Pietersen,2,52,112,50.16,13798,59.98,Left-hand bat,12,5,1,1236.3,93.77,137.6,rob,0,ENG,spin,no,28.282828282828284,9.050505050505052
+3,1861,248,RSA,1,129,123,GC Smith,KP Pietersen,2,52,113,50.16,13798,59.98,Left-hand bat,13,5,1,1236.3,93.77,137.6,rob,0,ENG,spin,no,28.282828282828284,9.050505050505052
+3,1862,249,RSA,1,129,123,GC Smith,KP Pietersen,2,52,114,50.16,13798,59.98,Left-hand bat,14,5,1,1236.3,93.77,137.6,rob,0,ENG,spin,no,28.282828282828284,9.050505050505052
+3,1863,250,RSA,1,129,123,GC Smith,KP Pietersen,2,52,115,50.16,13798,59.98,Left-hand bat,15,5,1,1236.3,93.77,137.6,rob,0,ENG,spin,no,28.282828282828284,9.050505050505052
+3,1864,251,RSA,1,129,123,GC Smith,KP Pietersen,2,52,116,50.16,13798,59.98,Left-hand bat,16,5,1,1236.3,93.77,137.6,rob,W,ENG,spin,no,28.282828282828284,9.050505050505052

@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,630,99,NZL,2,44,-220,LRPL Taylor,Umar Gul,4,26,37,42.71,2709,59.91,Right-hand bat,9,1,0,4860,32.46,54,rfm,0,NZL,seam,yes,16.21875,5.40625
+2,631,100,NZL,2,44,-220,LRPL Taylor,Umar Gul,4,26,38,42.71,2709,59.91,Right-hand bat,10,1,0,4860,32.46,54,rfm,4,NZL,seam,yes,16.21875,5.40625
+2,632,101,NZL,2,48,-216,LRPL Taylor,Umar Gul,4,30,39,42.71,2709,59.91,Right-hand bat,11,5,0,4860,32.46,54,rfm,W,NZL,seam,yes,16.21875,5.40625

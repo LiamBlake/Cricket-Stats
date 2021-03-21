@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1619,403,AUS,8,192,442,MA Starc,TG Southee,10,3,6,22.6,2185,68.28,Left-hand bat,117,63,4,15708.5,29.61,58.8,rmf,0,AUS,seam,yes,19.76988823142669,5.1019066403681785
+3,1620,404,AUS,8,192,442,MA Starc,TG Southee,10,3,7,22.6,2185,68.28,Left-hand bat,118,63,4,15708.5,29.61,58.8,rmf,4,AUS,seam,yes,19.76988823142669,5.1019066403681785
+3,1621,405,AUS,8,196,446,MA Starc,TG Southee,10,7,8,22.6,2185,68.28,Left-hand bat,119,67,4,15708.5,29.61,58.8,rmf,1,AUS,seam,yes,19.76988823142669,5.1019066403681785
+3,1631,415,AUS,8,210,460,MA Starc,TG Southee,10,17,12,22.6,2185,68.28,Left-hand bat,123,68,4,15708.5,29.61,58.8,rmf,0,AUS,seam,yes,19.76988823142669,5.1019066403681785
+3,1632,416,AUS,8,210,460,MA Starc,TG Southee,10,17,13,22.6,2185,68.28,Left-hand bat,124,68,4,15708.5,29.61,58.8,rmf,0,AUS,seam,yes,19.76988823142669,5.1019066403681785
+3,1633,417,AUS,8,210,460,MA Starc,TG Southee,10,17,14,22.6,2185,68.28,Left-hand bat,125,68,4,15708.5,29.61,58.8,rmf,1,AUS,seam,yes,19.76988823142669,5.1019066403681785
+3,1644,428,AUS,8,217,467,MA Starc,TG Southee,10,23,20,22.6,2185,68.28,Left-hand bat,129,69,4,15708.5,29.61,58.8,rmf,W,AUS,seam,yes,19.76988823142669,5.1019066403681785

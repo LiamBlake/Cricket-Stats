@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,593,593,AUS,4,285,285,TM Head,C de Grandhomme,6,35,55,40.82,1824,51.48,Left-hand bat,98,24,1,3000.5,30.25,75.1,rmf,0,AUS,seam,yes,19.76988823142669,5.1019066403681785
+1,594,594,AUS,4,285,285,TM Head,C de Grandhomme,6,35,56,40.82,1824,51.48,Left-hand bat,99,24,1,3000.5,30.25,75.1,rmf,0,AUS,seam,yes,19.76988823142669,5.1019066403681785
+1,595,595,AUS,4,285,285,TM Head,C de Grandhomme,6,35,57,40.82,1824,51.48,Left-hand bat,100,24,1,3000.5,30.25,75.1,rmf,4,AUS,seam,yes,19.76988823142669,5.1019066403681785
+1,596,596,AUS,4,289,289,TM Head,C de Grandhomme,6,39,58,40.82,1824,51.48,Left-hand bat,101,28,1,3000.5,30.25,75.1,rmf,0,AUS,seam,yes,19.76988823142669,5.1019066403681785
+1,597,597,AUS,4,289,289,TM Head,C de Grandhomme,6,39,59,40.82,1824,51.48,Left-hand bat,102,28,1,3000.5,30.25,75.1,rmf,0,AUS,seam,yes,19.76988823142669,5.1019066403681785
+1,598,598,AUS,4,289,289,TM Head,C de Grandhomme,6,39,60,40.82,1824,51.48,Left-hand bat,103,28,1,3000.5,30.25,75.1,rmf,0,AUS,seam,yes,19.76988823142669,5.1019066403681785
+1,629,629,AUS,5,303,303,TM Head,C de Grandhomme,6,41,69,40.82,1824,51.48,Left-hand bat,116,34,1,3000.5,30.25,75.1,rmf,0,AUS,seam,yes,19.76988823142669,5.1019066403681785
+1,630,630,AUS,5,303,303,TM Head,C de Grandhomme,6,41,70,40.82,1824,51.48,Left-hand bat,117,34,1,3000.5,30.25,75.1,rmf,0,AUS,seam,yes,19.76988823142669,5.1019066403681785
+1,631,631,AUS,5,303,303,TM Head,C de Grandhomme,6,41,71,40.82,1824,51.48,Left-hand bat,118,34,1,3000.5,30.25,75.1,rmf,0,AUS,seam,yes,19.76988823142669,5.1019066403681785
+1,632,632,AUS,5,303,303,TM Head,C de Grandhomme,6,41,72,40.82,1824,51.48,Left-hand bat,119,34,1,3000.5,30.25,75.1,rmf,1,AUS,seam,yes,19.76988823142669,5.1019066403681785

@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1093,158,IND,3,86,-533,SR Tendulkar,CS Martin,5,5,13,54.75,NA,NA,Right-hand bat,42,26,0,9120.4,33.91,59.6,rfm,3,NZL,seam,no,34.40453686200378,26.46502835538752
+2,1106,171,IND,3,95,-524,SR Tendulkar,CS Martin,5,9,16,54.75,NA,NA,Right-hand bat,48,33,0,9120.4,33.91,59.6,rfm,1,NZL,seam,no,34.40453686200378,26.46502835538752
+2,1108,173,IND,3,97,-522,SR Tendulkar,CS Martin,5,10,17,54.75,NA,NA,Right-hand bat,50,35,0,9120.4,33.91,59.6,rfm,1,NZL,seam,no,34.40453686200378,26.46502835538752
+2,1118,183,IND,3,105,-514,SR Tendulkar,CS Martin,5,13,21,54.75,NA,NA,Right-hand bat,54,36,0,9120.4,33.91,59.6,rfm,0,NZL,seam,no,34.40453686200378,26.46502835538752
+2,1119,184,IND,3,105,-514,SR Tendulkar,CS Martin,5,13,22,54.75,NA,NA,Right-hand bat,55,36,0,9120.4,33.91,59.6,rfm,0,NZL,seam,no,34.40453686200378,26.46502835538752
+2,1120,185,IND,3,105,-514,SR Tendulkar,CS Martin,5,13,23,54.75,NA,NA,Right-hand bat,56,36,0,9120.4,33.91,59.6,rfm,0,NZL,seam,no,34.40453686200378,26.46502835538752
+2,1121,186,IND,3,105,-514,SR Tendulkar,CS Martin,5,13,24,54.75,NA,NA,Right-hand bat,57,36,0,9120.4,33.91,59.6,rfm,0,NZL,seam,no,34.40453686200378,26.46502835538752
+2,1122,187,IND,3,105,-514,SR Tendulkar,CS Martin,5,13,25,54.75,NA,NA,Right-hand bat,58,36,0,9120.4,33.91,59.6,rfm,0,NZL,seam,no,34.40453686200378,26.46502835538752
+2,1123,188,IND,3,105,-514,SR Tendulkar,CS Martin,5,13,26,54.75,NA,NA,Right-hand bat,59,36,0,9120.4,33.91,59.6,rfm,4,NZL,seam,no,34.40453686200378,26.46502835538752
+2,1143,208,IND,3,112,-507,SR Tendulkar,CS Martin,5,18,32,54.75,NA,NA,Right-hand bat,66,40,0,9120.4,33.91,59.6,rfm,0,NZL,seam,no,34.40453686200378,26.46502835538752
+2,1144,209,IND,3,112,-507,SR Tendulkar,CS Martin,5,18,33,54.75,NA,NA,Right-hand bat,67,40,0,9120.4,33.91,59.6,rfm,4,NZL,seam,no,34.40453686200378,26.46502835538752
+2,1145,210,IND,3,116,-503,SR Tendulkar,CS Martin,5,22,34,54.75,NA,NA,Right-hand bat,68,44,0,9120.4,33.91,59.6,rfm,0,NZL,seam,no,34.40453686200378,26.46502835538752
+2,1146,211,IND,3,116,-503,SR Tendulkar,CS Martin,5,22,35,54.75,NA,NA,Right-hand bat,69,44,0,9120.4,33.91,59.6,rfm,0,NZL,seam,no,34.40453686200378,26.46502835538752
+2,1147,212,IND,3,116,-503,SR Tendulkar,CS Martin,5,22,36,54.75,NA,NA,Right-hand bat,70,44,0,9120.4,33.91,59.6,rfm,1,NZL,seam,no,34.40453686200378,26.46502835538752

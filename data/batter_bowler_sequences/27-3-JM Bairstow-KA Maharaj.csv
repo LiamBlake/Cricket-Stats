@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1417,440,ENG,6,264,442,JM Bairstow,KA Maharaj,7,37,36,40.86,4745,55.97,Right-hand bat,60,29,2,2112.5,25.97,52.9,lo,W,ENG,spin,yes,21.95083102493075,6.8123268698060935
+3,1418,441,ENG,7,265,443,JM Bairstow,KA Maharaj,7,38,37,40.86,4745,55.97,Right-hand bat,61,29,3,2112.5,25.97,52.9,lo,0,ENG,spin,yes,21.95083102493075,6.8123268698060935
+3,1419,442,ENG,7,265,443,JM Bairstow,KA Maharaj,7,38,38,40.86,4745,55.97,Right-hand bat,62,29,3,2112.5,25.97,52.9,lo,0,ENG,spin,yes,21.95083102493075,6.8123268698060935
+3,1420,443,ENG,7,265,443,JM Bairstow,KA Maharaj,7,38,39,40.86,4745,55.97,Right-hand bat,63,29,3,2112.5,25.97,52.9,lo,0,ENG,spin,yes,21.95083102493075,6.8123268698060935
+3,1421,444,ENG,7,265,443,JM Bairstow,KA Maharaj,7,38,40,40.86,4745,55.97,Right-hand bat,64,29,3,2112.5,25.97,52.9,lo,0,ENG,spin,yes,21.95083102493075,6.8123268698060935
+3,1422,445,ENG,7,265,443,JM Bairstow,KA Maharaj,7,38,41,40.86,4745,55.97,Right-hand bat,65,29,3,2112.5,25.97,52.9,lo,1,ENG,spin,yes,21.95083102493075,6.8123268698060935
+3,1429,452,ENG,7,269,447,JM Bairstow,KA Maharaj,7,41,44,40.86,4745,55.97,Right-hand bat,66,30,3,2112.5,25.97,52.9,lo,1,ENG,spin,yes,21.95083102493075,6.8123268698060935
+3,1431,454,ENG,7,271,449,JM Bairstow,KA Maharaj,7,42,45,40.86,4745,55.97,Right-hand bat,68,32,3,2112.5,25.97,52.9,lo,1,ENG,spin,yes,21.95083102493075,6.8123268698060935
+3,1442,465,ENG,7,285,463,JM Bairstow,KA Maharaj,7,52,51,40.86,4745,55.97,Right-hand bat,73,36,3,2112.5,25.97,52.9,lo,2,ENG,spin,yes,21.95083102493075,6.8123268698060935
+3,1443,466,ENG,7,287,465,JM Bairstow,KA Maharaj,7,54,52,40.86,4745,55.97,Right-hand bat,74,38,3,2112.5,25.97,52.9,lo,6,ENG,spin,yes,21.95083102493075,6.8123268698060935
+3,1444,467,ENG,7,293,471,JM Bairstow,KA Maharaj,7,60,53,40.86,4745,55.97,Right-hand bat,75,44,3,2112.5,25.97,52.9,lo,1,ENG,spin,yes,21.95083102493075,6.8123268698060935
+3,1446,469,ENG,7,295,473,JM Bairstow,KA Maharaj,7,61,54,40.86,4745,55.97,Right-hand bat,77,46,3,2112.5,25.97,52.9,lo,0,ENG,spin,yes,21.95083102493075,6.8123268698060935
+3,1455,478,ENG,7,311,489,JM Bairstow,KA Maharaj,7,62,56,40.86,4745,55.97,Right-hand bat,80,47,3,2112.5,25.97,52.9,lo,1,ENG,spin,yes,21.95083102493075,6.8123268698060935
+3,1457,480,ENG,7,313,491,JM Bairstow,KA Maharaj,7,63,57,40.86,4745,55.97,Right-hand bat,82,49,3,2112.5,25.97,52.9,lo,W,ENG,spin,yes,21.95083102493075,6.8123268698060935

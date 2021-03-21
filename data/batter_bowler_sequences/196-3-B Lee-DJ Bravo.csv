@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1702,288,AUS,7,144,263,B Lee,DJ Bravo,9,0,0,20.28,2207,54.23,Right-hand bat,89,33,2,4680.3,38.58,72,rm,0,WIN,seam,yes,24.084375,3.440625
+3,1709,295,AUS,7,148,267,B Lee,DJ Bravo,9,0,1,20.28,2207,54.23,Right-hand bat,90,33,2,4680.3,38.58,72,rm,1,WIN,seam,yes,24.084375,3.440625
+3,1728,314,AUS,7,153,272,B Lee,DJ Bravo,9,2,11,20.28,2207,54.23,Right-hand bat,97,35,2,4680.3,38.58,72,rm,0,WIN,seam,yes,24.084375,3.440625
+3,1729,315,AUS,7,153,272,B Lee,DJ Bravo,9,2,12,20.28,2207,54.23,Right-hand bat,98,35,2,4680.3,38.58,72,rm,0,WIN,seam,yes,24.084375,3.440625
+3,1730,316,AUS,7,153,272,B Lee,DJ Bravo,9,2,13,20.28,2207,54.23,Right-hand bat,99,35,2,4680.3,38.58,72,rm,0,WIN,seam,yes,24.084375,3.440625
+3,1731,317,AUS,7,153,272,B Lee,DJ Bravo,9,2,14,20.28,2207,54.23,Right-hand bat,100,35,2,4680.3,38.58,72,rm,0,WIN,seam,yes,24.084375,3.440625
+3,1732,318,AUS,7,153,272,B Lee,DJ Bravo,9,2,15,20.28,2207,54.23,Right-hand bat,101,35,2,4680.3,38.58,72,rm,1,WIN,seam,yes,24.084375,3.440625
+3,1739,325,AUS,7,155,274,B Lee,DJ Bravo,9,4,22,20.28,2207,54.23,Right-hand bat,102,36,2,4680.3,38.58,72,rm,0,WIN,seam,yes,24.084375,3.440625
+3,1740,326,AUS,7,155,274,B Lee,DJ Bravo,9,4,23,20.28,2207,54.23,Right-hand bat,103,36,2,4680.3,38.58,72,rm,0,WIN,seam,yes,24.084375,3.440625
+3,1741,327,AUS,7,155,274,B Lee,DJ Bravo,9,4,24,20.28,2207,54.23,Right-hand bat,104,36,2,4680.3,38.58,72,rm,1,WIN,seam,yes,24.084375,3.440625
+3,1743,329,AUS,7,157,276,B Lee,DJ Bravo,9,5,25,20.28,2207,54.23,Right-hand bat,106,38,2,4680.3,38.58,72,rm,4,WIN,seam,yes,24.084375,3.440625
+3,1744,330,AUS,7,161,280,B Lee,DJ Bravo,9,9,26,20.28,2207,54.23,Right-hand bat,107,42,2,4680.3,38.58,72,rm,0,WIN,seam,yes,24.084375,3.440625

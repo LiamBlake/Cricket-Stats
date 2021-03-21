@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1039,251,WIN,1,86,-267,DM Bravo,B Kumar,3,15,49,39.96,6773,46.02,Left-hand bat,52,8,0,2124.3,30.31,60.7,rm,0,WIN,seam,yes,17.809349890430973,6.596055514974434
+2,1040,252,WIN,1,86,-267,DM Bravo,B Kumar,3,15,50,39.96,6773,46.02,Left-hand bat,53,8,0,2124.3,30.31,60.7,rm,0,WIN,seam,yes,17.809349890430973,6.596055514974434
+2,1047,259,WIN,1,90,-263,DM Bravo,B Kumar,3,16,52,39.96,6773,46.02,Left-hand bat,54,8,0,2124.3,30.31,60.7,rm,0,WIN,seam,yes,17.809349890430973,6.596055514974434
+2,1048,260,WIN,1,90,-263,DM Bravo,B Kumar,3,16,53,39.96,6773,46.02,Left-hand bat,55,8,0,2124.3,30.31,60.7,rm,1,WIN,seam,yes,17.809349890430973,6.596055514974434
+2,1059,271,WIN,1,96,-257,DM Bravo,B Kumar,3,18,60,39.96,6773,46.02,Left-hand bat,60,9,0,2124.3,30.31,60.7,rm,0,WIN,seam,yes,17.809349890430973,6.596055514974434
+2,1060,272,WIN,1,96,-257,DM Bravo,B Kumar,3,18,61,39.96,6773,46.02,Left-hand bat,61,9,0,2124.3,30.31,60.7,rm,0,WIN,seam,yes,17.809349890430973,6.596055514974434
+2,1061,273,WIN,1,96,-257,DM Bravo,B Kumar,3,18,62,39.96,6773,46.02,Left-hand bat,62,9,0,2124.3,30.31,60.7,rm,0,WIN,seam,yes,17.809349890430973,6.596055514974434
+2,1062,274,WIN,1,96,-257,DM Bravo,B Kumar,3,18,63,39.96,6773,46.02,Left-hand bat,63,9,0,2124.3,30.31,60.7,rm,0,WIN,seam,yes,17.809349890430973,6.596055514974434
+2,1063,275,WIN,1,96,-257,DM Bravo,B Kumar,3,18,64,39.96,6773,46.02,Left-hand bat,64,9,0,2124.3,30.31,60.7,rm,1wd,WIN,seam,yes,17.809349890430973,6.596055514974434
+2,1064,276,WIN,1,97,-256,DM Bravo,B Kumar,3,18,64,39.96,6773,46.02,Left-hand bat,65,10,0,2124.3,30.31,60.7,rm,1wd,WIN,seam,yes,17.809349890430973,6.596055514974434
+2,1065,277,WIN,1,98,-255,DM Bravo,B Kumar,3,18,64,39.96,6773,46.02,Left-hand bat,66,11,0,2124.3,30.31,60.7,rm,0,WIN,seam,yes,17.809349890430973,6.596055514974434
+2,1066,278,WIN,1,98,-255,DM Bravo,B Kumar,3,18,65,39.96,6773,46.02,Left-hand bat,67,11,0,2124.3,30.31,60.7,rm,0,WIN,seam,yes,17.809349890430973,6.596055514974434

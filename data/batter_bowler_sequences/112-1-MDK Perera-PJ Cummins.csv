@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,259,259,SRL,6,91,91,MDK Perera,PJ Cummins,8,0,0,18.84,2330,47.72,Right-hand bat,58,21,2,4266.3,22.47,47.4,rf,0,AUS,seam,yes,16.16,3.3666666666666667
+1,260,260,SRL,6,91,91,MDK Perera,PJ Cummins,8,0,1,18.84,2330,47.72,Right-hand bat,59,21,2,4266.3,22.47,47.4,rf,0,AUS,seam,yes,16.16,3.3666666666666667
+1,267,267,SRL,6,93,93,MDK Perera,PJ Cummins,8,1,6,18.84,2330,47.72,Right-hand bat,60,21,2,4266.3,22.47,47.4,rf,0,AUS,seam,yes,16.16,3.3666666666666667
+1,268,268,SRL,6,93,93,MDK Perera,PJ Cummins,8,1,7,18.84,2330,47.72,Right-hand bat,61,21,2,4266.3,22.47,47.4,rf,0,AUS,seam,yes,16.16,3.3666666666666667
+1,269,269,SRL,6,93,93,MDK Perera,PJ Cummins,8,1,8,18.84,2330,47.72,Right-hand bat,62,21,2,4266.3,22.47,47.4,rf,0,AUS,seam,yes,16.16,3.3666666666666667

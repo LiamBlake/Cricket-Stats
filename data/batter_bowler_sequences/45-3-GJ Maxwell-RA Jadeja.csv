@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2638,551,AUS,5,187,35,GJ Maxwell,RA Jadeja,7,0,0,23.25,314,59.23,Right-hand bat,236,45,4,8550.2,23.21,61.9,lo,0,IND,spin,yes,18.1152,32.2048
+3,2639,552,AUS,5,187,35,GJ Maxwell,RA Jadeja,7,0,1,23.25,314,59.23,Right-hand bat,237,45,4,8550.2,23.21,61.9,lo,0,IND,spin,yes,18.1152,32.2048
+3,2640,553,AUS,5,187,35,GJ Maxwell,RA Jadeja,7,0,2,23.25,314,59.23,Right-hand bat,238,45,4,8550.2,23.21,61.9,lo,0,IND,spin,yes,18.1152,32.2048
+3,2641,554,AUS,5,187,35,GJ Maxwell,RA Jadeja,7,0,3,23.25,314,59.23,Right-hand bat,239,45,4,8550.2,23.21,61.9,lo,1,IND,spin,yes,18.1152,32.2048
+3,2650,563,AUS,5,189,37,GJ Maxwell,RA Jadeja,7,1,10,23.25,314,59.23,Right-hand bat,242,47,4,8550.2,23.21,61.9,lo,1,IND,spin,yes,18.1152,32.2048

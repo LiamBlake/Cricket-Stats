@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1095,260,RSA,7,195,298,VD Philander,JC Archer,9,4,4,24.63,3764,45.16,Right-hand bat,78,83,4,1644,27.4,54.8,rf,0,RSA,seam,no,23.86875,1.25625
+3,1096,261,RSA,7,195,298,VD Philander,JC Archer,9,4,5,24.63,3764,45.16,Right-hand bat,79,83,4,1644,27.4,54.8,rf,0,RSA,seam,no,23.86875,1.25625
+3,1164,329,RSA,8,226,329,VD Philander,JC Archer,9,26,44,24.63,3764,45.16,Right-hand bat,80,83,4,1644,27.4,54.8,rf,2,RSA,seam,no,23.86875,1.25625
+3,1165,330,RSA,8,228,331,VD Philander,JC Archer,9,28,45,24.63,3764,45.16,Right-hand bat,81,85,4,1644,27.4,54.8,rf,0,RSA,seam,no,23.86875,1.25625
+3,1166,331,RSA,8,228,331,VD Philander,JC Archer,9,28,46,24.63,3764,45.16,Right-hand bat,82,85,4,1644,27.4,54.8,rf,2,RSA,seam,no,23.86875,1.25625
+3,1167,332,RSA,8,230,333,VD Philander,JC Archer,9,30,47,24.63,3764,45.16,Right-hand bat,83,87,4,1644,27.4,54.8,rf,0,RSA,seam,no,23.86875,1.25625
+3,1168,333,RSA,8,230,333,VD Philander,JC Archer,9,30,48,24.63,3764,45.16,Right-hand bat,84,87,4,1644,27.4,54.8,rf,0,RSA,seam,no,23.86875,1.25625
+3,1169,334,RSA,8,230,333,VD Philander,JC Archer,9,30,49,24.63,3764,45.16,Right-hand bat,85,87,4,1644,27.4,54.8,rf,1,RSA,seam,no,23.86875,1.25625
+3,1179,344,RSA,8,239,342,VD Philander,JC Archer,9,32,52,24.63,3764,45.16,Right-hand bat,88,89,4,1644,27.4,54.8,rf,0,RSA,seam,no,23.86875,1.25625
+3,1180,345,RSA,8,239,342,VD Philander,JC Archer,9,32,53,24.63,3764,45.16,Right-hand bat,89,89,4,1644,27.4,54.8,rf,1,RSA,seam,no,23.86875,1.25625
+3,1182,347,RSA,8,241,344,VD Philander,JC Archer,9,33,54,24.63,3764,45.16,Right-hand bat,91,91,4,1644,27.4,54.8,rf,1,RSA,seam,no,23.86875,1.25625
+3,1189,354,RSA,8,247,350,VD Philander,JC Archer,9,39,60,24.63,3764,45.16,Right-hand bat,92,92,4,1644,27.4,54.8,rf,1,RSA,seam,no,23.86875,1.25625
+3,1191,356,RSA,8,249,352,VD Philander,JC Archer,9,40,61,24.63,3764,45.16,Right-hand bat,94,94,4,1644,27.4,54.8,rf,1,RSA,seam,no,23.86875,1.25625
+3,1193,358,RSA,9,250,353,VD Philander,JC Archer,9,41,62,24.63,3764,45.16,Right-hand bat,96,95,5,1644,27.4,54.8,rf,1,RSA,seam,no,23.86875,1.25625
+3,1201,366,RSA,9,258,361,VD Philander,JC Archer,9,44,65,24.63,3764,45.16,Right-hand bat,98,96,5,1644,27.4,54.8,rf,1wd,RSA,seam,no,23.86875,1.25625
+3,1202,367,RSA,9,259,362,VD Philander,JC Archer,9,44,65,24.63,3764,45.16,Right-hand bat,99,97,5,1644,27.4,54.8,rf,1,RSA,seam,no,23.86875,1.25625

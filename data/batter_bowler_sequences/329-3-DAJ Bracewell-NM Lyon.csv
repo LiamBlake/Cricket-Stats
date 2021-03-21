@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1022,436,NZL,6,190,204,DAJ Bracewell,NM Lyon,8,4,16,3.8,108,17.59,Right-hand bat,24,12,0,1050.5,24.59,47.9,rob,0,AUS,spin,no,17.228125,1.396875
+3,1023,437,NZL,6,190,204,DAJ Bracewell,NM Lyon,8,4,17,3.8,108,17.59,Right-hand bat,25,12,0,1050.5,24.59,47.9,rob,0,AUS,spin,no,17.228125,1.396875
+3,1024,438,NZL,6,190,204,DAJ Bracewell,NM Lyon,8,4,18,3.8,108,17.59,Right-hand bat,26,12,0,1050.5,24.59,47.9,rob,0,AUS,spin,no,17.228125,1.396875
+3,1025,439,NZL,6,190,204,DAJ Bracewell,NM Lyon,8,4,19,3.8,108,17.59,Right-hand bat,27,12,0,1050.5,24.59,47.9,rob,0,AUS,spin,no,17.228125,1.396875
+3,1026,440,NZL,6,190,204,DAJ Bracewell,NM Lyon,8,4,20,3.8,108,17.59,Right-hand bat,28,12,0,1050.5,24.59,47.9,rob,0,AUS,spin,no,17.228125,1.396875
+3,1027,441,NZL,6,190,204,DAJ Bracewell,NM Lyon,8,4,21,3.8,108,17.59,Right-hand bat,29,12,0,1050.5,24.59,47.9,rob,0,AUS,spin,no,17.228125,1.396875
+3,1037,451,NZL,8,203,217,DAJ Bracewell,NM Lyon,8,4,25,3.8,108,17.59,Right-hand bat,33,22,1,1050.5,24.59,47.9,rob,0,AUS,spin,no,17.228125,1.396875
+3,1038,452,NZL,8,203,217,DAJ Bracewell,NM Lyon,8,4,26,3.8,108,17.59,Right-hand bat,34,22,1,1050.5,24.59,47.9,rob,W,AUS,spin,no,17.228125,1.396875

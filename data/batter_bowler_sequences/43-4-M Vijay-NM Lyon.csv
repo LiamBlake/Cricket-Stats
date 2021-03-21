@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1346,7,IND,0,1,-439,M Vijay,NM Lyon,1,0,6,39.84,7106,46.53,Right-hand bat,1,1,0,14718.4,33.66,63.1,rob,4b,IND,spin,no,4.258125000000001,14.666875000000001
+4,1347,8,IND,0,5,-435,M Vijay,NM Lyon,1,0,7,39.84,7106,46.53,Right-hand bat,2,1,0,14718.4,33.66,63.1,rob,0,IND,spin,no,4.258125000000001,14.666875000000001
+4,1348,9,IND,0,5,-435,M Vijay,NM Lyon,1,0,8,39.84,7106,46.53,Right-hand bat,3,1,0,14718.4,33.66,63.1,rob,0,IND,spin,no,4.258125000000001,14.666875000000001
+4,1349,10,IND,0,5,-435,M Vijay,NM Lyon,1,0,9,39.84,7106,46.53,Right-hand bat,4,1,0,14718.4,33.66,63.1,rob,0,IND,spin,no,4.258125000000001,14.666875000000001
+4,1350,11,IND,0,5,-435,M Vijay,NM Lyon,1,0,10,39.84,7106,46.53,Right-hand bat,5,1,0,14718.4,33.66,63.1,rob,1,IND,spin,no,4.258125000000001,14.666875000000001
+4,1358,19,IND,0,7,-433,M Vijay,NM Lyon,1,1,17,39.84,7106,46.53,Right-hand bat,7,3,0,14718.4,33.66,63.1,rob,0,IND,spin,no,4.258125000000001,14.666875000000001
+4,1359,20,IND,0,7,-433,M Vijay,NM Lyon,1,1,18,39.84,7106,46.53,Right-hand bat,8,3,0,14718.4,33.66,63.1,rob,1,IND,spin,no,4.258125000000001,14.666875000000001

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1342,383,SRL,3,162,-31,HMRKB Herath,IJL Trott,5,19,61,14.75,842,49.04,Left-hand bat,1,5,0,192,72,96,rm,1,ENG,seam,no,35.52930056710775,3.383742911153119
+3,1344,385,SRL,3,164,-29,HMRKB Herath,IJL Trott,5,20,62,14.75,842,49.04,Left-hand bat,3,7,0,192,72,96,rm,4,ENG,seam,no,35.52930056710775,3.383742911153119
+3,1345,386,SRL,3,168,-25,HMRKB Herath,IJL Trott,5,24,63,14.75,842,49.04,Left-hand bat,4,11,0,192,72,96,rm,0,ENG,seam,no,35.52930056710775,3.383742911153119
+3,1346,387,SRL,3,168,-25,HMRKB Herath,IJL Trott,5,24,64,14.75,842,49.04,Left-hand bat,5,11,0,192,72,96,rm,4,ENG,seam,no,35.52930056710775,3.383742911153119
+3,1353,394,SRL,3,176,-17,HMRKB Herath,IJL Trott,5,28,65,14.75,842,49.04,Left-hand bat,6,15,0,192,72,96,rm,2,ENG,seam,no,35.52930056710775,3.383742911153119
+3,1354,395,SRL,3,178,-15,HMRKB Herath,IJL Trott,5,30,66,14.75,842,49.04,Left-hand bat,7,17,0,192,72,96,rm,2,ENG,seam,no,35.52930056710775,3.383742911153119
+3,1355,396,SRL,3,180,-13,HMRKB Herath,IJL Trott,5,32,67,14.75,842,49.04,Left-hand bat,8,19,0,192,72,96,rm,0,ENG,seam,no,35.52930056710775,3.383742911153119
+3,1356,397,SRL,3,180,-13,HMRKB Herath,IJL Trott,5,32,68,14.75,842,49.04,Left-hand bat,9,19,0,192,72,96,rm,0,ENG,seam,no,35.52930056710775,3.383742911153119
+3,1357,398,SRL,3,180,-13,HMRKB Herath,IJL Trott,5,32,69,14.75,842,49.04,Left-hand bat,10,19,0,192,72,96,rm,0,ENG,seam,no,35.52930056710775,3.383742911153119
+3,1358,399,SRL,3,180,-13,HMRKB Herath,IJL Trott,5,32,70,14.75,842,49.04,Left-hand bat,11,19,0,192,72,96,rm,4,ENG,seam,no,35.52930056710775,3.383742911153119

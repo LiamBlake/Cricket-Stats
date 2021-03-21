@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,808,227,NZL,7,139,-114,TG Southee,SCJ Broad,9,0,2,82,60,136.66,Right-hand bat,71,41,1,720,38.33,80,rfm,0,NZL,seam,no,22.159970781592403,13.488677867056245
+2,815,234,NZL,7,141,-112,TG Southee,SCJ Broad,9,1,6,82,60,136.66,Right-hand bat,72,41,1,720,38.33,80,rfm,0,NZL,seam,no,22.159970781592403,13.488677867056245
+2,816,235,NZL,7,141,-112,TG Southee,SCJ Broad,9,1,7,82,60,136.66,Right-hand bat,73,41,1,720,38.33,80,rfm,0,NZL,seam,no,22.159970781592403,13.488677867056245
+2,817,236,NZL,7,141,-112,TG Southee,SCJ Broad,9,1,8,82,60,136.66,Right-hand bat,74,41,1,720,38.33,80,rfm,0,NZL,seam,no,22.159970781592403,13.488677867056245
+2,818,237,NZL,7,141,-112,TG Southee,SCJ Broad,9,1,9,82,60,136.66,Right-hand bat,75,41,1,720,38.33,80,rfm,0,NZL,seam,no,22.159970781592403,13.488677867056245
+2,819,238,NZL,7,141,-112,TG Southee,SCJ Broad,9,1,10,82,60,136.66,Right-hand bat,76,41,1,720,38.33,80,rfm,0,NZL,seam,no,22.159970781592403,13.488677867056245
+2,820,239,NZL,7,141,-112,TG Southee,SCJ Broad,9,1,11,82,60,136.66,Right-hand bat,77,41,1,720,38.33,80,rfm,0,NZL,seam,no,22.159970781592403,13.488677867056245
+2,829,248,NZL,7,151,-102,TG Southee,SCJ Broad,9,5,17,82,60,136.66,Right-hand bat,80,46,1,720,38.33,80,rfm,0,NZL,seam,no,22.159970781592403,13.488677867056245
+2,830,249,NZL,7,151,-102,TG Southee,SCJ Broad,9,5,18,82,60,136.66,Right-hand bat,81,46,1,720,38.33,80,rfm,0,NZL,seam,no,22.159970781592403,13.488677867056245
+2,831,250,NZL,7,151,-102,TG Southee,SCJ Broad,9,5,19,82,60,136.66,Right-hand bat,82,46,1,720,38.33,80,rfm,1wd,NZL,seam,no,22.159970781592403,13.488677867056245
+2,832,251,NZL,7,152,-101,TG Southee,SCJ Broad,9,5,19,82,60,136.66,Right-hand bat,83,47,1,720,38.33,80,rfm,W,NZL,seam,no,22.159970781592403,13.488677867056245

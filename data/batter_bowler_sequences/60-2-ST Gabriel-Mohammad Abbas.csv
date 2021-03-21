@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1572,682,WIN,9,241,-135,ST Gabriel,Mohammad Abbas,11,0,0,5.26,304,39.8,Right-hand bat,142,45,4,756,19.2,50.4,rmf,0,WIN,seam,yes,13.836565096952908,12.452908587257618
+2,1573,683,WIN,9,241,-135,ST Gabriel,Mohammad Abbas,11,0,1,5.26,304,39.8,Right-hand bat,143,45,4,756,19.2,50.4,rmf,0,WIN,seam,yes,13.836565096952908,12.452908587257618
+2,1574,684,WIN,9,241,-135,ST Gabriel,Mohammad Abbas,11,0,2,5.26,304,39.8,Right-hand bat,144,45,4,756,19.2,50.4,rmf,0,WIN,seam,yes,13.836565096952908,12.452908587257618
+2,1575,685,WIN,9,241,-135,ST Gabriel,Mohammad Abbas,11,0,3,5.26,304,39.8,Right-hand bat,145,45,4,756,19.2,50.4,rmf,0,WIN,seam,yes,13.836565096952908,12.452908587257618
+2,1586,696,WIN,9,247,-129,ST Gabriel,Mohammad Abbas,11,0,4,5.26,304,39.8,Right-hand bat,150,46,4,756,19.2,50.4,rmf,0,WIN,seam,yes,13.836565096952908,12.452908587257618
+2,1587,697,WIN,9,247,-129,ST Gabriel,Mohammad Abbas,11,0,5,5.26,304,39.8,Right-hand bat,151,46,4,756,19.2,50.4,rmf,W,WIN,seam,yes,13.836565096952908,12.452908587257618

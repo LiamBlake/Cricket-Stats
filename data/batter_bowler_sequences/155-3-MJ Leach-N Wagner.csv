@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2125,158,ENG,2,54,-208,MJ Leach,N Wagner,4,0,5,18.33,554,39.71,Left-hand bat,32,16,0,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2126,159,ENG,2,54,-208,MJ Leach,N Wagner,4,0,6,18.33,554,39.71,Left-hand bat,33,16,0,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2127,160,ENG,2,54,-208,MJ Leach,N Wagner,4,0,7,18.33,554,39.71,Left-hand bat,34,16,0,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2128,161,ENG,2,54,-208,MJ Leach,N Wagner,4,0,8,18.33,554,39.71,Left-hand bat,35,16,0,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299

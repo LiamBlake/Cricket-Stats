@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1019,69,RSA,3,34,-567,TB de Bruyn,Mohammed Shami,3,19,31,18.95,864,46.06,Right-hand bat,9,1,1,8196.1,28.4,50.9,rf,1,IND,seam,no,22.152,20.448
+2,1040,90,RSA,3,36,-565,TB de Bruyn,Mohammed Shami,3,20,38,18.95,864,46.06,Right-hand bat,18,3,1,8196.1,28.4,50.9,rf,0,IND,seam,no,22.152,20.448
+2,1041,91,RSA,3,36,-565,TB de Bruyn,Mohammed Shami,3,20,39,18.95,864,46.06,Right-hand bat,19,3,1,8196.1,28.4,50.9,rf,0,IND,seam,no,22.152,20.448
+2,1042,92,RSA,3,36,-565,TB de Bruyn,Mohammed Shami,3,20,40,18.95,864,46.06,Right-hand bat,20,3,1,8196.1,28.4,50.9,rf,4,IND,seam,no,22.152,20.448
+2,1043,93,RSA,3,40,-561,TB de Bruyn,Mohammed Shami,3,24,41,18.95,864,46.06,Right-hand bat,21,7,1,8196.1,28.4,50.9,rf,0,IND,seam,no,22.152,20.448
+2,1044,94,RSA,3,40,-561,TB de Bruyn,Mohammed Shami,3,24,42,18.95,864,46.06,Right-hand bat,22,7,1,8196.1,28.4,50.9,rf,0,IND,seam,no,22.152,20.448
+2,1045,95,RSA,3,40,-561,TB de Bruyn,Mohammed Shami,3,24,43,18.95,864,46.06,Right-hand bat,23,7,1,8196.1,28.4,50.9,rf,0,IND,seam,no,22.152,20.448

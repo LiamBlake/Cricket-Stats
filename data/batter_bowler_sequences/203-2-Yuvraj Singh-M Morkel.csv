@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,798,267,IND,4,123,-142,Yuvraj Singh,M Morkel,6,0,0,32.81,1888,55.61,Left-hand bat,43,27,3,852.5,32.35,50.4,rf,0,IND,seam,no,10.595703125,13.623046875
+2,805,274,IND,4,127,-138,Yuvraj Singh,M Morkel,6,0,1,32.81,1888,55.61,Left-hand bat,44,27,3,852.5,32.35,50.4,rf,0,IND,seam,no,10.595703125,13.623046875
+2,806,275,IND,4,127,-138,Yuvraj Singh,M Morkel,6,0,2,32.81,1888,55.61,Left-hand bat,45,27,3,852.5,32.35,50.4,rf,0,IND,seam,no,10.595703125,13.623046875
+2,807,276,IND,4,127,-138,Yuvraj Singh,M Morkel,6,0,3,32.81,1888,55.61,Left-hand bat,46,27,3,852.5,32.35,50.4,rf,0,IND,seam,no,10.595703125,13.623046875
+2,808,277,IND,4,127,-138,Yuvraj Singh,M Morkel,6,0,4,32.81,1888,55.61,Left-hand bat,47,27,3,852.5,32.35,50.4,rf,2b,IND,seam,no,10.595703125,13.623046875
+2,809,278,IND,4,129,-136,Yuvraj Singh,M Morkel,6,0,5,32.81,1888,55.61,Left-hand bat,48,27,3,852.5,32.35,50.4,rf,4,IND,seam,no,10.595703125,13.623046875
+2,810,279,IND,4,133,-132,Yuvraj Singh,M Morkel,6,4,6,32.81,1888,55.61,Left-hand bat,49,31,3,852.5,32.35,50.4,rf,0,IND,seam,no,10.595703125,13.623046875

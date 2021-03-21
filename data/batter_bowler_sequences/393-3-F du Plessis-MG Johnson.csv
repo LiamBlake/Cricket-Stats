@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1300,535,RSA,5,436,498,F du Plessis,MG Johnson,7,0,0,146.5,715,40.97,Right-hand bat,101,72,3,10920.4,31.17,55.7,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,1311,546,RSA,5,438,500,F du Plessis,MG Johnson,7,0,6,146.5,715,40.97,Right-hand bat,106,73,3,10920.4,31.17,55.7,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,1312,547,RSA,5,438,500,F du Plessis,MG Johnson,7,0,7,146.5,715,40.97,Right-hand bat,107,73,3,10920.4,31.17,55.7,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,1320,555,RSA,5,452,514,F du Plessis,MG Johnson,7,0,10,146.5,715,40.97,Right-hand bat,109,74,3,10920.4,31.17,55.7,lf,1,AUS,seam,yes,24.780625,7.194375000000001
+3,1322,557,RSA,5,454,516,F du Plessis,MG Johnson,7,1,11,146.5,715,40.97,Right-hand bat,111,76,3,10920.4,31.17,55.7,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,1323,558,RSA,5,454,516,F du Plessis,MG Johnson,7,1,12,146.5,715,40.97,Right-hand bat,112,76,3,10920.4,31.17,55.7,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,1324,559,RSA,5,454,516,F du Plessis,MG Johnson,7,1,13,146.5,715,40.97,Right-hand bat,113,76,3,10920.4,31.17,55.7,lf,1,AUS,seam,yes,24.780625,7.194375000000001
+3,1368,603,RSA,5,506,568,F du Plessis,MG Johnson,7,12,31,146.5,715,40.97,Right-hand bat,115,78,3,10920.4,31.17,55.7,lf,4,AUS,seam,yes,24.780625,7.194375000000001
+3,1369,604,RSA,5,510,572,F du Plessis,MG Johnson,7,16,32,146.5,715,40.97,Right-hand bat,116,82,3,10920.4,31.17,55.7,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,1370,605,RSA,5,510,572,F du Plessis,MG Johnson,7,16,33,146.5,715,40.97,Right-hand bat,117,82,3,10920.4,31.17,55.7,lf,4,AUS,seam,yes,24.780625,7.194375000000001
+3,1371,606,RSA,5,514,576,F du Plessis,MG Johnson,7,20,34,146.5,715,40.97,Right-hand bat,118,86,3,10920.4,31.17,55.7,lf,4,AUS,seam,yes,24.780625,7.194375000000001
+3,1372,607,RSA,5,518,580,F du Plessis,MG Johnson,7,24,35,146.5,715,40.97,Right-hand bat,119,90,3,10920.4,31.17,55.7,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,1384,619,RSA,5,538,600,F du Plessis,MG Johnson,7,27,37,146.5,715,40.97,Right-hand bat,125,92,3,10920.4,31.17,55.7,lf,W,AUS,seam,yes,24.780625,7.194375000000001

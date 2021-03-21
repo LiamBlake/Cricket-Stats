@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2048,63,ENG,1,20,-377,JE Root,JL Pattinson,3,0,1,48.94,12306,55.28,Right-hand bat,21,4,0,3486.3,26.97,48.4,rfm,0,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2049,64,ENG,1,20,-377,JE Root,JL Pattinson,3,0,2,48.94,12306,55.28,Right-hand bat,22,4,0,3486.3,26.97,48.4,rfm,0,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2050,65,ENG,1,20,-377,JE Root,JL Pattinson,3,0,3,48.94,12306,55.28,Right-hand bat,23,4,0,3486.3,26.97,48.4,rfm,0,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2057,72,ENG,1,20,-377,JE Root,JL Pattinson,3,0,4,48.94,12306,55.28,Right-hand bat,24,4,0,3486.3,26.97,48.4,rfm,1nb,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2058,73,ENG,1,21,-376,JE Root,JL Pattinson,3,0,5,48.94,12306,55.28,Right-hand bat,25,5,0,3486.3,26.97,48.4,rfm,0,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2059,74,ENG,1,21,-376,JE Root,JL Pattinson,3,0,6,48.94,12306,55.28,Right-hand bat,26,5,0,3486.3,26.97,48.4,rfm,0,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2060,75,ENG,1,21,-376,JE Root,JL Pattinson,3,0,7,48.94,12306,55.28,Right-hand bat,27,5,0,3486.3,26.97,48.4,rfm,0,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2061,76,ENG,1,21,-376,JE Root,JL Pattinson,3,0,8,48.94,12306,55.28,Right-hand bat,28,5,0,3486.3,26.97,48.4,rfm,0,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2062,77,ENG,1,21,-376,JE Root,JL Pattinson,3,0,9,48.94,12306,55.28,Right-hand bat,29,5,0,3486.3,26.97,48.4,rfm,4,ENG,seam,no,23.575602629656686,11.316289262235209
+4,2063,78,ENG,1,25,-372,JE Root,JL Pattinson,3,4,10,48.94,12306,55.28,Right-hand bat,30,9,0,3486.3,26.97,48.4,rfm,0,ENG,seam,no,23.575602629656686,11.316289262235209

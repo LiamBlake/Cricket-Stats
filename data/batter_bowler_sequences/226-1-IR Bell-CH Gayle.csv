@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,143,143,ENG,2,67,67,IR Bell,CH Gayle,3,27,62,40.59,5998,50.08,Right-hand bat,3,1,0,6156.5,39.94,91.9,rob,1,WIN,spin,yes,16.91111111111111,8.455555555555556
+1,145,145,ENG,2,69,69,IR Bell,CH Gayle,3,28,63,40.59,5998,50.08,Right-hand bat,5,3,0,6156.5,39.94,91.9,rob,0,WIN,spin,yes,16.91111111111111,8.455555555555556
+1,154,154,ENG,2,71,71,IR Bell,CH Gayle,3,28,69,40.59,5998,50.08,Right-hand bat,8,4,0,6156.5,39.94,91.9,rob,0,WIN,spin,yes,16.91111111111111,8.455555555555556
+1,155,155,ENG,2,71,71,IR Bell,CH Gayle,3,28,70,40.59,5998,50.08,Right-hand bat,9,4,0,6156.5,39.94,91.9,rob,0,WIN,spin,yes,16.91111111111111,8.455555555555556
+1,156,156,ENG,2,71,71,IR Bell,CH Gayle,3,28,71,40.59,5998,50.08,Right-hand bat,10,4,0,6156.5,39.94,91.9,rob,W,WIN,spin,yes,16.91111111111111,8.455555555555556

@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,595,12,WIN,1,5,-252,SD Hope,JM Anderson,3,5,5,7,60,23.33,Right-hand bat,6,0,1,22830,29.22,57.5,rfm,0,WIN,seam,no,16.194285714285716,5.605714285714286
+2,596,13,WIN,1,5,-252,SD Hope,JM Anderson,3,5,6,7,60,23.33,Right-hand bat,7,0,1,22830,29.22,57.5,rfm,0,WIN,seam,no,16.194285714285716,5.605714285714286
+2,597,14,WIN,1,5,-252,SD Hope,JM Anderson,3,5,7,7,60,23.33,Right-hand bat,8,0,1,22830,29.22,57.5,rfm,0,WIN,seam,no,16.194285714285716,5.605714285714286
+2,598,15,WIN,1,5,-252,SD Hope,JM Anderson,3,5,8,7,60,23.33,Right-hand bat,9,0,1,22830,29.22,57.5,rfm,0,WIN,seam,no,16.194285714285716,5.605714285714286
+2,599,16,WIN,1,5,-252,SD Hope,JM Anderson,3,5,9,7,60,23.33,Right-hand bat,10,0,1,22830,29.22,57.5,rfm,0,WIN,seam,no,16.194285714285716,5.605714285714286
+2,600,17,WIN,1,5,-252,SD Hope,JM Anderson,3,5,10,7,60,23.33,Right-hand bat,11,0,1,22830,29.22,57.5,rfm,0,WIN,seam,no,16.194285714285716,5.605714285714286
+2,607,24,WIN,1,5,-252,SD Hope,JM Anderson,3,5,11,7,60,23.33,Right-hand bat,12,0,1,22830,29.22,57.5,rfm,0,WIN,seam,no,16.194285714285716,5.605714285714286
+2,608,25,WIN,1,5,-252,SD Hope,JM Anderson,3,5,12,7,60,23.33,Right-hand bat,13,0,1,22830,29.22,57.5,rfm,0,WIN,seam,no,16.194285714285716,5.605714285714286
+2,609,26,WIN,1,5,-252,SD Hope,JM Anderson,3,5,13,7,60,23.33,Right-hand bat,14,0,1,22830,29.22,57.5,rfm,0,WIN,seam,no,16.194285714285716,5.605714285714286
+2,610,27,WIN,1,5,-252,SD Hope,JM Anderson,3,5,14,7,60,23.33,Right-hand bat,15,0,1,22830,29.22,57.5,rfm,0,WIN,seam,no,16.194285714285716,5.605714285714286
+2,611,28,WIN,1,5,-252,SD Hope,JM Anderson,3,5,15,7,60,23.33,Right-hand bat,16,0,1,22830,29.22,57.5,rfm,W,WIN,seam,no,16.194285714285716,5.605714285714286

@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,306,306,ZIM,5,150,150,RW Chakabva,DJG Sammy,7,6,17,21.5,391,32.99,Right-hand bat,42,17,0,5544.4,34.53,73,rm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+1,307,307,ZIM,5,150,150,RW Chakabva,DJG Sammy,7,6,18,21.5,391,32.99,Right-hand bat,43,17,0,5544.4,34.53,73,rm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+1,308,308,ZIM,5,150,150,RW Chakabva,DJG Sammy,7,6,19,21.5,391,32.99,Right-hand bat,44,17,0,5544.4,34.53,73,rm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+1,309,309,ZIM,5,150,150,RW Chakabva,DJG Sammy,7,6,20,21.5,391,32.99,Right-hand bat,45,17,0,5544.4,34.53,73,rm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+1,310,310,ZIM,5,150,150,RW Chakabva,DJG Sammy,7,6,21,21.5,391,32.99,Right-hand bat,46,17,0,5544.4,34.53,73,rm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+1,311,311,ZIM,5,150,150,RW Chakabva,DJG Sammy,7,6,22,21.5,391,32.99,Right-hand bat,47,17,0,5544.4,34.53,73,rm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+1,318,318,ZIM,5,158,158,RW Chakabva,DJG Sammy,7,6,23,21.5,391,32.99,Right-hand bat,48,17,0,5544.4,34.53,73,rm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+1,319,319,ZIM,5,158,158,RW Chakabva,DJG Sammy,7,6,24,21.5,391,32.99,Right-hand bat,49,17,0,5544.4,34.53,73,rm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+1,320,320,ZIM,5,158,158,RW Chakabva,DJG Sammy,7,6,25,21.5,391,32.99,Right-hand bat,50,17,0,5544.4,34.53,73,rm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+1,321,321,ZIM,5,158,158,RW Chakabva,DJG Sammy,7,6,26,21.5,391,32.99,Right-hand bat,51,17,0,5544.4,34.53,73,rm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+1,322,322,ZIM,5,158,158,RW Chakabva,DJG Sammy,7,6,27,21.5,391,32.99,Right-hand bat,52,17,0,5544.4,34.53,73,rm,0,WIN,seam,yes,11.2684703433923,9.279916753381892
+1,323,323,ZIM,5,158,158,RW Chakabva,DJG Sammy,7,6,28,21.5,391,32.99,Right-hand bat,53,17,0,5544.4,34.53,73,rm,0,WIN,seam,yes,11.2684703433923,9.279916753381892

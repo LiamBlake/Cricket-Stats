@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,359,12,ENG,0,1,-122,MD Stoneman,KAJ Roach,2,1,1,30,256,46.87,Left-hand bat,6,0,0,7356.4,30.2,55.3,rfm,0,WIN,seam,no,18.761706555671175,0.6253902185223725
+2,360,13,ENG,0,1,-122,MD Stoneman,KAJ Roach,2,1,2,30,256,46.87,Left-hand bat,7,0,0,7356.4,30.2,55.3,rfm,0,WIN,seam,no,18.761706555671175,0.6253902185223725
+2,361,14,ENG,0,1,-122,MD Stoneman,KAJ Roach,2,1,3,30,256,46.87,Left-hand bat,8,0,0,7356.4,30.2,55.3,rfm,0,WIN,seam,no,18.761706555671175,0.6253902185223725
+2,362,15,ENG,0,1,-122,MD Stoneman,KAJ Roach,2,1,4,30,256,46.87,Left-hand bat,9,0,0,7356.4,30.2,55.3,rfm,W,WIN,seam,no,18.761706555671175,0.6253902185223725

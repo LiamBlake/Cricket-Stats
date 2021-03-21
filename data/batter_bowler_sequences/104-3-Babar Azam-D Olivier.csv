@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1399,340,PAK,7,221,-33,Babar Azam,D Olivier,5,31,45,35.3,2298,50.69,Right-hand bat,73,60,1,966,18.81,29.2,rfm,1,RSA,seam,no,31.46722164412071,0
+3,1411,352,PAK,7,229,-25,Babar Azam,D Olivier,5,34,50,35.3,2298,50.69,Right-hand bat,79,61,1,966,18.81,29.2,rfm,4,RSA,seam,no,31.46722164412071,0
+3,1412,353,PAK,7,233,-21,Babar Azam,D Olivier,5,38,51,35.3,2298,50.69,Right-hand bat,80,65,1,966,18.81,29.2,rfm,4,RSA,seam,no,31.46722164412071,0
+3,1413,354,PAK,7,237,-17,Babar Azam,D Olivier,5,42,52,35.3,2298,50.69,Right-hand bat,81,69,1,966,18.81,29.2,rfm,4,RSA,seam,no,31.46722164412071,0
+3,1414,355,PAK,7,241,-13,Babar Azam,D Olivier,5,46,53,35.3,2298,50.69,Right-hand bat,82,73,1,966,18.81,29.2,rfm,1,RSA,seam,no,31.46722164412071,0
+3,1416,357,PAK,7,243,-11,Babar Azam,D Olivier,5,47,54,35.3,2298,50.69,Right-hand bat,84,74,1,966,18.81,29.2,rfm,4,RSA,seam,no,31.46722164412071,0
+3,1435,376,PAK,8,252,-2,Babar Azam,D Olivier,5,56,64,35.3,2298,50.69,Right-hand bat,91,78,1,966,18.81,29.2,rfm,0,RSA,seam,no,31.46722164412071,0
+3,1436,377,PAK,8,252,-2,Babar Azam,D Olivier,5,56,65,35.3,2298,50.69,Right-hand bat,92,78,1,966,18.81,29.2,rfm,0,RSA,seam,no,31.46722164412071,0
+3,1437,378,PAK,8,252,-2,Babar Azam,D Olivier,5,56,66,35.3,2298,50.69,Right-hand bat,93,78,1,966,18.81,29.2,rfm,0,RSA,seam,no,31.46722164412071,0
+3,1438,379,PAK,8,252,-2,Babar Azam,D Olivier,5,56,67,35.3,2298,50.69,Right-hand bat,94,78,1,966,18.81,29.2,rfm,0,RSA,seam,no,31.46722164412071,0
+3,1439,380,PAK,8,252,-2,Babar Azam,D Olivier,5,56,68,35.3,2298,50.69,Right-hand bat,95,78,1,966,18.81,29.2,rfm,1wd,RSA,seam,no,31.46722164412071,0
+3,1440,381,PAK,8,253,-1,Babar Azam,D Olivier,5,56,68,35.3,2298,50.69,Right-hand bat,96,79,1,966,18.81,29.2,rfm,4,RSA,seam,no,31.46722164412071,0
+3,1441,382,PAK,8,257,3,Babar Azam,D Olivier,5,60,69,35.3,2298,50.69,Right-hand bat,97,83,1,966,18.81,29.2,rfm,0,RSA,seam,no,31.46722164412071,0

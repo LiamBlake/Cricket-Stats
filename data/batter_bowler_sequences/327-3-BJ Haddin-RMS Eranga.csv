@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2355,679,AUS,5,397,240,BJ Haddin,RMS Eranga,7,0,0,37.64,3418,58.36,Right-hand bat,106,57,0,252.2,25.4,50.8,rfm,4,SRL,seam,no,29.959999999999997,12.84
+3,2356,680,AUS,5,401,244,BJ Haddin,RMS Eranga,7,4,1,37.64,3418,58.36,Right-hand bat,107,61,0,252.2,25.4,50.8,rfm,0,SRL,seam,no,29.959999999999997,12.84
+3,2357,681,AUS,5,401,244,BJ Haddin,RMS Eranga,7,4,2,37.64,3418,58.36,Right-hand bat,108,61,0,252.2,25.4,50.8,rfm,0,SRL,seam,no,29.959999999999997,12.84
+3,2358,682,AUS,5,401,244,BJ Haddin,RMS Eranga,7,4,3,37.64,3418,58.36,Right-hand bat,109,61,0,252.2,25.4,50.8,rfm,0,SRL,seam,no,29.959999999999997,12.84

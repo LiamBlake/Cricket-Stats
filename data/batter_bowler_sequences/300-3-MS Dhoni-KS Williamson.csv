@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2072,156,IND,5,43,71,MS Dhoni,KS Williamson,7,15,43,39.9,4421,59.57,Right-hand bat,0,0,0,96,67,96,rob,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2073,157,IND,5,43,71,MS Dhoni,KS Williamson,7,15,44,39.9,4421,59.57,Right-hand bat,1,0,0,96,67,96,rob,1,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2084,168,IND,5,53,81,MS Dhoni,KS Williamson,7,16,45,39.9,4421,59.57,Right-hand bat,6,6,0,96,67,96,rob,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2085,169,IND,5,53,81,MS Dhoni,KS Williamson,7,16,46,39.9,4421,59.57,Right-hand bat,7,6,0,96,67,96,rob,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2086,170,IND,5,53,81,MS Dhoni,KS Williamson,7,16,47,39.9,4421,59.57,Right-hand bat,8,6,0,96,67,96,rob,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2087,171,IND,5,53,81,MS Dhoni,KS Williamson,7,16,48,39.9,4421,59.57,Right-hand bat,9,6,0,96,67,96,rob,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2088,172,IND,5,53,81,MS Dhoni,KS Williamson,7,16,49,39.9,4421,59.57,Right-hand bat,10,6,0,96,67,96,rob,2,IND,spin,yes,15.408949011446408,24.397502601456814
+3,2089,173,IND,5,55,83,MS Dhoni,KS Williamson,7,18,50,39.9,4421,59.57,Right-hand bat,11,8,0,96,67,96,rob,0,IND,spin,yes,15.408949011446408,24.397502601456814

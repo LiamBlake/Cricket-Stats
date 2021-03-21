@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1326,137,SRL,0,74,-163,NT Paranavitana,NM Lyon,1,31,80,34.52,2844,43.7,Left-hand bat,11,7,0,354.5,25,44.8,rob,4b,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1405,216,SRL,1,104,-133,NT Paranavitana,NM Lyon,1,39,114,34.52,2844,43.7,Left-hand bat,18,8,0,354.5,25,44.8,rob,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1406,217,SRL,1,104,-133,NT Paranavitana,NM Lyon,1,39,115,34.52,2844,43.7,Left-hand bat,19,8,0,354.5,25,44.8,rob,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1407,218,SRL,1,104,-133,NT Paranavitana,NM Lyon,1,39,116,34.52,2844,43.7,Left-hand bat,20,8,0,354.5,25,44.8,rob,2,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1408,219,SRL,1,106,-131,NT Paranavitana,NM Lyon,1,41,117,34.52,2844,43.7,Left-hand bat,21,10,0,354.5,25,44.8,rob,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1409,220,SRL,1,106,-131,NT Paranavitana,NM Lyon,1,41,118,34.52,2844,43.7,Left-hand bat,22,10,0,354.5,25,44.8,rob,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1410,221,SRL,1,106,-131,NT Paranavitana,NM Lyon,1,41,119,34.52,2844,43.7,Left-hand bat,23,10,0,354.5,25,44.8,rob,1,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1420,231,SRL,1,116,-121,NT Paranavitana,NM Lyon,1,48,126,34.52,2844,43.7,Left-hand bat,27,12,0,354.5,25,44.8,rob,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1421,232,SRL,1,116,-121,NT Paranavitana,NM Lyon,1,48,127,34.52,2844,43.7,Left-hand bat,28,12,0,354.5,25,44.8,rob,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1422,233,SRL,1,116,-121,NT Paranavitana,NM Lyon,1,48,128,34.52,2844,43.7,Left-hand bat,29,12,0,354.5,25,44.8,rob,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1429,240,SRL,1,116,-121,NT Paranavitana,NM Lyon,1,48,129,34.52,2844,43.7,Left-hand bat,30,12,0,354.5,25,44.8,rob,1,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1433,244,SRL,1,118,-119,NT Paranavitana,NM Lyon,1,49,130,34.52,2844,43.7,Left-hand bat,34,14,0,354.5,25,44.8,rob,1,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1445,256,SRL,1,124,-113,NT Paranavitana,NM Lyon,1,53,132,34.52,2844,43.7,Left-hand bat,40,16,0,354.5,25,44.8,rob,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1446,257,SRL,1,124,-113,NT Paranavitana,NM Lyon,1,53,133,34.52,2844,43.7,Left-hand bat,41,16,0,354.5,25,44.8,rob,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1454,265,SRL,1,126,-111,NT Paranavitana,NM Lyon,1,53,135,34.52,2844,43.7,Left-hand bat,43,17,0,354.5,25,44.8,rob,0,SRL,spin,yes,28.98676748582231,10.23062381852552
+3,1455,266,SRL,1,126,-111,NT Paranavitana,NM Lyon,1,53,136,34.52,2844,43.7,Left-hand bat,44,17,0,354.5,25,44.8,rob,1,SRL,spin,yes,28.98676748582231,10.23062381852552

@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2433,235,AUS,7,145,-178,NM Lyon,MDK Perera,9,4,3,14.3,1356,42.18,Right-hand bat,115,65,3,3354.4,28.35,56.9,rob,1,SRL,spin,no,7.734764542936287,24.923130193905813
+4,2436,238,AUS,7,147,-176,NM Lyon,MDK Perera,9,5,4,14.3,1356,42.18,Right-hand bat,118,67,3,3354.4,28.35,56.9,rob,1,SRL,spin,no,7.734764542936287,24.923130193905813
+4,2444,246,AUS,8,157,-166,NM Lyon,MDK Perera,9,9,7,14.3,1356,42.18,Right-hand bat,120,69,3,3354.4,28.35,56.9,rob,1,SRL,spin,no,7.734764542936287,24.923130193905813
+4,2456,258,AUS,9,159,-164,NM Lyon,MDK Perera,9,11,10,14.3,1356,42.18,Right-hand bat,126,70,3,3354.4,28.35,56.9,rob,1,SRL,spin,no,7.734764542936287,24.923130193905813

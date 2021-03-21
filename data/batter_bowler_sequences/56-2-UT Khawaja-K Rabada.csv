@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,625,33,AUS,1,43,-268,UT Khawaja,K Rabada,3,0,0,42.47,4177,51.85,Left-hand bat,15,25,1,5448.3,21.56,38.9,rf,0,RSA,seam,no,20.26625,5.88375
+2,626,34,AUS,1,43,-268,UT Khawaja,K Rabada,3,0,1,42.47,4177,51.85,Left-hand bat,16,25,1,5448.3,21.56,38.9,rf,0,RSA,seam,no,20.26625,5.88375
+2,627,35,AUS,1,43,-268,UT Khawaja,K Rabada,3,0,2,42.47,4177,51.85,Left-hand bat,17,25,1,5448.3,21.56,38.9,rf,0,RSA,seam,no,20.26625,5.88375
+2,628,36,AUS,1,43,-268,UT Khawaja,K Rabada,3,0,3,42.47,4177,51.85,Left-hand bat,18,25,1,5448.3,21.56,38.9,rf,1,RSA,seam,no,20.26625,5.88375
+2,636,44,AUS,1,47,-264,UT Khawaja,K Rabada,3,3,10,42.47,4177,51.85,Left-hand bat,20,26,1,5448.3,21.56,38.9,rf,0,RSA,seam,no,20.26625,5.88375
+2,637,45,AUS,1,47,-264,UT Khawaja,K Rabada,3,3,11,42.47,4177,51.85,Left-hand bat,21,26,1,5448.3,21.56,38.9,rf,0,RSA,seam,no,20.26625,5.88375
+2,638,46,AUS,1,47,-264,UT Khawaja,K Rabada,3,3,12,42.47,4177,51.85,Left-hand bat,22,26,1,5448.3,21.56,38.9,rf,0,RSA,seam,no,20.26625,5.88375
+2,639,47,AUS,1,47,-264,UT Khawaja,K Rabada,3,3,13,42.47,4177,51.85,Left-hand bat,23,26,1,5448.3,21.56,38.9,rf,2,RSA,seam,no,20.26625,5.88375
+2,640,48,AUS,1,49,-262,UT Khawaja,K Rabada,3,5,14,42.47,4177,51.85,Left-hand bat,24,28,1,5448.3,21.56,38.9,rf,0,RSA,seam,no,20.26625,5.88375
+2,652,60,AUS,1,55,-256,UT Khawaja,K Rabada,3,5,19,42.47,4177,51.85,Left-hand bat,30,33,1,5448.3,21.56,38.9,rf,1nb,RSA,seam,no,20.26625,5.88375
+2,653,61,AUS,1,56,-255,UT Khawaja,K Rabada,3,5,20,42.47,4177,51.85,Left-hand bat,31,34,1,5448.3,21.56,38.9,rf,0,RSA,seam,no,20.26625,5.88375

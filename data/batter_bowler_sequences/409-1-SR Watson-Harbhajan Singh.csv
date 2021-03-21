@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,174,174,AUS,2,107,107,SR Watson,Harbhajan Singh,4,19,38,36.6,5053,49.99,Right-hand bat,42,29,0,28098.3,32.38,68.3,rob,1,IND,spin,yes,9.7109375,29.1328125
+1,177,177,AUS,2,111,111,SR Watson,Harbhajan Singh,4,20,39,36.6,5053,49.99,Right-hand bat,45,33,0,28098.3,32.38,68.3,rob,0,IND,spin,yes,9.7109375,29.1328125
+1,178,178,AUS,2,111,111,SR Watson,Harbhajan Singh,4,20,40,36.6,5053,49.99,Right-hand bat,46,33,0,28098.3,32.38,68.3,rob,0,IND,spin,yes,9.7109375,29.1328125
+1,179,179,AUS,2,111,111,SR Watson,Harbhajan Singh,4,20,41,36.6,5053,49.99,Right-hand bat,47,33,0,28098.3,32.38,68.3,rob,1,IND,spin,yes,9.7109375,29.1328125
+1,190,190,AUS,2,117,117,SR Watson,Harbhajan Singh,4,23,48,36.6,5053,49.99,Right-hand bat,52,37,0,28098.3,32.38,68.3,rob,0,IND,spin,yes,9.7109375,29.1328125
+1,191,191,AUS,2,117,117,SR Watson,Harbhajan Singh,4,23,49,36.6,5053,49.99,Right-hand bat,53,37,0,28098.3,32.38,68.3,rob,1,IND,spin,yes,9.7109375,29.1328125

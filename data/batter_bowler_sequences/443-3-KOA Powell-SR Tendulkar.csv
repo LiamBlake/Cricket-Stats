@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1388,138,WIN,1,62,-157,KOA Powell,SR Tendulkar,2,16,61,30.44,1757,50.25,Left-hand bat,0,0,0,4224.4,54,91.9,NA,1,IND,seam,yes,14.25,14.25
+3,1404,154,WIN,1,80,-139,KOA Powell,SR Tendulkar,2,26,67,30.44,1757,50.25,Left-hand bat,10,8,0,4224.4,54,91.9,NA,1,IND,seam,yes,14.25,14.25
+3,1412,162,WIN,1,84,-135,KOA Powell,SR Tendulkar,2,29,72,30.44,1757,50.25,Left-hand bat,12,9,0,4224.4,54,91.9,NA,1,IND,seam,yes,14.25,14.25
+3,1417,167,WIN,1,92,-127,KOA Powell,SR Tendulkar,2,30,73,30.44,1757,50.25,Left-hand bat,17,17,0,4224.4,54,91.9,NA,1,IND,seam,yes,14.25,14.25

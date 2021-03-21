@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,993,451,ENG,2,232,-11,KP Pietersen,MN Samuels,4,23,39,48.89,10679,62.73,Right-hand bat,54,23,0,2694.1,75.6,134.7,rob,0,ENG,spin,yes,28.873469387755097,4.812244897959183
+2,994,452,ENG,2,232,-11,KP Pietersen,MN Samuels,4,23,40,48.89,10679,62.73,Right-hand bat,55,23,0,2694.1,75.6,134.7,rob,1,ENG,spin,yes,28.873469387755097,4.812244897959183
+2,998,456,ENG,2,234,-9,KP Pietersen,MN Samuels,4,24,41,48.89,10679,62.73,Right-hand bat,59,25,0,2694.1,75.6,134.7,rob,1,ENG,spin,yes,28.873469387755097,4.812244897959183
+2,1006,464,ENG,2,242,-1,KP Pietersen,MN Samuels,4,31,48,48.89,10679,62.73,Right-hand bat,61,27,0,2694.1,75.6,134.7,rob,0,ENG,spin,yes,28.873469387755097,4.812244897959183
+2,1007,465,ENG,2,242,-1,KP Pietersen,MN Samuels,4,31,49,48.89,10679,62.73,Right-hand bat,62,27,0,2694.1,75.6,134.7,rob,1,ENG,spin,yes,28.873469387755097,4.812244897959183
+2,1009,467,ENG,2,244,1,KP Pietersen,MN Samuels,4,32,50,48.89,10679,62.73,Right-hand bat,64,29,0,2694.1,75.6,134.7,rob,W,ENG,spin,yes,28.873469387755097,4.812244897959183

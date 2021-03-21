@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,620,620,AUS,4,315,315,TM Head,MJ Henry,6,7,31,41.96,2164,50.41,Left-hand bat,133,73,0,2760.1,50.16,92,rfm,3,AUS,seam,yes,16.609375,15.5712890625
+1,634,634,AUS,4,323,323,TM Head,MJ Henry,6,10,34,41.96,2164,50.41,Left-hand bat,141,78,0,2760.1,50.16,92,rfm,0,AUS,seam,yes,16.609375,15.5712890625
+1,635,635,AUS,4,323,323,TM Head,MJ Henry,6,10,35,41.96,2164,50.41,Left-hand bat,142,78,0,2760.1,50.16,92,rfm,0,AUS,seam,yes,16.609375,15.5712890625
+1,636,636,AUS,4,323,323,TM Head,MJ Henry,6,10,36,41.96,2164,50.41,Left-hand bat,143,78,0,2760.1,50.16,92,rfm,0,AUS,seam,yes,16.609375,15.5712890625
+1,637,637,AUS,4,323,323,TM Head,MJ Henry,6,10,37,41.96,2164,50.41,Left-hand bat,144,78,0,2760.1,50.16,92,rfm,0,AUS,seam,yes,16.609375,15.5712890625
+1,649,649,AUS,4,327,327,TM Head,MJ Henry,6,10,40,41.96,2164,50.41,Left-hand bat,150,79,0,2760.1,50.16,92,rfm,0,AUS,seam,yes,16.609375,15.5712890625
+1,656,656,AUS,4,331,331,TM Head,MJ Henry,6,10,41,41.96,2164,50.41,Left-hand bat,151,79,0,2760.1,50.16,92,rfm,W,AUS,seam,yes,16.609375,15.5712890625

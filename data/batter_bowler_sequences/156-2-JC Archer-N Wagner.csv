@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1729,954,ENG,8,460,85,JC Archer,N Wagner,10,0,0,9,179,50.27,Right-hand bat,203,116,4,9690,26.98,51.8,lmf,0,NZL,seam,yes,47.38016528925619,2.256198347107438
+2,1730,955,ENG,8,460,85,JC Archer,N Wagner,10,0,1,9,179,50.27,Right-hand bat,204,116,4,9690,26.98,51.8,lmf,0,NZL,seam,yes,47.38016528925619,2.256198347107438
+2,1739,964,ENG,8,464,89,JC Archer,N Wagner,10,1,5,9,179,50.27,Right-hand bat,207,117,4,9690,26.98,51.8,lmf,0,NZL,seam,yes,47.38016528925619,2.256198347107438
+2,1740,965,ENG,8,464,89,JC Archer,N Wagner,10,1,6,9,179,50.27,Right-hand bat,208,117,4,9690,26.98,51.8,lmf,0,NZL,seam,yes,47.38016528925619,2.256198347107438
+2,1741,966,ENG,8,464,89,JC Archer,N Wagner,10,1,7,9,179,50.27,Right-hand bat,209,117,4,9690,26.98,51.8,lmf,0,NZL,seam,yes,47.38016528925619,2.256198347107438
+2,1742,967,ENG,8,464,89,JC Archer,N Wagner,10,1,8,9,179,50.27,Right-hand bat,210,117,4,9690,26.98,51.8,lmf,0,NZL,seam,yes,47.38016528925619,2.256198347107438
+2,1749,974,ENG,8,470,95,JC Archer,N Wagner,10,2,10,9,179,50.27,Right-hand bat,211,117,4,9690,26.98,51.8,lmf,6,NZL,seam,yes,47.38016528925619,2.256198347107438
+2,1750,975,ENG,8,476,101,JC Archer,N Wagner,10,8,11,9,179,50.27,Right-hand bat,212,123,4,9690,26.98,51.8,lmf,W,NZL,seam,yes,47.38016528925619,2.256198347107438

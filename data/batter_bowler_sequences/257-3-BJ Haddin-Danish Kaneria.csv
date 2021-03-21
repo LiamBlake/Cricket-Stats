@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1263,401,AUS,5,226,20,BJ Haddin,Danish Kaneria,7,0,0,39.58,2461,57.9,Right-hand bat,139,92,2,16812.4,33.84,67.2,rls,1,AUS,spin,yes,17.7625,6.7375
+3,1276,414,AUS,5,228,22,BJ Haddin,Danish Kaneria,7,1,7,39.58,2461,57.9,Right-hand bat,146,94,2,16812.4,33.84,67.2,rls,0,AUS,spin,yes,17.7625,6.7375
+3,1277,415,AUS,5,228,22,BJ Haddin,Danish Kaneria,7,1,8,39.58,2461,57.9,Right-hand bat,147,94,2,16812.4,33.84,67.2,rls,0,AUS,spin,yes,17.7625,6.7375
+3,1278,416,AUS,5,228,22,BJ Haddin,Danish Kaneria,7,1,9,39.58,2461,57.9,Right-hand bat,148,94,2,16812.4,33.84,67.2,rls,0,AUS,spin,yes,17.7625,6.7375
+3,1279,417,AUS,5,228,22,BJ Haddin,Danish Kaneria,7,1,10,39.58,2461,57.9,Right-hand bat,149,94,2,16812.4,33.84,67.2,rls,0,AUS,spin,yes,17.7625,6.7375
+3,1286,424,AUS,5,230,24,BJ Haddin,Danish Kaneria,7,1,11,39.58,2461,57.9,Right-hand bat,150,94,2,16812.4,33.84,67.2,rls,0,AUS,spin,yes,17.7625,6.7375
+3,1287,425,AUS,5,230,24,BJ Haddin,Danish Kaneria,7,1,12,39.58,2461,57.9,Right-hand bat,151,94,2,16812.4,33.84,67.2,rls,3,AUS,spin,yes,17.7625,6.7375
+3,1298,436,AUS,5,234,28,BJ Haddin,Danish Kaneria,7,4,13,39.58,2461,57.9,Right-hand bat,156,98,2,16812.4,33.84,67.2,rls,2,AUS,spin,yes,17.7625,6.7375
+3,1299,437,AUS,5,236,30,BJ Haddin,Danish Kaneria,7,6,14,39.58,2461,57.9,Right-hand bat,157,100,2,16812.4,33.84,67.2,rls,4,AUS,spin,yes,17.7625,6.7375
+3,1300,438,AUS,5,240,34,BJ Haddin,Danish Kaneria,7,10,15,39.58,2461,57.9,Right-hand bat,158,104,2,16812.4,33.84,67.2,rls,0,AUS,spin,yes,17.7625,6.7375
+3,1301,439,AUS,5,240,34,BJ Haddin,Danish Kaneria,7,10,16,39.58,2461,57.9,Right-hand bat,159,104,2,16812.4,33.84,67.2,rls,1,AUS,spin,yes,17.7625,6.7375
+3,1310,448,AUS,5,242,36,BJ Haddin,Danish Kaneria,7,12,21,39.58,2461,57.9,Right-hand bat,162,105,2,16812.4,33.84,67.2,rls,2,AUS,spin,yes,17.7625,6.7375
+3,1311,449,AUS,5,244,38,BJ Haddin,Danish Kaneria,7,14,22,39.58,2461,57.9,Right-hand bat,163,107,2,16812.4,33.84,67.2,rls,0,AUS,spin,yes,17.7625,6.7375
+3,1312,450,AUS,5,244,38,BJ Haddin,Danish Kaneria,7,14,23,39.58,2461,57.9,Right-hand bat,164,107,2,16812.4,33.84,67.2,rls,1,AUS,spin,yes,17.7625,6.7375
+3,1315,453,AUS,5,246,40,BJ Haddin,Danish Kaneria,7,15,24,39.58,2461,57.9,Right-hand bat,167,109,2,16812.4,33.84,67.2,rls,W,AUS,spin,yes,17.7625,6.7375

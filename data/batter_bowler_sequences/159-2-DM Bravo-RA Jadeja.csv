@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,715,133,WIN,3,59,-238,DM Bravo,RA Jadeja,4,5,10,37.81,7750,44.89,Left-hand bat,18,5,1,11622.4,23.98,59.9,lo,0,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,716,134,WIN,3,59,-238,DM Bravo,RA Jadeja,4,5,11,37.81,7750,44.89,Left-hand bat,19,5,1,11622.4,23.98,59.9,lo,0,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,717,135,WIN,3,59,-238,DM Bravo,RA Jadeja,4,5,12,37.81,7750,44.89,Left-hand bat,20,5,1,11622.4,23.98,59.9,lo,0,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,718,136,WIN,3,59,-238,DM Bravo,RA Jadeja,4,5,13,37.81,7750,44.89,Left-hand bat,21,5,1,11622.4,23.98,59.9,lo,0,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,719,137,WIN,3,59,-238,DM Bravo,RA Jadeja,4,5,14,37.81,7750,44.89,Left-hand bat,22,5,1,11622.4,23.98,59.9,lo,0,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,720,138,WIN,3,59,-238,DM Bravo,RA Jadeja,4,5,15,37.81,7750,44.89,Left-hand bat,23,5,1,11622.4,23.98,59.9,lo,0,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,727,145,WIN,3,63,-234,DM Bravo,RA Jadeja,4,5,16,37.81,7750,44.89,Left-hand bat,24,5,1,11622.4,23.98,59.9,lo,0,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,728,146,WIN,3,63,-234,DM Bravo,RA Jadeja,4,5,17,37.81,7750,44.89,Left-hand bat,25,5,1,11622.4,23.98,59.9,lo,0,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,729,147,WIN,3,63,-234,DM Bravo,RA Jadeja,4,5,18,37.81,7750,44.89,Left-hand bat,26,5,1,11622.4,23.98,59.9,lo,4,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,730,148,WIN,3,67,-230,DM Bravo,RA Jadeja,4,9,19,37.81,7750,44.89,Left-hand bat,27,9,1,11622.4,23.98,59.9,lo,6,WIN,spin,yes,20.37837837837838,5.621621621621622
+2,731,149,WIN,3,73,-224,DM Bravo,RA Jadeja,4,15,20,37.81,7750,44.89,Left-hand bat,28,15,1,11622.4,23.98,59.9,lo,1,WIN,spin,yes,20.37837837837838,5.621621621621622

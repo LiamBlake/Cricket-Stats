@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1010,278,IND,5,154,-178,RR Pant,BA Stokes,7,0,0,27,252,64.28,Left-hand bat,50,31,1,6624,33.25,59.1,rfm,0,ENG,seam,no,20.24376731301939,16.38781163434903
+2,1011,279,IND,5,154,-178,RR Pant,BA Stokes,7,0,1,27,252,64.28,Left-hand bat,51,31,1,6624,33.25,59.1,rfm,0,ENG,seam,no,20.24376731301939,16.38781163434903
+2,1012,280,IND,5,154,-178,RR Pant,BA Stokes,7,0,2,27,252,64.28,Left-hand bat,52,31,1,6624,33.25,59.1,rfm,0,ENG,seam,no,20.24376731301939,16.38781163434903
+2,1013,281,IND,5,154,-178,RR Pant,BA Stokes,7,0,3,27,252,64.28,Left-hand bat,53,31,1,6624,33.25,59.1,rfm,0,ENG,seam,no,20.24376731301939,16.38781163434903
+2,1020,288,IND,5,156,-176,RR Pant,BA Stokes,7,1,5,27,252,64.28,Left-hand bat,54,31,1,6624,33.25,59.1,rfm,0,ENG,seam,no,20.24376731301939,16.38781163434903
+2,1021,289,IND,5,156,-176,RR Pant,BA Stokes,7,1,6,27,252,64.28,Left-hand bat,55,31,1,6624,33.25,59.1,rfm,4,ENG,seam,no,20.24376731301939,16.38781163434903
+2,1022,290,IND,5,160,-172,RR Pant,BA Stokes,7,5,7,27,252,64.28,Left-hand bat,56,35,1,6624,33.25,59.1,rfm,W,ENG,seam,no,20.24376731301939,16.38781163434903

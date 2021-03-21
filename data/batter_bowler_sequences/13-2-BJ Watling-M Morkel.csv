@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1325,786,NZL,5,381,67,BJ Watling,M Morkel,7,0,0,38.05,6147,43.95,Right-hand bat,195,90,3,14172.3,29.21,56,rf,0,NZL,seam,no,28.256,7.064
+2,1326,787,NZL,5,381,67,BJ Watling,M Morkel,7,0,1,38.05,6147,43.95,Right-hand bat,196,90,3,14172.3,29.21,56,rf,0,NZL,seam,no,28.256,7.064
+2,1327,788,NZL,5,381,67,BJ Watling,M Morkel,7,0,2,38.05,6147,43.95,Right-hand bat,197,90,3,14172.3,29.21,56,rf,0,NZL,seam,no,28.256,7.064
+2,1334,795,NZL,5,381,67,BJ Watling,M Morkel,7,0,3,38.05,6147,43.95,Right-hand bat,198,90,3,14172.3,29.21,56,rf,0,NZL,seam,no,28.256,7.064
+2,1335,796,NZL,5,381,67,BJ Watling,M Morkel,7,0,4,38.05,6147,43.95,Right-hand bat,199,90,3,14172.3,29.21,56,rf,0,NZL,seam,no,28.256,7.064
+2,1336,797,NZL,5,381,67,BJ Watling,M Morkel,7,0,5,38.05,6147,43.95,Right-hand bat,200,90,3,14172.3,29.21,56,rf,0,NZL,seam,no,28.256,7.064
+2,1337,798,NZL,5,381,67,BJ Watling,M Morkel,7,0,6,38.05,6147,43.95,Right-hand bat,201,90,3,14172.3,29.21,56,rf,0,NZL,seam,no,28.256,7.064
+2,1338,799,NZL,5,381,67,BJ Watling,M Morkel,7,0,7,38.05,6147,43.95,Right-hand bat,202,90,3,14172.3,29.21,56,rf,0,NZL,seam,no,28.256,7.064
+2,1339,800,NZL,5,381,67,BJ Watling,M Morkel,7,0,8,38.05,6147,43.95,Right-hand bat,203,90,3,14172.3,29.21,56,rf,0,NZL,seam,no,28.256,7.064
+2,1409,870,NZL,6,414,100,BJ Watling,M Morkel,7,13,41,38.05,6147,43.95,Right-hand bat,206,91,3,14172.3,29.21,56,rf,0,NZL,seam,no,28.256,7.064
+2,1410,871,NZL,6,414,100,BJ Watling,M Morkel,7,13,42,38.05,6147,43.95,Right-hand bat,207,91,3,14172.3,29.21,56,rf,0,NZL,seam,no,28.256,7.064
+2,1411,872,NZL,6,414,100,BJ Watling,M Morkel,7,13,43,38.05,6147,43.95,Right-hand bat,208,91,3,14172.3,29.21,56,rf,1,NZL,seam,no,28.256,7.064
+2,1421,882,NZL,6,426,112,BJ Watling,M Morkel,7,18,48,38.05,6147,43.95,Right-hand bat,212,98,3,14172.3,29.21,56,rf,1,NZL,seam,no,28.256,7.064
+2,1423,884,NZL,6,428,114,BJ Watling,M Morkel,7,19,49,38.05,6147,43.95,Right-hand bat,214,100,3,14172.3,29.21,56,rf,0,NZL,seam,no,28.256,7.064
+2,1424,885,NZL,6,428,114,BJ Watling,M Morkel,7,19,50,38.05,6147,43.95,Right-hand bat,215,100,3,14172.3,29.21,56,rf,0,NZL,seam,no,28.256,7.064

@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1054,89,SRL,4,50,-93,N Dickwella,JO Holder,6,0,0,32.38,1673,69.69,Left-hand bat,23,8,3,5214,34.38,80.2,rmf,0,WIN,seam,no,15.609567901234568,0.91820987654321
+4,1074,109,SRL,4,74,-69,N Dickwella,JO Holder,6,6,12,32.38,1673,69.69,Left-hand bat,31,17,3,5214,34.38,80.2,rmf,0,WIN,seam,no,15.609567901234568,0.91820987654321
+4,1075,110,SRL,4,74,-69,N Dickwella,JO Holder,6,6,13,32.38,1673,69.69,Left-hand bat,32,17,3,5214,34.38,80.2,rmf,0,WIN,seam,no,15.609567901234568,0.91820987654321
+4,1076,111,SRL,4,74,-69,N Dickwella,JO Holder,6,6,14,32.38,1673,69.69,Left-hand bat,33,17,3,5214,34.38,80.2,rmf,W,WIN,seam,no,15.609567901234568,0.91820987654321

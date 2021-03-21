@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,726,726,AUS,9,364,364,JL Pattinson,RA Jadeja,10,3,3,36.16,494,43.92,Left-hand bat,186,62,2,822,32.5,102.7,lo,1,IND,spin,yes,9.7109375,29.1328125
+1,728,728,AUS,9,366,366,JL Pattinson,RA Jadeja,10,4,4,36.16,494,43.92,Left-hand bat,188,64,2,822,32.5,102.7,lo,0,IND,spin,yes,9.7109375,29.1328125
+1,729,729,AUS,9,366,366,JL Pattinson,RA Jadeja,10,4,5,36.16,494,43.92,Left-hand bat,189,64,2,822,32.5,102.7,lo,0,IND,spin,yes,9.7109375,29.1328125
+1,730,730,AUS,9,366,366,JL Pattinson,RA Jadeja,10,4,6,36.16,494,43.92,Left-hand bat,190,64,2,822,32.5,102.7,lo,0,IND,spin,yes,9.7109375,29.1328125
+1,731,731,AUS,9,366,366,JL Pattinson,RA Jadeja,10,4,7,36.16,494,43.92,Left-hand bat,191,64,2,822,32.5,102.7,lo,1,IND,spin,yes,9.7109375,29.1328125
+1,770,770,AUS,9,373,373,JL Pattinson,RA Jadeja,10,10,32,36.16,494,43.92,Left-hand bat,206,66,2,822,32.5,102.7,lo,0,IND,spin,yes,9.7109375,29.1328125
+1,771,771,AUS,9,373,373,JL Pattinson,RA Jadeja,10,10,33,36.16,494,43.92,Left-hand bat,207,66,2,822,32.5,102.7,lo,3,IND,spin,yes,9.7109375,29.1328125
+1,781,781,AUS,9,377,377,JL Pattinson,RA Jadeja,10,13,40,36.16,494,43.92,Left-hand bat,211,70,2,822,32.5,102.7,lo,0,IND,spin,yes,9.7109375,29.1328125
+1,782,782,AUS,9,377,377,JL Pattinson,RA Jadeja,10,13,41,36.16,494,43.92,Left-hand bat,212,70,2,822,32.5,102.7,lo,0,IND,spin,yes,9.7109375,29.1328125
+1,783,783,AUS,9,377,377,JL Pattinson,RA Jadeja,10,13,42,36.16,494,43.92,Left-hand bat,213,70,2,822,32.5,102.7,lo,0,IND,spin,yes,9.7109375,29.1328125
+1,784,784,AUS,9,377,377,JL Pattinson,RA Jadeja,10,13,43,36.16,494,43.92,Left-hand bat,214,70,2,822,32.5,102.7,lo,0,IND,spin,yes,9.7109375,29.1328125
+1,785,785,AUS,9,377,377,JL Pattinson,RA Jadeja,10,13,44,36.16,494,43.92,Left-hand bat,215,70,2,822,32.5,102.7,lo,1,IND,spin,yes,9.7109375,29.1328125

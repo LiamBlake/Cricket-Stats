@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1452,326,ENG,5,216,338,JC Buttler,NM Lyon,7,3,8,46.18,831,61.13,Right-hand bat,72,35,1,9900,34.31,65.1,rob,0,ENG,spin,yes,21.414375,10.310625
+3,1453,327,ENG,5,216,338,JC Buttler,NM Lyon,7,3,9,46.18,831,61.13,Right-hand bat,73,35,1,9900,34.31,65.1,rob,0,ENG,spin,yes,21.414375,10.310625
+3,1454,328,ENG,5,216,338,JC Buttler,NM Lyon,7,3,10,46.18,831,61.13,Right-hand bat,74,35,1,9900,34.31,65.1,rob,1,ENG,spin,yes,21.414375,10.310625
+3,1464,338,ENG,5,222,344,JC Buttler,NM Lyon,7,5,13,46.18,831,61.13,Right-hand bat,78,36,1,9900,34.31,65.1,rob,0,ENG,spin,yes,21.414375,10.310625
+3,1465,339,ENG,5,222,344,JC Buttler,NM Lyon,7,5,14,46.18,831,61.13,Right-hand bat,79,36,1,9900,34.31,65.1,rob,1,ENG,spin,yes,21.414375,10.310625
+3,1476,350,ENG,5,236,358,JC Buttler,NM Lyon,7,7,17,46.18,831,61.13,Right-hand bat,84,45,1,9900,34.31,65.1,rob,0,ENG,spin,yes,21.414375,10.310625
+3,1477,351,ENG,5,236,358,JC Buttler,NM Lyon,7,7,18,46.18,831,61.13,Right-hand bat,85,45,1,9900,34.31,65.1,rob,W,ENG,spin,yes,21.414375,10.310625

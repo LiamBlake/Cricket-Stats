@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,952,451,SRL,7,214,-35,N Dickwella,MJ Santner,7,30,59,30.67,2391,70.55,Left-hand bat,48,24,0,2844.2,39.08,83.7,lo,0,SRL,spin,no,9.247404844290658,22.19377162629758
+2,953,452,SRL,7,214,-35,N Dickwella,MJ Santner,7,30,60,30.67,2391,70.55,Left-hand bat,49,24,0,2844.2,39.08,83.7,lo,2,SRL,spin,no,9.247404844290658,22.19377162629758
+2,954,453,SRL,7,216,-33,N Dickwella,MJ Santner,7,32,61,30.67,2391,70.55,Left-hand bat,50,26,0,2844.2,39.08,83.7,lo,0,SRL,spin,no,9.247404844290658,22.19377162629758
+2,955,454,SRL,7,216,-33,N Dickwella,MJ Santner,7,32,62,30.67,2391,70.55,Left-hand bat,51,26,0,2844.2,39.08,83.7,lo,1,SRL,spin,no,9.247404844290658,22.19377162629758
+2,964,463,SRL,7,220,-29,N Dickwella,MJ Santner,7,35,66,30.67,2391,70.55,Left-hand bat,54,27,0,2844.2,39.08,83.7,lo,1,SRL,spin,no,9.247404844290658,22.19377162629758
+2,967,466,SRL,7,222,-27,N Dickwella,MJ Santner,7,36,67,30.67,2391,70.55,Left-hand bat,57,29,0,2844.2,39.08,83.7,lo,0,SRL,spin,no,9.247404844290658,22.19377162629758
+2,968,467,SRL,7,222,-27,N Dickwella,MJ Santner,7,36,68,30.67,2391,70.55,Left-hand bat,58,29,0,2844.2,39.08,83.7,lo,1,SRL,spin,no,9.247404844290658,22.19377162629758
+2,976,475,SRL,7,226,-23,N Dickwella,MJ Santner,7,38,70,30.67,2391,70.55,Left-hand bat,60,30,0,2844.2,39.08,83.7,lo,0,SRL,spin,no,9.247404844290658,22.19377162629758
+2,977,476,SRL,7,226,-23,N Dickwella,MJ Santner,7,38,71,30.67,2391,70.55,Left-hand bat,61,30,0,2844.2,39.08,83.7,lo,0,SRL,spin,no,9.247404844290658,22.19377162629758
+2,978,477,SRL,7,226,-23,N Dickwella,MJ Santner,7,38,72,30.67,2391,70.55,Left-hand bat,62,30,0,2844.2,39.08,83.7,lo,0,SRL,spin,no,9.247404844290658,22.19377162629758
+2,979,478,SRL,7,226,-23,N Dickwella,MJ Santner,7,38,73,30.67,2391,70.55,Left-hand bat,63,30,0,2844.2,39.08,83.7,lo,1,SRL,spin,no,9.247404844290658,22.19377162629758

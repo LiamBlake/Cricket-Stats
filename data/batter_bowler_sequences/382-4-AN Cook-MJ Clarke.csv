@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1871,79,ENG,1,56,-170,AN Cook,MJ Clarke,1,21,33,47.85,16585,47.03,Left-hand bat,0,0,0,2310,37.63,77,lo,0,ENG,spin,no,34.26222222222222,5.271111111111111
+4,1872,80,ENG,1,56,-170,AN Cook,MJ Clarke,1,21,34,47.85,16585,47.03,Left-hand bat,1,0,0,2310,37.63,77,lo,1,ENG,spin,no,34.26222222222222,5.271111111111111
+4,1874,82,ENG,1,58,-168,AN Cook,MJ Clarke,1,22,35,47.85,16585,47.03,Left-hand bat,3,2,0,2310,37.63,77,lo,0,ENG,spin,no,34.26222222222222,5.271111111111111
+4,1875,83,ENG,1,58,-168,AN Cook,MJ Clarke,1,22,36,47.85,16585,47.03,Left-hand bat,4,2,0,2310,37.63,77,lo,0,ENG,spin,no,34.26222222222222,5.271111111111111
+4,1876,84,ENG,1,58,-168,AN Cook,MJ Clarke,1,22,37,47.85,16585,47.03,Left-hand bat,5,2,0,2310,37.63,77,lo,0,ENG,spin,no,34.26222222222222,5.271111111111111
+4,1885,93,ENG,1,62,-164,AN Cook,MJ Clarke,1,24,39,47.85,16585,47.03,Left-hand bat,8,3,0,2310,37.63,77,lo,1,ENG,spin,no,34.26222222222222,5.271111111111111

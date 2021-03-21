@@ -1,0 +1,3 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1539,541,WIN,8,279,-287,SJ Benn,GP Swann,10,0,2,12.37,186,53.22,Left-hand bat,138,55,4,978.3,29.06,61.3,rob,0,WIN,spin,yes,22.253086419753085,17.80246913580247
+2,1540,542,WIN,8,279,-287,SJ Benn,GP Swann,10,0,3,12.37,186,53.22,Left-hand bat,139,55,4,978.3,29.06,61.3,rob,W,WIN,spin,yes,22.253086419753085,17.80246913580247

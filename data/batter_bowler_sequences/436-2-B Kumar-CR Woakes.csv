@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1522,538,IND,7,276,-293,B Kumar,CR Woakes,9,0,5,32.4,702,46.15,Right-hand bat,103,53,0,330,179,330,rfm,0,ENG,seam,no,21.34443288241415,20.010405827263266
+2,1523,539,IND,7,276,-293,B Kumar,CR Woakes,9,0,6,32.4,702,46.15,Right-hand bat,104,53,0,330,179,330,rfm,0,ENG,seam,no,21.34443288241415,20.010405827263266
+2,1524,540,IND,7,276,-293,B Kumar,CR Woakes,9,0,7,32.4,702,46.15,Right-hand bat,105,53,0,330,179,330,rfm,0,ENG,seam,no,21.34443288241415,20.010405827263266
+2,1525,541,IND,7,276,-293,B Kumar,CR Woakes,9,0,8,32.4,702,46.15,Right-hand bat,106,53,0,330,179,330,rfm,0,ENG,seam,no,21.34443288241415,20.010405827263266
+2,1526,542,IND,7,276,-293,B Kumar,CR Woakes,9,0,9,32.4,702,46.15,Right-hand bat,107,53,0,330,179,330,rfm,0,ENG,seam,no,21.34443288241415,20.010405827263266
+2,1533,549,IND,7,284,-285,B Kumar,CR Woakes,9,0,10,32.4,702,46.15,Right-hand bat,108,53,0,330,179,330,rfm,0,ENG,seam,no,21.34443288241415,20.010405827263266
+2,1534,550,IND,7,284,-285,B Kumar,CR Woakes,9,0,11,32.4,702,46.15,Right-hand bat,109,53,0,330,179,330,rfm,0,ENG,seam,no,21.34443288241415,20.010405827263266
+2,1535,551,IND,7,284,-285,B Kumar,CR Woakes,9,0,12,32.4,702,46.15,Right-hand bat,110,53,0,330,179,330,rfm,0,ENG,seam,no,21.34443288241415,20.010405827263266
+2,1536,552,IND,7,284,-285,B Kumar,CR Woakes,9,0,13,32.4,702,46.15,Right-hand bat,111,53,0,330,179,330,rfm,0,ENG,seam,no,21.34443288241415,20.010405827263266
+2,1537,553,IND,7,284,-285,B Kumar,CR Woakes,9,0,14,32.4,702,46.15,Right-hand bat,112,53,0,330,179,330,rfm,0,ENG,seam,no,21.34443288241415,20.010405827263266
+2,1538,554,IND,7,284,-285,B Kumar,CR Woakes,9,0,15,32.4,702,46.15,Right-hand bat,113,53,0,330,179,330,rfm,0,ENG,seam,no,21.34443288241415,20.010405827263266
+2,1545,561,IND,7,284,-285,B Kumar,CR Woakes,9,0,16,32.4,702,46.15,Right-hand bat,114,53,0,330,179,330,rfm,4,ENG,seam,no,21.34443288241415,20.010405827263266
+2,1546,562,IND,7,288,-281,B Kumar,CR Woakes,9,4,17,32.4,702,46.15,Right-hand bat,115,57,0,330,179,330,rfm,0,ENG,seam,no,21.34443288241415,20.010405827263266
+2,1547,563,IND,7,288,-281,B Kumar,CR Woakes,9,4,18,32.4,702,46.15,Right-hand bat,116,57,0,330,179,330,rfm,3,ENG,seam,no,21.34443288241415,20.010405827263266

@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1163,260,WIN,8,159,-490,SH Lewis,R Ashwin,10,0,0,2,18,22.22,Right-hand bat,50,33,3,17640.5,25.45,52.9,rob,0,IND,spin,no,7.319857312722949,28.05945303210464
+2,1164,261,WIN,8,159,-490,SH Lewis,R Ashwin,10,0,1,2,18,22.22,Right-hand bat,51,33,3,17640.5,25.45,52.9,rob,0,IND,spin,no,7.319857312722949,28.05945303210464
+2,1165,262,WIN,8,159,-490,SH Lewis,R Ashwin,10,0,2,2,18,22.22,Right-hand bat,52,33,3,17640.5,25.45,52.9,rob,W,IND,spin,no,7.319857312722949,28.05945303210464

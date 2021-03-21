@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,741,468,NZL,6,271,128,BB McCullum,Sajedul Islam,7,17,45,30.3,2069,61.52,Right-hand bat,68,69,1,216,58.33,72,lm,0,NZL,seam,yes,18.74888888888889,2.1633333333333336
+2,742,469,NZL,6,271,128,BB McCullum,Sajedul Islam,7,17,46,30.3,2069,61.52,Right-hand bat,69,69,1,216,58.33,72,lm,0,NZL,seam,yes,18.74888888888889,2.1633333333333336
+2,743,470,NZL,6,271,128,BB McCullum,Sajedul Islam,7,17,47,30.3,2069,61.52,Right-hand bat,70,69,1,216,58.33,72,lm,0,NZL,seam,yes,18.74888888888889,2.1633333333333336
+2,744,471,NZL,6,271,128,BB McCullum,Sajedul Islam,7,17,48,30.3,2069,61.52,Right-hand bat,71,69,1,216,58.33,72,lm,0,NZL,seam,yes,18.74888888888889,2.1633333333333336

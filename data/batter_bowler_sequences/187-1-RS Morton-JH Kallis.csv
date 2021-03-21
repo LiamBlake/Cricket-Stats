@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,93,93,WIN,1,71,71,RS Morton,JH Kallis,3,23,35,22.15,929,47.68,Right-hand bat,2,1,0,14964.5,31.24,66.8,rfm,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+1,94,94,WIN,1,71,71,RS Morton,JH Kallis,3,23,36,22.15,929,47.68,Right-hand bat,3,1,0,14964.5,31.24,66.8,rfm,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+1,95,95,WIN,1,71,71,RS Morton,JH Kallis,3,23,37,22.15,929,47.68,Right-hand bat,4,1,0,14964.5,31.24,66.8,rfm,W,RSA,seam,yes,26.94949494949495,3.717171717171717

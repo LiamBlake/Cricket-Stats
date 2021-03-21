@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2099,172,ENG,6,83,-298,MM Ali,K Rabada,8,0,0,27.91,2004,47.35,Left-hand bat,46,28,3,948.4,24.7,39.6,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2100,173,ENG,6,83,-298,MM Ali,K Rabada,8,0,1,27.91,2004,47.35,Left-hand bat,47,28,3,948.4,24.7,39.6,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2101,174,ENG,6,83,-298,MM Ali,K Rabada,8,0,2,27.91,2004,47.35,Left-hand bat,48,28,3,948.4,24.7,39.6,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2108,181,ENG,7,87,-294,MM Ali,K Rabada,8,0,3,27.91,2004,47.35,Left-hand bat,49,28,3,948.4,24.7,39.6,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2109,182,ENG,7,87,-294,MM Ali,K Rabada,8,0,4,27.91,2004,47.35,Left-hand bat,50,28,3,948.4,24.7,39.6,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2110,183,ENG,7,87,-294,MM Ali,K Rabada,8,0,5,27.91,2004,47.35,Left-hand bat,51,28,3,948.4,24.7,39.6,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2111,184,ENG,7,87,-294,MM Ali,K Rabada,8,0,6,27.91,2004,47.35,Left-hand bat,52,28,3,948.4,24.7,39.6,rf,1wd,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2112,185,ENG,7,88,-293,MM Ali,K Rabada,8,0,6,27.91,2004,47.35,Left-hand bat,53,29,3,948.4,24.7,39.6,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2113,186,ENG,7,88,-293,MM Ali,K Rabada,8,0,7,27.91,2004,47.35,Left-hand bat,54,29,3,948.4,24.7,39.6,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2114,187,ENG,7,88,-293,MM Ali,K Rabada,8,0,8,27.91,2004,47.35,Left-hand bat,55,29,3,948.4,24.7,39.6,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2121,194,ENG,7,90,-291,MM Ali,K Rabada,8,1,13,27.91,2004,47.35,Left-hand bat,56,29,3,948.4,24.7,39.6,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2122,195,ENG,7,90,-291,MM Ali,K Rabada,8,1,14,27.91,2004,47.35,Left-hand bat,57,29,3,948.4,24.7,39.6,rf,1,RSA,seam,no,29.506938775510207,3.8073469387755106

@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1243,52,WIN,1,33,-435,SD Hope,Kuldeep Yadav,3,0,0,30.17,2911,42.49,Right-hand bat,3,0,0,546,23.33,36.4,lc,0,IND,spin,no,7.319857312722949,28.05945303210464
+3,1244,53,WIN,1,33,-435,SD Hope,Kuldeep Yadav,3,0,1,30.17,2911,42.49,Right-hand bat,4,0,0,546,23.33,36.4,lc,0,IND,spin,no,7.319857312722949,28.05945303210464
+3,1245,54,WIN,1,33,-435,SD Hope,Kuldeep Yadav,3,0,2,30.17,2911,42.49,Right-hand bat,5,0,0,546,23.33,36.4,lc,0,IND,spin,no,7.319857312722949,28.05945303210464
+3,1276,85,WIN,1,57,-411,SD Hope,Kuldeep Yadav,3,6,16,30.17,2911,42.49,Right-hand bat,6,0,0,546,23.33,36.4,lc,1,IND,spin,no,7.319857312722949,28.05945303210464
+3,1288,97,WIN,1,65,-403,SD Hope,Kuldeep Yadav,3,8,20,30.17,2911,42.49,Right-hand bat,12,3,0,546,23.33,36.4,lc,0,IND,spin,no,7.319857312722949,28.05945303210464
+3,1289,98,WIN,1,65,-403,SD Hope,Kuldeep Yadav,3,8,21,30.17,2911,42.49,Right-hand bat,13,3,0,546,23.33,36.4,lc,0,IND,spin,no,7.319857312722949,28.05945303210464
+3,1290,99,WIN,1,65,-403,SD Hope,Kuldeep Yadav,3,8,22,30.17,2911,42.49,Right-hand bat,14,3,0,546,23.33,36.4,lc,1,IND,spin,no,7.319857312722949,28.05945303210464
+3,1301,110,WIN,1,79,-389,SD Hope,Kuldeep Yadav,3,17,29,30.17,2911,42.49,Right-hand bat,19,5,0,546,23.33,36.4,lc,0,IND,spin,no,7.319857312722949,28.05945303210464
+3,1302,111,WIN,1,79,-389,SD Hope,Kuldeep Yadav,3,17,30,30.17,2911,42.49,Right-hand bat,20,5,0,546,23.33,36.4,lc,0,IND,spin,no,7.319857312722949,28.05945303210464
+3,1303,112,WIN,1,79,-389,SD Hope,Kuldeep Yadav,3,17,31,30.17,2911,42.49,Right-hand bat,21,5,0,546,23.33,36.4,lc,0,IND,spin,no,7.319857312722949,28.05945303210464
+3,1304,113,WIN,1,79,-389,SD Hope,Kuldeep Yadav,3,17,32,30.17,2911,42.49,Right-hand bat,22,5,0,546,23.33,36.4,lc,0,IND,spin,no,7.319857312722949,28.05945303210464
+3,1305,114,WIN,1,79,-389,SD Hope,Kuldeep Yadav,3,17,33,30.17,2911,42.49,Right-hand bat,23,5,0,546,23.33,36.4,lc,W,IND,spin,no,7.319857312722949,28.05945303210464

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1140,712,AUS,7,269,80,SNJ O'Keefe,RA Jadeja,9,0,0,7.5,308,14.61,Right-hand bat,114,59,3,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875
+2,1141,713,AUS,7,269,80,SNJ O'Keefe,RA Jadeja,9,0,1,7.5,308,14.61,Right-hand bat,115,59,3,7986.5,23.44,61.9,lo,1,IND,spin,no,7.446249999999999,13.82875
+2,1143,715,AUS,7,271,82,SNJ O'Keefe,RA Jadeja,9,1,2,7.5,308,14.61,Right-hand bat,117,61,3,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875
+2,1144,716,AUS,7,271,82,SNJ O'Keefe,RA Jadeja,9,1,3,7.5,308,14.61,Right-hand bat,118,61,3,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875
+2,1145,717,AUS,7,271,82,SNJ O'Keefe,RA Jadeja,9,1,4,7.5,308,14.61,Right-hand bat,119,61,3,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875
+2,1155,727,AUS,9,275,86,SNJ O'Keefe,RA Jadeja,9,3,7,7.5,308,14.61,Right-hand bat,123,62,5,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875
+2,1156,728,AUS,9,275,86,SNJ O'Keefe,RA Jadeja,9,3,8,7.5,308,14.61,Right-hand bat,124,62,5,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875
+2,1157,729,AUS,9,275,86,SNJ O'Keefe,RA Jadeja,9,3,9,7.5,308,14.61,Right-hand bat,125,62,5,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875
+2,1164,736,AUS,9,275,86,SNJ O'Keefe,RA Jadeja,9,3,10,7.5,308,14.61,Right-hand bat,126,62,5,7986.5,23.44,61.9,lo,0,IND,spin,no,7.446249999999999,13.82875
+2,1165,737,AUS,9,275,86,SNJ O'Keefe,RA Jadeja,9,3,11,7.5,308,14.61,Right-hand bat,127,62,5,7986.5,23.44,61.9,lo,1,IND,spin,no,7.446249999999999,13.82875

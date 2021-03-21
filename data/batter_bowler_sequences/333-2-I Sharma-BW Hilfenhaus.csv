@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1509,564,IND,8,258,-346,I Sharma,BW Hilfenhaus,10,12,20,10.28,1473,29.32,Right-hand bat,132,57,1,4788.3,28.91,58.4,rfm,1nb,AUS,seam,no,25.51171875,13.36328125
+2,1510,565,IND,8,259,-345,I Sharma,BW Hilfenhaus,10,12,21,10.28,1473,29.32,Right-hand bat,133,58,1,4788.3,28.91,58.4,rfm,4,AUS,seam,no,25.51171875,13.36328125
+2,1511,566,IND,8,263,-341,I Sharma,BW Hilfenhaus,10,16,22,10.28,1473,29.32,Right-hand bat,134,62,1,4788.3,28.91,58.4,rfm,W,AUS,seam,no,25.51171875,13.36328125

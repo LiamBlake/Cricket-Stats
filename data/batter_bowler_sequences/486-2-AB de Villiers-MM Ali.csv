@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,671,66,RSA,2,29,-274,AB de Villiers,MM Ali,4,4,10,51.29,14762,53.85,Right-hand bat,6,5,0,3474,35.67,56.9,rob,4,RSA,spin,yes,17.161875000000002,8.263125
+2,672,67,RSA,2,33,-270,AB de Villiers,MM Ali,4,8,11,51.29,14762,53.85,Right-hand bat,7,9,0,3474,35.67,56.9,rob,0,RSA,spin,yes,17.161875000000002,8.263125
+2,673,68,RSA,2,33,-270,AB de Villiers,MM Ali,4,8,12,51.29,14762,53.85,Right-hand bat,8,9,0,3474,35.67,56.9,rob,2,RSA,spin,yes,17.161875000000002,8.263125
+2,674,69,RSA,2,35,-268,AB de Villiers,MM Ali,4,10,13,51.29,14762,53.85,Right-hand bat,9,11,0,3474,35.67,56.9,rob,1,RSA,spin,yes,17.161875000000002,8.263125
+2,684,79,RSA,2,39,-264,AB de Villiers,MM Ali,4,13,20,51.29,14762,53.85,Right-hand bat,13,13,0,3474,35.67,56.9,rob,1,RSA,spin,yes,17.161875000000002,8.263125
+2,769,164,RSA,2,77,-226,AB de Villiers,MM Ali,4,37,64,51.29,14762,53.85,Right-hand bat,20,15,0,3474,35.67,56.9,rob,0,RSA,spin,yes,17.161875000000002,8.263125
+2,770,165,RSA,2,77,-226,AB de Villiers,MM Ali,4,37,65,51.29,14762,53.85,Right-hand bat,21,15,0,3474,35.67,56.9,rob,6,RSA,spin,yes,17.161875000000002,8.263125
+2,771,166,RSA,2,83,-220,AB de Villiers,MM Ali,4,43,66,51.29,14762,53.85,Right-hand bat,22,21,0,3474,35.67,56.9,rob,0,RSA,spin,yes,17.161875000000002,8.263125
+2,772,167,RSA,2,83,-220,AB de Villiers,MM Ali,4,43,67,51.29,14762,53.85,Right-hand bat,23,21,0,3474,35.67,56.9,rob,0,RSA,spin,yes,17.161875000000002,8.263125
+2,783,178,RSA,2,95,-208,AB de Villiers,MM Ali,4,47,70,51.29,14762,53.85,Right-hand bat,28,28,0,3474,35.67,56.9,rob,0,RSA,spin,yes,17.161875000000002,8.263125
+2,784,179,RSA,2,95,-208,AB de Villiers,MM Ali,4,47,71,51.29,14762,53.85,Right-hand bat,29,28,0,3474,35.67,56.9,rob,0,RSA,spin,yes,17.161875000000002,8.263125
+2,791,186,RSA,2,95,-208,AB de Villiers,MM Ali,4,47,72,51.29,14762,53.85,Right-hand bat,30,28,0,3474,35.67,56.9,rob,1,RSA,spin,yes,17.161875000000002,8.263125
+2,794,189,RSA,2,99,-204,AB de Villiers,MM Ali,4,48,73,51.29,14762,53.85,Right-hand bat,33,32,0,3474,35.67,56.9,rob,0,RSA,spin,yes,17.161875000000002,8.263125
+2,795,190,RSA,2,99,-204,AB de Villiers,MM Ali,4,48,74,51.29,14762,53.85,Right-hand bat,34,32,0,3474,35.67,56.9,rob,1,RSA,spin,yes,17.161875000000002,8.263125

@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1098,435,IND,4,219,-114,VVS Laxman,PM Siddle,6,0,18,46.64,17431,49.5,Right-hand bat,91,53,1,5850.5,30.78,60.3,rfm,0,AUS,seam,no,22.4,3.2
+2,1099,436,IND,4,219,-114,VVS Laxman,PM Siddle,6,0,19,46.64,17431,49.5,Right-hand bat,92,53,1,5850.5,30.78,60.3,rfm,2,AUS,seam,no,22.4,3.2
+2,1100,437,IND,4,221,-112,VVS Laxman,PM Siddle,6,2,20,46.64,17431,49.5,Right-hand bat,93,55,1,5850.5,30.78,60.3,rfm,0,AUS,seam,no,22.4,3.2
+2,1101,438,IND,4,221,-112,VVS Laxman,PM Siddle,6,2,21,46.64,17431,49.5,Right-hand bat,94,55,1,5850.5,30.78,60.3,rfm,W,AUS,seam,no,22.4,3.2

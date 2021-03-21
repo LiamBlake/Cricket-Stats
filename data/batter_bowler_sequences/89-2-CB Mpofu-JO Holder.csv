@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,827,330,ZIM,9,151,-68,CB Mpofu,JO Holder,11,3,2,6.31,240,42.08,Right-hand bat,78,21,2,4296.4,36.25,84.3,rmf,0,WIN,seam,no,6.66875,20.00625
+2,828,331,ZIM,9,151,-68,CB Mpofu,JO Holder,11,3,3,6.31,240,42.08,Right-hand bat,79,21,2,4296.4,36.25,84.3,rmf,2,WIN,seam,no,6.66875,20.00625
+2,829,332,ZIM,9,153,-66,CB Mpofu,JO Holder,11,5,4,6.31,240,42.08,Right-hand bat,80,23,2,4296.4,36.25,84.3,rmf,0,WIN,seam,no,6.66875,20.00625
+2,830,333,ZIM,9,153,-66,CB Mpofu,JO Holder,11,5,5,6.31,240,42.08,Right-hand bat,81,23,2,4296.4,36.25,84.3,rmf,0,WIN,seam,no,6.66875,20.00625
+2,831,334,ZIM,9,153,-66,CB Mpofu,JO Holder,11,5,6,6.31,240,42.08,Right-hand bat,82,23,2,4296.4,36.25,84.3,rmf,0,WIN,seam,no,6.66875,20.00625
+2,832,335,ZIM,9,153,-66,CB Mpofu,JO Holder,11,5,7,6.31,240,42.08,Right-hand bat,83,23,2,4296.4,36.25,84.3,rmf,2,WIN,seam,no,6.66875,20.00625

@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,0,0,WIN,0,0,0,KC Brathwaite,Mohammad Amir,1,0,0,36.52,5198,42.86,Right-hand bat,0,0,0,5532.1,31.77,62.8,lf,0,WIN,seam,no,17.797979797979796,8.898989898989898
+1,1,1,WIN,0,0,0,KC Brathwaite,Mohammad Amir,1,0,1,36.52,5198,42.86,Right-hand bat,1,0,0,5532.1,31.77,62.8,lf,0,WIN,seam,no,17.797979797979796,8.898989898989898
+1,2,2,WIN,0,0,0,KC Brathwaite,Mohammad Amir,1,0,2,36.52,5198,42.86,Right-hand bat,2,0,0,5532.1,31.77,62.8,lf,1lb,WIN,seam,no,17.797979797979796,8.898989898989898

@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2502,272,IND,4,125,-258,CA Pujara,SPD Smith,6,12,45,47.11,4209,49.25,Right-hand bat,2,1,0,1020,52.42,72.8,rls,0,AUS,spin,no,33.98857142857143,8.497142857142858
+4,2503,273,IND,4,125,-258,CA Pujara,SPD Smith,6,12,46,47.11,4209,49.25,Right-hand bat,3,1,0,1020,52.42,72.8,rls,4,AUS,spin,no,33.98857142857143,8.497142857142858
+4,2504,274,IND,4,129,-254,CA Pujara,SPD Smith,6,16,47,47.11,4209,49.25,Right-hand bat,4,5,0,1020,52.42,72.8,rls,0,AUS,spin,no,33.98857142857143,8.497142857142858
+4,2505,275,IND,4,129,-254,CA Pujara,SPD Smith,6,16,48,47.11,4209,49.25,Right-hand bat,5,5,0,1020,52.42,72.8,rls,0,AUS,spin,no,33.98857142857143,8.497142857142858
+4,2512,282,IND,4,133,-250,CA Pujara,SPD Smith,6,16,52,47.11,4209,49.25,Right-hand bat,6,5,0,1020,52.42,72.8,rls,0,AUS,spin,no,33.98857142857143,8.497142857142858
+4,2513,283,IND,4,133,-250,CA Pujara,SPD Smith,6,16,53,47.11,4209,49.25,Right-hand bat,7,5,0,1020,52.42,72.8,rls,0,AUS,spin,no,33.98857142857143,8.497142857142858
+4,2514,284,IND,4,133,-250,CA Pujara,SPD Smith,6,16,54,47.11,4209,49.25,Right-hand bat,8,5,0,1020,52.42,72.8,rls,4,AUS,spin,no,33.98857142857143,8.497142857142858
+4,2515,285,IND,4,137,-246,CA Pujara,SPD Smith,6,20,55,47.11,4209,49.25,Right-hand bat,9,9,0,1020,52.42,72.8,rls,1,AUS,spin,no,33.98857142857143,8.497142857142858

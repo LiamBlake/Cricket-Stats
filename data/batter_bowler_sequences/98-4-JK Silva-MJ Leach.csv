@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1586,36,SRL,0,13,-448,JK Silva,MJ Leach,2,7,16,29.01,5191,40.24,Right-hand bat,0,0,0,540,30.57,77.1,lo,0,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1587,37,SRL,0,13,-448,JK Silva,MJ Leach,2,7,17,29.01,5191,40.24,Right-hand bat,1,0,0,540,30.57,77.1,lo,1,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1646,96,SRL,0,35,-426,JK Silva,MJ Leach,2,20,40,29.01,5191,40.24,Right-hand bat,6,2,0,540,30.57,77.1,lo,0,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1647,97,SRL,0,35,-426,JK Silva,MJ Leach,2,20,41,29.01,5191,40.24,Right-hand bat,7,2,0,540,30.57,77.1,lo,1,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1659,109,SRL,0,41,-420,JK Silva,MJ Leach,2,25,48,29.01,5191,40.24,Right-hand bat,13,4,0,540,30.57,77.1,lo,0,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1660,110,SRL,0,41,-420,JK Silva,MJ Leach,2,25,49,29.01,5191,40.24,Right-hand bat,14,4,0,540,30.57,77.1,lo,0,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1661,111,SRL,0,41,-420,JK Silva,MJ Leach,2,25,50,29.01,5191,40.24,Right-hand bat,15,4,0,540,30.57,77.1,lo,1,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1672,122,SRL,0,45,-416,JK Silva,MJ Leach,2,27,52,29.01,5191,40.24,Right-hand bat,20,6,0,540,30.57,77.1,lo,1,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1675,125,SRL,0,47,-414,JK Silva,MJ Leach,2,28,53,29.01,5191,40.24,Right-hand bat,23,8,0,540,30.57,77.1,lo,0,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1682,132,SRL,0,51,-410,JK Silva,MJ Leach,2,30,56,29.01,5191,40.24,Right-hand bat,24,8,0,540,30.57,77.1,lo,0,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1683,133,SRL,0,51,-410,JK Silva,MJ Leach,2,30,57,29.01,5191,40.24,Right-hand bat,25,8,0,540,30.57,77.1,lo,0,ENG,spin,no,5.171296296296297,25.85648148148148
+4,1684,134,SRL,0,51,-410,JK Silva,MJ Leach,2,30,58,29.01,5191,40.24,Right-hand bat,26,8,0,540,30.57,77.1,lo,W,ENG,spin,no,5.171296296296297,25.85648148148148

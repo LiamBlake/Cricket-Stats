@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,737,266,PAK,8,169,-93,Mohammad Amir,D Olivier,10,0,0,13.41,1980,37.92,Left-hand bat,62,41,4,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
+2,738,267,PAK,8,169,-93,Mohammad Amir,D Olivier,10,0,1,13.41,1980,37.92,Left-hand bat,63,41,4,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
+2,739,268,PAK,8,169,-93,Mohammad Amir,D Olivier,10,0,2,13.41,1980,37.92,Left-hand bat,64,41,4,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
+2,740,269,PAK,8,169,-93,Mohammad Amir,D Olivier,10,0,3,13.41,1980,37.92,Left-hand bat,65,41,4,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
+2,747,276,PAK,8,173,-89,Mohammad Amir,D Olivier,10,0,4,13.41,1980,37.92,Left-hand bat,66,41,4,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
+2,748,277,PAK,8,173,-89,Mohammad Amir,D Olivier,10,0,5,13.41,1980,37.92,Left-hand bat,67,41,4,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
+2,749,278,PAK,8,173,-89,Mohammad Amir,D Olivier,10,0,6,13.41,1980,37.92,Left-hand bat,68,41,4,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
+2,750,279,PAK,8,173,-89,Mohammad Amir,D Olivier,10,0,7,13.41,1980,37.92,Left-hand bat,69,41,4,1134,18.19,27.6,rfm,4,RSA,seam,no,22.378125,3.196875
+2,751,280,PAK,8,177,-85,Mohammad Amir,D Olivier,10,4,8,13.41,1980,37.92,Left-hand bat,70,45,4,1134,18.19,27.6,rfm,4,RSA,seam,no,22.378125,3.196875
+2,752,281,PAK,8,181,-81,Mohammad Amir,D Olivier,10,8,9,13.41,1980,37.92,Left-hand bat,71,49,4,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
+2,759,288,PAK,8,183,-79,Mohammad Amir,D Olivier,10,8,14,13.41,1980,37.92,Left-hand bat,72,49,4,1134,18.19,27.6,rfm,2,RSA,seam,no,22.378125,3.196875
+2,760,289,PAK,8,185,-77,Mohammad Amir,D Olivier,10,10,15,13.41,1980,37.92,Left-hand bat,73,51,4,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
+2,761,290,PAK,8,185,-77,Mohammad Amir,D Olivier,10,10,16,13.41,1980,37.92,Left-hand bat,74,51,4,1134,18.19,27.6,rfm,W,RSA,seam,no,22.378125,3.196875

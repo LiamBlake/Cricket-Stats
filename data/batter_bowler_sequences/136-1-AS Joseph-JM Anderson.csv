@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,544,544,WIN,8,265,265,AS Joseph,JM Anderson,10,0,4,3.41,162,25.3,Right-hand bat,147,34,4,32034,26.92,56.2,rfm,0,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,545,545,WIN,8,265,265,AS Joseph,JM Anderson,10,0,5,3.41,162,25.3,Right-hand bat,148,34,4,32034,26.92,56.2,rfm,0,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,546,546,WIN,8,265,265,AS Joseph,JM Anderson,10,0,6,3.41,162,25.3,Right-hand bat,149,34,4,32034,26.92,56.2,rfm,0,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,558,558,WIN,8,271,271,AS Joseph,JM Anderson,10,0,8,3.41,162,25.3,Right-hand bat,155,39,4,32034,26.92,56.2,rfm,0,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,569,569,WIN,8,273,273,AS Joseph,JM Anderson,10,0,10,3.41,162,25.3,Right-hand bat,160,40,4,32034,26.92,56.2,rfm,0,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,570,570,WIN,8,273,273,AS Joseph,JM Anderson,10,0,11,3.41,162,25.3,Right-hand bat,161,40,4,32034,26.92,56.2,rfm,0,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,581,581,WIN,8,283,283,AS Joseph,JM Anderson,10,0,12,3.41,162,25.3,Right-hand bat,166,45,4,32034,26.92,56.2,rfm,0,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,582,582,WIN,8,283,283,AS Joseph,JM Anderson,10,0,13,3.41,162,25.3,Right-hand bat,167,45,4,32034,26.92,56.2,rfm,0,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,594,594,WIN,8,285,285,AS Joseph,JM Anderson,10,0,17,3.41,162,25.3,Right-hand bat,173,46,4,32034,26.92,56.2,rfm,0,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,601,601,WIN,8,289,289,AS Joseph,JM Anderson,10,0,18,3.41,162,25.3,Right-hand bat,174,46,4,32034,26.92,56.2,rfm,0,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,602,602,WIN,8,289,289,AS Joseph,JM Anderson,10,0,19,3.41,162,25.3,Right-hand bat,175,46,4,32034,26.92,56.2,rfm,0,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,603,603,WIN,8,289,289,AS Joseph,JM Anderson,10,0,20,3.41,162,25.3,Right-hand bat,176,46,4,32034,26.92,56.2,rfm,0,WIN,seam,yes,19.01851851851852,9.50925925925926
+1,604,604,WIN,8,289,289,AS Joseph,JM Anderson,10,0,21,3.41,162,25.3,Right-hand bat,177,46,4,32034,26.92,56.2,rfm,W,WIN,seam,yes,19.01851851851852,9.50925925925926

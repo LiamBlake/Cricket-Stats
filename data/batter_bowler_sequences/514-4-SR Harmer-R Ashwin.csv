@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1445,491,RSA,7,164,-145,SR Harmer,R Ashwin,9,0,0,11.6,174,33.33,Right-hand bat,151,50,4,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,1446,492,RSA,7,164,-145,SR Harmer,R Ashwin,9,0,1,11.6,174,33.33,Right-hand bat,152,50,4,8844.4,25.93,52.3,rob,1lb,IND,spin,no,2.8525,13.4475
+4,1456,502,RSA,8,168,-141,SR Harmer,R Ashwin,9,1,7,11.6,174,33.33,Right-hand bat,156,52,5,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,1457,503,RSA,8,168,-141,SR Harmer,R Ashwin,9,1,8,11.6,174,33.33,Right-hand bat,157,52,5,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,1458,504,RSA,8,168,-141,SR Harmer,R Ashwin,9,1,9,11.6,174,33.33,Right-hand bat,158,52,5,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,1459,505,RSA,8,168,-141,SR Harmer,R Ashwin,9,1,10,11.6,174,33.33,Right-hand bat,159,52,5,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,1460,506,RSA,8,168,-141,SR Harmer,R Ashwin,9,1,11,11.6,174,33.33,Right-hand bat,160,52,5,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,1461,507,RSA,8,168,-141,SR Harmer,R Ashwin,9,1,12,11.6,174,33.33,Right-hand bat,161,52,5,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,1468,514,RSA,8,168,-141,SR Harmer,R Ashwin,9,1,13,11.6,174,33.33,Right-hand bat,162,52,5,8844.4,25.93,52.3,rob,1,IND,spin,no,2.8525,13.4475
+4,1472,518,RSA,8,174,-135,SR Harmer,R Ashwin,9,2,14,11.6,174,33.33,Right-hand bat,166,58,5,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,1473,519,RSA,8,174,-135,SR Harmer,R Ashwin,9,2,15,11.6,174,33.33,Right-hand bat,167,58,5,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,1480,526,RSA,8,176,-133,SR Harmer,R Ashwin,9,3,17,11.6,174,33.33,Right-hand bat,168,58,5,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
+4,1481,527,RSA,8,176,-133,SR Harmer,R Ashwin,9,3,18,11.6,174,33.33,Right-hand bat,169,58,5,8844.4,25.93,52.3,rob,1,IND,spin,no,2.8525,13.4475
+4,1492,538,RSA,9,178,-131,SR Harmer,R Ashwin,9,5,22,11.6,174,33.33,Right-hand bat,174,59,6,8844.4,25.93,52.3,rob,2,IND,spin,no,2.8525,13.4475
+4,1493,539,RSA,9,180,-129,SR Harmer,R Ashwin,9,7,23,11.6,174,33.33,Right-hand bat,175,61,6,8844.4,25.93,52.3,rob,1,IND,spin,no,2.8525,13.4475

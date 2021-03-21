@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1868,13,SRL,0,8,-86,TM Dilshan,A Mithun,2,3,2,44,5796,65.28,Right-hand bat,6,4,0,198,34.5,49.5,rm,0,SRL,seam,yes,26.67091836734694,17.25765306122449
+4,1869,14,SRL,0,8,-86,TM Dilshan,A Mithun,2,3,3,44,5796,65.28,Right-hand bat,7,4,0,198,34.5,49.5,rm,4,SRL,seam,yes,26.67091836734694,17.25765306122449
+4,1870,15,SRL,0,12,-82,TM Dilshan,A Mithun,2,7,4,44,5796,65.28,Right-hand bat,8,8,0,198,34.5,49.5,rm,4,SRL,seam,yes,26.67091836734694,17.25765306122449
+4,1871,16,SRL,0,16,-78,TM Dilshan,A Mithun,2,11,5,44,5796,65.28,Right-hand bat,9,12,0,198,34.5,49.5,rm,0,SRL,seam,yes,26.67091836734694,17.25765306122449
+4,1872,17,SRL,0,16,-78,TM Dilshan,A Mithun,2,11,6,44,5796,65.28,Right-hand bat,10,12,0,198,34.5,49.5,rm,2,SRL,seam,yes,26.67091836734694,17.25765306122449
+4,1873,18,SRL,0,18,-76,TM Dilshan,A Mithun,2,13,7,44,5796,65.28,Right-hand bat,11,14,0,198,34.5,49.5,rm,1,SRL,seam,yes,26.67091836734694,17.25765306122449
+4,1882,27,SRL,0,24,-70,TM Dilshan,A Mithun,2,16,12,44,5796,65.28,Right-hand bat,12,15,0,198,34.5,49.5,rm,2,SRL,seam,yes,26.67091836734694,17.25765306122449
+4,1883,28,SRL,0,26,-68,TM Dilshan,A Mithun,2,18,13,44,5796,65.28,Right-hand bat,13,17,0,198,34.5,49.5,rm,0,SRL,seam,yes,26.67091836734694,17.25765306122449
+4,1884,29,SRL,0,26,-68,TM Dilshan,A Mithun,2,18,14,44,5796,65.28,Right-hand bat,14,17,0,198,34.5,49.5,rm,2,SRL,seam,yes,26.67091836734694,17.25765306122449
+4,1885,30,SRL,0,28,-66,TM Dilshan,A Mithun,2,20,15,44,5796,65.28,Right-hand bat,15,19,0,198,34.5,49.5,rm,1wd,SRL,seam,yes,26.67091836734694,17.25765306122449
+4,1886,31,SRL,0,29,-65,TM Dilshan,A Mithun,2,20,15,44,5796,65.28,Right-hand bat,16,20,0,198,34.5,49.5,rm,1,SRL,seam,yes,26.67091836734694,17.25765306122449
+4,1898,43,SRL,0,41,-53,TM Dilshan,A Mithun,2,24,18,44,5796,65.28,Right-hand bat,22,27,0,198,34.5,49.5,rm,0,SRL,seam,yes,26.67091836734694,17.25765306122449
+4,1899,44,SRL,0,41,-53,TM Dilshan,A Mithun,2,24,19,44,5796,65.28,Right-hand bat,23,27,0,198,34.5,49.5,rm,3,SRL,seam,yes,26.67091836734694,17.25765306122449
+4,1914,59,SRL,0,63,-31,TM Dilshan,A Mithun,2,37,29,44,5796,65.28,Right-hand bat,25,30,0,198,34.5,49.5,rm,0,SRL,seam,yes,26.67091836734694,17.25765306122449
+4,1915,60,SRL,0,63,-31,TM Dilshan,A Mithun,2,37,30,44,5796,65.28,Right-hand bat,26,30,0,198,34.5,49.5,rm,1,SRL,seam,yes,26.67091836734694,17.25765306122449
+4,1918,63,SRL,0,65,-29,TM Dilshan,A Mithun,2,38,31,44,5796,65.28,Right-hand bat,29,32,0,198,34.5,49.5,rm,1,SRL,seam,yes,26.67091836734694,17.25765306122449

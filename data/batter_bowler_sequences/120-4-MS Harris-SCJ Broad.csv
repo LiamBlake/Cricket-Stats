@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1514,0,AUS,0,0,-398,MS Harris,SCJ Broad,1,0,0,24.06,737,52.23,Left-hand bat,0,0,0,26946.4,28.67,57.7,rfm,1b,ENG,seam,yes,20.83125,6.94375
+4,1526,12,AUS,0,4,-394,MS Harris,SCJ Broad,1,1,5,24.06,737,52.23,Left-hand bat,6,2,0,26946.4,28.67,57.7,rfm,0,ENG,seam,yes,20.83125,6.94375
+4,1527,13,AUS,0,4,-394,MS Harris,SCJ Broad,1,1,6,24.06,737,52.23,Left-hand bat,7,2,0,26946.4,28.67,57.7,rfm,0,ENG,seam,yes,20.83125,6.94375
+4,1528,14,AUS,0,4,-394,MS Harris,SCJ Broad,1,1,7,24.06,737,52.23,Left-hand bat,8,2,0,26946.4,28.67,57.7,rfm,0,ENG,seam,yes,20.83125,6.94375
+4,1529,15,AUS,0,4,-394,MS Harris,SCJ Broad,1,1,8,24.06,737,52.23,Left-hand bat,9,2,0,26946.4,28.67,57.7,rfm,0,ENG,seam,yes,20.83125,6.94375
+4,1530,16,AUS,0,4,-394,MS Harris,SCJ Broad,1,1,9,24.06,737,52.23,Left-hand bat,10,2,0,26946.4,28.67,57.7,rfm,0,ENG,seam,yes,20.83125,6.94375
+4,1531,17,AUS,0,4,-394,MS Harris,SCJ Broad,1,1,10,24.06,737,52.23,Left-hand bat,11,2,0,26946.4,28.67,57.7,rfm,4,ENG,seam,yes,20.83125,6.94375
+4,1540,26,AUS,0,14,-384,MS Harris,SCJ Broad,1,5,11,24.06,737,52.23,Left-hand bat,14,6,0,26946.4,28.67,57.7,rfm,0,ENG,seam,yes,20.83125,6.94375
+4,1541,27,AUS,0,14,-384,MS Harris,SCJ Broad,1,5,12,24.06,737,52.23,Left-hand bat,15,6,0,26946.4,28.67,57.7,rfm,0,ENG,seam,yes,20.83125,6.94375
+4,1542,28,AUS,0,14,-384,MS Harris,SCJ Broad,1,5,13,24.06,737,52.23,Left-hand bat,16,6,0,26946.4,28.67,57.7,rfm,4,ENG,seam,yes,20.83125,6.94375
+4,1543,29,AUS,0,18,-380,MS Harris,SCJ Broad,1,9,14,24.06,737,52.23,Left-hand bat,17,10,0,26946.4,28.67,57.7,rfm,W,ENG,seam,yes,20.83125,6.94375

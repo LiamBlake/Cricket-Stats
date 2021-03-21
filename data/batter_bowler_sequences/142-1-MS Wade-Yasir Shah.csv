@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,682,682,AUS,3,491,491,MS Wade,Yasir Shah,5,0,5,31.45,2564,51.52,Left-hand bat,176,178,0,11772.5,30.11,56.8,rls,0,AUS,spin,yes,38.449905482041586,10.680529300567107
+1,683,683,AUS,3,491,491,MS Wade,Yasir Shah,5,0,6,31.45,2564,51.52,Left-hand bat,177,178,0,11772.5,30.11,56.8,rls,1,AUS,spin,yes,38.449905482041586,10.680529300567107
+1,695,695,AUS,3,501,501,MS Wade,Yasir Shah,5,5,13,31.45,2564,51.52,Left-hand bat,183,184,0,11772.5,30.11,56.8,rls,2,AUS,spin,yes,38.449905482041586,10.680529300567107
+1,696,696,AUS,3,503,503,MS Wade,Yasir Shah,5,7,14,31.45,2564,51.52,Left-hand bat,184,186,0,11772.5,30.11,56.8,rls,1,AUS,spin,yes,38.449905482041586,10.680529300567107
+1,706,706,AUS,3,511,511,MS Wade,Yasir Shah,5,8,15,31.45,2564,51.52,Left-hand bat,188,189,0,11772.5,30.11,56.8,rls,6,AUS,spin,yes,38.449905482041586,10.680529300567107
+1,707,707,AUS,3,517,517,MS Wade,Yasir Shah,5,14,16,31.45,2564,51.52,Left-hand bat,189,195,0,11772.5,30.11,56.8,rls,1,AUS,spin,yes,38.449905482041586,10.680529300567107

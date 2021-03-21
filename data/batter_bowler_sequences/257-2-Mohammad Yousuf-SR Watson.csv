@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,621,351,PAK,2,145,18,Mohammad Yousuf,SR Watson,4,0,0,53.63,14133,52.36,Right-hand bat,70,20,0,1602.4,33.12,64.2,rfm,0,AUS,seam,no,17.7625,6.7375
+2,622,352,PAK,2,145,18,Mohammad Yousuf,SR Watson,4,0,1,53.63,14133,52.36,Right-hand bat,71,20,0,1602.4,33.12,64.2,rfm,0,AUS,seam,no,17.7625,6.7375
+2,629,359,PAK,2,147,20,Mohammad Yousuf,SR Watson,4,1,7,53.63,14133,52.36,Right-hand bat,72,20,0,1602.4,33.12,64.2,rfm,0,AUS,seam,no,17.7625,6.7375
+2,630,360,PAK,2,147,20,Mohammad Yousuf,SR Watson,4,1,8,53.63,14133,52.36,Right-hand bat,73,20,0,1602.4,33.12,64.2,rfm,2,AUS,seam,no,17.7625,6.7375
+2,631,361,PAK,2,149,22,Mohammad Yousuf,SR Watson,4,3,9,53.63,14133,52.36,Right-hand bat,74,22,0,1602.4,33.12,64.2,rfm,0,AUS,seam,no,17.7625,6.7375
+2,632,362,PAK,2,149,22,Mohammad Yousuf,SR Watson,4,3,10,53.63,14133,52.36,Right-hand bat,75,22,0,1602.4,33.12,64.2,rfm,0,AUS,seam,no,17.7625,6.7375
+2,633,363,PAK,2,149,22,Mohammad Yousuf,SR Watson,4,3,11,53.63,14133,52.36,Right-hand bat,76,22,0,1602.4,33.12,64.2,rfm,4,AUS,seam,no,17.7625,6.7375
+2,634,364,PAK,2,153,26,Mohammad Yousuf,SR Watson,4,7,12,53.63,14133,52.36,Right-hand bat,77,26,0,1602.4,33.12,64.2,rfm,0,AUS,seam,no,17.7625,6.7375

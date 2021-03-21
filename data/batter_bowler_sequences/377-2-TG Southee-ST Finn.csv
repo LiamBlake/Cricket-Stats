@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,778,178,NZL,6,85,-269,TG Southee,ST Finn,8,0,0,19.18,866,84.18,Right-hand bat,64,26,3,4194.4,28.73,47.7,rfm,4,ENG,seam,no,17.742857142857144,11.82857142857143
+2,779,179,NZL,6,89,-265,TG Southee,ST Finn,8,4,1,19.18,866,84.18,Right-hand bat,65,30,3,4194.4,28.73,47.7,rfm,0,ENG,seam,no,17.742857142857144,11.82857142857143
+2,786,186,NZL,6,93,-261,TG Southee,ST Finn,8,4,2,19.18,866,84.18,Right-hand bat,66,30,3,4194.4,28.73,47.7,rfm,4,ENG,seam,no,17.742857142857144,11.82857142857143
+2,787,187,NZL,6,97,-257,TG Southee,ST Finn,8,8,3,19.18,866,84.18,Right-hand bat,67,34,3,4194.4,28.73,47.7,rfm,0,ENG,seam,no,17.742857142857144,11.82857142857143
+2,788,188,NZL,6,97,-257,TG Southee,ST Finn,8,8,4,19.18,866,84.18,Right-hand bat,68,34,3,4194.4,28.73,47.7,rfm,0,ENG,seam,no,17.742857142857144,11.82857142857143
+2,789,189,NZL,6,97,-257,TG Southee,ST Finn,8,8,5,19.18,866,84.18,Right-hand bat,69,34,3,4194.4,28.73,47.7,rfm,0,ENG,seam,no,17.742857142857144,11.82857142857143
+2,790,190,NZL,6,97,-257,TG Southee,ST Finn,8,8,6,19.18,866,84.18,Right-hand bat,70,34,3,4194.4,28.73,47.7,rfm,2,ENG,seam,no,17.742857142857144,11.82857142857143
+2,791,191,NZL,6,99,-255,TG Southee,ST Finn,8,10,7,19.18,866,84.18,Right-hand bat,71,36,3,4194.4,28.73,47.7,rfm,0,ENG,seam,no,17.742857142857144,11.82857142857143

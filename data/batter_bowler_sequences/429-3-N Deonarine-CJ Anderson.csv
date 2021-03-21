@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1753,458,WIN,4,233,-163,N Deonarine,CJ Anderson,6,25,53,28.16,1634,41.37,Left-hand bat,43,9,0,270,23.75,67.5,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1754,459,WIN,4,233,-163,N Deonarine,CJ Anderson,6,25,54,28.16,1634,41.37,Left-hand bat,44,9,0,270,23.75,67.5,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1755,460,WIN,4,233,-163,N Deonarine,CJ Anderson,6,25,55,28.16,1634,41.37,Left-hand bat,45,9,0,270,23.75,67.5,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1756,461,WIN,4,233,-163,N Deonarine,CJ Anderson,6,25,56,28.16,1634,41.37,Left-hand bat,46,9,0,270,23.75,67.5,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1757,462,WIN,4,233,-163,N Deonarine,CJ Anderson,6,25,57,28.16,1634,41.37,Left-hand bat,47,9,0,270,23.75,67.5,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1893,598,WIN,4,301,-95,N Deonarine,CJ Anderson,6,48,123,28.16,1634,41.37,Left-hand bat,56,11,0,270,23.75,67.5,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1894,599,WIN,4,301,-95,N Deonarine,CJ Anderson,6,48,124,28.16,1634,41.37,Left-hand bat,57,11,0,270,23.75,67.5,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1895,600,WIN,4,301,-95,N Deonarine,CJ Anderson,6,48,125,28.16,1634,41.37,Left-hand bat,58,11,0,270,23.75,67.5,lmf,4,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1896,601,WIN,4,305,-91,N Deonarine,CJ Anderson,6,52,126,28.16,1634,41.37,Left-hand bat,59,15,0,270,23.75,67.5,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1906,611,WIN,4,307,-89,N Deonarine,CJ Anderson,6,52,127,28.16,1634,41.37,Left-hand bat,63,16,0,270,23.75,67.5,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1907,612,WIN,4,307,-89,N Deonarine,CJ Anderson,6,52,128,28.16,1634,41.37,Left-hand bat,64,16,0,270,23.75,67.5,lmf,W,NZL,seam,yes,28.444444444444443,14.222222222222221

@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,416,416,PAK,4,227,227,Shoaib Malik,AD Mathews,6,11,16,38.72,3156,44.16,Right-hand bat,36,19,0,234,34.5,58.5,rm,0,SRL,seam,no,19.80532598714417,21.043158861340682
+1,417,417,PAK,4,227,227,Shoaib Malik,AD Mathews,6,11,17,38.72,3156,44.16,Right-hand bat,37,19,0,234,34.5,58.5,rm,0,SRL,seam,no,19.80532598714417,21.043158861340682
+1,418,418,PAK,4,227,227,Shoaib Malik,AD Mathews,6,11,18,38.72,3156,44.16,Right-hand bat,38,19,0,234,34.5,58.5,rm,1,SRL,seam,no,19.80532598714417,21.043158861340682
+1,420,420,PAK,4,229,229,Shoaib Malik,AD Mathews,6,12,19,38.72,3156,44.16,Right-hand bat,40,21,0,234,34.5,58.5,rm,0,SRL,seam,no,19.80532598714417,21.043158861340682
+1,421,421,PAK,4,229,229,Shoaib Malik,AD Mathews,6,12,20,38.72,3156,44.16,Right-hand bat,41,21,0,234,34.5,58.5,rm,0,SRL,seam,no,19.80532598714417,21.043158861340682
+1,431,431,PAK,4,235,235,Shoaib Malik,AD Mathews,6,12,21,38.72,3156,44.16,Right-hand bat,45,22,0,234,34.5,58.5,rm,4,SRL,seam,no,19.80532598714417,21.043158861340682
+1,432,432,PAK,4,239,239,Shoaib Malik,AD Mathews,6,16,22,38.72,3156,44.16,Right-hand bat,46,26,0,234,34.5,58.5,rm,4,SRL,seam,no,19.80532598714417,21.043158861340682
+1,433,433,PAK,4,243,243,Shoaib Malik,AD Mathews,6,20,23,38.72,3156,44.16,Right-hand bat,47,30,0,234,34.5,58.5,rm,1,SRL,seam,no,19.80532598714417,21.043158861340682

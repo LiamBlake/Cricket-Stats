@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1513,26,WIN,1,19,-261,RR Sarwan,P Kumar,3,0,0,40.01,12484,46.79,Right-hand bat,14,5,0,438,23.5,54.7,rm,4,WIN,seam,yes,22.163452708907254,3.9577594123048665
+4,1514,27,WIN,1,23,-257,RR Sarwan,P Kumar,3,4,1,40.01,12484,46.79,Right-hand bat,15,9,0,438,23.5,54.7,rm,0,WIN,seam,yes,22.163452708907254,3.9577594123048665
+4,1515,28,WIN,1,23,-257,RR Sarwan,P Kumar,3,4,2,40.01,12484,46.79,Right-hand bat,16,9,0,438,23.5,54.7,rm,0,WIN,seam,yes,22.163452708907254,3.9577594123048665
+4,1516,29,WIN,1,23,-257,RR Sarwan,P Kumar,3,4,3,40.01,12484,46.79,Right-hand bat,17,9,0,438,23.5,54.7,rm,1,WIN,seam,yes,22.163452708907254,3.9577594123048665
+4,1523,36,WIN,1,27,-253,RR Sarwan,P Kumar,3,8,6,40.01,12484,46.79,Right-hand bat,18,10,0,438,23.5,54.7,rm,0,WIN,seam,yes,22.163452708907254,3.9577594123048665
+4,1524,37,WIN,1,27,-253,RR Sarwan,P Kumar,3,8,7,40.01,12484,46.79,Right-hand bat,19,10,0,438,23.5,54.7,rm,W,WIN,seam,yes,22.163452708907254,3.9577594123048665

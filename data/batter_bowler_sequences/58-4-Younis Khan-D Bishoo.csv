@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1768,37,PAK,2,14,-17,Younis Khan,D Bishoo,4,2,9,52.84,19202,52.29,Right-hand bat,1,0,0,5496.5,37.64,69.6,rls,1,WIN,spin,yes,17.797979797979796,8.898989898989898
+4,1770,39,PAK,2,16,-15,Younis Khan,D Bishoo,4,3,10,52.84,19202,52.29,Right-hand bat,3,2,0,5496.5,37.64,69.6,rls,0,WIN,spin,yes,17.797979797979796,8.898989898989898
+4,1771,40,PAK,2,16,-15,Younis Khan,D Bishoo,4,3,11,52.84,19202,52.29,Right-hand bat,4,2,0,5496.5,37.64,69.6,rls,1,WIN,spin,yes,17.797979797979796,8.898989898989898
+4,1780,49,PAK,2,20,-11,Younis Khan,D Bishoo,4,6,18,52.84,19202,52.29,Right-hand bat,7,4,0,5496.5,37.64,69.6,rls,0,WIN,spin,yes,17.797979797979796,8.898989898989898
+4,1781,50,PAK,2,20,-11,Younis Khan,D Bishoo,4,6,19,52.84,19202,52.29,Right-hand bat,8,4,0,5496.5,37.64,69.6,rls,0,WIN,spin,yes,17.797979797979796,8.898989898989898
+4,1782,51,PAK,2,20,-11,Younis Khan,D Bishoo,4,6,20,52.84,19202,52.29,Right-hand bat,9,4,0,5496.5,37.64,69.6,rls,1lb,WIN,spin,yes,17.797979797979796,8.898989898989898
+4,1791,60,PAK,2,24,-7,Younis Khan,D Bishoo,4,6,21,52.84,19202,52.29,Right-hand bat,12,7,0,5496.5,37.64,69.6,rls,0,WIN,spin,yes,17.797979797979796,8.898989898989898
+4,1792,61,PAK,2,24,-7,Younis Khan,D Bishoo,4,6,22,52.84,19202,52.29,Right-hand bat,13,7,0,5496.5,37.64,69.6,rls,W,WIN,spin,yes,17.797979797979796,8.898989898989898

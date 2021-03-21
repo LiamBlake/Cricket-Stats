@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,356,356,PAK,6,204,204,Bilal Asif,M Labuschagne,8,0,0,9.75,74,52.7,Right-hand bat,10,6,1,234,22.42,33.4,rls,0,PAK,spin,yes,11.076265614727152,13.682445759368834
+1,357,357,PAK,6,204,204,Bilal Asif,M Labuschagne,8,0,1,9.75,74,52.7,Right-hand bat,11,6,1,234,22.42,33.4,rls,0,PAK,spin,yes,11.076265614727152,13.682445759368834
+1,364,364,PAK,6,208,208,Bilal Asif,M Labuschagne,8,2,5,9.75,74,52.7,Right-hand bat,12,6,1,234,22.42,33.4,rls,3b,PAK,spin,yes,11.076265614727152,13.682445759368834
+1,366,366,PAK,6,212,212,Bilal Asif,M Labuschagne,8,2,6,9.75,74,52.7,Right-hand bat,14,7,1,234,22.42,33.4,rls,0,PAK,spin,yes,11.076265614727152,13.682445759368834
+1,367,367,PAK,6,212,212,Bilal Asif,M Labuschagne,8,2,7,9.75,74,52.7,Right-hand bat,15,7,1,234,22.42,33.4,rls,4,PAK,spin,yes,11.076265614727152,13.682445759368834
+1,368,368,PAK,6,216,216,Bilal Asif,M Labuschagne,8,6,8,9.75,74,52.7,Right-hand bat,16,11,1,234,22.42,33.4,rls,3,PAK,spin,yes,11.076265614727152,13.682445759368834
+1,378,378,PAK,6,224,224,Bilal Asif,M Labuschagne,8,10,14,9.75,74,52.7,Right-hand bat,20,17,1,234,22.42,33.4,rls,0,PAK,spin,yes,11.076265614727152,13.682445759368834
+1,379,379,PAK,6,224,224,Bilal Asif,M Labuschagne,8,10,15,9.75,74,52.7,Right-hand bat,21,17,1,234,22.42,33.4,rls,0,PAK,spin,yes,11.076265614727152,13.682445759368834
+1,380,380,PAK,6,224,224,Bilal Asif,M Labuschagne,8,10,16,9.75,74,52.7,Right-hand bat,22,17,1,234,22.42,33.4,rls,1,PAK,spin,yes,11.076265614727152,13.682445759368834
+1,388,388,PAK,6,226,226,Bilal Asif,M Labuschagne,8,12,23,9.75,74,52.7,Right-hand bat,24,18,1,234,22.42,33.4,rls,0,PAK,spin,yes,11.076265614727152,13.682445759368834
+1,389,389,PAK,6,226,226,Bilal Asif,M Labuschagne,8,12,24,9.75,74,52.7,Right-hand bat,25,18,1,234,22.42,33.4,rls,0,PAK,spin,yes,11.076265614727152,13.682445759368834
+1,390,390,PAK,6,226,226,Bilal Asif,M Labuschagne,8,12,25,9.75,74,52.7,Right-hand bat,26,18,1,234,22.42,33.4,rls,W,PAK,spin,yes,11.076265614727152,13.682445759368834

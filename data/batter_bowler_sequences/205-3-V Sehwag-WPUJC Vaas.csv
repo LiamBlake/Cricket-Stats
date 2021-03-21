@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1070,12,IND,0,5,42,V Sehwag,WPUJC Vaas,2,5,2,53.14,6608,77.2,Right-hand bat,6,0,0,22560.2,29.21,65,lfm,0,SRL,seam,yes,5.77125,19.87875
+3,1071,13,IND,0,5,42,V Sehwag,WPUJC Vaas,2,5,3,53.14,6608,77.2,Right-hand bat,7,0,0,22560.2,29.21,65,lfm,1,SRL,seam,yes,5.77125,19.87875
+3,1087,29,IND,0,17,54,V Sehwag,WPUJC Vaas,2,15,9,53.14,6608,77.2,Right-hand bat,17,2,0,22560.2,29.21,65,lfm,1,SRL,seam,yes,5.77125,19.87875
+3,1106,48,IND,0,37,74,V Sehwag,WPUJC Vaas,2,29,20,53.14,6608,77.2,Right-hand bat,24,9,0,22560.2,29.21,65,lfm,0,SRL,seam,yes,5.77125,19.87875
+3,1107,49,IND,0,37,74,V Sehwag,WPUJC Vaas,2,29,21,53.14,6608,77.2,Right-hand bat,25,9,0,22560.2,29.21,65,lfm,0,SRL,seam,yes,5.77125,19.87875
+3,1108,50,IND,0,37,74,V Sehwag,WPUJC Vaas,2,29,22,53.14,6608,77.2,Right-hand bat,26,9,0,22560.2,29.21,65,lfm,1,SRL,seam,yes,5.77125,19.87875
+3,1111,53,IND,0,43,80,V Sehwag,WPUJC Vaas,2,30,23,53.14,6608,77.2,Right-hand bat,29,15,0,22560.2,29.21,65,lfm,0,SRL,seam,yes,5.77125,19.87875
+3,1136,78,IND,0,64,101,V Sehwag,WPUJC Vaas,2,40,35,53.14,6608,77.2,Right-hand bat,30,15,0,22560.2,29.21,65,lfm,1,SRL,seam,yes,5.77125,19.87875
+3,1150,92,IND,0,76,113,V Sehwag,WPUJC Vaas,2,42,38,53.14,6608,77.2,Right-hand bat,38,21,0,22560.2,29.21,65,lfm,1,SRL,seam,yes,5.77125,19.87875
+3,1160,102,IND,0,82,119,V Sehwag,WPUJC Vaas,2,44,42,53.14,6608,77.2,Right-hand bat,42,22,0,22560.2,29.21,65,lfm,0,SRL,seam,yes,5.77125,19.87875
+3,1161,103,IND,0,82,119,V Sehwag,WPUJC Vaas,2,44,43,53.14,6608,77.2,Right-hand bat,43,22,0,22560.2,29.21,65,lfm,0,SRL,seam,yes,5.77125,19.87875
+3,1162,104,IND,0,82,119,V Sehwag,WPUJC Vaas,2,44,44,53.14,6608,77.2,Right-hand bat,44,22,0,22560.2,29.21,65,lfm,1,SRL,seam,yes,5.77125,19.87875
+3,1165,107,IND,0,84,121,V Sehwag,WPUJC Vaas,2,45,45,53.14,6608,77.2,Right-hand bat,47,24,0,22560.2,29.21,65,lfm,0,SRL,seam,yes,5.77125,19.87875
+3,1172,114,IND,0,90,127,V Sehwag,WPUJC Vaas,2,50,49,53.14,6608,77.2,Right-hand bat,48,24,0,22560.2,29.21,65,lfm,0,SRL,seam,yes,5.77125,19.87875
+3,1173,115,IND,0,90,127,V Sehwag,WPUJC Vaas,2,50,50,53.14,6608,77.2,Right-hand bat,49,24,0,22560.2,29.21,65,lfm,0,SRL,seam,yes,5.77125,19.87875
+3,1174,116,IND,0,90,127,V Sehwag,WPUJC Vaas,2,50,51,53.14,6608,77.2,Right-hand bat,50,24,0,22560.2,29.21,65,lfm,W,SRL,seam,yes,5.77125,19.87875

@@ -1,0 +1,2 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1651,469,WIN,3,231,-155,RL Chase,MJ Santner,5,0,0,38.03,2163,45.72,Right-hand bat,95,25,1,2670.3,38.96,83.5,lo,0,WIN,spin,no,30.080856123662304,3.4708680142687274

@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1135,685,NZL,8,361,79,BJ Watling,Rubel Hossain,7,36,91,34.58,1834,45.25,Right-hand bat,91,65,0,3066,78,117.9,rf,0,BAN,seam,no,18.676748582230626,24.279773156899815
+2,1136,686,NZL,8,361,79,BJ Watling,Rubel Hossain,7,36,92,34.58,1834,45.25,Right-hand bat,92,65,0,3066,78,117.9,rf,0,BAN,seam,no,18.676748582230626,24.279773156899815
+2,1137,687,NZL,8,361,79,BJ Watling,Rubel Hossain,7,36,93,34.58,1834,45.25,Right-hand bat,93,65,0,3066,78,117.9,rf,1,BAN,seam,no,18.676748582230626,24.279773156899815
+2,1140,690,NZL,8,363,81,BJ Watling,Rubel Hossain,7,37,94,34.58,1834,45.25,Right-hand bat,96,67,0,3066,78,117.9,rf,0,BAN,seam,no,18.676748582230626,24.279773156899815
+2,1150,700,NZL,8,366,84,BJ Watling,Rubel Hossain,7,37,98,34.58,1834,45.25,Right-hand bat,100,69,0,3066,78,117.9,rf,0,BAN,seam,no,18.676748582230626,24.279773156899815
+2,1151,701,NZL,8,366,84,BJ Watling,Rubel Hossain,7,37,99,34.58,1834,45.25,Right-hand bat,101,69,0,3066,78,117.9,rf,1,BAN,seam,no,18.676748582230626,24.279773156899815
+2,1153,703,NZL,8,368,86,BJ Watling,Rubel Hossain,7,38,100,34.58,1834,45.25,Right-hand bat,103,71,0,3066,78,117.9,rf,1,BAN,seam,no,18.676748582230626,24.279773156899815

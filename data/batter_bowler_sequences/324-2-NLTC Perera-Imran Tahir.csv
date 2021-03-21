@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1215,378,SRL,6,199,-381,NLTC Perera,Imran Tahir,8,0,1,14.22,192,66.66,Left-hand bat,94,34,1,900.3,36.78,64.5,rls,0,RSA,spin,yes,36.34375,12.114583333333334
+2,1216,379,SRL,6,199,-381,NLTC Perera,Imran Tahir,8,0,2,14.22,192,66.66,Left-hand bat,95,34,1,900.3,36.78,64.5,rls,0,RSA,spin,yes,36.34375,12.114583333333334
+2,1226,389,SRL,6,203,-377,NLTC Perera,Imran Tahir,8,0,4,14.22,192,66.66,Left-hand bat,99,37,1,900.3,36.78,64.5,rls,0,RSA,spin,yes,36.34375,12.114583333333334
+2,1227,390,SRL,6,203,-377,NLTC Perera,Imran Tahir,8,0,5,14.22,192,66.66,Left-hand bat,100,37,1,900.3,36.78,64.5,rls,0,RSA,spin,yes,36.34375,12.114583333333334
+2,1228,391,SRL,6,203,-377,NLTC Perera,Imran Tahir,8,0,6,14.22,192,66.66,Left-hand bat,101,37,1,900.3,36.78,64.5,rls,0,RSA,spin,yes,36.34375,12.114583333333334
+2,1235,398,SRL,6,213,-367,NLTC Perera,Imran Tahir,8,0,7,14.22,192,66.66,Left-hand bat,102,37,1,900.3,36.78,64.5,rls,1,RSA,spin,yes,36.34375,12.114583333333334
+2,1238,401,SRL,6,215,-365,NLTC Perera,Imran Tahir,8,1,8,14.22,192,66.66,Left-hand bat,105,39,1,900.3,36.78,64.5,rls,4,RSA,spin,yes,36.34375,12.114583333333334
+2,1239,402,SRL,6,219,-361,NLTC Perera,Imran Tahir,8,5,9,14.22,192,66.66,Left-hand bat,106,43,1,900.3,36.78,64.5,rls,W,RSA,spin,yes,36.34375,12.114583333333334

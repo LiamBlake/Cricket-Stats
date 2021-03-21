@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1680,172,SRL,5,83,-432,DM de Silva,MA Starc,7,0,0,32.67,2547,55.16,Right-hand bat,57,19,4,10530.2,28.2,49.9,lf,0,AUS,seam,no,32.09438775510204,6.97704081632653
+4,1681,173,SRL,5,83,-432,DM de Silva,MA Starc,7,0,1,32.67,2547,55.16,Right-hand bat,58,19,4,10530.2,28.2,49.9,lf,1wd,AUS,seam,no,32.09438775510204,6.97704081632653
+4,1682,174,SRL,5,84,-431,DM de Silva,MA Starc,7,0,1,32.67,2547,55.16,Right-hand bat,59,20,4,10530.2,28.2,49.9,lf,1,AUS,seam,no,32.09438775510204,6.97704081632653
+4,1692,184,SRL,5,88,-427,DM de Silva,MA Starc,7,1,5,32.67,2547,55.16,Right-hand bat,63,23,4,10530.2,28.2,49.9,lf,0,AUS,seam,no,32.09438775510204,6.97704081632653
+4,1693,185,SRL,5,88,-427,DM de Silva,MA Starc,7,1,6,32.67,2547,55.16,Right-hand bat,64,23,4,10530.2,28.2,49.9,lf,1,AUS,seam,no,32.09438775510204,6.97704081632653

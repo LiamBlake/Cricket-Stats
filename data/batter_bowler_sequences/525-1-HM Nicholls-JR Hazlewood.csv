@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,40,40,NZL,2,38,38,HM Nicholls,JR Hazlewood,4,0,0,33.5,147,45.57,Left-hand bat,20,13,2,3258.5,24.08,48.7,rfm,2,NZL,seam,no,25.013333333333332,10.72
+1,41,41,NZL,2,40,40,HM Nicholls,JR Hazlewood,4,2,1,33.5,147,45.57,Left-hand bat,21,15,2,3258.5,24.08,48.7,rfm,0,NZL,seam,no,25.013333333333332,10.72
+1,42,42,NZL,2,40,40,HM Nicholls,JR Hazlewood,4,2,2,33.5,147,45.57,Left-hand bat,22,15,2,3258.5,24.08,48.7,rfm,0,NZL,seam,no,25.013333333333332,10.72
+1,43,43,NZL,2,40,40,HM Nicholls,JR Hazlewood,4,2,3,33.5,147,45.57,Left-hand bat,23,15,2,3258.5,24.08,48.7,rfm,0,NZL,seam,no,25.013333333333332,10.72
+1,50,50,NZL,3,44,44,HM Nicholls,JR Hazlewood,4,2,4,33.5,147,45.57,Left-hand bat,24,15,2,3258.5,24.08,48.7,rfm,3,NZL,seam,no,25.013333333333332,10.72
+1,63,63,NZL,4,48,48,HM Nicholls,JR Hazlewood,4,5,11,33.5,147,45.57,Left-hand bat,31,18,3,3258.5,24.08,48.7,rfm,3,NZL,seam,no,25.013333333333332,10.72

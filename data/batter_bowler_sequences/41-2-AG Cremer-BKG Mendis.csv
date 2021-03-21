@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1527,597,ZIM,7,350,-187,AG Cremer,BKG Mendis,8,87,177,16.12,1233,32.68,Right-hand bat,0,0,0,36,18,36,NA,1,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1529,599,ZIM,7,352,-185,AG Cremer,BKG Mendis,8,88,178,16.12,1233,32.68,Right-hand bat,2,2,0,36,18,36,NA,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1530,600,ZIM,7,352,-185,AG Cremer,BKG Mendis,8,88,179,16.12,1233,32.68,Right-hand bat,3,2,0,36,18,36,NA,1,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1540,610,ZIM,7,362,-175,AG Cremer,BKG Mendis,8,96,184,16.12,1233,32.68,Right-hand bat,7,4,0,36,18,36,NA,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1541,611,ZIM,7,362,-175,AG Cremer,BKG Mendis,8,96,185,16.12,1233,32.68,Right-hand bat,8,4,0,36,18,36,NA,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1542,612,ZIM,7,362,-175,AG Cremer,BKG Mendis,8,96,186,16.12,1233,32.68,Right-hand bat,9,4,0,36,18,36,NA,1,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1552,622,ZIM,8,364,-173,AG Cremer,BKG Mendis,8,97,193,16.12,1233,32.68,Right-hand bat,13,6,1,36,18,36,NA,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1553,623,ZIM,8,364,-173,AG Cremer,BKG Mendis,8,97,194,16.12,1233,32.68,Right-hand bat,14,6,1,36,18,36,NA,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1554,624,ZIM,8,364,-173,AG Cremer,BKG Mendis,8,97,195,16.12,1233,32.68,Right-hand bat,15,6,1,36,18,36,NA,1,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1563,633,ZIM,9,366,-171,AG Cremer,BKG Mendis,8,99,197,16.12,1233,32.68,Right-hand bat,18,7,1,36,18,36,NA,1,ZIM,seam,no,17.616512345679013,19.689043209876544

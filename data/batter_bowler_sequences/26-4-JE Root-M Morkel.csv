@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1588,74,ENG,2,29,-444,JE Root,M Morkel,4,0,1,53.57,8695,56.06,Right-hand bat,38,14,0,14610,29.18,55.7,rf,0,RSA,seam,no,18.703484549638397,7.3477975016436545
+4,1589,75,ENG,2,29,-444,JE Root,M Morkel,4,0,2,53.57,8695,56.06,Right-hand bat,39,14,0,14610,29.18,55.7,rf,0,RSA,seam,no,18.703484549638397,7.3477975016436545
+4,1590,76,ENG,2,29,-444,JE Root,M Morkel,4,0,3,53.57,8695,56.06,Right-hand bat,40,14,0,14610,29.18,55.7,rf,0,RSA,seam,no,18.703484549638397,7.3477975016436545
+4,1591,77,ENG,2,29,-444,JE Root,M Morkel,4,0,4,53.57,8695,56.06,Right-hand bat,41,14,0,14610,29.18,55.7,rf,0,RSA,seam,no,18.703484549638397,7.3477975016436545
+4,1598,84,ENG,2,35,-438,JE Root,M Morkel,4,0,5,53.57,8695,56.06,Right-hand bat,42,14,0,14610,29.18,55.7,rf,0,RSA,seam,no,18.703484549638397,7.3477975016436545
+4,1599,85,ENG,2,35,-438,JE Root,M Morkel,4,0,6,53.57,8695,56.06,Right-hand bat,43,14,0,14610,29.18,55.7,rf,0,RSA,seam,no,18.703484549638397,7.3477975016436545
+4,1600,86,ENG,2,35,-438,JE Root,M Morkel,4,0,7,53.57,8695,56.06,Right-hand bat,44,14,0,14610,29.18,55.7,rf,0,RSA,seam,no,18.703484549638397,7.3477975016436545
+4,1601,87,ENG,2,35,-438,JE Root,M Morkel,4,0,8,53.57,8695,56.06,Right-hand bat,45,14,0,14610,29.18,55.7,rf,3,RSA,seam,no,18.703484549638397,7.3477975016436545

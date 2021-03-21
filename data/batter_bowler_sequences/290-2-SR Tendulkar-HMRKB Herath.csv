@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,837,88,IND,2,70,-450,SR Tendulkar,HMRKB Herath,4,0,3,55.48,NA,NA,Right-hand bat,16,12,0,5382.1,37.88,75.8,lo,1,SRL,spin,no,26.67091836734694,17.25765306122449
+2,846,97,IND,2,74,-446,SR Tendulkar,HMRKB Herath,4,1,8,55.48,NA,NA,Right-hand bat,19,15,0,5382.1,37.88,75.8,lo,0,SRL,spin,no,26.67091836734694,17.25765306122449
+2,847,98,IND,2,74,-446,SR Tendulkar,HMRKB Herath,4,1,9,55.48,NA,NA,Right-hand bat,20,15,0,5382.1,37.88,75.8,lo,0,SRL,spin,no,26.67091836734694,17.25765306122449
+2,848,99,IND,2,74,-446,SR Tendulkar,HMRKB Herath,4,1,10,55.48,NA,NA,Right-hand bat,21,15,0,5382.1,37.88,75.8,lo,0,SRL,spin,no,26.67091836734694,17.25765306122449
+2,849,100,IND,2,74,-446,SR Tendulkar,HMRKB Herath,4,1,11,55.48,NA,NA,Right-hand bat,22,15,0,5382.1,37.88,75.8,lo,0,SRL,spin,no,26.67091836734694,17.25765306122449
+2,850,101,IND,2,74,-446,SR Tendulkar,HMRKB Herath,4,1,12,55.48,NA,NA,Right-hand bat,23,15,0,5382.1,37.88,75.8,lo,0,SRL,spin,no,26.67091836734694,17.25765306122449
+2,858,109,IND,2,76,-444,SR Tendulkar,HMRKB Herath,4,1,13,55.48,NA,NA,Right-hand bat,25,16,0,5382.1,37.88,75.8,lo,1,SRL,spin,no,26.67091836734694,17.25765306122449
+2,862,113,IND,2,78,-442,SR Tendulkar,HMRKB Herath,4,2,14,55.48,NA,NA,Right-hand bat,29,18,0,5382.1,37.88,75.8,lo,1,SRL,spin,no,26.67091836734694,17.25765306122449
+2,874,125,IND,2,92,-428,SR Tendulkar,HMRKB Herath,4,4,18,55.48,NA,NA,Right-hand bat,35,20,0,5382.1,37.88,75.8,lo,0,SRL,spin,no,26.67091836734694,17.25765306122449

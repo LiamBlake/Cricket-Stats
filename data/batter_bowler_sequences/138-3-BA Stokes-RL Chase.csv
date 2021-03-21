@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1477,563,ENG,4,302,425,BA Stokes,RL Chase,6,19,37,33.89,5370,58.69,Left-hand bat,168,84,0,3882.2,44.46,77.6,rob,0,WIN,spin,no,23.862857142857145,5.965714285714286
+3,1484,570,ENG,4,310,433,BA Stokes,RL Chase,6,20,39,33.89,5370,58.69,Left-hand bat,169,84,0,3882.2,44.46,77.6,rob,0,WIN,spin,no,23.862857142857145,5.965714285714286
+3,1485,571,ENG,4,310,433,BA Stokes,RL Chase,6,20,40,33.89,5370,58.69,Left-hand bat,170,84,0,3882.2,44.46,77.6,rob,0,WIN,spin,no,23.862857142857145,5.965714285714286
+3,1486,572,ENG,4,310,433,BA Stokes,RL Chase,6,20,41,33.89,5370,58.69,Left-hand bat,171,84,0,3882.2,44.46,77.6,rob,1,WIN,spin,no,23.862857142857145,5.965714285714286
+3,1488,574,ENG,4,312,435,BA Stokes,RL Chase,6,21,42,33.89,5370,58.69,Left-hand bat,173,86,0,3882.2,44.46,77.6,rob,1,WIN,spin,no,23.862857142857145,5.965714285714286
+3,1496,582,ENG,4,314,437,BA Stokes,RL Chase,6,23,45,33.89,5370,58.69,Left-hand bat,175,87,0,3882.2,44.46,77.6,rob,0,WIN,spin,no,23.862857142857145,5.965714285714286
+3,1497,583,ENG,4,314,437,BA Stokes,RL Chase,6,23,46,33.89,5370,58.69,Left-hand bat,176,87,0,3882.2,44.46,77.6,rob,0,WIN,spin,no,23.862857142857145,5.965714285714286
+3,1498,584,ENG,4,314,437,BA Stokes,RL Chase,6,23,47,33.89,5370,58.69,Left-hand bat,177,87,0,3882.2,44.46,77.6,rob,1,WIN,spin,no,23.862857142857145,5.965714285714286
+3,1510,596,ENG,4,322,445,BA Stokes,RL Chase,6,28,51,33.89,5370,58.69,Left-hand bat,183,89,0,3882.2,44.46,77.6,rob,0,WIN,spin,no,23.862857142857145,5.965714285714286
+3,1511,597,ENG,4,322,445,BA Stokes,RL Chase,6,28,52,33.89,5370,58.69,Left-hand bat,184,89,0,3882.2,44.46,77.6,rob,1,WIN,spin,no,23.862857142857145,5.965714285714286

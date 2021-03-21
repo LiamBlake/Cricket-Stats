@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,465,465,AUS,2,223,223,RT Ponting,V Sehwag,2,121,236,58.5,17380,58.91,Right-hand bat,1,1,0,1866.1,38.87,77.7,rob,0,IND,spin,yes,31.866666666666667,7.966666666666667
+1,466,466,AUS,2,223,223,RT Ponting,V Sehwag,2,121,237,58.5,17380,58.91,Right-hand bat,2,1,0,1866.1,38.87,77.7,rob,0,IND,spin,yes,31.866666666666667,7.966666666666667
+1,467,467,AUS,2,223,223,RT Ponting,V Sehwag,2,121,238,58.5,17380,58.91,Right-hand bat,3,1,0,1866.1,38.87,77.7,rob,0,IND,spin,yes,31.866666666666667,7.966666666666667
+1,468,468,AUS,2,223,223,RT Ponting,V Sehwag,2,121,239,58.5,17380,58.91,Right-hand bat,4,1,0,1866.1,38.87,77.7,rob,1,IND,spin,yes,31.866666666666667,7.966666666666667

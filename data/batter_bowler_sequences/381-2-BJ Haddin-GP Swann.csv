@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1002,441,AUS,5,212,-26,BJ Haddin,GP Swann,7,2,12,34.5,4383,56.67,Right-hand bat,85,32,0,14256.1,28.35,58.1,rob,4,ENG,spin,no,19.24875,7.3012500000000005
+2,1003,442,AUS,5,216,-22,BJ Haddin,GP Swann,7,6,13,34.5,4383,56.67,Right-hand bat,86,36,0,14256.1,28.35,58.1,rob,1,ENG,spin,no,19.24875,7.3012500000000005
+2,1013,452,AUS,5,222,-16,BJ Haddin,GP Swann,7,12,18,34.5,4383,56.67,Right-hand bat,90,37,0,14256.1,28.35,58.1,rob,0,ENG,spin,no,19.24875,7.3012500000000005
+2,1014,453,AUS,5,222,-16,BJ Haddin,GP Swann,7,12,19,34.5,4383,56.67,Right-hand bat,91,37,0,14256.1,28.35,58.1,rob,0,ENG,spin,no,19.24875,7.3012500000000005
+2,1015,454,AUS,5,222,-16,BJ Haddin,GP Swann,7,12,20,34.5,4383,56.67,Right-hand bat,92,37,0,14256.1,28.35,58.1,rob,1,ENG,spin,no,19.24875,7.3012500000000005
+2,1017,456,AUS,5,224,-14,BJ Haddin,GP Swann,7,13,21,34.5,4383,56.67,Right-hand bat,94,39,0,14256.1,28.35,58.1,rob,W,ENG,spin,no,19.24875,7.3012500000000005

@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2136,347,NZL,5,135,-246,C de Grandhomme,MA Wood,7,0,0,38.35,682,78.73,Right-hand bat,40,15,1,2118.3,41.82,75.7,rf,0,ENG,seam,yes,29.628926223520818,2.6143170197224253
+4,2137,348,NZL,5,135,-246,C de Grandhomme,MA Wood,7,0,1,38.35,682,78.73,Right-hand bat,41,15,1,2118.3,41.82,75.7,rf,4,ENG,seam,yes,29.628926223520818,2.6143170197224253
+4,2147,358,NZL,5,143,-238,C de Grandhomme,MA Wood,7,4,4,38.35,682,78.73,Right-hand bat,45,22,1,2118.3,41.82,75.7,rf,1,ENG,seam,yes,29.628926223520818,2.6143170197224253
+4,2149,360,NZL,5,145,-236,C de Grandhomme,MA Wood,7,5,5,38.35,682,78.73,Right-hand bat,47,24,1,2118.3,41.82,75.7,rf,0,ENG,seam,yes,29.628926223520818,2.6143170197224253
+4,2156,367,NZL,5,149,-232,C de Grandhomme,MA Wood,7,5,6,38.35,682,78.73,Right-hand bat,48,24,1,2118.3,41.82,75.7,rf,1,ENG,seam,yes,29.628926223520818,2.6143170197224253
+4,2242,453,NZL,6,175,-206,C de Grandhomme,MA Wood,7,16,43,38.35,682,78.73,Right-hand bat,68,28,1,2118.3,41.82,75.7,rf,0,ENG,seam,yes,29.628926223520818,2.6143170197224253
+4,2243,454,NZL,6,175,-206,C de Grandhomme,MA Wood,7,16,44,38.35,682,78.73,Right-hand bat,69,28,1,2118.3,41.82,75.7,rf,0,ENG,seam,yes,29.628926223520818,2.6143170197224253
+4,2244,455,NZL,6,175,-206,C de Grandhomme,MA Wood,7,16,45,38.35,682,78.73,Right-hand bat,70,28,1,2118.3,41.82,75.7,rf,1,ENG,seam,yes,29.628926223520818,2.6143170197224253
+4,2252,463,NZL,6,177,-204,C de Grandhomme,MA Wood,7,18,50,38.35,682,78.73,Right-hand bat,72,29,1,2118.3,41.82,75.7,rf,1,ENG,seam,yes,29.628926223520818,2.6143170197224253
+4,2256,467,NZL,6,179,-202,C de Grandhomme,MA Wood,7,19,51,38.35,682,78.73,Right-hand bat,76,31,1,2118.3,41.82,75.7,rf,3,ENG,seam,yes,29.628926223520818,2.6143170197224253
+4,2279,490,NZL,6,187,-194,C de Grandhomme,MA Wood,7,23,62,38.35,682,78.73,Right-hand bat,87,37,1,2118.3,41.82,75.7,rf,0,ENG,seam,yes,29.628926223520818,2.6143170197224253
+4,2280,491,NZL,6,187,-194,C de Grandhomme,MA Wood,7,23,63,38.35,682,78.73,Right-hand bat,88,37,1,2118.3,41.82,75.7,rf,4,ENG,seam,yes,29.628926223520818,2.6143170197224253
+4,2281,492,NZL,6,191,-190,C de Grandhomme,MA Wood,7,27,64,38.35,682,78.73,Right-hand bat,89,41,1,2118.3,41.82,75.7,rf,0,ENG,seam,yes,29.628926223520818,2.6143170197224253
+4,2348,559,NZL,6,219,-162,C de Grandhomme,MA Wood,7,45,95,38.35,682,78.73,Right-hand bat,90,41,1,2118.3,41.82,75.7,rf,0,ENG,seam,yes,29.628926223520818,2.6143170197224253
+4,2349,560,NZL,6,219,-162,C de Grandhomme,MA Wood,7,45,96,38.35,682,78.73,Right-hand bat,91,41,1,2118.3,41.82,75.7,rf,W,ENG,seam,yes,29.628926223520818,2.6143170197224253

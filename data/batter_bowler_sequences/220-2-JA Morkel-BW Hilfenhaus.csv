@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1193,758,RSA,6,482,273,JA Morkel,BW Hilfenhaus,8,9,9,58,71,81.69,Left-hand bat,193,118,2,750,52.28,107.1,rfm,1lb,RSA,seam,no,27.064444444444447,15.668888888888889
+2,1205,770,RSA,6,490,281,JA Morkel,BW Hilfenhaus,8,10,14,58,71,81.69,Left-hand bat,199,120,2,750,52.28,107.1,rfm,0,RSA,seam,no,27.064444444444447,15.668888888888889
+2,1206,771,RSA,6,490,281,JA Morkel,BW Hilfenhaus,8,10,15,58,71,81.69,Left-hand bat,200,120,2,750,52.28,107.1,rfm,4,RSA,seam,no,27.064444444444447,15.668888888888889
+2,1207,772,RSA,6,494,285,JA Morkel,BW Hilfenhaus,8,14,16,58,71,81.69,Left-hand bat,201,124,2,750,52.28,107.1,rfm,0,RSA,seam,no,27.064444444444447,15.668888888888889
+2,1208,773,RSA,6,494,285,JA Morkel,BW Hilfenhaus,8,14,17,58,71,81.69,Left-hand bat,202,124,2,750,52.28,107.1,rfm,4,RSA,seam,no,27.064444444444447,15.668888888888889
+2,1209,774,RSA,6,498,289,JA Morkel,BW Hilfenhaus,8,18,18,58,71,81.69,Left-hand bat,203,128,2,750,52.28,107.1,rfm,0,RSA,seam,no,27.064444444444447,15.668888888888889
+2,1210,775,RSA,6,498,289,JA Morkel,BW Hilfenhaus,8,18,19,58,71,81.69,Left-hand bat,204,128,2,750,52.28,107.1,rfm,0,RSA,seam,no,27.064444444444447,15.668888888888889
+2,1217,782,RSA,6,504,295,JA Morkel,BW Hilfenhaus,8,23,25,58,71,81.69,Left-hand bat,205,128,2,750,52.28,107.1,rfm,0,RSA,seam,no,27.064444444444447,15.668888888888889
+2,1218,783,RSA,6,504,295,JA Morkel,BW Hilfenhaus,8,23,26,58,71,81.69,Left-hand bat,206,128,2,750,52.28,107.1,rfm,4,RSA,seam,no,27.064444444444447,15.668888888888889
+2,1219,784,RSA,6,508,299,JA Morkel,BW Hilfenhaus,8,27,27,58,71,81.69,Left-hand bat,207,132,2,750,52.28,107.1,rfm,0,RSA,seam,no,27.064444444444447,15.668888888888889
+2,1220,785,RSA,6,508,299,JA Morkel,BW Hilfenhaus,8,27,28,58,71,81.69,Left-hand bat,208,132,2,750,52.28,107.1,rfm,0,RSA,seam,no,27.064444444444447,15.668888888888889
+2,1221,786,RSA,6,508,299,JA Morkel,BW Hilfenhaus,8,27,29,58,71,81.69,Left-hand bat,209,132,2,750,52.28,107.1,rfm,0,RSA,seam,no,27.064444444444447,15.668888888888889
+2,1222,787,RSA,6,508,299,JA Morkel,BW Hilfenhaus,8,27,30,58,71,81.69,Left-hand bat,210,132,2,750,52.28,107.1,rfm,0,RSA,seam,no,27.064444444444447,15.668888888888889

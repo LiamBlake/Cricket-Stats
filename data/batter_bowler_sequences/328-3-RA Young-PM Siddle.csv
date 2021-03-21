@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1543,256,NZL,8,131,-1,RA Young,PM Siddle,9,0,2,32,383,41.77,Right-hand bat,74,32,1,5442.4,32.62,64,rfm,2,AUS,seam,yes,18.54318418314256,10.198751300728409
+3,1544,257,NZL,8,133,1,RA Young,PM Siddle,9,2,3,32,383,41.77,Right-hand bat,75,34,1,5442.4,32.62,64,rfm,1nb,AUS,seam,yes,18.54318418314256,10.198751300728409
+3,1545,258,NZL,8,138,6,RA Young,PM Siddle,9,6,4,32,383,41.77,Right-hand bat,76,35,1,5442.4,32.62,64,rfm,1lb,AUS,seam,yes,18.54318418314256,10.198751300728409
+3,1569,282,NZL,9,144,12,RA Young,PM Siddle,9,7,15,32,383,41.77,Right-hand bat,88,36,1,5442.4,32.62,64,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
+3,1570,283,NZL,9,144,12,RA Young,PM Siddle,9,7,16,32,383,41.77,Right-hand bat,89,36,1,5442.4,32.62,64,rfm,2lb,AUS,seam,yes,18.54318418314256,10.198751300728409
+3,1571,284,NZL,9,146,14,RA Young,PM Siddle,9,7,17,32,383,41.77,Right-hand bat,90,36,1,5442.4,32.62,64,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
+3,1572,285,NZL,9,146,14,RA Young,PM Siddle,9,7,18,32,383,41.77,Right-hand bat,91,36,1,5442.4,32.62,64,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
+3,1573,286,NZL,9,146,14,RA Young,PM Siddle,9,7,19,32,383,41.77,Right-hand bat,92,36,1,5442.4,32.62,64,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
+3,1574,287,NZL,9,146,14,RA Young,PM Siddle,9,7,20,32,383,41.77,Right-hand bat,93,36,1,5442.4,32.62,64,rfm,4,AUS,seam,yes,18.54318418314256,10.198751300728409
+3,1581,294,NZL,9,150,18,RA Young,PM Siddle,9,11,21,32,383,41.77,Right-hand bat,94,40,1,5442.4,32.62,64,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
+3,1582,295,NZL,9,150,18,RA Young,PM Siddle,9,11,22,32,383,41.77,Right-hand bat,95,40,1,5442.4,32.62,64,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
+3,1583,296,NZL,9,150,18,RA Young,PM Siddle,9,11,23,32,383,41.77,Right-hand bat,96,40,1,5442.4,32.62,64,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
+3,1584,297,NZL,9,150,18,RA Young,PM Siddle,9,11,24,32,383,41.77,Right-hand bat,97,40,1,5442.4,32.62,64,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
+3,1585,298,NZL,9,150,18,RA Young,PM Siddle,9,11,25,32,383,41.77,Right-hand bat,98,40,1,5442.4,32.62,64,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
+3,1586,299,NZL,9,150,18,RA Young,PM Siddle,9,11,26,32,383,41.77,Right-hand bat,99,40,1,5442.4,32.62,64,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409

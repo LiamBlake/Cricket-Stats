@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2305,119,PAK,3,80,-7,Misbah-ul-Haq,RW Price,5,0,0,45.05,4210,40.66,Right-hand bat,59,31,2,5598,35.1,74.6,lo,0,ZIM,spin,yes,16.264462809917354,17.28099173553719
+4,2312,126,PAK,3,84,-3,Misbah-ul-Haq,RW Price,5,2,4,45.05,4210,40.66,Right-hand bat,60,31,2,5598,35.1,74.6,lo,0,ZIM,spin,yes,16.264462809917354,17.28099173553719
+4,2313,127,PAK,3,84,-3,Misbah-ul-Haq,RW Price,5,2,5,45.05,4210,40.66,Right-hand bat,61,31,2,5598,35.1,74.6,lo,0,ZIM,spin,yes,16.264462809917354,17.28099173553719
+4,2314,128,PAK,3,84,-3,Misbah-ul-Haq,RW Price,5,2,6,45.05,4210,40.66,Right-hand bat,62,31,2,5598,35.1,74.6,lo,0,ZIM,spin,yes,16.264462809917354,17.28099173553719
+4,2315,129,PAK,3,84,-3,Misbah-ul-Haq,RW Price,5,2,7,45.05,4210,40.66,Right-hand bat,63,31,2,5598,35.1,74.6,lo,4,ZIM,spin,yes,16.264462809917354,17.28099173553719

@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,655,43,SRL,2,12,-300,LD Chandimal,I Sharma,4,0,4,44.09,2396,60.72,Right-hand bat,25,5,1,13044.3,36.51,65.2,rfm,0,SRL,seam,yes,17.803125,8.571875
+2,656,44,SRL,2,12,-300,LD Chandimal,I Sharma,4,0,5,44.09,2396,60.72,Right-hand bat,26,5,1,13044.3,36.51,65.2,rfm,1,SRL,seam,yes,17.803125,8.571875
+2,665,53,SRL,2,24,-288,LD Chandimal,I Sharma,4,11,12,44.09,2396,60.72,Right-hand bat,29,7,1,13044.3,36.51,65.2,rfm,0,SRL,seam,yes,17.803125,8.571875
+2,666,54,SRL,2,24,-288,LD Chandimal,I Sharma,4,11,13,44.09,2396,60.72,Right-hand bat,30,7,1,13044.3,36.51,65.2,rfm,0,SRL,seam,yes,17.803125,8.571875
+2,667,55,SRL,2,24,-288,LD Chandimal,I Sharma,4,11,14,44.09,2396,60.72,Right-hand bat,31,7,1,13044.3,36.51,65.2,rfm,1nb,SRL,seam,yes,17.803125,8.571875
+2,668,56,SRL,2,25,-287,LD Chandimal,I Sharma,4,11,15,44.09,2396,60.72,Right-hand bat,32,8,1,13044.3,36.51,65.2,rfm,4,SRL,seam,yes,17.803125,8.571875
+2,669,57,SRL,2,29,-283,LD Chandimal,I Sharma,4,15,16,44.09,2396,60.72,Right-hand bat,33,12,1,13044.3,36.51,65.2,rfm,0,SRL,seam,yes,17.803125,8.571875

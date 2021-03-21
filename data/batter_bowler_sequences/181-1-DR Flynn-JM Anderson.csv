@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,231,231,NZL,4,132,132,DR Flynn,JM Anderson,6,4,7,42,163,25.76,Left-hand bat,51,40,1,4650,37.28,58.1,rfm,0,ENG,seam,yes,16.288062283737027,12.001730103806228
+1,232,232,NZL,4,132,132,DR Flynn,JM Anderson,6,4,8,42,163,25.76,Left-hand bat,52,40,1,4650,37.28,58.1,rfm,0,ENG,seam,yes,16.288062283737027,12.001730103806228
+1,233,233,NZL,4,132,132,DR Flynn,JM Anderson,6,4,9,42,163,25.76,Left-hand bat,53,40,1,4650,37.28,58.1,rfm,0,ENG,seam,yes,16.288062283737027,12.001730103806228
+1,240,240,NZL,4,136,136,DR Flynn,JM Anderson,6,4,10,42,163,25.76,Left-hand bat,54,40,1,4650,37.28,58.1,rfm,0,ENG,seam,yes,16.288062283737027,12.001730103806228
+1,241,241,NZL,4,136,136,DR Flynn,JM Anderson,6,4,11,42,163,25.76,Left-hand bat,55,40,1,4650,37.28,58.1,rfm,0,ENG,seam,yes,16.288062283737027,12.001730103806228
+1,242,242,NZL,4,136,136,DR Flynn,JM Anderson,6,4,12,42,163,25.76,Left-hand bat,56,40,1,4650,37.28,58.1,rfm,W,ENG,seam,yes,16.288062283737027,12.001730103806228

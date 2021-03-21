@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1625,401,AUS,6,204,314,RJ Harris,DJG Sammy,8,4,9,17.66,399,53.13,Right-hand bat,36,9,0,4284.4,30.89,67,rm,3,WIN,seam,yes,9.61625,17.85875
+3,1628,404,AUS,6,212,322,RJ Harris,DJG Sammy,8,7,10,17.66,399,53.13,Right-hand bat,39,17,0,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+3,1629,405,AUS,6,212,322,RJ Harris,DJG Sammy,8,7,11,17.66,399,53.13,Right-hand bat,40,17,0,4284.4,30.89,67,rm,1,WIN,seam,yes,9.61625,17.85875
+3,1641,417,AUS,6,218,328,RJ Harris,DJG Sammy,8,9,15,17.66,399,53.13,Right-hand bat,46,19,0,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+3,1642,418,AUS,6,218,328,RJ Harris,DJG Sammy,8,9,16,17.66,399,53.13,Right-hand bat,47,19,0,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+3,1650,426,AUS,6,220,330,RJ Harris,DJG Sammy,8,9,21,17.66,399,53.13,Right-hand bat,49,20,0,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+3,1651,427,AUS,6,220,330,RJ Harris,DJG Sammy,8,9,22,17.66,399,53.13,Right-hand bat,50,20,0,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+3,1652,428,AUS,6,220,330,RJ Harris,DJG Sammy,8,9,23,17.66,399,53.13,Right-hand bat,51,20,0,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+3,1653,429,AUS,6,220,330,RJ Harris,DJG Sammy,8,9,24,17.66,399,53.13,Right-hand bat,52,20,0,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+3,1654,430,AUS,6,220,330,RJ Harris,DJG Sammy,8,9,25,17.66,399,53.13,Right-hand bat,53,20,0,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+3,1661,437,AUS,7,224,334,RJ Harris,DJG Sammy,8,9,26,17.66,399,53.13,Right-hand bat,54,20,0,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+3,1662,438,AUS,7,224,334,RJ Harris,DJG Sammy,8,9,27,17.66,399,53.13,Right-hand bat,55,20,0,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+3,1663,439,AUS,7,224,334,RJ Harris,DJG Sammy,8,9,28,17.66,399,53.13,Right-hand bat,56,20,0,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+3,1664,440,AUS,7,224,334,RJ Harris,DJG Sammy,8,9,29,17.66,399,53.13,Right-hand bat,57,20,0,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+3,1665,441,AUS,7,224,334,RJ Harris,DJG Sammy,8,9,30,17.66,399,53.13,Right-hand bat,58,20,0,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
+3,1666,442,AUS,7,224,334,RJ Harris,DJG Sammy,8,9,31,17.66,399,53.13,Right-hand bat,59,20,0,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875

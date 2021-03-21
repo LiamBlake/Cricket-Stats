@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,924,268,RSA,1,146,-404,HM Amla,PM Siddle,3,1,4,49.66,9958,51.37,Right-hand bat,42,18,0,7404.3,29.89,58.7,rfm,0,AUS,seam,no,31.39197530864198,8.969135802469136
+2,925,269,RSA,1,146,-404,HM Amla,PM Siddle,3,1,5,49.66,9958,51.37,Right-hand bat,43,18,0,7404.3,29.89,58.7,rfm,0,AUS,seam,no,31.39197530864198,8.969135802469136
+2,926,270,RSA,1,146,-404,HM Amla,PM Siddle,3,1,6,49.66,9958,51.37,Right-hand bat,44,18,0,7404.3,29.89,58.7,rfm,0,AUS,seam,no,31.39197530864198,8.969135802469136
+2,927,271,RSA,1,146,-404,HM Amla,PM Siddle,3,1,7,49.66,9958,51.37,Right-hand bat,45,18,0,7404.3,29.89,58.7,rfm,0,AUS,seam,no,31.39197530864198,8.969135802469136
+2,928,272,RSA,1,146,-404,HM Amla,PM Siddle,3,1,8,49.66,9958,51.37,Right-hand bat,46,18,0,7404.3,29.89,58.7,rfm,0,AUS,seam,no,31.39197530864198,8.969135802469136
+2,929,273,RSA,1,146,-404,HM Amla,PM Siddle,3,1,9,49.66,9958,51.37,Right-hand bat,47,18,0,7404.3,29.89,58.7,rfm,0,AUS,seam,no,31.39197530864198,8.969135802469136
+2,941,285,RSA,1,149,-401,HM Amla,PM Siddle,3,1,14,49.66,9958,51.37,Right-hand bat,52,19,0,7404.3,29.89,58.7,rfm,4,AUS,seam,no,31.39197530864198,8.969135802469136
+2,942,286,RSA,1,153,-397,HM Amla,PM Siddle,3,5,15,49.66,9958,51.37,Right-hand bat,53,23,0,7404.3,29.89,58.7,rfm,0,AUS,seam,no,31.39197530864198,8.969135802469136
+2,953,297,RSA,1,159,-391,HM Amla,PM Siddle,3,6,18,49.66,9958,51.37,Right-hand bat,56,24,0,7404.3,29.89,58.7,rfm,0,AUS,seam,no,31.39197530864198,8.969135802469136
+2,954,298,RSA,1,159,-391,HM Amla,PM Siddle,3,6,19,49.66,9958,51.37,Right-hand bat,57,24,0,7404.3,29.89,58.7,rfm,0,AUS,seam,no,31.39197530864198,8.969135802469136
+2,955,299,RSA,1,159,-391,HM Amla,PM Siddle,3,6,20,49.66,9958,51.37,Right-hand bat,58,24,0,7404.3,29.89,58.7,rfm,4,AUS,seam,no,31.39197530864198,8.969135802469136
+2,956,300,RSA,1,163,-387,HM Amla,PM Siddle,3,10,21,49.66,9958,51.37,Right-hand bat,59,28,0,7404.3,29.89,58.7,rfm,0,AUS,seam,no,31.39197530864198,8.969135802469136

@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1003,227,PAK,2,81,-373,Mohammad Yousuf,SR Watson,4,8,18,53.94,14049,52.21,Right-hand bat,1,3,0,1500.4,34.26,65.3,rfm,0,AUS,seam,no,26.181818181818183,9.818181818181818
+2,1004,228,PAK,2,81,-373,Mohammad Yousuf,SR Watson,4,8,19,53.94,14049,52.21,Right-hand bat,2,3,0,1500.4,34.26,65.3,rfm,2,AUS,seam,no,26.181818181818183,9.818181818181818
+2,1005,229,PAK,2,83,-371,Mohammad Yousuf,SR Watson,4,10,20,53.94,14049,52.21,Right-hand bat,3,5,0,1500.4,34.26,65.3,rfm,0,AUS,seam,no,26.181818181818183,9.818181818181818
+2,1006,230,PAK,2,83,-371,Mohammad Yousuf,SR Watson,4,10,21,53.94,14049,52.21,Right-hand bat,4,5,0,1500.4,34.26,65.3,rfm,0,AUS,seam,no,26.181818181818183,9.818181818181818
+2,1007,231,PAK,2,83,-371,Mohammad Yousuf,SR Watson,4,10,22,53.94,14049,52.21,Right-hand bat,5,5,0,1500.4,34.26,65.3,rfm,0,AUS,seam,no,26.181818181818183,9.818181818181818
+2,1027,251,PAK,3,88,-366,Mohammad Yousuf,SR Watson,4,13,34,53.94,14049,52.21,Right-hand bat,12,5,1,1500.4,34.26,65.3,rfm,0,AUS,seam,no,26.181818181818183,9.818181818181818
+2,1028,252,PAK,3,88,-366,Mohammad Yousuf,SR Watson,4,13,35,53.94,14049,52.21,Right-hand bat,13,5,1,1500.4,34.26,65.3,rfm,4,AUS,seam,no,26.181818181818183,9.818181818181818
+2,1029,253,PAK,3,92,-362,Mohammad Yousuf,SR Watson,4,17,36,53.94,14049,52.21,Right-hand bat,14,9,1,1500.4,34.26,65.3,rfm,0,AUS,seam,no,26.181818181818183,9.818181818181818
+2,1030,254,PAK,3,92,-362,Mohammad Yousuf,SR Watson,4,17,37,53.94,14049,52.21,Right-hand bat,15,9,1,1500.4,34.26,65.3,rfm,0,AUS,seam,no,26.181818181818183,9.818181818181818
+2,1031,255,PAK,3,92,-362,Mohammad Yousuf,SR Watson,4,17,38,53.94,14049,52.21,Right-hand bat,16,9,1,1500.4,34.26,65.3,rfm,0,AUS,seam,no,26.181818181818183,9.818181818181818
+2,1032,256,PAK,3,92,-362,Mohammad Yousuf,SR Watson,4,17,39,53.94,14049,52.21,Right-hand bat,17,9,1,1500.4,34.26,65.3,rfm,0,AUS,seam,no,26.181818181818183,9.818181818181818
+2,1058,282,PAK,3,104,-350,Mohammad Yousuf,SR Watson,4,21,47,53.94,14049,52.21,Right-hand bat,29,10,1,1500.4,34.26,65.3,rfm,1,AUS,seam,no,26.181818181818183,9.818181818181818

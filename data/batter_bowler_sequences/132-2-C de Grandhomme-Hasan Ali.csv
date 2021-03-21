@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1186,183,NZL,5,69,-349,C de Grandhomme,Hasan Ali,7,0,0,30.77,708,78.24,Right-hand bat,44,12,0,1128.3,22.13,49.1,rmf,0,PAK,seam,no,9.184,23.616
+2,1187,184,NZL,5,69,-349,C de Grandhomme,Hasan Ali,7,0,1,30.77,708,78.24,Right-hand bat,45,12,0,1128.3,22.13,49.1,rmf,0,PAK,seam,no,9.184,23.616
+2,1188,185,NZL,5,69,-349,C de Grandhomme,Hasan Ali,7,0,2,30.77,708,78.24,Right-hand bat,46,12,0,1128.3,22.13,49.1,rmf,0,PAK,seam,no,9.184,23.616
+2,1189,186,NZL,5,69,-349,C de Grandhomme,Hasan Ali,7,0,3,30.77,708,78.24,Right-hand bat,47,12,0,1128.3,22.13,49.1,rmf,W,PAK,seam,no,9.184,23.616

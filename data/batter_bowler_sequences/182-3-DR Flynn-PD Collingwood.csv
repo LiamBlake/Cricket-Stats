@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1275,228,NZL,3,102,-139,DR Flynn,PD Collingwood,5,25,52,30.33,271,33.57,Left-hand bat,0,0,0,1182.3,45.35,84.6,rm,0,ENG,seam,yes,23.167777777777776,0.7988888888888889
+3,1276,229,NZL,3,102,-139,DR Flynn,PD Collingwood,5,25,53,30.33,271,33.57,Left-hand bat,1,0,0,1182.3,45.35,84.6,rm,0,ENG,seam,yes,23.167777777777776,0.7988888888888889
+3,1277,230,NZL,3,102,-139,DR Flynn,PD Collingwood,5,25,54,30.33,271,33.57,Left-hand bat,2,0,0,1182.3,45.35,84.6,rm,0,ENG,seam,yes,23.167777777777776,0.7988888888888889
+3,1278,231,NZL,3,102,-139,DR Flynn,PD Collingwood,5,25,55,30.33,271,33.57,Left-hand bat,3,0,0,1182.3,45.35,84.6,rm,0,ENG,seam,yes,23.167777777777776,0.7988888888888889
+3,1279,232,NZL,3,102,-139,DR Flynn,PD Collingwood,5,25,56,30.33,271,33.57,Left-hand bat,4,0,0,1182.3,45.35,84.6,rm,0,ENG,seam,yes,23.167777777777776,0.7988888888888889
+3,1280,233,NZL,3,102,-139,DR Flynn,PD Collingwood,5,25,57,30.33,271,33.57,Left-hand bat,5,0,0,1182.3,45.35,84.6,rm,0,ENG,seam,yes,23.167777777777776,0.7988888888888889
+3,1292,245,NZL,3,104,-137,DR Flynn,PD Collingwood,5,25,61,30.33,271,33.57,Left-hand bat,11,1,0,1182.3,45.35,84.6,rm,4,ENG,seam,yes,23.167777777777776,0.7988888888888889

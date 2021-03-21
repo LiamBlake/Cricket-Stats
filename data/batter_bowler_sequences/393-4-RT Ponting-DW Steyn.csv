@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1643,204,AUS,2,93,-538,RT Ponting,DW Steyn,4,4,10,51.85,22782,58.72,Right-hand bat,60,26,0,12576.2,23.79,42,rf,0,AUS,seam,no,24.780625,7.194375000000001
+4,1644,205,AUS,2,93,-538,RT Ponting,DW Steyn,4,4,11,51.85,22782,58.72,Right-hand bat,61,26,0,12576.2,23.79,42,rf,0,AUS,seam,no,24.780625,7.194375000000001
+4,1645,206,AUS,2,93,-538,RT Ponting,DW Steyn,4,4,12,51.85,22782,58.72,Right-hand bat,62,26,0,12576.2,23.79,42,rf,0,AUS,seam,no,24.780625,7.194375000000001
+4,1646,207,AUS,2,93,-538,RT Ponting,DW Steyn,4,4,13,51.85,22782,58.72,Right-hand bat,63,26,0,12576.2,23.79,42,rf,0,AUS,seam,no,24.780625,7.194375000000001
+4,1647,208,AUS,2,93,-538,RT Ponting,DW Steyn,4,4,14,51.85,22782,58.72,Right-hand bat,64,26,0,12576.2,23.79,42,rf,4,AUS,seam,no,24.780625,7.194375000000001
+4,1648,209,AUS,2,97,-534,RT Ponting,DW Steyn,4,8,15,51.85,22782,58.72,Right-hand bat,65,30,0,12576.2,23.79,42,rf,0,AUS,seam,no,24.780625,7.194375000000001
+4,1655,216,AUS,2,97,-534,RT Ponting,DW Steyn,4,8,16,51.85,22782,58.72,Right-hand bat,66,30,0,12576.2,23.79,42,rf,0,AUS,seam,no,24.780625,7.194375000000001
+4,1656,217,AUS,2,97,-534,RT Ponting,DW Steyn,4,8,17,51.85,22782,58.72,Right-hand bat,67,30,0,12576.2,23.79,42,rf,0,AUS,seam,no,24.780625,7.194375000000001
+4,1657,218,AUS,2,97,-534,RT Ponting,DW Steyn,4,8,18,51.85,22782,58.72,Right-hand bat,68,30,0,12576.2,23.79,42,rf,0,AUS,seam,no,24.780625,7.194375000000001
+4,1658,219,AUS,2,97,-534,RT Ponting,DW Steyn,4,8,19,51.85,22782,58.72,Right-hand bat,69,30,0,12576.2,23.79,42,rf,0,AUS,seam,no,24.780625,7.194375000000001
+4,1659,220,AUS,2,97,-534,RT Ponting,DW Steyn,4,8,20,51.85,22782,58.72,Right-hand bat,70,30,0,12576.2,23.79,42,rf,0,AUS,seam,no,24.780625,7.194375000000001
+4,1660,221,AUS,2,97,-534,RT Ponting,DW Steyn,4,8,21,51.85,22782,58.72,Right-hand bat,71,30,0,12576.2,23.79,42,rf,0,AUS,seam,no,24.780625,7.194375000000001

@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2618,480,IND,7,219,-129,B Kumar,MA Starc,9,2,4,26.2,843,46.61,Right-hand bat,96,27,2,3138,35.44,62.7,lf,0,AUS,seam,no,36.166666666666664,15.5
+4,2619,481,IND,7,219,-129,B Kumar,MA Starc,9,2,5,26.2,843,46.61,Right-hand bat,97,27,2,3138,35.44,62.7,lf,0,AUS,seam,no,36.166666666666664,15.5
+4,2620,482,IND,7,219,-129,B Kumar,MA Starc,9,2,6,26.2,843,46.61,Right-hand bat,98,27,2,3138,35.44,62.7,lf,0,AUS,seam,no,36.166666666666664,15.5
+4,2621,483,IND,7,219,-129,B Kumar,MA Starc,9,2,7,26.2,843,46.61,Right-hand bat,99,27,2,3138,35.44,62.7,lf,1,AUS,seam,no,36.166666666666664,15.5
+4,2666,528,IND,7,241,-107,B Kumar,MA Starc,9,11,24,26.2,843,46.61,Right-hand bat,108,33,2,3138,35.44,62.7,lf,1,AUS,seam,no,36.166666666666664,15.5

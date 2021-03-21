@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1844,351,SRL,8,181,170,TT Samaraweera,A Mithun,6,59,83,53.72,8866,47.86,Right-hand bat,18,12,0,552,62,92,rm,0,SRL,seam,yes,9.051428571428572,30.54857142857143
+3,1845,352,SRL,8,181,170,TT Samaraweera,A Mithun,6,59,84,53.72,8866,47.86,Right-hand bat,19,12,0,552,62,92,rm,0,SRL,seam,yes,9.051428571428572,30.54857142857143
+3,1846,353,SRL,8,181,170,TT Samaraweera,A Mithun,6,59,85,53.72,8866,47.86,Right-hand bat,20,12,0,552,62,92,rm,0,SRL,seam,yes,9.051428571428572,30.54857142857143
+3,1847,354,SRL,8,181,170,TT Samaraweera,A Mithun,6,59,86,53.72,8866,47.86,Right-hand bat,21,12,0,552,62,92,rm,1,SRL,seam,yes,9.051428571428572,30.54857142857143
+3,1924,431,SRL,8,217,206,TT Samaraweera,A Mithun,6,73,111,53.72,8866,47.86,Right-hand bat,31,14,0,552,62,92,rm,0,SRL,seam,yes,9.051428571428572,30.54857142857143
+3,1925,432,SRL,8,217,206,TT Samaraweera,A Mithun,6,73,112,53.72,8866,47.86,Right-hand bat,32,14,0,552,62,92,rm,0,SRL,seam,yes,9.051428571428572,30.54857142857143
+3,1926,433,SRL,8,217,206,TT Samaraweera,A Mithun,6,73,113,53.72,8866,47.86,Right-hand bat,33,14,0,552,62,92,rm,1,SRL,seam,yes,9.051428571428572,30.54857142857143
+3,1983,490,SRL,8,241,230,TT Samaraweera,A Mithun,6,82,134,53.72,8866,47.86,Right-hand bat,36,15,0,552,62,92,rm,0,SRL,seam,yes,9.051428571428572,30.54857142857143
+3,1984,491,SRL,8,241,230,TT Samaraweera,A Mithun,6,82,135,53.72,8866,47.86,Right-hand bat,37,15,0,552,62,92,rm,1,SRL,seam,yes,9.051428571428572,30.54857142857143
+3,1986,493,SRL,8,243,232,TT Samaraweera,A Mithun,6,83,136,53.72,8866,47.86,Right-hand bat,39,17,0,552,62,92,rm,0,SRL,seam,yes,9.051428571428572,30.54857142857143
+3,1987,494,SRL,8,243,232,TT Samaraweera,A Mithun,6,83,137,53.72,8866,47.86,Right-hand bat,40,17,0,552,62,92,rm,0,SRL,seam,yes,9.051428571428572,30.54857142857143
+3,1988,495,SRL,8,243,232,TT Samaraweera,A Mithun,6,83,138,53.72,8866,47.86,Right-hand bat,41,17,0,552,62,92,rm,W,SRL,seam,yes,9.051428571428572,30.54857142857143

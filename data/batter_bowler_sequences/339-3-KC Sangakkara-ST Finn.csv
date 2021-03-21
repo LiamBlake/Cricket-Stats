@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1695,110,SRL,2,64,-121,KC Sangakkara,ST Finn,4,0,0,54.86,17323,54.15,Left-hand bat,38,18,1,2298.3,26.92,43.4,rfm,0,SRL,seam,yes,10.83984375,23.84765625
+3,1696,111,SRL,2,64,-121,KC Sangakkara,ST Finn,4,0,1,54.86,17323,54.15,Left-hand bat,39,18,1,2298.3,26.92,43.4,rfm,0,SRL,seam,yes,10.83984375,23.84765625
+3,1697,112,SRL,2,64,-121,KC Sangakkara,ST Finn,4,0,2,54.86,17323,54.15,Left-hand bat,40,18,1,2298.3,26.92,43.4,rfm,0,SRL,seam,yes,10.83984375,23.84765625
+3,1698,113,SRL,2,64,-121,KC Sangakkara,ST Finn,4,0,3,54.86,17323,54.15,Left-hand bat,41,18,1,2298.3,26.92,43.4,rfm,0,SRL,seam,yes,10.83984375,23.84765625
+3,1705,120,SRL,2,68,-117,KC Sangakkara,ST Finn,4,1,5,54.86,17323,54.15,Left-hand bat,42,18,1,2298.3,26.92,43.4,rfm,4,SRL,seam,yes,10.83984375,23.84765625
+3,1706,121,SRL,2,72,-113,KC Sangakkara,ST Finn,4,5,6,54.86,17323,54.15,Left-hand bat,43,22,1,2298.3,26.92,43.4,rfm,0,SRL,seam,yes,10.83984375,23.84765625
+3,1707,122,SRL,2,72,-113,KC Sangakkara,ST Finn,4,5,7,54.86,17323,54.15,Left-hand bat,44,22,1,2298.3,26.92,43.4,rfm,0,SRL,seam,yes,10.83984375,23.84765625
+3,1708,123,SRL,2,72,-113,KC Sangakkara,ST Finn,4,5,8,54.86,17323,54.15,Left-hand bat,45,22,1,2298.3,26.92,43.4,rfm,0,SRL,seam,yes,10.83984375,23.84765625
+3,1709,124,SRL,2,72,-113,KC Sangakkara,ST Finn,4,5,9,54.86,17323,54.15,Left-hand bat,46,22,1,2298.3,26.92,43.4,rfm,0,SRL,seam,yes,10.83984375,23.84765625
+3,1710,125,SRL,2,72,-113,KC Sangakkara,ST Finn,4,5,10,54.86,17323,54.15,Left-hand bat,47,22,1,2298.3,26.92,43.4,rfm,0,SRL,seam,yes,10.83984375,23.84765625
+3,1802,217,SRL,3,106,-79,KC Sangakkara,ST Finn,4,18,62,54.86,17323,54.15,Left-hand bat,49,23,1,2298.3,26.92,43.4,rfm,0,SRL,seam,yes,10.83984375,23.84765625
+3,1803,218,SRL,3,106,-79,KC Sangakkara,ST Finn,4,18,63,54.86,17323,54.15,Left-hand bat,50,23,1,2298.3,26.92,43.4,rfm,0,SRL,seam,yes,10.83984375,23.84765625
+3,1804,219,SRL,3,106,-79,KC Sangakkara,ST Finn,4,18,64,54.86,17323,54.15,Left-hand bat,51,23,1,2298.3,26.92,43.4,rfm,0,SRL,seam,yes,10.83984375,23.84765625
+3,1805,220,SRL,3,106,-79,KC Sangakkara,ST Finn,4,18,65,54.86,17323,54.15,Left-hand bat,52,23,1,2298.3,26.92,43.4,rfm,0,SRL,seam,yes,10.83984375,23.84765625
+3,1806,221,SRL,3,106,-79,KC Sangakkara,ST Finn,4,18,66,54.86,17323,54.15,Left-hand bat,53,23,1,2298.3,26.92,43.4,rfm,0,SRL,seam,yes,10.83984375,23.84765625
+3,1818,233,SRL,3,108,-77,KC Sangakkara,ST Finn,4,18,70,54.86,17323,54.15,Left-hand bat,59,24,1,2298.3,26.92,43.4,rfm,0,SRL,seam,yes,10.83984375,23.84765625

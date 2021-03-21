@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,373,373,IND,5,144,144,HH Pandya,AL Phehlukwayo,7,0,0,33,338,87.86,Right-hand bat,27,17,1,246.4,13.36,22.7,rmf,0,IND,seam,yes,20.125,0
+1,374,374,IND,5,144,144,HH Pandya,AL Phehlukwayo,7,0,1,33,338,87.86,Right-hand bat,28,17,1,246.4,13.36,22.7,rmf,0,IND,seam,yes,20.125,0
+1,375,375,IND,5,144,144,HH Pandya,AL Phehlukwayo,7,0,2,33,338,87.86,Right-hand bat,29,17,1,246.4,13.36,22.7,rmf,0,IND,seam,yes,20.125,0
+1,382,382,IND,6,144,144,HH Pandya,AL Phehlukwayo,7,0,3,33,338,87.86,Right-hand bat,30,17,1,246.4,13.36,22.7,rmf,0,IND,seam,yes,20.125,0
+1,383,383,IND,6,144,144,HH Pandya,AL Phehlukwayo,7,0,4,33,338,87.86,Right-hand bat,31,17,1,246.4,13.36,22.7,rmf,W,IND,seam,yes,20.125,0

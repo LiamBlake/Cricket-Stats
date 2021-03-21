@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1161,263,NZL,5,95,146,KS Williamson,SP Narine,6,5,37,32.08,1808,42.58,Right-hand bat,18,3,0,828,31.5,69,rob,0,WIN,spin,no,16.241632653061227,7.444081632653061
+3,1162,264,NZL,5,95,146,KS Williamson,SP Narine,6,5,38,32.08,1808,42.58,Right-hand bat,19,3,0,828,31.5,69,rob,0,WIN,spin,no,16.241632653061227,7.444081632653061
+3,1163,265,NZL,5,95,146,KS Williamson,SP Narine,6,5,39,32.08,1808,42.58,Right-hand bat,20,3,0,828,31.5,69,rob,2,WIN,spin,no,16.241632653061227,7.444081632653061
+3,1164,266,NZL,5,97,148,KS Williamson,SP Narine,6,7,40,32.08,1808,42.58,Right-hand bat,21,5,0,828,31.5,69,rob,1,WIN,spin,no,16.241632653061227,7.444081632653061

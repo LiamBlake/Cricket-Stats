@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,108,108,ENG,9,44,44,JM Anderson,TA Boult,11,1,4,9.82,2801,40.34,Left-hand bat,54,25,5,11718.4,27.8,56,lfm,1lb,ENG,seam,no,24.642857142857142,4.107142857142857
+1,112,112,ENG,9,52,52,JM Anderson,TA Boult,11,1,5,9.82,2801,40.34,Left-hand bat,58,32,5,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
+1,113,113,ENG,9,52,52,JM Anderson,TA Boult,11,1,6,9.82,2801,40.34,Left-hand bat,59,32,5,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
+1,120,120,ENG,9,58,58,JM Anderson,TA Boult,11,1,7,9.82,2801,40.34,Left-hand bat,60,32,5,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
+1,121,121,ENG,9,58,58,JM Anderson,TA Boult,11,1,8,9.82,2801,40.34,Left-hand bat,61,32,5,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
+1,122,122,ENG,9,58,58,JM Anderson,TA Boult,11,1,9,9.82,2801,40.34,Left-hand bat,62,32,5,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
+1,123,123,ENG,9,58,58,JM Anderson,TA Boult,11,1,10,9.82,2801,40.34,Left-hand bat,63,32,5,11718.4,27.8,56,lfm,W,ENG,seam,no,24.642857142857142,4.107142857142857

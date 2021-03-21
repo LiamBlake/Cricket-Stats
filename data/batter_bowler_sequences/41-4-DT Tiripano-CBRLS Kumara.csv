@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2345,393,ZIM,7,142,-269,DT Tiripano,CBRLS Kumara,9,0,8,25.66,550,28,Right-hand bat,87,37,2,246,45,82,rf,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+4,2346,394,ZIM,7,142,-269,DT Tiripano,CBRLS Kumara,9,0,9,25.66,550,28,Right-hand bat,88,37,2,246,45,82,rf,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+4,2347,395,ZIM,7,142,-269,DT Tiripano,CBRLS Kumara,9,0,10,25.66,550,28,Right-hand bat,89,37,2,246,45,82,rf,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+4,2348,396,ZIM,7,142,-269,DT Tiripano,CBRLS Kumara,9,0,11,25.66,550,28,Right-hand bat,90,37,2,246,45,82,rf,0,ZIM,seam,no,17.616512345679013,19.689043209876544

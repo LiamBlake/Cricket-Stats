@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1048,73,WIN,1,21,-455,DS Smith,M Muralitharan,2,5,26,23.89,1960,46.32,Left-hand bat,7,6,0,39708.4,21.9,54.4,rob,0,WIN,spin,no,24.61469387755102,12.842448979591836
+2,1049,74,WIN,1,21,-455,DS Smith,M Muralitharan,2,5,27,23.89,1960,46.32,Left-hand bat,8,6,0,39708.4,21.9,54.4,rob,0,WIN,spin,no,24.61469387755102,12.842448979591836
+2,1050,75,WIN,1,21,-455,DS Smith,M Muralitharan,2,5,28,23.89,1960,46.32,Left-hand bat,9,6,0,39708.4,21.9,54.4,rob,0,WIN,spin,no,24.61469387755102,12.842448979591836
+2,1051,76,WIN,1,21,-455,DS Smith,M Muralitharan,2,5,29,23.89,1960,46.32,Left-hand bat,10,6,0,39708.4,21.9,54.4,rob,0,WIN,spin,no,24.61469387755102,12.842448979591836
+2,1052,77,WIN,1,21,-455,DS Smith,M Muralitharan,2,5,30,23.89,1960,46.32,Left-hand bat,11,6,0,39708.4,21.9,54.4,rob,0,WIN,spin,no,24.61469387755102,12.842448979591836
+2,1059,84,WIN,1,25,-451,DS Smith,M Muralitharan,2,5,31,23.89,1960,46.32,Left-hand bat,12,6,0,39708.4,21.9,54.4,rob,0,WIN,spin,no,24.61469387755102,12.842448979591836
+2,1060,85,WIN,1,25,-451,DS Smith,M Muralitharan,2,5,32,23.89,1960,46.32,Left-hand bat,13,6,0,39708.4,21.9,54.4,rob,1,WIN,spin,no,24.61469387755102,12.842448979591836
+2,1062,87,WIN,1,27,-449,DS Smith,M Muralitharan,2,6,33,23.89,1960,46.32,Left-hand bat,15,8,0,39708.4,21.9,54.4,rob,0,WIN,spin,no,24.61469387755102,12.842448979591836
+2,1063,88,WIN,1,27,-449,DS Smith,M Muralitharan,2,6,34,23.89,1960,46.32,Left-hand bat,16,8,0,39708.4,21.9,54.4,rob,2,WIN,spin,no,24.61469387755102,12.842448979591836
+2,1064,89,WIN,1,29,-447,DS Smith,M Muralitharan,2,8,35,23.89,1960,46.32,Left-hand bat,17,10,0,39708.4,21.9,54.4,rob,0,WIN,spin,no,24.61469387755102,12.842448979591836

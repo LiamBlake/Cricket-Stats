@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1860,66,IND,1,48,-451,V Sehwag,NM Lyon,2,36,26,50.79,9974,81.99,Right-hand bat,0,0,0,1614.2,28.68,55.7,rob,0,AUS,spin,no,25.51171875,13.36328125
+4,1861,67,IND,1,48,-451,V Sehwag,NM Lyon,2,36,27,50.79,9974,81.99,Right-hand bat,1,0,0,1614.2,28.68,55.7,rob,1,AUS,spin,no,25.51171875,13.36328125
+4,1872,78,IND,1,54,-445,V Sehwag,NM Lyon,2,42,34,50.79,9974,81.99,Right-hand bat,6,1,0,1614.2,28.68,55.7,rob,4,AUS,spin,no,25.51171875,13.36328125
+4,1873,79,IND,1,58,-441,V Sehwag,NM Lyon,2,46,35,50.79,9974,81.99,Right-hand bat,7,5,0,1614.2,28.68,55.7,rob,4,AUS,spin,no,25.51171875,13.36328125
+4,1874,80,IND,1,62,-437,V Sehwag,NM Lyon,2,50,36,50.79,9974,81.99,Right-hand bat,8,9,0,1614.2,28.68,55.7,rob,1,AUS,spin,no,25.51171875,13.36328125
+4,1888,94,IND,1,68,-431,V Sehwag,NM Lyon,2,51,43,50.79,9974,81.99,Right-hand bat,16,15,0,1614.2,28.68,55.7,rob,1,AUS,spin,no,25.51171875,13.36328125
+4,1900,106,IND,1,76,-423,V Sehwag,NM Lyon,2,58,50,50.79,9974,81.99,Right-hand bat,22,17,0,1614.2,28.68,55.7,rob,2,AUS,spin,no,25.51171875,13.36328125
+4,1901,107,IND,1,78,-421,V Sehwag,NM Lyon,2,60,51,50.79,9974,81.99,Right-hand bat,23,19,0,1614.2,28.68,55.7,rob,2,AUS,spin,no,25.51171875,13.36328125
+4,1908,114,IND,1,80,-419,V Sehwag,NM Lyon,2,62,52,50.79,9974,81.99,Right-hand bat,24,21,0,1614.2,28.68,55.7,rob,W,AUS,spin,no,25.51171875,13.36328125

@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1232,440,NZL,7,263,-293,DAJ Bracewell,AC Voges,9,15,39,10.85,876,42.12,Right-hand bat,1,1,0,18,NA,NA,lo,0,AUS,spin,no,36.53061224489796,14.612244897959185
+2,1233,441,NZL,7,263,-293,DAJ Bracewell,AC Voges,9,15,40,10.85,876,42.12,Right-hand bat,2,1,0,18,NA,NA,lo,0,AUS,spin,no,36.53061224489796,14.612244897959185
+2,1234,442,NZL,7,263,-293,DAJ Bracewell,AC Voges,9,15,41,10.85,876,42.12,Right-hand bat,3,1,0,18,NA,NA,lo,1,AUS,spin,no,36.53061224489796,14.612244897959185

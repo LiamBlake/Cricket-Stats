@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,628,628,NZL,3,260,260,BB McCullum,S Shillingford,5,0,3,37.71,8660,60.54,Right-hand bat,151,63,1,4506.2,32.64,64.4,rob,1,WIN,spin,yes,12.119183673469387,20.50938775510204
+1,642,642,NZL,3,266,266,BB McCullum,S Shillingford,5,2,7,37.71,8660,60.54,Right-hand bat,159,67,1,4506.2,32.64,64.4,rob,1,WIN,spin,yes,12.119183673469387,20.50938775510204
+1,651,651,NZL,3,270,270,BB McCullum,S Shillingford,5,3,8,37.71,8660,60.54,Right-hand bat,162,69,1,4506.2,32.64,64.4,rob,0,WIN,spin,yes,12.119183673469387,20.50938775510204
+1,652,652,NZL,3,270,270,BB McCullum,S Shillingford,5,3,9,37.71,8660,60.54,Right-hand bat,163,69,1,4506.2,32.64,64.4,rob,0,WIN,spin,yes,12.119183673469387,20.50938775510204
+1,653,653,NZL,3,270,270,BB McCullum,S Shillingford,5,3,10,37.71,8660,60.54,Right-hand bat,164,69,1,4506.2,32.64,64.4,rob,4,WIN,spin,yes,12.119183673469387,20.50938775510204
+1,654,654,NZL,3,274,274,BB McCullum,S Shillingford,5,7,11,37.71,8660,60.54,Right-hand bat,165,73,1,4506.2,32.64,64.4,rob,0,WIN,spin,yes,12.119183673469387,20.50938775510204
+1,655,655,NZL,3,274,274,BB McCullum,S Shillingford,5,7,12,37.71,8660,60.54,Right-hand bat,166,73,1,4506.2,32.64,64.4,rob,0,WIN,spin,yes,12.119183673469387,20.50938775510204
+1,656,656,NZL,3,274,274,BB McCullum,S Shillingford,5,7,13,37.71,8660,60.54,Right-hand bat,167,73,1,4506.2,32.64,64.4,rob,0,WIN,spin,yes,12.119183673469387,20.50938775510204

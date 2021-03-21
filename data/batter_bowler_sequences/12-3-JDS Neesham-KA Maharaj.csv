@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1258,188,NZL,4,86,-5,JDS Neesham,KA Maharaj,6,0,0,33.76,1069,66.32,Left-hand bat,43,7,1,1182.5,23.12,49.4,lo,0,NZL,spin,no,16.3466796875,11.1845703125
+3,1259,189,NZL,4,86,-5,JDS Neesham,KA Maharaj,6,0,1,33.76,1069,66.32,Left-hand bat,44,7,1,1182.5,23.12,49.4,lo,0,NZL,spin,no,16.3466796875,11.1845703125
+3,1260,190,NZL,4,86,-5,JDS Neesham,KA Maharaj,6,0,2,33.76,1069,66.32,Left-hand bat,45,7,1,1182.5,23.12,49.4,lo,4,NZL,spin,no,16.3466796875,11.1845703125
+3,1261,191,NZL,4,90,-1,JDS Neesham,KA Maharaj,6,4,3,33.76,1069,66.32,Left-hand bat,46,11,1,1182.5,23.12,49.4,lo,0,NZL,spin,no,16.3466796875,11.1845703125
+3,1262,192,NZL,4,90,-1,JDS Neesham,KA Maharaj,6,4,4,33.76,1069,66.32,Left-hand bat,47,11,1,1182.5,23.12,49.4,lo,W,NZL,spin,no,16.3466796875,11.1845703125

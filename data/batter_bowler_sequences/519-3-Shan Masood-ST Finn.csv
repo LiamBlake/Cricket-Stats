@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1149,73,PAK,1,37,104,Shan Masood,ST Finn,2,20,31,24.5,859,45.63,Left-hand bat,7,5,0,5916.3,29.4,49.3,rfm,2b,ENG,seam,yes,18.0775,7.7475
+3,1150,74,PAK,1,39,106,Shan Masood,ST Finn,2,20,32,24.5,859,45.63,Left-hand bat,8,5,0,5916.3,29.4,49.3,rfm,0,ENG,seam,yes,18.0775,7.7475
+3,1151,75,PAK,1,39,106,Shan Masood,ST Finn,2,20,33,24.5,859,45.63,Left-hand bat,9,5,0,5916.3,29.4,49.3,rfm,0,ENG,seam,yes,18.0775,7.7475
+3,1152,76,PAK,1,39,106,Shan Masood,ST Finn,2,20,34,24.5,859,45.63,Left-hand bat,10,5,0,5916.3,29.4,49.3,rfm,0,ENG,seam,yes,18.0775,7.7475
+3,1153,77,PAK,1,39,106,Shan Masood,ST Finn,2,20,35,24.5,859,45.63,Left-hand bat,11,5,0,5916.3,29.4,49.3,rfm,0,ENG,seam,yes,18.0775,7.7475

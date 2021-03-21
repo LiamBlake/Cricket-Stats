@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,891,891,IND,6,533,533,A Kumble,MG Johnson,8,27,46,17.77,6455,38.82,Right-hand bat,152,96,2,2850,33.32,61.9,lf,1,IND,seam,yes,29.52479338842975,35.429752066115704
+1,894,894,IND,6,535,535,A Kumble,MG Johnson,8,28,47,17.77,6455,38.82,Right-hand bat,155,98,2,2850,33.32,61.9,lf,0,IND,seam,yes,29.52479338842975,35.429752066115704
+1,895,895,IND,6,535,535,A Kumble,MG Johnson,8,28,48,17.77,6455,38.82,Right-hand bat,156,98,2,2850,33.32,61.9,lf,1,IND,seam,yes,29.52479338842975,35.429752066115704
+1,905,905,IND,6,551,551,A Kumble,MG Johnson,8,35,55,17.77,6455,38.82,Right-hand bat,160,108,2,2850,33.32,61.9,lf,0,IND,seam,yes,29.52479338842975,35.429752066115704
+1,906,906,IND,6,551,551,A Kumble,MG Johnson,8,35,56,17.77,6455,38.82,Right-hand bat,161,108,2,2850,33.32,61.9,lf,0,IND,seam,yes,29.52479338842975,35.429752066115704
+1,907,907,IND,6,551,551,A Kumble,MG Johnson,8,35,57,17.77,6455,38.82,Right-hand bat,162,108,2,2850,33.32,61.9,lf,0,IND,seam,yes,29.52479338842975,35.429752066115704
+1,914,914,IND,6,553,553,A Kumble,MG Johnson,8,36,59,17.77,6455,38.82,Right-hand bat,163,108,2,2850,33.32,61.9,lf,1,IND,seam,yes,29.52479338842975,35.429752066115704
+1,916,916,IND,6,555,555,A Kumble,MG Johnson,8,37,60,17.77,6455,38.82,Right-hand bat,165,110,2,2850,33.32,61.9,lf,1,IND,seam,yes,29.52479338842975,35.429752066115704
+1,929,929,IND,6,567,567,A Kumble,MG Johnson,8,39,65,17.77,6455,38.82,Right-hand bat,172,118,2,2850,33.32,61.9,lf,0,IND,seam,yes,29.52479338842975,35.429752066115704
+1,930,930,IND,6,567,567,A Kumble,MG Johnson,8,39,66,17.77,6455,38.82,Right-hand bat,173,118,2,2850,33.32,61.9,lf,1,IND,seam,yes,29.52479338842975,35.429752066115704
+1,941,941,IND,6,579,579,A Kumble,MG Johnson,8,45,72,17.77,6455,38.82,Right-hand bat,178,124,2,2850,33.32,61.9,lf,W,IND,seam,yes,29.52479338842975,35.429752066115704

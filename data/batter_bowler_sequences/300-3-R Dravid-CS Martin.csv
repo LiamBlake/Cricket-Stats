@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1919,3,IND,1,0,28,R Dravid,CS Martin,2,0,0,52.73,27598,42.41,Right-hand bat,3,0,1,11370.5,34.64,60.8,rfm,0,IND,seam,yes,15.408949011446408,24.397502601456814
+3,1920,4,IND,1,0,28,R Dravid,CS Martin,2,0,1,52.73,27598,42.41,Right-hand bat,4,0,1,11370.5,34.64,60.8,rfm,0,IND,seam,yes,15.408949011446408,24.397502601456814
+3,1921,5,IND,1,0,28,R Dravid,CS Martin,2,0,2,52.73,27598,42.41,Right-hand bat,5,0,1,11370.5,34.64,60.8,rfm,0,IND,seam,yes,15.408949011446408,24.397502601456814
+3,1940,24,IND,2,2,30,R Dravid,CS Martin,2,1,11,52.73,27598,42.41,Right-hand bat,12,0,1,11370.5,34.64,60.8,rfm,0,IND,seam,yes,15.408949011446408,24.397502601456814
+3,1941,25,IND,2,2,30,R Dravid,CS Martin,2,1,12,52.73,27598,42.41,Right-hand bat,13,0,1,11370.5,34.64,60.8,rfm,0,IND,seam,yes,15.408949011446408,24.397502601456814
+3,1942,26,IND,2,2,30,R Dravid,CS Martin,2,1,13,52.73,27598,42.41,Right-hand bat,14,0,1,11370.5,34.64,60.8,rfm,0,IND,seam,yes,15.408949011446408,24.397502601456814
+3,1943,27,IND,2,2,30,R Dravid,CS Martin,2,1,14,52.73,27598,42.41,Right-hand bat,15,0,1,11370.5,34.64,60.8,rfm,0,IND,seam,yes,15.408949011446408,24.397502601456814
+3,1944,28,IND,2,2,30,R Dravid,CS Martin,2,1,15,52.73,27598,42.41,Right-hand bat,16,0,1,11370.5,34.64,60.8,rfm,W,IND,seam,yes,15.408949011446408,24.397502601456814

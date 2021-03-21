@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,766,110,RSA,3,45,-293,HM Amla,AD Mathews,3,13,31,47.32,8416,50.6,Right-hand bat,0,0,0,870,64.85,124.2,rm,4,RSA,seam,no,16.6725,8.9775
+2,767,111,RSA,3,49,-289,HM Amla,AD Mathews,3,17,32,47.32,8416,50.6,Right-hand bat,1,4,0,870,64.85,124.2,rm,4,RSA,seam,no,16.6725,8.9775
+2,768,112,RSA,3,53,-285,HM Amla,AD Mathews,3,21,33,47.32,8416,50.6,Right-hand bat,2,8,0,870,64.85,124.2,rm,0,RSA,seam,no,16.6725,8.9775
+2,769,113,RSA,3,53,-285,HM Amla,AD Mathews,3,21,34,47.32,8416,50.6,Right-hand bat,3,8,0,870,64.85,124.2,rm,0,RSA,seam,no,16.6725,8.9775
+2,770,114,RSA,3,53,-285,HM Amla,AD Mathews,3,21,35,47.32,8416,50.6,Right-hand bat,4,8,0,870,64.85,124.2,rm,0,RSA,seam,no,16.6725,8.9775
+2,771,115,RSA,3,53,-285,HM Amla,AD Mathews,3,21,36,47.32,8416,50.6,Right-hand bat,5,8,0,870,64.85,124.2,rm,0,RSA,seam,no,16.6725,8.9775
+2,778,122,RSA,3,55,-283,HM Amla,AD Mathews,3,22,38,47.32,8416,50.6,Right-hand bat,6,8,0,870,64.85,124.2,rm,1wd,RSA,seam,no,16.6725,8.9775
+2,779,123,RSA,3,56,-282,HM Amla,AD Mathews,3,22,38,47.32,8416,50.6,Right-hand bat,7,9,0,870,64.85,124.2,rm,0,RSA,seam,no,16.6725,8.9775
+2,780,124,RSA,3,56,-282,HM Amla,AD Mathews,3,22,39,47.32,8416,50.6,Right-hand bat,8,9,0,870,64.85,124.2,rm,1,RSA,seam,no,16.6725,8.9775
+2,782,126,RSA,3,58,-280,HM Amla,AD Mathews,3,23,40,47.32,8416,50.6,Right-hand bat,10,11,0,870,64.85,124.2,rm,0,RSA,seam,no,16.6725,8.9775
+2,783,127,RSA,3,58,-280,HM Amla,AD Mathews,3,23,41,47.32,8416,50.6,Right-hand bat,11,11,0,870,64.85,124.2,rm,0,RSA,seam,no,16.6725,8.9775
+2,784,128,RSA,3,58,-280,HM Amla,AD Mathews,3,23,42,47.32,8416,50.6,Right-hand bat,12,11,0,870,64.85,124.2,rm,0,RSA,seam,no,16.6725,8.9775

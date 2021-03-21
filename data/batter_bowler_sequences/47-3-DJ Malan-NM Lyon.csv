@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1654,166,ENG,3,62,36,DJ Malan,NM Lyon,5,0,0,24.9,636,39.15,Left-hand bat,34,9,1,16728,31.78,61,rob,0,ENG,spin,yes,24.395555555555557,8.87111111111111
+3,1655,167,ENG,3,62,36,DJ Malan,NM Lyon,5,0,1,24.9,636,39.15,Left-hand bat,35,9,1,16728,31.78,61,rob,0,ENG,spin,yes,24.395555555555557,8.87111111111111
+3,1662,174,ENG,3,62,36,DJ Malan,NM Lyon,5,0,2,24.9,636,39.15,Left-hand bat,36,9,1,16728,31.78,61,rob,0,ENG,spin,yes,24.395555555555557,8.87111111111111
+3,1663,175,ENG,3,62,36,DJ Malan,NM Lyon,5,0,3,24.9,636,39.15,Left-hand bat,37,9,1,16728,31.78,61,rob,0,ENG,spin,yes,24.395555555555557,8.87111111111111
+3,1664,176,ENG,3,62,36,DJ Malan,NM Lyon,5,0,4,24.9,636,39.15,Left-hand bat,38,9,1,16728,31.78,61,rob,1,ENG,spin,yes,24.395555555555557,8.87111111111111
+3,1666,178,ENG,3,64,38,DJ Malan,NM Lyon,5,1,5,24.9,636,39.15,Left-hand bat,40,11,1,16728,31.78,61,rob,0,ENG,spin,yes,24.395555555555557,8.87111111111111
+3,1667,179,ENG,3,64,38,DJ Malan,NM Lyon,5,1,6,24.9,636,39.15,Left-hand bat,41,11,1,16728,31.78,61,rob,0,ENG,spin,yes,24.395555555555557,8.87111111111111
+3,1675,187,ENG,3,68,42,DJ Malan,NM Lyon,5,2,9,24.9,636,39.15,Left-hand bat,43,12,1,16728,31.78,61,rob,0,ENG,spin,yes,24.395555555555557,8.87111111111111
+3,1676,188,ENG,3,68,42,DJ Malan,NM Lyon,5,2,10,24.9,636,39.15,Left-hand bat,44,12,1,16728,31.78,61,rob,0,ENG,spin,yes,24.395555555555557,8.87111111111111
+3,1677,189,ENG,3,68,42,DJ Malan,NM Lyon,5,2,11,24.9,636,39.15,Left-hand bat,45,12,1,16728,31.78,61,rob,1,ENG,spin,yes,24.395555555555557,8.87111111111111
+3,1679,191,ENG,3,70,44,DJ Malan,NM Lyon,5,3,12,24.9,636,39.15,Left-hand bat,47,14,1,16728,31.78,61,rob,0,ENG,spin,yes,24.395555555555557,8.87111111111111
+3,1687,199,ENG,3,74,48,DJ Malan,NM Lyon,5,4,14,24.9,636,39.15,Left-hand bat,49,15,1,16728,31.78,61,rob,0,ENG,spin,yes,24.395555555555557,8.87111111111111
+3,1688,200,ENG,3,74,48,DJ Malan,NM Lyon,5,4,15,24.9,636,39.15,Left-hand bat,50,15,1,16728,31.78,61,rob,0,ENG,spin,yes,24.395555555555557,8.87111111111111
+3,1689,201,ENG,3,74,48,DJ Malan,NM Lyon,5,4,16,24.9,636,39.15,Left-hand bat,51,15,1,16728,31.78,61,rob,W,ENG,spin,yes,24.395555555555557,8.87111111111111

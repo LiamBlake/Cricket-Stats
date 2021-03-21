@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1585,311,WIN,4,101,23,DJ Bravo,M Ntini,7,0,2,31.95,2992,48.06,Right-hand bat,89,29,1,16980.1,27.88,52,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1586,312,WIN,4,101,23,DJ Bravo,M Ntini,7,0,3,31.95,2992,48.06,Right-hand bat,90,29,1,16980.1,27.88,52,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1593,319,WIN,4,101,23,DJ Bravo,M Ntini,7,0,4,31.95,2992,48.06,Right-hand bat,91,29,1,16980.1,27.88,52,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1594,320,WIN,4,101,23,DJ Bravo,M Ntini,7,0,5,31.95,2992,48.06,Right-hand bat,92,29,1,16980.1,27.88,52,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1595,321,WIN,4,101,23,DJ Bravo,M Ntini,7,0,6,31.95,2992,48.06,Right-hand bat,93,29,1,16980.1,27.88,52,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1596,322,WIN,4,101,23,DJ Bravo,M Ntini,7,0,7,31.95,2992,48.06,Right-hand bat,94,29,1,16980.1,27.88,52,rf,1,RSA,seam,yes,26.94949494949495,3.717171717171717
+3,1610,336,WIN,4,107,29,DJ Bravo,M Ntini,7,1,14,31.95,2992,48.06,Right-hand bat,102,31,1,16980.1,27.88,52,rf,0,RSA,seam,yes,26.94949494949495,3.717171717171717

@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,521,24,ZIM,0,11,-208,SF Mire,RL Chase,2,11,12,37,113,65.48,Right-hand bat,0,0,0,2190.5,47.61,84.4,rob,0,WIN,spin,no,6.66875,20.00625
+2,522,25,ZIM,0,11,-208,SF Mire,RL Chase,2,11,13,37,113,65.48,Right-hand bat,1,0,0,2190.5,47.61,84.4,rob,0,WIN,spin,no,6.66875,20.00625
+2,523,26,ZIM,0,11,-208,SF Mire,RL Chase,2,11,14,37,113,65.48,Right-hand bat,2,0,0,2190.5,47.61,84.4,rob,6,WIN,spin,no,6.66875,20.00625
+2,524,27,ZIM,0,17,-202,SF Mire,RL Chase,2,17,15,37,113,65.48,Right-hand bat,3,6,0,2190.5,47.61,84.4,rob,0,WIN,spin,no,6.66875,20.00625
+2,525,28,ZIM,0,17,-202,SF Mire,RL Chase,2,17,16,37,113,65.48,Right-hand bat,4,6,0,2190.5,47.61,84.4,rob,2lb,WIN,spin,no,6.66875,20.00625
+2,526,29,ZIM,0,19,-200,SF Mire,RL Chase,2,17,17,37,113,65.48,Right-hand bat,5,6,0,2190.5,47.61,84.4,rob,0,WIN,spin,no,6.66875,20.00625

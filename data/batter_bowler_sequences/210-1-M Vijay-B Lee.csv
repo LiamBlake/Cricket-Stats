@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,4,4,IND,0,6,6,M Vijay,B Lee,2,0,0,37,134,55.22,Right-hand bat,4,6,0,15648.4,30.44,52.7,rf,0,IND,seam,yes,11.375,21.125
+1,5,5,IND,0,6,6,M Vijay,B Lee,2,0,1,37,134,55.22,Right-hand bat,5,6,0,15648.4,30.44,52.7,rf,2,IND,seam,yes,11.375,21.125
+1,6,6,IND,0,8,8,M Vijay,B Lee,2,2,2,37,134,55.22,Right-hand bat,6,8,0,15648.4,30.44,52.7,rf,0,IND,seam,yes,11.375,21.125
+1,13,13,IND,0,16,16,M Vijay,B Lee,2,2,3,37,134,55.22,Right-hand bat,7,8,0,15648.4,30.44,52.7,rf,0,IND,seam,yes,11.375,21.125
+1,14,14,IND,0,16,16,M Vijay,B Lee,2,2,4,37,134,55.22,Right-hand bat,8,8,0,15648.4,30.44,52.7,rf,3,IND,seam,yes,11.375,21.125
+1,16,16,IND,0,20,20,M Vijay,B Lee,2,5,5,37,134,55.22,Right-hand bat,10,12,0,15648.4,30.44,52.7,rf,0,IND,seam,yes,11.375,21.125
+1,17,17,IND,0,20,20,M Vijay,B Lee,2,5,6,37,134,55.22,Right-hand bat,11,12,0,15648.4,30.44,52.7,rf,0,IND,seam,yes,11.375,21.125
+1,18,18,IND,0,20,20,M Vijay,B Lee,2,5,7,37,134,55.22,Right-hand bat,12,12,0,15648.4,30.44,52.7,rf,1nb,IND,seam,yes,11.375,21.125
+1,19,19,IND,0,21,21,M Vijay,B Lee,2,5,8,37,134,55.22,Right-hand bat,13,13,0,15648.4,30.44,52.7,rf,4,IND,seam,yes,11.375,21.125
+1,26,26,IND,0,31,31,M Vijay,B Lee,2,10,11,37,134,55.22,Right-hand bat,14,17,0,15648.4,30.44,52.7,rf,0,IND,seam,yes,11.375,21.125
+1,27,27,IND,0,31,31,M Vijay,B Lee,2,10,12,37,134,55.22,Right-hand bat,15,17,0,15648.4,30.44,52.7,rf,0,IND,seam,yes,11.375,21.125
+1,28,28,IND,0,31,31,M Vijay,B Lee,2,10,13,37,134,55.22,Right-hand bat,16,17,0,15648.4,30.44,52.7,rf,0,IND,seam,yes,11.375,21.125
+1,29,29,IND,0,31,31,M Vijay,B Lee,2,10,14,37,134,55.22,Right-hand bat,17,17,0,15648.4,30.44,52.7,rf,0,IND,seam,yes,11.375,21.125
+1,30,30,IND,0,31,31,M Vijay,B Lee,2,10,15,37,134,55.22,Right-hand bat,18,17,0,15648.4,30.44,52.7,rf,0,IND,seam,yes,11.375,21.125
+1,31,31,IND,0,31,31,M Vijay,B Lee,2,10,16,37,134,55.22,Right-hand bat,19,17,0,15648.4,30.44,52.7,rf,1,IND,seam,yes,11.375,21.125

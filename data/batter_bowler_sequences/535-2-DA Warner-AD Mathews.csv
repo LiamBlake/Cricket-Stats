@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,463,24,AUS,1,19,-262,DA Warner,AD Mathews,3,14,8,48.82,5939,77.28,Left-hand bat,0,0,0,3480,51.74,112.2,rm,4,SRL,seam,no,7.565625,12.609375
+2,464,25,AUS,1,23,-258,DA Warner,AD Mathews,3,18,9,48.82,5939,77.28,Left-hand bat,1,4,0,3480,51.74,112.2,rm,0,SRL,seam,no,7.565625,12.609375
+2,465,26,AUS,1,23,-258,DA Warner,AD Mathews,3,18,10,48.82,5939,77.28,Left-hand bat,2,4,0,3480,51.74,112.2,rm,2,SRL,seam,no,7.565625,12.609375
+2,466,27,AUS,1,25,-256,DA Warner,AD Mathews,3,20,11,48.82,5939,77.28,Left-hand bat,3,6,0,3480,51.74,112.2,rm,0,SRL,seam,no,7.565625,12.609375
+2,467,28,AUS,1,25,-256,DA Warner,AD Mathews,3,20,12,48.82,5939,77.28,Left-hand bat,4,6,0,3480,51.74,112.2,rm,0,SRL,seam,no,7.565625,12.609375
+2,468,29,AUS,1,25,-256,DA Warner,AD Mathews,3,20,13,48.82,5939,77.28,Left-hand bat,5,6,0,3480,51.74,112.2,rm,0,SRL,seam,no,7.565625,12.609375
+2,487,48,AUS,1,33,-248,DA Warner,AD Mathews,3,25,21,48.82,5939,77.28,Left-hand bat,12,6,0,3480,51.74,112.2,rm,2,SRL,seam,no,7.565625,12.609375
+2,488,49,AUS,1,35,-246,DA Warner,AD Mathews,3,27,22,48.82,5939,77.28,Left-hand bat,13,8,0,3480,51.74,112.2,rm,4,SRL,seam,no,7.565625,12.609375
+2,489,50,AUS,1,39,-242,DA Warner,AD Mathews,3,31,23,48.82,5939,77.28,Left-hand bat,14,12,0,3480,51.74,112.2,rm,0,SRL,seam,no,7.565625,12.609375
+2,490,51,AUS,1,39,-242,DA Warner,AD Mathews,3,31,24,48.82,5939,77.28,Left-hand bat,15,12,0,3480,51.74,112.2,rm,1,SRL,seam,no,7.565625,12.609375

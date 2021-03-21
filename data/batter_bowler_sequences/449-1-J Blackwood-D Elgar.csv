@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,387,387,WIN,5,199,199,J Blackwood,D Elgar,6,17,32,34.71,439,55.35,Right-hand bat,1,1,0,354.1,63.5,88.7,lo,0,RSA,spin,yes,18.0791015625,15.9521484375
+1,388,388,WIN,5,199,199,J Blackwood,D Elgar,6,17,33,34.71,439,55.35,Right-hand bat,2,1,0,354.1,63.5,88.7,lo,0,RSA,spin,yes,18.0791015625,15.9521484375
+1,389,389,WIN,5,199,199,J Blackwood,D Elgar,6,17,34,34.71,439,55.35,Right-hand bat,3,1,0,354.1,63.5,88.7,lo,2,RSA,spin,yes,18.0791015625,15.9521484375
+1,390,390,WIN,5,201,201,J Blackwood,D Elgar,6,19,35,34.71,439,55.35,Right-hand bat,4,3,0,354.1,63.5,88.7,lo,0,RSA,spin,yes,18.0791015625,15.9521484375
+1,391,391,WIN,5,201,201,J Blackwood,D Elgar,6,19,36,34.71,439,55.35,Right-hand bat,5,3,0,354.1,63.5,88.7,lo,0,RSA,spin,yes,18.0791015625,15.9521484375
+1,401,401,WIN,5,205,205,J Blackwood,D Elgar,6,20,41,34.71,439,55.35,Right-hand bat,9,4,0,354.1,63.5,88.7,lo,1,RSA,spin,yes,18.0791015625,15.9521484375

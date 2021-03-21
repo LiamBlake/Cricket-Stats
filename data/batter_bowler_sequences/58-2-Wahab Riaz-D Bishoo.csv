@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1287,717,PAK,7,346,60,Wahab Riaz,D Bishoo,9,4,4,8.29,675,41.77,Right-hand bat,166,85,1,5496.5,37.64,69.6,rls,0,WIN,spin,yes,17.797979797979796,8.898989898989898
+2,1288,718,PAK,7,346,60,Wahab Riaz,D Bishoo,9,4,5,8.29,675,41.77,Right-hand bat,167,85,1,5496.5,37.64,69.6,rls,0,WIN,spin,yes,17.797979797979796,8.898989898989898
+2,1296,726,PAK,7,352,66,Wahab Riaz,D Bishoo,9,8,11,8.29,675,41.77,Right-hand bat,169,86,1,5496.5,37.64,69.6,rls,1,WIN,spin,yes,17.797979797979796,8.898989898989898

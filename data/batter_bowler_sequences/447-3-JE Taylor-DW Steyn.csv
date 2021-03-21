@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1437,225,WIN,6,105,-246,JE Taylor,DW Steyn,8,0,0,14.97,1191,61.62,Right-hand bat,33,16,4,16104.5,22.44,41.4,rf,0,RSA,seam,yes,28.288,4.2432
+3,1438,226,WIN,6,105,-246,JE Taylor,DW Steyn,8,0,1,14.97,1191,61.62,Right-hand bat,34,16,4,16104.5,22.44,41.4,rf,4,RSA,seam,yes,28.288,4.2432
+3,1457,245,WIN,7,117,-234,JE Taylor,DW Steyn,8,5,7,14.97,1191,61.62,Right-hand bat,41,26,4,16104.5,22.44,41.4,rf,4,RSA,seam,yes,28.288,4.2432
+3,1458,246,WIN,7,121,-230,JE Taylor,DW Steyn,8,9,8,14.97,1191,61.62,Right-hand bat,42,30,4,16104.5,22.44,41.4,rf,0,RSA,seam,yes,28.288,4.2432
+3,1459,247,WIN,7,121,-230,JE Taylor,DW Steyn,8,9,9,14.97,1191,61.62,Right-hand bat,43,30,4,16104.5,22.44,41.4,rf,W,RSA,seam,yes,28.288,4.2432

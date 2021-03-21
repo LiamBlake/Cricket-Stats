@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,337,5,IND,0,1,-181,S Dhawan,DJG Sammy,2,0,0,81,236,102.96,Left-hand bat,5,1,0,5730.4,35.66,74.4,rm,0,IND,seam,yes,5.760000000000001,23.040000000000003
+2,344,12,IND,0,9,-173,S Dhawan,DJG Sammy,2,0,1,81,236,102.96,Left-hand bat,6,1,0,5730.4,35.66,74.4,rm,0,IND,seam,yes,5.760000000000001,23.040000000000003
+2,345,13,IND,0,9,-173,S Dhawan,DJG Sammy,2,0,2,81,236,102.96,Left-hand bat,7,1,0,5730.4,35.66,74.4,rm,0,IND,seam,yes,5.760000000000001,23.040000000000003
+2,346,14,IND,0,9,-173,S Dhawan,DJG Sammy,2,0,3,81,236,102.96,Left-hand bat,8,1,0,5730.4,35.66,74.4,rm,0,IND,seam,yes,5.760000000000001,23.040000000000003
+2,347,15,IND,0,9,-173,S Dhawan,DJG Sammy,2,0,4,81,236,102.96,Left-hand bat,9,1,0,5730.4,35.66,74.4,rm,0,IND,seam,yes,5.760000000000001,23.040000000000003
+2,348,16,IND,0,9,-173,S Dhawan,DJG Sammy,2,0,5,81,236,102.96,Left-hand bat,10,1,0,5730.4,35.66,74.4,rm,4,IND,seam,yes,5.760000000000001,23.040000000000003
+2,349,17,IND,0,13,-169,S Dhawan,DJG Sammy,2,4,6,81,236,102.96,Left-hand bat,11,5,0,5730.4,35.66,74.4,rm,4,IND,seam,yes,5.760000000000001,23.040000000000003
+2,357,25,IND,0,18,-164,S Dhawan,DJG Sammy,2,8,7,81,236,102.96,Left-hand bat,12,9,0,5730.4,35.66,74.4,rm,4,IND,seam,yes,5.760000000000001,23.040000000000003
+2,358,26,IND,0,22,-160,S Dhawan,DJG Sammy,2,12,8,81,236,102.96,Left-hand bat,13,13,0,5730.4,35.66,74.4,rm,0,IND,seam,yes,5.760000000000001,23.040000000000003
+2,359,27,IND,0,22,-160,S Dhawan,DJG Sammy,2,12,9,81,236,102.96,Left-hand bat,14,13,0,5730.4,35.66,74.4,rm,4,IND,seam,yes,5.760000000000001,23.040000000000003
+2,360,28,IND,0,26,-156,S Dhawan,DJG Sammy,2,16,10,81,236,102.96,Left-hand bat,15,17,0,5730.4,35.66,74.4,rm,0,IND,seam,yes,5.760000000000001,23.040000000000003
+2,361,29,IND,0,26,-156,S Dhawan,DJG Sammy,2,16,11,81,236,102.96,Left-hand bat,16,17,0,5730.4,35.66,74.4,rm,1,IND,seam,yes,5.760000000000001,23.040000000000003

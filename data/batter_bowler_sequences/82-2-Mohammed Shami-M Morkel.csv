@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,841,401,IND,8,191,-95,Mohammed Shami,M Morkel,10,0,0,14.52,440,75.9,Right-hand bat,95,45,2,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+2,861,421,IND,9,201,-85,Mohammed Shami,M Morkel,10,0,4,14.52,440,75.9,Right-hand bat,103,53,2,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+2,862,422,IND,9,201,-85,Mohammed Shami,M Morkel,10,0,5,14.52,440,75.9,Right-hand bat,104,53,2,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+2,863,423,IND,9,201,-85,Mohammed Shami,M Morkel,10,0,6,14.52,440,75.9,Right-hand bat,105,53,2,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+2,864,424,IND,9,201,-85,Mohammed Shami,M Morkel,10,0,7,14.52,440,75.9,Right-hand bat,106,53,2,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+2,865,425,IND,9,201,-85,Mohammed Shami,M Morkel,10,0,8,14.52,440,75.9,Right-hand bat,107,53,2,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+2,872,432,IND,9,205,-81,Mohammed Shami,M Morkel,10,0,9,14.52,440,75.9,Right-hand bat,108,53,2,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+2,873,433,IND,9,205,-81,Mohammed Shami,M Morkel,10,0,10,14.52,440,75.9,Right-hand bat,109,53,2,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+2,874,434,IND,9,205,-81,Mohammed Shami,M Morkel,10,0,11,14.52,440,75.9,Right-hand bat,110,53,2,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+2,875,435,IND,9,205,-81,Mohammed Shami,M Morkel,10,0,12,14.52,440,75.9,Right-hand bat,111,53,2,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95
+2,876,436,IND,9,205,-81,Mohammed Shami,M Morkel,10,0,13,14.52,440,75.9,Right-hand bat,112,53,2,15540.5,28.39,54.5,rf,4,RSA,seam,no,18.05,0.95
+2,877,437,IND,9,209,-77,Mohammed Shami,M Morkel,10,4,14,14.52,440,75.9,Right-hand bat,113,57,2,15540.5,28.39,54.5,rf,0,RSA,seam,no,18.05,0.95

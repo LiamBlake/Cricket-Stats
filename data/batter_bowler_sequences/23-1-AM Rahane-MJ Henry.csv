@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,174,174,IND,3,62,62,AM Rahane,MJ Henry,5,3,19,47.57,3718,53.73,Right-hand bat,42,18,2,1254.1,46.06,78.4,rfm,0,IND,seam,yes,15.925,8.575
+1,175,175,IND,3,62,62,AM Rahane,MJ Henry,5,3,20,47.57,3718,53.73,Right-hand bat,43,18,2,1254.1,46.06,78.4,rfm,0,IND,seam,yes,15.925,8.575
+1,176,176,IND,3,62,62,AM Rahane,MJ Henry,5,3,21,47.57,3718,53.73,Right-hand bat,44,18,2,1254.1,46.06,78.4,rfm,0,IND,seam,yes,15.925,8.575
+1,177,177,IND,3,62,62,AM Rahane,MJ Henry,5,3,22,47.57,3718,53.73,Right-hand bat,45,18,2,1254.1,46.06,78.4,rfm,0,IND,seam,yes,15.925,8.575
+1,178,178,IND,3,62,62,AM Rahane,MJ Henry,5,3,23,47.57,3718,53.73,Right-hand bat,46,18,2,1254.1,46.06,78.4,rfm,0,IND,seam,yes,15.925,8.575
+1,179,179,IND,3,62,62,AM Rahane,MJ Henry,5,3,24,47.57,3718,53.73,Right-hand bat,47,18,2,1254.1,46.06,78.4,rfm,0,IND,seam,yes,15.925,8.575
+1,201,201,IND,3,72,72,AM Rahane,MJ Henry,5,7,32,47.57,3718,53.73,Right-hand bat,57,23,2,1254.1,46.06,78.4,rfm,0,IND,seam,yes,15.925,8.575
+1,202,202,IND,3,72,72,AM Rahane,MJ Henry,5,7,33,47.57,3718,53.73,Right-hand bat,58,23,2,1254.1,46.06,78.4,rfm,0,IND,seam,yes,15.925,8.575
+1,203,203,IND,3,72,72,AM Rahane,MJ Henry,5,7,34,47.57,3718,53.73,Right-hand bat,59,23,2,1254.1,46.06,78.4,rfm,4,IND,seam,yes,15.925,8.575
+1,354,354,IND,3,140,140,AM Rahane,MJ Henry,5,48,94,47.57,3718,53.73,Right-hand bat,60,27,2,1254.1,46.06,78.4,rfm,0,IND,seam,yes,15.925,8.575
+1,355,355,IND,3,140,140,AM Rahane,MJ Henry,5,48,95,47.57,3718,53.73,Right-hand bat,61,27,2,1254.1,46.06,78.4,rfm,0,IND,seam,yes,15.925,8.575
+1,356,356,IND,3,140,140,AM Rahane,MJ Henry,5,48,96,47.57,3718,53.73,Right-hand bat,62,27,2,1254.1,46.06,78.4,rfm,0,IND,seam,yes,15.925,8.575
+1,357,357,IND,3,140,140,AM Rahane,MJ Henry,5,48,97,47.57,3718,53.73,Right-hand bat,63,27,2,1254.1,46.06,78.4,rfm,0,IND,seam,yes,15.925,8.575
+1,358,358,IND,3,140,140,AM Rahane,MJ Henry,5,48,98,47.57,3718,53.73,Right-hand bat,64,27,2,1254.1,46.06,78.4,rfm,0,IND,seam,yes,15.925,8.575
+1,359,359,IND,3,140,140,AM Rahane,MJ Henry,5,48,99,47.57,3718,53.73,Right-hand bat,65,27,2,1254.1,46.06,78.4,rfm,2,IND,seam,yes,15.925,8.575

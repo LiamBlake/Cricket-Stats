@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1080,18,ENG,0,23,-83,AN Cook,JO Holder,1,7,5,46.33,24767,46.95,Left-hand bat,0,0,0,4140.4,36.61,84.5,rmf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
+4,1081,19,ENG,0,23,-83,AN Cook,JO Holder,1,7,6,46.33,24767,46.95,Left-hand bat,1,0,0,4140.4,36.61,84.5,rmf,1,WIN,seam,no,18.761706555671175,0.6253902185223725
+4,1083,21,ENG,0,25,-81,AN Cook,JO Holder,1,8,7,46.33,24767,46.95,Left-hand bat,3,2,0,4140.4,36.61,84.5,rmf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
+4,1084,22,ENG,0,25,-81,AN Cook,JO Holder,1,8,8,46.33,24767,46.95,Left-hand bat,4,2,0,4140.4,36.61,84.5,rmf,2,WIN,seam,no,18.761706555671175,0.6253902185223725
+4,1085,23,ENG,0,27,-79,AN Cook,JO Holder,1,10,9,46.33,24767,46.95,Left-hand bat,5,4,0,4140.4,36.61,84.5,rmf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
+4,1092,30,ENG,0,29,-77,AN Cook,JO Holder,1,11,14,46.33,24767,46.95,Left-hand bat,6,4,0,4140.4,36.61,84.5,rmf,3,WIN,seam,no,18.761706555671175,0.6253902185223725

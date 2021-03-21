@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1932,36,AUS,1,38,135,CJL Rogers,Mohammed Shami,1,21,17,39.35,3156,48.63,Left-hand bat,0,0,0,2676.3,36.14,57,rf,0,AUS,seam,yes,36.166666666666664,15.5
+3,1933,37,AUS,1,38,135,CJL Rogers,Mohammed Shami,1,21,18,39.35,3156,48.63,Left-hand bat,1,0,0,2676.3,36.14,57,rf,4,AUS,seam,yes,36.166666666666664,15.5
+3,1934,38,AUS,1,42,139,CJL Rogers,Mohammed Shami,1,25,19,39.35,3156,48.63,Left-hand bat,2,4,0,2676.3,36.14,57,rf,0,AUS,seam,yes,36.166666666666664,15.5
+3,1935,39,AUS,1,42,139,CJL Rogers,Mohammed Shami,1,25,20,39.35,3156,48.63,Left-hand bat,3,4,0,2676.3,36.14,57,rf,1,AUS,seam,yes,36.166666666666664,15.5
+3,1937,41,AUS,1,44,141,CJL Rogers,Mohammed Shami,1,26,21,39.35,3156,48.63,Left-hand bat,5,6,0,2676.3,36.14,57,rf,0,AUS,seam,yes,36.166666666666664,15.5
+3,1944,48,AUS,2,48,145,CJL Rogers,Mohammed Shami,1,26,22,39.35,3156,48.63,Left-hand bat,6,6,0,2676.3,36.14,57,rf,1nb,AUS,seam,yes,36.166666666666664,15.5
+3,1945,49,AUS,2,49,146,CJL Rogers,Mohammed Shami,1,26,23,39.35,3156,48.63,Left-hand bat,7,7,0,2676.3,36.14,57,rf,4,AUS,seam,yes,36.166666666666664,15.5
+3,1946,50,AUS,2,53,150,CJL Rogers,Mohammed Shami,1,30,24,39.35,3156,48.63,Left-hand bat,8,11,0,2676.3,36.14,57,rf,0,AUS,seam,yes,36.166666666666664,15.5
+3,1947,51,AUS,2,53,150,CJL Rogers,Mohammed Shami,1,30,25,39.35,3156,48.63,Left-hand bat,9,11,0,2676.3,36.14,57,rf,0,AUS,seam,yes,36.166666666666664,15.5
+3,1948,52,AUS,2,53,150,CJL Rogers,Mohammed Shami,1,30,26,39.35,3156,48.63,Left-hand bat,10,11,0,2676.3,36.14,57,rf,1,AUS,seam,yes,36.166666666666664,15.5

@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1961,142,NZL,4,80,90,JDS Neesham,Zulfiqar Babar,6,0,2,44.27,715,68.11,Left-hand bat,58,22,2,1932.2,30.09,58.6,lo,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+3,1962,143,NZL,4,80,90,JDS Neesham,Zulfiqar Babar,6,0,3,44.27,715,68.11,Left-hand bat,59,22,2,1932.2,30.09,58.6,lo,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+3,1969,150,NZL,4,84,94,JDS Neesham,Zulfiqar Babar,6,3,8,44.27,715,68.11,Left-hand bat,60,22,2,1932.2,30.09,58.6,lo,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+3,1970,151,NZL,4,84,94,JDS Neesham,Zulfiqar Babar,6,3,9,44.27,715,68.11,Left-hand bat,61,22,2,1932.2,30.09,58.6,lo,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+3,1971,152,NZL,4,84,94,JDS Neesham,Zulfiqar Babar,6,3,10,44.27,715,68.11,Left-hand bat,62,22,2,1932.2,30.09,58.6,lo,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+3,1972,153,NZL,4,84,94,JDS Neesham,Zulfiqar Babar,6,3,11,44.27,715,68.11,Left-hand bat,63,22,2,1932.2,30.09,58.6,lo,2,NZL,spin,yes,13.96712802768166,22.56228373702422
+3,1973,154,NZL,4,86,96,JDS Neesham,Zulfiqar Babar,6,5,12,44.27,715,68.11,Left-hand bat,64,24,2,1932.2,30.09,58.6,lo,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+3,1974,155,NZL,4,86,96,JDS Neesham,Zulfiqar Babar,6,5,13,44.27,715,68.11,Left-hand bat,65,24,2,1932.2,30.09,58.6,lo,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+3,1986,167,NZL,4,92,102,JDS Neesham,Zulfiqar Babar,6,5,16,44.27,715,68.11,Left-hand bat,71,28,2,1932.2,30.09,58.6,lo,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+3,1995,176,NZL,4,96,106,JDS Neesham,Zulfiqar Babar,6,5,17,44.27,715,68.11,Left-hand bat,74,31,2,1932.2,30.09,58.6,lo,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+3,1996,177,NZL,4,96,106,JDS Neesham,Zulfiqar Babar,6,5,18,44.27,715,68.11,Left-hand bat,75,31,2,1932.2,30.09,58.6,lo,1,NZL,spin,yes,13.96712802768166,22.56228373702422
+3,2011,192,NZL,4,111,121,JDS Neesham,Zulfiqar Babar,6,8,21,44.27,715,68.11,Left-hand bat,78,33,2,1932.2,30.09,58.6,lo,1,NZL,spin,yes,13.96712802768166,22.56228373702422
+3,2024,205,NZL,4,125,135,JDS Neesham,Zulfiqar Babar,6,11,24,44.27,715,68.11,Left-hand bat,85,37,2,1932.2,30.09,58.6,lo,0,NZL,spin,yes,13.96712802768166,22.56228373702422
+3,2025,206,NZL,4,125,135,JDS Neesham,Zulfiqar Babar,6,11,25,44.27,715,68.11,Left-hand bat,86,37,2,1932.2,30.09,58.6,lo,W,NZL,spin,yes,13.96712802768166,22.56228373702422

@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1483,332,IND,4,172,-72,Yuvraj Singh,SL Malinga,6,0,0,35.63,2782,58.91,Left-hand bat,41,27,3,4956.1,32.45,50.5,rf,4,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1484,333,IND,4,176,-68,Yuvraj Singh,SL Malinga,6,4,1,35.63,2782,58.91,Left-hand bat,42,31,3,4956.1,32.45,50.5,rf,0,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1485,334,IND,4,176,-68,Yuvraj Singh,SL Malinga,6,4,2,35.63,2782,58.91,Left-hand bat,43,31,3,4956.1,32.45,50.5,rf,0,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1492,341,IND,4,178,-66,Yuvraj Singh,SL Malinga,6,4,3,35.63,2782,58.91,Left-hand bat,44,31,3,4956.1,32.45,50.5,rf,0,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1493,342,IND,4,178,-66,Yuvraj Singh,SL Malinga,6,4,4,35.63,2782,58.91,Left-hand bat,45,31,3,4956.1,32.45,50.5,rf,0,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1494,343,IND,4,178,-66,Yuvraj Singh,SL Malinga,6,4,5,35.63,2782,58.91,Left-hand bat,46,31,3,4956.1,32.45,50.5,rf,0,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1495,344,IND,4,178,-66,Yuvraj Singh,SL Malinga,6,4,6,35.63,2782,58.91,Left-hand bat,47,31,3,4956.1,32.45,50.5,rf,0,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1496,345,IND,4,178,-66,Yuvraj Singh,SL Malinga,6,4,7,35.63,2782,58.91,Left-hand bat,48,31,3,4956.1,32.45,50.5,rf,0,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1497,346,IND,4,178,-66,Yuvraj Singh,SL Malinga,6,4,8,35.63,2782,58.91,Left-hand bat,49,31,3,4956.1,32.45,50.5,rf,0,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1506,355,IND,4,180,-64,Yuvraj Singh,SL Malinga,6,4,9,35.63,2782,58.91,Left-hand bat,52,32,3,4956.1,32.45,50.5,rf,0,SRL,seam,no,26.67091836734694,17.25765306122449
+3,1507,356,IND,4,180,-64,Yuvraj Singh,SL Malinga,6,4,10,35.63,2782,58.91,Left-hand bat,53,32,3,4956.1,32.45,50.5,rf,1,SRL,seam,no,26.67091836734694,17.25765306122449

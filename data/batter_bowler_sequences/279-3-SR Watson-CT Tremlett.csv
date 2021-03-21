@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1722,6,AUS,0,7,-357,SR Watson,CT Tremlett,1,7,3,41.55,3880,50.33,Right-hand bat,0,0,0,1590.4,26.1,53.1,rmf,0,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,1723,7,AUS,0,7,-357,SR Watson,CT Tremlett,1,7,4,41.55,3880,50.33,Right-hand bat,1,0,0,1590.4,26.1,53.1,rmf,0,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,1724,8,AUS,0,7,-357,SR Watson,CT Tremlett,1,7,5,41.55,3880,50.33,Right-hand bat,2,0,0,1590.4,26.1,53.1,rmf,0,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,1725,9,AUS,0,7,-357,SR Watson,CT Tremlett,1,7,6,41.55,3880,50.33,Right-hand bat,3,0,0,1590.4,26.1,53.1,rmf,0,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,1726,10,AUS,0,7,-357,SR Watson,CT Tremlett,1,7,7,41.55,3880,50.33,Right-hand bat,4,0,0,1590.4,26.1,53.1,rmf,0,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,1727,11,AUS,0,7,-357,SR Watson,CT Tremlett,1,7,8,41.55,3880,50.33,Right-hand bat,5,0,0,1590.4,26.1,53.1,rmf,0,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,1758,42,AUS,0,25,-339,SR Watson,CT Tremlett,1,19,19,41.55,3880,50.33,Right-hand bat,18,3,0,1590.4,26.1,53.1,rmf,0,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,1759,43,AUS,0,25,-339,SR Watson,CT Tremlett,1,19,20,41.55,3880,50.33,Right-hand bat,19,3,0,1590.4,26.1,53.1,rmf,4,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,1760,44,AUS,0,29,-335,SR Watson,CT Tremlett,1,23,21,41.55,3880,50.33,Right-hand bat,20,7,0,1590.4,26.1,53.1,rmf,0,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,1761,45,AUS,0,29,-335,SR Watson,CT Tremlett,1,23,22,41.55,3880,50.33,Right-hand bat,21,7,0,1590.4,26.1,53.1,rmf,4,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,1762,46,AUS,0,33,-331,SR Watson,CT Tremlett,1,27,23,41.55,3880,50.33,Right-hand bat,22,11,0,1590.4,26.1,53.1,rmf,1,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,1772,56,AUS,0,35,-329,SR Watson,CT Tremlett,1,28,30,41.55,3880,50.33,Right-hand bat,26,13,0,1590.4,26.1,53.1,rmf,0,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,1773,57,AUS,0,35,-329,SR Watson,CT Tremlett,1,28,31,41.55,3880,50.33,Right-hand bat,27,13,0,1590.4,26.1,53.1,rmf,4,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,1774,58,AUS,0,39,-325,SR Watson,CT Tremlett,1,32,32,41.55,3880,50.33,Right-hand bat,28,17,0,1590.4,26.1,53.1,rmf,0,AUS,seam,yes,34.81111111111111,5.355555555555555
+3,1775,59,AUS,0,39,-325,SR Watson,CT Tremlett,1,32,33,41.55,3880,50.33,Right-hand bat,29,17,0,1590.4,26.1,53.1,rmf,4,AUS,seam,yes,34.81111111111111,5.355555555555555

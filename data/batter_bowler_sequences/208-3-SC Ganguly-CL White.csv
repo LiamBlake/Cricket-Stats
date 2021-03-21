@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1682,290,IND,2,224,425,SC Ganguly,CL White,4,0,0,42.2,13855,51.17,Left-hand bat,29,29,1,348,51.75,87,rls,1,IND,spin,yes,19.45087235996327,18.306703397612488
+3,1743,351,IND,2,277,478,SC Ganguly,CL White,4,24,26,42.2,13855,51.17,Left-hand bat,30,30,1,348,51.75,87,rls,1,IND,spin,yes,19.45087235996327,18.306703397612488
+3,1748,356,IND,2,279,480,SC Ganguly,CL White,4,25,27,42.2,13855,51.17,Left-hand bat,35,32,1,348,51.75,87,rls,0,IND,spin,yes,19.45087235996327,18.306703397612488
+3,1757,365,IND,2,283,484,SC Ganguly,CL White,4,26,32,42.2,13855,51.17,Left-hand bat,38,33,1,348,51.75,87,rls,3b,IND,spin,yes,19.45087235996327,18.306703397612488
+3,1760,368,IND,2,287,488,SC Ganguly,CL White,4,26,33,42.2,13855,51.17,Left-hand bat,41,34,1,348,51.75,87,rls,0,IND,spin,yes,19.45087235996327,18.306703397612488

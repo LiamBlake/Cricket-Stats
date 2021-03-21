@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,48,48,SRL,2,18,18,NT Paranavitana,M Morkel,1,5,22,34.59,3609,42.17,Left-hand bat,0,0,0,6582.1,30.28,53.9,rf,0,RSA,seam,no,22.23,2.4699999999999998
+1,49,49,SRL,2,18,18,NT Paranavitana,M Morkel,1,5,23,34.59,3609,42.17,Left-hand bat,1,0,0,6582.1,30.28,53.9,rf,0,RSA,seam,no,22.23,2.4699999999999998
+1,50,50,SRL,2,18,18,NT Paranavitana,M Morkel,1,5,24,34.59,3609,42.17,Left-hand bat,2,0,0,6582.1,30.28,53.9,rf,0,RSA,seam,no,22.23,2.4699999999999998
+1,51,51,SRL,2,18,18,NT Paranavitana,M Morkel,1,5,25,34.59,3609,42.17,Left-hand bat,3,0,0,6582.1,30.28,53.9,rf,0,RSA,seam,no,22.23,2.4699999999999998
+1,52,52,SRL,2,18,18,NT Paranavitana,M Morkel,1,5,26,34.59,3609,42.17,Left-hand bat,4,0,0,6582.1,30.28,53.9,rf,1,RSA,seam,no,22.23,2.4699999999999998
+1,60,60,SRL,2,20,20,NT Paranavitana,M Morkel,1,7,33,34.59,3609,42.17,Left-hand bat,6,1,0,6582.1,30.28,53.9,rf,4,RSA,seam,no,22.23,2.4699999999999998
+1,61,61,SRL,2,24,24,NT Paranavitana,M Morkel,1,11,34,34.59,3609,42.17,Left-hand bat,7,5,0,6582.1,30.28,53.9,rf,0,RSA,seam,no,22.23,2.4699999999999998
+1,62,62,SRL,2,24,24,NT Paranavitana,M Morkel,1,11,35,34.59,3609,42.17,Left-hand bat,8,5,0,6582.1,30.28,53.9,rf,3,RSA,seam,no,22.23,2.4699999999999998
+1,102,102,SRL,2,39,39,NT Paranavitana,M Morkel,1,19,52,34.59,3609,42.17,Left-hand bat,30,12,0,6582.1,30.28,53.9,rf,0,RSA,seam,no,22.23,2.4699999999999998

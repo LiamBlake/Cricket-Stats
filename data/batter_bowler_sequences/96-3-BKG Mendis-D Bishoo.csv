@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1251,164,SRL,4,74,27,BKG Mendis,D Bishoo,5,14,38,39,3326,58.62,Right-hand bat,4,1,0,7236.2,36.03,68.2,rls,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1252,165,SRL,4,74,27,BKG Mendis,D Bishoo,5,14,39,39,3326,58.62,Right-hand bat,5,1,0,7236.2,36.03,68.2,rls,4,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1259,172,SRL,4,78,31,BKG Mendis,D Bishoo,5,18,40,39,3326,58.62,Right-hand bat,6,5,0,7236.2,36.03,68.2,rls,1,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1261,174,SRL,4,80,33,BKG Mendis,D Bishoo,5,19,41,39,3326,58.62,Right-hand bat,8,7,0,7236.2,36.03,68.2,rls,2,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1262,175,SRL,4,82,35,BKG Mendis,D Bishoo,5,21,42,39,3326,58.62,Right-hand bat,9,9,0,7236.2,36.03,68.2,rls,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1263,176,SRL,4,82,35,BKG Mendis,D Bishoo,5,21,43,39,3326,58.62,Right-hand bat,10,9,0,7236.2,36.03,68.2,rls,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1264,177,SRL,4,82,35,BKG Mendis,D Bishoo,5,21,44,39,3326,58.62,Right-hand bat,11,9,0,7236.2,36.03,68.2,rls,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1277,190,SRL,4,89,42,BKG Mendis,D Bishoo,5,21,48,39,3326,58.62,Right-hand bat,17,14,0,7236.2,36.03,68.2,rls,4,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1284,197,SRL,4,105,58,BKG Mendis,D Bishoo,5,30,52,39,3326,58.62,Right-hand bat,18,18,0,7236.2,36.03,68.2,rls,4,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1285,198,SRL,4,109,62,BKG Mendis,D Bishoo,5,34,53,39,3326,58.62,Right-hand bat,19,22,0,7236.2,36.03,68.2,rls,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1286,199,SRL,4,109,62,BKG Mendis,D Bishoo,5,34,54,39,3326,58.62,Right-hand bat,20,22,0,7236.2,36.03,68.2,rls,1,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1288,201,SRL,4,111,64,BKG Mendis,D Bishoo,5,35,55,39,3326,58.62,Right-hand bat,22,24,0,7236.2,36.03,68.2,rls,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1289,202,SRL,4,111,64,BKG Mendis,D Bishoo,5,35,56,39,3326,58.62,Right-hand bat,23,24,0,7236.2,36.03,68.2,rls,2,SRL,spin,yes,28.070204081632653,1.7012244897959183

@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1722,235,WIN,3,100,-180,S Chanderpaul,SK Raina,5,9,56,48.56,21824,42.28,Left-hand bat,0,0,0,390.2,32.57,56,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+4,1723,236,WIN,3,100,-180,S Chanderpaul,SK Raina,5,9,57,48.56,21824,42.28,Left-hand bat,1,0,0,390.2,32.57,56,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+4,1724,237,WIN,3,100,-180,S Chanderpaul,SK Raina,5,9,58,48.56,21824,42.28,Left-hand bat,2,0,0,390.2,32.57,56,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+4,1725,238,WIN,3,100,-180,S Chanderpaul,SK Raina,5,9,59,48.56,21824,42.28,Left-hand bat,3,0,0,390.2,32.57,56,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+4,1726,239,WIN,3,100,-180,S Chanderpaul,SK Raina,5,9,60,48.56,21824,42.28,Left-hand bat,4,0,0,390.2,32.57,56,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+4,1727,240,WIN,3,100,-180,S Chanderpaul,SK Raina,5,9,61,48.56,21824,42.28,Left-hand bat,5,0,0,390.2,32.57,56,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+4,1738,251,WIN,3,102,-178,S Chanderpaul,SK Raina,5,9,63,48.56,21824,42.28,Left-hand bat,10,1,0,390.2,32.57,56,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+4,1739,252,WIN,3,102,-178,S Chanderpaul,SK Raina,5,9,64,48.56,21824,42.28,Left-hand bat,11,1,0,390.2,32.57,56,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+4,1748,261,WIN,3,104,-176,S Chanderpaul,SK Raina,5,9,70,48.56,21824,42.28,Left-hand bat,14,2,0,390.2,32.57,56,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+4,1749,262,WIN,3,104,-176,S Chanderpaul,SK Raina,5,9,71,48.56,21824,42.28,Left-hand bat,15,2,0,390.2,32.57,56,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+4,1750,263,WIN,3,104,-176,S Chanderpaul,SK Raina,5,9,72,48.56,21824,42.28,Left-hand bat,16,2,0,390.2,32.57,56,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+4,1751,264,WIN,3,104,-176,S Chanderpaul,SK Raina,5,9,73,48.56,21824,42.28,Left-hand bat,17,2,0,390.2,32.57,56,rob,1,WIN,spin,yes,22.163452708907254,3.9577594123048665
+4,1758,271,WIN,3,106,-174,S Chanderpaul,SK Raina,5,11,80,48.56,21824,42.28,Left-hand bat,18,3,0,390.2,32.57,56,rob,1,WIN,spin,yes,22.163452708907254,3.9577594123048665
+4,1762,275,WIN,3,108,-172,S Chanderpaul,SK Raina,5,12,81,48.56,21824,42.28,Left-hand bat,22,5,0,390.2,32.57,56,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+4,1763,276,WIN,3,108,-172,S Chanderpaul,SK Raina,5,12,82,48.56,21824,42.28,Left-hand bat,23,5,0,390.2,32.57,56,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665

@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1510,359,IND,4,181,-63,Yuvraj Singh,M Muralitharan,6,5,11,35.63,2782,58.91,Left-hand bat,108,57,0,44034.5,22.72,55,rob,0,SRL,spin,no,26.67091836734694,17.25765306122449
+3,1511,360,IND,4,181,-63,Yuvraj Singh,M Muralitharan,6,5,12,35.63,2782,58.91,Left-hand bat,109,57,0,44034.5,22.72,55,rob,0,SRL,spin,no,26.67091836734694,17.25765306122449
+3,1512,361,IND,4,181,-63,Yuvraj Singh,M Muralitharan,6,5,13,35.63,2782,58.91,Left-hand bat,110,57,0,44034.5,22.72,55,rob,W,SRL,spin,no,26.67091836734694,17.25765306122449

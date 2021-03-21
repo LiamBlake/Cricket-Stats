@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2334,301,IND,4,162,125,VVS Laxman,MG Johnson,6,0,0,44.2,11544,49.01,Right-hand bat,84,26,3,1500.1,32.12,62.5,lf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+3,2335,302,IND,4,162,125,VVS Laxman,MG Johnson,6,0,1,44.2,11544,49.01,Right-hand bat,85,26,3,1500.1,32.12,62.5,lf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+3,2336,303,IND,4,162,125,VVS Laxman,MG Johnson,6,0,2,44.2,11544,49.01,Right-hand bat,86,26,3,1500.1,32.12,62.5,lf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+3,2337,304,IND,4,162,125,VVS Laxman,MG Johnson,6,0,3,44.2,11544,49.01,Right-hand bat,87,26,3,1500.1,32.12,62.5,lf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+3,2347,314,IND,4,164,127,VVS Laxman,MG Johnson,6,0,8,44.2,11544,49.01,Right-hand bat,91,27,3,1500.1,32.12,62.5,lf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+3,2348,315,IND,4,164,127,VVS Laxman,MG Johnson,6,0,9,44.2,11544,49.01,Right-hand bat,92,27,3,1500.1,32.12,62.5,lf,1wd,AUS,seam,yes,39.11934156378601,13.039780521262003
+3,2349,316,IND,4,165,128,VVS Laxman,MG Johnson,6,0,9,44.2,11544,49.01,Right-hand bat,93,28,3,1500.1,32.12,62.5,lf,1,AUS,seam,yes,39.11934156378601,13.039780521262003
+3,2357,324,IND,4,169,132,VVS Laxman,MG Johnson,6,3,15,44.2,11544,49.01,Right-hand bat,95,29,3,1500.1,32.12,62.5,lf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+3,2358,325,IND,4,169,132,VVS Laxman,MG Johnson,6,3,16,44.2,11544,49.01,Right-hand bat,96,29,3,1500.1,32.12,62.5,lf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+3,2359,326,IND,4,169,132,VVS Laxman,MG Johnson,6,3,17,44.2,11544,49.01,Right-hand bat,97,29,3,1500.1,32.12,62.5,lf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+3,2360,327,IND,4,169,132,VVS Laxman,MG Johnson,6,3,18,44.2,11544,49.01,Right-hand bat,98,29,3,1500.1,32.12,62.5,lf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+3,2361,328,IND,4,169,132,VVS Laxman,MG Johnson,6,3,19,44.2,11544,49.01,Right-hand bat,99,29,3,1500.1,32.12,62.5,lf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+3,2362,329,IND,4,169,132,VVS Laxman,MG Johnson,6,3,20,44.2,11544,49.01,Right-hand bat,100,29,3,1500.1,32.12,62.5,lf,3,AUS,seam,yes,39.11934156378601,13.039780521262003

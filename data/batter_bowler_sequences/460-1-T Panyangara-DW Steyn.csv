@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,400,400,ZIM,6,195,195,T Panyangara,DW Steyn,8,3,7,19.55,267,65.91,Right-hand bat,90,35,3,15972.3,22.56,41.7,rf,4,ZIM,seam,yes,14.618106139438087,13.704474505723207
+1,401,401,ZIM,6,199,199,T Panyangara,DW Steyn,8,7,8,19.55,267,65.91,Right-hand bat,91,39,3,15972.3,22.56,41.7,rf,0,ZIM,seam,yes,14.618106139438087,13.704474505723207
+1,402,402,ZIM,6,199,199,T Panyangara,DW Steyn,8,7,9,19.55,267,65.91,Right-hand bat,92,39,3,15972.3,22.56,41.7,rf,4,ZIM,seam,yes,14.618106139438087,13.704474505723207
+1,403,403,ZIM,6,203,203,T Panyangara,DW Steyn,8,11,10,19.55,267,65.91,Right-hand bat,93,43,3,15972.3,22.56,41.7,rf,0,ZIM,seam,yes,14.618106139438087,13.704474505723207
+1,404,404,ZIM,6,203,203,T Panyangara,DW Steyn,8,11,11,19.55,267,65.91,Right-hand bat,94,43,3,15972.3,22.56,41.7,rf,0,ZIM,seam,yes,14.618106139438087,13.704474505723207
+1,405,405,ZIM,6,203,203,T Panyangara,DW Steyn,8,11,12,19.55,267,65.91,Right-hand bat,95,43,3,15972.3,22.56,41.7,rf,1,ZIM,seam,yes,14.618106139438087,13.704474505723207

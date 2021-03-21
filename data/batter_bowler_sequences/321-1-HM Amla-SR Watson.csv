@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,98,98,RSA,2,48,48,HM Amla,SR Watson,3,1,27,47.54,8219,50.32,Right-hand bat,13,5,1,3162.2,28.01,56.5,rfm,0,RSA,seam,yes,23.481994459833793,8.386426592797784
+1,99,99,RSA,2,48,48,HM Amla,SR Watson,3,1,28,47.54,8219,50.32,Right-hand bat,14,5,1,3162.2,28.01,56.5,rfm,0,RSA,seam,yes,23.481994459833793,8.386426592797784
+1,100,100,RSA,2,48,48,HM Amla,SR Watson,3,1,29,47.54,8219,50.32,Right-hand bat,15,5,1,3162.2,28.01,56.5,rfm,0,RSA,seam,yes,23.481994459833793,8.386426592797784
+1,101,101,RSA,2,48,48,HM Amla,SR Watson,3,1,30,47.54,8219,50.32,Right-hand bat,16,5,1,3162.2,28.01,56.5,rfm,0,RSA,seam,yes,23.481994459833793,8.386426592797784
+1,102,102,RSA,2,48,48,HM Amla,SR Watson,3,1,31,47.54,8219,50.32,Right-hand bat,17,5,1,3162.2,28.01,56.5,rfm,0,RSA,seam,yes,23.481994459833793,8.386426592797784
+1,109,109,RSA,2,62,62,HM Amla,SR Watson,3,1,32,47.54,8219,50.32,Right-hand bat,18,5,1,3162.2,28.01,56.5,rfm,4,RSA,seam,yes,23.481994459833793,8.386426592797784
+1,110,110,RSA,2,66,66,HM Amla,SR Watson,3,5,33,47.54,8219,50.32,Right-hand bat,19,9,1,3162.2,28.01,56.5,rfm,0,RSA,seam,yes,23.481994459833793,8.386426592797784
+1,111,111,RSA,2,66,66,HM Amla,SR Watson,3,5,34,47.54,8219,50.32,Right-hand bat,20,9,1,3162.2,28.01,56.5,rfm,0,RSA,seam,yes,23.481994459833793,8.386426592797784
+1,112,112,RSA,2,66,66,HM Amla,SR Watson,3,5,35,47.54,8219,50.32,Right-hand bat,21,9,1,3162.2,28.01,56.5,rfm,4,RSA,seam,yes,23.481994459833793,8.386426592797784
+1,113,113,RSA,2,70,70,HM Amla,SR Watson,3,9,36,47.54,8219,50.32,Right-hand bat,22,13,1,3162.2,28.01,56.5,rfm,0,RSA,seam,yes,23.481994459833793,8.386426592797784

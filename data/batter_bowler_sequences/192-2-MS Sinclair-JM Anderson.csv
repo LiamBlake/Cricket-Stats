@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,688,42,NZL,2,11,-331,MS Sinclair,JM Anderson,4,0,0,33.65,3593,44.03,Right-hand bat,18,3,2,4098.3,37.11,59.4,rfm,2,NZL,seam,yes,27.885,0.7150000000000001
+2,689,43,NZL,2,13,-329,MS Sinclair,JM Anderson,4,2,1,33.65,3593,44.03,Right-hand bat,19,5,2,4098.3,37.11,59.4,rfm,0,NZL,seam,yes,27.885,0.7150000000000001
+2,690,44,NZL,2,13,-329,MS Sinclair,JM Anderson,4,2,2,33.65,3593,44.03,Right-hand bat,20,5,2,4098.3,37.11,59.4,rfm,0,NZL,seam,yes,27.885,0.7150000000000001
+2,691,45,NZL,2,13,-329,MS Sinclair,JM Anderson,4,2,3,33.65,3593,44.03,Right-hand bat,21,5,2,4098.3,37.11,59.4,rfm,0,NZL,seam,yes,27.885,0.7150000000000001
+2,692,46,NZL,2,13,-329,MS Sinclair,JM Anderson,4,2,4,33.65,3593,44.03,Right-hand bat,22,5,2,4098.3,37.11,59.4,rfm,0,NZL,seam,yes,27.885,0.7150000000000001
+2,693,47,NZL,2,13,-329,MS Sinclair,JM Anderson,4,2,5,33.65,3593,44.03,Right-hand bat,23,5,2,4098.3,37.11,59.4,rfm,0,NZL,seam,yes,27.885,0.7150000000000001
+2,702,56,NZL,2,17,-325,MS Sinclair,JM Anderson,4,2,9,33.65,3593,44.03,Right-hand bat,26,6,2,4098.3,37.11,59.4,rfm,0,NZL,seam,yes,27.885,0.7150000000000001
+2,703,57,NZL,2,17,-325,MS Sinclair,JM Anderson,4,2,10,33.65,3593,44.03,Right-hand bat,27,6,2,4098.3,37.11,59.4,rfm,0,NZL,seam,yes,27.885,0.7150000000000001
+2,704,58,NZL,2,17,-325,MS Sinclair,JM Anderson,4,2,11,33.65,3593,44.03,Right-hand bat,28,6,2,4098.3,37.11,59.4,rfm,0,NZL,seam,yes,27.885,0.7150000000000001
+2,705,59,NZL,2,17,-325,MS Sinclair,JM Anderson,4,2,12,33.65,3593,44.03,Right-hand bat,29,6,2,4098.3,37.11,59.4,rfm,2,NZL,seam,yes,27.885,0.7150000000000001
+2,739,93,NZL,2,31,-311,MS Sinclair,JM Anderson,4,9,24,33.65,3593,44.03,Right-hand bat,45,13,2,4098.3,37.11,59.4,rfm,W,NZL,seam,yes,27.885,0.7150000000000001

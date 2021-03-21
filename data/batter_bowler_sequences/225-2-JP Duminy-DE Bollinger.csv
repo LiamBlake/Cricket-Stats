@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1176,347,RSA,4,161,-284,JP Duminy,DE Bollinger,6,0,0,61.5,614,40.06,Left-hand bat,86,49,1,264,65.5,132,lfm,0,AUS,seam,no,31.512110726643602,6.752595155709343
+2,1183,354,RSA,4,161,-284,JP Duminy,DE Bollinger,6,0,1,61.5,614,40.06,Left-hand bat,87,49,1,264,65.5,132,lfm,1nb,AUS,seam,no,31.512110726643602,6.752595155709343
+2,1184,355,RSA,4,162,-283,JP Duminy,DE Bollinger,6,0,2,61.5,614,40.06,Left-hand bat,88,50,1,264,65.5,132,lfm,0,AUS,seam,no,31.512110726643602,6.752595155709343
+2,1185,356,RSA,4,162,-283,JP Duminy,DE Bollinger,6,0,3,61.5,614,40.06,Left-hand bat,89,50,1,264,65.5,132,lfm,0,AUS,seam,no,31.512110726643602,6.752595155709343
+2,1186,357,RSA,4,162,-283,JP Duminy,DE Bollinger,6,0,4,61.5,614,40.06,Left-hand bat,90,50,1,264,65.5,132,lfm,0,AUS,seam,no,31.512110726643602,6.752595155709343
+2,1187,358,RSA,4,162,-283,JP Duminy,DE Bollinger,6,0,5,61.5,614,40.06,Left-hand bat,91,50,1,264,65.5,132,lfm,0,AUS,seam,no,31.512110726643602,6.752595155709343
+2,1188,359,RSA,4,162,-283,JP Duminy,DE Bollinger,6,0,6,61.5,614,40.06,Left-hand bat,92,50,1,264,65.5,132,lfm,0,AUS,seam,no,31.512110726643602,6.752595155709343
+2,1189,360,RSA,4,162,-283,JP Duminy,DE Bollinger,6,0,7,61.5,614,40.06,Left-hand bat,93,50,1,264,65.5,132,lfm,4,AUS,seam,no,31.512110726643602,6.752595155709343

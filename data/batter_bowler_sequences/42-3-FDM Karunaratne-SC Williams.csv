@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1545,180,SRL,3,68,300,FDM Karunaratne,SC Williams,1,35,94,33.96,4161,49.79,Left-hand bat,0,0,0,444.2,57.2,89.2,lo,0,ZIM,spin,no,11.662064431295201,20.825115055884286
+3,1546,181,SRL,3,68,300,FDM Karunaratne,SC Williams,1,35,95,33.96,4161,49.79,Left-hand bat,1,0,0,444.2,57.2,89.2,lo,4,ZIM,spin,no,11.662064431295201,20.825115055884286
+3,1547,182,SRL,3,72,304,FDM Karunaratne,SC Williams,1,39,96,33.96,4161,49.79,Left-hand bat,2,4,0,444.2,57.2,89.2,lo,1,ZIM,spin,no,11.662064431295201,20.825115055884286
+3,1549,184,SRL,3,74,306,FDM Karunaratne,SC Williams,1,40,97,33.96,4161,49.79,Left-hand bat,4,6,0,444.2,57.2,89.2,lo,0,ZIM,spin,no,11.662064431295201,20.825115055884286
+3,1550,185,SRL,3,74,306,FDM Karunaratne,SC Williams,1,40,98,33.96,4161,49.79,Left-hand bat,5,6,0,444.2,57.2,89.2,lo,1,ZIM,spin,no,11.662064431295201,20.825115055884286
+3,1569,204,SRL,4,84,316,FDM Karunaratne,SC Williams,1,46,107,33.96,4161,49.79,Left-hand bat,12,11,0,444.2,57.2,89.2,lo,1,ZIM,spin,no,11.662064431295201,20.825115055884286
+3,1572,207,SRL,4,86,318,FDM Karunaratne,SC Williams,1,47,108,33.96,4161,49.79,Left-hand bat,15,13,0,444.2,57.2,89.2,lo,1,ZIM,spin,no,11.662064431295201,20.825115055884286
+3,1581,216,SRL,4,92,324,FDM Karunaratne,SC Williams,1,49,110,33.96,4161,49.79,Left-hand bat,18,14,0,444.2,57.2,89.2,lo,1,ZIM,spin,no,11.662064431295201,20.825115055884286
+3,1593,228,SRL,4,98,330,FDM Karunaratne,SC Williams,1,51,114,33.96,4161,49.79,Left-hand bat,24,15,0,444.2,57.2,89.2,lo,1,ZIM,spin,no,11.662064431295201,20.825115055884286
+3,1767,402,SRL,5,171,403,FDM Karunaratne,SC Williams,1,81,193,33.96,4161,49.79,Left-hand bat,30,16,0,444.2,57.2,89.2,lo,2,ZIM,spin,no,11.662064431295201,20.825115055884286
+3,1768,403,SRL,5,173,405,FDM Karunaratne,SC Williams,1,83,194,33.96,4161,49.79,Left-hand bat,31,18,0,444.2,57.2,89.2,lo,1,ZIM,spin,no,11.662064431295201,20.825115055884286
+3,1771,406,SRL,5,175,407,FDM Karunaratne,SC Williams,1,84,195,33.96,4161,49.79,Left-hand bat,34,20,0,444.2,57.2,89.2,lo,0,ZIM,spin,no,11.662064431295201,20.825115055884286
+3,1772,407,SRL,5,175,407,FDM Karunaratne,SC Williams,1,84,196,33.96,4161,49.79,Left-hand bat,35,20,0,444.2,57.2,89.2,lo,1,ZIM,spin,no,11.662064431295201,20.825115055884286

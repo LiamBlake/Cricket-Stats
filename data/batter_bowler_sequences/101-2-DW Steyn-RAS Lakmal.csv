@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,777,301,RSA,8,115,-172,DW Steyn,RAS Lakmal,10,0,0,13.97,2716,43.74,Right-hand bat,13,13,1,8952,40.4,76.5,rfm,4,SRL,seam,no,5.914999999999999,10.985
+2,778,302,RSA,8,119,-168,DW Steyn,RAS Lakmal,10,4,1,13.97,2716,43.74,Right-hand bat,14,17,1,8952,40.4,76.5,rfm,0,SRL,seam,no,5.914999999999999,10.985
+2,779,303,RSA,8,119,-168,DW Steyn,RAS Lakmal,10,4,2,13.97,2716,43.74,Right-hand bat,15,17,1,8952,40.4,76.5,rfm,0,SRL,seam,no,5.914999999999999,10.985
+2,780,304,RSA,8,119,-168,DW Steyn,RAS Lakmal,10,4,3,13.97,2716,43.74,Right-hand bat,16,17,1,8952,40.4,76.5,rfm,0,SRL,seam,no,5.914999999999999,10.985
+2,781,305,RSA,8,119,-168,DW Steyn,RAS Lakmal,10,4,4,13.97,2716,43.74,Right-hand bat,17,17,1,8952,40.4,76.5,rfm,1,SRL,seam,no,5.914999999999999,10.985
+2,801,325,RSA,9,126,-161,DW Steyn,RAS Lakmal,10,8,14,13.97,2716,43.74,Right-hand bat,25,21,2,8952,40.4,76.5,rfm,0,SRL,seam,no,5.914999999999999,10.985
+2,802,326,RSA,9,126,-161,DW Steyn,RAS Lakmal,10,8,15,13.97,2716,43.74,Right-hand bat,26,21,2,8952,40.4,76.5,rfm,0,SRL,seam,no,5.914999999999999,10.985
+2,803,327,RSA,9,126,-161,DW Steyn,RAS Lakmal,10,8,16,13.97,2716,43.74,Right-hand bat,27,21,2,8952,40.4,76.5,rfm,W,SRL,seam,no,5.914999999999999,10.985

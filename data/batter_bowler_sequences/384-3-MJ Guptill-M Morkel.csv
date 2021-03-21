@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1205,6,NZL,0,1,-403,MJ Guptill,M Morkel,1,1,4,30.6,3931,43.6,Right-hand bat,0,0,0,9318,29.7,54.4,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+3,1206,7,NZL,0,1,-403,MJ Guptill,M Morkel,1,1,5,30.6,3931,43.6,Right-hand bat,1,0,0,9318,29.7,54.4,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+3,1207,8,NZL,0,1,-403,MJ Guptill,M Morkel,1,1,6,30.6,3931,43.6,Right-hand bat,2,0,0,9318,29.7,54.4,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+3,1208,9,NZL,0,1,-403,MJ Guptill,M Morkel,1,1,7,30.6,3931,43.6,Right-hand bat,3,0,0,9318,29.7,54.4,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+3,1209,10,NZL,0,1,-403,MJ Guptill,M Morkel,1,1,8,30.6,3931,43.6,Right-hand bat,4,0,0,9318,29.7,54.4,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+3,1210,11,NZL,0,1,-403,MJ Guptill,M Morkel,1,1,9,30.6,3931,43.6,Right-hand bat,5,0,0,9318,29.7,54.4,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+3,1229,30,NZL,0,11,-393,MJ Guptill,M Morkel,1,6,15,30.6,3931,43.6,Right-hand bat,12,0,0,9318,29.7,54.4,rf,1,RSA,seam,no,25.141581632653065,5.465561224489796
+3,1241,42,NZL,0,19,-385,MJ Guptill,M Morkel,1,12,22,30.6,3931,43.6,Right-hand bat,18,3,0,9318,29.7,54.4,rf,1wd,RSA,seam,no,25.141581632653065,5.465561224489796
+3,1242,43,NZL,0,20,-384,MJ Guptill,M Morkel,1,12,22,30.6,3931,43.6,Right-hand bat,19,4,0,9318,29.7,54.4,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+3,1243,44,NZL,0,20,-384,MJ Guptill,M Morkel,1,12,23,30.6,3931,43.6,Right-hand bat,20,4,0,9318,29.7,54.4,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+3,1244,45,NZL,0,20,-384,MJ Guptill,M Morkel,1,12,24,30.6,3931,43.6,Right-hand bat,21,4,0,9318,29.7,54.4,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+3,1245,46,NZL,0,20,-384,MJ Guptill,M Morkel,1,12,25,30.6,3931,43.6,Right-hand bat,22,4,0,9318,29.7,54.4,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+3,1246,47,NZL,0,20,-384,MJ Guptill,M Morkel,1,12,26,30.6,3931,43.6,Right-hand bat,23,4,0,9318,29.7,54.4,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+3,1247,48,NZL,0,20,-384,MJ Guptill,M Morkel,1,12,27,30.6,3931,43.6,Right-hand bat,24,4,0,9318,29.7,54.4,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796

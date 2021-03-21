@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2124,351,RSA,4,159,44,AB de Villiers,RJ Quiney,5,28,83,49.02,10427,54.54,Right-hand bat,1,3,0,66,NA,NA,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+3,2125,352,RSA,4,159,44,AB de Villiers,RJ Quiney,5,28,84,49.02,10427,54.54,Right-hand bat,2,3,0,66,NA,NA,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+3,2126,353,RSA,4,159,44,AB de Villiers,RJ Quiney,5,28,85,49.02,10427,54.54,Right-hand bat,3,3,0,66,NA,NA,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+3,2127,354,RSA,4,159,44,AB de Villiers,RJ Quiney,5,28,86,49.02,10427,54.54,Right-hand bat,4,3,0,66,NA,NA,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+3,2128,355,RSA,4,159,44,AB de Villiers,RJ Quiney,5,28,87,49.02,10427,54.54,Right-hand bat,5,3,0,66,NA,NA,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+3,2159,386,RSA,5,165,50,AB de Villiers,RJ Quiney,5,29,98,49.02,10427,54.54,Right-hand bat,18,3,0,66,NA,NA,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+3,2160,387,RSA,5,165,50,AB de Villiers,RJ Quiney,5,29,99,49.02,10427,54.54,Right-hand bat,19,3,0,66,NA,NA,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+3,2161,388,RSA,5,165,50,AB de Villiers,RJ Quiney,5,29,100,49.02,10427,54.54,Right-hand bat,20,3,0,66,NA,NA,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+3,2162,389,RSA,5,165,50,AB de Villiers,RJ Quiney,5,29,101,49.02,10427,54.54,Right-hand bat,21,3,0,66,NA,NA,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+3,2163,390,RSA,5,165,50,AB de Villiers,RJ Quiney,5,29,102,49.02,10427,54.54,Right-hand bat,22,3,0,66,NA,NA,rm,0,AUS,seam,yes,44.2875,11.809999999999999
+3,2164,391,RSA,5,165,50,AB de Villiers,RJ Quiney,5,29,103,49.02,10427,54.54,Right-hand bat,23,3,0,66,NA,NA,rm,0,AUS,seam,yes,44.2875,11.809999999999999

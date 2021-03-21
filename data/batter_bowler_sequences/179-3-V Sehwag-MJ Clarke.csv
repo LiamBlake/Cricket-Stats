@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2326,293,IND,3,160,123,V Sehwag,MJ Clarke,1,111,152,50.46,5930,74.89,Right-hand bat,0,0,0,528.1,22,44,lo,0,AUS,spin,yes,39.11934156378601,13.039780521262003
+3,2327,294,IND,3,160,123,V Sehwag,MJ Clarke,1,111,153,50.46,5930,74.89,Right-hand bat,1,0,0,528.1,22,44,lo,1,AUS,spin,yes,39.11934156378601,13.039780521262003
+3,2331,298,IND,3,162,125,V Sehwag,MJ Clarke,1,112,154,50.46,5930,74.89,Right-hand bat,5,2,0,528.1,22,44,lo,0,AUS,spin,yes,39.11934156378601,13.039780521262003

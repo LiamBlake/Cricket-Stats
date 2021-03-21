@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,840,222,AUS,5,114,-311,MJ North,JM Anderson,7,0,0,48.5,642,45.32,Left-hand bat,65,24,3,7944.5,34.26,59.3,rfm,0,ENG,seam,no,29.3179012345679,8.376543209876543
+2,847,229,AUS,5,118,-307,MJ North,JM Anderson,7,0,1,48.5,642,45.32,Left-hand bat,66,24,3,7944.5,34.26,59.3,rfm,0,ENG,seam,no,29.3179012345679,8.376543209876543
+2,848,230,AUS,5,118,-307,MJ North,JM Anderson,7,0,2,48.5,642,45.32,Left-hand bat,67,24,3,7944.5,34.26,59.3,rfm,0,ENG,seam,no,29.3179012345679,8.376543209876543
+2,849,231,AUS,5,118,-307,MJ North,JM Anderson,7,0,3,48.5,642,45.32,Left-hand bat,68,24,3,7944.5,34.26,59.3,rfm,0,ENG,seam,no,29.3179012345679,8.376543209876543
+2,850,232,AUS,5,118,-307,MJ North,JM Anderson,7,0,4,48.5,642,45.32,Left-hand bat,69,24,3,7944.5,34.26,59.3,rfm,0,ENG,seam,no,29.3179012345679,8.376543209876543
+2,851,233,AUS,5,118,-307,MJ North,JM Anderson,7,0,5,48.5,642,45.32,Left-hand bat,70,24,3,7944.5,34.26,59.3,rfm,0,ENG,seam,no,29.3179012345679,8.376543209876543
+2,852,234,AUS,5,118,-307,MJ North,JM Anderson,7,0,6,48.5,642,45.32,Left-hand bat,71,24,3,7944.5,34.26,59.3,rfm,4b,ENG,seam,no,29.3179012345679,8.376543209876543
+2,864,246,AUS,5,135,-290,MJ North,JM Anderson,7,0,9,48.5,642,45.32,Left-hand bat,76,27,3,7944.5,34.26,59.3,rfm,0,ENG,seam,no,29.3179012345679,8.376543209876543
+2,865,247,AUS,5,135,-290,MJ North,JM Anderson,7,0,10,48.5,642,45.32,Left-hand bat,77,27,3,7944.5,34.26,59.3,rfm,0,ENG,seam,no,29.3179012345679,8.376543209876543
+2,872,254,AUS,5,139,-286,MJ North,JM Anderson,7,0,11,48.5,642,45.32,Left-hand bat,78,27,3,7944.5,34.26,59.3,rfm,0,ENG,seam,no,29.3179012345679,8.376543209876543
+2,873,255,AUS,5,139,-286,MJ North,JM Anderson,7,0,12,48.5,642,45.32,Left-hand bat,79,27,3,7944.5,34.26,59.3,rfm,0,ENG,seam,no,29.3179012345679,8.376543209876543
+2,874,256,AUS,5,139,-286,MJ North,JM Anderson,7,0,13,48.5,642,45.32,Left-hand bat,80,27,3,7944.5,34.26,59.3,rfm,W,ENG,seam,no,29.3179012345679,8.376543209876543

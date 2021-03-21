@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1091,390,WIN,8,212,-175,S Shillingford,BAW Mendis,10,1,5,10.83,175,37.14,Right-hand bat,79,37,1,3696.3,31.69,62.6,rob,0,SRL,spin,no,17.330578512396695,14.44214876033058
+2,1092,391,WIN,8,212,-175,S Shillingford,BAW Mendis,10,1,6,10.83,175,37.14,Right-hand bat,80,37,1,3696.3,31.69,62.6,rob,0,SRL,spin,no,17.330578512396695,14.44214876033058
+2,1104,403,WIN,8,218,-169,S Shillingford,BAW Mendis,10,1,9,10.83,175,37.14,Right-hand bat,86,42,1,3696.3,31.69,62.6,rob,0,SRL,spin,no,17.330578512396695,14.44214876033058
+2,1116,415,WIN,8,230,-157,S Shillingford,BAW Mendis,10,1,11,10.83,175,37.14,Right-hand bat,92,49,1,3696.3,31.69,62.6,rob,2,SRL,spin,no,17.330578512396695,14.44214876033058
+2,1127,426,WIN,8,238,-149,S Shillingford,BAW Mendis,10,3,13,10.83,175,37.14,Right-hand bat,97,52,1,3696.3,31.69,62.6,rob,2,SRL,spin,no,17.330578512396695,14.44214876033058
+2,1128,427,WIN,8,240,-147,S Shillingford,BAW Mendis,10,5,14,10.83,175,37.14,Right-hand bat,98,54,1,3696.3,31.69,62.6,rob,0,SRL,spin,no,17.330578512396695,14.44214876033058

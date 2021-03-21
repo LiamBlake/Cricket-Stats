@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1619,189,AUS,1,116,189,SR Watson,RG Sharma,3,26,58,35.98,6533,52.88,Right-hand bat,5,1,0,312.4,93.5,158,rob,0,AUS,spin,yes,22.939453125,25.998046875
+3,1629,199,AUS,1,118,191,SR Watson,RG Sharma,3,26,64,35.98,6533,52.88,Right-hand bat,9,2,0,312.4,93.5,158,rob,1,AUS,spin,yes,22.939453125,25.998046875
+3,1652,222,AUS,1,136,209,SR Watson,RG Sharma,3,32,74,35.98,6533,52.88,Right-hand bat,18,3,0,312.4,93.5,158,rob,0,AUS,spin,yes,22.939453125,25.998046875
+3,1653,223,AUS,1,136,209,SR Watson,RG Sharma,3,32,75,35.98,6533,52.88,Right-hand bat,19,3,0,312.4,93.5,158,rob,0,AUS,spin,yes,22.939453125,25.998046875
+3,1654,224,AUS,1,136,209,SR Watson,RG Sharma,3,32,76,35.98,6533,52.88,Right-hand bat,20,3,0,312.4,93.5,158,rob,0,AUS,spin,yes,22.939453125,25.998046875
+3,1655,225,AUS,1,136,209,SR Watson,RG Sharma,3,32,77,35.98,6533,52.88,Right-hand bat,21,3,0,312.4,93.5,158,rob,0,AUS,spin,yes,22.939453125,25.998046875
+3,1656,226,AUS,1,136,209,SR Watson,RG Sharma,3,32,78,35.98,6533,52.88,Right-hand bat,22,3,0,312.4,93.5,158,rob,0,AUS,spin,yes,22.939453125,25.998046875
+3,1657,227,AUS,1,136,209,SR Watson,RG Sharma,3,32,79,35.98,6533,52.88,Right-hand bat,23,3,0,312.4,93.5,158,rob,0,AUS,spin,yes,22.939453125,25.998046875

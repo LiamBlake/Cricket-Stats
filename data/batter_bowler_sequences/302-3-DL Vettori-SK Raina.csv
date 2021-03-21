@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1631,234,NZL,6,122,-251,DL Vettori,SK Raina,8,11,12,30.24,7036,57.6,Left-hand bat,0,0,0,288,22.83,48,rob,1,IND,spin,yes,15.487244897959183,17.86989795918367
+3,1643,246,NZL,7,124,-249,DL Vettori,SK Raina,8,13,16,30.24,7036,57.6,Left-hand bat,6,1,1,288,22.83,48,rob,0,IND,spin,yes,15.487244897959183,17.86989795918367
+3,1644,247,NZL,7,124,-249,DL Vettori,SK Raina,8,13,17,30.24,7036,57.6,Left-hand bat,7,1,1,288,22.83,48,rob,0,IND,spin,yes,15.487244897959183,17.86989795918367
+3,1645,248,NZL,7,124,-249,DL Vettori,SK Raina,8,13,18,30.24,7036,57.6,Left-hand bat,8,1,1,288,22.83,48,rob,0,IND,spin,yes,15.487244897959183,17.86989795918367
+3,1646,249,NZL,7,124,-249,DL Vettori,SK Raina,8,13,19,30.24,7036,57.6,Left-hand bat,9,1,1,288,22.83,48,rob,W,IND,spin,yes,15.487244897959183,17.86989795918367

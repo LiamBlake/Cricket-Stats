@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1411,0,WIN,0,0,-13,KC Brathwaite,JM Anderson,1,0,0,35.35,8370,40.96,Right-hand bat,0,0,0,32214.1,26.97,56.3,rfm,4,WIN,seam,yes,19.259999999999998,2.1399999999999997
+4,1412,1,WIN,0,4,-9,KC Brathwaite,JM Anderson,1,4,1,35.35,8370,40.96,Right-hand bat,1,4,0,32214.1,26.97,56.3,rfm,0,WIN,seam,yes,19.259999999999998,2.1399999999999997
+4,1413,2,WIN,0,4,-9,KC Brathwaite,JM Anderson,1,4,2,35.35,8370,40.96,Right-hand bat,2,4,0,32214.1,26.97,56.3,rfm,0,WIN,seam,yes,19.259999999999998,2.1399999999999997
+4,1414,3,WIN,0,4,-9,KC Brathwaite,JM Anderson,1,4,3,35.35,8370,40.96,Right-hand bat,3,4,0,32214.1,26.97,56.3,rfm,0,WIN,seam,yes,19.259999999999998,2.1399999999999997
+4,1415,4,WIN,0,4,-9,KC Brathwaite,JM Anderson,1,4,4,35.35,8370,40.96,Right-hand bat,4,4,0,32214.1,26.97,56.3,rfm,0,WIN,seam,yes,19.259999999999998,2.1399999999999997
+4,1416,5,WIN,0,4,-9,KC Brathwaite,JM Anderson,1,4,5,35.35,8370,40.96,Right-hand bat,5,4,0,32214.1,26.97,56.3,rfm,0,WIN,seam,yes,19.259999999999998,2.1399999999999997

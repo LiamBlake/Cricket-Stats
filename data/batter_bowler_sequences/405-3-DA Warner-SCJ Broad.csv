@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,827,6,AUS,0,4,175,DA Warner,SCJ Broad,2,0,0,40.93,2737,70.29,Left-hand bat,0,0,0,13896,30.31,58.3,rfm,0,AUS,seam,no,19.036875000000002,4.038125
+3,828,7,AUS,0,4,175,DA Warner,SCJ Broad,2,0,1,40.93,2737,70.29,Left-hand bat,1,0,0,13896,30.31,58.3,rfm,0,AUS,seam,no,19.036875000000002,4.038125
+3,829,8,AUS,0,4,175,DA Warner,SCJ Broad,2,0,2,40.93,2737,70.29,Left-hand bat,2,0,0,13896,30.31,58.3,rfm,0,AUS,seam,no,19.036875000000002,4.038125
+3,830,9,AUS,0,4,175,DA Warner,SCJ Broad,2,0,3,40.93,2737,70.29,Left-hand bat,3,0,0,13896,30.31,58.3,rfm,0,AUS,seam,no,19.036875000000002,4.038125
+3,831,10,AUS,0,4,175,DA Warner,SCJ Broad,2,0,4,40.93,2737,70.29,Left-hand bat,4,0,0,13896,30.31,58.3,rfm,4,AUS,seam,no,19.036875000000002,4.038125
+3,832,11,AUS,0,8,179,DA Warner,SCJ Broad,2,4,5,40.93,2737,70.29,Left-hand bat,5,4,0,13896,30.31,58.3,rfm,4,AUS,seam,no,19.036875000000002,4.038125
+3,851,30,AUS,0,26,197,DA Warner,SCJ Broad,2,15,12,40.93,2737,70.29,Left-hand bat,12,14,0,13896,30.31,58.3,rfm,0,AUS,seam,no,19.036875000000002,4.038125
+3,852,31,AUS,0,26,197,DA Warner,SCJ Broad,2,15,13,40.93,2737,70.29,Left-hand bat,13,14,0,13896,30.31,58.3,rfm,0,AUS,seam,no,19.036875000000002,4.038125
+3,853,32,AUS,0,26,197,DA Warner,SCJ Broad,2,15,14,40.93,2737,70.29,Left-hand bat,14,14,0,13896,30.31,58.3,rfm,0,AUS,seam,no,19.036875000000002,4.038125
+3,854,33,AUS,0,26,197,DA Warner,SCJ Broad,2,15,15,40.93,2737,70.29,Left-hand bat,15,14,0,13896,30.31,58.3,rfm,1,AUS,seam,no,19.036875000000002,4.038125

@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,41,41,PAK,4,19,19,Shoaib Malik,KMDN Kulasekara,6,0,0,35.73,2846,42.69,Right-hand bat,23,6,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+1,42,42,PAK,4,19,19,Shoaib Malik,KMDN Kulasekara,6,0,1,35.73,2846,42.69,Right-hand bat,24,6,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+1,50,50,PAK,4,21,21,Shoaib Malik,KMDN Kulasekara,6,0,4,35.73,2846,42.69,Right-hand bat,26,7,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+1,51,51,PAK,4,21,21,Shoaib Malik,KMDN Kulasekara,6,0,5,35.73,2846,42.69,Right-hand bat,27,7,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+1,52,52,PAK,4,21,21,Shoaib Malik,KMDN Kulasekara,6,0,6,35.73,2846,42.69,Right-hand bat,28,7,3,1164.4,34.94,68.7,rfm,1wd,SRL,seam,yes,12.816345270890725,12.062442607897154
+1,53,53,PAK,4,22,22,Shoaib Malik,KMDN Kulasekara,6,0,6,35.73,2846,42.69,Right-hand bat,29,8,3,1164.4,34.94,68.7,rfm,4,SRL,seam,yes,12.816345270890725,12.062442607897154
+1,54,54,PAK,4,26,26,Shoaib Malik,KMDN Kulasekara,6,4,7,35.73,2846,42.69,Right-hand bat,30,12,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+1,55,55,PAK,4,26,26,Shoaib Malik,KMDN Kulasekara,6,4,8,35.73,2846,42.69,Right-hand bat,31,12,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+1,63,63,PAK,4,36,36,Shoaib Malik,KMDN Kulasekara,6,9,13,35.73,2846,42.69,Right-hand bat,33,13,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+1,64,64,PAK,4,36,36,Shoaib Malik,KMDN Kulasekara,6,9,14,35.73,2846,42.69,Right-hand bat,34,13,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+1,65,65,PAK,4,36,36,Shoaib Malik,KMDN Kulasekara,6,9,15,35.73,2846,42.69,Right-hand bat,35,13,3,1164.4,34.94,68.7,rfm,4,SRL,seam,yes,12.816345270890725,12.062442607897154
+1,66,66,PAK,4,40,40,Shoaib Malik,KMDN Kulasekara,6,13,16,35.73,2846,42.69,Right-hand bat,36,17,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+1,67,67,PAK,4,40,40,Shoaib Malik,KMDN Kulasekara,6,13,17,35.73,2846,42.69,Right-hand bat,37,17,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+1,183,183,PAK,7,75,75,Shoaib Malik,KMDN Kulasekara,6,27,68,35.73,2846,42.69,Right-hand bat,55,17,4,1164.4,34.94,68.7,rfm,4,SRL,seam,yes,12.816345270890725,12.062442607897154

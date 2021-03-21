@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1651,655,PAK,6,301,124,Yasir Shah,KTGD Prasad,8,0,0,10.11,191,47.64,Right-hand bat,149,78,3,3150.4,43.89,67.1,rfm,0,SRL,seam,yes,12.020202020202019,16.31313131313131
+3,1652,656,PAK,6,301,124,Yasir Shah,KTGD Prasad,8,0,1,10.11,191,47.64,Right-hand bat,150,78,3,3150.4,43.89,67.1,rfm,0,SRL,seam,yes,12.020202020202019,16.31313131313131
+3,1653,657,PAK,6,301,124,Yasir Shah,KTGD Prasad,8,0,2,10.11,191,47.64,Right-hand bat,151,78,3,3150.4,43.89,67.1,rfm,0,SRL,seam,yes,12.020202020202019,16.31313131313131
+3,1654,658,PAK,6,301,124,Yasir Shah,KTGD Prasad,8,0,3,10.11,191,47.64,Right-hand bat,152,78,3,3150.4,43.89,67.1,rfm,0,SRL,seam,yes,12.020202020202019,16.31313131313131
+3,1655,659,PAK,6,301,124,Yasir Shah,KTGD Prasad,8,0,4,10.11,191,47.64,Right-hand bat,153,78,3,3150.4,43.89,67.1,rfm,0,SRL,seam,yes,12.020202020202019,16.31313131313131
+3,1663,667,PAK,6,303,126,Yasir Shah,KTGD Prasad,8,0,10,10.11,191,47.64,Right-hand bat,155,78,3,3150.4,43.89,67.1,rfm,W,SRL,seam,yes,12.020202020202019,16.31313131313131

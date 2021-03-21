@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,804,479,AUS,9,230,82,JR Hazlewood,D Bishoo,11,5,4,71,140,50.71,Left-hand bat,162,73,6,3594.4,37.42,71.9,rls,0,WIN,spin,no,15.171696149843912,8.344432882414152
+2,805,480,AUS,9,230,82,JR Hazlewood,D Bishoo,11,5,5,71,140,50.71,Left-hand bat,163,73,6,3594.4,37.42,71.9,rls,0,WIN,spin,no,15.171696149843912,8.344432882414152
+2,806,481,AUS,9,230,82,JR Hazlewood,D Bishoo,11,5,6,71,140,50.71,Left-hand bat,164,73,6,3594.4,37.42,71.9,rls,0,WIN,spin,no,15.171696149843912,8.344432882414152
+2,807,482,AUS,9,230,82,JR Hazlewood,D Bishoo,11,5,7,71,140,50.71,Left-hand bat,165,73,6,3594.4,37.42,71.9,rls,0,WIN,spin,no,15.171696149843912,8.344432882414152
+2,808,483,AUS,9,230,82,JR Hazlewood,D Bishoo,11,5,8,71,140,50.71,Left-hand bat,166,73,6,3594.4,37.42,71.9,rls,0,WIN,spin,no,15.171696149843912,8.344432882414152
+2,809,484,AUS,9,230,82,JR Hazlewood,D Bishoo,11,5,9,71,140,50.71,Left-hand bat,167,73,6,3594.4,37.42,71.9,rls,0,WIN,spin,no,15.171696149843912,8.344432882414152
+2,865,540,AUS,9,259,111,JR Hazlewood,D Bishoo,11,6,33,71,140,50.71,Left-hand bat,168,73,6,3594.4,37.42,71.9,rls,1,WIN,spin,no,15.171696149843912,8.344432882414152
+2,926,601,AUS,9,305,157,JR Hazlewood,D Bishoo,11,30,59,71,140,50.71,Left-hand bat,175,76,6,3594.4,37.42,71.9,rls,0,WIN,spin,no,15.171696149843912,8.344432882414152
+2,927,602,AUS,9,305,157,JR Hazlewood,D Bishoo,11,30,60,71,140,50.71,Left-hand bat,176,76,6,3594.4,37.42,71.9,rls,2,WIN,spin,no,15.171696149843912,8.344432882414152
+2,928,603,AUS,9,307,159,JR Hazlewood,D Bishoo,11,32,61,71,140,50.71,Left-hand bat,177,78,6,3594.4,37.42,71.9,rls,0,WIN,spin,no,15.171696149843912,8.344432882414152
+2,929,604,AUS,9,307,159,JR Hazlewood,D Bishoo,11,32,62,71,140,50.71,Left-hand bat,178,78,6,3594.4,37.42,71.9,rls,0,WIN,spin,no,15.171696149843912,8.344432882414152
+2,930,605,AUS,9,307,159,JR Hazlewood,D Bishoo,11,32,63,71,140,50.71,Left-hand bat,179,78,6,3594.4,37.42,71.9,rls,1,WIN,spin,no,15.171696149843912,8.344432882414152
+2,964,639,AUS,9,315,167,JR Hazlewood,D Bishoo,11,38,80,71,140,50.71,Left-hand bat,195,80,6,3594.4,37.42,71.9,rls,0,WIN,spin,no,15.171696149843912,8.344432882414152
+2,965,640,AUS,9,315,167,JR Hazlewood,D Bishoo,11,38,81,71,140,50.71,Left-hand bat,196,80,6,3594.4,37.42,71.9,rls,0,WIN,spin,no,15.171696149843912,8.344432882414152
+2,966,641,AUS,9,315,167,JR Hazlewood,D Bishoo,11,38,82,71,140,50.71,Left-hand bat,197,80,6,3594.4,37.42,71.9,rls,0,WIN,spin,no,15.171696149843912,8.344432882414152

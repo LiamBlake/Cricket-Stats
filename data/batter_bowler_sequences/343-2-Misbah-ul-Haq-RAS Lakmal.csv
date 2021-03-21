@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1291,840,PAK,3,370,173,Misbah-ul-Haq,RAS Lakmal,5,8,14,45.07,4262,41.24,Right-hand bat,113,81,0,1440.5,51.66,80.2,rfm,0,PAK,seam,yes,29.925925925925927,14.962962962962964
+2,1292,841,PAK,3,370,173,Misbah-ul-Haq,RAS Lakmal,5,8,15,45.07,4262,41.24,Right-hand bat,114,81,0,1440.5,51.66,80.2,rfm,0,PAK,seam,yes,29.925925925925927,14.962962962962964
+2,1293,842,PAK,3,370,173,Misbah-ul-Haq,RAS Lakmal,5,8,16,45.07,4262,41.24,Right-hand bat,115,81,0,1440.5,51.66,80.2,rfm,0,PAK,seam,yes,29.925925925925927,14.962962962962964
+2,1302,851,PAK,3,378,181,Misbah-ul-Haq,RAS Lakmal,5,14,22,45.07,4262,41.24,Right-hand bat,118,82,0,1440.5,51.66,80.2,rfm,0,PAK,seam,yes,29.925925925925927,14.962962962962964
+2,1303,852,PAK,3,378,181,Misbah-ul-Haq,RAS Lakmal,5,14,23,45.07,4262,41.24,Right-hand bat,119,82,0,1440.5,51.66,80.2,rfm,2,PAK,seam,yes,29.925925925925927,14.962962962962964
+2,1304,853,PAK,3,380,183,Misbah-ul-Haq,RAS Lakmal,5,16,24,45.07,4262,41.24,Right-hand bat,120,84,0,1440.5,51.66,80.2,rfm,3,PAK,seam,yes,29.925925925925927,14.962962962962964
+2,1312,861,PAK,3,390,193,Misbah-ul-Haq,RAS Lakmal,5,25,29,45.07,4262,41.24,Right-hand bat,122,87,0,1440.5,51.66,80.2,rfm,0,PAK,seam,yes,29.925925925925927,14.962962962962964
+2,1313,862,PAK,3,390,193,Misbah-ul-Haq,RAS Lakmal,5,25,30,45.07,4262,41.24,Right-hand bat,123,87,0,1440.5,51.66,80.2,rfm,2,PAK,seam,yes,29.925925925925927,14.962962962962964
+2,1314,863,PAK,3,392,195,Misbah-ul-Haq,RAS Lakmal,5,27,31,45.07,4262,41.24,Right-hand bat,124,89,0,1440.5,51.66,80.2,rfm,0,PAK,seam,yes,29.925925925925927,14.962962962962964
+2,1315,864,PAK,3,392,195,Misbah-ul-Haq,RAS Lakmal,5,27,32,45.07,4262,41.24,Right-hand bat,125,89,0,1440.5,51.66,80.2,rfm,0,PAK,seam,yes,29.925925925925927,14.962962962962964
+2,1316,865,PAK,3,392,195,Misbah-ul-Haq,RAS Lakmal,5,27,33,45.07,4262,41.24,Right-hand bat,126,89,0,1440.5,51.66,80.2,rfm,2,PAK,seam,yes,29.925925925925927,14.962962962962964
+2,1317,866,PAK,3,394,197,Misbah-ul-Haq,RAS Lakmal,5,29,34,45.07,4262,41.24,Right-hand bat,127,91,0,1440.5,51.66,80.2,rfm,0,PAK,seam,yes,29.925925925925927,14.962962962962964

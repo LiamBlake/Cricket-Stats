@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1384,557,IND,4,277,-174,KK Nair,SNJ O'Keefe,6,0,4,73.8,490,75.3,Right-hand bat,179,82,1,1764.1,25.12,55.1,lo,0,IND,spin,no,18.1152,32.2048
+2,1391,564,IND,4,281,-170,KK Nair,SNJ O'Keefe,6,0,5,73.8,490,75.3,Right-hand bat,180,82,1,1764.1,25.12,55.1,lo,4,IND,spin,no,18.1152,32.2048
+2,1392,565,IND,4,285,-166,KK Nair,SNJ O'Keefe,6,4,6,73.8,490,75.3,Right-hand bat,181,86,1,1764.1,25.12,55.1,lo,0,IND,spin,no,18.1152,32.2048
+2,1393,566,IND,4,285,-166,KK Nair,SNJ O'Keefe,6,4,7,73.8,490,75.3,Right-hand bat,182,86,1,1764.1,25.12,55.1,lo,1,IND,spin,no,18.1152,32.2048
+2,1396,569,IND,4,291,-160,KK Nair,SNJ O'Keefe,6,5,8,73.8,490,75.3,Right-hand bat,185,92,1,1764.1,25.12,55.1,lo,0,IND,spin,no,18.1152,32.2048
+2,1403,576,IND,4,293,-158,KK Nair,SNJ O'Keefe,6,6,11,73.8,490,75.3,Right-hand bat,186,92,1,1764.1,25.12,55.1,lo,0,IND,spin,no,18.1152,32.2048
+2,1404,577,IND,4,293,-158,KK Nair,SNJ O'Keefe,6,6,12,73.8,490,75.3,Right-hand bat,187,92,1,1764.1,25.12,55.1,lo,4,IND,spin,no,18.1152,32.2048
+2,1405,578,IND,4,297,-154,KK Nair,SNJ O'Keefe,6,10,13,73.8,490,75.3,Right-hand bat,188,96,1,1764.1,25.12,55.1,lo,0,IND,spin,no,18.1152,32.2048
+2,1406,579,IND,4,297,-154,KK Nair,SNJ O'Keefe,6,10,14,73.8,490,75.3,Right-hand bat,189,96,1,1764.1,25.12,55.1,lo,0,IND,spin,no,18.1152,32.2048
+2,1407,580,IND,4,297,-154,KK Nair,SNJ O'Keefe,6,10,15,73.8,490,75.3,Right-hand bat,190,96,1,1764.1,25.12,55.1,lo,0,IND,spin,no,18.1152,32.2048
+2,1408,581,IND,4,297,-154,KK Nair,SNJ O'Keefe,6,10,16,73.8,490,75.3,Right-hand bat,191,96,1,1764.1,25.12,55.1,lo,0,IND,spin,no,18.1152,32.2048

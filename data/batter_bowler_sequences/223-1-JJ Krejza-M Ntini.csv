@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,499,499,AUS,8,303,303,JJ Krejza,M Ntini,10,0,0,23.66,146,48.63,Right-hand bat,97,55,3,19272.2,27.71,51.5,rf,0,AUS,seam,yes,33.64359861591695,7.209342560553633
+1,500,500,AUS,8,303,303,JJ Krejza,M Ntini,10,0,1,23.66,146,48.63,Right-hand bat,98,55,3,19272.2,27.71,51.5,rf,0,AUS,seam,yes,33.64359861591695,7.209342560553633
+1,501,501,AUS,8,303,303,JJ Krejza,M Ntini,10,0,2,23.66,146,48.63,Right-hand bat,99,55,3,19272.2,27.71,51.5,rf,0,AUS,seam,yes,33.64359861591695,7.209342560553633
+1,502,502,AUS,8,303,303,JJ Krejza,M Ntini,10,0,3,23.66,146,48.63,Right-hand bat,100,55,3,19272.2,27.71,51.5,rf,0,AUS,seam,yes,33.64359861591695,7.209342560553633
+1,503,503,AUS,8,303,303,JJ Krejza,M Ntini,10,0,4,23.66,146,48.63,Right-hand bat,101,55,3,19272.2,27.71,51.5,rf,4,AUS,seam,yes,33.64359861591695,7.209342560553633
+1,504,504,AUS,8,307,307,JJ Krejza,M Ntini,10,4,5,23.66,146,48.63,Right-hand bat,102,59,3,19272.2,27.71,51.5,rf,3,AUS,seam,yes,33.64359861591695,7.209342560553633

@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,773,434,SRL,6,212,-9,KTGD Prasad,JDS Neesham,8,2,5,15.7,645,58.44,Right-hand bat,34,21,1,654.5,32.81,59.9,rmf,0,NZL,seam,yes,29.645714285714284,7.411428571428571
+2,774,435,SRL,6,212,-9,KTGD Prasad,JDS Neesham,8,2,6,15.7,645,58.44,Right-hand bat,35,21,1,654.5,32.81,59.9,rmf,0,NZL,seam,yes,29.645714285714284,7.411428571428571
+2,781,442,SRL,6,218,-3,KTGD Prasad,JDS Neesham,8,3,8,15.7,645,58.44,Right-hand bat,36,21,1,654.5,32.81,59.9,rmf,0,NZL,seam,yes,29.645714285714284,7.411428571428571
+2,782,443,SRL,6,218,-3,KTGD Prasad,JDS Neesham,8,3,9,15.7,645,58.44,Right-hand bat,37,21,1,654.5,32.81,59.9,rmf,0,NZL,seam,yes,29.645714285714284,7.411428571428571
+2,783,444,SRL,6,218,-3,KTGD Prasad,JDS Neesham,8,3,10,15.7,645,58.44,Right-hand bat,38,21,1,654.5,32.81,59.9,rmf,1,NZL,seam,yes,29.645714285714284,7.411428571428571
+2,806,467,SRL,6,242,21,KTGD Prasad,JDS Neesham,8,11,21,15.7,645,58.44,Right-hand bat,49,36,1,654.5,32.81,59.9,rmf,0,NZL,seam,yes,29.645714285714284,7.411428571428571
+2,807,468,SRL,6,242,21,KTGD Prasad,JDS Neesham,8,11,22,15.7,645,58.44,Right-hand bat,50,36,1,654.5,32.81,59.9,rmf,0,NZL,seam,yes,29.645714285714284,7.411428571428571
+2,808,469,SRL,6,242,21,KTGD Prasad,JDS Neesham,8,11,23,15.7,645,58.44,Right-hand bat,51,36,1,654.5,32.81,59.9,rmf,0,NZL,seam,yes,29.645714285714284,7.411428571428571
+2,809,470,SRL,6,242,21,KTGD Prasad,JDS Neesham,8,11,24,15.7,645,58.44,Right-hand bat,52,36,1,654.5,32.81,59.9,rmf,W,NZL,seam,yes,29.645714285714284,7.411428571428571

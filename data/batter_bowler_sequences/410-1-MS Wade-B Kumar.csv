@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,172,172,AUS,4,84,84,MS Wade,B Kumar,6,2,17,37.62,1201,50.12,Left-hand bat,58,37,3,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,173,173,AUS,4,84,84,MS Wade,B Kumar,6,2,18,37.62,1201,50.12,Left-hand bat,59,37,3,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,184,184,AUS,4,92,92,MS Wade,B Kumar,6,2,22,37.62,1201,50.12,Left-hand bat,64,42,3,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,185,185,AUS,4,92,92,MS Wade,B Kumar,6,2,23,37.62,1201,50.12,Left-hand bat,65,42,3,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,192,192,AUS,4,94,94,MS Wade,B Kumar,6,3,27,37.62,1201,50.12,Left-hand bat,66,42,3,204,37.33,68,rm,2lb,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,193,193,AUS,4,96,96,MS Wade,B Kumar,6,3,28,37.62,1201,50.12,Left-hand bat,67,42,3,204,37.33,68,rm,2,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,194,194,AUS,4,98,98,MS Wade,B Kumar,6,5,29,37.62,1201,50.12,Left-hand bat,68,44,3,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,195,195,AUS,4,98,98,MS Wade,B Kumar,6,5,30,37.62,1201,50.12,Left-hand bat,69,44,3,204,37.33,68,rm,1,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,197,197,AUS,4,100,100,MS Wade,B Kumar,6,6,31,37.62,1201,50.12,Left-hand bat,71,46,3,204,37.33,68,rm,0,IND,seam,yes,7.2497027348394765,22.784780023781217
+1,403,403,AUS,4,203,203,MS Wade,B Kumar,6,61,140,37.62,1201,50.12,Left-hand bat,73,47,3,204,37.33,68,rm,1,IND,seam,yes,7.2497027348394765,22.784780023781217

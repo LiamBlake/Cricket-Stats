@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,765,0,RSA,0,0,62,AN Petersen,MA Starc,1,0,0,40.79,2714,51.1,Right-hand bat,0,0,0,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,766,1,RSA,0,0,62,AN Petersen,MA Starc,1,0,1,40.79,2714,51.1,Right-hand bat,1,0,0,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,767,2,RSA,0,0,62,AN Petersen,MA Starc,1,0,2,40.79,2714,51.1,Right-hand bat,2,0,0,876.3,29.66,48.8,lf,4,AUS,seam,yes,24.780625,7.194375000000001
+3,768,3,RSA,0,4,66,AN Petersen,MA Starc,1,4,3,40.79,2714,51.1,Right-hand bat,3,4,0,876.3,29.66,48.8,lf,2,AUS,seam,yes,24.780625,7.194375000000001
+3,769,4,RSA,0,6,68,AN Petersen,MA Starc,1,6,4,40.79,2714,51.1,Right-hand bat,4,6,0,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,770,5,RSA,0,6,68,AN Petersen,MA Starc,1,6,5,40.79,2714,51.1,Right-hand bat,5,6,0,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,777,12,RSA,0,6,68,AN Petersen,MA Starc,1,6,6,40.79,2714,51.1,Right-hand bat,6,6,0,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,778,13,RSA,0,6,68,AN Petersen,MA Starc,1,6,7,40.79,2714,51.1,Right-hand bat,7,6,0,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,779,14,RSA,0,6,68,AN Petersen,MA Starc,1,6,8,40.79,2714,51.1,Right-hand bat,8,6,0,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,780,15,RSA,0,6,68,AN Petersen,MA Starc,1,6,9,40.79,2714,51.1,Right-hand bat,9,6,0,876.3,29.66,48.8,lf,4,AUS,seam,yes,24.780625,7.194375000000001
+3,781,16,RSA,0,10,72,AN Petersen,MA Starc,1,10,10,40.79,2714,51.1,Right-hand bat,10,10,0,876.3,29.66,48.8,lf,1,AUS,seam,yes,24.780625,7.194375000000001
+3,791,26,RSA,0,14,76,AN Petersen,MA Starc,1,12,12,40.79,2714,51.1,Right-hand bat,14,12,0,876.3,29.66,48.8,lf,4,AUS,seam,yes,24.780625,7.194375000000001
+3,792,27,RSA,0,18,80,AN Petersen,MA Starc,1,16,13,40.79,2714,51.1,Right-hand bat,15,16,0,876.3,29.66,48.8,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,793,28,RSA,0,18,80,AN Petersen,MA Starc,1,16,14,40.79,2714,51.1,Right-hand bat,16,16,0,876.3,29.66,48.8,lf,4,AUS,seam,yes,24.780625,7.194375000000001
+3,794,29,RSA,0,22,84,AN Petersen,MA Starc,1,20,15,40.79,2714,51.1,Right-hand bat,17,20,0,876.3,29.66,48.8,lf,1,AUS,seam,yes,24.780625,7.194375000000001

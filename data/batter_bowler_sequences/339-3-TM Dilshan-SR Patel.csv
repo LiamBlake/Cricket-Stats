@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1738,153,SRL,2,82,-103,TM Dilshan,SR Patel,3,25,43,40.01,7162,65.93,Right-hand bat,3,0,0,354,40.66,118,lo,0,SRL,spin,yes,10.83984375,23.84765625
+3,1739,154,SRL,2,82,-103,TM Dilshan,SR Patel,3,25,44,40.01,7162,65.93,Right-hand bat,4,0,0,354,40.66,118,lo,0,SRL,spin,yes,10.83984375,23.84765625
+3,1740,155,SRL,2,82,-103,TM Dilshan,SR Patel,3,25,45,40.01,7162,65.93,Right-hand bat,5,0,0,354,40.66,118,lo,0,SRL,spin,yes,10.83984375,23.84765625
+3,1747,162,SRL,2,84,-101,TM Dilshan,SR Patel,3,25,46,40.01,7162,65.93,Right-hand bat,6,0,0,354,40.66,118,lo,0,SRL,spin,yes,10.83984375,23.84765625
+3,1748,163,SRL,2,84,-101,TM Dilshan,SR Patel,3,25,47,40.01,7162,65.93,Right-hand bat,7,0,0,354,40.66,118,lo,1,SRL,spin,yes,10.83984375,23.84765625
+3,1759,174,SRL,2,86,-99,TM Dilshan,SR Patel,3,27,49,40.01,7162,65.93,Right-hand bat,12,1,0,354,40.66,118,lo,0,SRL,spin,yes,10.83984375,23.84765625
+3,1760,175,SRL,2,86,-99,TM Dilshan,SR Patel,3,27,50,40.01,7162,65.93,Right-hand bat,13,1,0,354,40.66,118,lo,0,SRL,spin,yes,10.83984375,23.84765625
+3,1761,176,SRL,2,86,-99,TM Dilshan,SR Patel,3,27,51,40.01,7162,65.93,Right-hand bat,14,1,0,354,40.66,118,lo,0,SRL,spin,yes,10.83984375,23.84765625
+3,1762,177,SRL,2,86,-99,TM Dilshan,SR Patel,3,27,52,40.01,7162,65.93,Right-hand bat,15,1,0,354,40.66,118,lo,1,SRL,spin,yes,10.83984375,23.84765625
+3,1775,190,SRL,2,94,-91,TM Dilshan,SR Patel,3,28,59,40.01,7162,65.93,Right-hand bat,22,9,0,354,40.66,118,lo,0,SRL,spin,yes,10.83984375,23.84765625
+3,1776,191,SRL,2,94,-91,TM Dilshan,SR Patel,3,28,60,40.01,7162,65.93,Right-hand bat,23,9,0,354,40.66,118,lo,0,SRL,spin,yes,10.83984375,23.84765625
+3,1783,198,SRL,2,96,-89,TM Dilshan,SR Patel,3,28,61,40.01,7162,65.93,Right-hand bat,24,9,0,354,40.66,118,lo,2,SRL,spin,yes,10.83984375,23.84765625
+3,1784,199,SRL,2,98,-87,TM Dilshan,SR Patel,3,30,62,40.01,7162,65.93,Right-hand bat,25,11,0,354,40.66,118,lo,3,SRL,spin,yes,10.83984375,23.84765625
+3,1788,203,SRL,2,102,-83,TM Dilshan,SR Patel,3,33,63,40.01,7162,65.93,Right-hand bat,29,15,0,354,40.66,118,lo,1,SRL,spin,yes,10.83984375,23.84765625

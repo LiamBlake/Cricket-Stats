@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,662,315,ENG,9,192,69,JM Anderson,KAJ Roach,11,6,5,10.18,2716,41.23,Left-hand bat,140,71,5,7356.4,30.2,55.3,rfm,0,WIN,seam,no,18.761706555671175,0.6253902185223725
+2,663,316,ENG,9,192,69,JM Anderson,KAJ Roach,11,6,6,10.18,2716,41.23,Left-hand bat,141,71,5,7356.4,30.2,55.3,rfm,0,WIN,seam,no,18.761706555671175,0.6253902185223725
+2,664,317,ENG,9,192,69,JM Anderson,KAJ Roach,11,6,7,10.18,2716,41.23,Left-hand bat,142,71,5,7356.4,30.2,55.3,rfm,1,WIN,seam,no,18.761706555671175,0.6253902185223725

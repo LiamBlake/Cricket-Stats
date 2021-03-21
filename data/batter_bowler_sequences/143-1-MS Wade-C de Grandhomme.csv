@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,490,490,AUS,3,223,223,MS Wade,C de Grandhomme,5,11,21,30.68,2642,51.09,Left-hand bat,85,22,1,3000.5,30.25,75.1,rmf,0,AUS,seam,yes,19.76988823142669,5.1019066403681785
+1,491,491,AUS,3,223,223,MS Wade,C de Grandhomme,5,11,22,30.68,2642,51.09,Left-hand bat,86,22,1,3000.5,30.25,75.1,rmf,1nb,AUS,seam,yes,19.76988823142669,5.1019066403681785
+1,492,492,AUS,3,224,224,MS Wade,C de Grandhomme,5,11,23,30.68,2642,51.09,Left-hand bat,87,23,1,3000.5,30.25,75.1,rmf,0,AUS,seam,yes,19.76988823142669,5.1019066403681785
+1,493,493,AUS,3,224,224,MS Wade,C de Grandhomme,5,11,24,30.68,2642,51.09,Left-hand bat,88,23,1,3000.5,30.25,75.1,rmf,1,AUS,seam,yes,19.76988823142669,5.1019066403681785

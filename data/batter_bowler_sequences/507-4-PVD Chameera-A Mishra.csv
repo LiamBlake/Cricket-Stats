@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2148,254,SRL,9,128,-284,PVD Chameera,A Mishra,11,0,0,3,26,23.07,Right-hand bat,53,25,2,3816.3,36.63,69.4,rls,0,SRL,spin,no,12.831024930747922,17.642659279778393
+4,2155,261,SRL,9,130,-282,PVD Chameera,A Mishra,11,0,1,3,26,23.07,Right-hand bat,54,25,2,3816.3,36.63,69.4,rls,0,SRL,spin,no,12.831024930747922,17.642659279778393
+4,2156,262,SRL,9,130,-282,PVD Chameera,A Mishra,11,0,2,3,26,23.07,Right-hand bat,55,25,2,3816.3,36.63,69.4,rls,4,SRL,spin,no,12.831024930747922,17.642659279778393
+4,2157,263,SRL,9,134,-278,PVD Chameera,A Mishra,11,4,3,3,26,23.07,Right-hand bat,56,29,2,3816.3,36.63,69.4,rls,0,SRL,spin,no,12.831024930747922,17.642659279778393
+4,2158,264,SRL,9,134,-278,PVD Chameera,A Mishra,11,4,4,3,26,23.07,Right-hand bat,57,29,2,3816.3,36.63,69.4,rls,W,SRL,spin,no,12.831024930747922,17.642659279778393

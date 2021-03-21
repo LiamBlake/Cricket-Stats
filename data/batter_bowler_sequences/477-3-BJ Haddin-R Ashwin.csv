@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1941,306,AUS,5,181,246,BJ Haddin,R Ashwin,7,3,14,33.33,5455,58.05,Right-hand bat,60,21,2,6960.4,29.85,61,rob,1,AUS,spin,yes,33.98857142857143,8.497142857142858
+3,1953,318,AUS,5,185,250,BJ Haddin,R Ashwin,7,6,20,33.33,5455,58.05,Right-hand bat,66,22,2,6960.4,29.85,61,rob,2,AUS,spin,yes,33.98857142857143,8.497142857142858
+3,1954,319,AUS,5,187,252,BJ Haddin,R Ashwin,7,8,21,33.33,5455,58.05,Right-hand bat,67,24,2,6960.4,29.85,61,rob,0,AUS,spin,yes,33.98857142857143,8.497142857142858
+3,1955,320,AUS,5,187,252,BJ Haddin,R Ashwin,7,8,22,33.33,5455,58.05,Right-hand bat,68,24,2,6960.4,29.85,61,rob,1,AUS,spin,yes,33.98857142857143,8.497142857142858
+3,1965,330,AUS,5,197,262,BJ Haddin,R Ashwin,7,9,23,33.33,5455,58.05,Right-hand bat,72,26,2,6960.4,29.85,61,rob,1,AUS,spin,yes,33.98857142857143,8.497142857142858
+3,1968,333,AUS,5,199,264,BJ Haddin,R Ashwin,7,10,24,33.33,5455,58.05,Right-hand bat,75,28,2,6960.4,29.85,61,rob,1,AUS,spin,yes,33.98857142857143,8.497142857142858

@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1691,439,PAK,6,175,119,Mohammad Amir,D Bishoo,8,0,0,13.8,1247,33.19,Left-hand bat,88,31,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+3,1692,440,PAK,6,175,119,Mohammad Amir,D Bishoo,8,0,1,13.8,1247,33.19,Left-hand bat,89,31,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+3,1699,447,PAK,6,179,123,Mohammad Amir,D Bishoo,8,3,5,13.8,1247,33.19,Left-hand bat,90,31,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+3,1700,448,PAK,6,179,123,Mohammad Amir,D Bishoo,8,3,6,13.8,1247,33.19,Left-hand bat,91,31,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+3,1701,449,PAK,6,179,123,Mohammad Amir,D Bishoo,8,3,7,13.8,1247,33.19,Left-hand bat,92,31,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+3,1702,450,PAK,6,179,123,Mohammad Amir,D Bishoo,8,3,8,13.8,1247,33.19,Left-hand bat,93,31,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+3,1703,451,PAK,6,179,123,Mohammad Amir,D Bishoo,8,3,9,13.8,1247,33.19,Left-hand bat,94,31,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+3,1704,452,PAK,6,179,123,Mohammad Amir,D Bishoo,8,3,10,13.8,1247,33.19,Left-hand bat,95,31,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+3,1712,460,PAK,6,188,132,Mohammad Amir,D Bishoo,8,5,13,13.8,1247,33.19,Left-hand bat,96,31,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+3,1713,461,PAK,6,188,132,Mohammad Amir,D Bishoo,8,5,14,13.8,1247,33.19,Left-hand bat,97,31,2,5286,37,68.6,rls,1,PAK,spin,yes,16,12
+3,1724,472,PAK,7,190,134,Mohammad Amir,D Bishoo,8,7,18,13.8,1247,33.19,Left-hand bat,102,32,3,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+3,1725,473,PAK,7,190,134,Mohammad Amir,D Bishoo,8,7,19,13.8,1247,33.19,Left-hand bat,103,32,3,5286,37,68.6,rls,1,PAK,spin,yes,16,12
+3,1727,475,PAK,7,192,136,Mohammad Amir,D Bishoo,8,8,20,13.8,1247,33.19,Left-hand bat,105,34,3,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+3,1728,476,PAK,7,192,136,Mohammad Amir,D Bishoo,8,8,21,13.8,1247,33.19,Left-hand bat,106,34,3,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+3,1729,477,PAK,7,192,136,Mohammad Amir,D Bishoo,8,8,22,13.8,1247,33.19,Left-hand bat,107,34,3,5286,37,68.6,rls,W,PAK,spin,yes,16,12

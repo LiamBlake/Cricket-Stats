@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2224,567,WIN,5,341,-133,JE Taylor,MG Johnson,6,23,28,13.66,708,52.11,Right-hand bat,59,53,0,2130,32.88,62.6,lf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+4,2225,568,WIN,5,341,-133,JE Taylor,MG Johnson,6,23,29,13.66,708,52.11,Right-hand bat,60,53,0,2130,32.88,62.6,lf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+4,2226,569,WIN,5,341,-133,JE Taylor,MG Johnson,6,23,30,13.66,708,52.11,Right-hand bat,61,53,0,2130,32.88,62.6,lf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+4,2227,570,WIN,5,341,-133,JE Taylor,MG Johnson,6,23,31,13.66,708,52.11,Right-hand bat,62,53,0,2130,32.88,62.6,lf,4,WIN,seam,yes,27.44326530612245,9.499591836734693
+4,2228,571,WIN,5,345,-129,JE Taylor,MG Johnson,6,27,32,13.66,708,52.11,Right-hand bat,63,57,0,2130,32.88,62.6,lf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+4,2229,572,WIN,5,345,-129,JE Taylor,MG Johnson,6,27,33,13.66,708,52.11,Right-hand bat,64,57,0,2130,32.88,62.6,lf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+4,2236,579,WIN,6,347,-127,JE Taylor,MG Johnson,6,27,34,13.66,708,52.11,Right-hand bat,65,57,0,2130,32.88,62.6,lf,4,WIN,seam,yes,27.44326530612245,9.499591836734693
+4,2237,580,WIN,6,351,-123,JE Taylor,MG Johnson,6,31,35,13.66,708,52.11,Right-hand bat,66,61,0,2130,32.88,62.6,lf,W,WIN,seam,yes,27.44326530612245,9.499591836734693

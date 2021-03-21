@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1732,206,BAN,5,144,-354,Nasir Hossain,HMRKB Herath,7,5,12,42.47,1545,57.73,Right-hand bat,30,21,1,13932.1,30.01,64.2,lo,0,BAN,spin,no,23.307692307692307,23.307692307692307
+3,1733,207,BAN,5,144,-354,Nasir Hossain,HMRKB Herath,7,5,13,42.47,1545,57.73,Right-hand bat,31,21,1,13932.1,30.01,64.2,lo,0,BAN,spin,no,23.307692307692307,23.307692307692307
+3,1734,208,BAN,5,144,-354,Nasir Hossain,HMRKB Herath,7,5,14,42.47,1545,57.73,Right-hand bat,32,21,1,13932.1,30.01,64.2,lo,0,BAN,spin,no,23.307692307692307,23.307692307692307
+3,1735,209,BAN,5,144,-354,Nasir Hossain,HMRKB Herath,7,5,15,42.47,1545,57.73,Right-hand bat,33,21,1,13932.1,30.01,64.2,lo,2,BAN,spin,no,23.307692307692307,23.307692307692307
+3,1736,210,BAN,5,146,-352,Nasir Hossain,HMRKB Herath,7,7,16,42.47,1545,57.73,Right-hand bat,34,23,1,13932.1,30.01,64.2,lo,0,BAN,spin,no,23.307692307692307,23.307692307692307
+3,1737,211,BAN,5,146,-352,Nasir Hossain,HMRKB Herath,7,7,17,42.47,1545,57.73,Right-hand bat,35,23,1,13932.1,30.01,64.2,lo,4,BAN,spin,no,23.307692307692307,23.307692307692307
+3,1744,218,BAN,6,154,-344,Nasir Hossain,HMRKB Herath,7,11,18,42.47,1545,57.73,Right-hand bat,36,27,1,13932.1,30.01,64.2,lo,0,BAN,spin,no,23.307692307692307,23.307692307692307
+3,1745,219,BAN,6,154,-344,Nasir Hossain,HMRKB Herath,7,11,19,42.47,1545,57.73,Right-hand bat,37,27,1,13932.1,30.01,64.2,lo,0,BAN,spin,no,23.307692307692307,23.307692307692307
+3,1746,220,BAN,6,154,-344,Nasir Hossain,HMRKB Herath,7,11,20,42.47,1545,57.73,Right-hand bat,38,27,1,13932.1,30.01,64.2,lo,1,BAN,spin,no,23.307692307692307,23.307692307692307
+3,1761,235,BAN,6,170,-328,Nasir Hossain,HMRKB Herath,7,13,24,42.47,1545,57.73,Right-hand bat,47,35,1,13932.1,30.01,64.2,lo,4,BAN,spin,no,23.307692307692307,23.307692307692307

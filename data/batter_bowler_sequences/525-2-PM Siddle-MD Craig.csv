@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,988,695,AUS,6,413,230,PM Siddle,MD Craig,8,2,9,14.53,2196,46.99,Right-hand bat,175,117,1,3384.3,45.56,70.5,rob,0,NZL,spin,yes,25.013333333333332,10.72
+2,989,696,AUS,6,413,230,PM Siddle,MD Craig,8,2,10,14.53,2196,46.99,Right-hand bat,176,117,1,3384.3,45.56,70.5,rob,0,NZL,spin,yes,25.013333333333332,10.72
+2,990,697,AUS,6,413,230,PM Siddle,MD Craig,8,2,11,14.53,2196,46.99,Right-hand bat,177,117,1,3384.3,45.56,70.5,rob,0,NZL,spin,yes,25.013333333333332,10.72
+2,991,698,AUS,6,413,230,PM Siddle,MD Craig,8,2,12,14.53,2196,46.99,Right-hand bat,178,117,1,3384.3,45.56,70.5,rob,0,NZL,spin,yes,25.013333333333332,10.72
+2,992,699,AUS,6,413,230,PM Siddle,MD Craig,8,2,13,14.53,2196,46.99,Right-hand bat,179,117,1,3384.3,45.56,70.5,rob,0,NZL,spin,yes,25.013333333333332,10.72
+2,1000,707,AUS,6,415,232,PM Siddle,MD Craig,8,2,15,14.53,2196,46.99,Right-hand bat,181,118,1,3384.3,45.56,70.5,rob,4,NZL,spin,yes,25.013333333333332,10.72
+2,1001,708,AUS,6,419,236,PM Siddle,MD Craig,8,6,16,14.53,2196,46.99,Right-hand bat,182,122,1,3384.3,45.56,70.5,rob,0,NZL,spin,yes,25.013333333333332,10.72
+2,1002,709,AUS,6,419,236,PM Siddle,MD Craig,8,6,17,14.53,2196,46.99,Right-hand bat,183,122,1,3384.3,45.56,70.5,rob,0,NZL,spin,yes,25.013333333333332,10.72
+2,1003,710,AUS,6,419,236,PM Siddle,MD Craig,8,6,18,14.53,2196,46.99,Right-hand bat,184,122,1,3384.3,45.56,70.5,rob,0,NZL,spin,yes,25.013333333333332,10.72
+2,1004,711,AUS,6,419,236,PM Siddle,MD Craig,8,6,19,14.53,2196,46.99,Right-hand bat,185,122,1,3384.3,45.56,70.5,rob,0,NZL,spin,yes,25.013333333333332,10.72
+2,1014,721,AUS,6,421,238,PM Siddle,MD Craig,8,6,25,14.53,2196,46.99,Right-hand bat,189,123,1,3384.3,45.56,70.5,rob,0,NZL,spin,yes,25.013333333333332,10.72
+2,1015,722,AUS,6,421,238,PM Siddle,MD Craig,8,6,26,14.53,2196,46.99,Right-hand bat,190,123,1,3384.3,45.56,70.5,rob,1,NZL,spin,yes,25.013333333333332,10.72

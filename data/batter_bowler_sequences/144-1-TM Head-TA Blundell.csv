@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,704,704,AUS,5,336,336,TM Head,TA Blundell,6,57,123,43.24,2122,50.94,Left-hand bat,0,0,0,18,NA,NA,rob,0,AUS,spin,no,21.712653061224486,6.680816326530612
+1,705,705,AUS,5,336,336,TM Head,TA Blundell,6,57,124,43.24,2122,50.94,Left-hand bat,1,0,0,18,NA,NA,rob,4,AUS,spin,no,21.712653061224486,6.680816326530612
+1,706,706,AUS,5,340,340,TM Head,TA Blundell,6,61,125,43.24,2122,50.94,Left-hand bat,2,4,0,18,NA,NA,rob,0,AUS,spin,no,21.712653061224486,6.680816326530612
+1,707,707,AUS,5,340,340,TM Head,TA Blundell,6,61,126,43.24,2122,50.94,Left-hand bat,3,4,0,18,NA,NA,rob,1,AUS,spin,no,21.712653061224486,6.680816326530612
+1,709,709,AUS,5,342,342,TM Head,TA Blundell,6,62,127,43.24,2122,50.94,Left-hand bat,5,6,0,18,NA,NA,rob,0,AUS,spin,no,21.712653061224486,6.680816326530612
+1,717,717,AUS,5,344,344,TM Head,TA Blundell,6,62,128,43.24,2122,50.94,Left-hand bat,7,7,0,18,NA,NA,rob,0,AUS,spin,no,21.712653061224486,6.680816326530612
+1,718,718,AUS,5,344,344,TM Head,TA Blundell,6,62,129,43.24,2122,50.94,Left-hand bat,8,7,0,18,NA,NA,rob,0,AUS,spin,no,21.712653061224486,6.680816326530612
+1,719,719,AUS,5,344,344,TM Head,TA Blundell,6,62,130,43.24,2122,50.94,Left-hand bat,9,7,0,18,NA,NA,rob,0,AUS,spin,no,21.712653061224486,6.680816326530612
+1,720,720,AUS,5,344,344,TM Head,TA Blundell,6,62,131,43.24,2122,50.94,Left-hand bat,10,7,0,18,NA,NA,rob,0,AUS,spin,no,21.712653061224486,6.680816326530612
+1,721,721,AUS,5,344,344,TM Head,TA Blundell,6,62,132,43.24,2122,50.94,Left-hand bat,11,7,0,18,NA,NA,rob,0,AUS,spin,no,21.712653061224486,6.680816326530612
+1,728,728,AUS,5,348,348,TM Head,TA Blundell,6,62,133,43.24,2122,50.94,Left-hand bat,12,7,0,18,NA,NA,rob,1,AUS,spin,no,21.712653061224486,6.680816326530612
+1,731,731,AUS,5,350,350,TM Head,TA Blundell,6,63,134,43.24,2122,50.94,Left-hand bat,15,9,0,18,NA,NA,rob,0,AUS,spin,no,21.712653061224486,6.680816326530612
+1,732,732,AUS,5,350,350,TM Head,TA Blundell,6,63,135,43.24,2122,50.94,Left-hand bat,16,9,0,18,NA,NA,rob,4,AUS,spin,no,21.712653061224486,6.680816326530612
+1,733,733,AUS,5,354,354,TM Head,TA Blundell,6,67,136,43.24,2122,50.94,Left-hand bat,17,13,0,18,NA,NA,rob,0,AUS,spin,no,21.712653061224486,6.680816326530612

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2099,722,AUS,9,400,-42,BW Hilfenhaus,PL Harris,11,4,6,7,34,82.35,Right-hand bat,248,115,5,5076.4,32.6,71.5,lo,0,RSA,spin,yes,27.064444444444447,15.668888888888889
+3,2100,723,AUS,9,400,-42,BW Hilfenhaus,PL Harris,11,4,7,7,34,82.35,Right-hand bat,249,115,5,5076.4,32.6,71.5,lo,0,RSA,spin,yes,27.064444444444447,15.668888888888889
+3,2101,724,AUS,9,400,-42,BW Hilfenhaus,PL Harris,11,4,8,7,34,82.35,Right-hand bat,250,115,5,5076.4,32.6,71.5,lo,0,RSA,spin,yes,27.064444444444447,15.668888888888889
+3,2102,725,AUS,9,400,-42,BW Hilfenhaus,PL Harris,11,4,9,7,34,82.35,Right-hand bat,251,115,5,5076.4,32.6,71.5,lo,4,RSA,spin,yes,27.064444444444447,15.668888888888889
+3,2103,726,AUS,9,404,-38,BW Hilfenhaus,PL Harris,11,8,10,7,34,82.35,Right-hand bat,252,119,5,5076.4,32.6,71.5,lo,0,RSA,spin,yes,27.064444444444447,15.668888888888889
+3,2110,733,AUS,9,418,-24,BW Hilfenhaus,PL Harris,11,8,11,7,34,82.35,Right-hand bat,253,119,5,5076.4,32.6,71.5,lo,0,RSA,spin,yes,27.064444444444447,15.668888888888889
+3,2111,734,AUS,9,418,-24,BW Hilfenhaus,PL Harris,11,8,12,7,34,82.35,Right-hand bat,254,119,5,5076.4,32.6,71.5,lo,4,RSA,spin,yes,27.064444444444447,15.668888888888889
+3,2112,735,AUS,9,422,-20,BW Hilfenhaus,PL Harris,11,12,13,7,34,82.35,Right-hand bat,255,123,5,5076.4,32.6,71.5,lo,0,RSA,spin,yes,27.064444444444447,15.668888888888889
+3,2113,736,AUS,9,422,-20,BW Hilfenhaus,PL Harris,11,12,14,7,34,82.35,Right-hand bat,256,123,5,5076.4,32.6,71.5,lo,0,RSA,spin,yes,27.064444444444447,15.668888888888889
+3,2114,737,AUS,9,422,-20,BW Hilfenhaus,PL Harris,11,12,15,7,34,82.35,Right-hand bat,257,123,5,5076.4,32.6,71.5,lo,W,RSA,spin,yes,27.064444444444447,15.668888888888889

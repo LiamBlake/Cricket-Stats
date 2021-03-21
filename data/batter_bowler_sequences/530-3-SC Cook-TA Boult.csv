@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1290,11,RSA,0,17,284,SC Cook,TA Boult,1,0,6,44,492,44.71,Right-hand bat,5,17,0,9384,29.32,59.3,lfm,0,RSA,seam,no,26.697142857142858,2.5028571428571427
+3,1297,18,RSA,0,27,294,SC Cook,TA Boult,1,0,7,44,492,44.71,Right-hand bat,6,17,0,9384,29.32,59.3,lfm,4,RSA,seam,no,26.697142857142858,2.5028571428571427
+3,1298,19,RSA,0,31,298,SC Cook,TA Boult,1,4,8,44,492,44.71,Right-hand bat,7,21,0,9384,29.32,59.3,lfm,W,RSA,seam,no,26.697142857142858,2.5028571428571427

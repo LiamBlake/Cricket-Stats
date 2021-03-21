@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1324,375,IND,8,218,330,B Kumar,MJ Santner,10,1,5,23.38,914,46.06,Right-hand bat,73,43,3,1590.3,31.41,66.3,lo,1,IND,spin,yes,15.925,8.575
+3,1326,377,IND,8,220,332,B Kumar,MJ Santner,10,2,6,23.38,914,46.06,Right-hand bat,75,45,3,1590.3,31.41,66.3,lo,0,IND,spin,yes,15.925,8.575
+3,1327,378,IND,8,220,332,B Kumar,MJ Santner,10,2,7,23.38,914,46.06,Right-hand bat,76,45,3,1590.3,31.41,66.3,lo,6,IND,spin,yes,15.925,8.575
+3,1328,379,IND,8,226,338,B Kumar,MJ Santner,10,8,8,23.38,914,46.06,Right-hand bat,77,51,3,1590.3,31.41,66.3,lo,0,IND,spin,yes,15.925,8.575
+3,1383,434,IND,8,250,362,B Kumar,MJ Santner,10,22,45,23.38,914,46.06,Right-hand bat,84,51,3,1590.3,31.41,66.3,lo,0,IND,spin,yes,15.925,8.575
+3,1384,435,IND,8,250,362,B Kumar,MJ Santner,10,22,46,23.38,914,46.06,Right-hand bat,85,51,3,1590.3,31.41,66.3,lo,1,IND,spin,yes,15.925,8.575

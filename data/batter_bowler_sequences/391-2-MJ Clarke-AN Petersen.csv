@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1634,713,AUS,4,453,3,MJ Clarke,AN Petersen,5,196,330,50.84,11581,54.88,Right-hand bat,0,0,0,90,56,90,rob,0,AUS,spin,no,44.2875,11.809999999999999
+2,1635,714,AUS,4,453,3,MJ Clarke,AN Petersen,5,196,331,50.84,11581,54.88,Right-hand bat,1,0,0,90,56,90,rob,1,AUS,spin,no,44.2875,11.809999999999999
+2,1638,717,AUS,4,455,5,MJ Clarke,AN Petersen,5,197,332,50.84,11581,54.88,Right-hand bat,4,2,0,90,56,90,rob,1,AUS,spin,no,44.2875,11.809999999999999
+2,1648,727,AUS,4,461,11,MJ Clarke,AN Petersen,5,200,339,50.84,11581,54.88,Right-hand bat,8,6,0,90,56,90,rob,1,AUS,spin,no,44.2875,11.809999999999999
+2,1658,737,AUS,4,473,23,MJ Clarke,AN Petersen,5,208,344,50.84,11581,54.88,Right-hand bat,12,10,0,90,56,90,rob,0,AUS,spin,no,44.2875,11.809999999999999
+2,1659,738,AUS,4,473,23,MJ Clarke,AN Petersen,5,208,345,50.84,11581,54.88,Right-hand bat,13,10,0,90,56,90,rob,2,AUS,spin,no,44.2875,11.809999999999999
+2,1660,739,AUS,4,475,25,MJ Clarke,AN Petersen,5,210,346,50.84,11581,54.88,Right-hand bat,14,12,0,90,56,90,rob,0,AUS,spin,no,44.2875,11.809999999999999
+2,1661,740,AUS,4,475,25,MJ Clarke,AN Petersen,5,210,347,50.84,11581,54.88,Right-hand bat,15,12,0,90,56,90,rob,4,AUS,spin,no,44.2875,11.809999999999999
+2,1662,741,AUS,4,479,29,MJ Clarke,AN Petersen,5,214,348,50.84,11581,54.88,Right-hand bat,16,16,0,90,56,90,rob,2,AUS,spin,no,44.2875,11.809999999999999
+2,1663,742,AUS,4,481,31,MJ Clarke,AN Petersen,5,216,349,50.84,11581,54.88,Right-hand bat,17,18,0,90,56,90,rob,2,AUS,spin,no,44.2875,11.809999999999999

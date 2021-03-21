@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,72,72,ENG,1,44,44,AN Cook,J Yadav,1,27,35,46.72,23300,46.92,Left-hand bat,0,0,0,300.3,17.25,37.8,rob,0,IND,spin,yes,14.21875,18.28125
+1,73,73,ENG,1,44,44,AN Cook,J Yadav,1,27,36,46.72,23300,46.92,Left-hand bat,1,0,0,300.3,17.25,37.8,rob,0,IND,spin,yes,14.21875,18.28125
+1,74,74,ENG,1,44,44,AN Cook,J Yadav,1,27,37,46.72,23300,46.92,Left-hand bat,2,0,0,300.3,17.25,37.8,rob,0,IND,spin,yes,14.21875,18.28125
+1,75,75,ENG,1,44,44,AN Cook,J Yadav,1,27,38,46.72,23300,46.92,Left-hand bat,3,0,0,300.3,17.25,37.8,rob,0,IND,spin,yes,14.21875,18.28125
+1,76,76,ENG,1,44,44,AN Cook,J Yadav,1,27,39,46.72,23300,46.92,Left-hand bat,4,0,0,300.3,17.25,37.8,rob,0,IND,spin,yes,14.21875,18.28125
+1,77,77,ENG,1,44,44,AN Cook,J Yadav,1,27,40,46.72,23300,46.92,Left-hand bat,5,0,0,300.3,17.25,37.8,rob,0,IND,spin,yes,14.21875,18.28125

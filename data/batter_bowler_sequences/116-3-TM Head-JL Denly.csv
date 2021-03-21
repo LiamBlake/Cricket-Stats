@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1577,273,AUS,3,170,80,TM Head,JL Denly,5,43,92,49.93,1476,50.74,Left-hand bat,1,1,0,120,NA,NA,rls,1,ENG,spin,yes,23.575602629656686,11.316289262235209
+3,1581,277,AUS,3,172,82,TM Head,JL Denly,5,44,93,49.93,1476,50.74,Left-hand bat,5,3,0,120,NA,NA,rls,1b,ENG,spin,yes,23.575602629656686,11.316289262235209
+3,1591,287,AUS,3,177,87,TM Head,JL Denly,5,46,100,49.93,1476,50.74,Left-hand bat,8,3,0,120,NA,NA,rls,0,ENG,spin,yes,23.575602629656686,11.316289262235209
+3,1592,288,AUS,3,177,87,TM Head,JL Denly,5,46,101,49.93,1476,50.74,Left-hand bat,9,3,0,120,NA,NA,rls,0,ENG,spin,yes,23.575602629656686,11.316289262235209
+3,1593,289,AUS,3,177,87,TM Head,JL Denly,5,46,102,49.93,1476,50.74,Left-hand bat,10,3,0,120,NA,NA,rls,0,ENG,spin,yes,23.575602629656686,11.316289262235209
+3,1594,290,AUS,3,177,87,TM Head,JL Denly,5,46,103,49.93,1476,50.74,Left-hand bat,11,3,0,120,NA,NA,rls,0,ENG,spin,yes,23.575602629656686,11.316289262235209
+3,1604,300,AUS,3,188,98,TM Head,JL Denly,5,46,105,49.93,1476,50.74,Left-hand bat,14,4,0,120,NA,NA,rls,0,ENG,spin,yes,23.575602629656686,11.316289262235209
+3,1605,301,AUS,3,188,98,TM Head,JL Denly,5,46,106,49.93,1476,50.74,Left-hand bat,15,4,0,120,NA,NA,rls,0,ENG,spin,yes,23.575602629656686,11.316289262235209
+3,1606,302,AUS,3,188,98,TM Head,JL Denly,5,46,107,49.93,1476,50.74,Left-hand bat,16,4,0,120,NA,NA,rls,1,ENG,spin,yes,23.575602629656686,11.316289262235209

@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1281,37,RSA,1,30,-70,HM Amla,DL Vettori,3,19,19,46.81,8661,50.81,Right-hand bat,1,1,0,28056.5,33.87,78.3,lo,0,NZL,spin,yes,19.91987513007284,2.9510926118626433
+4,1282,38,RSA,1,30,-70,HM Amla,DL Vettori,3,19,20,46.81,8661,50.81,Right-hand bat,2,1,0,28056.5,33.87,78.3,lo,0,NZL,spin,yes,19.91987513007284,2.9510926118626433
+4,1283,39,RSA,1,30,-70,HM Amla,DL Vettori,3,19,21,46.81,8661,50.81,Right-hand bat,3,1,0,28056.5,33.87,78.3,lo,0,NZL,spin,yes,19.91987513007284,2.9510926118626433
+4,1284,40,RSA,1,30,-70,HM Amla,DL Vettori,3,19,22,46.81,8661,50.81,Right-hand bat,4,1,0,28056.5,33.87,78.3,lo,0,NZL,spin,yes,19.91987513007284,2.9510926118626433
+4,1285,41,RSA,1,30,-70,HM Amla,DL Vettori,3,19,23,46.81,8661,50.81,Right-hand bat,5,1,0,28056.5,33.87,78.3,lo,0,NZL,spin,yes,19.91987513007284,2.9510926118626433
+4,1296,52,RSA,1,40,-60,HM Amla,DL Vettori,3,27,29,46.81,8661,50.81,Right-hand bat,10,2,0,28056.5,33.87,78.3,lo,0,NZL,spin,yes,19.91987513007284,2.9510926118626433
+4,1297,53,RSA,1,40,-60,HM Amla,DL Vettori,3,27,30,46.81,8661,50.81,Right-hand bat,11,2,0,28056.5,33.87,78.3,lo,0,NZL,spin,yes,19.91987513007284,2.9510926118626433

@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1055,328,IND,3,199,-318,AM Rahane,MR Marsh,5,5,14,38.94,1386,53.39,Right-hand bat,44,6,0,330,NA,NA,rm,0,AUS,seam,no,22.939453125,25.998046875
+2,1056,329,IND,3,199,-318,AM Rahane,MR Marsh,5,5,15,38.94,1386,53.39,Right-hand bat,45,6,0,330,NA,NA,rm,0,AUS,seam,no,22.939453125,25.998046875
+2,1057,330,IND,3,199,-318,AM Rahane,MR Marsh,5,5,16,38.94,1386,53.39,Right-hand bat,46,6,0,330,NA,NA,rm,0,AUS,seam,no,22.939453125,25.998046875
+2,1058,331,IND,3,199,-318,AM Rahane,MR Marsh,5,5,17,38.94,1386,53.39,Right-hand bat,47,6,0,330,NA,NA,rm,0,AUS,seam,no,22.939453125,25.998046875
+2,1066,339,IND,3,203,-314,AM Rahane,MR Marsh,5,6,19,38.94,1386,53.39,Right-hand bat,49,7,0,330,NA,NA,rm,0,AUS,seam,no,22.939453125,25.998046875
+2,1067,340,IND,3,203,-314,AM Rahane,MR Marsh,5,6,20,38.94,1386,53.39,Right-hand bat,50,7,0,330,NA,NA,rm,0,AUS,seam,no,22.939453125,25.998046875
+2,1068,341,IND,3,203,-314,AM Rahane,MR Marsh,5,6,21,38.94,1386,53.39,Right-hand bat,51,7,0,330,NA,NA,rm,0,AUS,seam,no,22.939453125,25.998046875
+2,1069,342,IND,3,203,-314,AM Rahane,MR Marsh,5,6,22,38.94,1386,53.39,Right-hand bat,52,7,0,330,NA,NA,rm,4,AUS,seam,no,22.939453125,25.998046875
+2,1070,343,IND,3,207,-310,AM Rahane,MR Marsh,5,10,23,38.94,1386,53.39,Right-hand bat,53,11,0,330,NA,NA,rm,0,AUS,seam,no,22.939453125,25.998046875

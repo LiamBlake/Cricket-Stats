@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,929,238,SRL,0,145,-341,NT Paranavitana,KP Pietersen,1,43,134,37.93,2492,45.66,Left-hand bat,2,1,0,906.3,120.2,181.8,rob,1,ENG,spin,yes,33.29666666666667,14.270000000000001
+2,931,240,SRL,0,147,-339,NT Paranavitana,KP Pietersen,1,44,135,37.93,2492,45.66,Left-hand bat,4,3,0,906.3,120.2,181.8,rob,1,ENG,spin,yes,33.29666666666667,14.270000000000001
+2,939,248,SRL,0,151,-335,NT Paranavitana,KP Pietersen,1,46,137,37.93,2492,45.66,Left-hand bat,6,4,0,906.3,120.2,181.8,rob,0,ENG,spin,yes,33.29666666666667,14.270000000000001
+2,940,249,SRL,0,151,-335,NT Paranavitana,KP Pietersen,1,46,138,37.93,2492,45.66,Left-hand bat,7,4,0,906.3,120.2,181.8,rob,0,ENG,spin,yes,33.29666666666667,14.270000000000001
+2,941,250,SRL,0,151,-335,NT Paranavitana,KP Pietersen,1,46,139,37.93,2492,45.66,Left-hand bat,8,4,0,906.3,120.2,181.8,rob,1,ENG,spin,yes,33.29666666666667,14.270000000000001
+2,952,261,SRL,0,163,-323,NT Paranavitana,KP Pietersen,1,52,144,37.93,2492,45.66,Left-hand bat,13,10,0,906.3,120.2,181.8,rob,0,ENG,spin,yes,33.29666666666667,14.270000000000001
+2,953,262,SRL,0,163,-323,NT Paranavitana,KP Pietersen,1,52,145,37.93,2492,45.66,Left-hand bat,14,10,0,906.3,120.2,181.8,rob,0,ENG,spin,yes,33.29666666666667,14.270000000000001
+2,954,263,SRL,0,163,-323,NT Paranavitana,KP Pietersen,1,52,146,37.93,2492,45.66,Left-hand bat,15,10,0,906.3,120.2,181.8,rob,0,ENG,spin,yes,33.29666666666667,14.270000000000001
+2,955,264,SRL,0,163,-323,NT Paranavitana,KP Pietersen,1,52,147,37.93,2492,45.66,Left-hand bat,16,10,0,906.3,120.2,181.8,rob,0,ENG,spin,yes,33.29666666666667,14.270000000000001
+2,956,265,SRL,0,163,-323,NT Paranavitana,KP Pietersen,1,52,148,37.93,2492,45.66,Left-hand bat,17,10,0,906.3,120.2,181.8,rob,1,ENG,spin,yes,33.29666666666667,14.270000000000001

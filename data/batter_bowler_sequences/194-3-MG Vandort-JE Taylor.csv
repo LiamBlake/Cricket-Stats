@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1658,8,SRL,0,5,201,MG Vandort,JE Taylor,1,4,6,46.54,2052,49.9,Left-hand bat,2,1,0,3006.4,37.18,61.4,rf,0,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1659,9,SRL,0,5,201,MG Vandort,JE Taylor,1,4,7,46.54,2052,49.9,Left-hand bat,3,1,0,3006.4,37.18,61.4,rf,4,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1660,10,SRL,0,9,205,MG Vandort,JE Taylor,1,8,8,46.54,2052,49.9,Left-hand bat,4,5,0,3006.4,37.18,61.4,rf,0,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1661,11,SRL,0,9,205,MG Vandort,JE Taylor,1,8,9,46.54,2052,49.9,Left-hand bat,5,5,0,3006.4,37.18,61.4,rf,1,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1668,18,SRL,0,13,209,MG Vandort,JE Taylor,1,10,14,46.54,2052,49.9,Left-hand bat,6,6,0,3006.4,37.18,61.4,rf,1,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1672,22,SRL,0,19,215,MG Vandort,JE Taylor,1,11,15,46.54,2052,49.9,Left-hand bat,10,12,0,3006.4,37.18,61.4,rf,0,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1673,23,SRL,0,19,215,MG Vandort,JE Taylor,1,11,16,46.54,2052,49.9,Left-hand bat,11,12,0,3006.4,37.18,61.4,rf,1,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1680,30,SRL,0,23,219,MG Vandort,JE Taylor,1,15,23,46.54,2052,49.9,Left-hand bat,12,13,0,3006.4,37.18,61.4,rf,0,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1681,31,SRL,0,23,219,MG Vandort,JE Taylor,1,15,24,46.54,2052,49.9,Left-hand bat,13,13,0,3006.4,37.18,61.4,rf,1,WIN,seam,yes,24.61469387755102,12.842448979591836
+3,1685,35,SRL,0,29,225,MG Vandort,JE Taylor,1,16,25,46.54,2052,49.9,Left-hand bat,17,19,0,3006.4,37.18,61.4,rf,1,WIN,seam,yes,24.61469387755102,12.842448979591836

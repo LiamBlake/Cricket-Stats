@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1395,657,NZL,8,304,-4,N Wagner,VD Philander,10,4,10,13.24,872,44.03,Left-hand bat,152,43,2,7608.2,21.55,47.2,rfm,4,NZL,seam,no,20.662721893491128,12.914201183431954
+2,1396,658,NZL,8,308,0,N Wagner,VD Philander,10,8,11,13.24,872,44.03,Left-hand bat,153,47,2,7608.2,21.55,47.2,rfm,0,NZL,seam,no,20.662721893491128,12.914201183431954
+2,1397,659,NZL,8,308,0,N Wagner,VD Philander,10,8,12,13.24,872,44.03,Left-hand bat,154,47,2,7608.2,21.55,47.2,rfm,0,NZL,seam,no,20.662721893491128,12.914201183431954
+2,1398,660,NZL,8,308,0,N Wagner,VD Philander,10,8,13,13.24,872,44.03,Left-hand bat,155,47,2,7608.2,21.55,47.2,rfm,0,NZL,seam,no,20.662721893491128,12.914201183431954
+2,1399,661,NZL,8,308,0,N Wagner,VD Philander,10,8,14,13.24,872,44.03,Left-hand bat,156,47,2,7608.2,21.55,47.2,rfm,0,NZL,seam,no,20.662721893491128,12.914201183431954
+2,1400,662,NZL,8,308,0,N Wagner,VD Philander,10,8,15,13.24,872,44.03,Left-hand bat,157,47,2,7608.2,21.55,47.2,rfm,0,NZL,seam,no,20.662721893491128,12.914201183431954
+2,1409,671,NZL,8,310,2,N Wagner,VD Philander,10,8,21,13.24,872,44.03,Left-hand bat,160,48,2,7608.2,21.55,47.2,rfm,4,NZL,seam,no,20.662721893491128,12.914201183431954
+2,1410,672,NZL,8,314,6,N Wagner,VD Philander,10,12,22,13.24,872,44.03,Left-hand bat,161,52,2,7608.2,21.55,47.2,rfm,6,NZL,seam,no,20.662721893491128,12.914201183431954
+2,1411,673,NZL,8,320,12,N Wagner,VD Philander,10,18,23,13.24,872,44.03,Left-hand bat,162,58,2,7608.2,21.55,47.2,rfm,4,NZL,seam,no,20.662721893491128,12.914201183431954
+2,1412,674,NZL,8,324,16,N Wagner,VD Philander,10,22,24,13.24,872,44.03,Left-hand bat,163,62,2,7608.2,21.55,47.2,rfm,0,NZL,seam,no,20.662721893491128,12.914201183431954

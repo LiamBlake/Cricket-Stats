@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,856,403,WIN,3,249,28,KC Brathwaite,KS Williamson,2,99,195,27.9,1553,35.93,Right-hand bat,0,0,0,1710.1,39.54,71.2,rob,0,WIN,spin,no,24.6,12.3
+2,857,404,WIN,3,249,28,KC Brathwaite,KS Williamson,2,99,196,27.9,1553,35.93,Right-hand bat,1,0,0,1710.1,39.54,71.2,rob,0,WIN,spin,no,24.6,12.3
+2,858,405,WIN,3,249,28,KC Brathwaite,KS Williamson,2,99,197,27.9,1553,35.93,Right-hand bat,2,0,0,1710.1,39.54,71.2,rob,0,WIN,spin,no,24.6,12.3
+2,859,406,WIN,3,249,28,KC Brathwaite,KS Williamson,2,99,198,27.9,1553,35.93,Right-hand bat,3,0,0,1710.1,39.54,71.2,rob,1,WIN,spin,no,24.6,12.3
+2,861,408,WIN,3,251,30,KC Brathwaite,KS Williamson,2,100,199,27.9,1553,35.93,Right-hand bat,5,2,0,1710.1,39.54,71.2,rob,0,WIN,spin,no,24.6,12.3
+2,869,416,WIN,3,256,35,KC Brathwaite,KS Williamson,2,100,200,27.9,1553,35.93,Right-hand bat,6,2,0,1710.1,39.54,71.2,rob,0,WIN,spin,no,24.6,12.3
+2,870,417,WIN,3,256,35,KC Brathwaite,KS Williamson,2,100,201,27.9,1553,35.93,Right-hand bat,7,2,0,1710.1,39.54,71.2,rob,0,WIN,spin,no,24.6,12.3
+2,871,418,WIN,3,256,35,KC Brathwaite,KS Williamson,2,100,202,27.9,1553,35.93,Right-hand bat,8,2,0,1710.1,39.54,71.2,rob,0,WIN,spin,no,24.6,12.3
+2,872,419,WIN,3,256,35,KC Brathwaite,KS Williamson,2,100,203,27.9,1553,35.93,Right-hand bat,9,2,0,1710.1,39.54,71.2,rob,0,WIN,spin,no,24.6,12.3
+2,873,420,WIN,3,256,35,KC Brathwaite,KS Williamson,2,100,204,27.9,1553,35.93,Right-hand bat,10,2,0,1710.1,39.54,71.2,rob,0,WIN,spin,no,24.6,12.3
+2,874,421,WIN,3,256,35,KC Brathwaite,KS Williamson,2,100,205,27.9,1553,35.93,Right-hand bat,11,2,0,1710.1,39.54,71.2,rob,1,WIN,spin,no,24.6,12.3
+2,905,452,WIN,3,274,53,KC Brathwaite,KS Williamson,2,106,213,27.9,1553,35.93,Right-hand bat,24,8,0,1710.1,39.54,71.2,rob,0,WIN,spin,no,24.6,12.3
+2,906,453,WIN,3,274,53,KC Brathwaite,KS Williamson,2,106,214,27.9,1553,35.93,Right-hand bat,25,8,0,1710.1,39.54,71.2,rob,0,WIN,spin,no,24.6,12.3
+2,907,454,WIN,3,274,53,KC Brathwaite,KS Williamson,2,106,215,27.9,1553,35.93,Right-hand bat,26,8,0,1710.1,39.54,71.2,rob,0,WIN,spin,no,24.6,12.3
+2,908,455,WIN,3,274,53,KC Brathwaite,KS Williamson,2,106,216,27.9,1553,35.93,Right-hand bat,27,8,0,1710.1,39.54,71.2,rob,3,WIN,spin,no,24.6,12.3
+2,917,464,WIN,3,280,59,KC Brathwaite,KS Williamson,2,112,221,27.9,1553,35.93,Right-hand bat,30,11,0,1710.1,39.54,71.2,rob,1,WIN,spin,no,24.6,12.3

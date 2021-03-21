@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1352,663,IND,7,323,-39,Z Khan,DW Steyn,9,0,0,12.9,2075,50.36,Right-hand bat,163,57,4,9510.5,23.21,39.9,rf,4lb,RSA,seam,yes,27.173553719008265,10.1900826446281
+2,1353,664,IND,7,327,-35,Z Khan,DW Steyn,9,0,1,12.9,2075,50.36,Right-hand bat,164,57,4,9510.5,23.21,39.9,rf,0,RSA,seam,yes,27.173553719008265,10.1900826446281
+2,1354,665,IND,7,327,-35,Z Khan,DW Steyn,9,0,2,12.9,2075,50.36,Right-hand bat,165,57,4,9510.5,23.21,39.9,rf,0,RSA,seam,yes,27.173553719008265,10.1900826446281
+2,1355,666,IND,7,327,-35,Z Khan,DW Steyn,9,0,3,12.9,2075,50.36,Right-hand bat,166,57,4,9510.5,23.21,39.9,rf,0,RSA,seam,yes,27.173553719008265,10.1900826446281
+2,1356,667,IND,7,327,-35,Z Khan,DW Steyn,9,0,4,12.9,2075,50.36,Right-hand bat,167,57,4,9510.5,23.21,39.9,rf,4,RSA,seam,yes,27.173553719008265,10.1900826446281
+2,1375,686,IND,8,343,-19,Z Khan,DW Steyn,9,6,9,12.9,2075,50.36,Right-hand bat,174,61,4,9510.5,23.21,39.9,rf,6,RSA,seam,yes,27.173553719008265,10.1900826446281
+2,1376,687,IND,8,349,-13,Z Khan,DW Steyn,9,12,10,12.9,2075,50.36,Right-hand bat,175,67,4,9510.5,23.21,39.9,rf,1,RSA,seam,yes,27.173553719008265,10.1900826446281
+2,1387,698,IND,9,357,-5,Z Khan,DW Steyn,9,16,16,12.9,2075,50.36,Right-hand bat,180,68,5,9510.5,23.21,39.9,rf,0,RSA,seam,yes,27.173553719008265,10.1900826446281
+2,1388,699,IND,9,357,-5,Z Khan,DW Steyn,9,16,17,12.9,2075,50.36,Right-hand bat,181,68,5,9510.5,23.21,39.9,rf,0,RSA,seam,yes,27.173553719008265,10.1900826446281
+2,1389,700,IND,9,357,-5,Z Khan,DW Steyn,9,16,18,12.9,2075,50.36,Right-hand bat,182,68,5,9510.5,23.21,39.9,rf,0,RSA,seam,yes,27.173553719008265,10.1900826446281
+2,1390,701,IND,9,357,-5,Z Khan,DW Steyn,9,16,19,12.9,2075,50.36,Right-hand bat,183,68,5,9510.5,23.21,39.9,rf,6,RSA,seam,yes,27.173553719008265,10.1900826446281
+2,1391,702,IND,9,363,1,Z Khan,DW Steyn,9,22,20,12.9,2075,50.36,Right-hand bat,184,74,5,9510.5,23.21,39.9,rf,1,RSA,seam,yes,27.173553719008265,10.1900826446281

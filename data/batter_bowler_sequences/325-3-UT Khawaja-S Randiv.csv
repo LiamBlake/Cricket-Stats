@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1021,198,AUS,6,114,282,UT Khawaja,S Randiv,7,2,8,26.25,294,35.71,Left-hand bat,47,22,0,1260.3,44,78.9,rob,0,SRL,spin,yes,10.5125,10.5125
+3,1041,218,AUS,6,124,292,UT Khawaja,S Randiv,7,2,19,26.25,294,35.71,Left-hand bat,55,27,0,1260.3,44,78.9,rob,0,SRL,spin,yes,10.5125,10.5125
+3,1042,219,AUS,6,124,292,UT Khawaja,S Randiv,7,2,20,26.25,294,35.71,Left-hand bat,56,27,0,1260.3,44,78.9,rob,0,SRL,spin,yes,10.5125,10.5125
+3,1043,220,AUS,6,124,292,UT Khawaja,S Randiv,7,2,21,26.25,294,35.71,Left-hand bat,57,27,0,1260.3,44,78.9,rob,4,SRL,spin,yes,10.5125,10.5125
+3,1044,221,AUS,6,128,296,UT Khawaja,S Randiv,7,6,22,26.25,294,35.71,Left-hand bat,58,31,0,1260.3,44,78.9,rob,2,SRL,spin,yes,10.5125,10.5125
+3,1045,222,AUS,6,130,298,UT Khawaja,S Randiv,7,8,23,26.25,294,35.71,Left-hand bat,59,33,0,1260.3,44,78.9,rob,0,SRL,spin,yes,10.5125,10.5125
+3,1053,230,AUS,7,131,299,UT Khawaja,S Randiv,7,8,27,26.25,294,35.71,Left-hand bat,61,33,0,1260.3,44,78.9,rob,0,SRL,spin,yes,10.5125,10.5125
+3,1054,231,AUS,7,131,299,UT Khawaja,S Randiv,7,8,28,26.25,294,35.71,Left-hand bat,62,33,0,1260.3,44,78.9,rob,1,SRL,spin,yes,10.5125,10.5125
+3,1064,241,AUS,7,143,311,UT Khawaja,S Randiv,7,10,31,26.25,294,35.71,Left-hand bat,66,40,0,1260.3,44,78.9,rob,0,SRL,spin,yes,10.5125,10.5125
+3,1065,242,AUS,7,143,311,UT Khawaja,S Randiv,7,10,32,26.25,294,35.71,Left-hand bat,67,40,0,1260.3,44,78.9,rob,0,SRL,spin,yes,10.5125,10.5125
+3,1066,243,AUS,7,143,311,UT Khawaja,S Randiv,7,10,33,26.25,294,35.71,Left-hand bat,68,40,0,1260.3,44,78.9,rob,0,SRL,spin,yes,10.5125,10.5125
+3,1067,244,AUS,7,143,311,UT Khawaja,S Randiv,7,10,34,26.25,294,35.71,Left-hand bat,69,40,0,1260.3,44,78.9,rob,0,SRL,spin,yes,10.5125,10.5125
+3,1068,245,AUS,7,143,311,UT Khawaja,S Randiv,7,10,35,26.25,294,35.71,Left-hand bat,70,40,0,1260.3,44,78.9,rob,0,SRL,spin,yes,10.5125,10.5125
+3,1069,246,AUS,7,143,311,UT Khawaja,S Randiv,7,10,36,26.25,294,35.71,Left-hand bat,71,40,0,1260.3,44,78.9,rob,0,SRL,spin,yes,10.5125,10.5125
+3,1078,255,AUS,7,149,317,UT Khawaja,S Randiv,7,10,41,26.25,294,35.71,Left-hand bat,74,45,0,1260.3,44,78.9,rob,6,SRL,spin,yes,10.5125,10.5125
+3,1079,256,AUS,7,155,323,UT Khawaja,S Randiv,7,16,42,26.25,294,35.71,Left-hand bat,75,51,0,1260.3,44,78.9,rob,1,SRL,spin,yes,10.5125,10.5125

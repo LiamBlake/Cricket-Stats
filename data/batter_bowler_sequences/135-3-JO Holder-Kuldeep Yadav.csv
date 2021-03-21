@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1418,163,WIN,6,77,21,JO Holder,Kuldeep Yadav,8,4,3,30.47,2688,57.81,Right-hand bat,43,27,1,798,25.26,42,lc,0,WIN,spin,yes,17.6,11.733333333333333
+3,1419,164,WIN,6,77,21,JO Holder,Kuldeep Yadav,8,4,4,30.47,2688,57.81,Right-hand bat,44,27,1,798,25.26,42,lc,1,WIN,spin,yes,17.6,11.733333333333333
+3,1422,167,WIN,6,81,25,JO Holder,Kuldeep Yadav,8,5,5,30.47,2688,57.81,Right-hand bat,47,31,1,798,25.26,42,lc,0,WIN,spin,yes,17.6,11.733333333333333
+3,1431,176,WIN,6,89,33,JO Holder,Kuldeep Yadav,8,5,6,30.47,2688,57.81,Right-hand bat,50,32,1,798,25.26,42,lc,0,WIN,spin,yes,17.6,11.733333333333333
+3,1432,177,WIN,6,89,33,JO Holder,Kuldeep Yadav,8,5,7,30.47,2688,57.81,Right-hand bat,51,32,1,798,25.26,42,lc,6,WIN,spin,yes,17.6,11.733333333333333
+3,1433,178,WIN,6,95,39,JO Holder,Kuldeep Yadav,8,11,8,30.47,2688,57.81,Right-hand bat,52,38,1,798,25.26,42,lc,0,WIN,spin,yes,17.6,11.733333333333333
+3,1434,179,WIN,6,95,39,JO Holder,Kuldeep Yadav,8,11,9,30.47,2688,57.81,Right-hand bat,53,38,1,798,25.26,42,lc,0,WIN,spin,yes,17.6,11.733333333333333
+3,1441,186,WIN,6,99,43,JO Holder,Kuldeep Yadav,8,11,10,30.47,2688,57.81,Right-hand bat,54,38,1,798,25.26,42,lc,0,WIN,spin,yes,17.6,11.733333333333333
+3,1442,187,WIN,6,99,43,JO Holder,Kuldeep Yadav,8,11,11,30.47,2688,57.81,Right-hand bat,55,38,1,798,25.26,42,lc,0,WIN,spin,yes,17.6,11.733333333333333
+3,1443,188,WIN,6,99,43,JO Holder,Kuldeep Yadav,8,11,12,30.47,2688,57.81,Right-hand bat,56,38,1,798,25.26,42,lc,0,WIN,spin,yes,17.6,11.733333333333333
+3,1444,189,WIN,6,99,43,JO Holder,Kuldeep Yadav,8,11,13,30.47,2688,57.81,Right-hand bat,57,38,1,798,25.26,42,lc,0,WIN,spin,yes,17.6,11.733333333333333
+3,1445,190,WIN,6,99,43,JO Holder,Kuldeep Yadav,8,11,14,30.47,2688,57.81,Right-hand bat,58,38,1,798,25.26,42,lc,4,WIN,spin,yes,17.6,11.733333333333333
+3,1446,191,WIN,6,103,47,JO Holder,Kuldeep Yadav,8,15,15,30.47,2688,57.81,Right-hand bat,59,42,1,798,25.26,42,lc,1,WIN,spin,yes,17.6,11.733333333333333
+3,1465,210,WIN,6,107,51,JO Holder,Kuldeep Yadav,8,18,21,30.47,2688,57.81,Right-hand bat,66,43,1,798,25.26,42,lc,0,WIN,spin,yes,17.6,11.733333333333333
+3,1466,211,WIN,6,107,51,JO Holder,Kuldeep Yadav,8,18,22,30.47,2688,57.81,Right-hand bat,67,43,1,798,25.26,42,lc,0,WIN,spin,yes,17.6,11.733333333333333
+3,1467,212,WIN,6,107,51,JO Holder,Kuldeep Yadav,8,18,23,30.47,2688,57.81,Right-hand bat,68,43,1,798,25.26,42,lc,1,WIN,spin,yes,17.6,11.733333333333333

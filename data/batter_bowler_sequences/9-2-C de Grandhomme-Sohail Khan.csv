@@ -1,0 +1,25 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,568,233,NZL,4,105,-28,C de Grandhomme,Sohail Khan,6,0,0,29,37,78.37,Right-hand bat,86,36,2,1386.4,41.3,69.5,rfm,4,NZL,seam,yes,18.52734375,0.59765625
+2,569,234,NZL,4,109,-24,C de Grandhomme,Sohail Khan,6,4,1,29,37,78.37,Right-hand bat,87,40,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,570,235,NZL,4,109,-24,C de Grandhomme,Sohail Khan,6,4,2,29,37,78.37,Right-hand bat,88,40,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,571,236,NZL,4,109,-24,C de Grandhomme,Sohail Khan,6,4,3,29,37,78.37,Right-hand bat,89,40,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,582,247,NZL,5,116,-17,C de Grandhomme,Sohail Khan,6,4,5,29,37,78.37,Right-hand bat,93,45,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,583,248,NZL,5,116,-17,C de Grandhomme,Sohail Khan,6,4,6,29,37,78.37,Right-hand bat,94,45,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,584,249,NZL,5,116,-17,C de Grandhomme,Sohail Khan,6,4,7,29,37,78.37,Right-hand bat,95,45,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,603,268,NZL,5,122,-11,C de Grandhomme,Sohail Khan,6,9,14,29,37,78.37,Right-hand bat,102,45,2,1386.4,41.3,69.5,rfm,4,NZL,seam,yes,18.52734375,0.59765625
+2,604,269,NZL,5,126,-7,C de Grandhomme,Sohail Khan,6,13,15,29,37,78.37,Right-hand bat,103,49,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,605,270,NZL,5,126,-7,C de Grandhomme,Sohail Khan,6,13,16,29,37,78.37,Right-hand bat,104,49,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,606,271,NZL,5,126,-7,C de Grandhomme,Sohail Khan,6,13,17,29,37,78.37,Right-hand bat,105,49,2,1386.4,41.3,69.5,rfm,4,NZL,seam,yes,18.52734375,0.59765625
+2,607,272,NZL,5,130,-3,C de Grandhomme,Sohail Khan,6,17,18,29,37,78.37,Right-hand bat,106,53,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,608,273,NZL,5,130,-3,C de Grandhomme,Sohail Khan,6,17,19,29,37,78.37,Right-hand bat,107,53,2,1386.4,41.3,69.5,rfm,2,NZL,seam,yes,18.52734375,0.59765625
+2,615,280,NZL,5,138,5,C de Grandhomme,Sohail Khan,6,24,23,29,37,78.37,Right-hand bat,108,55,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,616,281,NZL,5,138,5,C de Grandhomme,Sohail Khan,6,24,24,29,37,78.37,Right-hand bat,109,55,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,617,282,NZL,5,138,5,C de Grandhomme,Sohail Khan,6,24,25,29,37,78.37,Right-hand bat,110,55,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,618,283,NZL,5,138,5,C de Grandhomme,Sohail Khan,6,24,26,29,37,78.37,Right-hand bat,111,55,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,619,284,NZL,5,138,5,C de Grandhomme,Sohail Khan,6,24,27,29,37,78.37,Right-hand bat,112,55,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,620,285,NZL,5,138,5,C de Grandhomme,Sohail Khan,6,24,28,29,37,78.37,Right-hand bat,113,55,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,628,293,NZL,5,142,9,C de Grandhomme,Sohail Khan,6,25,32,29,37,78.37,Right-hand bat,115,56,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,629,294,NZL,5,142,9,C de Grandhomme,Sohail Khan,6,25,33,29,37,78.37,Right-hand bat,116,56,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,630,295,NZL,5,142,9,C de Grandhomme,Sohail Khan,6,25,34,29,37,78.37,Right-hand bat,117,56,2,1386.4,41.3,69.5,rfm,0,NZL,seam,yes,18.52734375,0.59765625
+2,631,296,NZL,5,142,9,C de Grandhomme,Sohail Khan,6,25,35,29,37,78.37,Right-hand bat,118,56,2,1386.4,41.3,69.5,rfm,4,NZL,seam,yes,18.52734375,0.59765625
+2,632,297,NZL,5,146,13,C de Grandhomme,Sohail Khan,6,29,36,29,37,78.37,Right-hand bat,119,60,2,1386.4,41.3,69.5,rfm,W,NZL,seam,yes,18.52734375,0.59765625

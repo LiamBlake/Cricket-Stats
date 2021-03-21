@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1349,54,WIN,1,25,-371,KA Edwards,N Wagner,1,9,25,38.1,1548,46.77,Right-hand bat,0,0,0,2286,37.5,67.2,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1350,55,WIN,1,25,-371,KA Edwards,N Wagner,1,9,26,38.1,1548,46.77,Right-hand bat,1,0,0,2286,37.5,67.2,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1351,56,WIN,1,25,-371,KA Edwards,N Wagner,1,9,27,38.1,1548,46.77,Right-hand bat,2,0,0,2286,37.5,67.2,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1352,57,WIN,1,25,-371,KA Edwards,N Wagner,1,9,28,38.1,1548,46.77,Right-hand bat,3,0,0,2286,37.5,67.2,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1353,58,WIN,1,25,-371,KA Edwards,N Wagner,1,9,29,38.1,1548,46.77,Right-hand bat,4,0,0,2286,37.5,67.2,lmf,1,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1403,108,WIN,1,54,-342,KA Edwards,N Wagner,1,21,56,38.1,1548,46.77,Right-hand bat,24,14,0,2286,37.5,67.2,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1404,109,WIN,1,54,-342,KA Edwards,N Wagner,1,21,57,38.1,1548,46.77,Right-hand bat,25,14,0,2286,37.5,67.2,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1405,110,WIN,1,54,-342,KA Edwards,N Wagner,1,21,58,38.1,1548,46.77,Right-hand bat,26,14,0,2286,37.5,67.2,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1406,111,WIN,1,54,-342,KA Edwards,N Wagner,1,21,59,38.1,1548,46.77,Right-hand bat,27,14,0,2286,37.5,67.2,lmf,1,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1418,123,WIN,1,66,-330,KA Edwards,N Wagner,1,30,65,38.1,1548,46.77,Right-hand bat,33,17,0,2286,37.5,67.2,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1419,124,WIN,1,66,-330,KA Edwards,N Wagner,1,30,66,38.1,1548,46.77,Right-hand bat,34,17,0,2286,37.5,67.2,lmf,1,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1439,144,WIN,1,92,-304,KA Edwards,N Wagner,1,37,72,38.1,1548,46.77,Right-hand bat,42,20,0,2286,37.5,67.2,lmf,1,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1444,149,WIN,1,98,-298,KA Edwards,N Wagner,1,38,73,38.1,1548,46.77,Right-hand bat,47,26,0,2286,37.5,67.2,lmf,4,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1452,157,WIN,1,104,-292,KA Edwards,N Wagner,1,42,78,38.1,1548,46.77,Right-hand bat,49,31,0,2286,37.5,67.2,lmf,0,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1453,158,WIN,1,104,-292,KA Edwards,N Wagner,1,42,79,38.1,1548,46.77,Right-hand bat,50,31,0,2286,37.5,67.2,lmf,1,NZL,seam,yes,28.444444444444443,14.222222222222221
+3,1455,160,WIN,1,106,-290,KA Edwards,N Wagner,1,43,80,38.1,1548,46.77,Right-hand bat,52,33,0,2286,37.5,67.2,lmf,1,NZL,seam,yes,28.444444444444443,14.222222222222221

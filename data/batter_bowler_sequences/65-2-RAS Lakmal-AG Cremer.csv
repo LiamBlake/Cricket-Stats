@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1130,556,SRL,8,323,-33,RAS Lakmal,AG Cremer,10,1,1,10.53,822,50,Right-hand bat,205,114,3,3444.3,47.8,74.9,rls,1,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,1134,560,SRL,8,325,-31,RAS Lakmal,AG Cremer,10,2,2,10.53,822,50,Right-hand bat,209,116,3,3444.3,47.8,74.9,rls,0,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,1135,561,SRL,8,325,-31,RAS Lakmal,AG Cremer,10,2,3,10.53,822,50,Right-hand bat,210,116,3,3444.3,47.8,74.9,rls,1,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,1142,568,SRL,8,335,-21,RAS Lakmal,AG Cremer,10,8,9,10.53,822,50,Right-hand bat,211,117,3,3444.3,47.8,74.9,rls,0,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,1143,569,SRL,8,335,-21,RAS Lakmal,AG Cremer,10,8,10,10.53,822,50,Right-hand bat,212,117,3,3444.3,47.8,74.9,rls,0,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,1144,570,SRL,8,335,-21,RAS Lakmal,AG Cremer,10,8,11,10.53,822,50,Right-hand bat,213,117,3,3444.3,47.8,74.9,rls,0,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,1145,571,SRL,8,335,-21,RAS Lakmal,AG Cremer,10,8,12,10.53,822,50,Right-hand bat,214,117,3,3444.3,47.8,74.9,rls,0,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,1146,572,SRL,8,335,-21,RAS Lakmal,AG Cremer,10,8,13,10.53,822,50,Right-hand bat,215,117,3,3444.3,47.8,74.9,rls,4,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,1147,573,SRL,8,339,-17,RAS Lakmal,AG Cremer,10,12,14,10.53,822,50,Right-hand bat,216,121,3,3444.3,47.8,74.9,rls,0,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,1154,580,SRL,8,341,-15,RAS Lakmal,AG Cremer,10,13,18,10.53,822,50,Right-hand bat,217,121,3,3444.3,47.8,74.9,rls,1,ZIM,spin,no,9.074074074074074,31.759259259259263
+2,1158,584,SRL,8,343,-13,RAS Lakmal,AG Cremer,10,14,19,10.53,822,50,Right-hand bat,221,123,3,3444.3,47.8,74.9,rls,W,ZIM,spin,no,9.074074074074074,31.759259259259263

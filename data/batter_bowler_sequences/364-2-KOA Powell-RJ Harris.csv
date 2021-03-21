@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,743,49,WIN,1,16,-312,KOA Powell,RJ Harris,3,3,14,23.66,640,44.37,Left-hand bat,0,0,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+2,744,50,WIN,1,16,-312,KOA Powell,RJ Harris,3,3,15,23.66,640,44.37,Left-hand bat,1,0,0,2310.2,23.63,49.1,rf,2,WIN,seam,no,9.61625,17.85875
+2,745,51,WIN,1,18,-310,KOA Powell,RJ Harris,3,5,16,23.66,640,44.37,Left-hand bat,2,2,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+2,746,52,WIN,1,18,-310,KOA Powell,RJ Harris,3,5,17,23.66,640,44.37,Left-hand bat,3,2,0,2310.2,23.63,49.1,rf,3,WIN,seam,no,9.61625,17.85875
+2,767,73,WIN,1,30,-298,KOA Powell,RJ Harris,3,9,25,23.66,640,44.37,Left-hand bat,12,13,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
+2,768,74,WIN,1,30,-298,KOA Powell,RJ Harris,3,9,26,23.66,640,44.37,Left-hand bat,13,13,0,2310.2,23.63,49.1,rf,1,WIN,seam,no,9.61625,17.85875

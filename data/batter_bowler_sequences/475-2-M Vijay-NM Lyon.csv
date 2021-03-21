@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,763,36,IND,0,22,-495,M Vijay,NM Lyon,1,3,19,37.91,4119,45.1,Right-hand bat,0,0,0,8430.2,34.66,66.3,rob,1,AUS,spin,no,22.939453125,25.998046875
+2,765,38,IND,0,24,-493,M Vijay,NM Lyon,1,4,20,37.91,4119,45.1,Right-hand bat,2,2,0,8430.2,34.66,66.3,rob,1,AUS,spin,no,22.939453125,25.998046875
+2,768,41,IND,0,30,-487,M Vijay,NM Lyon,1,5,21,37.91,4119,45.1,Right-hand bat,5,8,0,8430.2,34.66,66.3,rob,0,AUS,spin,no,22.939453125,25.998046875
+2,845,118,IND,1,72,-445,M Vijay,NM Lyon,1,26,55,37.91,4119,45.1,Right-hand bat,15,9,0,8430.2,34.66,66.3,rob,0,AUS,spin,no,22.939453125,25.998046875
+2,846,119,IND,1,72,-445,M Vijay,NM Lyon,1,26,56,37.91,4119,45.1,Right-hand bat,16,9,0,8430.2,34.66,66.3,rob,6,AUS,spin,no,22.939453125,25.998046875
+2,847,120,IND,1,78,-439,M Vijay,NM Lyon,1,32,57,37.91,4119,45.1,Right-hand bat,17,15,0,8430.2,34.66,66.3,rob,4,AUS,spin,no,22.939453125,25.998046875
+2,856,129,IND,1,86,-431,M Vijay,NM Lyon,1,38,63,37.91,4119,45.1,Right-hand bat,20,20,0,8430.2,34.66,66.3,rob,2,AUS,spin,no,22.939453125,25.998046875
+2,857,130,IND,1,88,-429,M Vijay,NM Lyon,1,40,64,37.91,4119,45.1,Right-hand bat,21,22,0,8430.2,34.66,66.3,rob,6,AUS,spin,no,22.939453125,25.998046875
+2,858,131,IND,1,94,-423,M Vijay,NM Lyon,1,46,65,37.91,4119,45.1,Right-hand bat,22,28,0,8430.2,34.66,66.3,rob,0,AUS,spin,no,22.939453125,25.998046875
+2,859,132,IND,1,94,-423,M Vijay,NM Lyon,1,46,66,37.91,4119,45.1,Right-hand bat,23,28,0,8430.2,34.66,66.3,rob,0,AUS,spin,no,22.939453125,25.998046875
+2,866,139,IND,1,94,-423,M Vijay,NM Lyon,1,46,67,37.91,4119,45.1,Right-hand bat,24,28,0,8430.2,34.66,66.3,rob,1,AUS,spin,no,22.939453125,25.998046875
+2,871,144,IND,1,98,-419,M Vijay,NM Lyon,1,47,68,37.91,4119,45.1,Right-hand bat,29,32,0,8430.2,34.66,66.3,rob,2,AUS,spin,no,22.939453125,25.998046875

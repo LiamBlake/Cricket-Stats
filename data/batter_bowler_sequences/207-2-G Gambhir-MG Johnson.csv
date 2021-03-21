@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,966,63,IND,0,39,-391,G Gambhir,MG Johnson,1,10,33,36.27,1882,55.89,Left-hand bat,2,1,0,2340,31.05,60,lf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,967,64,IND,0,39,-391,G Gambhir,MG Johnson,1,10,34,36.27,1882,55.89,Left-hand bat,3,1,0,2340,31.05,60,lf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,968,65,IND,0,39,-391,G Gambhir,MG Johnson,1,10,35,36.27,1882,55.89,Left-hand bat,4,1,0,2340,31.05,60,lf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,969,66,IND,0,39,-391,G Gambhir,MG Johnson,1,10,36,36.27,1882,55.89,Left-hand bat,5,1,0,2340,31.05,60,lf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,978,75,IND,0,41,-389,G Gambhir,MG Johnson,1,10,41,36.27,1882,55.89,Left-hand bat,8,2,0,2340,31.05,60,lf,4,IND,seam,no,31.866666666666667,7.966666666666667
+2,979,76,IND,0,45,-385,G Gambhir,MG Johnson,1,14,42,36.27,1882,55.89,Left-hand bat,9,6,0,2340,31.05,60,lf,1,IND,seam,no,31.866666666666667,7.966666666666667
+2,981,78,IND,0,47,-383,G Gambhir,MG Johnson,1,15,43,36.27,1882,55.89,Left-hand bat,11,8,0,2340,31.05,60,lf,4,IND,seam,no,31.866666666666667,7.966666666666667
+2,1003,100,IND,0,63,-367,G Gambhir,MG Johnson,1,19,47,36.27,1882,55.89,Left-hand bat,21,18,0,2340,31.05,60,lf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1004,101,IND,0,63,-367,G Gambhir,MG Johnson,1,19,48,36.27,1882,55.89,Left-hand bat,22,18,0,2340,31.05,60,lf,1,IND,seam,no,31.866666666666667,7.966666666666667
+2,1014,111,IND,0,69,-361,G Gambhir,MG Johnson,1,20,55,36.27,1882,55.89,Left-hand bat,26,24,0,2340,31.05,60,lf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1015,112,IND,0,69,-361,G Gambhir,MG Johnson,1,20,56,36.27,1882,55.89,Left-hand bat,27,24,0,2340,31.05,60,lf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1016,113,IND,0,69,-361,G Gambhir,MG Johnson,1,20,57,36.27,1882,55.89,Left-hand bat,28,24,0,2340,31.05,60,lf,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1017,114,IND,0,69,-361,G Gambhir,MG Johnson,1,20,58,36.27,1882,55.89,Left-hand bat,29,24,0,2340,31.05,60,lf,1,IND,seam,no,31.866666666666667,7.966666666666667

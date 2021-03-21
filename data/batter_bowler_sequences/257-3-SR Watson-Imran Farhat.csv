@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1039,177,AUS,0,86,-120,SR Watson,Imran Farhat,1,51,105,41.38,2112,50.94,Right-hand bat,0,0,0,342.1,81.33,114.3,rls,0,AUS,spin,yes,17.7625,6.7375
+3,1040,178,AUS,0,86,-120,SR Watson,Imran Farhat,1,51,106,41.38,2112,50.94,Right-hand bat,1,0,0,342.1,81.33,114.3,rls,1,AUS,spin,yes,17.7625,6.7375
+3,1043,181,AUS,0,88,-118,SR Watson,Imran Farhat,1,52,107,41.38,2112,50.94,Right-hand bat,4,2,0,342.1,81.33,114.3,rls,1,AUS,spin,yes,17.7625,6.7375
+3,1096,234,AUS,1,128,-78,SR Watson,Imran Farhat,1,78,135,41.38,2112,50.94,Right-hand bat,8,4,0,342.1,81.33,114.3,rls,0,AUS,spin,yes,17.7625,6.7375
+3,1097,235,AUS,1,128,-78,SR Watson,Imran Farhat,1,78,136,41.38,2112,50.94,Right-hand bat,9,4,0,342.1,81.33,114.3,rls,1,AUS,spin,yes,17.7625,6.7375
+3,1099,237,AUS,1,130,-76,SR Watson,Imran Farhat,1,79,137,41.38,2112,50.94,Right-hand bat,11,6,0,342.1,81.33,114.3,rls,0,AUS,spin,yes,17.7625,6.7375

@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,802,353,NZL,8,236,5,TG Southee,MG Johnson,9,1,2,18.09,214,92.99,Right-hand bat,78,37,3,8076,28.03,52.1,lf,4,NZL,seam,no,24.457063711911356,9.963988919667589
+2,803,354,NZL,8,240,9,TG Southee,MG Johnson,9,5,3,18.09,214,92.99,Right-hand bat,79,41,3,8076,28.03,52.1,lf,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,804,355,NZL,8,240,9,TG Southee,MG Johnson,9,5,4,18.09,214,92.99,Right-hand bat,80,41,3,8076,28.03,52.1,lf,1,NZL,seam,no,24.457063711911356,9.963988919667589
+2,814,365,NZL,8,242,11,TG Southee,MG Johnson,9,7,6,18.09,214,92.99,Right-hand bat,84,42,3,8076,28.03,52.1,lf,1,NZL,seam,no,24.457063711911356,9.963988919667589
+2,816,367,NZL,8,244,13,TG Southee,MG Johnson,9,8,7,18.09,214,92.99,Right-hand bat,86,44,3,8076,28.03,52.1,lf,2,NZL,seam,no,24.457063711911356,9.963988919667589
+2,817,368,NZL,8,246,15,TG Southee,MG Johnson,9,10,8,18.09,214,92.99,Right-hand bat,87,46,3,8076,28.03,52.1,lf,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,818,369,NZL,8,246,15,TG Southee,MG Johnson,9,10,9,18.09,214,92.99,Right-hand bat,88,46,3,8076,28.03,52.1,lf,4,NZL,seam,no,24.457063711911356,9.963988919667589
+2,819,370,NZL,8,250,19,TG Southee,MG Johnson,9,14,10,18.09,214,92.99,Right-hand bat,89,50,3,8076,28.03,52.1,lf,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,826,377,NZL,8,254,23,TG Southee,MG Johnson,9,14,11,18.09,214,92.99,Right-hand bat,90,50,3,8076,28.03,52.1,lf,6,NZL,seam,no,24.457063711911356,9.963988919667589
+2,827,378,NZL,8,260,29,TG Southee,MG Johnson,9,20,12,18.09,214,92.99,Right-hand bat,91,56,3,8076,28.03,52.1,lf,0,NZL,seam,no,24.457063711911356,9.963988919667589
+2,828,379,NZL,8,260,29,TG Southee,MG Johnson,9,20,13,18.09,214,92.99,Right-hand bat,92,56,3,8076,28.03,52.1,lf,1,NZL,seam,no,24.457063711911356,9.963988919667589

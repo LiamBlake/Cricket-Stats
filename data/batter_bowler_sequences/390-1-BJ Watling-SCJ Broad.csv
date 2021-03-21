@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,840,840,NZL,6,394,394,BJ Watling,SCJ Broad,7,7,18,31.35,1396,44.91,Right-hand bat,174,91,0,11460.2,31.92,62.6,rfm,0,NZL,seam,no,27.497142857142858,6.8742857142857146
+1,847,847,NZL,6,396,396,BJ Watling,SCJ Broad,7,8,24,31.35,1396,44.91,Right-hand bat,175,91,0,11460.2,31.92,62.6,rfm,0,NZL,seam,no,27.497142857142858,6.8742857142857146
+1,848,848,NZL,6,396,396,BJ Watling,SCJ Broad,7,8,25,31.35,1396,44.91,Right-hand bat,176,91,0,11460.2,31.92,62.6,rfm,0,NZL,seam,no,27.497142857142858,6.8742857142857146
+1,849,849,NZL,6,396,396,BJ Watling,SCJ Broad,7,8,26,31.35,1396,44.91,Right-hand bat,177,91,0,11460.2,31.92,62.6,rfm,0,NZL,seam,no,27.497142857142858,6.8742857142857146
+1,850,850,NZL,6,396,396,BJ Watling,SCJ Broad,7,8,27,31.35,1396,44.91,Right-hand bat,178,91,0,11460.2,31.92,62.6,rfm,0,NZL,seam,no,27.497142857142858,6.8742857142857146
+1,851,851,NZL,6,396,396,BJ Watling,SCJ Broad,7,8,28,31.35,1396,44.91,Right-hand bat,179,91,0,11460.2,31.92,62.6,rfm,1,NZL,seam,no,27.497142857142858,6.8742857142857146

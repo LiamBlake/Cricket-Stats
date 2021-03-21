@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,748,748,AUS,6,354,354,CL White,I Sharma,8,0,0,24,27,88.88,Right-hand bat,156,66,3,1746.1,31.66,58.2,rfm,0,IND,seam,yes,31.866666666666667,7.966666666666667
+1,749,749,AUS,6,354,354,CL White,I Sharma,8,0,1,24,27,88.88,Right-hand bat,157,66,3,1746.1,31.66,58.2,rfm,0,IND,seam,yes,31.866666666666667,7.966666666666667
+1,750,750,AUS,6,354,354,CL White,I Sharma,8,0,2,24,27,88.88,Right-hand bat,158,66,3,1746.1,31.66,58.2,rfm,0,IND,seam,yes,31.866666666666667,7.966666666666667
+1,751,751,AUS,6,354,354,CL White,I Sharma,8,0,3,24,27,88.88,Right-hand bat,159,66,3,1746.1,31.66,58.2,rfm,0,IND,seam,yes,31.866666666666667,7.966666666666667
+1,752,752,AUS,6,354,354,CL White,I Sharma,8,0,4,24,27,88.88,Right-hand bat,160,66,3,1746.1,31.66,58.2,rfm,2,IND,seam,yes,31.866666666666667,7.966666666666667
+1,753,753,AUS,6,356,356,CL White,I Sharma,8,2,5,24,27,88.88,Right-hand bat,161,68,3,1746.1,31.66,58.2,rfm,0,IND,seam,yes,31.866666666666667,7.966666666666667
+1,763,763,AUS,6,358,358,CL White,I Sharma,8,2,11,24,27,88.88,Right-hand bat,165,69,3,1746.1,31.66,58.2,rfm,4,IND,seam,yes,31.866666666666667,7.966666666666667
+1,764,764,AUS,6,362,362,CL White,I Sharma,8,6,12,24,27,88.88,Right-hand bat,166,73,3,1746.1,31.66,58.2,rfm,W,IND,seam,yes,31.866666666666667,7.966666666666667

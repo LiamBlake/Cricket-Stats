@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,757,49,PAK,0,28,-122,Khurram Manzoor,AD Mathews,1,12,29,28.8,317,45.42,Right-hand bat,1,1,0,126,24.66,42,rm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,758,50,PAK,0,28,-122,Khurram Manzoor,AD Mathews,1,12,30,28.8,317,45.42,Right-hand bat,2,1,0,126,24.66,42,rm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,759,51,PAK,0,28,-122,Khurram Manzoor,AD Mathews,1,12,31,28.8,317,45.42,Right-hand bat,3,1,0,126,24.66,42,rm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,760,52,PAK,0,28,-122,Khurram Manzoor,AD Mathews,1,12,32,28.8,317,45.42,Right-hand bat,4,1,0,126,24.66,42,rm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,761,53,PAK,0,28,-122,Khurram Manzoor,AD Mathews,1,12,33,28.8,317,45.42,Right-hand bat,5,1,0,126,24.66,42,rm,1,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,768,60,PAK,0,32,-118,Khurram Manzoor,AD Mathews,1,15,38,28.8,317,45.42,Right-hand bat,6,2,0,126,24.66,42,rm,3,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,771,63,PAK,0,36,-114,Khurram Manzoor,AD Mathews,1,18,39,28.8,317,45.42,Right-hand bat,9,6,0,126,24.66,42,rm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,772,64,PAK,0,36,-114,Khurram Manzoor,AD Mathews,1,18,40,28.8,317,45.42,Right-hand bat,10,6,0,126,24.66,42,rm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,773,65,PAK,0,36,-114,Khurram Manzoor,AD Mathews,1,18,41,28.8,317,45.42,Right-hand bat,11,6,0,126,24.66,42,rm,2,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,783,75,PAK,0,42,-108,Khurram Manzoor,AD Mathews,1,20,44,28.8,317,45.42,Right-hand bat,15,11,0,126,24.66,42,rm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,784,76,PAK,0,42,-108,Khurram Manzoor,AD Mathews,1,20,45,28.8,317,45.42,Right-hand bat,16,11,0,126,24.66,42,rm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,785,77,PAK,0,42,-108,Khurram Manzoor,AD Mathews,1,20,46,28.8,317,45.42,Right-hand bat,17,11,0,126,24.66,42,rm,0,SRL,seam,yes,12.816345270890725,12.062442607897154

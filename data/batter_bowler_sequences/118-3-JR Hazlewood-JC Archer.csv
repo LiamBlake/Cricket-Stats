@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,933,450,AUS,9,237,349,JR Hazlewood,JC Archer,11,0,0,12.77,896,44.19,Left-hand bat,83,35,2,450.1,13.53,34.6,rf,0,ENG,seam,no,19.65154503616042,2.245890861275477
+3,934,451,AUS,9,237,349,JR Hazlewood,JC Archer,11,0,1,12.77,896,44.19,Left-hand bat,84,35,2,450.1,13.53,34.6,rf,4,ENG,seam,no,19.65154503616042,2.245890861275477
+3,935,452,AUS,9,241,353,JR Hazlewood,JC Archer,11,4,2,12.77,896,44.19,Left-hand bat,85,39,2,450.1,13.53,34.6,rf,0,ENG,seam,no,19.65154503616042,2.245890861275477

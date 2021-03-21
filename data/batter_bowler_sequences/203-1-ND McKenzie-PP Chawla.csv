@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,104,104,RSA,0,57,57,ND McKenzie,PP Chawla,1,32,52,38.39,6031,43.92,Right-hand bat,0,0,0,204.1,45.66,68.3,rls,0,IND,spin,yes,10.595703125,13.623046875
+1,105,105,RSA,0,57,57,ND McKenzie,PP Chawla,1,32,53,38.39,6031,43.92,Right-hand bat,1,0,0,204.1,45.66,68.3,rls,0,IND,spin,yes,10.595703125,13.623046875
+1,106,106,RSA,0,57,57,ND McKenzie,PP Chawla,1,32,54,38.39,6031,43.92,Right-hand bat,2,0,0,204.1,45.66,68.3,rls,0,IND,spin,yes,10.595703125,13.623046875
+1,107,107,RSA,0,57,57,ND McKenzie,PP Chawla,1,32,55,38.39,6031,43.92,Right-hand bat,3,0,0,204.1,45.66,68.3,rls,4,IND,spin,yes,10.595703125,13.623046875
+1,108,108,RSA,0,61,61,ND McKenzie,PP Chawla,1,36,56,38.39,6031,43.92,Right-hand bat,4,4,0,204.1,45.66,68.3,rls,W,IND,spin,yes,10.595703125,13.623046875

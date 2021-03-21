@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,305,305,NZL,7,273,273,MJ Henry,NM Lyon,9,0,0,30.4,176,86.36,Right-hand bat,26,23,2,12234.5,32.87,62.7,rob,0,NZL,spin,no,37.57483930211203,5.182736455463728
+1,306,306,NZL,7,273,273,MJ Henry,NM Lyon,9,0,1,30.4,176,86.36,Right-hand bat,27,23,2,12234.5,32.87,62.7,rob,0,NZL,spin,no,37.57483930211203,5.182736455463728
+1,307,307,NZL,7,273,273,MJ Henry,NM Lyon,9,0,2,30.4,176,86.36,Right-hand bat,28,23,2,12234.5,32.87,62.7,rob,2,NZL,spin,no,37.57483930211203,5.182736455463728
+1,308,308,NZL,7,275,275,MJ Henry,NM Lyon,9,2,3,30.4,176,86.36,Right-hand bat,29,25,2,12234.5,32.87,62.7,rob,2,NZL,spin,no,37.57483930211203,5.182736455463728
+1,315,315,NZL,7,279,279,MJ Henry,NM Lyon,9,4,4,30.4,176,86.36,Right-hand bat,30,27,2,12234.5,32.87,62.7,rob,6,NZL,spin,no,37.57483930211203,5.182736455463728
+1,316,316,NZL,7,285,285,MJ Henry,NM Lyon,9,10,5,30.4,176,86.36,Right-hand bat,31,33,2,12234.5,32.87,62.7,rob,3,NZL,spin,no,37.57483930211203,5.182736455463728
+1,318,318,NZL,7,289,289,MJ Henry,NM Lyon,9,13,6,30.4,176,86.36,Right-hand bat,33,37,2,12234.5,32.87,62.7,rob,2,NZL,spin,no,37.57483930211203,5.182736455463728
+1,319,319,NZL,7,291,291,MJ Henry,NM Lyon,9,15,7,30.4,176,86.36,Right-hand bat,34,39,2,12234.5,32.87,62.7,rob,0,NZL,spin,no,37.57483930211203,5.182736455463728
+1,320,320,NZL,7,291,291,MJ Henry,NM Lyon,9,15,8,30.4,176,86.36,Right-hand bat,35,39,2,12234.5,32.87,62.7,rob,4,NZL,spin,no,37.57483930211203,5.182736455463728
+1,327,327,NZL,7,295,295,MJ Henry,NM Lyon,9,19,9,30.4,176,86.36,Right-hand bat,36,43,2,12234.5,32.87,62.7,rob,0,NZL,spin,no,37.57483930211203,5.182736455463728
+1,328,328,NZL,7,295,295,MJ Henry,NM Lyon,9,19,10,30.4,176,86.36,Right-hand bat,37,43,2,12234.5,32.87,62.7,rob,2,NZL,spin,no,37.57483930211203,5.182736455463728
+1,329,329,NZL,7,297,297,MJ Henry,NM Lyon,9,21,11,30.4,176,86.36,Right-hand bat,38,45,2,12234.5,32.87,62.7,rob,W,NZL,spin,no,37.57483930211203,5.182736455463728

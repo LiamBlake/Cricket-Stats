@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1103,48,NZL,0,21,200,AJ Redmond,MS Panesar,2,1,18,12.75,151,33.77,Right-hand bat,0,0,0,6582,31.78,65.1,lo,0,ENG,spin,yes,16.288062283737027,12.001730103806228
+3,1104,49,NZL,0,21,200,AJ Redmond,MS Panesar,2,1,19,12.75,151,33.77,Right-hand bat,1,0,0,6582,31.78,65.1,lo,0,ENG,spin,yes,16.288062283737027,12.001730103806228
+3,1105,50,NZL,0,21,200,AJ Redmond,MS Panesar,2,1,20,12.75,151,33.77,Right-hand bat,2,0,0,6582,31.78,65.1,lo,4,ENG,spin,yes,16.288062283737027,12.001730103806228
+3,1106,51,NZL,0,25,204,AJ Redmond,MS Panesar,2,5,21,12.75,151,33.77,Right-hand bat,3,4,0,6582,31.78,65.1,lo,1,ENG,spin,yes,16.288062283737027,12.001730103806228

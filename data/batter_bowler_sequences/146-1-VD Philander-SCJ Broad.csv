@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,401,401,RSA,6,235,235,VD Philander,SCJ Broad,8,10,27,24.63,3764,45.16,Right-hand bat,92,45,2,27546.1,28.68,57.8,rfm,0,RSA,seam,no,23.86875,1.25625
+1,402,402,RSA,6,235,235,VD Philander,SCJ Broad,8,10,28,24.63,3764,45.16,Right-hand bat,93,45,2,27546.1,28.68,57.8,rfm,0,RSA,seam,no,23.86875,1.25625
+1,403,403,RSA,6,235,235,VD Philander,SCJ Broad,8,10,29,24.63,3764,45.16,Right-hand bat,94,45,2,27546.1,28.68,57.8,rfm,0,RSA,seam,no,23.86875,1.25625
+1,404,404,RSA,6,235,235,VD Philander,SCJ Broad,8,10,30,24.63,3764,45.16,Right-hand bat,95,45,2,27546.1,28.68,57.8,rfm,0,RSA,seam,no,23.86875,1.25625
+1,405,405,RSA,6,235,235,VD Philander,SCJ Broad,8,10,31,24.63,3764,45.16,Right-hand bat,96,45,2,27546.1,28.68,57.8,rfm,0,RSA,seam,no,23.86875,1.25625
+1,484,484,RSA,8,263,263,VD Philander,SCJ Broad,8,24,69,24.63,3764,45.16,Right-hand bat,97,45,2,27546.1,28.68,57.8,rfm,0,RSA,seam,no,23.86875,1.25625
+1,485,485,RSA,8,263,263,VD Philander,SCJ Broad,8,24,70,24.63,3764,45.16,Right-hand bat,98,45,2,27546.1,28.68,57.8,rfm,0,RSA,seam,no,23.86875,1.25625
+1,486,486,RSA,8,263,263,VD Philander,SCJ Broad,8,24,71,24.63,3764,45.16,Right-hand bat,99,45,2,27546.1,28.68,57.8,rfm,0,RSA,seam,no,23.86875,1.25625
+1,487,487,RSA,8,263,263,VD Philander,SCJ Broad,8,24,72,24.63,3764,45.16,Right-hand bat,100,45,2,27546.1,28.68,57.8,rfm,0,RSA,seam,no,23.86875,1.25625
+1,488,488,RSA,8,263,263,VD Philander,SCJ Broad,8,24,73,24.63,3764,45.16,Right-hand bat,101,45,2,27546.1,28.68,57.8,rfm,0,RSA,seam,no,23.86875,1.25625
+1,489,489,RSA,8,263,263,VD Philander,SCJ Broad,8,24,74,24.63,3764,45.16,Right-hand bat,102,45,2,27546.1,28.68,57.8,rfm,4,RSA,seam,no,23.86875,1.25625
+1,496,496,RSA,8,275,275,VD Philander,SCJ Broad,8,28,75,24.63,3764,45.16,Right-hand bat,103,49,2,27546.1,28.68,57.8,rfm,1lb,RSA,seam,no,23.86875,1.25625
+1,509,509,RSA,9,278,278,VD Philander,SCJ Broad,8,29,78,24.63,3764,45.16,Right-hand bat,110,50,3,27546.1,28.68,57.8,rfm,4,RSA,seam,no,23.86875,1.25625
+1,510,510,RSA,9,282,282,VD Philander,SCJ Broad,8,33,79,24.63,3764,45.16,Right-hand bat,111,54,3,27546.1,28.68,57.8,rfm,2,RSA,seam,no,23.86875,1.25625
+1,511,511,RSA,9,284,284,VD Philander,SCJ Broad,8,35,80,24.63,3764,45.16,Right-hand bat,112,56,3,27546.1,28.68,57.8,rfm,W,RSA,seam,no,23.86875,1.25625

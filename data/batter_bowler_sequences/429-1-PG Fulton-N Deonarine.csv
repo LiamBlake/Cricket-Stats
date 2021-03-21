@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,302,302,NZL,2,184,184,PG Fulton,N Deonarine,1,60,137,31.27,2231,40.65,Right-hand bat,1,1,0,1374.5,28.65,59.9,rob,0,NZL,spin,no,28.444444444444443,14.222222222222221
+1,303,303,NZL,2,184,184,PG Fulton,N Deonarine,1,60,138,31.27,2231,40.65,Right-hand bat,2,1,0,1374.5,28.65,59.9,rob,0,NZL,spin,no,28.444444444444443,14.222222222222221
+1,304,304,NZL,2,184,184,PG Fulton,N Deonarine,1,60,139,31.27,2231,40.65,Right-hand bat,3,1,0,1374.5,28.65,59.9,rob,0,NZL,spin,no,28.444444444444443,14.222222222222221
+1,305,305,NZL,2,184,184,PG Fulton,N Deonarine,1,60,140,31.27,2231,40.65,Right-hand bat,4,1,0,1374.5,28.65,59.9,rob,0,NZL,spin,no,28.444444444444443,14.222222222222221
+1,306,306,NZL,2,184,184,PG Fulton,N Deonarine,1,60,141,31.27,2231,40.65,Right-hand bat,5,1,0,1374.5,28.65,59.9,rob,1,NZL,spin,no,28.444444444444443,14.222222222222221

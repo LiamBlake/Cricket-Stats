@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,883,244,SRL,7,173,348,HMRKB Herath,SPD Smith,9,0,0,14.4,2469,50.18,Left-hand bat,9,4,0,1188,53.18,74.2,rls,0,SRL,spin,yes,7.565625,12.609375
+3,884,245,SRL,7,173,348,HMRKB Herath,SPD Smith,9,0,1,14.4,2469,50.18,Left-hand bat,10,4,0,1188,53.18,74.2,rls,1,SRL,spin,yes,7.565625,12.609375
+3,893,254,SRL,7,177,352,HMRKB Herath,SPD Smith,9,2,6,14.4,2469,50.18,Left-hand bat,13,6,0,1188,53.18,74.2,rls,0,SRL,spin,yes,7.565625,12.609375
+3,894,255,SRL,7,177,352,HMRKB Herath,SPD Smith,9,2,7,14.4,2469,50.18,Left-hand bat,14,6,0,1188,53.18,74.2,rls,0,SRL,spin,yes,7.565625,12.609375
+3,895,256,SRL,7,177,352,HMRKB Herath,SPD Smith,9,2,8,14.4,2469,50.18,Left-hand bat,15,6,0,1188,53.18,74.2,rls,0,SRL,spin,yes,7.565625,12.609375
+3,896,257,SRL,7,177,352,HMRKB Herath,SPD Smith,9,2,9,14.4,2469,50.18,Left-hand bat,16,6,0,1188,53.18,74.2,rls,0,SRL,spin,yes,7.565625,12.609375
+3,897,258,SRL,7,177,352,HMRKB Herath,SPD Smith,9,2,10,14.4,2469,50.18,Left-hand bat,17,6,0,1188,53.18,74.2,rls,1,SRL,spin,yes,7.565625,12.609375
+3,904,265,SRL,7,179,354,HMRKB Herath,SPD Smith,9,4,14,14.4,2469,50.18,Left-hand bat,18,7,0,1188,53.18,74.2,rls,1,SRL,spin,yes,7.565625,12.609375
+3,907,268,SRL,7,185,360,HMRKB Herath,SPD Smith,9,5,15,14.4,2469,50.18,Left-hand bat,21,13,0,1188,53.18,74.2,rls,0,SRL,spin,yes,7.565625,12.609375
+3,908,269,SRL,7,185,360,HMRKB Herath,SPD Smith,9,5,16,14.4,2469,50.18,Left-hand bat,22,13,0,1188,53.18,74.2,rls,0,SRL,spin,yes,7.565625,12.609375
+3,909,270,SRL,7,185,360,HMRKB Herath,SPD Smith,9,5,17,14.4,2469,50.18,Left-hand bat,23,13,0,1188,53.18,74.2,rls,0,SRL,spin,yes,7.565625,12.609375

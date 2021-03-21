@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1552,535,NZL,9,290,-267,MJ Henry,RA Jadeja,10,11,7,23.12,237,78.05,Right-hand bat,162,76,2,5310,23.52,62.4,lo,0,IND,spin,no,4.6875,39.0625
+2,1553,536,NZL,9,290,-267,MJ Henry,RA Jadeja,10,11,8,23.12,237,78.05,Right-hand bat,163,76,2,5310,23.52,62.4,lo,0,IND,spin,no,4.6875,39.0625
+2,1554,537,NZL,9,290,-267,MJ Henry,RA Jadeja,10,11,9,23.12,237,78.05,Right-hand bat,164,76,2,5310,23.52,62.4,lo,0,IND,spin,no,4.6875,39.0625
+2,1555,538,NZL,9,290,-267,MJ Henry,RA Jadeja,10,11,10,23.12,237,78.05,Right-hand bat,165,76,2,5310,23.52,62.4,lo,0,IND,spin,no,4.6875,39.0625
+2,1556,539,NZL,9,290,-267,MJ Henry,RA Jadeja,10,11,11,23.12,237,78.05,Right-hand bat,166,76,2,5310,23.52,62.4,lo,0,IND,spin,no,4.6875,39.0625
+2,1557,540,NZL,9,290,-267,MJ Henry,RA Jadeja,10,11,12,23.12,237,78.05,Right-hand bat,167,76,2,5310,23.52,62.4,lo,4,IND,spin,no,4.6875,39.0625

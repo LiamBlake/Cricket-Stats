@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,705,705,RSA,8,324,324,M Morkel,SJ Benn,10,0,0,13.37,867,41.63,Left-hand bat,248,105,4,3624.3,41.39,84.3,lo,0,WIN,spin,yes,14.839100346020762,13.190311418685122
+1,706,706,RSA,8,324,324,M Morkel,SJ Benn,10,0,1,13.37,867,41.63,Left-hand bat,249,105,4,3624.3,41.39,84.3,lo,0,WIN,spin,yes,14.839100346020762,13.190311418685122
+1,707,707,RSA,8,324,324,M Morkel,SJ Benn,10,0,2,13.37,867,41.63,Left-hand bat,250,105,4,3624.3,41.39,84.3,lo,0,WIN,spin,yes,14.839100346020762,13.190311418685122
+1,708,708,RSA,8,324,324,M Morkel,SJ Benn,10,0,3,13.37,867,41.63,Left-hand bat,251,105,4,3624.3,41.39,84.3,lo,0,WIN,spin,yes,14.839100346020762,13.190311418685122
+1,727,727,RSA,8,328,328,M Morkel,SJ Benn,10,0,8,13.37,867,41.63,Left-hand bat,258,108,4,3624.3,41.39,84.3,lo,2,WIN,spin,yes,14.839100346020762,13.190311418685122
+1,728,728,RSA,8,330,330,M Morkel,SJ Benn,10,2,9,13.37,867,41.63,Left-hand bat,259,110,4,3624.3,41.39,84.3,lo,W,WIN,spin,yes,14.839100346020762,13.190311418685122

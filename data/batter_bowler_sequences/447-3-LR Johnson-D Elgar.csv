@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1357,145,WIN,2,65,-286,LR Johnson,D Elgar,3,26,60,44.25,351,50.42,Left-hand bat,10,7,0,336.1,60.75,84.2,lo,4,RSA,spin,yes,28.288,4.2432
+3,1358,146,WIN,2,69,-282,LR Johnson,D Elgar,3,30,61,44.25,351,50.42,Left-hand bat,11,11,0,336.1,60.75,84.2,lo,0,RSA,spin,yes,28.288,4.2432
+3,1365,153,WIN,2,73,-278,LR Johnson,D Elgar,3,30,62,44.25,351,50.42,Left-hand bat,12,11,0,336.1,60.75,84.2,lo,0,RSA,spin,yes,28.288,4.2432
+3,1366,154,WIN,2,73,-278,LR Johnson,D Elgar,3,30,63,44.25,351,50.42,Left-hand bat,13,11,0,336.1,60.75,84.2,lo,0,RSA,spin,yes,28.288,4.2432
+3,1367,155,WIN,2,73,-278,LR Johnson,D Elgar,3,30,64,44.25,351,50.42,Left-hand bat,14,11,0,336.1,60.75,84.2,lo,0,RSA,spin,yes,28.288,4.2432
+3,1368,156,WIN,2,73,-278,LR Johnson,D Elgar,3,30,65,44.25,351,50.42,Left-hand bat,15,11,0,336.1,60.75,84.2,lo,0,RSA,spin,yes,28.288,4.2432
+3,1369,157,WIN,2,73,-278,LR Johnson,D Elgar,3,30,66,44.25,351,50.42,Left-hand bat,16,11,0,336.1,60.75,84.2,lo,1,RSA,spin,yes,28.288,4.2432

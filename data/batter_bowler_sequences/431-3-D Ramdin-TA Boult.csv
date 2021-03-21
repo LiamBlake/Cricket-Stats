@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1564,156,WIN,6,75,93,D Ramdin,TA Boult,7,18,22,27.25,4516,49.49,Right-hand bat,42,23,3,3966.5,26.54,55.1,lfm,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1565,157,WIN,6,75,93,D Ramdin,TA Boult,7,18,23,27.25,4516,49.49,Right-hand bat,43,23,3,3966.5,26.54,55.1,lfm,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1566,158,WIN,6,75,93,D Ramdin,TA Boult,7,18,24,27.25,4516,49.49,Right-hand bat,44,23,3,3966.5,26.54,55.1,lfm,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1567,159,WIN,6,75,93,D Ramdin,TA Boult,7,18,25,27.25,4516,49.49,Right-hand bat,45,23,3,3966.5,26.54,55.1,lfm,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1568,160,WIN,6,75,93,D Ramdin,TA Boult,7,18,26,27.25,4516,49.49,Right-hand bat,46,23,3,3966.5,26.54,55.1,lfm,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1569,161,WIN,6,75,93,D Ramdin,TA Boult,7,18,27,27.25,4516,49.49,Right-hand bat,47,23,3,3966.5,26.54,55.1,lfm,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1576,168,WIN,6,91,109,D Ramdin,TA Boult,7,18,28,27.25,4516,49.49,Right-hand bat,48,23,3,3966.5,26.54,55.1,lfm,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1577,169,WIN,6,91,109,D Ramdin,TA Boult,7,18,29,27.25,4516,49.49,Right-hand bat,49,23,3,3966.5,26.54,55.1,lfm,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1578,170,WIN,6,91,109,D Ramdin,TA Boult,7,18,30,27.25,4516,49.49,Right-hand bat,50,23,3,3966.5,26.54,55.1,lfm,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1579,171,WIN,6,91,109,D Ramdin,TA Boult,7,18,31,27.25,4516,49.49,Right-hand bat,51,23,3,3966.5,26.54,55.1,lfm,0,NZL,seam,no,21.1806640625,8.2880859375
+3,1580,172,WIN,6,91,109,D Ramdin,TA Boult,7,18,32,27.25,4516,49.49,Right-hand bat,52,23,3,3966.5,26.54,55.1,lfm,W,NZL,seam,no,21.1806640625,8.2880859375

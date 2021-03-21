@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1144,489,IND,4,207,-119,GH Vihari,JR Hazlewood,6,16,33,26,251,41.43,Right-hand bat,96,50,1,9108.4,26.66,57.3,rfm,0,AUS,seam,no,18.6,6.2
+2,1145,490,IND,4,207,-119,GH Vihari,JR Hazlewood,6,16,34,26,251,41.43,Right-hand bat,97,50,1,9108.4,26.66,57.3,rfm,2,AUS,seam,no,18.6,6.2
+2,1146,491,IND,4,209,-117,GH Vihari,JR Hazlewood,6,18,35,26,251,41.43,Right-hand bat,98,52,1,9108.4,26.66,57.3,rfm,0,AUS,seam,no,18.6,6.2
+2,1147,492,IND,4,209,-117,GH Vihari,JR Hazlewood,6,18,36,26,251,41.43,Right-hand bat,99,52,1,9108.4,26.66,57.3,rfm,0,AUS,seam,no,18.6,6.2
+2,1148,493,IND,4,209,-117,GH Vihari,JR Hazlewood,6,18,37,26,251,41.43,Right-hand bat,100,52,1,9108.4,26.66,57.3,rfm,0,AUS,seam,no,18.6,6.2
+2,1149,494,IND,4,209,-117,GH Vihari,JR Hazlewood,6,18,38,26,251,41.43,Right-hand bat,101,52,1,9108.4,26.66,57.3,rfm,0,AUS,seam,no,18.6,6.2
+2,1168,513,IND,4,223,-103,GH Vihari,JR Hazlewood,6,20,43,26,251,41.43,Right-hand bat,108,58,1,9108.4,26.66,57.3,rfm,0,AUS,seam,no,18.6,6.2
+2,1169,514,IND,4,223,-103,GH Vihari,JR Hazlewood,6,20,44,26,251,41.43,Right-hand bat,109,58,1,9108.4,26.66,57.3,rfm,0,AUS,seam,no,18.6,6.2
+2,1170,515,IND,4,223,-103,GH Vihari,JR Hazlewood,6,20,45,26,251,41.43,Right-hand bat,110,58,1,9108.4,26.66,57.3,rfm,W,AUS,seam,no,18.6,6.2

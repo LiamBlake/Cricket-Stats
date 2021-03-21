@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1406,156,RSA,3,113,290,AB de Villiers,NM Lyon,5,1,1,52.28,12964,54.85,Right-hand bat,36,16,0,7146.1,32.42,63.8,rob,1,RSA,spin,yes,20.742857142857144,12.257142857142858
+3,1408,158,RSA,3,115,292,AB de Villiers,NM Lyon,5,2,2,52.28,12964,54.85,Right-hand bat,38,18,0,7146.1,32.42,63.8,rob,1,RSA,spin,yes,20.742857142857144,12.257142857142858
+3,1420,170,RSA,3,119,296,AB de Villiers,NM Lyon,5,3,9,52.28,12964,54.85,Right-hand bat,44,22,0,7146.1,32.42,63.8,rob,0,RSA,spin,yes,20.742857142857144,12.257142857142858
+3,1421,171,RSA,3,119,296,AB de Villiers,NM Lyon,5,3,10,52.28,12964,54.85,Right-hand bat,45,22,0,7146.1,32.42,63.8,rob,0,RSA,spin,yes,20.742857142857144,12.257142857142858
+3,1422,172,RSA,3,119,296,AB de Villiers,NM Lyon,5,3,11,52.28,12964,54.85,Right-hand bat,46,22,0,7146.1,32.42,63.8,rob,1,RSA,spin,yes,20.742857142857144,12.257142857142858
+3,1432,182,RSA,3,129,306,AB de Villiers,NM Lyon,5,12,18,52.28,12964,54.85,Right-hand bat,50,24,0,7146.1,32.42,63.8,rob,1,RSA,spin,yes,20.742857142857144,12.257142857142858
+3,1442,192,RSA,3,137,314,AB de Villiers,NM Lyon,5,14,21,52.28,12964,54.85,Right-hand bat,54,26,0,7146.1,32.42,63.8,rob,0,RSA,spin,yes,20.742857142857144,12.257142857142858
+3,1443,193,RSA,3,137,314,AB de Villiers,NM Lyon,5,14,22,52.28,12964,54.85,Right-hand bat,55,26,0,7146.1,32.42,63.8,rob,4,RSA,spin,yes,20.742857142857144,12.257142857142858
+3,1444,194,RSA,3,141,318,AB de Villiers,NM Lyon,5,18,23,52.28,12964,54.85,Right-hand bat,56,30,0,7146.1,32.42,63.8,rob,0,RSA,spin,yes,20.742857142857144,12.257142857142858
+3,1445,195,RSA,3,141,318,AB de Villiers,NM Lyon,5,18,24,52.28,12964,54.85,Right-hand bat,57,30,0,7146.1,32.42,63.8,rob,0,RSA,spin,yes,20.742857142857144,12.257142857142858
+3,1446,196,RSA,3,141,318,AB de Villiers,NM Lyon,5,18,25,52.28,12964,54.85,Right-hand bat,58,30,0,7146.1,32.42,63.8,rob,0,RSA,spin,yes,20.742857142857144,12.257142857142858
+3,1447,197,RSA,3,141,318,AB de Villiers,NM Lyon,5,18,26,52.28,12964,54.85,Right-hand bat,59,30,0,7146.1,32.42,63.8,rob,0,RSA,spin,yes,20.742857142857144,12.257142857142858

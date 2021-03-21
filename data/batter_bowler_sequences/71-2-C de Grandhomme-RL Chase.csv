@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,943,669,NZL,6,364,230,C de Grandhomme,RL Chase,7,63,50,34.55,301,103.32,Right-hand bat,89,48,0,2544.5,48.75,87.8,rob,1,WIN,spin,yes,30.080856123662304,3.4708680142687274
+2,950,676,NZL,6,370,236,C de Grandhomme,RL Chase,7,69,54,34.55,301,103.32,Right-hand bat,90,49,0,2544.5,48.75,87.8,rob,2,WIN,spin,yes,30.080856123662304,3.4708680142687274
+2,951,677,NZL,6,372,238,C de Grandhomme,RL Chase,7,71,55,34.55,301,103.32,Right-hand bat,91,51,0,2544.5,48.75,87.8,rob,1,WIN,spin,yes,30.080856123662304,3.4708680142687274
+2,955,681,NZL,6,374,240,C de Grandhomme,RL Chase,7,72,56,34.55,301,103.32,Right-hand bat,95,53,0,2544.5,48.75,87.8,rob,1,WIN,spin,yes,30.080856123662304,3.4708680142687274
+2,966,692,NZL,6,386,252,C de Grandhomme,RL Chase,7,78,60,34.55,301,103.32,Right-hand bat,100,57,0,2544.5,48.75,87.8,rob,1,WIN,spin,yes,30.080856123662304,3.4708680142687274
+2,977,703,NZL,6,403,269,C de Grandhomme,RL Chase,7,85,65,34.55,301,103.32,Right-hand bat,104,59,0,2544.5,48.75,87.8,rob,1,WIN,spin,yes,30.080856123662304,3.4708680142687274
+2,988,714,NZL,6,407,273,C de Grandhomme,RL Chase,7,86,66,34.55,301,103.32,Right-hand bat,109,62,0,2544.5,48.75,87.8,rob,6,WIN,spin,yes,30.080856123662304,3.4708680142687274
+2,989,715,NZL,6,413,279,C de Grandhomme,RL Chase,7,92,67,34.55,301,103.32,Right-hand bat,110,68,0,2544.5,48.75,87.8,rob,2,WIN,spin,yes,30.080856123662304,3.4708680142687274
+2,990,716,NZL,6,415,281,C de Grandhomme,RL Chase,7,94,68,34.55,301,103.32,Right-hand bat,111,70,0,2544.5,48.75,87.8,rob,1,WIN,spin,yes,30.080856123662304,3.4708680142687274
+2,999,725,NZL,6,425,291,C de Grandhomme,RL Chase,7,102,71,34.55,301,103.32,Right-hand bat,114,72,0,2544.5,48.75,87.8,rob,3,WIN,spin,yes,30.080856123662304,3.4708680142687274
+2,1003,729,NZL,6,429,295,C de Grandhomme,RL Chase,7,105,72,34.55,301,103.32,Right-hand bat,118,76,0,2544.5,48.75,87.8,rob,0,WIN,spin,yes,30.080856123662304,3.4708680142687274
+2,1004,730,NZL,6,429,295,C de Grandhomme,RL Chase,7,105,73,34.55,301,103.32,Right-hand bat,119,76,0,2544.5,48.75,87.8,rob,W,WIN,spin,yes,30.080856123662304,3.4708680142687274

@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,510,50,WIN,2,16,-195,DM Bravo,KM Jarvis,4,0,0,45.8,3545,46.51,Left-hand bat,26,7,2,960.3,30,50.6,rfm,0,WIN,seam,no,11.2684703433923,9.279916753381892
+2,511,51,WIN,2,16,-195,DM Bravo,KM Jarvis,4,0,1,45.8,3545,46.51,Left-hand bat,27,7,2,960.3,30,50.6,rfm,0,WIN,seam,no,11.2684703433923,9.279916753381892
+2,512,52,WIN,2,16,-195,DM Bravo,KM Jarvis,4,0,2,45.8,3545,46.51,Left-hand bat,28,7,2,960.3,30,50.6,rfm,0,WIN,seam,no,11.2684703433923,9.279916753381892
+2,513,53,WIN,2,16,-195,DM Bravo,KM Jarvis,4,0,3,45.8,3545,46.51,Left-hand bat,29,7,2,960.3,30,50.6,rfm,0,WIN,seam,no,11.2684703433923,9.279916753381892
+2,514,54,WIN,2,16,-195,DM Bravo,KM Jarvis,4,0,4,45.8,3545,46.51,Left-hand bat,30,7,2,960.3,30,50.6,rfm,0,WIN,seam,no,11.2684703433923,9.279916753381892
+2,515,55,WIN,2,16,-195,DM Bravo,KM Jarvis,4,0,5,45.8,3545,46.51,Left-hand bat,31,7,2,960.3,30,50.6,rfm,0,WIN,seam,no,11.2684703433923,9.279916753381892
+2,535,75,WIN,2,23,-188,DM Bravo,KM Jarvis,4,1,8,45.8,3545,46.51,Left-hand bat,39,8,2,960.3,30,50.6,rfm,4b,WIN,seam,no,11.2684703433923,9.279916753381892
+2,536,76,WIN,2,27,-184,DM Bravo,KM Jarvis,4,1,9,45.8,3545,46.51,Left-hand bat,40,8,2,960.3,30,50.6,rfm,0,WIN,seam,no,11.2684703433923,9.279916753381892
+2,537,77,WIN,2,27,-184,DM Bravo,KM Jarvis,4,1,10,45.8,3545,46.51,Left-hand bat,41,8,2,960.3,30,50.6,rfm,1,WIN,seam,no,11.2684703433923,9.279916753381892
+2,561,101,WIN,2,37,-174,DM Bravo,KM Jarvis,4,6,23,45.8,3545,46.51,Left-hand bat,53,14,2,960.3,30,50.6,rfm,4,WIN,seam,no,11.2684703433923,9.279916753381892
+2,562,102,WIN,2,41,-170,DM Bravo,KM Jarvis,4,10,24,45.8,3545,46.51,Left-hand bat,54,18,2,960.3,30,50.6,rfm,0,WIN,seam,no,11.2684703433923,9.279916753381892
+2,563,103,WIN,2,41,-170,DM Bravo,KM Jarvis,4,10,25,45.8,3545,46.51,Left-hand bat,55,18,2,960.3,30,50.6,rfm,0,WIN,seam,no,11.2684703433923,9.279916753381892
+2,564,104,WIN,2,41,-170,DM Bravo,KM Jarvis,4,10,26,45.8,3545,46.51,Left-hand bat,56,18,2,960.3,30,50.6,rfm,0,WIN,seam,no,11.2684703433923,9.279916753381892
+2,571,111,WIN,2,43,-168,DM Bravo,KM Jarvis,4,11,29,45.8,3545,46.51,Left-hand bat,57,18,2,960.3,30,50.6,rfm,0,WIN,seam,no,11.2684703433923,9.279916753381892
+2,572,112,WIN,2,43,-168,DM Bravo,KM Jarvis,4,11,30,45.8,3545,46.51,Left-hand bat,58,18,2,960.3,30,50.6,rfm,0,WIN,seam,no,11.2684703433923,9.279916753381892
+2,573,113,WIN,2,43,-168,DM Bravo,KM Jarvis,4,11,31,45.8,3545,46.51,Left-hand bat,59,18,2,960.3,30,50.6,rfm,W,WIN,seam,no,11.2684703433923,9.279916753381892

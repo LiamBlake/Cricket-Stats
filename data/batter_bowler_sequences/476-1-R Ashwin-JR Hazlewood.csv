@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,604,604,IND,6,375,375,R Ashwin,JR Hazlewood,8,25,33,37.92,1442,65.74,Right-hand bat,117,52,3,234.2,20.28,33.7,rfm,4,AUS,seam,yes,28.35108024691358,6.843364197530864
+1,605,605,IND,6,379,379,R Ashwin,JR Hazlewood,8,29,34,37.92,1442,65.74,Right-hand bat,118,56,3,234.2,20.28,33.7,rfm,4,AUS,seam,yes,28.35108024691358,6.843364197530864
+1,606,606,IND,6,383,383,R Ashwin,JR Hazlewood,8,33,35,37.92,1442,65.74,Right-hand bat,119,60,3,234.2,20.28,33.7,rfm,0,AUS,seam,yes,28.35108024691358,6.843364197530864
+1,607,607,IND,6,383,383,R Ashwin,JR Hazlewood,8,33,36,37.92,1442,65.74,Right-hand bat,120,60,3,234.2,20.28,33.7,rfm,0,AUS,seam,yes,28.35108024691358,6.843364197530864
+1,608,608,IND,6,383,383,R Ashwin,JR Hazlewood,8,33,37,37.92,1442,65.74,Right-hand bat,121,60,3,234.2,20.28,33.7,rfm,0,AUS,seam,yes,28.35108024691358,6.843364197530864
+1,615,615,IND,6,383,383,R Ashwin,JR Hazlewood,8,33,38,37.92,1442,65.74,Right-hand bat,122,60,3,234.2,20.28,33.7,rfm,0,AUS,seam,yes,28.35108024691358,6.843364197530864
+1,616,616,IND,6,383,383,R Ashwin,JR Hazlewood,8,33,39,37.92,1442,65.74,Right-hand bat,123,60,3,234.2,20.28,33.7,rfm,2,AUS,seam,yes,28.35108024691358,6.843364197530864
+1,617,617,IND,6,385,385,R Ashwin,JR Hazlewood,8,35,40,37.92,1442,65.74,Right-hand bat,124,62,3,234.2,20.28,33.7,rfm,W,AUS,seam,yes,28.35108024691358,6.843364197530864

@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,374,374,WIN,5,142,142,DJG Sammy,Saeed Ajmal,8,0,0,16.1,607,53.04,Right-hand bat,88,28,2,3084.4,32.31,70.1,rob,0,WIN,spin,yes,8.5025,9.397499999999999
+1,375,375,WIN,5,142,142,DJG Sammy,Saeed Ajmal,8,0,1,16.1,607,53.04,Right-hand bat,89,28,2,3084.4,32.31,70.1,rob,0,WIN,spin,yes,8.5025,9.397499999999999
+1,383,383,WIN,5,144,144,DJG Sammy,Saeed Ajmal,8,0,5,16.1,607,53.04,Right-hand bat,91,29,2,3084.4,32.31,70.1,rob,0,WIN,spin,yes,8.5025,9.397499999999999
+1,384,384,WIN,5,144,144,DJG Sammy,Saeed Ajmal,8,0,6,16.1,607,53.04,Right-hand bat,92,29,2,3084.4,32.31,70.1,rob,0,WIN,spin,yes,8.5025,9.397499999999999
+1,385,385,WIN,5,144,144,DJG Sammy,Saeed Ajmal,8,0,7,16.1,607,53.04,Right-hand bat,93,29,2,3084.4,32.31,70.1,rob,1b,WIN,spin,yes,8.5025,9.397499999999999
+1,406,406,WIN,5,152,152,DJG Sammy,Saeed Ajmal,8,5,16,16.1,607,53.04,Right-hand bat,102,31,2,3084.4,32.31,70.1,rob,0,WIN,spin,yes,8.5025,9.397499999999999
+1,407,407,WIN,5,152,152,DJG Sammy,Saeed Ajmal,8,5,17,16.1,607,53.04,Right-hand bat,103,31,2,3084.4,32.31,70.1,rob,0,WIN,spin,yes,8.5025,9.397499999999999
+1,408,408,WIN,5,152,152,DJG Sammy,Saeed Ajmal,8,5,18,16.1,607,53.04,Right-hand bat,104,31,2,3084.4,32.31,70.1,rob,0,WIN,spin,yes,8.5025,9.397499999999999
+1,409,409,WIN,5,152,152,DJG Sammy,Saeed Ajmal,8,5,19,16.1,607,53.04,Right-hand bat,105,31,2,3084.4,32.31,70.1,rob,1,WIN,spin,yes,8.5025,9.397499999999999

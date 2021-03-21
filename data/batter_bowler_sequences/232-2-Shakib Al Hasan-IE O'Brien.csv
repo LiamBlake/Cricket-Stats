@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,620,168,BAN,6,47,-215,Shakib Al Hasan,IE O'Brien,7,3,10,26.3,762,44.88,Left-hand bat,36,6,1,1584.4,28.03,56.7,rfm,1,BAN,seam,yes,13.9453125,17.9296875
+2,741,289,BAN,6,104,-158,Shakib Al Hasan,IE O'Brien,7,33,70,26.3,762,44.88,Left-hand bat,48,9,1,1584.4,28.03,56.7,rfm,0,BAN,seam,yes,13.9453125,17.9296875
+2,742,290,BAN,6,104,-158,Shakib Al Hasan,IE O'Brien,7,33,71,26.3,762,44.88,Left-hand bat,49,9,1,1584.4,28.03,56.7,rfm,0,BAN,seam,yes,13.9453125,17.9296875
+2,743,291,BAN,6,104,-158,Shakib Al Hasan,IE O'Brien,7,33,72,26.3,762,44.88,Left-hand bat,50,9,1,1584.4,28.03,56.7,rfm,1wd,BAN,seam,yes,13.9453125,17.9296875
+2,744,292,BAN,6,105,-157,Shakib Al Hasan,IE O'Brien,7,33,72,26.3,762,44.88,Left-hand bat,51,10,1,1584.4,28.03,56.7,rfm,2,BAN,seam,yes,13.9453125,17.9296875
+2,745,293,BAN,6,107,-155,Shakib Al Hasan,IE O'Brien,7,35,73,26.3,762,44.88,Left-hand bat,52,12,1,1584.4,28.03,56.7,rfm,0,BAN,seam,yes,13.9453125,17.9296875
+2,746,294,BAN,6,107,-155,Shakib Al Hasan,IE O'Brien,7,35,74,26.3,762,44.88,Left-hand bat,53,12,1,1584.4,28.03,56.7,rfm,0,BAN,seam,yes,13.9453125,17.9296875
+2,747,295,BAN,6,107,-155,Shakib Al Hasan,IE O'Brien,7,35,75,26.3,762,44.88,Left-hand bat,54,12,1,1584.4,28.03,56.7,rfm,0,BAN,seam,yes,13.9453125,17.9296875
+2,754,302,BAN,6,113,-149,Shakib Al Hasan,IE O'Brien,7,40,79,26.3,762,44.88,Left-hand bat,55,12,1,1584.4,28.03,56.7,rfm,0,BAN,seam,yes,13.9453125,17.9296875
+2,755,303,BAN,6,113,-149,Shakib Al Hasan,IE O'Brien,7,40,80,26.3,762,44.88,Left-hand bat,56,12,1,1584.4,28.03,56.7,rfm,0,BAN,seam,yes,13.9453125,17.9296875
+2,756,304,BAN,6,113,-149,Shakib Al Hasan,IE O'Brien,7,40,81,26.3,762,44.88,Left-hand bat,57,12,1,1584.4,28.03,56.7,rfm,1,BAN,seam,yes,13.9453125,17.9296875

@@ -1,0 +1,3 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,952,176,WIN,9,89,139,ST Gabriel,CBRLS Kumara,11,6,4,5.19,422,38.15,Right-hand bat,43,30,2,2232.2,36.87,55.8,rf,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,953,177,WIN,9,89,139,ST Gabriel,CBRLS Kumara,11,6,5,5.19,422,38.15,Right-hand bat,44,30,2,2232.2,36.87,55.8,rf,1lb,WIN,seam,yes,15.609567901234568,0.91820987654321

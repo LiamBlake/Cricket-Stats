@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,7,7,NZL,0,7,7,HD Rutherford,KAJ Roach,2,0,0,27.08,1143,56.86,Left-hand bat,0,0,0,5118.2,27.04,51.2,rfm,0,WIN,seam,yes,23.56829802775749,8.728999269539809
+1,8,8,NZL,0,7,7,HD Rutherford,KAJ Roach,2,0,1,27.08,1143,56.86,Left-hand bat,1,0,0,5118.2,27.04,51.2,rfm,0,WIN,seam,yes,23.56829802775749,8.728999269539809
+1,9,9,NZL,0,7,7,HD Rutherford,KAJ Roach,2,0,2,27.08,1143,56.86,Left-hand bat,2,0,0,5118.2,27.04,51.2,rfm,0,WIN,seam,yes,23.56829802775749,8.728999269539809
+1,10,10,NZL,0,7,7,HD Rutherford,KAJ Roach,2,0,3,27.08,1143,56.86,Left-hand bat,3,0,0,5118.2,27.04,51.2,rfm,2,WIN,seam,yes,23.56829802775749,8.728999269539809
+1,11,11,NZL,0,9,9,HD Rutherford,KAJ Roach,2,2,4,27.08,1143,56.86,Left-hand bat,4,2,0,5118.2,27.04,51.2,rfm,0,WIN,seam,yes,23.56829802775749,8.728999269539809
+1,12,12,NZL,0,9,9,HD Rutherford,KAJ Roach,2,2,5,27.08,1143,56.86,Left-hand bat,5,2,0,5118.2,27.04,51.2,rfm,0,WIN,seam,yes,23.56829802775749,8.728999269539809
+1,19,19,NZL,0,13,13,HD Rutherford,KAJ Roach,2,2,6,27.08,1143,56.86,Left-hand bat,6,2,0,5118.2,27.04,51.2,rfm,2,WIN,seam,yes,23.56829802775749,8.728999269539809
+1,20,20,NZL,0,15,15,HD Rutherford,KAJ Roach,2,4,7,27.08,1143,56.86,Left-hand bat,7,4,0,5118.2,27.04,51.2,rfm,0,WIN,seam,yes,23.56829802775749,8.728999269539809
+1,21,21,NZL,0,15,15,HD Rutherford,KAJ Roach,2,4,8,27.08,1143,56.86,Left-hand bat,8,4,0,5118.2,27.04,51.2,rfm,0,WIN,seam,yes,23.56829802775749,8.728999269539809
+1,22,22,NZL,0,15,15,HD Rutherford,KAJ Roach,2,4,9,27.08,1143,56.86,Left-hand bat,9,4,0,5118.2,27.04,51.2,rfm,0,WIN,seam,yes,23.56829802775749,8.728999269539809
+1,23,23,NZL,0,15,15,HD Rutherford,KAJ Roach,2,4,10,27.08,1143,56.86,Left-hand bat,10,4,0,5118.2,27.04,51.2,rfm,2lb,WIN,seam,yes,23.56829802775749,8.728999269539809
+1,24,24,NZL,0,17,17,HD Rutherford,KAJ Roach,2,4,11,27.08,1143,56.86,Left-hand bat,11,4,0,5118.2,27.04,51.2,rfm,W,WIN,seam,yes,23.56829802775749,8.728999269539809

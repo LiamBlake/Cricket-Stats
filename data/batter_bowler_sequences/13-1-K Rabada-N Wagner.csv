@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,474,474,RSA,8,249,249,K Rabada,N Wagner,10,0,0,14.5,365,47.67,Left-hand bat,136,89,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064
+1,475,475,RSA,8,249,249,K Rabada,N Wagner,10,0,1,14.5,365,47.67,Left-hand bat,137,89,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064
+1,476,476,RSA,8,249,249,K Rabada,N Wagner,10,0,2,14.5,365,47.67,Left-hand bat,138,89,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064
+1,485,485,RSA,8,253,253,K Rabada,N Wagner,10,0,6,14.5,365,47.67,Left-hand bat,141,90,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064
+1,486,486,RSA,8,253,253,K Rabada,N Wagner,10,0,7,14.5,365,47.67,Left-hand bat,142,90,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064
+1,487,487,RSA,8,253,253,K Rabada,N Wagner,10,0,8,14.5,365,47.67,Left-hand bat,143,90,1,7044.1,28.9,54.1,lmf,4,NZL,seam,yes,28.256,7.064
+1,488,488,RSA,8,257,257,K Rabada,N Wagner,10,4,9,14.5,365,47.67,Left-hand bat,144,94,1,7044.1,28.9,54.1,lmf,0,NZL,seam,yes,28.256,7.064
+1,529,529,RSA,9,296,296,K Rabada,N Wagner,10,24,25,14.5,365,47.67,Left-hand bat,149,95,2,7044.1,28.9,54.1,lmf,4,NZL,seam,yes,28.256,7.064
+1,530,530,RSA,9,300,300,K Rabada,N Wagner,10,28,26,14.5,365,47.67,Left-hand bat,150,99,2,7044.1,28.9,54.1,lmf,1,NZL,seam,yes,28.256,7.064
+1,537,537,RSA,9,310,310,K Rabada,N Wagner,10,30,29,14.5,365,47.67,Left-hand bat,151,100,2,7044.1,28.9,54.1,lmf,4,NZL,seam,yes,28.256,7.064
+1,538,538,RSA,9,314,314,K Rabada,N Wagner,10,34,30,14.5,365,47.67,Left-hand bat,152,104,2,7044.1,28.9,54.1,lmf,W,NZL,seam,yes,28.256,7.064

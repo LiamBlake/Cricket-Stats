@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1487,710,AUS,4,358,393,A Symonds,SJ Benn,6,0,0,44.65,1947,66.51,Right-hand bat,229,124,2,636,52.28,90.8,lo,0,WIN,spin,no,27.44326530612245,9.499591836734693
+3,1488,711,AUS,4,358,393,A Symonds,SJ Benn,6,0,1,44.65,1947,66.51,Right-hand bat,230,124,2,636,52.28,90.8,lo,0,WIN,spin,no,27.44326530612245,9.499591836734693
+3,1489,712,AUS,4,358,393,A Symonds,SJ Benn,6,0,2,44.65,1947,66.51,Right-hand bat,231,124,2,636,52.28,90.8,lo,0,WIN,spin,no,27.44326530612245,9.499591836734693
+3,1490,713,AUS,4,358,393,A Symonds,SJ Benn,6,0,3,44.65,1947,66.51,Right-hand bat,232,124,2,636,52.28,90.8,lo,0,WIN,spin,no,27.44326530612245,9.499591836734693
+3,1491,714,AUS,4,358,393,A Symonds,SJ Benn,6,0,4,44.65,1947,66.51,Right-hand bat,233,124,2,636,52.28,90.8,lo,1,WIN,spin,no,27.44326530612245,9.499591836734693
+3,1498,721,AUS,4,360,395,A Symonds,SJ Benn,6,2,7,44.65,1947,66.51,Right-hand bat,234,125,2,636,52.28,90.8,lo,0,WIN,spin,no,27.44326530612245,9.499591836734693
+3,1499,722,AUS,4,360,395,A Symonds,SJ Benn,6,2,8,44.65,1947,66.51,Right-hand bat,235,125,2,636,52.28,90.8,lo,W,WIN,spin,no,27.44326530612245,9.499591836734693

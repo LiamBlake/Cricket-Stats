@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2052,7,ENG,0,4,6,AN Cook,K Rabada,1,1,2,46.77,21189,46.35,Left-hand bat,0,0,0,546.5,57.16,91.8,rf,0,RSA,seam,yes,62.714681440443215,11.759002770083104
+3,2053,8,ENG,0,4,6,AN Cook,K Rabada,1,1,3,46.77,21189,46.35,Left-hand bat,1,0,0,546.5,57.16,91.8,rf,0,RSA,seam,yes,62.714681440443215,11.759002770083104
+3,2054,9,ENG,0,4,6,AN Cook,K Rabada,1,1,4,46.77,21189,46.35,Left-hand bat,2,0,0,546.5,57.16,91.8,rf,0,RSA,seam,yes,62.714681440443215,11.759002770083104
+3,2055,10,ENG,0,4,6,AN Cook,K Rabada,1,1,5,46.77,21189,46.35,Left-hand bat,3,0,0,546.5,57.16,91.8,rf,0,RSA,seam,yes,62.714681440443215,11.759002770083104
+3,2056,11,ENG,0,4,6,AN Cook,K Rabada,1,1,6,46.77,21189,46.35,Left-hand bat,4,0,0,546.5,57.16,91.8,rf,0,RSA,seam,yes,62.714681440443215,11.759002770083104
+3,2057,12,ENG,0,4,6,AN Cook,K Rabada,1,1,7,46.77,21189,46.35,Left-hand bat,5,0,0,546.5,57.16,91.8,rf,1,RSA,seam,yes,62.714681440443215,11.759002770083104
+3,2066,21,ENG,0,6,8,AN Cook,K Rabada,1,2,14,46.77,21189,46.35,Left-hand bat,8,2,0,546.5,57.16,91.8,rf,4,RSA,seam,yes,62.714681440443215,11.759002770083104
+3,2067,22,ENG,0,10,12,AN Cook,K Rabada,1,6,15,46.77,21189,46.35,Left-hand bat,9,6,0,546.5,57.16,91.8,rf,0,RSA,seam,yes,62.714681440443215,11.759002770083104
+3,2068,23,ENG,0,10,12,AN Cook,K Rabada,1,6,16,46.77,21189,46.35,Left-hand bat,10,6,0,546.5,57.16,91.8,rf,0,RSA,seam,yes,62.714681440443215,11.759002770083104
+3,2069,24,ENG,0,10,12,AN Cook,K Rabada,1,6,17,46.77,21189,46.35,Left-hand bat,11,6,0,546.5,57.16,91.8,rf,1,RSA,seam,yes,62.714681440443215,11.759002770083104
+3,2081,36,ENG,0,13,15,AN Cook,K Rabada,1,7,24,46.77,21189,46.35,Left-hand bat,17,9,0,546.5,57.16,91.8,rf,1nb,RSA,seam,yes,62.714681440443215,11.759002770083104
+3,2091,46,ENG,0,17,19,AN Cook,K Rabada,1,8,25,46.77,21189,46.35,Left-hand bat,20,11,0,546.5,57.16,91.8,rf,0,RSA,seam,yes,62.714681440443215,11.759002770083104
+3,2092,47,ENG,0,17,19,AN Cook,K Rabada,1,8,26,46.77,21189,46.35,Left-hand bat,21,11,0,546.5,57.16,91.8,rf,W,RSA,seam,yes,62.714681440443215,11.759002770083104

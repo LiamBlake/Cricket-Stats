@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1238,511,IND,4,334,-183,RG Sharma,MR Marsh,6,11,27,44.83,1005,53.53,Right-hand bat,58,18,0,330,NA,NA,rm,0,AUS,seam,no,22.939453125,25.998046875
+2,1239,512,IND,4,334,-183,RG Sharma,MR Marsh,6,11,28,44.83,1005,53.53,Right-hand bat,59,18,0,330,NA,NA,rm,0,AUS,seam,no,22.939453125,25.998046875
+2,1247,520,IND,4,338,-179,RG Sharma,MR Marsh,6,11,32,44.83,1005,53.53,Right-hand bat,61,21,0,330,NA,NA,rm,0,AUS,seam,no,22.939453125,25.998046875
+2,1248,521,IND,4,338,-179,RG Sharma,MR Marsh,6,11,33,44.83,1005,53.53,Right-hand bat,62,21,0,330,NA,NA,rm,4,AUS,seam,no,22.939453125,25.998046875
+2,1249,522,IND,4,342,-175,RG Sharma,MR Marsh,6,15,34,44.83,1005,53.53,Right-hand bat,63,25,0,330,NA,NA,rm,0,AUS,seam,no,22.939453125,25.998046875
+2,1250,523,IND,4,342,-175,RG Sharma,MR Marsh,6,15,35,44.83,1005,53.53,Right-hand bat,64,25,0,330,NA,NA,rm,4,AUS,seam,no,22.939453125,25.998046875
+2,1251,524,IND,4,346,-171,RG Sharma,MR Marsh,6,19,36,44.83,1005,53.53,Right-hand bat,65,29,0,330,NA,NA,rm,0,AUS,seam,no,22.939453125,25.998046875

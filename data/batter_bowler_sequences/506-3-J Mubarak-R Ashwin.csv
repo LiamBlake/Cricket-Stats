@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1334,312,SRL,6,220,28,J Mubarak,R Ashwin,8,0,0,18.15,838,43.31,Left-hand bat,106,72,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1335,313,SRL,6,220,28,J Mubarak,R Ashwin,8,0,1,18.15,838,43.31,Left-hand bat,107,72,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1346,324,SRL,6,238,46,J Mubarak,R Ashwin,8,10,7,18.15,838,43.31,Left-hand bat,112,79,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1347,325,SRL,6,238,46,J Mubarak,R Ashwin,8,10,8,18.15,838,43.31,Left-hand bat,113,79,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1369,347,SRL,6,250,58,J Mubarak,R Ashwin,8,15,16,18.15,838,43.31,Left-hand bat,123,80,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1370,348,SRL,6,250,58,J Mubarak,R Ashwin,8,15,17,18.15,838,43.31,Left-hand bat,124,80,3,7794.4,29.14,58.1,rob,3,SRL,spin,yes,5.833125000000001,20.091875
+3,1410,388,SRL,6,279,87,J Mubarak,R Ashwin,8,34,38,18.15,838,43.31,Left-hand bat,128,88,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1411,389,SRL,6,279,87,J Mubarak,R Ashwin,8,34,39,18.15,838,43.31,Left-hand bat,129,88,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1412,390,SRL,6,279,87,J Mubarak,R Ashwin,8,34,40,18.15,838,43.31,Left-hand bat,130,88,3,7794.4,29.14,58.1,rob,1,SRL,spin,yes,5.833125000000001,20.091875
+3,1422,400,SRL,6,287,95,J Mubarak,R Ashwin,8,41,47,18.15,838,43.31,Left-hand bat,134,90,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1423,401,SRL,6,287,95,J Mubarak,R Ashwin,8,41,48,18.15,838,43.31,Left-hand bat,135,90,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1424,402,SRL,6,287,95,J Mubarak,R Ashwin,8,41,49,18.15,838,43.31,Left-hand bat,136,90,3,7794.4,29.14,58.1,rob,2,SRL,spin,yes,5.833125000000001,20.091875
+3,1425,403,SRL,6,289,97,J Mubarak,R Ashwin,8,43,50,18.15,838,43.31,Left-hand bat,137,92,3,7794.4,29.14,58.1,rob,2,SRL,spin,yes,5.833125000000001,20.091875
+3,1436,414,SRL,6,297,105,J Mubarak,R Ashwin,8,45,56,18.15,838,43.31,Left-hand bat,142,99,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875
+3,1437,415,SRL,6,297,105,J Mubarak,R Ashwin,8,45,57,18.15,838,43.31,Left-hand bat,143,99,3,7794.4,29.14,58.1,rob,0,SRL,spin,yes,5.833125000000001,20.091875

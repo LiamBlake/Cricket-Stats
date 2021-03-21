@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,313,313,IND,5,176,176,VVS Laxman,KTGD Prasad,6,11,32,43.79,12206,49.15,Right-hand bat,85,66,3,168,28.4,33.6,rfm,0,SRL,seam,yes,12.140625,20.234375
+1,314,314,IND,5,176,176,VVS Laxman,KTGD Prasad,6,11,33,43.79,12206,49.15,Right-hand bat,86,66,3,168,28.4,33.6,rfm,2,SRL,seam,yes,12.140625,20.234375
+1,315,315,IND,5,178,178,VVS Laxman,KTGD Prasad,6,13,34,43.79,12206,49.15,Right-hand bat,87,68,3,168,28.4,33.6,rfm,2,SRL,seam,yes,12.140625,20.234375
+1,316,316,IND,5,180,180,VVS Laxman,KTGD Prasad,6,15,35,43.79,12206,49.15,Right-hand bat,88,70,3,168,28.4,33.6,rfm,2,SRL,seam,yes,12.140625,20.234375
+1,317,317,IND,5,182,182,VVS Laxman,KTGD Prasad,6,17,36,43.79,12206,49.15,Right-hand bat,89,72,3,168,28.4,33.6,rfm,3,SRL,seam,yes,12.140625,20.234375

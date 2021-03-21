@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,405,9,WIN,1,10,-190,D Bishoo,N Pradeep,3,0,0,15.25,559,43.64,Left-hand bat,3,3,0,2784.4,47.41,77.4,rfm,0,SRL,seam,no,5.55,12.95
+2,406,10,WIN,1,10,-190,D Bishoo,N Pradeep,3,0,1,15.25,559,43.64,Left-hand bat,4,3,0,2784.4,47.41,77.4,rfm,0,SRL,seam,no,5.55,12.95
+2,407,11,WIN,1,10,-190,D Bishoo,N Pradeep,3,0,2,15.25,559,43.64,Left-hand bat,5,3,0,2784.4,47.41,77.4,rfm,2,SRL,seam,no,5.55,12.95
+2,452,56,WIN,1,32,-168,D Bishoo,N Pradeep,3,12,27,15.25,559,43.64,Left-hand bat,12,11,0,2784.4,47.41,77.4,rfm,0,SRL,seam,no,5.55,12.95
+2,453,57,WIN,1,32,-168,D Bishoo,N Pradeep,3,12,28,15.25,559,43.64,Left-hand bat,13,11,0,2784.4,47.41,77.4,rfm,0,SRL,seam,no,5.55,12.95
+2,454,58,WIN,1,32,-168,D Bishoo,N Pradeep,3,12,29,15.25,559,43.64,Left-hand bat,14,11,0,2784.4,47.41,77.4,rfm,0,SRL,seam,no,5.55,12.95
+2,455,59,WIN,1,32,-168,D Bishoo,N Pradeep,3,12,30,15.25,559,43.64,Left-hand bat,15,11,0,2784.4,47.41,77.4,rfm,0,SRL,seam,no,5.55,12.95
+2,456,60,WIN,1,32,-168,D Bishoo,N Pradeep,3,12,31,15.25,559,43.64,Left-hand bat,16,11,0,2784.4,47.41,77.4,rfm,1,SRL,seam,no,5.55,12.95

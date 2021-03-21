@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2070,514,WIN,6,251,263,DJG Sammy,MG Johnson,8,0,0,19.4,540,53.88,Right-hand bat,89,69,3,6738.5,28.58,53.5,lf,1,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2079,523,WIN,6,265,277,DJG Sammy,MG Johnson,8,5,4,19.4,540,53.88,Right-hand bat,92,71,3,6738.5,28.58,53.5,lf,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2080,524,WIN,6,265,277,DJG Sammy,MG Johnson,8,5,5,19.4,540,53.88,Right-hand bat,93,71,3,6738.5,28.58,53.5,lf,1,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2092,536,WIN,6,271,283,DJG Sammy,MG Johnson,8,6,12,19.4,540,53.88,Right-hand bat,99,77,3,6738.5,28.58,53.5,lf,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2093,537,WIN,6,271,283,DJG Sammy,MG Johnson,8,6,13,19.4,540,53.88,Right-hand bat,100,77,3,6738.5,28.58,53.5,lf,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2094,538,WIN,6,271,283,DJG Sammy,MG Johnson,8,6,14,19.4,540,53.88,Right-hand bat,101,77,3,6738.5,28.58,53.5,lf,4,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2095,539,WIN,6,275,287,DJG Sammy,MG Johnson,8,10,15,19.4,540,53.88,Right-hand bat,102,81,3,6738.5,28.58,53.5,lf,0,AUS,seam,yes,31.27591836734694,9.266938775510205

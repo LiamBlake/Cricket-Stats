@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,689,689,IND,9,421,421,UT Yadav,PADLR Sandakan,11,0,0,9.56,499,44.08,Right-hand bat,188,110,4,1062.1,30.55,53.1,lc,1,IND,spin,yes,9.814444444444444,16.952222222222222
+1,700,700,IND,9,456,456,UT Yadav,PADLR Sandakan,11,1,1,9.56,499,44.08,Right-hand bat,193,119,4,1062.1,30.55,53.1,lc,0,IND,spin,yes,9.814444444444444,16.952222222222222
+1,701,701,IND,9,456,456,UT Yadav,PADLR Sandakan,11,1,2,9.56,499,44.08,Right-hand bat,194,119,4,1062.1,30.55,53.1,lc,1,IND,spin,yes,9.814444444444444,16.952222222222222
+1,727,727,IND,9,485,485,UT Yadav,PADLR Sandakan,11,3,8,9.56,499,44.08,Right-hand bat,208,132,4,1062.1,30.55,53.1,lc,0,IND,spin,yes,9.814444444444444,16.952222222222222
+1,728,728,IND,9,485,485,UT Yadav,PADLR Sandakan,11,3,9,9.56,499,44.08,Right-hand bat,209,132,4,1062.1,30.55,53.1,lc,0,IND,spin,yes,9.814444444444444,16.952222222222222
+1,729,729,IND,9,485,485,UT Yadav,PADLR Sandakan,11,3,10,9.56,499,44.08,Right-hand bat,210,132,4,1062.1,30.55,53.1,lc,0,IND,spin,yes,9.814444444444444,16.952222222222222
+1,730,730,IND,9,485,485,UT Yadav,PADLR Sandakan,11,3,11,9.56,499,44.08,Right-hand bat,211,132,4,1062.1,30.55,53.1,lc,0,IND,spin,yes,9.814444444444444,16.952222222222222
+1,731,731,IND,9,485,485,UT Yadav,PADLR Sandakan,11,3,12,9.56,499,44.08,Right-hand bat,212,132,4,1062.1,30.55,53.1,lc,0,IND,spin,yes,9.814444444444444,16.952222222222222
+1,732,732,IND,9,485,485,UT Yadav,PADLR Sandakan,11,3,13,9.56,499,44.08,Right-hand bat,213,132,4,1062.1,30.55,53.1,lc,0,IND,spin,yes,9.814444444444444,16.952222222222222

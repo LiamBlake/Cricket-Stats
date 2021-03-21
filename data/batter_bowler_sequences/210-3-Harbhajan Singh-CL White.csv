@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1887,319,IND,6,176,262,Harbhajan Singh,CL White,8,1,12,16.25,2095,63.62,Right-hand bat,4,8,0,558,68.4,111.6,rls,1,IND,spin,yes,11.375,21.125
+3,1889,321,IND,6,178,264,Harbhajan Singh,CL White,8,2,13,16.25,2095,63.62,Right-hand bat,6,10,0,558,68.4,111.6,rls,2,IND,spin,yes,11.375,21.125
+3,1896,328,IND,6,186,272,Harbhajan Singh,CL White,8,9,19,16.25,2095,63.62,Right-hand bat,7,12,0,558,68.4,111.6,rls,1,IND,spin,yes,11.375,21.125
+3,1898,330,IND,6,188,274,Harbhajan Singh,CL White,8,10,20,16.25,2095,63.62,Right-hand bat,9,14,0,558,68.4,111.6,rls,0,IND,spin,yes,11.375,21.125
+3,1899,331,IND,6,188,274,Harbhajan Singh,CL White,8,10,21,16.25,2095,63.62,Right-hand bat,10,14,0,558,68.4,111.6,rls,1,IND,spin,yes,11.375,21.125

@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1595,734,IND,7,451,-79,Mohammed Shami,MG Johnson,9,5,11,11.53,248,60.48,Right-hand bat,163,127,0,14406.5,27.83,50.9,lf,0,AUS,seam,no,33.98857142857143,8.497142857142858
+2,1596,735,IND,7,451,-79,Mohammed Shami,MG Johnson,9,5,12,11.53,248,60.48,Right-hand bat,164,127,0,14406.5,27.83,50.9,lf,1,AUS,seam,no,33.98857142857143,8.497142857142858
+2,1608,747,IND,7,461,-69,Mohammed Shami,MG Johnson,9,9,18,11.53,248,60.48,Right-hand bat,170,133,0,14406.5,27.83,50.9,lf,0,AUS,seam,no,33.98857142857143,8.497142857142858
+2,1609,748,IND,7,461,-69,Mohammed Shami,MG Johnson,9,9,19,11.53,248,60.48,Right-hand bat,171,133,0,14406.5,27.83,50.9,lf,0,AUS,seam,no,33.98857142857143,8.497142857142858
+2,1610,749,IND,7,461,-69,Mohammed Shami,MG Johnson,9,9,20,11.53,248,60.48,Right-hand bat,172,133,0,14406.5,27.83,50.9,lf,0,AUS,seam,no,33.98857142857143,8.497142857142858
+2,1611,750,IND,7,461,-69,Mohammed Shami,MG Johnson,9,9,21,11.53,248,60.48,Right-hand bat,173,133,0,14406.5,27.83,50.9,lf,0,AUS,seam,no,33.98857142857143,8.497142857142858
+2,1630,769,IND,9,463,-67,Mohammed Shami,MG Johnson,9,10,25,11.53,248,60.48,Right-hand bat,180,133,2,14406.5,27.83,50.9,lf,0,AUS,seam,no,33.98857142857143,8.497142857142858
+2,1631,770,IND,9,463,-67,Mohammed Shami,MG Johnson,9,10,26,11.53,248,60.48,Right-hand bat,181,133,2,14406.5,27.83,50.9,lf,0,AUS,seam,no,33.98857142857143,8.497142857142858
+2,1632,771,IND,9,463,-67,Mohammed Shami,MG Johnson,9,10,27,11.53,248,60.48,Right-hand bat,182,133,2,14406.5,27.83,50.9,lf,2,AUS,seam,no,33.98857142857143,8.497142857142858
+2,1633,772,IND,9,465,-65,Mohammed Shami,MG Johnson,9,12,28,11.53,248,60.48,Right-hand bat,183,135,2,14406.5,27.83,50.9,lf,0,AUS,seam,no,33.98857142857143,8.497142857142858
+2,1634,773,IND,9,465,-65,Mohammed Shami,MG Johnson,9,12,29,11.53,248,60.48,Right-hand bat,184,135,2,14406.5,27.83,50.9,lf,W,AUS,seam,no,33.98857142857143,8.497142857142858

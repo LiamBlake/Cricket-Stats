@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,359,359,AUS,4,171,171,TM Head,JJ Bumrah,6,13,15,35.62,617,46.19,Left-hand bat,93,30,1,2064.5,23.66,53,rf,0,AUS,seam,yes,18.6,6.2
+1,360,360,AUS,4,171,171,TM Head,JJ Bumrah,6,13,16,35.62,617,46.19,Left-hand bat,94,30,1,2064.5,23.66,53,rf,0,AUS,seam,yes,18.6,6.2
+1,361,361,AUS,4,171,171,TM Head,JJ Bumrah,6,13,17,35.62,617,46.19,Left-hand bat,95,30,1,2064.5,23.66,53,rf,0,AUS,seam,yes,18.6,6.2
+1,368,368,AUS,4,177,177,TM Head,JJ Bumrah,6,14,19,35.62,617,46.19,Left-hand bat,96,30,1,2064.5,23.66,53,rf,0,AUS,seam,yes,18.6,6.2
+1,369,369,AUS,4,177,177,TM Head,JJ Bumrah,6,14,20,35.62,617,46.19,Left-hand bat,97,30,1,2064.5,23.66,53,rf,0,AUS,seam,yes,18.6,6.2
+1,370,370,AUS,4,177,177,TM Head,JJ Bumrah,6,14,21,35.62,617,46.19,Left-hand bat,98,30,1,2064.5,23.66,53,rf,0,AUS,seam,yes,18.6,6.2
+1,371,371,AUS,4,177,177,TM Head,JJ Bumrah,6,14,22,35.62,617,46.19,Left-hand bat,99,30,1,2064.5,23.66,53,rf,2,AUS,seam,yes,18.6,6.2
+1,372,372,AUS,4,179,179,TM Head,JJ Bumrah,6,16,23,35.62,617,46.19,Left-hand bat,100,32,1,2064.5,23.66,53,rf,1,AUS,seam,yes,18.6,6.2

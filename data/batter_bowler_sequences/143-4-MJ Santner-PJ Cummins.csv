@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2005,360,NZL,6,154,-313,MJ Santner,PJ Cummins,8,0,0,26.33,1671,42.54,Left-hand bat,102,30,1,6348.5,22.18,47.4,rf,0,AUS,seam,no,19.76988823142669,5.1019066403681785
+4,2006,361,NZL,6,154,-313,MJ Santner,PJ Cummins,8,0,1,26.33,1671,42.54,Left-hand bat,103,30,1,6348.5,22.18,47.4,rf,0,AUS,seam,no,19.76988823142669,5.1019066403681785
+4,2007,362,NZL,6,154,-313,MJ Santner,PJ Cummins,8,0,2,26.33,1671,42.54,Left-hand bat,104,30,1,6348.5,22.18,47.4,rf,0,AUS,seam,no,19.76988823142669,5.1019066403681785
+4,2014,369,NZL,7,154,-313,MJ Santner,PJ Cummins,8,0,3,26.33,1671,42.54,Left-hand bat,105,30,1,6348.5,22.18,47.4,rf,0,AUS,seam,no,19.76988823142669,5.1019066403681785
+4,2015,370,NZL,7,154,-313,MJ Santner,PJ Cummins,8,0,4,26.33,1671,42.54,Left-hand bat,106,30,1,6348.5,22.18,47.4,rf,0,AUS,seam,no,19.76988823142669,5.1019066403681785
+4,2016,371,NZL,7,154,-313,MJ Santner,PJ Cummins,8,0,5,26.33,1671,42.54,Left-hand bat,107,30,1,6348.5,22.18,47.4,rf,0,AUS,seam,no,19.76988823142669,5.1019066403681785
+4,2017,372,NZL,7,154,-313,MJ Santner,PJ Cummins,8,0,6,26.33,1671,42.54,Left-hand bat,108,30,1,6348.5,22.18,47.4,rf,0,AUS,seam,no,19.76988823142669,5.1019066403681785
+4,2018,373,NZL,7,154,-313,MJ Santner,PJ Cummins,8,0,7,26.33,1671,42.54,Left-hand bat,109,30,1,6348.5,22.18,47.4,rf,W,AUS,seam,no,19.76988823142669,5.1019066403681785

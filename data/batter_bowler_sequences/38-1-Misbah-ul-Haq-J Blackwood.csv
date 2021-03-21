@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,930,930,PAK,3,568,568,Misbah-ul-Haq,J Blackwood,5,25,32,48.22,10473,44.66,Right-hand bat,1,1,0,240,82.5,120,rob,0,PAK,spin,yes,11.140495867768596,29.70798898071626
+1,931,931,PAK,3,568,568,Misbah-ul-Haq,J Blackwood,5,25,33,48.22,10473,44.66,Right-hand bat,2,1,0,240,82.5,120,rob,1,PAK,spin,yes,11.140495867768596,29.70798898071626
+1,934,934,PAK,3,570,570,Misbah-ul-Haq,J Blackwood,5,26,34,48.22,10473,44.66,Right-hand bat,5,3,0,240,82.5,120,rob,0,PAK,spin,yes,11.140495867768596,29.70798898071626
+1,941,941,PAK,3,574,574,Misbah-ul-Haq,J Blackwood,5,28,37,48.22,10473,44.66,Right-hand bat,6,3,0,240,82.5,120,rob,1,PAK,spin,yes,11.140495867768596,29.70798898071626

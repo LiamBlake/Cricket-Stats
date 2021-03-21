@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,517,517,SRL,5,259,259,MF Maharoof,CT Tremlett,7,9,19,19.1,1390,39.85,Right-hand bat,103,39,1,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+1,518,518,SRL,5,259,259,MF Maharoof,CT Tremlett,7,9,20,19.1,1390,39.85,Right-hand bat,104,39,1,1806.4,25.82,51.7,rmf,1,ENG,seam,yes,23.471999999999998,15.648
+1,520,520,SRL,5,261,261,MF Maharoof,CT Tremlett,7,10,21,19.1,1390,39.85,Right-hand bat,106,40,1,1806.4,25.82,51.7,rmf,1,ENG,seam,yes,23.471999999999998,15.648
+1,528,528,SRL,5,265,265,MF Maharoof,CT Tremlett,7,14,24,19.1,1390,39.85,Right-hand bat,108,41,1,1806.4,25.82,51.7,rmf,1,ENG,seam,yes,23.471999999999998,15.648
+1,532,532,SRL,5,269,269,MF Maharoof,CT Tremlett,7,15,25,19.1,1390,39.85,Right-hand bat,112,45,1,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+1,533,533,SRL,5,269,269,MF Maharoof,CT Tremlett,7,15,26,19.1,1390,39.85,Right-hand bat,113,45,1,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+1,540,540,SRL,5,275,275,MF Maharoof,CT Tremlett,7,16,31,19.1,1390,39.85,Right-hand bat,114,45,1,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+1,541,541,SRL,5,275,275,MF Maharoof,CT Tremlett,7,16,32,19.1,1390,39.85,Right-hand bat,115,45,1,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+1,542,542,SRL,5,275,275,MF Maharoof,CT Tremlett,7,16,33,19.1,1390,39.85,Right-hand bat,116,45,1,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+1,543,543,SRL,5,275,275,MF Maharoof,CT Tremlett,7,16,34,19.1,1390,39.85,Right-hand bat,117,45,1,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+1,544,544,SRL,5,275,275,MF Maharoof,CT Tremlett,7,16,35,19.1,1390,39.85,Right-hand bat,118,45,1,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+1,545,545,SRL,5,275,275,MF Maharoof,CT Tremlett,7,16,36,19.1,1390,39.85,Right-hand bat,119,45,1,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648

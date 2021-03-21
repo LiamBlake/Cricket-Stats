@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1136,320,WIN,4,113,-198,N Deonarine,MA Beer,6,2,26,31.13,1195,39.07,Left-hand bat,72,23,1,402.4,59.33,135.3,lo,0,WIN,spin,no,14.752222222222224,11.28111111111111
+2,1137,321,WIN,4,113,-198,N Deonarine,MA Beer,6,2,27,31.13,1195,39.07,Left-hand bat,73,23,1,402.4,59.33,135.3,lo,0,WIN,spin,no,14.752222222222224,11.28111111111111
+2,1138,322,WIN,4,113,-198,N Deonarine,MA Beer,6,2,28,31.13,1195,39.07,Left-hand bat,74,23,1,402.4,59.33,135.3,lo,0,WIN,spin,no,14.752222222222224,11.28111111111111
+2,1139,323,WIN,4,113,-198,N Deonarine,MA Beer,6,2,29,31.13,1195,39.07,Left-hand bat,75,23,1,402.4,59.33,135.3,lo,0,WIN,spin,no,14.752222222222224,11.28111111111111
+2,1140,324,WIN,4,113,-198,N Deonarine,MA Beer,6,2,30,31.13,1195,39.07,Left-hand bat,76,23,1,402.4,59.33,135.3,lo,0,WIN,spin,no,14.752222222222224,11.28111111111111
+2,1141,325,WIN,4,113,-198,N Deonarine,MA Beer,6,2,31,31.13,1195,39.07,Left-hand bat,77,23,1,402.4,59.33,135.3,lo,0,WIN,spin,no,14.752222222222224,11.28111111111111
+2,1161,345,WIN,4,118,-193,N Deonarine,MA Beer,6,3,39,31.13,1195,39.07,Left-hand bat,84,24,1,402.4,59.33,135.3,lo,0,WIN,spin,no,14.752222222222224,11.28111111111111
+2,1162,346,WIN,4,118,-193,N Deonarine,MA Beer,6,3,40,31.13,1195,39.07,Left-hand bat,85,24,1,402.4,59.33,135.3,lo,0,WIN,spin,no,14.752222222222224,11.28111111111111
+2,1163,347,WIN,4,118,-193,N Deonarine,MA Beer,6,3,41,31.13,1195,39.07,Left-hand bat,86,24,1,402.4,59.33,135.3,lo,1,WIN,spin,no,14.752222222222224,11.28111111111111
+2,1231,415,WIN,4,171,-140,N Deonarine,MA Beer,6,26,76,31.13,1195,39.07,Left-hand bat,98,31,1,402.4,59.33,135.3,lo,0,WIN,spin,no,14.752222222222224,11.28111111111111
+2,1232,416,WIN,4,171,-140,N Deonarine,MA Beer,6,26,77,31.13,1195,39.07,Left-hand bat,99,31,1,402.4,59.33,135.3,lo,0,WIN,spin,no,14.752222222222224,11.28111111111111
+2,1233,417,WIN,4,171,-140,N Deonarine,MA Beer,6,26,78,31.13,1195,39.07,Left-hand bat,100,31,1,402.4,59.33,135.3,lo,0,WIN,spin,no,14.752222222222224,11.28111111111111
+2,1234,418,WIN,4,171,-140,N Deonarine,MA Beer,6,26,79,31.13,1195,39.07,Left-hand bat,101,31,1,402.4,59.33,135.3,lo,1,WIN,spin,no,14.752222222222224,11.28111111111111

@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1598,839,NZL,8,669,318,IS Sodhi,Mohammad Hafeez,10,10,25,25.92,553,60.94,Right-hand bat,122,92,1,3474.5,35.23,80.9,rob,0,NZL,spin,no,13,30.333333333333332
+2,1599,840,NZL,8,669,318,IS Sodhi,Mohammad Hafeez,10,10,26,25.92,553,60.94,Right-hand bat,123,92,1,3474.5,35.23,80.9,rob,1,NZL,spin,no,13,30.333333333333332
+2,1602,843,NZL,8,671,320,IS Sodhi,Mohammad Hafeez,10,11,27,25.92,553,60.94,Right-hand bat,126,94,1,3474.5,35.23,80.9,rob,1,NZL,spin,no,13,30.333333333333332
+2,1611,852,NZL,8,681,330,IS Sodhi,Mohammad Hafeez,10,13,31,25.92,553,60.94,Right-hand bat,129,102,1,3474.5,35.23,80.9,rob,0,NZL,spin,no,13,30.333333333333332
+2,1612,853,NZL,8,681,330,IS Sodhi,Mohammad Hafeez,10,13,32,25.92,553,60.94,Right-hand bat,130,102,1,3474.5,35.23,80.9,rob,0,NZL,spin,no,13,30.333333333333332
+2,1613,854,NZL,8,681,330,IS Sodhi,Mohammad Hafeez,10,13,33,25.92,553,60.94,Right-hand bat,131,102,1,3474.5,35.23,80.9,rob,1,NZL,spin,no,13,30.333333333333332
+2,1621,862,NZL,9,683,332,IS Sodhi,Mohammad Hafeez,10,15,39,25.92,553,60.94,Right-hand bat,133,103,2,3474.5,35.23,80.9,rob,6,NZL,spin,no,13,30.333333333333332
+2,1622,863,NZL,9,689,338,IS Sodhi,Mohammad Hafeez,10,21,40,25.92,553,60.94,Right-hand bat,134,109,2,3474.5,35.23,80.9,rob,0,NZL,spin,no,13,30.333333333333332
+2,1623,864,NZL,9,689,338,IS Sodhi,Mohammad Hafeez,10,21,41,25.92,553,60.94,Right-hand bat,135,109,2,3474.5,35.23,80.9,rob,1,NZL,spin,no,13,30.333333333333332

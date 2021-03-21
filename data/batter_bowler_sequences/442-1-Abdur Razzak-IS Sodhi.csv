@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,421,421,BAN,7,258,258,Abdur Razzak,IS Sodhi,9,0,0,16.71,363,64.46,Left-hand bat,96,46,2,432,44.16,72,rls,0,BAN,spin,yes,18.676748582230626,24.279773156899815
+1,422,422,BAN,7,258,258,Abdur Razzak,IS Sodhi,9,0,1,16.71,363,64.46,Left-hand bat,97,46,2,432,44.16,72,rls,0,BAN,spin,yes,18.676748582230626,24.279773156899815
+1,423,423,BAN,7,258,258,Abdur Razzak,IS Sodhi,9,0,2,16.71,363,64.46,Left-hand bat,98,46,2,432,44.16,72,rls,1,BAN,spin,yes,18.676748582230626,24.279773156899815
+1,433,433,BAN,8,270,270,Abdur Razzak,IS Sodhi,9,1,3,16.71,363,64.46,Left-hand bat,102,48,2,432,44.16,72,rls,2,BAN,spin,yes,18.676748582230626,24.279773156899815
+1,434,434,BAN,8,272,272,Abdur Razzak,IS Sodhi,9,3,4,16.71,363,64.46,Left-hand bat,103,50,2,432,44.16,72,rls,0,BAN,spin,yes,18.676748582230626,24.279773156899815
+1,435,435,BAN,8,272,272,Abdur Razzak,IS Sodhi,9,3,5,16.71,363,64.46,Left-hand bat,104,50,2,432,44.16,72,rls,1,BAN,spin,yes,18.676748582230626,24.279773156899815
+1,445,445,BAN,9,274,274,Abdur Razzak,IS Sodhi,9,5,10,16.71,363,64.46,Left-hand bat,108,51,2,432,44.16,72,rls,2,BAN,spin,yes,18.676748582230626,24.279773156899815
+1,446,446,BAN,9,276,276,Abdur Razzak,IS Sodhi,9,7,11,16.71,363,64.46,Left-hand bat,109,53,2,432,44.16,72,rls,6,BAN,spin,yes,18.676748582230626,24.279773156899815
+1,447,447,BAN,9,282,282,Abdur Razzak,IS Sodhi,9,13,12,16.71,363,64.46,Left-hand bat,110,59,2,432,44.16,72,rls,0,BAN,spin,yes,18.676748582230626,24.279773156899815
+1,448,448,BAN,9,282,282,Abdur Razzak,IS Sodhi,9,13,13,16.71,363,64.46,Left-hand bat,111,59,2,432,44.16,72,rls,0,BAN,spin,yes,18.676748582230626,24.279773156899815
+1,449,449,BAN,9,282,282,Abdur Razzak,IS Sodhi,9,13,14,16.71,363,64.46,Left-hand bat,112,59,2,432,44.16,72,rls,W,BAN,spin,yes,18.676748582230626,24.279773156899815

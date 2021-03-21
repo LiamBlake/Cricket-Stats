@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2667,286,BAN,3,164,-91,Shakib Al Hasan,LRPL Taylor,5,42,33,36.66,3407,60.25,Left-hand bat,0,0,0,96,24,48,rob,2,BAN,spin,no,12.71111111111111,34.95555555555555
+4,2668,287,BAN,3,166,-89,Shakib Al Hasan,LRPL Taylor,5,44,34,36.66,3407,60.25,Left-hand bat,1,2,0,96,24,48,rob,0,BAN,spin,no,12.71111111111111,34.95555555555555
+4,2669,288,BAN,3,166,-89,Shakib Al Hasan,LRPL Taylor,5,44,35,36.66,3407,60.25,Left-hand bat,2,2,0,96,24,48,rob,1,BAN,spin,no,12.71111111111111,34.95555555555555
+4,2672,291,BAN,3,168,-87,Shakib Al Hasan,LRPL Taylor,5,45,36,36.66,3407,60.25,Left-hand bat,5,4,0,96,24,48,rob,1,BAN,spin,no,12.71111111111111,34.95555555555555

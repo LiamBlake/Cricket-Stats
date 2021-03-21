@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2113,45,PAK,2,11,-176,Younis Khan,AS Joseph,4,0,0,52.32,19227,52.24,Right-hand bat,21,6,1,738.5,32.45,67.5,rfm,0,WIN,seam,no,17.786250000000003,8.56375
+4,2114,46,PAK,2,11,-176,Younis Khan,AS Joseph,4,0,1,52.32,19227,52.24,Right-hand bat,22,6,1,738.5,32.45,67.5,rfm,0,WIN,seam,no,17.786250000000003,8.56375
+4,2115,47,PAK,2,11,-176,Younis Khan,AS Joseph,4,0,2,52.32,19227,52.24,Right-hand bat,23,6,1,738.5,32.45,67.5,rfm,0,WIN,seam,no,17.786250000000003,8.56375
+4,2135,67,PAK,2,22,-165,Younis Khan,AS Joseph,4,1,8,52.32,19227,52.24,Right-hand bat,30,14,1,738.5,32.45,67.5,rfm,0,WIN,seam,no,17.786250000000003,8.56375
+4,2136,68,PAK,2,22,-165,Younis Khan,AS Joseph,4,1,9,52.32,19227,52.24,Right-hand bat,31,14,1,738.5,32.45,67.5,rfm,0,WIN,seam,no,17.786250000000003,8.56375
+4,2137,69,PAK,2,22,-165,Younis Khan,AS Joseph,4,1,10,52.32,19227,52.24,Right-hand bat,32,14,1,738.5,32.45,67.5,rfm,0,WIN,seam,no,17.786250000000003,8.56375
+4,2138,70,PAK,2,22,-165,Younis Khan,AS Joseph,4,1,11,52.32,19227,52.24,Right-hand bat,33,14,1,738.5,32.45,67.5,rfm,0,WIN,seam,no,17.786250000000003,8.56375
+4,2139,71,PAK,2,22,-165,Younis Khan,AS Joseph,4,1,12,52.32,19227,52.24,Right-hand bat,34,14,1,738.5,32.45,67.5,rfm,4,WIN,seam,no,17.786250000000003,8.56375
+4,2140,72,PAK,2,26,-161,Younis Khan,AS Joseph,4,5,13,52.32,19227,52.24,Right-hand bat,35,18,1,738.5,32.45,67.5,rfm,0,WIN,seam,no,17.786250000000003,8.56375

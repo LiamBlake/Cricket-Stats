@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2340,1109,PAK,8,430,182,Danish Kaneria,DL Vettori,10,0,0,6.81,606,48.34,Right-hand bat,306,77,2,24036.1,33.61,76.7,lo,0,NZL,spin,yes,24.779999999999998,16.52
+3,2341,1110,PAK,8,430,182,Danish Kaneria,DL Vettori,10,0,1,6.81,606,48.34,Right-hand bat,307,77,2,24036.1,33.61,76.7,lo,0,NZL,spin,yes,24.779999999999998,16.52
+3,2342,1111,PAK,8,430,182,Danish Kaneria,DL Vettori,10,0,2,6.81,606,48.34,Right-hand bat,308,77,2,24036.1,33.61,76.7,lo,0,NZL,spin,yes,24.779999999999998,16.52
+3,2343,1112,PAK,8,430,182,Danish Kaneria,DL Vettori,10,0,3,6.81,606,48.34,Right-hand bat,309,77,2,24036.1,33.61,76.7,lo,4,NZL,spin,yes,24.779999999999998,16.52
+3,2344,1113,PAK,8,434,186,Danish Kaneria,DL Vettori,10,4,4,6.81,606,48.34,Right-hand bat,310,81,2,24036.1,33.61,76.7,lo,0,NZL,spin,yes,24.779999999999998,16.52
+3,2345,1114,PAK,8,434,186,Danish Kaneria,DL Vettori,10,4,5,6.81,606,48.34,Right-hand bat,311,81,2,24036.1,33.61,76.7,lo,0,NZL,spin,yes,24.779999999999998,16.52

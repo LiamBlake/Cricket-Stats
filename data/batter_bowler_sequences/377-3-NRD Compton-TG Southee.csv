@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,869,6,ENG,0,2,182,NRD Compton,TG Southee,2,1,1,31.93,1381,34.68,Right-hand bat,0,0,0,5406,34.33,65.1,rmf,1,ENG,seam,yes,17.742857142857144,11.82857142857143
+3,873,10,ENG,0,4,184,NRD Compton,TG Southee,2,2,2,31.93,1381,34.68,Right-hand bat,4,2,0,5406,34.33,65.1,rmf,0,ENG,seam,yes,17.742857142857144,11.82857142857143
+3,874,11,ENG,0,4,184,NRD Compton,TG Southee,2,2,3,31.93,1381,34.68,Right-hand bat,5,2,0,5406,34.33,65.1,rmf,0,ENG,seam,yes,17.742857142857144,11.82857142857143
+3,881,18,ENG,0,4,184,NRD Compton,TG Southee,2,2,4,31.93,1381,34.68,Right-hand bat,6,2,0,5406,34.33,65.1,rmf,0,ENG,seam,yes,17.742857142857144,11.82857142857143
+3,882,19,ENG,0,4,184,NRD Compton,TG Southee,2,2,5,31.93,1381,34.68,Right-hand bat,7,2,0,5406,34.33,65.1,rmf,0,ENG,seam,yes,17.742857142857144,11.82857142857143
+3,883,20,ENG,0,4,184,NRD Compton,TG Southee,2,2,6,31.93,1381,34.68,Right-hand bat,8,2,0,5406,34.33,65.1,rmf,0,ENG,seam,yes,17.742857142857144,11.82857142857143
+3,884,21,ENG,0,4,184,NRD Compton,TG Southee,2,2,7,31.93,1381,34.68,Right-hand bat,9,2,0,5406,34.33,65.1,rmf,0,ENG,seam,yes,17.742857142857144,11.82857142857143
+3,885,22,ENG,0,4,184,NRD Compton,TG Southee,2,2,8,31.93,1381,34.68,Right-hand bat,10,2,0,5406,34.33,65.1,rmf,0,ENG,seam,yes,17.742857142857144,11.82857142857143
+3,886,23,ENG,0,4,184,NRD Compton,TG Southee,2,2,9,31.93,1381,34.68,Right-hand bat,11,2,0,5406,34.33,65.1,rmf,0,ENG,seam,yes,17.742857142857144,11.82857142857143
+3,909,46,ENG,0,42,222,NRD Compton,TG Southee,2,2,12,31.93,1381,34.68,Right-hand bat,22,18,0,5406,34.33,65.1,rmf,1,ENG,seam,yes,17.742857142857144,11.82857142857143

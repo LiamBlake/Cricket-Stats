@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,661,97,IND,1,44,-239,PA Patel,BA Stokes,2,27,53,33,1666,47.53,Left-hand bat,6,4,1,4614.1,33.52,59.1,rfm,0,IND,seam,no,14.21875,18.28125
+2,662,98,IND,1,44,-239,PA Patel,BA Stokes,2,27,54,33,1666,47.53,Left-hand bat,7,4,1,4614.1,33.52,59.1,rfm,1lb,IND,seam,no,14.21875,18.28125
+2,685,121,IND,1,58,-225,PA Patel,BA Stokes,2,35,62,33,1666,47.53,Left-hand bat,18,8,1,4614.1,33.52,59.1,rfm,0,IND,seam,no,14.21875,18.28125
+2,686,122,IND,1,58,-225,PA Patel,BA Stokes,2,35,63,33,1666,47.53,Left-hand bat,19,8,1,4614.1,33.52,59.1,rfm,0,IND,seam,no,14.21875,18.28125
+2,687,123,IND,1,58,-225,PA Patel,BA Stokes,2,35,64,33,1666,47.53,Left-hand bat,20,8,1,4614.1,33.52,59.1,rfm,0,IND,seam,no,14.21875,18.28125
+2,688,124,IND,1,58,-225,PA Patel,BA Stokes,2,35,65,33,1666,47.53,Left-hand bat,21,8,1,4614.1,33.52,59.1,rfm,0,IND,seam,no,14.21875,18.28125
+2,689,125,IND,1,58,-225,PA Patel,BA Stokes,2,35,66,33,1666,47.53,Left-hand bat,22,8,1,4614.1,33.52,59.1,rfm,0,IND,seam,no,14.21875,18.28125
+2,690,126,IND,1,58,-225,PA Patel,BA Stokes,2,35,67,33,1666,47.53,Left-hand bat,23,8,1,4614.1,33.52,59.1,rfm,1,IND,seam,no,14.21875,18.28125

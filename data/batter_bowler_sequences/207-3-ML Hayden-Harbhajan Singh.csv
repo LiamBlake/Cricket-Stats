@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1666,43,AUS,0,10,80,ML Hayden,Harbhajan Singh,1,3,19,52.91,13750,60.03,Left-hand bat,6,0,0,19356.4,31.17,65.8,rob,0,IND,spin,yes,31.866666666666667,7.966666666666667
+3,1667,44,AUS,0,10,80,ML Hayden,Harbhajan Singh,1,3,20,52.91,13750,60.03,Left-hand bat,7,0,0,19356.4,31.17,65.8,rob,4,IND,spin,yes,31.866666666666667,7.966666666666667
+3,1668,45,AUS,0,14,84,ML Hayden,Harbhajan Singh,1,7,21,52.91,13750,60.03,Left-hand bat,8,4,0,19356.4,31.17,65.8,rob,0,IND,spin,yes,31.866666666666667,7.966666666666667
+3,1669,46,AUS,0,14,84,ML Hayden,Harbhajan Singh,1,7,22,52.91,13750,60.03,Left-hand bat,9,4,0,19356.4,31.17,65.8,rob,0,IND,spin,yes,31.866666666666667,7.966666666666667
+3,1670,47,AUS,0,14,84,ML Hayden,Harbhajan Singh,1,7,23,52.91,13750,60.03,Left-hand bat,10,4,0,19356.4,31.17,65.8,rob,0,IND,spin,yes,31.866666666666667,7.966666666666667
+3,1671,48,AUS,0,14,84,ML Hayden,Harbhajan Singh,1,7,24,52.91,13750,60.03,Left-hand bat,11,4,0,19356.4,31.17,65.8,rob,0,IND,spin,yes,31.866666666666667,7.966666666666667
+3,1678,55,AUS,0,14,84,ML Hayden,Harbhajan Singh,1,7,25,52.91,13750,60.03,Left-hand bat,12,4,0,19356.4,31.17,65.8,rob,0,IND,spin,yes,31.866666666666667,7.966666666666667
+3,1679,56,AUS,0,14,84,ML Hayden,Harbhajan Singh,1,7,26,52.91,13750,60.03,Left-hand bat,13,4,0,19356.4,31.17,65.8,rob,0,IND,spin,yes,31.866666666666667,7.966666666666667
+3,1680,57,AUS,0,14,84,ML Hayden,Harbhajan Singh,1,7,27,52.91,13750,60.03,Left-hand bat,14,4,0,19356.4,31.17,65.8,rob,2,IND,spin,yes,31.866666666666667,7.966666666666667
+3,1681,58,AUS,0,16,86,ML Hayden,Harbhajan Singh,1,9,28,52.91,13750,60.03,Left-hand bat,15,6,0,19356.4,31.17,65.8,rob,0,IND,spin,yes,31.866666666666667,7.966666666666667
+3,1682,59,AUS,0,16,86,ML Hayden,Harbhajan Singh,1,9,29,52.91,13750,60.03,Left-hand bat,16,6,0,19356.4,31.17,65.8,rob,0,IND,spin,yes,31.866666666666667,7.966666666666667
+3,1683,60,AUS,0,16,86,ML Hayden,Harbhajan Singh,1,9,30,52.91,13750,60.03,Left-hand bat,17,6,0,19356.4,31.17,65.8,rob,1,IND,spin,yes,31.866666666666667,7.966666666666667
+3,1693,70,AUS,0,20,90,ML Hayden,Harbhajan Singh,1,12,37,52.91,13750,60.03,Left-hand bat,21,8,0,19356.4,31.17,65.8,rob,1,IND,spin,yes,31.866666666666667,7.966666666666667

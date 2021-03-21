@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,820,50,AUS,2,40,98,MEK Hussey,IE O'Brien,4,0,0,64.04,5482,50.23,Left-hand bat,2,2,1,1800.4,27.71,56.3,rfm,0,AUS,seam,no,18.846875,1.528125
+3,821,51,AUS,2,40,98,MEK Hussey,IE O'Brien,4,0,1,64.04,5482,50.23,Left-hand bat,3,2,1,1800.4,27.71,56.3,rfm,0,AUS,seam,no,18.846875,1.528125
+3,822,52,AUS,2,40,98,MEK Hussey,IE O'Brien,4,0,2,64.04,5482,50.23,Left-hand bat,4,2,1,1800.4,27.71,56.3,rfm,0,AUS,seam,no,18.846875,1.528125
+3,823,53,AUS,2,40,98,MEK Hussey,IE O'Brien,4,0,3,64.04,5482,50.23,Left-hand bat,5,2,1,1800.4,27.71,56.3,rfm,W,AUS,seam,no,18.846875,1.528125

@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,914,914,AUS,6,565,565,RJ Harris,Mohammed Shami,8,19,6,21.53,955,63.14,Right-hand bat,168,105,4,2676.3,36.14,57,rf,4,AUS,seam,yes,36.166666666666664,15.5
+1,915,915,AUS,6,569,569,RJ Harris,Mohammed Shami,8,23,7,21.53,955,63.14,Right-hand bat,169,109,4,2676.3,36.14,57,rf,2,AUS,seam,yes,36.166666666666664,15.5
+1,916,916,AUS,6,571,571,RJ Harris,Mohammed Shami,8,25,8,21.53,955,63.14,Right-hand bat,170,111,4,2676.3,36.14,57,rf,1wd,AUS,seam,yes,36.166666666666664,15.5
+1,917,917,AUS,6,572,572,RJ Harris,Mohammed Shami,8,25,8,21.53,955,63.14,Right-hand bat,171,112,4,2676.3,36.14,57,rf,W,AUS,seam,yes,36.166666666666664,15.5

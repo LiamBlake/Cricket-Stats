@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1376,242,RSA,5,91,31,MV Boucher,V Sehwag,7,1,1,30.02,8475,49.95,Right-hand bat,30,8,2,1734.1,36.29,72.2,rob,0,IND,spin,yes,10.595703125,13.623046875
+3,1377,243,RSA,5,91,31,MV Boucher,V Sehwag,7,1,2,30.02,8475,49.95,Right-hand bat,31,8,2,1734.1,36.29,72.2,rob,1,IND,spin,yes,10.595703125,13.623046875
+3,1388,254,RSA,5,93,33,MV Boucher,V Sehwag,7,3,6,30.02,8475,49.95,Right-hand bat,36,9,2,1734.1,36.29,72.2,rob,1,IND,spin,yes,10.595703125,13.623046875
+3,1392,258,RSA,5,99,39,MV Boucher,V Sehwag,7,4,7,30.02,8475,49.95,Right-hand bat,40,11,2,1734.1,36.29,72.2,rob,0,IND,spin,yes,10.595703125,13.623046875
+3,1393,259,RSA,5,99,39,MV Boucher,V Sehwag,7,4,8,30.02,8475,49.95,Right-hand bat,41,11,2,1734.1,36.29,72.2,rob,0,IND,spin,yes,10.595703125,13.623046875

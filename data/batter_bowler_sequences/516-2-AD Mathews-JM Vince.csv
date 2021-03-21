@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,642,92,SRL,3,33,-265,AD Mathews,JM Vince,5,6,26,49.43,8154,49.71,Right-hand bat,0,0,0,6,NA,NA,rm,4,ENG,seam,yes,15.24,1.6933333333333331
+2,643,93,SRL,3,37,-261,AD Mathews,JM Vince,5,10,27,49.43,8154,49.71,Right-hand bat,1,4,0,6,NA,NA,rm,1,ENG,seam,yes,15.24,1.6933333333333331
+2,646,96,SRL,3,39,-259,AD Mathews,JM Vince,5,11,28,49.43,8154,49.71,Right-hand bat,4,6,0,6,NA,NA,rm,0,ENG,seam,yes,15.24,1.6933333333333331
+2,647,97,SRL,3,39,-259,AD Mathews,JM Vince,5,11,29,49.43,8154,49.71,Right-hand bat,5,6,0,6,NA,NA,rm,4,ENG,seam,yes,15.24,1.6933333333333331

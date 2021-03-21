@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1869,78,NZL,4,23,-397,LRPL Taylor,NM Lyon,4,8,27,46.28,11945,60.05,Right-hand bat,12,0,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,1870,79,NZL,4,23,-397,LRPL Taylor,NM Lyon,4,8,28,46.28,11945,60.05,Right-hand bat,13,0,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,1871,80,NZL,4,23,-397,LRPL Taylor,NM Lyon,4,8,29,46.28,11945,60.05,Right-hand bat,14,0,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,1872,81,NZL,4,23,-397,LRPL Taylor,NM Lyon,4,8,30,46.28,11945,60.05,Right-hand bat,15,0,2,24564.4,31.58,62.9,rob,2,AUS,spin,no,16.609375,15.5712890625
+4,1873,82,NZL,4,25,-395,LRPL Taylor,NM Lyon,4,10,31,46.28,11945,60.05,Right-hand bat,16,2,2,24564.4,31.58,62.9,rob,2,AUS,spin,no,16.609375,15.5712890625
+4,1874,83,NZL,4,27,-393,LRPL Taylor,NM Lyon,4,12,32,46.28,11945,60.05,Right-hand bat,17,4,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,1881,90,NZL,4,27,-393,LRPL Taylor,NM Lyon,4,12,33,46.28,11945,60.05,Right-hand bat,18,4,2,24564.4,31.58,62.9,rob,1,AUS,spin,no,16.609375,15.5712890625
+4,1886,95,NZL,4,29,-391,LRPL Taylor,NM Lyon,4,13,34,46.28,11945,60.05,Right-hand bat,23,6,2,24564.4,31.58,62.9,rob,4,AUS,spin,no,16.609375,15.5712890625
+4,1893,102,NZL,4,33,-387,LRPL Taylor,NM Lyon,4,17,35,46.28,11945,60.05,Right-hand bat,24,10,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,1894,103,NZL,4,33,-387,LRPL Taylor,NM Lyon,4,17,36,46.28,11945,60.05,Right-hand bat,25,10,2,24564.4,31.58,62.9,rob,2,AUS,spin,no,16.609375,15.5712890625
+4,1895,104,NZL,4,35,-385,LRPL Taylor,NM Lyon,4,19,37,46.28,11945,60.05,Right-hand bat,26,12,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+4,1896,105,NZL,4,35,-385,LRPL Taylor,NM Lyon,4,19,38,46.28,11945,60.05,Right-hand bat,27,12,2,24564.4,31.58,62.9,rob,3,AUS,spin,no,16.609375,15.5712890625

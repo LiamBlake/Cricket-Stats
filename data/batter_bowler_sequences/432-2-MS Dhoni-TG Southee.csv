@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1006,268,IND,5,138,-365,MS Dhoni,TG Southee,7,0,0,38.51,7337,59.84,Right-hand bat,85,29,2,6306.5,30.79,58.9,rmf,0,NZL,seam,yes,27.93,1.47
+2,1007,269,IND,5,138,-365,MS Dhoni,TG Southee,7,0,1,38.51,7337,59.84,Right-hand bat,86,29,2,6306.5,30.79,58.9,rmf,0,NZL,seam,yes,27.93,1.47
+2,1008,270,IND,5,138,-365,MS Dhoni,TG Southee,7,0,2,38.51,7337,59.84,Right-hand bat,87,29,2,6306.5,30.79,58.9,rmf,0,NZL,seam,yes,27.93,1.47
+2,1009,271,IND,5,138,-365,MS Dhoni,TG Southee,7,0,3,38.51,7337,59.84,Right-hand bat,88,29,2,6306.5,30.79,58.9,rmf,0,NZL,seam,yes,27.93,1.47
+2,1010,272,IND,5,138,-365,MS Dhoni,TG Southee,7,0,4,38.51,7337,59.84,Right-hand bat,89,29,2,6306.5,30.79,58.9,rmf,0,NZL,seam,yes,27.93,1.47
+2,1029,291,IND,6,144,-359,MS Dhoni,TG Southee,7,2,10,38.51,7337,59.84,Right-hand bat,96,29,2,6306.5,30.79,58.9,rmf,1,NZL,seam,yes,27.93,1.47
+2,1033,295,IND,6,146,-357,MS Dhoni,TG Southee,7,3,11,38.51,7337,59.84,Right-hand bat,100,31,2,6306.5,30.79,58.9,rmf,0,NZL,seam,yes,27.93,1.47
+2,1034,296,IND,6,146,-357,MS Dhoni,TG Southee,7,3,12,38.51,7337,59.84,Right-hand bat,101,31,2,6306.5,30.79,58.9,rmf,0,NZL,seam,yes,27.93,1.47
+2,1041,303,IND,6,150,-353,MS Dhoni,TG Southee,7,3,13,38.51,7337,59.84,Right-hand bat,102,31,2,6306.5,30.79,58.9,rmf,0,NZL,seam,yes,27.93,1.47
+2,1042,304,IND,6,150,-353,MS Dhoni,TG Southee,7,3,14,38.51,7337,59.84,Right-hand bat,103,31,2,6306.5,30.79,58.9,rmf,0,NZL,seam,yes,27.93,1.47
+2,1043,305,IND,6,150,-353,MS Dhoni,TG Southee,7,3,15,38.51,7337,59.84,Right-hand bat,104,31,2,6306.5,30.79,58.9,rmf,0,NZL,seam,yes,27.93,1.47
+2,1044,306,IND,6,150,-353,MS Dhoni,TG Southee,7,3,16,38.51,7337,59.84,Right-hand bat,105,31,2,6306.5,30.79,58.9,rmf,0,NZL,seam,yes,27.93,1.47
+2,1045,307,IND,6,150,-353,MS Dhoni,TG Southee,7,3,17,38.51,7337,59.84,Right-hand bat,106,31,2,6306.5,30.79,58.9,rmf,1,NZL,seam,yes,27.93,1.47

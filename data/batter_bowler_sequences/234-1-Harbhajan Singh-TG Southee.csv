@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,451,451,IND,6,266,266,Harbhajan Singh,TG Southee,8,34,47,17,2303,64.95,Right-hand bat,78,65,1,924.3,47.91,77.2,rmf,2,NZL,seam,no,27.400816326530613,9.484897959183675
+1,452,452,IND,6,268,268,Harbhajan Singh,TG Southee,8,36,48,17,2303,64.95,Right-hand bat,79,67,1,924.3,47.91,77.2,rmf,0,NZL,seam,no,27.400816326530613,9.484897959183675
+1,453,453,IND,6,268,268,Harbhajan Singh,TG Southee,8,36,49,17,2303,64.95,Right-hand bat,80,67,1,924.3,47.91,77.2,rmf,0,NZL,seam,no,27.400816326530613,9.484897959183675
+1,454,454,IND,6,268,268,Harbhajan Singh,TG Southee,8,36,50,17,2303,64.95,Right-hand bat,81,67,1,924.3,47.91,77.2,rmf,1lb,NZL,seam,no,27.400816326530613,9.484897959183675
+1,463,463,IND,6,274,274,Harbhajan Singh,TG Southee,8,36,51,17,2303,64.95,Right-hand bat,84,70,1,924.3,47.91,77.2,rmf,2,NZL,seam,no,27.400816326530613,9.484897959183675
+1,464,464,IND,6,276,276,Harbhajan Singh,TG Southee,8,38,52,17,2303,64.95,Right-hand bat,85,72,1,924.3,47.91,77.2,rmf,1,NZL,seam,no,27.400816326530613,9.484897959183675
+1,496,496,IND,7,306,306,Harbhajan Singh,TG Southee,8,55,71,17,2303,64.95,Right-hand bat,96,79,2,924.3,47.91,77.2,rmf,4,NZL,seam,no,27.400816326530613,9.484897959183675
+1,497,497,IND,7,310,310,Harbhajan Singh,TG Southee,8,59,72,17,2303,64.95,Right-hand bat,97,83,2,924.3,47.91,77.2,rmf,0,NZL,seam,no,27.400816326530613,9.484897959183675
+1,498,498,IND,7,310,310,Harbhajan Singh,TG Southee,8,59,73,17,2303,64.95,Right-hand bat,98,83,2,924.3,47.91,77.2,rmf,4lb,NZL,seam,no,27.400816326530613,9.484897959183675
+1,499,499,IND,7,314,314,Harbhajan Singh,TG Southee,8,59,74,17,2303,64.95,Right-hand bat,99,83,2,924.3,47.91,77.2,rmf,0,NZL,seam,no,27.400816326530613,9.484897959183675
+1,500,500,IND,7,314,314,Harbhajan Singh,TG Southee,8,59,75,17,2303,64.95,Right-hand bat,100,83,2,924.3,47.91,77.2,rmf,0,NZL,seam,no,27.400816326530613,9.484897959183675
+1,501,501,IND,7,314,314,Harbhajan Singh,TG Southee,8,59,76,17,2303,64.95,Right-hand bat,101,83,2,924.3,47.91,77.2,rmf,1,NZL,seam,no,27.400816326530613,9.484897959183675

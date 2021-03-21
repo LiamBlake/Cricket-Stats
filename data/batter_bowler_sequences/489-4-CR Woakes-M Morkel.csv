@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2104,177,ENG,7,83,-298,CR Woakes,M Morkel,9,0,0,21.5,222,58.1,Right-hand bat,56,22,3,13638.2,29.33,56.3,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2105,178,ENG,7,83,-298,CR Woakes,M Morkel,9,0,1,21.5,222,58.1,Right-hand bat,57,22,3,13638.2,29.33,56.3,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2106,179,ENG,7,83,-298,CR Woakes,M Morkel,9,0,2,21.5,222,58.1,Right-hand bat,58,22,3,13638.2,29.33,56.3,rf,4,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2107,180,ENG,7,87,-294,CR Woakes,M Morkel,9,4,3,21.5,222,58.1,Right-hand bat,59,26,3,13638.2,29.33,56.3,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2115,188,ENG,7,88,-293,CR Woakes,M Morkel,9,4,4,21.5,222,58.1,Right-hand bat,60,26,3,13638.2,29.33,56.3,rf,0,RSA,seam,no,29.506938775510207,3.8073469387755106
+4,2116,189,ENG,7,88,-293,CR Woakes,M Morkel,9,4,5,21.5,222,58.1,Right-hand bat,61,26,3,13638.2,29.33,56.3,rf,1,RSA,seam,no,29.506938775510207,3.8073469387755106

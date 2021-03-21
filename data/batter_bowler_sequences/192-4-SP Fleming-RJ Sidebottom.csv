@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1623,37,NZL,1,18,-419,SP Fleming,RJ Sidebottom,3,0,0,39.81,15477,45.53,Left-hand bat,19,7,1,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,1624,38,NZL,1,18,-419,SP Fleming,RJ Sidebottom,3,0,1,39.81,15477,45.53,Left-hand bat,20,7,1,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,1625,39,NZL,1,18,-419,SP Fleming,RJ Sidebottom,3,0,2,39.81,15477,45.53,Left-hand bat,21,7,1,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,1626,40,NZL,1,18,-419,SP Fleming,RJ Sidebottom,3,0,3,39.81,15477,45.53,Left-hand bat,22,7,1,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,1627,41,NZL,1,18,-419,SP Fleming,RJ Sidebottom,3,0,4,39.81,15477,45.53,Left-hand bat,23,7,1,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,1670,84,NZL,1,28,-409,SP Fleming,RJ Sidebottom,3,5,23,39.81,15477,45.53,Left-hand bat,42,7,1,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,1671,85,NZL,1,28,-409,SP Fleming,RJ Sidebottom,3,5,24,39.81,15477,45.53,Left-hand bat,43,7,1,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,1672,86,NZL,1,28,-409,SP Fleming,RJ Sidebottom,3,5,25,39.81,15477,45.53,Left-hand bat,44,7,1,2736.3,28.44,60.8,lfm,2,NZL,seam,yes,27.885,0.7150000000000001
+4,1673,87,NZL,1,30,-407,SP Fleming,RJ Sidebottom,3,7,26,39.81,15477,45.53,Left-hand bat,45,9,1,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,1674,88,NZL,1,30,-407,SP Fleming,RJ Sidebottom,3,7,27,39.81,15477,45.53,Left-hand bat,46,9,1,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001
+4,1675,89,NZL,1,30,-407,SP Fleming,RJ Sidebottom,3,7,28,39.81,15477,45.53,Left-hand bat,47,9,1,2736.3,28.44,60.8,lfm,0,NZL,seam,yes,27.885,0.7150000000000001

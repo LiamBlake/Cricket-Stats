@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1502,126,ENG,2,63,-276,KP Pietersen,TM Dilshan,4,4,3,48.21,10413,62.04,Right-hand bat,42,11,0,2454.3,41.89,84.7,rob,0,SRL,spin,no,7.417500000000001,17.3075
+4,1503,127,ENG,2,63,-276,KP Pietersen,TM Dilshan,4,4,4,48.21,10413,62.04,Right-hand bat,43,11,0,2454.3,41.89,84.7,rob,0,SRL,spin,no,7.417500000000001,17.3075
+4,1504,128,ENG,2,63,-276,KP Pietersen,TM Dilshan,4,4,5,48.21,10413,62.04,Right-hand bat,44,11,0,2454.3,41.89,84.7,rob,2,SRL,spin,no,7.417500000000001,17.3075
+4,1505,129,ENG,2,65,-274,KP Pietersen,TM Dilshan,4,6,6,48.21,10413,62.04,Right-hand bat,45,13,0,2454.3,41.89,84.7,rob,0,SRL,spin,no,7.417500000000001,17.3075
+4,1506,130,ENG,2,65,-274,KP Pietersen,TM Dilshan,4,6,7,48.21,10413,62.04,Right-hand bat,46,13,0,2454.3,41.89,84.7,rob,0,SRL,spin,no,7.417500000000001,17.3075
+4,1507,131,ENG,2,65,-274,KP Pietersen,TM Dilshan,4,6,8,48.21,10413,62.04,Right-hand bat,47,13,0,2454.3,41.89,84.7,rob,0,SRL,spin,no,7.417500000000001,17.3075
+4,1613,237,ENG,2,111,-228,KP Pietersen,TM Dilshan,4,29,56,48.21,10413,62.04,Right-hand bat,51,14,0,2454.3,41.89,84.7,rob,0,SRL,spin,no,7.417500000000001,17.3075
+4,1614,238,ENG,2,111,-228,KP Pietersen,TM Dilshan,4,29,57,48.21,10413,62.04,Right-hand bat,52,14,0,2454.3,41.89,84.7,rob,0,SRL,spin,no,7.417500000000001,17.3075
+4,1615,239,ENG,2,111,-228,KP Pietersen,TM Dilshan,4,29,58,48.21,10413,62.04,Right-hand bat,53,14,0,2454.3,41.89,84.7,rob,0,SRL,spin,no,7.417500000000001,17.3075

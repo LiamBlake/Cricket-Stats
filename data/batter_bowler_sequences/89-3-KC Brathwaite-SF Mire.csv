@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1202,336,WIN,2,134,194,KC Brathwaite,SF Mire,1,59,155,36.8,6295,42.68,Right-hand bat,0,0,0,54,27,54,rmf,0,WIN,seam,yes,6.66875,20.00625
+3,1203,337,WIN,2,134,194,KC Brathwaite,SF Mire,1,59,156,36.8,6295,42.68,Right-hand bat,1,0,0,54,27,54,rmf,0,WIN,seam,yes,6.66875,20.00625
+3,1204,338,WIN,2,134,194,KC Brathwaite,SF Mire,1,59,157,36.8,6295,42.68,Right-hand bat,2,0,0,54,27,54,rmf,0,WIN,seam,yes,6.66875,20.00625
+3,1205,339,WIN,2,134,194,KC Brathwaite,SF Mire,1,59,158,36.8,6295,42.68,Right-hand bat,3,0,0,54,27,54,rmf,0,WIN,seam,yes,6.66875,20.00625
+3,1206,340,WIN,2,134,194,KC Brathwaite,SF Mire,1,59,159,36.8,6295,42.68,Right-hand bat,4,0,0,54,27,54,rmf,1,WIN,seam,yes,6.66875,20.00625
+3,1214,348,WIN,2,138,198,KC Brathwaite,SF Mire,1,61,166,36.8,6295,42.68,Right-hand bat,6,3,0,54,27,54,rmf,0,WIN,seam,yes,6.66875,20.00625
+3,1215,349,WIN,2,138,198,KC Brathwaite,SF Mire,1,61,167,36.8,6295,42.68,Right-hand bat,7,3,0,54,27,54,rmf,0,WIN,seam,yes,6.66875,20.00625
+3,1216,350,WIN,2,138,198,KC Brathwaite,SF Mire,1,61,168,36.8,6295,42.68,Right-hand bat,8,3,0,54,27,54,rmf,1,WIN,seam,yes,6.66875,20.00625
+3,1219,353,WIN,2,140,200,KC Brathwaite,SF Mire,1,62,169,36.8,6295,42.68,Right-hand bat,11,5,0,54,27,54,rmf,0,WIN,seam,yes,6.66875,20.00625

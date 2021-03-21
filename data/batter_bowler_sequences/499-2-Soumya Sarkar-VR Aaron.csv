@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,890,268,BAN,4,165,-297,Soumya Sarkar,VR Aaron,6,32,41,21.4,176,60.79,Left-hand bat,27,12,0,960.1,54.85,68.6,rf,0,BAN,seam,no,2.89453125,43.41796875
+2,891,269,BAN,4,165,-297,Soumya Sarkar,VR Aaron,6,32,42,21.4,176,60.79,Left-hand bat,28,12,0,960.1,54.85,68.6,rf,0,BAN,seam,no,2.89453125,43.41796875
+2,892,270,BAN,4,165,-297,Soumya Sarkar,VR Aaron,6,32,43,21.4,176,60.79,Left-hand bat,29,12,0,960.1,54.85,68.6,rf,1,BAN,seam,no,2.89453125,43.41796875
+2,904,282,BAN,4,172,-290,Soumya Sarkar,VR Aaron,6,37,50,21.4,176,60.79,Left-hand bat,35,14,0,960.1,54.85,68.6,rf,0,BAN,seam,no,2.89453125,43.41796875
+2,905,283,BAN,4,172,-290,Soumya Sarkar,VR Aaron,6,37,51,21.4,176,60.79,Left-hand bat,36,14,0,960.1,54.85,68.6,rf,0,BAN,seam,no,2.89453125,43.41796875
+2,906,284,BAN,4,172,-290,Soumya Sarkar,VR Aaron,6,37,52,21.4,176,60.79,Left-hand bat,37,14,0,960.1,54.85,68.6,rf,0,BAN,seam,no,2.89453125,43.41796875
+2,913,291,BAN,5,176,-286,Soumya Sarkar,VR Aaron,6,37,53,21.4,176,60.79,Left-hand bat,38,14,0,960.1,54.85,68.6,rf,W,BAN,seam,no,2.89453125,43.41796875

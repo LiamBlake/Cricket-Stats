@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,918,918,ENG,6,584,584,SCJ Broad,JE Taylor,8,2,4,29,767,56.71,Left-hand bat,169,98,1,4596.3,34.29,58.2,rf,0,WIN,seam,yes,50.69896193771626,45.06574394463668
+1,919,919,ENG,6,584,584,SCJ Broad,JE Taylor,8,2,5,29,767,56.71,Left-hand bat,170,98,1,4596.3,34.29,58.2,rf,1,WIN,seam,yes,50.69896193771626,45.06574394463668
+1,921,921,ENG,6,586,586,SCJ Broad,JE Taylor,8,3,6,29,767,56.71,Left-hand bat,172,100,1,4596.3,34.29,58.2,rf,1,WIN,seam,yes,50.69896193771626,45.06574394463668
+1,930,930,ENG,6,596,596,SCJ Broad,JE Taylor,8,9,9,29,767,56.71,Left-hand bat,175,103,1,4596.3,34.29,58.2,rf,4,WIN,seam,yes,50.69896193771626,45.06574394463668

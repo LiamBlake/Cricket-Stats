@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,564,146,SRL,2,74,-130,MD Gunathilaka,D Bishoo,3,28,63,16.33,201,48.75,Left-hand bat,0,0,0,7248.2,36.08,68.3,rls,0,WIN,spin,no,15.609567901234568,0.91820987654321
+2,565,147,SRL,2,74,-130,MD Gunathilaka,D Bishoo,3,28,64,16.33,201,48.75,Left-hand bat,1,0,0,7248.2,36.08,68.3,rls,0,WIN,spin,no,15.609567901234568,0.91820987654321
+2,566,148,SRL,2,74,-130,MD Gunathilaka,D Bishoo,3,28,65,16.33,201,48.75,Left-hand bat,2,0,0,7248.2,36.08,68.3,rls,1,WIN,spin,no,15.609567901234568,0.91820987654321

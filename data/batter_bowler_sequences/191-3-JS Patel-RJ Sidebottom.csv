@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2178,298,NZL,8,150,272,JS Patel,RJ Sidebottom,10,8,15,45,66,68.18,Right-hand bat,88,38,5,2448.3,29.2,62.8,lfm,0,NZL,seam,yes,19.615384615384617,8.717948717948717
+3,2179,299,NZL,8,150,272,JS Patel,RJ Sidebottom,10,8,16,45,66,68.18,Right-hand bat,89,38,5,2448.3,29.2,62.8,lfm,0,NZL,seam,yes,19.615384615384617,8.717948717948717
+3,2202,322,NZL,9,173,295,JS Patel,RJ Sidebottom,10,9,21,45,66,68.18,Right-hand bat,100,46,6,2448.3,29.2,62.8,lfm,0,NZL,seam,yes,19.615384615384617,8.717948717948717
+3,2203,323,NZL,9,173,295,JS Patel,RJ Sidebottom,10,9,22,45,66,68.18,Right-hand bat,101,46,6,2448.3,29.2,62.8,lfm,3,NZL,seam,yes,19.615384615384617,8.717948717948717

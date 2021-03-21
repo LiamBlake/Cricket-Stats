@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1286,959,IND,6,443,247,A Mishra,ML Cummins,8,11,19,22.34,1101,58.85,Right-hand bat,131,74,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,1287,960,IND,6,443,247,A Mishra,ML Cummins,8,11,20,22.34,1101,58.85,Right-hand bat,132,74,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,1288,961,IND,6,443,247,A Mishra,ML Cummins,8,11,21,22.34,1101,58.85,Right-hand bat,133,74,0,156.4,NA,NA,rfm,1,WIN,seam,no,17.344,26.016
+2,1298,971,IND,6,447,251,A Mishra,ML Cummins,8,13,25,22.34,1101,58.85,Right-hand bat,137,76,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,1299,972,IND,6,447,251,A Mishra,ML Cummins,8,13,26,22.34,1101,58.85,Right-hand bat,138,76,0,156.4,NA,NA,rfm,2,WIN,seam,no,17.344,26.016
+2,1300,973,IND,6,449,253,A Mishra,ML Cummins,8,15,27,22.34,1101,58.85,Right-hand bat,139,78,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,1301,974,IND,6,449,253,A Mishra,ML Cummins,8,15,28,22.34,1101,58.85,Right-hand bat,140,78,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,1302,975,IND,6,449,253,A Mishra,ML Cummins,8,15,29,22.34,1101,58.85,Right-hand bat,141,78,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,1303,976,IND,6,449,253,A Mishra,ML Cummins,8,15,30,22.34,1101,58.85,Right-hand bat,142,78,0,156.4,NA,NA,rfm,4,WIN,seam,no,17.344,26.016
+2,1312,985,IND,6,457,261,A Mishra,ML Cummins,8,21,35,22.34,1101,58.85,Right-hand bat,145,83,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,1313,986,IND,6,457,261,A Mishra,ML Cummins,8,21,36,22.34,1101,58.85,Right-hand bat,146,83,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,1314,987,IND,6,457,261,A Mishra,ML Cummins,8,21,37,22.34,1101,58.85,Right-hand bat,147,83,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016
+2,1315,988,IND,6,457,261,A Mishra,ML Cummins,8,21,38,22.34,1101,58.85,Right-hand bat,148,83,0,156.4,NA,NA,rfm,0,WIN,seam,no,17.344,26.016

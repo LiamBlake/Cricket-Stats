@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1063,794,AUS,9,451,295,JM Bird,AD Mathews,11,0,0,0,11,0,Right-hand bat,88,55,2,1482,69.45,134.7,rm,0,AUS,seam,no,18.374444444444446,3.9944444444444445
+2,1064,795,AUS,9,451,295,JM Bird,AD Mathews,11,0,1,0,11,0,Right-hand bat,89,55,2,1482,69.45,134.7,rm,0,AUS,seam,no,18.374444444444446,3.9944444444444445
+2,1074,805,AUS,9,457,301,JM Bird,AD Mathews,11,0,7,0,11,0,Right-hand bat,93,60,2,1482,69.45,134.7,rm,0,AUS,seam,no,18.374444444444446,3.9944444444444445
+2,1075,806,AUS,9,457,301,JM Bird,AD Mathews,11,0,8,0,11,0,Right-hand bat,94,60,2,1482,69.45,134.7,rm,0,AUS,seam,no,18.374444444444446,3.9944444444444445
+2,1076,807,AUS,9,457,301,JM Bird,AD Mathews,11,0,9,0,11,0,Right-hand bat,95,60,2,1482,69.45,134.7,rm,0,AUS,seam,no,18.374444444444446,3.9944444444444445

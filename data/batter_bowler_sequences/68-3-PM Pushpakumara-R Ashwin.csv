@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1043,72,SRL,1,19,-333,PM Pushpakumara,R Ashwin,3,0,2,14,139,30.21,Right-hand bat,30,5,0,15312.2,25.26,52.4,rob,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1044,73,SRL,1,19,-333,PM Pushpakumara,R Ashwin,3,0,3,14,139,30.21,Right-hand bat,31,5,0,15312.2,25.26,52.4,rob,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1045,74,SRL,1,19,-333,PM Pushpakumara,R Ashwin,3,0,4,14,139,30.21,Right-hand bat,32,5,0,15312.2,25.26,52.4,rob,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1046,75,SRL,1,19,-333,PM Pushpakumara,R Ashwin,3,0,5,14,139,30.21,Right-hand bat,33,5,0,15312.2,25.26,52.4,rob,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1047,76,SRL,1,19,-333,PM Pushpakumara,R Ashwin,3,0,6,14,139,30.21,Right-hand bat,34,5,0,15312.2,25.26,52.4,rob,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1048,77,SRL,1,19,-333,PM Pushpakumara,R Ashwin,3,0,7,14,139,30.21,Right-hand bat,35,5,0,15312.2,25.26,52.4,rob,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1087,116,SRL,2,33,-319,PM Pushpakumara,R Ashwin,3,0,27,14,139,30.21,Right-hand bat,49,12,1,15312.2,25.26,52.4,rob,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1088,117,SRL,2,33,-319,PM Pushpakumara,R Ashwin,3,0,28,14,139,30.21,Right-hand bat,50,12,1,15312.2,25.26,52.4,rob,0,IND,spin,no,9.814444444444444,16.952222222222222
+3,1089,118,SRL,2,33,-319,PM Pushpakumara,R Ashwin,3,0,29,14,139,30.21,Right-hand bat,51,12,1,15312.2,25.26,52.4,rob,1,IND,spin,no,9.814444444444444,16.952222222222222

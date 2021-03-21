@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1137,455,IND,3,268,-195,SC Ganguly,MJ Clarke,5,54,69,43.35,12775,51.24,Left-hand bat,1,1,0,348.1,15.54,31.7,lo,0,AUS,spin,no,23.46238130021914,19.943024105186268
+2,1138,456,IND,3,268,-195,SC Ganguly,MJ Clarke,5,54,70,43.35,12775,51.24,Left-hand bat,2,1,0,348.1,15.54,31.7,lo,1,AUS,spin,no,23.46238130021914,19.943024105186268
+2,1141,459,IND,3,270,-193,SC Ganguly,MJ Clarke,5,55,71,43.35,12775,51.24,Left-hand bat,5,3,0,348.1,15.54,31.7,lo,2,AUS,spin,no,23.46238130021914,19.943024105186268
+2,1148,466,IND,3,274,-189,SC Ganguly,MJ Clarke,5,57,72,43.35,12775,51.24,Left-hand bat,6,5,0,348.1,15.54,31.7,lo,6,AUS,spin,no,23.46238130021914,19.943024105186268
+2,1149,467,IND,3,280,-183,SC Ganguly,MJ Clarke,5,63,73,43.35,12775,51.24,Left-hand bat,7,11,0,348.1,15.54,31.7,lo,0,AUS,spin,no,23.46238130021914,19.943024105186268
+2,1150,468,IND,3,280,-183,SC Ganguly,MJ Clarke,5,63,74,43.35,12775,51.24,Left-hand bat,8,11,0,348.1,15.54,31.7,lo,0,AUS,spin,no,23.46238130021914,19.943024105186268
+2,1151,469,IND,3,280,-183,SC Ganguly,MJ Clarke,5,63,75,43.35,12775,51.24,Left-hand bat,9,11,0,348.1,15.54,31.7,lo,3,AUS,spin,no,23.46238130021914,19.943024105186268

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,939,340,ENG,6,220,-119,CR Woakes,Rahat Ali,8,17,26,32.44,645,45.27,Right-hand bat,68,57,1,2988.4,35.56,68,lfm,1,ENG,seam,no,18.0775,7.7475
+2,941,342,ENG,6,222,-117,CR Woakes,Rahat Ali,8,18,27,32.44,645,45.27,Right-hand bat,70,59,1,2988.4,35.56,68,lfm,0,ENG,seam,no,18.0775,7.7475
+2,942,343,ENG,6,222,-117,CR Woakes,Rahat Ali,8,18,28,32.44,645,45.27,Right-hand bat,71,59,1,2988.4,35.56,68,lfm,1,ENG,seam,no,18.0775,7.7475
+2,954,355,ENG,6,230,-109,CR Woakes,Rahat Ali,8,19,35,32.44,645,45.27,Right-hand bat,77,67,1,2988.4,35.56,68,lfm,1,ENG,seam,no,18.0775,7.7475
+2,961,362,ENG,6,232,-107,CR Woakes,Rahat Ali,8,21,42,32.44,645,45.27,Right-hand bat,78,68,1,2988.4,35.56,68,lfm,0,ENG,seam,no,18.0775,7.7475
+2,962,363,ENG,6,232,-107,CR Woakes,Rahat Ali,8,21,43,32.44,645,45.27,Right-hand bat,79,68,1,2988.4,35.56,68,lfm,0,ENG,seam,no,18.0775,7.7475
+2,963,364,ENG,6,232,-107,CR Woakes,Rahat Ali,8,21,44,32.44,645,45.27,Right-hand bat,80,68,1,2988.4,35.56,68,lfm,0,ENG,seam,no,18.0775,7.7475
+2,964,365,ENG,6,232,-107,CR Woakes,Rahat Ali,8,21,45,32.44,645,45.27,Right-hand bat,81,68,1,2988.4,35.56,68,lfm,0,ENG,seam,no,18.0775,7.7475
+2,965,366,ENG,6,232,-107,CR Woakes,Rahat Ali,8,21,46,32.44,645,45.27,Right-hand bat,82,68,1,2988.4,35.56,68,lfm,0,ENG,seam,no,18.0775,7.7475
+2,966,367,ENG,6,232,-107,CR Woakes,Rahat Ali,8,21,47,32.44,645,45.27,Right-hand bat,83,68,1,2988.4,35.56,68,lfm,0,ENG,seam,no,18.0775,7.7475

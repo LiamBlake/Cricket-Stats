@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1541,36,IND,0,13,-301,V Sehwag,JEC Franklin,2,10,12,50.41,7255,78.52,Right-hand bat,0,0,0,4218.1,31.67,53.4,lm,4,NZL,seam,no,34.40453686200378,26.46502835538752
+3,1542,37,IND,0,17,-297,V Sehwag,JEC Franklin,2,14,13,50.41,7255,78.52,Right-hand bat,1,4,0,4218.1,31.67,53.4,lm,0,NZL,seam,no,34.40453686200378,26.46502835538752
+3,1543,38,IND,0,17,-297,V Sehwag,JEC Franklin,2,14,14,50.41,7255,78.52,Right-hand bat,2,4,0,4218.1,31.67,53.4,lm,1,NZL,seam,no,34.40453686200378,26.46502835538752
+3,1553,48,IND,0,25,-289,V Sehwag,JEC Franklin,2,17,17,50.41,7255,78.52,Right-hand bat,6,9,0,4218.1,31.67,53.4,lm,0,NZL,seam,no,34.40453686200378,26.46502835538752
+3,1554,49,IND,0,25,-289,V Sehwag,JEC Franklin,2,17,18,50.41,7255,78.52,Right-hand bat,7,9,0,4218.1,31.67,53.4,lm,1,NZL,seam,no,34.40453686200378,26.46502835538752

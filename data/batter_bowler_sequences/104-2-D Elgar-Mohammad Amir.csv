@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,314,3,RSA,0,1,-176,D Elgar,Mohammad Amir,2,0,0,40.96,7412,45.31,Left-hand bat,3,1,0,7404.1,30.73,64.3,lf,4,RSA,seam,yes,31.46722164412071,0
+2,315,4,RSA,0,5,-172,D Elgar,Mohammad Amir,2,4,1,40.96,7412,45.31,Left-hand bat,4,5,0,7404.1,30.73,64.3,lf,0,RSA,seam,yes,31.46722164412071,0
+2,316,5,RSA,0,5,-172,D Elgar,Mohammad Amir,2,4,2,40.96,7412,45.31,Left-hand bat,5,5,0,7404.1,30.73,64.3,lf,0,RSA,seam,yes,31.46722164412071,0
+2,377,66,RSA,0,54,-123,D Elgar,Mohammad Amir,2,18,25,40.96,7412,45.31,Left-hand bat,18,17,0,7404.1,30.73,64.3,lf,0,RSA,seam,yes,31.46722164412071,0
+2,378,67,RSA,0,54,-123,D Elgar,Mohammad Amir,2,18,26,40.96,7412,45.31,Left-hand bat,19,17,0,7404.1,30.73,64.3,lf,0,RSA,seam,yes,31.46722164412071,0
+2,379,68,RSA,0,54,-123,D Elgar,Mohammad Amir,2,18,27,40.96,7412,45.31,Left-hand bat,20,17,0,7404.1,30.73,64.3,lf,0,RSA,seam,yes,31.46722164412071,0
+2,380,69,RSA,0,54,-123,D Elgar,Mohammad Amir,2,18,28,40.96,7412,45.31,Left-hand bat,21,17,0,7404.1,30.73,64.3,lf,2,RSA,seam,yes,31.46722164412071,0
+2,381,70,RSA,0,56,-121,D Elgar,Mohammad Amir,2,20,29,40.96,7412,45.31,Left-hand bat,22,19,0,7404.1,30.73,64.3,lf,W,RSA,seam,yes,31.46722164412071,0

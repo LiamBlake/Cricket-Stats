@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1323,656,ENG,3,315,40,IR Bell,KTGD Prasad,5,14,27,46.49,9872,52.27,Right-hand bat,85,50,0,1596.2,59.94,84.1,rfm,0,SRL,seam,no,10.83984375,23.84765625
+2,1324,657,ENG,3,315,40,IR Bell,KTGD Prasad,5,14,28,46.49,9872,52.27,Right-hand bat,86,50,0,1596.2,59.94,84.1,rfm,0,SRL,seam,no,10.83984375,23.84765625
+2,1325,658,ENG,3,315,40,IR Bell,KTGD Prasad,5,14,29,46.49,9872,52.27,Right-hand bat,87,50,0,1596.2,59.94,84.1,rfm,1,SRL,seam,no,10.83984375,23.84765625
+2,1359,692,ENG,3,345,70,IR Bell,KTGD Prasad,5,17,40,46.49,9872,52.27,Right-hand bat,103,55,0,1596.2,59.94,84.1,rfm,0,SRL,seam,no,10.83984375,23.84765625
+2,1360,693,ENG,3,345,70,IR Bell,KTGD Prasad,5,17,41,46.49,9872,52.27,Right-hand bat,104,55,0,1596.2,59.94,84.1,rfm,0,SRL,seam,no,10.83984375,23.84765625
+2,1361,694,ENG,3,345,70,IR Bell,KTGD Prasad,5,17,42,46.49,9872,52.27,Right-hand bat,105,55,0,1596.2,59.94,84.1,rfm,0,SRL,seam,no,10.83984375,23.84765625
+2,1362,695,ENG,3,345,70,IR Bell,KTGD Prasad,5,17,43,46.49,9872,52.27,Right-hand bat,106,55,0,1596.2,59.94,84.1,rfm,0,SRL,seam,no,10.83984375,23.84765625
+2,1363,696,ENG,3,345,70,IR Bell,KTGD Prasad,5,17,44,46.49,9872,52.27,Right-hand bat,107,55,0,1596.2,59.94,84.1,rfm,0,SRL,seam,no,10.83984375,23.84765625
+2,1364,697,ENG,3,345,70,IR Bell,KTGD Prasad,5,17,45,46.49,9872,52.27,Right-hand bat,108,55,0,1596.2,59.94,84.1,rfm,0,SRL,seam,no,10.83984375,23.84765625
+2,1371,704,ENG,3,347,72,IR Bell,KTGD Prasad,5,18,50,46.49,9872,52.27,Right-hand bat,109,55,0,1596.2,59.94,84.1,rfm,0,SRL,seam,no,10.83984375,23.84765625
+2,1372,705,ENG,3,347,72,IR Bell,KTGD Prasad,5,18,51,46.49,9872,52.27,Right-hand bat,110,55,0,1596.2,59.94,84.1,rfm,0,SRL,seam,no,10.83984375,23.84765625
+2,1373,706,ENG,3,347,72,IR Bell,KTGD Prasad,5,18,52,46.49,9872,52.27,Right-hand bat,111,55,0,1596.2,59.94,84.1,rfm,W,SRL,seam,no,10.83984375,23.84765625

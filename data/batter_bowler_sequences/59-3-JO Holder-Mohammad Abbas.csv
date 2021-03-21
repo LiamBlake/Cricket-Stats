@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1984,537,WIN,6,235,154,JO Holder,Mohammad Abbas,7,0,0,30.03,1564,59.52,Right-hand bat,128,49,2,486,23.44,54,rmf,0,WIN,seam,yes,17.786250000000003,8.56375
+3,1985,538,WIN,6,235,154,JO Holder,Mohammad Abbas,7,0,1,30.03,1564,59.52,Right-hand bat,129,49,2,486,23.44,54,rmf,0,WIN,seam,yes,17.786250000000003,8.56375
+3,1986,539,WIN,6,235,154,JO Holder,Mohammad Abbas,7,0,2,30.03,1564,59.52,Right-hand bat,130,49,2,486,23.44,54,rmf,0,WIN,seam,yes,17.786250000000003,8.56375
+3,1987,540,WIN,6,235,154,JO Holder,Mohammad Abbas,7,0,3,30.03,1564,59.52,Right-hand bat,131,49,2,486,23.44,54,rmf,1,WIN,seam,yes,17.786250000000003,8.56375

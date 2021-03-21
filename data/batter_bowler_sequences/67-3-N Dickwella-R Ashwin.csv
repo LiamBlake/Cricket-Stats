@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1899,651,SRL,8,349,-90,N Dickwella,R Ashwin,7,12,31,30.41,727,71.11,Left-hand bat,198,106,1,15090.1,25.47,52.7,rob,1,IND,spin,no,9.913198573127229,31.15576694411415
+3,1911,663,SRL,8,363,-76,N Dickwella,R Ashwin,7,14,37,30.41,727,71.11,Left-hand bat,204,119,1,15090.1,25.47,52.7,rob,4,IND,spin,no,9.913198573127229,31.15576694411415
+3,1912,664,SRL,8,367,-72,N Dickwella,R Ashwin,7,18,38,30.41,727,71.11,Left-hand bat,205,123,1,15090.1,25.47,52.7,rob,2,IND,spin,no,9.913198573127229,31.15576694411415
+3,1913,665,SRL,8,369,-70,N Dickwella,R Ashwin,7,20,39,30.41,727,71.11,Left-hand bat,206,125,1,15090.1,25.47,52.7,rob,1,IND,spin,no,9.913198573127229,31.15576694411415
+3,1916,668,SRL,8,371,-68,N Dickwella,R Ashwin,7,21,40,30.41,727,71.11,Left-hand bat,209,127,1,15090.1,25.47,52.7,rob,1,IND,spin,no,9.913198573127229,31.15576694411415
+3,1928,680,SRL,8,379,-60,N Dickwella,R Ashwin,7,27,44,30.41,727,71.11,Left-hand bat,215,129,1,15090.1,25.47,52.7,rob,0,IND,spin,no,9.913198573127229,31.15576694411415
+3,1935,687,SRL,8,381,-58,N Dickwella,R Ashwin,7,28,49,30.41,727,71.11,Left-hand bat,216,129,1,15090.1,25.47,52.7,rob,0,IND,spin,no,9.913198573127229,31.15576694411415
+3,1936,688,SRL,8,381,-58,N Dickwella,R Ashwin,7,28,50,30.41,727,71.11,Left-hand bat,217,129,1,15090.1,25.47,52.7,rob,0,IND,spin,no,9.913198573127229,31.15576694411415
+3,1937,689,SRL,8,381,-58,N Dickwella,R Ashwin,7,28,51,30.41,727,71.11,Left-hand bat,218,129,1,15090.1,25.47,52.7,rob,2,IND,spin,no,9.913198573127229,31.15576694411415
+3,1938,690,SRL,8,383,-56,N Dickwella,R Ashwin,7,30,52,30.41,727,71.11,Left-hand bat,219,131,1,15090.1,25.47,52.7,rob,0,IND,spin,no,9.913198573127229,31.15576694411415
+3,1939,691,SRL,8,383,-56,N Dickwella,R Ashwin,7,30,53,30.41,727,71.11,Left-hand bat,220,131,1,15090.1,25.47,52.7,rob,0,IND,spin,no,9.913198573127229,31.15576694411415
+3,1940,692,SRL,8,383,-56,N Dickwella,R Ashwin,7,30,54,30.41,727,71.11,Left-hand bat,221,131,1,15090.1,25.47,52.7,rob,1,IND,spin,no,9.913198573127229,31.15576694411415

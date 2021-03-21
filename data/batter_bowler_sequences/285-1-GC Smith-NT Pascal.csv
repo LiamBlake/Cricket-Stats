@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,9,9,RSA,0,1,1,GC Smith,NT Pascal,1,0,6,50.08,11483,60.19,Left-hand bat,3,1,0,102,NA,NA,rf,0,WIN,seam,yes,14.839100346020762,13.190311418685122
+1,10,10,RSA,0,1,1,GC Smith,NT Pascal,1,0,7,50.08,11483,60.19,Left-hand bat,4,1,0,102,NA,NA,rf,1,WIN,seam,yes,14.839100346020762,13.190311418685122
+1,23,23,RSA,0,9,9,GC Smith,NT Pascal,1,5,14,50.08,11483,60.19,Left-hand bat,11,5,0,102,NA,NA,rf,1,WIN,seam,yes,14.839100346020762,13.190311418685122

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1067,45,SRL,3,20,-172,AD Mathews,I Sharma,5,1,6,51.66,7210,49.44,Right-hand bat,6,4,0,12648.3,37.6,66.9,rfm,1nb,SRL,seam,yes,5.833125000000001,20.091875
+3,1068,46,SRL,3,21,-171,AD Mathews,I Sharma,5,1,7,51.66,7210,49.44,Right-hand bat,7,5,0,12648.3,37.6,66.9,rfm,0,SRL,seam,yes,5.833125000000001,20.091875
+3,1069,47,SRL,3,21,-171,AD Mathews,I Sharma,5,1,8,51.66,7210,49.44,Right-hand bat,8,5,0,12648.3,37.6,66.9,rfm,0,SRL,seam,yes,5.833125000000001,20.091875
+3,1070,48,SRL,3,21,-171,AD Mathews,I Sharma,5,1,9,51.66,7210,49.44,Right-hand bat,9,5,0,12648.3,37.6,66.9,rfm,0,SRL,seam,yes,5.833125000000001,20.091875
+3,1071,49,SRL,3,21,-171,AD Mathews,I Sharma,5,1,10,51.66,7210,49.44,Right-hand bat,10,5,0,12648.3,37.6,66.9,rfm,4,SRL,seam,yes,5.833125000000001,20.091875
+3,1072,50,SRL,3,25,-167,AD Mathews,I Sharma,5,5,11,51.66,7210,49.44,Right-hand bat,11,9,0,12648.3,37.6,66.9,rfm,0,SRL,seam,yes,5.833125000000001,20.091875
+3,1073,51,SRL,3,25,-167,AD Mathews,I Sharma,5,5,12,51.66,7210,49.44,Right-hand bat,12,9,0,12648.3,37.6,66.9,rfm,4,SRL,seam,yes,5.833125000000001,20.091875
+3,1084,62,SRL,3,34,-158,AD Mathews,I Sharma,5,9,16,51.66,7210,49.44,Right-hand bat,16,14,0,12648.3,37.6,66.9,rfm,0,SRL,seam,yes,5.833125000000001,20.091875
+3,1085,63,SRL,3,34,-158,AD Mathews,I Sharma,5,9,17,51.66,7210,49.44,Right-hand bat,17,14,0,12648.3,37.6,66.9,rfm,0,SRL,seam,yes,5.833125000000001,20.091875
+3,1086,64,SRL,3,34,-158,AD Mathews,I Sharma,5,9,18,51.66,7210,49.44,Right-hand bat,18,14,0,12648.3,37.6,66.9,rfm,0,SRL,seam,yes,5.833125000000001,20.091875

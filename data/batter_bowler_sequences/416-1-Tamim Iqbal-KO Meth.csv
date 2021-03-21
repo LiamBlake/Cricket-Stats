@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,19,19,BAN,0,10,10,Tamim Iqbal,KO Meth,1,6,7,37.22,3318,60.57,Left-hand bat,6,0,0,324,24.5,81,rmf,0,ZIM,seam,no,20.871794871794872,10.435897435897436
+1,20,20,BAN,0,10,10,Tamim Iqbal,KO Meth,1,6,8,37.22,3318,60.57,Left-hand bat,7,0,0,324,24.5,81,rmf,0,ZIM,seam,no,20.871794871794872,10.435897435897436
+1,21,21,BAN,0,10,10,Tamim Iqbal,KO Meth,1,6,9,37.22,3318,60.57,Left-hand bat,8,0,0,324,24.5,81,rmf,0,ZIM,seam,no,20.871794871794872,10.435897435897436
+1,22,22,BAN,0,10,10,Tamim Iqbal,KO Meth,1,6,10,37.22,3318,60.57,Left-hand bat,9,0,0,324,24.5,81,rmf,1,ZIM,seam,no,20.871794871794872,10.435897435897436
+1,55,55,BAN,0,34,34,Tamim Iqbal,KO Meth,1,10,22,37.22,3318,60.57,Left-hand bat,24,8,0,324,24.5,81,rmf,0,ZIM,seam,no,20.871794871794872,10.435897435897436
+1,56,56,BAN,0,34,34,Tamim Iqbal,KO Meth,1,10,23,37.22,3318,60.57,Left-hand bat,25,8,0,324,24.5,81,rmf,1,ZIM,seam,no,20.871794871794872,10.435897435897436
+1,80,80,BAN,0,43,43,Tamim Iqbal,KO Meth,1,17,33,37.22,3318,60.57,Left-hand bat,36,9,0,324,24.5,81,rmf,1,ZIM,seam,no,20.871794871794872,10.435897435897436
+1,82,82,BAN,1,44,44,Tamim Iqbal,KO Meth,1,18,34,37.22,3318,60.57,Left-hand bat,38,10,1,324,24.5,81,rmf,0,ZIM,seam,no,20.871794871794872,10.435897435897436
+1,83,83,BAN,1,44,44,Tamim Iqbal,KO Meth,1,18,35,37.22,3318,60.57,Left-hand bat,39,10,1,324,24.5,81,rmf,1,ZIM,seam,no,20.871794871794872,10.435897435897436
+1,92,92,BAN,1,46,46,Tamim Iqbal,KO Meth,1,19,36,37.22,3318,60.57,Left-hand bat,42,12,1,324,24.5,81,rmf,0,ZIM,seam,no,20.871794871794872,10.435897435897436
+1,93,93,BAN,1,46,46,Tamim Iqbal,KO Meth,1,19,37,37.22,3318,60.57,Left-hand bat,43,12,1,324,24.5,81,rmf,0,ZIM,seam,no,20.871794871794872,10.435897435897436
+1,94,94,BAN,1,46,46,Tamim Iqbal,KO Meth,1,19,38,37.22,3318,60.57,Left-hand bat,44,12,1,324,24.5,81,rmf,0,ZIM,seam,no,20.871794871794872,10.435897435897436
+1,95,95,BAN,1,46,46,Tamim Iqbal,KO Meth,1,19,39,37.22,3318,60.57,Left-hand bat,45,12,1,324,24.5,81,rmf,1,ZIM,seam,no,20.871794871794872,10.435897435897436
+1,109,109,BAN,1,52,52,Tamim Iqbal,KO Meth,1,24,46,37.22,3318,60.57,Left-hand bat,53,14,1,324,24.5,81,rmf,4lb,ZIM,seam,no,20.871794871794872,10.435897435897436

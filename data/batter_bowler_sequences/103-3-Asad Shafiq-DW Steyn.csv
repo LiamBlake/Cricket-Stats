@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,834,187,PAK,3,103,61,Asad Shafiq,DW Steyn,5,0,0,38.78,8704,47.67,Right-hand bat,54,24,0,17874.1,22.71,42.1,rf,0,RSA,seam,yes,21.267301038062282,0.6444636678200691
+3,835,188,PAK,3,103,61,Asad Shafiq,DW Steyn,5,0,1,38.78,8704,47.67,Right-hand bat,55,24,0,17874.1,22.71,42.1,rf,0,RSA,seam,yes,21.267301038062282,0.6444636678200691
+3,836,189,PAK,3,103,61,Asad Shafiq,DW Steyn,5,0,2,38.78,8704,47.67,Right-hand bat,56,24,0,17874.1,22.71,42.1,rf,1,RSA,seam,yes,21.267301038062282,0.6444636678200691
+3,839,192,PAK,3,107,65,Asad Shafiq,DW Steyn,5,1,3,38.78,8704,47.67,Right-hand bat,59,28,0,17874.1,22.71,42.1,rf,0,RSA,seam,yes,21.267301038062282,0.6444636678200691
+3,867,220,PAK,3,130,88,Asad Shafiq,DW Steyn,5,5,13,38.78,8704,47.67,Right-hand bat,63,29,0,17874.1,22.71,42.1,rf,0,RSA,seam,yes,21.267301038062282,0.6444636678200691
+3,868,221,PAK,3,130,88,Asad Shafiq,DW Steyn,5,5,14,38.78,8704,47.67,Right-hand bat,64,29,0,17874.1,22.71,42.1,rf,0,RSA,seam,yes,21.267301038062282,0.6444636678200691
+3,869,222,PAK,3,130,88,Asad Shafiq,DW Steyn,5,5,15,38.78,8704,47.67,Right-hand bat,65,29,0,17874.1,22.71,42.1,rf,0,RSA,seam,yes,21.267301038062282,0.6444636678200691
+3,880,233,PAK,3,134,92,Asad Shafiq,DW Steyn,5,6,18,38.78,8704,47.67,Right-hand bat,70,30,0,17874.1,22.71,42.1,rf,0,RSA,seam,yes,21.267301038062282,0.6444636678200691
+3,881,234,PAK,3,134,92,Asad Shafiq,DW Steyn,5,6,19,38.78,8704,47.67,Right-hand bat,71,30,0,17874.1,22.71,42.1,rf,W,RSA,seam,yes,21.267301038062282,0.6444636678200691

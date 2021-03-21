@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1444,151,AUS,3,85,128,TM Head,I Sharma,6,0,0,35.62,617,46.19,Left-hand bat,31,23,1,17028.3,34.37,64.5,rfm,0,AUS,seam,yes,18.6,6.2
+3,1445,152,AUS,3,85,128,TM Head,I Sharma,6,0,1,35.62,617,46.19,Left-hand bat,32,23,1,17028.3,34.37,64.5,rfm,0,AUS,seam,yes,18.6,6.2
+3,1446,153,AUS,3,85,128,TM Head,I Sharma,6,0,2,35.62,617,46.19,Left-hand bat,33,23,1,17028.3,34.37,64.5,rfm,4,AUS,seam,yes,18.6,6.2
+3,1447,154,AUS,3,89,132,TM Head,I Sharma,6,4,3,35.62,617,46.19,Left-hand bat,34,27,1,17028.3,34.37,64.5,rfm,0,AUS,seam,yes,18.6,6.2
+3,1448,155,AUS,3,89,132,TM Head,I Sharma,6,4,4,35.62,617,46.19,Left-hand bat,35,27,1,17028.3,34.37,64.5,rfm,0,AUS,seam,yes,18.6,6.2
+3,1455,162,AUS,3,91,134,TM Head,I Sharma,6,4,5,35.62,617,46.19,Left-hand bat,36,27,1,17028.3,34.37,64.5,rfm,0,AUS,seam,yes,18.6,6.2
+3,1456,163,AUS,3,91,134,TM Head,I Sharma,6,4,6,35.62,617,46.19,Left-hand bat,37,27,1,17028.3,34.37,64.5,rfm,0,AUS,seam,yes,18.6,6.2
+3,1457,164,AUS,3,91,134,TM Head,I Sharma,6,4,7,35.62,617,46.19,Left-hand bat,38,27,1,17028.3,34.37,64.5,rfm,2,AUS,seam,yes,18.6,6.2
+3,1458,165,AUS,3,93,136,TM Head,I Sharma,6,6,8,35.62,617,46.19,Left-hand bat,39,29,1,17028.3,34.37,64.5,rfm,1,AUS,seam,yes,18.6,6.2

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,817,254,NZL,5,121,-258,BB McCullum,I Sharma,7,0,5,32.67,3520,63.12,Right-hand bat,62,33,0,3234,33.15,62.1,rfm,4,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,818,255,NZL,5,125,-254,BB McCullum,I Sharma,7,4,6,32.67,3520,63.12,Right-hand bat,63,37,0,3234,33.15,62.1,rfm,0,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,819,256,NZL,5,125,-254,BB McCullum,I Sharma,7,4,7,32.67,3520,63.12,Right-hand bat,64,37,0,3234,33.15,62.1,rfm,0,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,820,257,NZL,5,125,-254,BB McCullum,I Sharma,7,4,8,32.67,3520,63.12,Right-hand bat,65,37,0,3234,33.15,62.1,rfm,0,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,851,288,NZL,7,139,-240,BB McCullum,I Sharma,7,7,18,32.67,3520,63.12,Right-hand bat,78,47,1,3234,33.15,62.1,rfm,0,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,852,289,NZL,7,139,-240,BB McCullum,I Sharma,7,7,19,32.67,3520,63.12,Right-hand bat,79,47,1,3234,33.15,62.1,rfm,0,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,853,290,NZL,7,139,-240,BB McCullum,I Sharma,7,7,20,32.67,3520,63.12,Right-hand bat,80,47,1,3234,33.15,62.1,rfm,0,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,854,291,NZL,7,139,-240,BB McCullum,I Sharma,7,7,21,32.67,3520,63.12,Right-hand bat,81,47,1,3234,33.15,62.1,rfm,0,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,855,292,NZL,7,139,-240,BB McCullum,I Sharma,7,7,22,32.67,3520,63.12,Right-hand bat,82,47,1,3234,33.15,62.1,rfm,0,NZL,seam,yes,27.400816326530613,9.484897959183675
+2,856,293,NZL,7,139,-240,BB McCullum,I Sharma,7,7,23,32.67,3520,63.12,Right-hand bat,83,47,1,3234,33.15,62.1,rfm,0,NZL,seam,yes,27.400816326530613,9.484897959183675

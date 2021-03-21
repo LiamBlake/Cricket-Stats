@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1860,9,ENG,0,2,-142,AN Cook,Umar Gul,2,0,2,48.99,12280,48.67,Left-hand bat,3,1,0,8694.5,33.17,57.6,rfm,0,ENG,seam,no,4.89375,16.85625
+4,1861,10,ENG,0,2,-142,AN Cook,Umar Gul,2,0,3,48.99,12280,48.67,Left-hand bat,4,1,0,8694.5,33.17,57.6,rfm,0,ENG,seam,no,4.89375,16.85625
+4,1862,11,ENG,0,2,-142,AN Cook,Umar Gul,2,0,4,48.99,12280,48.67,Left-hand bat,5,1,0,8694.5,33.17,57.6,rfm,1,ENG,seam,no,4.89375,16.85625
+4,1869,18,ENG,0,6,-138,AN Cook,Umar Gul,2,3,7,48.99,12280,48.67,Left-hand bat,6,2,0,8694.5,33.17,57.6,rfm,0,ENG,seam,no,4.89375,16.85625
+4,1870,19,ENG,0,6,-138,AN Cook,Umar Gul,2,3,8,48.99,12280,48.67,Left-hand bat,7,2,0,8694.5,33.17,57.6,rfm,0,ENG,seam,no,4.89375,16.85625
+4,1871,20,ENG,0,6,-138,AN Cook,Umar Gul,2,3,9,48.99,12280,48.67,Left-hand bat,8,2,0,8694.5,33.17,57.6,rfm,0,ENG,seam,no,4.89375,16.85625
+4,1872,21,ENG,0,6,-138,AN Cook,Umar Gul,2,3,10,48.99,12280,48.67,Left-hand bat,9,2,0,8694.5,33.17,57.6,rfm,0,ENG,seam,no,4.89375,16.85625
+4,1873,22,ENG,0,6,-138,AN Cook,Umar Gul,2,3,11,48.99,12280,48.67,Left-hand bat,10,2,0,8694.5,33.17,57.6,rfm,1,ENG,seam,no,4.89375,16.85625
+4,1884,33,ENG,0,12,-132,AN Cook,Umar Gul,2,6,17,48.99,12280,48.67,Left-hand bat,15,5,0,8694.5,33.17,57.6,rfm,0,ENG,seam,no,4.89375,16.85625
+4,1885,34,ENG,0,12,-132,AN Cook,Umar Gul,2,6,18,48.99,12280,48.67,Left-hand bat,16,5,0,8694.5,33.17,57.6,rfm,0,ENG,seam,no,4.89375,16.85625
+4,1886,35,ENG,0,12,-132,AN Cook,Umar Gul,2,6,19,48.99,12280,48.67,Left-hand bat,17,5,0,8694.5,33.17,57.6,rfm,0,ENG,seam,no,4.89375,16.85625

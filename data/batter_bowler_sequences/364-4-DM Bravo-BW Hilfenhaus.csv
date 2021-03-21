@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1977,238,WIN,3,98,-271,DM Bravo,BW Hilfenhaus,4,23,75,49.59,2856,46.88,Left-hand bat,34,3,1,5394.3,28.03,58.6,rfm,0,WIN,seam,no,9.61625,17.85875
+4,1978,239,WIN,3,98,-271,DM Bravo,BW Hilfenhaus,4,23,76,49.59,2856,46.88,Left-hand bat,35,3,1,5394.3,28.03,58.6,rfm,0,WIN,seam,no,9.61625,17.85875
+4,1985,246,WIN,3,102,-267,DM Bravo,BW Hilfenhaus,4,25,80,49.59,2856,46.88,Left-hand bat,36,3,1,5394.3,28.03,58.6,rfm,0,WIN,seam,no,9.61625,17.85875
+4,1986,247,WIN,3,102,-267,DM Bravo,BW Hilfenhaus,4,25,81,49.59,2856,46.88,Left-hand bat,37,3,1,5394.3,28.03,58.6,rfm,0,WIN,seam,no,9.61625,17.85875
+4,1987,248,WIN,3,102,-267,DM Bravo,BW Hilfenhaus,4,25,82,49.59,2856,46.88,Left-hand bat,38,3,1,5394.3,28.03,58.6,rfm,0,WIN,seam,no,9.61625,17.85875
+4,1988,249,WIN,3,102,-267,DM Bravo,BW Hilfenhaus,4,25,83,49.59,2856,46.88,Left-hand bat,39,3,1,5394.3,28.03,58.6,rfm,0,WIN,seam,no,9.61625,17.85875
+4,1989,250,WIN,3,102,-267,DM Bravo,BW Hilfenhaus,4,25,84,49.59,2856,46.88,Left-hand bat,40,3,1,5394.3,28.03,58.6,rfm,0,WIN,seam,no,9.61625,17.85875
+4,1990,251,WIN,3,102,-267,DM Bravo,BW Hilfenhaus,4,25,85,49.59,2856,46.88,Left-hand bat,41,3,1,5394.3,28.03,58.6,rfm,0,WIN,seam,no,9.61625,17.85875
+4,2023,284,WIN,3,116,-253,DM Bravo,BW Hilfenhaus,4,28,97,49.59,2856,46.88,Left-hand bat,56,10,1,5394.3,28.03,58.6,rfm,0,WIN,seam,no,9.61625,17.85875
+4,2024,285,WIN,3,116,-253,DM Bravo,BW Hilfenhaus,4,28,98,49.59,2856,46.88,Left-hand bat,57,10,1,5394.3,28.03,58.6,rfm,0,WIN,seam,no,9.61625,17.85875
+4,2025,286,WIN,3,116,-253,DM Bravo,BW Hilfenhaus,4,28,99,49.59,2856,46.88,Left-hand bat,58,10,1,5394.3,28.03,58.6,rfm,0,WIN,seam,no,9.61625,17.85875
+4,2026,287,WIN,3,116,-253,DM Bravo,BW Hilfenhaus,4,28,100,49.59,2856,46.88,Left-hand bat,59,10,1,5394.3,28.03,58.6,rfm,4,WIN,seam,no,9.61625,17.85875

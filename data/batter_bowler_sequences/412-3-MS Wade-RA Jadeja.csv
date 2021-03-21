@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1207,112,AUS,5,53,43,MS Wade,RA Jadeja,7,0,0,34.61,1244,50.08,Left-hand bat,46,20,3,1578.2,19.85,58.5,lo,1lb,IND,spin,yes,3.7024221453287196,21.474048442906575
+3,1217,122,AUS,5,57,47,MS Wade,RA Jadeja,7,1,5,34.61,1244,50.08,Left-hand bat,50,21,3,1578.2,19.85,58.5,lo,0,IND,spin,yes,3.7024221453287196,21.474048442906575
+3,1218,123,AUS,5,57,47,MS Wade,RA Jadeja,7,1,6,34.61,1244,50.08,Left-hand bat,51,21,3,1578.2,19.85,58.5,lo,1,IND,spin,yes,3.7024221453287196,21.474048442906575
+3,1230,135,AUS,5,65,55,MS Wade,RA Jadeja,7,3,10,34.61,1244,50.08,Left-hand bat,57,23,3,1578.2,19.85,58.5,lo,0,IND,spin,yes,3.7024221453287196,21.474048442906575
+3,1231,136,AUS,5,65,55,MS Wade,RA Jadeja,7,3,11,34.61,1244,50.08,Left-hand bat,58,23,3,1578.2,19.85,58.5,lo,0,IND,spin,yes,3.7024221453287196,21.474048442906575
+3,1232,137,AUS,5,65,55,MS Wade,RA Jadeja,7,3,12,34.61,1244,50.08,Left-hand bat,59,23,3,1578.2,19.85,58.5,lo,0,IND,spin,yes,3.7024221453287196,21.474048442906575
+3,1273,178,AUS,5,84,74,MS Wade,RA Jadeja,7,12,25,34.61,1244,50.08,Left-hand bat,64,24,3,1578.2,19.85,58.5,lo,0,IND,spin,yes,3.7024221453287196,21.474048442906575
+3,1274,179,AUS,5,84,74,MS Wade,RA Jadeja,7,12,26,34.61,1244,50.08,Left-hand bat,65,24,3,1578.2,19.85,58.5,lo,4,IND,spin,yes,3.7024221453287196,21.474048442906575
+3,1302,207,AUS,7,115,105,MS Wade,RA Jadeja,7,17,35,34.61,1244,50.08,Left-hand bat,75,39,5,1578.2,19.85,58.5,lo,1,IND,spin,yes,3.7024221453287196,21.474048442906575

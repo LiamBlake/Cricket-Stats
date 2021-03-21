@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1833,247,NZL,3,108,-329,MS Sinclair,MS Panesar,4,22,27,33.65,3593,44.03,Right-hand bat,1,1,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001
+4,1834,248,NZL,3,108,-329,MS Sinclair,MS Panesar,4,22,28,33.65,3593,44.03,Right-hand bat,2,1,0,5856,33.25,68,lo,1,NZL,spin,yes,27.885,0.7150000000000001
+4,1844,258,NZL,3,112,-325,MS Sinclair,MS Panesar,4,23,29,33.65,3593,44.03,Right-hand bat,6,3,0,5856,33.25,68,lo,4,NZL,spin,yes,27.885,0.7150000000000001
+4,1845,259,NZL,3,116,-321,MS Sinclair,MS Panesar,4,27,30,33.65,3593,44.03,Right-hand bat,7,7,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001
+4,1846,260,NZL,3,116,-321,MS Sinclair,MS Panesar,4,27,31,33.65,3593,44.03,Right-hand bat,8,7,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001
+4,1847,261,NZL,3,116,-321,MS Sinclair,MS Panesar,4,27,32,33.65,3593,44.03,Right-hand bat,9,7,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001
+4,1848,262,NZL,3,116,-321,MS Sinclair,MS Panesar,4,27,33,33.65,3593,44.03,Right-hand bat,10,7,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001
+4,1849,263,NZL,3,116,-321,MS Sinclair,MS Panesar,4,27,34,33.65,3593,44.03,Right-hand bat,11,7,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001
+4,1859,273,NZL,3,128,-309,MS Sinclair,MS Panesar,4,31,38,33.65,3593,44.03,Right-hand bat,15,8,0,5856,33.25,68,lo,1,NZL,spin,yes,27.885,0.7150000000000001
+4,1868,282,NZL,3,132,-305,MS Sinclair,MS Panesar,4,34,43,33.65,3593,44.03,Right-hand bat,18,9,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001
+4,1869,283,NZL,3,132,-305,MS Sinclair,MS Panesar,4,34,44,33.65,3593,44.03,Right-hand bat,19,9,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001
+4,1870,284,NZL,3,132,-305,MS Sinclair,MS Panesar,4,34,45,33.65,3593,44.03,Right-hand bat,20,9,0,5856,33.25,68,lo,1,NZL,spin,yes,27.885,0.7150000000000001

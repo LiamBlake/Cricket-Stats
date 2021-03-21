@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1551,769,WIN,5,410,59,D Ramdin,DL Vettori,7,0,0,23.54,3432,48.01,Right-hand bat,228,83,0,28668.2,34.42,79.6,lo,0,WIN,spin,no,24.65452653485952,15.571279916753383
+2,1552,770,WIN,5,410,59,D Ramdin,DL Vettori,7,0,1,23.54,3432,48.01,Right-hand bat,229,83,0,28668.2,34.42,79.6,lo,1,WIN,spin,no,24.65452653485952,15.571279916753383
+2,1554,772,WIN,5,412,61,D Ramdin,DL Vettori,7,1,2,23.54,3432,48.01,Right-hand bat,231,85,0,28668.2,34.42,79.6,lo,2,WIN,spin,no,24.65452653485952,15.571279916753383
+2,1555,773,WIN,5,414,63,D Ramdin,DL Vettori,7,3,3,23.54,3432,48.01,Right-hand bat,232,87,0,28668.2,34.42,79.6,lo,0,WIN,spin,no,24.65452653485952,15.571279916753383
+2,1556,774,WIN,5,414,63,D Ramdin,DL Vettori,7,3,4,23.54,3432,48.01,Right-hand bat,233,87,0,28668.2,34.42,79.6,lo,0,WIN,spin,no,24.65452653485952,15.571279916753383
+2,1566,784,WIN,5,416,65,D Ramdin,DL Vettori,7,3,8,23.54,3432,48.01,Right-hand bat,237,88,0,28668.2,34.42,79.6,lo,0,WIN,spin,no,24.65452653485952,15.571279916753383
+2,1567,785,WIN,5,416,65,D Ramdin,DL Vettori,7,3,9,23.54,3432,48.01,Right-hand bat,238,88,0,28668.2,34.42,79.6,lo,0,WIN,spin,no,24.65452653485952,15.571279916753383
+2,1568,786,WIN,5,416,65,D Ramdin,DL Vettori,7,3,10,23.54,3432,48.01,Right-hand bat,239,88,0,28668.2,34.42,79.6,lo,0,WIN,spin,no,24.65452653485952,15.571279916753383
+2,1576,794,WIN,5,418,67,D Ramdin,DL Vettori,7,3,14,23.54,3432,48.01,Right-hand bat,241,89,0,28668.2,34.42,79.6,lo,0,WIN,spin,no,24.65452653485952,15.571279916753383
+2,1577,795,WIN,5,418,67,D Ramdin,DL Vettori,7,3,15,23.54,3432,48.01,Right-hand bat,242,89,0,28668.2,34.42,79.6,lo,0,WIN,spin,no,24.65452653485952,15.571279916753383
+2,1578,796,WIN,5,418,67,D Ramdin,DL Vettori,7,3,16,23.54,3432,48.01,Right-hand bat,243,89,0,28668.2,34.42,79.6,lo,0,WIN,spin,no,24.65452653485952,15.571279916753383
+2,1579,797,WIN,5,418,67,D Ramdin,DL Vettori,7,3,17,23.54,3432,48.01,Right-hand bat,244,89,0,28668.2,34.42,79.6,lo,0,WIN,spin,no,24.65452653485952,15.571279916753383
+2,1580,798,WIN,5,418,67,D Ramdin,DL Vettori,7,3,18,23.54,3432,48.01,Right-hand bat,245,89,0,28668.2,34.42,79.6,lo,0,WIN,spin,no,24.65452653485952,15.571279916753383

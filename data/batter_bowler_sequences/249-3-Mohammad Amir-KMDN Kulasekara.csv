@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1251,543,PAK,8,316,166,Mohammad Amir,KMDN Kulasekara,10,0,0,4.33,59,22.03,Left-hand bat,98,34,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,1252,544,PAK,8,316,166,Mohammad Amir,KMDN Kulasekara,10,0,1,4.33,59,22.03,Left-hand bat,99,34,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,1253,545,PAK,8,316,166,Mohammad Amir,KMDN Kulasekara,10,0,2,4.33,59,22.03,Left-hand bat,100,34,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,1254,546,PAK,8,316,166,Mohammad Amir,KMDN Kulasekara,10,0,3,4.33,59,22.03,Left-hand bat,101,34,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,1274,566,PAK,8,319,169,Mohammad Amir,KMDN Kulasekara,10,0,4,4.33,59,22.03,Left-hand bat,109,36,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,1275,567,PAK,8,319,169,Mohammad Amir,KMDN Kulasekara,10,0,5,4.33,59,22.03,Left-hand bat,110,36,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,1276,568,PAK,8,319,169,Mohammad Amir,KMDN Kulasekara,10,0,6,4.33,59,22.03,Left-hand bat,111,36,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,1277,569,PAK,8,319,169,Mohammad Amir,KMDN Kulasekara,10,0,7,4.33,59,22.03,Left-hand bat,112,36,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,1278,570,PAK,8,319,169,Mohammad Amir,KMDN Kulasekara,10,0,8,4.33,59,22.03,Left-hand bat,113,36,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,1279,571,PAK,8,319,169,Mohammad Amir,KMDN Kulasekara,10,0,9,4.33,59,22.03,Left-hand bat,114,36,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,1286,578,PAK,9,319,169,Mohammad Amir,KMDN Kulasekara,10,0,10,4.33,59,22.03,Left-hand bat,115,36,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,1287,579,PAK,9,319,169,Mohammad Amir,KMDN Kulasekara,10,0,11,4.33,59,22.03,Left-hand bat,116,36,3,1164.4,34.94,68.7,rfm,0,SRL,seam,yes,12.816345270890725,12.062442607897154
+3,1288,580,PAK,9,319,169,Mohammad Amir,KMDN Kulasekara,10,0,12,4.33,59,22.03,Left-hand bat,117,36,3,1164.4,34.94,68.7,rfm,1,SRL,seam,yes,12.816345270890725,12.062442607897154

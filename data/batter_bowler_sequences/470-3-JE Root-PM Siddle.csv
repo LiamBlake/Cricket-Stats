@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1259,207,ENG,2,91,-241,JE Root,PM Siddle,4,5,21,54.66,5227,52.28,Right-hand bat,38,2,1,12108.5,29.87,61.1,rfm,0,ENG,seam,yes,22.391111111111112,8.142222222222223
+3,1260,208,ENG,2,91,-241,JE Root,PM Siddle,4,5,22,54.66,5227,52.28,Right-hand bat,39,2,1,12108.5,29.87,61.1,rfm,0,ENG,seam,yes,22.391111111111112,8.142222222222223
+3,1261,209,ENG,2,91,-241,JE Root,PM Siddle,4,5,23,54.66,5227,52.28,Right-hand bat,40,2,1,12108.5,29.87,61.1,rfm,0,ENG,seam,yes,22.391111111111112,8.142222222222223
+3,1262,210,ENG,2,91,-241,JE Root,PM Siddle,4,5,24,54.66,5227,52.28,Right-hand bat,41,2,1,12108.5,29.87,61.1,rfm,0,ENG,seam,yes,22.391111111111112,8.142222222222223

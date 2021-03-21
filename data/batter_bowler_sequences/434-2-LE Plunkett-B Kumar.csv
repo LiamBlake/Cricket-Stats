@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1486,519,ENG,8,280,-177,LE Plunkett,B Kumar,10,0,0,11.73,411,42.82,Right-hand bat,120,46,3,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1487,520,ENG,8,280,-177,LE Plunkett,B Kumar,10,0,1,11.73,411,42.82,Right-hand bat,121,46,3,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1495,528,ENG,8,281,-176,LE Plunkett,B Kumar,10,0,2,11.73,411,42.82,Right-hand bat,122,46,3,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1496,529,ENG,8,281,-176,LE Plunkett,B Kumar,10,0,3,11.73,411,42.82,Right-hand bat,123,46,3,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1497,530,ENG,8,281,-176,LE Plunkett,B Kumar,10,0,4,11.73,411,42.82,Right-hand bat,124,46,3,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1498,531,ENG,8,281,-176,LE Plunkett,B Kumar,10,0,5,11.73,411,42.82,Right-hand bat,125,46,3,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1499,532,ENG,8,281,-176,LE Plunkett,B Kumar,10,0,6,11.73,411,42.82,Right-hand bat,126,46,3,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1500,533,ENG,8,281,-176,LE Plunkett,B Kumar,10,0,7,11.73,411,42.82,Right-hand bat,127,46,3,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1526,559,ENG,8,298,-159,LE Plunkett,B Kumar,10,7,19,11.73,411,42.82,Right-hand bat,129,47,3,804.5,30.21,57.7,rm,0,ENG,seam,no,39.952437574316285,6.3923900118906065
+2,1527,560,ENG,8,298,-159,LE Plunkett,B Kumar,10,7,20,11.73,411,42.82,Right-hand bat,130,47,3,804.5,30.21,57.7,rm,W,ENG,seam,no,39.952437574316285,6.3923900118906065

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,860,158,SRL,3,57,-335,DM de Silva,K Rabada,4,0,3,50.23,1191,54.82,Right-hand bat,43,24,2,2154.2,22.01,37.1,rf,0,RSA,seam,yes,20.818115412710007,4.857560262965668
+2,861,159,SRL,3,57,-335,DM de Silva,K Rabada,4,0,4,50.23,1191,54.82,Right-hand bat,44,24,2,2154.2,22.01,37.1,rf,2,RSA,seam,yes,20.818115412710007,4.857560262965668
+2,862,160,SRL,3,59,-333,DM de Silva,K Rabada,4,2,5,50.23,1191,54.82,Right-hand bat,45,26,2,2154.2,22.01,37.1,rf,0,RSA,seam,yes,20.818115412710007,4.857560262965668
+2,863,161,SRL,3,59,-333,DM de Silva,K Rabada,4,2,6,50.23,1191,54.82,Right-hand bat,46,26,2,2154.2,22.01,37.1,rf,0,RSA,seam,yes,20.818115412710007,4.857560262965668
+2,864,162,SRL,3,59,-333,DM de Silva,K Rabada,4,2,7,50.23,1191,54.82,Right-hand bat,47,26,2,2154.2,22.01,37.1,rf,0,RSA,seam,yes,20.818115412710007,4.857560262965668
+2,865,163,SRL,3,59,-333,DM de Silva,K Rabada,4,2,8,50.23,1191,54.82,Right-hand bat,48,26,2,2154.2,22.01,37.1,rf,0,RSA,seam,yes,20.818115412710007,4.857560262965668
+2,884,182,SRL,4,65,-327,DM de Silva,K Rabada,4,3,12,50.23,1191,54.82,Right-hand bat,55,30,3,2154.2,22.01,37.1,rf,0,RSA,seam,yes,20.818115412710007,4.857560262965668
+2,885,183,SRL,4,65,-327,DM de Silva,K Rabada,4,3,13,50.23,1191,54.82,Right-hand bat,56,30,3,2154.2,22.01,37.1,rf,0,RSA,seam,yes,20.818115412710007,4.857560262965668
+2,886,184,SRL,4,65,-327,DM de Silva,K Rabada,4,3,14,50.23,1191,54.82,Right-hand bat,57,30,3,2154.2,22.01,37.1,rf,2,RSA,seam,yes,20.818115412710007,4.857560262965668
+2,887,185,SRL,4,67,-325,DM de Silva,K Rabada,4,5,15,50.23,1191,54.82,Right-hand bat,58,32,3,2154.2,22.01,37.1,rf,1,RSA,seam,yes,20.818115412710007,4.857560262965668

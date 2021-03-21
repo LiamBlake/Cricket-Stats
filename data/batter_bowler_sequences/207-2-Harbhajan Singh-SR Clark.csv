@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1441,538,IND,7,273,-157,Harbhajan Singh,SR Clark,8,44,75,15.77,1968,64.12,Right-hand bat,84,43,0,4218.4,22.06,51.4,rfm,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1442,539,IND,7,273,-157,Harbhajan Singh,SR Clark,8,44,76,15.77,1968,64.12,Right-hand bat,85,43,0,4218.4,22.06,51.4,rfm,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1443,540,IND,7,273,-157,Harbhajan Singh,SR Clark,8,44,77,15.77,1968,64.12,Right-hand bat,86,43,0,4218.4,22.06,51.4,rfm,2,IND,seam,no,31.866666666666667,7.966666666666667
+2,1444,541,IND,7,275,-155,Harbhajan Singh,SR Clark,8,46,78,15.77,1968,64.12,Right-hand bat,87,45,0,4218.4,22.06,51.4,rfm,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1445,542,IND,7,275,-155,Harbhajan Singh,SR Clark,8,46,79,15.77,1968,64.12,Right-hand bat,88,45,0,4218.4,22.06,51.4,rfm,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1446,543,IND,7,275,-155,Harbhajan Singh,SR Clark,8,46,80,15.77,1968,64.12,Right-hand bat,89,45,0,4218.4,22.06,51.4,rfm,4b,IND,seam,no,31.866666666666667,7.966666666666667
+2,1458,555,IND,7,282,-148,Harbhajan Singh,SR Clark,8,46,83,15.77,1968,64.12,Right-hand bat,95,47,0,4218.4,22.06,51.4,rfm,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1459,556,IND,7,282,-148,Harbhajan Singh,SR Clark,8,46,84,15.77,1968,64.12,Right-hand bat,96,47,0,4218.4,22.06,51.4,rfm,4,IND,seam,no,31.866666666666667,7.966666666666667
+2,1466,563,IND,7,290,-140,Harbhajan Singh,SR Clark,8,50,85,15.77,1968,64.12,Right-hand bat,97,51,0,4218.4,22.06,51.4,rfm,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1467,564,IND,7,290,-140,Harbhajan Singh,SR Clark,8,50,86,15.77,1968,64.12,Right-hand bat,98,51,0,4218.4,22.06,51.4,rfm,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1468,565,IND,7,290,-140,Harbhajan Singh,SR Clark,8,50,87,15.77,1968,64.12,Right-hand bat,99,51,0,4218.4,22.06,51.4,rfm,0,IND,seam,no,31.866666666666667,7.966666666666667
+2,1469,566,IND,7,290,-140,Harbhajan Singh,SR Clark,8,50,88,15.77,1968,64.12,Right-hand bat,100,51,0,4218.4,22.06,51.4,rfm,1,IND,seam,no,31.866666666666667,7.966666666666667

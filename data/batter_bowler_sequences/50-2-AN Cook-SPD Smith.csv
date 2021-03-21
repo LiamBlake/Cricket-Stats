@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1054,339,ENG,2,181,-146,AN Cook,SPD Smith,1,93,160,46.52,25391,47.08,Left-hand bat,0,0,0,1284.1,54,75.5,rls,4,AUS,spin,no,37.53472222222222,7.506944444444444
+2,1055,340,ENG,2,185,-142,AN Cook,SPD Smith,1,97,161,46.52,25391,47.08,Left-hand bat,1,4,0,1284.1,54,75.5,rls,0,AUS,spin,no,37.53472222222222,7.506944444444444
+2,1056,341,ENG,2,185,-142,AN Cook,SPD Smith,1,97,162,46.52,25391,47.08,Left-hand bat,2,4,0,1284.1,54,75.5,rls,2,AUS,spin,no,37.53472222222222,7.506944444444444
+2,1057,342,ENG,2,187,-140,AN Cook,SPD Smith,1,99,163,46.52,25391,47.08,Left-hand bat,3,6,0,1284.1,54,75.5,rls,4,AUS,spin,no,37.53472222222222,7.506944444444444
+2,1058,343,ENG,2,191,-136,AN Cook,SPD Smith,1,103,164,46.52,25391,47.08,Left-hand bat,4,10,0,1284.1,54,75.5,rls,0,AUS,spin,no,37.53472222222222,7.506944444444444
+2,1059,344,ENG,2,191,-136,AN Cook,SPD Smith,1,103,165,46.52,25391,47.08,Left-hand bat,5,10,0,1284.1,54,75.5,rls,1,AUS,spin,no,37.53472222222222,7.506944444444444

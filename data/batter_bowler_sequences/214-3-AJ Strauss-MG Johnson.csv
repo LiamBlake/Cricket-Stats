@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,919,80,ENG,0,25,-318,AJ Strauss,MG Johnson,1,13,50,44.27,10347,49.63,Left-hand bat,0,0,0,6090.3,28.68,55.3,lf,0,ENG,seam,yes,27,0
+3,920,81,ENG,0,25,-318,AJ Strauss,MG Johnson,1,13,51,44.27,10347,49.63,Left-hand bat,1,0,0,6090.3,28.68,55.3,lf,4,ENG,seam,yes,27,0
+3,921,82,ENG,0,29,-314,AJ Strauss,MG Johnson,1,17,52,44.27,10347,49.63,Left-hand bat,2,4,0,6090.3,28.68,55.3,lf,0,ENG,seam,yes,27,0
+3,922,83,ENG,0,29,-314,AJ Strauss,MG Johnson,1,17,53,44.27,10347,49.63,Left-hand bat,3,4,0,6090.3,28.68,55.3,lf,0,ENG,seam,yes,27,0
+3,923,84,ENG,0,29,-314,AJ Strauss,MG Johnson,1,17,54,44.27,10347,49.63,Left-hand bat,4,4,0,6090.3,28.68,55.3,lf,0,ENG,seam,yes,27,0
+3,924,85,ENG,0,29,-314,AJ Strauss,MG Johnson,1,17,55,44.27,10347,49.63,Left-hand bat,5,4,0,6090.3,28.68,55.3,lf,0,ENG,seam,yes,27,0
+3,931,92,ENG,0,29,-314,AJ Strauss,MG Johnson,1,17,56,44.27,10347,49.63,Left-hand bat,6,4,0,6090.3,28.68,55.3,lf,1,ENG,seam,yes,27,0
+3,946,107,ENG,0,45,-298,AJ Strauss,MG Johnson,1,28,63,44.27,10347,49.63,Left-hand bat,15,9,0,6090.3,28.68,55.3,lf,0,ENG,seam,yes,27,0
+3,947,108,ENG,0,45,-298,AJ Strauss,MG Johnson,1,28,64,44.27,10347,49.63,Left-hand bat,16,9,0,6090.3,28.68,55.3,lf,1,ENG,seam,yes,27,0
+3,960,121,ENG,0,53,-290,AJ Strauss,MG Johnson,1,31,70,44.27,10347,49.63,Left-hand bat,23,11,0,6090.3,28.68,55.3,lf,0,ENG,seam,yes,27,0
+3,968,129,ENG,0,57,-286,AJ Strauss,MG Johnson,1,32,72,44.27,10347,49.63,Left-hand bat,25,12,0,6090.3,28.68,55.3,lf,0,ENG,seam,yes,27,0
+3,969,130,ENG,0,57,-286,AJ Strauss,MG Johnson,1,32,73,44.27,10347,49.63,Left-hand bat,26,12,0,6090.3,28.68,55.3,lf,0,ENG,seam,yes,27,0
+3,970,131,ENG,0,57,-286,AJ Strauss,MG Johnson,1,32,74,44.27,10347,49.63,Left-hand bat,27,12,0,6090.3,28.68,55.3,lf,0,ENG,seam,yes,27,0
+3,971,132,ENG,0,57,-286,AJ Strauss,MG Johnson,1,32,75,44.27,10347,49.63,Left-hand bat,28,12,0,6090.3,28.68,55.3,lf,0,ENG,seam,yes,27,0
+3,972,133,ENG,0,57,-286,AJ Strauss,MG Johnson,1,32,76,44.27,10347,49.63,Left-hand bat,29,12,0,6090.3,28.68,55.3,lf,0,ENG,seam,yes,27,0

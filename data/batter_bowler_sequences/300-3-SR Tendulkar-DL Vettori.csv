@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1937,21,IND,2,2,30,SR Tendulkar,DL Vettori,4,0,6,56.71,NA,NA,Right-hand bat,9,2,1,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,1938,22,IND,2,2,30,SR Tendulkar,DL Vettori,4,0,7,56.71,NA,NA,Right-hand bat,10,2,1,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,1939,23,IND,2,2,30,SR Tendulkar,DL Vettori,4,0,8,56.71,NA,NA,Right-hand bat,11,2,1,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,1946,30,IND,3,2,30,SR Tendulkar,DL Vettori,4,0,9,56.71,NA,NA,Right-hand bat,12,2,1,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,1947,31,IND,3,2,30,SR Tendulkar,DL Vettori,4,0,10,56.71,NA,NA,Right-hand bat,13,2,1,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,1948,32,IND,3,2,30,SR Tendulkar,DL Vettori,4,0,11,56.71,NA,NA,Right-hand bat,14,2,1,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,1949,33,IND,3,2,30,SR Tendulkar,DL Vettori,4,0,12,56.71,NA,NA,Right-hand bat,15,2,1,25554,33.85,77.2,lo,1,IND,spin,yes,15.408949011446408,24.397502601456814
+3,1961,45,IND,3,14,42,SR Tendulkar,DL Vettori,4,11,19,56.71,NA,NA,Right-hand bat,21,4,1,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,1962,46,IND,3,14,42,SR Tendulkar,DL Vettori,4,11,20,56.71,NA,NA,Right-hand bat,22,4,1,25554,33.85,77.2,lo,0,IND,spin,yes,15.408949011446408,24.397502601456814
+3,1963,47,IND,3,14,42,SR Tendulkar,DL Vettori,4,11,21,56.71,NA,NA,Right-hand bat,23,4,1,25554,33.85,77.2,lo,1,IND,spin,yes,15.408949011446408,24.397502601456814

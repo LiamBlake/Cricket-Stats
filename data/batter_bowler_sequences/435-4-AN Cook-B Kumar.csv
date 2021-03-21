@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1865,54,ENG,1,18,-300,AN Cook,B Kumar,2,5,17,45.34,17420,46.85,Left-hand bat,18,2,0,1086.5,26.3,54.5,rm,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+4,1866,55,ENG,1,18,-300,AN Cook,B Kumar,2,5,18,45.34,17420,46.85,Left-hand bat,19,2,0,1086.5,26.3,54.5,rm,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+4,1867,56,ENG,1,18,-300,AN Cook,B Kumar,2,5,19,45.34,17420,46.85,Left-hand bat,20,2,0,1086.5,26.3,54.5,rm,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+4,1868,57,ENG,1,18,-300,AN Cook,B Kumar,2,5,20,45.34,17420,46.85,Left-hand bat,21,2,0,1086.5,26.3,54.5,rm,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+4,1869,58,ENG,1,18,-300,AN Cook,B Kumar,2,5,21,45.34,17420,46.85,Left-hand bat,22,2,0,1086.5,26.3,54.5,rm,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+4,1870,59,ENG,1,18,-300,AN Cook,B Kumar,2,5,22,45.34,17420,46.85,Left-hand bat,23,2,0,1086.5,26.3,54.5,rm,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+4,1889,78,ENG,1,32,-286,AN Cook,B Kumar,2,7,26,45.34,17420,46.85,Left-hand bat,30,6,0,1086.5,26.3,54.5,rm,4,ENG,seam,yes,23.580000000000002,5.8950000000000005
+4,1890,79,ENG,1,36,-282,AN Cook,B Kumar,2,11,27,45.34,17420,46.85,Left-hand bat,31,10,0,1086.5,26.3,54.5,rm,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+4,1891,80,ENG,1,36,-282,AN Cook,B Kumar,2,11,28,45.34,17420,46.85,Left-hand bat,32,10,0,1086.5,26.3,54.5,rm,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+4,1892,81,ENG,1,36,-282,AN Cook,B Kumar,2,11,29,45.34,17420,46.85,Left-hand bat,33,10,0,1086.5,26.3,54.5,rm,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+4,1893,82,ENG,1,36,-282,AN Cook,B Kumar,2,11,30,45.34,17420,46.85,Left-hand bat,34,10,0,1086.5,26.3,54.5,rm,0,ENG,seam,yes,23.580000000000002,5.8950000000000005
+4,1894,83,ENG,1,36,-282,AN Cook,B Kumar,2,11,31,45.34,17420,46.85,Left-hand bat,35,10,0,1086.5,26.3,54.5,rm,0,ENG,seam,yes,23.580000000000002,5.8950000000000005

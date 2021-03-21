@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1126,196,NZL,7,61,-464,N Wagner,DW Steyn,9,0,0,8.33,225,22.22,Left-hand bat,64,14,3,12972.2,23.28,41.5,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,1127,197,NZL,7,61,-464,N Wagner,DW Steyn,9,0,1,8.33,225,22.22,Left-hand bat,65,14,3,12972.2,23.28,41.5,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,1134,204,NZL,7,61,-464,N Wagner,DW Steyn,9,0,2,8.33,225,22.22,Left-hand bat,66,14,3,12972.2,23.28,41.5,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,1135,205,NZL,7,61,-464,N Wagner,DW Steyn,9,0,3,8.33,225,22.22,Left-hand bat,67,14,3,12972.2,23.28,41.5,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,1136,206,NZL,7,61,-464,N Wagner,DW Steyn,9,0,4,8.33,225,22.22,Left-hand bat,68,14,3,12972.2,23.28,41.5,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,1137,207,NZL,7,61,-464,N Wagner,DW Steyn,9,0,5,8.33,225,22.22,Left-hand bat,69,14,3,12972.2,23.28,41.5,rf,1wd,RSA,seam,no,25.141581632653065,5.465561224489796
+2,1138,208,NZL,7,62,-463,N Wagner,DW Steyn,9,0,5,8.33,225,22.22,Left-hand bat,70,15,3,12972.2,23.28,41.5,rf,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,1139,209,NZL,7,62,-463,N Wagner,DW Steyn,9,0,6,8.33,225,22.22,Left-hand bat,71,15,3,12972.2,23.28,41.5,rf,W,RSA,seam,no,25.141581632653065,5.465561224489796

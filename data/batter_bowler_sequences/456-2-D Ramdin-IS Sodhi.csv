@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1142,689,WIN,7,380,159,D Ramdin,IS Sodhi,9,0,0,27.52,4722,49.55,Right-hand bat,91,73,2,1350.4,46.57,71.2,rls,1,WIN,spin,no,24.6,12.3
+2,1146,693,WIN,7,388,167,D Ramdin,IS Sodhi,9,1,1,27.52,4722,49.55,Right-hand bat,95,81,2,1350.4,46.57,71.2,rls,0,WIN,spin,no,24.6,12.3
+2,1153,700,WIN,7,390,169,D Ramdin,IS Sodhi,9,2,5,27.52,4722,49.55,Right-hand bat,96,81,2,1350.4,46.57,71.2,rls,1,WIN,spin,no,24.6,12.3
+2,1155,702,WIN,7,392,171,D Ramdin,IS Sodhi,9,3,6,27.52,4722,49.55,Right-hand bat,98,83,2,1350.4,46.57,71.2,rls,0,WIN,spin,no,24.6,12.3
+2,1156,703,WIN,7,392,171,D Ramdin,IS Sodhi,9,3,7,27.52,4722,49.55,Right-hand bat,99,83,2,1350.4,46.57,71.2,rls,1,WIN,spin,no,24.6,12.3
+2,1158,705,WIN,7,394,173,D Ramdin,IS Sodhi,9,4,8,27.52,4722,49.55,Right-hand bat,101,85,2,1350.4,46.57,71.2,rls,0,WIN,spin,no,24.6,12.3
+2,1257,804,WIN,7,449,228,D Ramdin,IS Sodhi,9,32,53,27.52,4722,49.55,Right-hand bat,104,86,2,1350.4,46.57,71.2,rls,0,WIN,spin,no,24.6,12.3
+2,1258,805,WIN,7,449,228,D Ramdin,IS Sodhi,9,32,54,27.52,4722,49.55,Right-hand bat,105,86,2,1350.4,46.57,71.2,rls,0,WIN,spin,no,24.6,12.3
+2,1259,806,WIN,7,449,228,D Ramdin,IS Sodhi,9,32,55,27.52,4722,49.55,Right-hand bat,106,86,2,1350.4,46.57,71.2,rls,0,WIN,spin,no,24.6,12.3
+2,1260,807,WIN,7,449,228,D Ramdin,IS Sodhi,9,32,56,27.52,4722,49.55,Right-hand bat,107,86,2,1350.4,46.57,71.2,rls,0,WIN,spin,no,24.6,12.3

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1180,141,SRL,6,70,-161,NLTC Perera,M Morkel,8,0,0,13.8,92,75,Left-hand bat,37,22,1,6582.1,30.28,53.9,rf,0,RSA,seam,no,22.23,2.4699999999999998
+3,1181,142,SRL,6,70,-161,NLTC Perera,M Morkel,8,0,1,13.8,92,75,Left-hand bat,38,22,1,6582.1,30.28,53.9,rf,0,RSA,seam,no,22.23,2.4699999999999998
+3,1182,143,SRL,6,70,-161,NLTC Perera,M Morkel,8,0,2,13.8,92,75,Left-hand bat,39,22,1,6582.1,30.28,53.9,rf,0,RSA,seam,no,22.23,2.4699999999999998
+3,1190,151,SRL,6,73,-158,NLTC Perera,M Morkel,8,0,3,13.8,92,75,Left-hand bat,40,22,1,6582.1,30.28,53.9,rf,0,RSA,seam,no,22.23,2.4699999999999998
+3,1191,152,SRL,6,73,-158,NLTC Perera,M Morkel,8,0,4,13.8,92,75,Left-hand bat,41,22,1,6582.1,30.28,53.9,rf,3,RSA,seam,no,22.23,2.4699999999999998
+3,1215,176,SRL,6,87,-144,NLTC Perera,M Morkel,8,8,14,13.8,92,75,Left-hand bat,53,30,1,6582.1,30.28,53.9,rf,0,RSA,seam,no,22.23,2.4699999999999998
+3,1216,177,SRL,6,87,-144,NLTC Perera,M Morkel,8,8,15,13.8,92,75,Left-hand bat,54,30,1,6582.1,30.28,53.9,rf,0,RSA,seam,no,22.23,2.4699999999999998
+3,1217,178,SRL,6,87,-144,NLTC Perera,M Morkel,8,8,16,13.8,92,75,Left-hand bat,55,30,1,6582.1,30.28,53.9,rf,0,RSA,seam,no,22.23,2.4699999999999998
+3,1218,179,SRL,6,87,-144,NLTC Perera,M Morkel,8,8,17,13.8,92,75,Left-hand bat,56,30,1,6582.1,30.28,53.9,rf,2,RSA,seam,no,22.23,2.4699999999999998
+3,1219,180,SRL,6,89,-142,NLTC Perera,M Morkel,8,10,18,13.8,92,75,Left-hand bat,57,32,1,6582.1,30.28,53.9,rf,0,RSA,seam,no,22.23,2.4699999999999998

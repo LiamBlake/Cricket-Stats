@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2006,548,IND,7,270,-55,Z Khan,M Morkel,9,5,6,13.47,1880,51.59,Right-hand bat,121,57,1,4194.5,32.25,55.2,rf,0,IND,seam,no,31.198224852071007,11.494082840236688
+3,2007,549,IND,7,270,-55,Z Khan,M Morkel,9,5,7,13.47,1880,51.59,Right-hand bat,122,57,1,4194.5,32.25,55.2,rf,0,IND,seam,no,31.198224852071007,11.494082840236688
+3,2014,556,IND,7,270,-55,Z Khan,M Morkel,9,5,8,13.47,1880,51.59,Right-hand bat,123,57,1,4194.5,32.25,55.2,rf,4,IND,seam,no,31.198224852071007,11.494082840236688
+3,2015,557,IND,7,274,-51,Z Khan,M Morkel,9,9,9,13.47,1880,51.59,Right-hand bat,124,61,1,4194.5,32.25,55.2,rf,0,IND,seam,no,31.198224852071007,11.494082840236688
+3,2016,558,IND,7,274,-51,Z Khan,M Morkel,9,9,10,13.47,1880,51.59,Right-hand bat,125,61,1,4194.5,32.25,55.2,rf,4,IND,seam,no,31.198224852071007,11.494082840236688
+3,2017,559,IND,7,278,-47,Z Khan,M Morkel,9,13,11,13.47,1880,51.59,Right-hand bat,126,65,1,4194.5,32.25,55.2,rf,0,IND,seam,no,31.198224852071007,11.494082840236688
+3,2018,560,IND,7,278,-47,Z Khan,M Morkel,9,13,12,13.47,1880,51.59,Right-hand bat,127,65,1,4194.5,32.25,55.2,rf,0,IND,seam,no,31.198224852071007,11.494082840236688
+3,2019,561,IND,7,278,-47,Z Khan,M Morkel,9,13,13,13.47,1880,51.59,Right-hand bat,128,65,1,4194.5,32.25,55.2,rf,0,IND,seam,no,31.198224852071007,11.494082840236688

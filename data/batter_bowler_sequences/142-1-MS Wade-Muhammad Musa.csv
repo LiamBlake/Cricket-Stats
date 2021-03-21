@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,747,747,AUS,3,570,570,MS Wade,Muhammad Musa,5,30,29,31.45,2564,51.52,Left-hand bat,116,106,0,120,NA,NA,rfm,2,AUS,seam,yes,38.449905482041586,10.680529300567107
+1,748,748,AUS,3,572,572,MS Wade,Muhammad Musa,5,32,30,31.45,2564,51.52,Left-hand bat,117,108,0,120,NA,NA,rfm,0,AUS,seam,yes,38.449905482041586,10.680529300567107
+1,749,749,AUS,3,572,572,MS Wade,Muhammad Musa,5,32,31,31.45,2564,51.52,Left-hand bat,118,108,0,120,NA,NA,rfm,1,AUS,seam,yes,38.449905482041586,10.680529300567107
+1,751,751,AUS,3,574,574,MS Wade,Muhammad Musa,5,33,32,31.45,2564,51.52,Left-hand bat,120,110,0,120,NA,NA,rfm,0,AUS,seam,yes,38.449905482041586,10.680529300567107
+1,760,760,AUS,3,580,580,MS Wade,Muhammad Musa,5,34,34,31.45,2564,51.52,Left-hand bat,123,111,0,120,NA,NA,rfm,0,AUS,seam,yes,38.449905482041586,10.680529300567107
+1,761,761,AUS,3,580,580,MS Wade,Muhammad Musa,5,34,35,31.45,2564,51.52,Left-hand bat,124,111,0,120,NA,NA,rfm,0,AUS,seam,yes,38.449905482041586,10.680529300567107
+1,762,762,AUS,3,580,580,MS Wade,Muhammad Musa,5,34,36,31.45,2564,51.52,Left-hand bat,125,111,0,120,NA,NA,rfm,2,AUS,seam,yes,38.449905482041586,10.680529300567107
+1,763,763,AUS,3,582,582,MS Wade,Muhammad Musa,5,36,37,31.45,2564,51.52,Left-hand bat,126,113,0,120,NA,NA,rfm,0,AUS,seam,yes,38.449905482041586,10.680529300567107

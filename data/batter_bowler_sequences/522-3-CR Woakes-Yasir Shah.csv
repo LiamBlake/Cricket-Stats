@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1697,345,ENG,6,193,-21,CR Woakes,Yasir Shah,8,0,0,31.61,860,47.79,Right-hand bat,107,49,4,5106.4,27.48,53.7,rls,0,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1716,364,ENG,6,195,-19,CR Woakes,Yasir Shah,8,0,6,31.61,860,47.79,Right-hand bat,114,50,4,5106.4,27.48,53.7,rls,1,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1720,368,ENG,6,199,-15,CR Woakes,Yasir Shah,8,1,7,31.61,860,47.79,Right-hand bat,118,54,4,5106.4,27.48,53.7,rls,0,ENG,spin,yes,28.477777777777778,10.355555555555556
+3,1721,369,ENG,6,199,-15,CR Woakes,Yasir Shah,8,1,8,31.61,860,47.79,Right-hand bat,119,54,4,5106.4,27.48,53.7,rls,0,ENG,spin,yes,28.477777777777778,10.355555555555556

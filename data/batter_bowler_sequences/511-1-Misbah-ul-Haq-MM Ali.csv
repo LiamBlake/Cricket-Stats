@@ -1,0 +1,19 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,200,200,PAK,3,89,89,Misbah-ul-Haq,MM Ali,5,0,4,48.89,9856,44.15,Right-hand bat,44,24,1,3168,38.14,58.6,rob,0,ENG,spin,yes,9.19625,17.07875
+1,201,201,PAK,3,89,89,Misbah-ul-Haq,MM Ali,5,0,5,48.89,9856,44.15,Right-hand bat,45,24,1,3168,38.14,58.6,rob,1,ENG,spin,yes,9.19625,17.07875
+1,211,211,PAK,3,93,93,Misbah-ul-Haq,MM Ali,5,1,12,48.89,9856,44.15,Right-hand bat,49,28,1,3168,38.14,58.6,rob,1,ENG,spin,yes,9.19625,17.07875
+1,348,348,PAK,5,140,140,Misbah-ul-Haq,MM Ali,5,20,78,48.89,9856,44.15,Right-hand bat,54,34,1,3168,38.14,58.6,rob,1,ENG,spin,yes,9.19625,17.07875
+1,350,350,PAK,5,142,142,Misbah-ul-Haq,MM Ali,5,21,79,48.89,9856,44.15,Right-hand bat,56,36,1,3168,38.14,58.6,rob,0,ENG,spin,yes,9.19625,17.07875
+1,351,351,PAK,5,142,142,Misbah-ul-Haq,MM Ali,5,21,80,48.89,9856,44.15,Right-hand bat,57,36,1,3168,38.14,58.6,rob,0,ENG,spin,yes,9.19625,17.07875
+1,352,352,PAK,5,142,142,Misbah-ul-Haq,MM Ali,5,21,81,48.89,9856,44.15,Right-hand bat,58,36,1,3168,38.14,58.6,rob,4,ENG,spin,yes,9.19625,17.07875
+1,353,353,PAK,5,146,146,Misbah-ul-Haq,MM Ali,5,25,82,48.89,9856,44.15,Right-hand bat,59,40,1,3168,38.14,58.6,rob,0,ENG,spin,yes,9.19625,17.07875
+1,450,450,PAK,5,189,189,Misbah-ul-Haq,MM Ali,5,48,136,48.89,9856,44.15,Right-hand bat,60,40,1,3168,38.14,58.6,rob,1,ENG,spin,yes,9.19625,17.07875
+1,453,453,PAK,5,191,191,Misbah-ul-Haq,MM Ali,5,49,137,48.89,9856,44.15,Right-hand bat,63,42,1,3168,38.14,58.6,rob,2,ENG,spin,yes,9.19625,17.07875
+1,454,454,PAK,5,193,193,Misbah-ul-Haq,MM Ali,5,51,138,48.89,9856,44.15,Right-hand bat,64,44,1,3168,38.14,58.6,rob,1,ENG,spin,yes,9.19625,17.07875
+1,463,463,PAK,6,196,196,Misbah-ul-Haq,MM Ali,5,52,139,48.89,9856,44.15,Right-hand bat,67,46,2,3168,38.14,58.6,rob,0,ENG,spin,yes,9.19625,17.07875
+1,464,464,PAK,6,196,196,Misbah-ul-Haq,MM Ali,5,52,140,48.89,9856,44.15,Right-hand bat,68,46,2,3168,38.14,58.6,rob,0,ENG,spin,yes,9.19625,17.07875
+1,465,465,PAK,6,196,196,Misbah-ul-Haq,MM Ali,5,52,141,48.89,9856,44.15,Right-hand bat,69,46,2,3168,38.14,58.6,rob,0,ENG,spin,yes,9.19625,17.07875
+1,466,466,PAK,6,196,196,Misbah-ul-Haq,MM Ali,5,52,142,48.89,9856,44.15,Right-hand bat,70,46,2,3168,38.14,58.6,rob,0,ENG,spin,yes,9.19625,17.07875
+1,467,467,PAK,6,196,196,Misbah-ul-Haq,MM Ali,5,52,143,48.89,9856,44.15,Right-hand bat,71,46,2,3168,38.14,58.6,rob,0,ENG,spin,yes,9.19625,17.07875
+1,476,476,PAK,7,202,202,Misbah-ul-Haq,MM Ali,5,52,144,48.89,9856,44.15,Right-hand bat,74,47,2,3168,38.14,58.6,rob,1,ENG,spin,yes,9.19625,17.07875
+1,478,478,PAK,7,204,204,Misbah-ul-Haq,MM Ali,5,53,145,48.89,9856,44.15,Right-hand bat,76,49,2,3168,38.14,58.6,rob,1lb,ENG,spin,yes,9.19625,17.07875

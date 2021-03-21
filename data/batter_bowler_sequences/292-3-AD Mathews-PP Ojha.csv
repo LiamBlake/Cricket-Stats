@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1670,177,SRL,5,78,67,AD Mathews,PP Ojha,7,0,0,36.15,786,59.79,Right-hand bat,69,34,3,1722.1,42.8,82,lo,0,SRL,spin,yes,9.051428571428572,30.54857142857143
+3,1671,178,SRL,5,78,67,AD Mathews,PP Ojha,7,0,1,36.15,786,59.79,Right-hand bat,70,34,3,1722.1,42.8,82,lo,0,SRL,spin,yes,9.051428571428572,30.54857142857143
+3,1672,179,SRL,5,78,67,AD Mathews,PP Ojha,7,0,2,36.15,786,59.79,Right-hand bat,71,34,3,1722.1,42.8,82,lo,0,SRL,spin,yes,9.051428571428572,30.54857142857143
+3,1682,189,SRL,5,82,71,AD Mathews,PP Ojha,7,0,6,36.15,786,59.79,Right-hand bat,75,37,3,1722.1,42.8,82,lo,4,SRL,spin,yes,9.051428571428572,30.54857142857143
+3,1683,190,SRL,5,86,75,AD Mathews,PP Ojha,7,4,7,36.15,786,59.79,Right-hand bat,76,41,3,1722.1,42.8,82,lo,1,SRL,spin,yes,9.051428571428572,30.54857142857143

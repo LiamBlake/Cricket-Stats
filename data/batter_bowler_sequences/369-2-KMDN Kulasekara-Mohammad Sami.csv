@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1005,568,SRL,7,306,80,KMDN Kulasekara,Mohammad Sami,9,25,48,15.52,666,44.29,Right-hand bat,92,59,1,7494.5,52.74,88.2,rf,1,SRL,seam,yes,21.115234375,14.447265625
+2,1009,572,SRL,7,308,82,KMDN Kulasekara,Mohammad Sami,9,26,49,15.52,666,44.29,Right-hand bat,96,61,1,7494.5,52.74,88.2,rf,0,SRL,seam,yes,21.115234375,14.447265625
+2,1016,579,SRL,7,310,84,KMDN Kulasekara,Mohammad Sami,9,27,54,15.52,666,44.29,Right-hand bat,97,61,1,7494.5,52.74,88.2,rf,0,SRL,seam,yes,21.115234375,14.447265625
+2,1017,580,SRL,7,310,84,KMDN Kulasekara,Mohammad Sami,9,27,55,15.52,666,44.29,Right-hand bat,98,61,1,7494.5,52.74,88.2,rf,1,SRL,seam,yes,21.115234375,14.447265625
+2,1020,583,SRL,7,314,88,KMDN Kulasekara,Mohammad Sami,9,28,56,15.52,666,44.29,Right-hand bat,101,65,1,7494.5,52.74,88.2,rf,0,SRL,seam,yes,21.115234375,14.447265625
+2,1021,584,SRL,7,314,88,KMDN Kulasekara,Mohammad Sami,9,28,57,15.52,666,44.29,Right-hand bat,102,65,1,7494.5,52.74,88.2,rf,4,SRL,seam,yes,21.115234375,14.447265625

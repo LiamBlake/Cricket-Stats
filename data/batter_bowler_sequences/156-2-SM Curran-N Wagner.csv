@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1725,950,ENG,7,459,84,SM Curran,N Wagner,8,2,2,30.57,932,62.33,Left-hand bat,199,115,3,9690,26.98,51.8,lmf,0,NZL,seam,yes,47.38016528925619,2.256198347107438
+2,1726,951,ENG,7,459,84,SM Curran,N Wagner,8,2,3,30.57,932,62.33,Left-hand bat,200,115,3,9690,26.98,51.8,lmf,0,NZL,seam,yes,47.38016528925619,2.256198347107438
+2,1727,952,ENG,7,459,84,SM Curran,N Wagner,8,2,4,30.57,932,62.33,Left-hand bat,201,115,3,9690,26.98,51.8,lmf,1,NZL,seam,yes,47.38016528925619,2.256198347107438
+2,1737,962,ENG,8,463,88,SM Curran,N Wagner,8,5,8,30.57,932,62.33,Left-hand bat,205,116,4,9690,26.98,51.8,lmf,0,NZL,seam,yes,47.38016528925619,2.256198347107438
+2,1738,963,ENG,8,463,88,SM Curran,N Wagner,8,5,9,30.57,932,62.33,Left-hand bat,206,116,4,9690,26.98,51.8,lmf,1,NZL,seam,yes,47.38016528925619,2.256198347107438

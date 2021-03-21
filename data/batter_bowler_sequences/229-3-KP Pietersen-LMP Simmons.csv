@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2202,151,ENG,4,139,141,KP Pietersen,LMP Simmons,4,58,50,51.09,7038,63.15,Right-hand bat,2,1,0,66,NA,NA,rmf,2,WIN,seam,yes,25.61777777777778,22.415555555555557
+3,2203,152,ENG,4,141,143,KP Pietersen,LMP Simmons,4,60,51,51.09,7038,63.15,Right-hand bat,3,3,0,66,NA,NA,rmf,1,WIN,seam,yes,25.61777777777778,22.415555555555557
+3,2212,161,ENG,4,157,159,KP Pietersen,LMP Simmons,4,62,53,51.09,7038,63.15,Right-hand bat,6,5,0,66,NA,NA,rmf,2,WIN,seam,yes,25.61777777777778,22.415555555555557
+3,2213,162,ENG,4,159,161,KP Pietersen,LMP Simmons,4,64,54,51.09,7038,63.15,Right-hand bat,7,7,0,66,NA,NA,rmf,1,WIN,seam,yes,25.61777777777778,22.415555555555557
+3,2215,164,ENG,4,161,163,KP Pietersen,LMP Simmons,4,65,55,51.09,7038,63.15,Right-hand bat,9,9,0,66,NA,NA,rmf,1,WIN,seam,yes,25.61777777777778,22.415555555555557
+3,2217,166,ENG,4,163,165,KP Pietersen,LMP Simmons,4,66,56,51.09,7038,63.15,Right-hand bat,11,11,0,66,NA,NA,rmf,1,WIN,seam,yes,25.61777777777778,22.415555555555557
+3,2225,174,ENG,4,173,175,KP Pietersen,LMP Simmons,4,73,62,51.09,7038,63.15,Right-hand bat,13,13,0,66,NA,NA,rmf,1,WIN,seam,yes,25.61777777777778,22.415555555555557
+3,2228,177,ENG,4,175,177,KP Pietersen,LMP Simmons,4,74,63,51.09,7038,63.15,Right-hand bat,16,15,0,66,NA,NA,rmf,1,WIN,seam,yes,25.61777777777778,22.415555555555557
+3,2237,186,ENG,4,185,187,KP Pietersen,LMP Simmons,4,76,67,51.09,7038,63.15,Right-hand bat,19,18,0,66,NA,NA,rmf,1,WIN,seam,yes,25.61777777777778,22.415555555555557
+3,2239,188,ENG,4,187,189,KP Pietersen,LMP Simmons,4,77,68,51.09,7038,63.15,Right-hand bat,21,20,0,66,NA,NA,rmf,1,WIN,seam,yes,25.61777777777778,22.415555555555557
+3,2241,190,ENG,4,189,191,KP Pietersen,LMP Simmons,4,78,69,51.09,7038,63.15,Right-hand bat,23,22,0,66,NA,NA,rmf,1,WIN,seam,yes,25.61777777777778,22.415555555555557
+3,2248,197,ENG,4,197,199,KP Pietersen,LMP Simmons,4,81,73,51.09,7038,63.15,Right-hand bat,24,23,0,66,NA,NA,rmf,1,WIN,seam,yes,25.61777777777778,22.415555555555557
+3,2250,199,ENG,4,199,201,KP Pietersen,LMP Simmons,4,82,74,51.09,7038,63.15,Right-hand bat,26,25,0,66,NA,NA,rmf,1,WIN,seam,yes,25.61777777777778,22.415555555555557
+3,2252,201,ENG,4,201,203,KP Pietersen,LMP Simmons,4,83,75,51.09,7038,63.15,Right-hand bat,28,27,0,66,NA,NA,rmf,1,WIN,seam,yes,25.61777777777778,22.415555555555557

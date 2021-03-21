@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,576,576,ENG,9,370,370,SCJ Broad,BE Hendricks,11,27,17,18.66,4961,64.72,Left-hand bat,127,92,1,228.3,29.16,38.5,lfm,0,RSA,seam,yes,26.934375,0.690625
+1,577,577,ENG,9,370,370,SCJ Broad,BE Hendricks,11,27,18,18.66,4961,64.72,Left-hand bat,128,92,1,228.3,29.16,38.5,lfm,1,RSA,seam,yes,26.934375,0.690625
+1,580,580,ENG,9,373,373,SCJ Broad,BE Hendricks,11,28,19,18.66,4961,64.72,Left-hand bat,131,95,1,228.3,29.16,38.5,lfm,1,RSA,seam,yes,26.934375,0.690625
+1,589,589,ENG,9,377,377,SCJ Broad,BE Hendricks,11,31,22,18.66,4961,64.72,Left-hand bat,134,96,1,228.3,29.16,38.5,lfm,6,RSA,seam,yes,26.934375,0.690625
+1,590,590,ENG,9,383,383,SCJ Broad,BE Hendricks,11,37,23,18.66,4961,64.72,Left-hand bat,135,102,1,228.3,29.16,38.5,lfm,1,RSA,seam,yes,26.934375,0.690625
+1,592,592,ENG,9,385,385,SCJ Broad,BE Hendricks,11,38,24,18.66,4961,64.72,Left-hand bat,137,104,1,228.3,29.16,38.5,lfm,4lb,RSA,seam,yes,26.934375,0.690625
+1,593,593,ENG,9,389,389,SCJ Broad,BE Hendricks,11,38,25,18.66,4961,64.72,Left-hand bat,138,104,1,228.3,29.16,38.5,lfm,1,RSA,seam,yes,26.934375,0.690625

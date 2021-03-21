@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,714,115,ENG,1,91,-248,JE Root,Yasir Shah,3,39,50,52.2,6606,53.73,Right-hand bat,0,0,0,4038.4,23,47,rls,1,ENG,spin,no,18.0775,7.7475
+2,718,119,ENG,1,93,-246,JE Root,Yasir Shah,3,40,51,52.2,6606,53.73,Right-hand bat,4,2,0,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,719,120,ENG,1,93,-246,JE Root,Yasir Shah,3,40,52,52.2,6606,53.73,Right-hand bat,5,2,0,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,726,127,ENG,1,97,-242,JE Root,Yasir Shah,3,40,53,52.2,6606,53.73,Right-hand bat,6,2,0,4038.4,23,47,rls,1,ENG,spin,no,18.0775,7.7475
+2,742,143,ENG,1,101,-238,JE Root,Yasir Shah,3,42,59,52.2,6606,53.73,Right-hand bat,16,4,0,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,743,144,ENG,1,101,-238,JE Root,Yasir Shah,3,42,60,52.2,6606,53.73,Right-hand bat,17,4,0,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,758,159,ENG,1,108,-231,JE Root,Yasir Shah,3,44,66,52.2,6606,53.73,Right-hand bat,20,5,0,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,759,160,ENG,1,108,-231,JE Root,Yasir Shah,3,44,67,52.2,6606,53.73,Right-hand bat,21,5,0,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,760,161,ENG,1,108,-231,JE Root,Yasir Shah,3,44,68,52.2,6606,53.73,Right-hand bat,22,5,0,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,761,162,ENG,1,108,-231,JE Root,Yasir Shah,3,44,69,52.2,6606,53.73,Right-hand bat,23,5,0,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,768,169,ENG,1,114,-225,JE Root,Yasir Shah,3,44,70,52.2,6606,53.73,Right-hand bat,24,5,0,4038.4,23,47,rls,0,ENG,spin,no,18.0775,7.7475
+2,769,170,ENG,1,114,-225,JE Root,Yasir Shah,3,44,71,52.2,6606,53.73,Right-hand bat,25,5,0,4038.4,23,47,rls,4,ENG,spin,no,18.0775,7.7475
+2,770,171,ENG,1,118,-221,JE Root,Yasir Shah,3,48,72,52.2,6606,53.73,Right-hand bat,26,9,0,4038.4,23,47,rls,W,ENG,spin,no,18.0775,7.7475

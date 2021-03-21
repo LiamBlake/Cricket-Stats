@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1745,622,IND,9,303,318,JJ Bumrah,NM Lyon,11,0,0,1.42,95,10.52,Right-hand bat,242,122,6,20496.5,32.05,62.8,rob,0,IND,spin,yes,17.59875,9.47625
+3,1746,623,IND,9,303,318,JJ Bumrah,NM Lyon,11,0,1,1.42,95,10.52,Right-hand bat,243,122,6,20496.5,32.05,62.8,rob,0,IND,spin,yes,17.59875,9.47625
+3,1747,624,IND,9,303,318,JJ Bumrah,NM Lyon,11,0,2,1.42,95,10.52,Right-hand bat,244,122,6,20496.5,32.05,62.8,rob,0,IND,spin,yes,17.59875,9.47625
+3,1748,625,IND,9,303,318,JJ Bumrah,NM Lyon,11,0,3,1.42,95,10.52,Right-hand bat,245,122,6,20496.5,32.05,62.8,rob,0,IND,spin,yes,17.59875,9.47625
+3,1755,632,IND,9,307,322,JJ Bumrah,NM Lyon,11,0,4,1.42,95,10.52,Right-hand bat,246,122,6,20496.5,32.05,62.8,rob,0,IND,spin,yes,17.59875,9.47625
+3,1756,633,IND,9,307,322,JJ Bumrah,NM Lyon,11,0,5,1.42,95,10.52,Right-hand bat,247,122,6,20496.5,32.05,62.8,rob,0,IND,spin,yes,17.59875,9.47625
+3,1757,634,IND,9,307,322,JJ Bumrah,NM Lyon,11,0,6,1.42,95,10.52,Right-hand bat,248,122,6,20496.5,32.05,62.8,rob,0,IND,spin,yes,17.59875,9.47625
+3,1758,635,IND,9,307,322,JJ Bumrah,NM Lyon,11,0,7,1.42,95,10.52,Right-hand bat,249,122,6,20496.5,32.05,62.8,rob,0,IND,spin,yes,17.59875,9.47625
+3,1759,636,IND,9,307,322,JJ Bumrah,NM Lyon,11,0,8,1.42,95,10.52,Right-hand bat,250,122,6,20496.5,32.05,62.8,rob,0,IND,spin,yes,17.59875,9.47625
+3,1760,637,IND,9,307,322,JJ Bumrah,NM Lyon,11,0,9,1.42,95,10.52,Right-hand bat,251,122,6,20496.5,32.05,62.8,rob,0,IND,spin,yes,17.59875,9.47625

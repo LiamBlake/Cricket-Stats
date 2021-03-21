@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1653,55,NZL,1,33,-454,KS Williamson,PJ Cummins,3,0,2,51.44,12374,51.55,Right-hand bat,25,12,0,6558.5,21.92,47.2,rf,0,AUS,seam,yes,21.712653061224486,6.680816326530612
+4,1654,56,NZL,1,33,-454,KS Williamson,PJ Cummins,3,0,3,51.44,12374,51.55,Right-hand bat,26,12,0,6558.5,21.92,47.2,rf,0,AUS,seam,yes,21.712653061224486,6.680816326530612
+4,1655,57,NZL,1,33,-454,KS Williamson,PJ Cummins,3,0,4,51.44,12374,51.55,Right-hand bat,27,12,0,6558.5,21.92,47.2,rf,0,AUS,seam,yes,21.712653061224486,6.680816326530612
+4,1656,58,NZL,1,33,-454,KS Williamson,PJ Cummins,3,0,5,51.44,12374,51.55,Right-hand bat,28,12,0,6558.5,21.92,47.2,rf,0,AUS,seam,yes,21.712653061224486,6.680816326530612
+4,1657,59,NZL,1,33,-454,KS Williamson,PJ Cummins,3,0,6,51.44,12374,51.55,Right-hand bat,29,12,0,6558.5,21.92,47.2,rf,0,AUS,seam,yes,21.712653061224486,6.680816326530612

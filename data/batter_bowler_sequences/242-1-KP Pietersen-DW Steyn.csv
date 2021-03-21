@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,14,14,ENG,2,8,8,KP Pietersen,DW Steyn,4,0,0,48.24,7760,62.16,Right-hand bat,8,4,1,7386.3,23.7,39.9,rf,0,RSA,seam,yes,24.35665294924554,4.23593964334705
+1,15,15,ENG,2,8,8,KP Pietersen,DW Steyn,4,0,1,48.24,7760,62.16,Right-hand bat,9,4,1,7386.3,23.7,39.9,rf,0,RSA,seam,yes,24.35665294924554,4.23593964334705
+1,16,16,ENG,2,8,8,KP Pietersen,DW Steyn,4,0,2,48.24,7760,62.16,Right-hand bat,10,4,1,7386.3,23.7,39.9,rf,0,RSA,seam,yes,24.35665294924554,4.23593964334705
+1,17,17,ENG,2,8,8,KP Pietersen,DW Steyn,4,0,3,48.24,7760,62.16,Right-hand bat,11,4,1,7386.3,23.7,39.9,rf,0,RSA,seam,yes,24.35665294924554,4.23593964334705
+1,24,24,ENG,2,10,10,KP Pietersen,DW Steyn,4,0,7,48.24,7760,62.16,Right-hand bat,12,4,1,7386.3,23.7,39.9,rf,0,RSA,seam,yes,24.35665294924554,4.23593964334705
+1,25,25,ENG,2,10,10,KP Pietersen,DW Steyn,4,0,8,48.24,7760,62.16,Right-hand bat,13,4,1,7386.3,23.7,39.9,rf,0,RSA,seam,yes,24.35665294924554,4.23593964334705
+1,26,26,ENG,2,10,10,KP Pietersen,DW Steyn,4,0,9,48.24,7760,62.16,Right-hand bat,14,4,1,7386.3,23.7,39.9,rf,1,RSA,seam,yes,24.35665294924554,4.23593964334705

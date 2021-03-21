@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2262,523,WIN,9,252,-117,S Shillingford,MJ Clarke,11,6,6,12.5,227,44.05,Right-hand bat,133,86,5,2076,35.48,71.5,lo,0,WIN,spin,no,9.61625,17.85875
+4,2263,524,WIN,9,252,-117,S Shillingford,MJ Clarke,11,6,7,12.5,227,44.05,Right-hand bat,134,86,5,2076,35.48,71.5,lo,0,WIN,spin,no,9.61625,17.85875
+4,2264,525,WIN,9,252,-117,S Shillingford,MJ Clarke,11,6,8,12.5,227,44.05,Right-hand bat,135,86,5,2076,35.48,71.5,lo,0,WIN,spin,no,9.61625,17.85875
+4,2265,526,WIN,9,252,-117,S Shillingford,MJ Clarke,11,6,9,12.5,227,44.05,Right-hand bat,136,86,5,2076,35.48,71.5,lo,0,WIN,spin,no,9.61625,17.85875
+4,2266,527,WIN,9,252,-117,S Shillingford,MJ Clarke,11,6,10,12.5,227,44.05,Right-hand bat,137,86,5,2076,35.48,71.5,lo,0,WIN,spin,no,9.61625,17.85875

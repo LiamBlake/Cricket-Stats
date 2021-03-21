@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1667,20,SRL,2,10,-86,DPMD Jayawardene,CT Tremlett,3,0,0,53.32,18167,52.54,Right-hand bat,8,5,2,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+3,1668,21,SRL,2,10,-86,DPMD Jayawardene,CT Tremlett,3,0,1,53.32,18167,52.54,Right-hand bat,9,5,2,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+3,1669,22,SRL,2,10,-86,DPMD Jayawardene,CT Tremlett,3,0,2,53.32,18167,52.54,Right-hand bat,10,5,2,1806.4,25.82,51.7,rmf,1b,ENG,seam,yes,23.471999999999998,15.648
+3,1702,55,SRL,2,24,-72,DPMD Jayawardene,CT Tremlett,3,10,21,53.32,18167,52.54,Right-hand bat,25,8,2,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+3,1703,56,SRL,2,24,-72,DPMD Jayawardene,CT Tremlett,3,10,22,53.32,18167,52.54,Right-hand bat,26,8,2,1806.4,25.82,51.7,rmf,4,ENG,seam,yes,23.471999999999998,15.648
+3,1704,57,SRL,2,28,-68,DPMD Jayawardene,CT Tremlett,3,14,23,53.32,18167,52.54,Right-hand bat,27,12,2,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+3,1705,58,SRL,2,28,-68,DPMD Jayawardene,CT Tremlett,3,14,24,53.32,18167,52.54,Right-hand bat,28,12,2,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+3,1706,59,SRL,2,28,-68,DPMD Jayawardene,CT Tremlett,3,14,25,53.32,18167,52.54,Right-hand bat,29,12,2,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+3,1719,72,SRL,2,33,-63,DPMD Jayawardene,CT Tremlett,3,15,27,53.32,18167,52.54,Right-hand bat,30,12,2,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+3,1720,73,SRL,2,33,-63,DPMD Jayawardene,CT Tremlett,3,15,28,53.32,18167,52.54,Right-hand bat,31,12,2,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+3,1721,74,SRL,2,33,-63,DPMD Jayawardene,CT Tremlett,3,15,29,53.32,18167,52.54,Right-hand bat,32,12,2,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+3,1722,75,SRL,2,33,-63,DPMD Jayawardene,CT Tremlett,3,15,30,53.32,18167,52.54,Right-hand bat,33,12,2,1806.4,25.82,51.7,rmf,0,ENG,seam,yes,23.471999999999998,15.648
+3,1723,76,SRL,2,33,-63,DPMD Jayawardene,CT Tremlett,3,15,31,53.32,18167,52.54,Right-hand bat,34,12,2,1806.4,25.82,51.7,rmf,W,ENG,seam,yes,23.471999999999998,15.648

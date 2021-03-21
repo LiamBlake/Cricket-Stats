@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,890,890,ENG,5,459,459,JC Buttler,Pankaj Singh,7,17,32,85,83,102.4,Right-hand bat,204,112,0,282,NA,NA,rmf,0,ENG,seam,yes,21.34443288241415,20.010405827263266
+1,891,891,ENG,5,459,459,JC Buttler,Pankaj Singh,7,17,33,85,83,102.4,Right-hand bat,205,112,0,282,NA,NA,rmf,4,ENG,seam,yes,21.34443288241415,20.010405827263266
+1,892,892,ENG,5,463,463,JC Buttler,Pankaj Singh,7,21,34,85,83,102.4,Right-hand bat,206,116,0,282,NA,NA,rmf,1,ENG,seam,yes,21.34443288241415,20.010405827263266
+1,894,894,ENG,5,465,465,JC Buttler,Pankaj Singh,7,22,35,85,83,102.4,Right-hand bat,208,118,0,282,NA,NA,rmf,0,ENG,seam,yes,21.34443288241415,20.010405827263266
+1,895,895,ENG,5,465,465,JC Buttler,Pankaj Singh,7,22,36,85,83,102.4,Right-hand bat,209,118,0,282,NA,NA,rmf,0,ENG,seam,yes,21.34443288241415,20.010405827263266
+1,927,927,ENG,5,489,489,JC Buttler,Pankaj Singh,7,30,53,85,83,102.4,Right-hand bat,211,119,0,282,NA,NA,rmf,0,ENG,seam,yes,21.34443288241415,20.010405827263266
+1,928,928,ENG,5,489,489,JC Buttler,Pankaj Singh,7,30,54,85,83,102.4,Right-hand bat,212,119,0,282,NA,NA,rmf,0,ENG,seam,yes,21.34443288241415,20.010405827263266
+1,929,929,ENG,5,489,489,JC Buttler,Pankaj Singh,7,30,55,85,83,102.4,Right-hand bat,213,119,0,282,NA,NA,rmf,1,ENG,seam,yes,21.34443288241415,20.010405827263266
+1,975,975,ENG,6,546,546,JC Buttler,Pankaj Singh,7,65,77,85,83,102.4,Right-hand bat,217,126,0,282,NA,NA,rmf,6,ENG,seam,yes,21.34443288241415,20.010405827263266
+1,976,976,ENG,6,552,552,JC Buttler,Pankaj Singh,7,71,78,85,83,102.4,Right-hand bat,218,132,0,282,NA,NA,rmf,6,ENG,seam,yes,21.34443288241415,20.010405827263266
+1,977,977,ENG,6,558,558,JC Buttler,Pankaj Singh,7,77,79,85,83,102.4,Right-hand bat,219,138,0,282,NA,NA,rmf,2,ENG,seam,yes,21.34443288241415,20.010405827263266
+1,978,978,ENG,6,560,560,JC Buttler,Pankaj Singh,7,79,80,85,83,102.4,Right-hand bat,220,140,0,282,NA,NA,rmf,4,ENG,seam,yes,21.34443288241415,20.010405827263266
+1,979,979,ENG,6,564,564,JC Buttler,Pankaj Singh,7,83,81,85,83,102.4,Right-hand bat,221,144,0,282,NA,NA,rmf,2,ENG,seam,yes,21.34443288241415,20.010405827263266

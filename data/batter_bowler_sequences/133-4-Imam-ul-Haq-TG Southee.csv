@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2187,0,PAK,0,0,-279,Imam-ul-Haq,TG Southee,1,0,0,30.36,708,47.17,Left-hand bat,0,0,0,13554.2,30.7,60.5,rmf,0,NZL,seam,no,9.913805697589481,20.653761869978087
+4,2188,1,PAK,0,0,-279,Imam-ul-Haq,TG Southee,1,0,1,30.36,708,47.17,Left-hand bat,1,0,0,13554.2,30.7,60.5,rmf,1,NZL,seam,no,9.913805697589481,20.653761869978087
+4,2236,49,PAK,1,22,-257,Imam-ul-Haq,TG Southee,1,7,26,30.36,708,47.17,Left-hand bat,25,12,1,13554.2,30.7,60.5,rmf,4,NZL,seam,no,9.913805697589481,20.653761869978087
+4,2237,50,PAK,1,26,-253,Imam-ul-Haq,TG Southee,1,11,27,30.36,708,47.17,Left-hand bat,26,16,1,13554.2,30.7,60.5,rmf,4,NZL,seam,no,9.913805697589481,20.653761869978087
+4,2238,51,PAK,1,30,-249,Imam-ul-Haq,TG Southee,1,15,28,30.36,708,47.17,Left-hand bat,27,20,1,13554.2,30.7,60.5,rmf,0,NZL,seam,no,9.913805697589481,20.653761869978087
+4,2239,52,PAK,1,30,-249,Imam-ul-Haq,TG Southee,1,15,29,30.36,708,47.17,Left-hand bat,28,20,1,13554.2,30.7,60.5,rmf,0,NZL,seam,no,9.913805697589481,20.653761869978087
+4,2240,53,PAK,1,30,-249,Imam-ul-Haq,TG Southee,1,15,30,30.36,708,47.17,Left-hand bat,29,20,1,13554.2,30.7,60.5,rmf,0,NZL,seam,no,9.913805697589481,20.653761869978087
+4,2249,62,PAK,1,32,-247,Imam-ul-Haq,TG Southee,1,15,31,30.36,708,47.17,Left-hand bat,32,21,1,13554.2,30.7,60.5,rmf,0,NZL,seam,no,9.913805697589481,20.653761869978087
+4,2250,63,PAK,1,32,-247,Imam-ul-Haq,TG Southee,1,15,32,30.36,708,47.17,Left-hand bat,33,21,1,13554.2,30.7,60.5,rmf,0,NZL,seam,no,9.913805697589481,20.653761869978087
+4,2251,64,PAK,1,32,-247,Imam-ul-Haq,TG Southee,1,15,33,30.36,708,47.17,Left-hand bat,34,21,1,13554.2,30.7,60.5,rmf,0,NZL,seam,no,9.913805697589481,20.653761869978087
+4,2252,65,PAK,1,32,-247,Imam-ul-Haq,TG Southee,1,15,34,30.36,708,47.17,Left-hand bat,35,21,1,13554.2,30.7,60.5,rmf,0,NZL,seam,no,9.913805697589481,20.653761869978087

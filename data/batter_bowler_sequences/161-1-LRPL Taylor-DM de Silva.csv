@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,253,253,NZL,3,108,108,LRPL Taylor,DM de Silva,4,27,44,46.68,11306,60.28,Right-hand bat,12,11,0,1482.1,47.16,82.3,rob,0,SRL,spin,yes,9.247404844290658,22.19377162629758
+1,254,254,NZL,3,108,108,LRPL Taylor,DM de Silva,4,27,45,46.68,11306,60.28,Right-hand bat,13,11,0,1482.1,47.16,82.3,rob,1,SRL,spin,yes,9.247404844290658,22.19377162629758
+1,268,268,NZL,3,116,116,LRPL Taylor,DM de Silva,4,32,52,46.68,11306,60.28,Right-hand bat,21,15,0,1482.1,47.16,82.3,rob,0,SRL,spin,yes,9.247404844290658,22.19377162629758
+1,269,269,NZL,3,116,116,LRPL Taylor,DM de Silva,4,32,53,46.68,11306,60.28,Right-hand bat,22,15,0,1482.1,47.16,82.3,rob,0,SRL,spin,yes,9.247404844290658,22.19377162629758
+1,270,270,NZL,3,116,116,LRPL Taylor,DM de Silva,4,32,54,46.68,11306,60.28,Right-hand bat,23,15,0,1482.1,47.16,82.3,rob,1,SRL,spin,yes,9.247404844290658,22.19377162629758
+1,277,277,NZL,3,122,122,LRPL Taylor,DM de Silva,4,36,58,46.68,11306,60.28,Right-hand bat,24,16,0,1482.1,47.16,82.3,rob,0,SRL,spin,yes,9.247404844290658,22.19377162629758
+1,278,278,NZL,3,122,122,LRPL Taylor,DM de Silva,4,36,59,46.68,11306,60.28,Right-hand bat,25,16,0,1482.1,47.16,82.3,rob,1,SRL,spin,yes,9.247404844290658,22.19377162629758
+1,280,280,NZL,3,124,124,LRPL Taylor,DM de Silva,4,37,60,46.68,11306,60.28,Right-hand bat,27,18,0,1482.1,47.16,82.3,rob,1,SRL,spin,yes,9.247404844290658,22.19377162629758
+1,289,289,NZL,3,126,126,LRPL Taylor,DM de Silva,4,38,64,46.68,11306,60.28,Right-hand bat,30,19,0,1482.1,47.16,82.3,rob,0,SRL,spin,yes,9.247404844290658,22.19377162629758
+1,290,290,NZL,3,126,126,LRPL Taylor,DM de Silva,4,38,65,46.68,11306,60.28,Right-hand bat,31,19,0,1482.1,47.16,82.3,rob,1,SRL,spin,yes,9.247404844290658,22.19377162629758

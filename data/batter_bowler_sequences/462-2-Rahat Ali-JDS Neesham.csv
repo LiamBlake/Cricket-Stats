@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1679,743,PAK,9,321,-82,Rahat Ali,JDS Neesham,11,0,8,12.28,169,50.88,Right-hand bat,34,7,1,504.1,52.4,101,rmf,0,NZL,seam,no,13.96712802768166,22.56228373702422
+2,1680,744,PAK,9,321,-82,Rahat Ali,JDS Neesham,11,0,9,12.28,169,50.88,Right-hand bat,35,7,1,504.1,52.4,101,rmf,0,NZL,seam,no,13.96712802768166,22.56228373702422
+2,1687,751,PAK,9,321,-82,Rahat Ali,JDS Neesham,11,0,10,12.28,169,50.88,Right-hand bat,36,7,1,504.1,52.4,101,rmf,0,NZL,seam,no,13.96712802768166,22.56228373702422
+2,1688,752,PAK,9,321,-82,Rahat Ali,JDS Neesham,11,0,11,12.28,169,50.88,Right-hand bat,37,7,1,504.1,52.4,101,rmf,0,NZL,seam,no,13.96712802768166,22.56228373702422
+2,1689,753,PAK,9,321,-82,Rahat Ali,JDS Neesham,11,0,12,12.28,169,50.88,Right-hand bat,38,7,1,504.1,52.4,101,rmf,1,NZL,seam,no,13.96712802768166,22.56228373702422
+2,1691,755,PAK,9,323,-80,Rahat Ali,JDS Neesham,11,1,13,12.28,169,50.88,Right-hand bat,40,9,1,504.1,52.4,101,rmf,0,NZL,seam,no,13.96712802768166,22.56228373702422
+2,1692,756,PAK,9,323,-80,Rahat Ali,JDS Neesham,11,1,14,12.28,169,50.88,Right-hand bat,41,9,1,504.1,52.4,101,rmf,0,NZL,seam,no,13.96712802768166,22.56228373702422
+2,1703,767,PAK,9,327,-76,Rahat Ali,JDS Neesham,11,3,17,12.28,169,50.88,Right-hand bat,46,10,1,504.1,52.4,101,rmf,0,NZL,seam,no,13.96712802768166,22.56228373702422
+2,1704,768,PAK,9,327,-76,Rahat Ali,JDS Neesham,11,3,18,12.28,169,50.88,Right-hand bat,47,10,1,504.1,52.4,101,rmf,0,NZL,seam,no,13.96712802768166,22.56228373702422
+2,1775,839,PAK,9,377,-26,Rahat Ali,JDS Neesham,11,8,35,12.28,169,50.88,Right-hand bat,52,11,1,504.1,52.4,101,rmf,0,NZL,seam,no,13.96712802768166,22.56228373702422
+2,1776,840,PAK,9,377,-26,Rahat Ali,JDS Neesham,11,8,36,12.28,169,50.88,Right-hand bat,53,11,1,504.1,52.4,101,rmf,0,NZL,seam,no,13.96712802768166,22.56228373702422
+2,1800,864,PAK,9,391,-12,Rahat Ali,JDS Neesham,11,16,45,12.28,169,50.88,Right-hand bat,65,12,1,504.1,52.4,101,rmf,0,NZL,seam,no,13.96712802768166,22.56228373702422

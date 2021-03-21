@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1725,804,AUS,5,527,77,MS Wade,M Morkel,7,0,0,43.4,449,48.32,Left-hand bat,183,126,3,8514.2,30.59,55.6,rf,0,AUS,seam,no,44.2875,11.809999999999999
+2,1726,805,AUS,5,527,77,MS Wade,M Morkel,7,0,1,43.4,449,48.32,Left-hand bat,184,126,3,8514.2,30.59,55.6,rf,0,AUS,seam,no,44.2875,11.809999999999999
+2,1727,806,AUS,5,527,77,MS Wade,M Morkel,7,0,2,43.4,449,48.32,Left-hand bat,185,126,3,8514.2,30.59,55.6,rf,0,AUS,seam,no,44.2875,11.809999999999999
+2,1728,807,AUS,5,527,77,MS Wade,M Morkel,7,0,3,43.4,449,48.32,Left-hand bat,186,126,3,8514.2,30.59,55.6,rf,1,AUS,seam,no,44.2875,11.809999999999999

@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2175,155,ENG,4,115,-137,IJL Trott,M Morkel,4,18,30,51.07,5457,47.73,Right-hand bat,39,26,0,8052.5,30.24,55.1,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
+4,2176,156,ENG,4,115,-137,IJL Trott,M Morkel,4,18,31,51.07,5457,47.73,Right-hand bat,40,26,0,8052.5,30.24,55.1,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
+4,2177,157,ENG,4,115,-137,IJL Trott,M Morkel,4,18,32,51.07,5457,47.73,Right-hand bat,41,26,0,8052.5,30.24,55.1,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
+4,2208,188,ENG,4,119,-133,IJL Trott,M Morkel,4,19,45,51.07,5457,47.73,Right-hand bat,54,26,0,8052.5,30.24,55.1,rf,2,ENG,seam,yes,28.282828282828284,9.050505050505052
+4,2209,189,ENG,4,121,-131,IJL Trott,M Morkel,4,21,46,51.07,5457,47.73,Right-hand bat,55,28,0,8052.5,30.24,55.1,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
+4,2210,190,ENG,4,121,-131,IJL Trott,M Morkel,4,21,47,51.07,5457,47.73,Right-hand bat,56,28,0,8052.5,30.24,55.1,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
+4,2211,191,ENG,4,121,-131,IJL Trott,M Morkel,4,21,48,51.07,5457,47.73,Right-hand bat,57,28,0,8052.5,30.24,55.1,rf,4,ENG,seam,yes,28.282828282828284,9.050505050505052
+4,2212,192,ENG,4,125,-127,IJL Trott,M Morkel,4,25,49,51.07,5457,47.73,Right-hand bat,58,32,0,8052.5,30.24,55.1,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
+4,2213,193,ENG,4,125,-127,IJL Trott,M Morkel,4,25,50,51.07,5457,47.73,Right-hand bat,59,32,0,8052.5,30.24,55.1,rf,1,ENG,seam,yes,28.282828282828284,9.050505050505052

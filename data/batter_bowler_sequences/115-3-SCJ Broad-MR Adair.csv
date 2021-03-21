@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,908,411,ENG,8,248,126,SCJ Broad,MR Adair,10,0,0,19.3,4751,64.99,Left-hand bat,102,51,3,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125
+3,915,418,ENG,8,256,134,SCJ Broad,MR Adair,10,0,1,19.3,4751,64.99,Left-hand bat,103,51,3,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125
+3,916,419,ENG,8,256,134,SCJ Broad,MR Adair,10,0,2,19.3,4751,64.99,Left-hand bat,104,51,3,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125
+3,917,420,ENG,8,256,134,SCJ Broad,MR Adair,10,0,3,19.3,4751,64.99,Left-hand bat,105,51,3,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125
+3,918,421,ENG,8,256,134,SCJ Broad,MR Adair,10,0,4,19.3,4751,64.99,Left-hand bat,106,51,3,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125
+3,919,422,ENG,8,256,134,SCJ Broad,MR Adair,10,0,5,19.3,4751,64.99,Left-hand bat,107,51,3,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125
+3,920,423,ENG,8,256,134,SCJ Broad,MR Adair,10,0,6,19.3,4751,64.99,Left-hand bat,108,51,3,162.4,16.33,27.6,rf,4,ENG,seam,yes,15.033750000000001,0.79125
+3,931,434,ENG,8,280,158,SCJ Broad,MR Adair,10,6,10,19.3,4751,64.99,Left-hand bat,113,62,3,162.4,16.33,27.6,rf,4,ENG,seam,yes,15.033750000000001,0.79125
+3,932,435,ENG,8,284,162,SCJ Broad,MR Adair,10,10,11,19.3,4751,64.99,Left-hand bat,114,66,3,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125

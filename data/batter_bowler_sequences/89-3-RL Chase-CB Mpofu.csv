@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1364,498,WIN,3,197,257,RL Chase,CB Mpofu,5,10,22,40.6,2064,45.25,Right-hand bat,42,23,0,2238.2,51.16,89.6,rfm,0,WIN,seam,yes,6.66875,20.00625
+3,1365,499,WIN,3,197,257,RL Chase,CB Mpofu,5,10,23,40.6,2064,45.25,Right-hand bat,43,23,0,2238.2,51.16,89.6,rfm,0,WIN,seam,yes,6.66875,20.00625
+3,1366,500,WIN,3,197,257,RL Chase,CB Mpofu,5,10,24,40.6,2064,45.25,Right-hand bat,44,23,0,2238.2,51.16,89.6,rfm,0,WIN,seam,yes,6.66875,20.00625
+3,1367,501,WIN,3,197,257,RL Chase,CB Mpofu,5,10,25,40.6,2064,45.25,Right-hand bat,45,23,0,2238.2,51.16,89.6,rfm,0,WIN,seam,yes,6.66875,20.00625
+3,1368,502,WIN,3,197,257,RL Chase,CB Mpofu,5,10,26,40.6,2064,45.25,Right-hand bat,46,23,0,2238.2,51.16,89.6,rfm,0,WIN,seam,yes,6.66875,20.00625
+3,1369,503,WIN,3,197,257,RL Chase,CB Mpofu,5,10,27,40.6,2064,45.25,Right-hand bat,47,23,0,2238.2,51.16,89.6,rfm,2,WIN,seam,yes,6.66875,20.00625
+3,1376,510,WIN,3,201,261,RL Chase,CB Mpofu,5,12,28,40.6,2064,45.25,Right-hand bat,48,25,0,2238.2,51.16,89.6,rfm,0,WIN,seam,yes,6.66875,20.00625
+3,1377,511,WIN,3,201,261,RL Chase,CB Mpofu,5,12,29,40.6,2064,45.25,Right-hand bat,49,25,0,2238.2,51.16,89.6,rfm,0,WIN,seam,yes,6.66875,20.00625
+3,1378,512,WIN,3,201,261,RL Chase,CB Mpofu,5,12,30,40.6,2064,45.25,Right-hand bat,50,25,0,2238.2,51.16,89.6,rfm,0,WIN,seam,yes,6.66875,20.00625
+3,1379,513,WIN,3,201,261,RL Chase,CB Mpofu,5,12,31,40.6,2064,45.25,Right-hand bat,51,25,0,2238.2,51.16,89.6,rfm,0,WIN,seam,yes,6.66875,20.00625
+3,1380,514,WIN,3,201,261,RL Chase,CB Mpofu,5,12,32,40.6,2064,45.25,Right-hand bat,52,25,0,2238.2,51.16,89.6,rfm,0,WIN,seam,yes,6.66875,20.00625
+3,1381,515,WIN,3,201,261,RL Chase,CB Mpofu,5,12,33,40.6,2064,45.25,Right-hand bat,53,25,0,2238.2,51.16,89.6,rfm,0,WIN,seam,yes,6.66875,20.00625
+3,1392,526,WIN,3,207,267,RL Chase,CB Mpofu,5,16,36,40.6,2064,45.25,Right-hand bat,58,26,0,2238.2,51.16,89.6,rfm,4,WIN,seam,yes,6.66875,20.00625
+3,1393,527,WIN,3,211,271,RL Chase,CB Mpofu,5,20,37,40.6,2064,45.25,Right-hand bat,59,30,0,2238.2,51.16,89.6,rfm,0,WIN,seam,yes,6.66875,20.00625

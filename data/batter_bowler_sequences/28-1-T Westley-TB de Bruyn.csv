@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,135,135,ENG,1,51,51,T Westley,TB de Bruyn,3,6,34,30.5,297,41.07,Right-hand bat,3,1,0,60,NA,NA,rmf,0,ENG,seam,yes,19.36875,6.45625
+1,136,136,ENG,1,51,51,T Westley,TB de Bruyn,3,6,35,30.5,297,41.07,Right-hand bat,4,1,0,60,NA,NA,rmf,1,ENG,seam,yes,19.36875,6.45625
+1,148,148,ENG,1,57,57,T Westley,TB de Bruyn,3,11,42,30.5,297,41.07,Right-hand bat,10,3,0,60,NA,NA,rmf,4,ENG,seam,yes,19.36875,6.45625
+1,149,149,ENG,1,61,61,T Westley,TB de Bruyn,3,15,43,30.5,297,41.07,Right-hand bat,11,7,0,60,NA,NA,rmf,0,ENG,seam,yes,19.36875,6.45625

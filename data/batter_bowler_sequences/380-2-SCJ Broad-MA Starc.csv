@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1542,662,ENG,7,280,-247,SCJ Broad,MA Starc,9,0,0,25.41,2914,62.8,Left-hand bat,146,67,3,2208.2,32.57,58.1,lf,0,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1543,663,ENG,7,280,-247,SCJ Broad,MA Starc,9,0,1,25.41,2914,62.8,Left-hand bat,147,67,3,2208.2,32.57,58.1,lf,0,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1544,664,ENG,7,280,-247,SCJ Broad,MA Starc,9,0,2,25.41,2914,62.8,Left-hand bat,148,67,3,2208.2,32.57,58.1,lf,0,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1545,665,ENG,7,280,-247,SCJ Broad,MA Starc,9,0,3,25.41,2914,62.8,Left-hand bat,149,67,3,2208.2,32.57,58.1,lf,0,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1546,666,ENG,7,280,-247,SCJ Broad,MA Starc,9,0,4,25.41,2914,62.8,Left-hand bat,150,67,3,2208.2,32.57,58.1,lf,4,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1553,673,ENG,7,288,-239,SCJ Broad,MA Starc,9,4,5,25.41,2914,62.8,Left-hand bat,151,71,3,2208.2,32.57,58.1,lf,4,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1554,674,ENG,7,292,-235,SCJ Broad,MA Starc,9,8,6,25.41,2914,62.8,Left-hand bat,152,75,3,2208.2,32.57,58.1,lf,0,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1555,675,ENG,7,292,-235,SCJ Broad,MA Starc,9,8,7,25.41,2914,62.8,Left-hand bat,153,75,3,2208.2,32.57,58.1,lf,0,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1556,676,ENG,7,292,-235,SCJ Broad,MA Starc,9,8,8,25.41,2914,62.8,Left-hand bat,154,75,3,2208.2,32.57,58.1,lf,0,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1557,677,ENG,7,292,-235,SCJ Broad,MA Starc,9,8,9,25.41,2914,62.8,Left-hand bat,155,75,3,2208.2,32.57,58.1,lf,0,ENG,seam,no,30.288065843621396,10.600823045267488
+2,1558,678,ENG,7,292,-235,SCJ Broad,MA Starc,9,8,10,25.41,2914,62.8,Left-hand bat,156,75,3,2208.2,32.57,58.1,lf,0,ENG,seam,no,30.288065843621396,10.600823045267488

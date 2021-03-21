@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1899,181,AUS,5,138,297,BJ Haddin,JM Anderson,7,0,0,35.24,4355,56.64,Right-hand bat,29,22,1,18744.2,29.95,58.2,rfm,0,ENG,seam,yes,30.288065843621396,10.600823045267488
+3,1900,182,AUS,5,138,297,BJ Haddin,JM Anderson,7,0,1,35.24,4355,56.64,Right-hand bat,30,22,1,18744.2,29.95,58.2,rfm,0,ENG,seam,yes,30.288065843621396,10.600823045267488
+3,1909,191,AUS,5,148,307,BJ Haddin,JM Anderson,7,4,5,35.24,4355,56.64,Right-hand bat,33,25,1,18744.2,29.95,58.2,rfm,0,ENG,seam,yes,30.288065843621396,10.600823045267488
+3,1910,192,AUS,5,148,307,BJ Haddin,JM Anderson,7,4,6,35.24,4355,56.64,Right-hand bat,34,25,1,18744.2,29.95,58.2,rfm,0,ENG,seam,yes,30.288065843621396,10.600823045267488
+3,1911,193,AUS,5,148,307,BJ Haddin,JM Anderson,7,4,7,35.24,4355,56.64,Right-hand bat,35,25,1,18744.2,29.95,58.2,rfm,4,ENG,seam,yes,30.288065843621396,10.600823045267488
+3,1912,194,AUS,5,152,311,BJ Haddin,JM Anderson,7,8,8,35.24,4355,56.64,Right-hand bat,36,29,1,18744.2,29.95,58.2,rfm,W,ENG,seam,yes,30.288065843621396,10.600823045267488

@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,753,753,ENG,5,352,352,JC Buttler,KA Maharaj,7,0,4,32.29,3624,57.91,Right-hand bat,266,103,1,6678,33.19,60.7,lo,0,RSA,spin,yes,15.731272294887038,16.854934601664684
+1,754,754,ENG,5,352,352,JC Buttler,KA Maharaj,7,0,5,32.29,3624,57.91,Right-hand bat,267,103,1,6678,33.19,60.7,lo,0,RSA,spin,yes,15.731272294887038,16.854934601664684
+1,755,755,ENG,5,352,352,JC Buttler,KA Maharaj,7,0,6,32.29,3624,57.91,Right-hand bat,268,103,1,6678,33.19,60.7,lo,0,RSA,spin,yes,15.731272294887038,16.854934601664684
+1,756,756,ENG,5,352,352,JC Buttler,KA Maharaj,7,0,7,32.29,3624,57.91,Right-hand bat,269,103,1,6678,33.19,60.7,lo,1,RSA,spin,yes,15.731272294887038,16.854934601664684
+1,764,764,ENG,5,354,354,JC Buttler,KA Maharaj,7,1,14,32.29,3624,57.91,Right-hand bat,271,105,1,6678,33.19,60.7,lo,W,RSA,spin,yes,15.731272294887038,16.854934601664684

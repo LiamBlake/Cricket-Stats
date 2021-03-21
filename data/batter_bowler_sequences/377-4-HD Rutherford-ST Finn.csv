@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1398,78,NZL,1,34,-433,HD Rutherford,ST Finn,2,20,30,36.44,499,65.73,Left-hand bat,0,0,0,4194.4,28.73,47.7,rfm,2,ENG,seam,no,17.742857142857144,11.82857142857143
+4,1399,79,NZL,1,36,-431,HD Rutherford,ST Finn,2,22,31,36.44,499,65.73,Left-hand bat,1,2,0,4194.4,28.73,47.7,rfm,0,ENG,seam,no,17.742857142857144,11.82857142857143
+4,1400,80,NZL,1,36,-431,HD Rutherford,ST Finn,2,22,32,36.44,499,65.73,Left-hand bat,2,2,0,4194.4,28.73,47.7,rfm,0,ENG,seam,no,17.742857142857144,11.82857142857143
+4,1401,81,NZL,1,36,-431,HD Rutherford,ST Finn,2,22,33,36.44,499,65.73,Left-hand bat,3,2,0,4194.4,28.73,47.7,rfm,4,ENG,seam,no,17.742857142857144,11.82857142857143
+4,1402,82,NZL,1,40,-427,HD Rutherford,ST Finn,2,26,34,36.44,499,65.73,Left-hand bat,4,6,0,4194.4,28.73,47.7,rfm,0,ENG,seam,no,17.742857142857144,11.82857142857143
+4,1403,83,NZL,1,40,-427,HD Rutherford,ST Finn,2,26,35,36.44,499,65.73,Left-hand bat,5,6,0,4194.4,28.73,47.7,rfm,0,ENG,seam,no,17.742857142857144,11.82857142857143
+4,1424,104,NZL,2,44,-423,HD Rutherford,ST Finn,2,27,38,36.44,499,65.73,Left-hand bat,14,7,0,4194.4,28.73,47.7,rfm,1,ENG,seam,no,17.742857142857144,11.82857142857143
+4,1435,115,NZL,2,58,-409,HD Rutherford,ST Finn,2,35,44,36.44,499,65.73,Left-hand bat,19,13,0,4194.4,28.73,47.7,rfm,0,ENG,seam,no,17.742857142857144,11.82857142857143
+4,1436,116,NZL,2,58,-409,HD Rutherford,ST Finn,2,35,45,36.44,499,65.73,Left-hand bat,20,13,0,4194.4,28.73,47.7,rfm,4,ENG,seam,no,17.742857142857144,11.82857142857143
+4,1437,117,NZL,2,62,-405,HD Rutherford,ST Finn,2,39,46,36.44,499,65.73,Left-hand bat,21,17,0,4194.4,28.73,47.7,rfm,0,ENG,seam,no,17.742857142857144,11.82857142857143
+4,1438,118,NZL,2,62,-405,HD Rutherford,ST Finn,2,39,47,36.44,499,65.73,Left-hand bat,22,17,0,4194.4,28.73,47.7,rfm,0,ENG,seam,no,17.742857142857144,11.82857142857143
+4,1439,119,NZL,2,62,-405,HD Rutherford,ST Finn,2,39,48,36.44,499,65.73,Left-hand bat,23,17,0,4194.4,28.73,47.7,rfm,1,ENG,seam,no,17.742857142857144,11.82857142857143

@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,258,258,ZIM,3,114,114,T Taibu,Aizaz Cheema,5,0,8,31,3491,41.73,Right-hand bat,48,13,0,240.1,12.87,30.1,rmf,0,ZIM,seam,no,16.264462809917354,17.28099173553719
+1,259,259,ZIM,3,114,114,T Taibu,Aizaz Cheema,5,0,9,31,3491,41.73,Right-hand bat,49,13,0,240.1,12.87,30.1,rmf,0,ZIM,seam,no,16.264462809917354,17.28099173553719
+1,260,260,ZIM,3,114,114,T Taibu,Aizaz Cheema,5,0,10,31,3491,41.73,Right-hand bat,50,13,0,240.1,12.87,30.1,rmf,0,ZIM,seam,no,16.264462809917354,17.28099173553719
+1,261,261,ZIM,3,114,114,T Taibu,Aizaz Cheema,5,0,11,31,3491,41.73,Right-hand bat,51,13,0,240.1,12.87,30.1,rmf,4,ZIM,seam,no,16.264462809917354,17.28099173553719
+1,262,262,ZIM,3,118,118,T Taibu,Aizaz Cheema,5,4,12,31,3491,41.73,Right-hand bat,52,17,0,240.1,12.87,30.1,rmf,0,ZIM,seam,no,16.264462809917354,17.28099173553719
+1,263,263,ZIM,3,118,118,T Taibu,Aizaz Cheema,5,4,13,31,3491,41.73,Right-hand bat,53,17,0,240.1,12.87,30.1,rmf,4,ZIM,seam,no,16.264462809917354,17.28099173553719
+1,272,272,ZIM,3,126,126,T Taibu,Aizaz Cheema,5,8,14,31,3491,41.73,Right-hand bat,56,22,0,240.1,12.87,30.1,rmf,0,ZIM,seam,no,16.264462809917354,17.28099173553719
+1,273,273,ZIM,3,126,126,T Taibu,Aizaz Cheema,5,8,15,31,3491,41.73,Right-hand bat,57,22,0,240.1,12.87,30.1,rmf,3,ZIM,seam,no,16.264462809917354,17.28099173553719
+1,287,287,ZIM,3,132,132,T Taibu,Aizaz Cheema,5,13,22,31,3491,41.73,Right-hand bat,65,26,0,240.1,12.87,30.1,rmf,4,ZIM,seam,no,16.264462809917354,17.28099173553719

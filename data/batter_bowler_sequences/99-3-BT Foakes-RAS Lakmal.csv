@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1402,330,ENG,6,250,199,BT Foakes,RAS Lakmal,8,15,32,76,384,59.37,Right-hand bat,0,0,0,9222,40.46,76.2,rfm,0,ENG,seam,yes,1.51875,28.85625
+3,1403,331,ENG,6,250,199,BT Foakes,RAS Lakmal,8,15,33,76,384,59.37,Right-hand bat,1,0,0,9222,40.46,76.2,rfm,1,ENG,seam,yes,1.51875,28.85625
+3,1417,345,ENG,6,254,203,BT Foakes,RAS Lakmal,8,18,40,76,384,59.37,Right-hand bat,9,2,0,9222,40.46,76.2,rfm,0,ENG,seam,yes,1.51875,28.85625
+3,1418,346,ENG,6,254,203,BT Foakes,RAS Lakmal,8,18,41,76,384,59.37,Right-hand bat,10,2,0,9222,40.46,76.2,rfm,0,ENG,seam,yes,1.51875,28.85625
+3,1419,347,ENG,6,254,203,BT Foakes,RAS Lakmal,8,18,42,76,384,59.37,Right-hand bat,11,2,0,9222,40.46,76.2,rfm,0,ENG,seam,yes,1.51875,28.85625
+3,1429,357,ENG,6,264,213,BT Foakes,RAS Lakmal,8,19,44,76,384,59.37,Right-hand bat,15,7,0,9222,40.46,76.2,rfm,0,ENG,seam,yes,1.51875,28.85625
+3,1430,358,ENG,6,264,213,BT Foakes,RAS Lakmal,8,19,45,76,384,59.37,Right-hand bat,16,7,0,9222,40.46,76.2,rfm,0,ENG,seam,yes,1.51875,28.85625
+3,1431,359,ENG,6,264,213,BT Foakes,RAS Lakmal,8,19,46,76,384,59.37,Right-hand bat,17,7,0,9222,40.46,76.2,rfm,0,ENG,seam,yes,1.51875,28.85625
+3,1440,368,ENG,6,270,219,BT Foakes,RAS Lakmal,8,22,51,76,384,59.37,Right-hand bat,20,8,0,9222,40.46,76.2,rfm,0,ENG,seam,yes,1.51875,28.85625
+3,1441,369,ENG,6,270,219,BT Foakes,RAS Lakmal,8,22,52,76,384,59.37,Right-hand bat,21,8,0,9222,40.46,76.2,rfm,1,ENG,seam,yes,1.51875,28.85625
+3,1443,371,ENG,6,272,221,BT Foakes,RAS Lakmal,8,23,53,76,384,59.37,Right-hand bat,23,10,0,9222,40.46,76.2,rfm,4,ENG,seam,yes,1.51875,28.85625

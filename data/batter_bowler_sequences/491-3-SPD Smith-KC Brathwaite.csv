@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1380,252,AUS,1,137,316,SPD Smith,KC Brathwaite,3,8,13,56.23,4735,54.63,Right-hand bat,24,4,0,258.4,123,262,rob,0,WIN,spin,no,23.0712890625,6.4599609375
+3,1381,253,AUS,1,137,316,SPD Smith,KC Brathwaite,3,8,14,56.23,4735,54.63,Right-hand bat,25,4,0,258.4,123,262,rob,1,WIN,spin,no,23.0712890625,6.4599609375
+3,1392,264,AUS,1,145,324,SPD Smith,KC Brathwaite,3,15,20,56.23,4735,54.63,Right-hand bat,30,5,0,258.4,123,262,rob,1,WIN,spin,no,23.0712890625,6.4599609375
+3,1404,276,AUS,1,151,330,SPD Smith,KC Brathwaite,3,17,23,56.23,4735,54.63,Right-hand bat,36,10,0,258.4,123,262,rob,0,WIN,spin,no,23.0712890625,6.4599609375
+3,1405,277,AUS,1,151,330,SPD Smith,KC Brathwaite,3,17,24,56.23,4735,54.63,Right-hand bat,37,10,0,258.4,123,262,rob,0,WIN,spin,no,23.0712890625,6.4599609375
+3,1406,278,AUS,1,151,330,SPD Smith,KC Brathwaite,3,17,25,56.23,4735,54.63,Right-hand bat,38,10,0,258.4,123,262,rob,1,WIN,spin,no,23.0712890625,6.4599609375
+3,1416,288,AUS,1,155,334,SPD Smith,KC Brathwaite,3,21,32,56.23,4735,54.63,Right-hand bat,42,11,0,258.4,123,262,rob,1,WIN,spin,no,23.0712890625,6.4599609375
+3,1418,290,AUS,1,157,336,SPD Smith,KC Brathwaite,3,22,33,56.23,4735,54.63,Right-hand bat,44,13,0,258.4,123,262,rob,1,WIN,spin,no,23.0712890625,6.4599609375
+3,1428,300,AUS,2,163,342,SPD Smith,KC Brathwaite,3,24,37,56.23,4735,54.63,Right-hand bat,48,18,0,258.4,123,262,rob,0,WIN,spin,no,23.0712890625,6.4599609375
+3,1429,301,AUS,2,163,342,SPD Smith,KC Brathwaite,3,24,38,56.23,4735,54.63,Right-hand bat,49,18,0,258.4,123,262,rob,0,WIN,spin,no,23.0712890625,6.4599609375
+3,1430,302,AUS,2,163,342,SPD Smith,KC Brathwaite,3,24,39,56.23,4735,54.63,Right-hand bat,50,18,0,258.4,123,262,rob,0,WIN,spin,no,23.0712890625,6.4599609375
+3,1431,303,AUS,2,163,342,SPD Smith,KC Brathwaite,3,24,40,56.23,4735,54.63,Right-hand bat,51,18,0,258.4,123,262,rob,0,WIN,spin,no,23.0712890625,6.4599609375
+3,1432,304,AUS,2,163,342,SPD Smith,KC Brathwaite,3,24,41,56.23,4735,54.63,Right-hand bat,52,18,0,258.4,123,262,rob,0,WIN,spin,no,23.0712890625,6.4599609375
+3,1433,305,AUS,2,163,342,SPD Smith,KC Brathwaite,3,24,42,56.23,4735,54.63,Right-hand bat,53,18,0,258.4,123,262,rob,0,WIN,spin,no,23.0712890625,6.4599609375
+3,1456,328,AUS,2,173,352,SPD Smith,KC Brathwaite,3,27,48,56.23,4735,54.63,Right-hand bat,64,23,0,258.4,123,262,rob,0,WIN,spin,no,23.0712890625,6.4599609375
+3,1457,329,AUS,2,173,352,SPD Smith,KC Brathwaite,3,27,49,56.23,4735,54.63,Right-hand bat,65,23,0,258.4,123,262,rob,0,WIN,spin,no,23.0712890625,6.4599609375

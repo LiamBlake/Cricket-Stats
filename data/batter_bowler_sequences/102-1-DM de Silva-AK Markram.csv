@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,425,425,SRL,5,223,223,DM de Silva,AK Markram,3,51,100,38.25,2061,57.54,Right-hand bat,18,8,0,144.2,NA,NA,rob,1,SRL,spin,yes,1.676734693877551,27.666122448979593
+1,428,428,SRL,5,225,225,DM de Silva,AK Markram,3,52,101,38.25,2061,57.54,Right-hand bat,21,10,0,144.2,NA,NA,rob,0,SRL,spin,yes,1.676734693877551,27.666122448979593
+1,429,429,SRL,5,225,225,DM de Silva,AK Markram,3,52,102,38.25,2061,57.54,Right-hand bat,22,10,0,144.2,NA,NA,rob,2lb,SRL,spin,yes,1.676734693877551,27.666122448979593
+1,430,430,SRL,5,227,227,DM de Silva,AK Markram,3,52,103,38.25,2061,57.54,Right-hand bat,23,10,0,144.2,NA,NA,rob,1,SRL,spin,yes,1.676734693877551,27.666122448979593

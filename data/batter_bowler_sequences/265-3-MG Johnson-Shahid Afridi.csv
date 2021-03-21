@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,960,241,AUS,4,147,252,MG Johnson,Shahid Afridi,6,30,41,24.53,1584,60.41,Left-hand bat,1,1,0,3192.2,35.6,66.5,rls,0,AUS,spin,no,16.64,8.96
+3,961,242,AUS,4,147,252,MG Johnson,Shahid Afridi,6,30,42,24.53,1584,60.41,Left-hand bat,2,1,0,3192.2,35.6,66.5,rls,0,AUS,spin,no,16.64,8.96
+3,962,243,AUS,4,147,252,MG Johnson,Shahid Afridi,6,30,43,24.53,1584,60.41,Left-hand bat,3,1,0,3192.2,35.6,66.5,rls,0,AUS,spin,no,16.64,8.96
+3,963,244,AUS,4,147,252,MG Johnson,Shahid Afridi,6,30,44,24.53,1584,60.41,Left-hand bat,4,1,0,3192.2,35.6,66.5,rls,0,AUS,spin,no,16.64,8.96
+3,964,245,AUS,4,147,252,MG Johnson,Shahid Afridi,6,30,45,24.53,1584,60.41,Left-hand bat,5,1,0,3192.2,35.6,66.5,rls,0,AUS,spin,no,16.64,8.96

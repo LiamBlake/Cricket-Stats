@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,156,156,WIN,7,100,100,DJG Sammy,DW Steyn,8,14,21,18.66,222,50.45,Right-hand bat,36,8,1,3414.1,23.21,37.5,rf,0,RSA,seam,no,38.65277777777778,1.7569444444444444
+1,157,157,WIN,7,100,100,DJG Sammy,DW Steyn,8,14,22,18.66,222,50.45,Right-hand bat,37,8,1,3414.1,23.21,37.5,rf,4,RSA,seam,no,38.65277777777778,1.7569444444444444
+1,158,158,WIN,7,104,104,DJG Sammy,DW Steyn,8,18,23,18.66,222,50.45,Right-hand bat,38,12,1,3414.1,23.21,37.5,rf,0,RSA,seam,no,38.65277777777778,1.7569444444444444
+1,159,159,WIN,7,104,104,DJG Sammy,DW Steyn,8,18,24,18.66,222,50.45,Right-hand bat,39,12,1,3414.1,23.21,37.5,rf,0,RSA,seam,no,38.65277777777778,1.7569444444444444
+1,160,160,WIN,7,104,104,DJG Sammy,DW Steyn,8,18,25,18.66,222,50.45,Right-hand bat,40,12,1,3414.1,23.21,37.5,rf,0,RSA,seam,no,38.65277777777778,1.7569444444444444
+1,161,161,WIN,7,104,104,DJG Sammy,DW Steyn,8,18,26,18.66,222,50.45,Right-hand bat,41,12,1,3414.1,23.21,37.5,rf,0,RSA,seam,no,38.65277777777778,1.7569444444444444
+1,168,168,WIN,7,108,108,DJG Sammy,DW Steyn,8,18,27,18.66,222,50.45,Right-hand bat,42,12,1,3414.1,23.21,37.5,rf,0,RSA,seam,no,38.65277777777778,1.7569444444444444
+1,169,169,WIN,7,108,108,DJG Sammy,DW Steyn,8,18,28,18.66,222,50.45,Right-hand bat,43,12,1,3414.1,23.21,37.5,rf,1,RSA,seam,no,38.65277777777778,1.7569444444444444
+1,171,171,WIN,7,110,110,DJG Sammy,DW Steyn,8,19,29,18.66,222,50.45,Right-hand bat,45,14,1,3414.1,23.21,37.5,rf,0,RSA,seam,no,38.65277777777778,1.7569444444444444
+1,172,172,WIN,7,110,110,DJG Sammy,DW Steyn,8,19,30,18.66,222,50.45,Right-hand bat,46,14,1,3414.1,23.21,37.5,rf,1,RSA,seam,no,38.65277777777778,1.7569444444444444

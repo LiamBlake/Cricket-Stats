@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1157,365,IND,5,189,-285,MS Dhoni,CT Tremlett,7,4,10,38.32,5179,59.2,Right-hand bat,117,53,1,2556.4,25.67,52.2,rmf,0,ENG,seam,yes,33.47750865051903,4.463667820069204
+2,1158,366,IND,5,189,-285,MS Dhoni,CT Tremlett,7,4,11,38.32,5179,59.2,Right-hand bat,118,53,1,2556.4,25.67,52.2,rmf,0,ENG,seam,yes,33.47750865051903,4.463667820069204
+2,1159,367,IND,5,189,-285,MS Dhoni,CT Tremlett,7,4,12,38.32,5179,59.2,Right-hand bat,119,53,1,2556.4,25.67,52.2,rmf,0,ENG,seam,yes,33.47750865051903,4.463667820069204
+2,1160,368,IND,5,189,-285,MS Dhoni,CT Tremlett,7,4,13,38.32,5179,59.2,Right-hand bat,120,53,1,2556.4,25.67,52.2,rmf,0,ENG,seam,yes,33.47750865051903,4.463667820069204
+2,1161,369,IND,5,189,-285,MS Dhoni,CT Tremlett,7,4,14,38.32,5179,59.2,Right-hand bat,121,53,1,2556.4,25.67,52.2,rmf,0,ENG,seam,yes,33.47750865051903,4.463667820069204
+2,1291,499,IND,5,238,-236,MS Dhoni,CT Tremlett,7,27,91,38.32,5179,59.2,Right-hand bat,124,54,1,2556.4,25.67,52.2,rmf,0,ENG,seam,yes,33.47750865051903,4.463667820069204
+2,1292,500,IND,5,238,-236,MS Dhoni,CT Tremlett,7,27,92,38.32,5179,59.2,Right-hand bat,125,54,1,2556.4,25.67,52.2,rmf,0,ENG,seam,yes,33.47750865051903,4.463667820069204
+2,1293,501,IND,5,238,-236,MS Dhoni,CT Tremlett,7,27,93,38.32,5179,59.2,Right-hand bat,126,54,1,2556.4,25.67,52.2,rmf,1,ENG,seam,yes,33.47750865051903,4.463667820069204
+2,1302,510,IND,5,240,-234,MS Dhoni,CT Tremlett,7,28,100,38.32,5179,59.2,Right-hand bat,129,56,1,2556.4,25.67,52.2,rmf,0,ENG,seam,yes,33.47750865051903,4.463667820069204
+2,1303,511,IND,5,240,-234,MS Dhoni,CT Tremlett,7,28,101,38.32,5179,59.2,Right-hand bat,130,56,1,2556.4,25.67,52.2,rmf,0,ENG,seam,yes,33.47750865051903,4.463667820069204
+2,1304,512,IND,5,240,-234,MS Dhoni,CT Tremlett,7,28,102,38.32,5179,59.2,Right-hand bat,131,56,1,2556.4,25.67,52.2,rmf,W,ENG,seam,yes,33.47750865051903,4.463667820069204

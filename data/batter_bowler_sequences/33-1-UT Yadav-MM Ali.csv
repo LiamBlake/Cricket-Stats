@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,748,748,IND,8,428,428,UT Yadav,MM Ali,10,0,1,8.15,349,44.41,Right-hand bat,135,85,3,6006,39.24,63.2,rob,0,IND,spin,yes,9.379999999999999,17.42
+1,749,749,IND,8,428,428,UT Yadav,MM Ali,10,0,2,8.15,349,44.41,Right-hand bat,136,85,3,6006,39.24,63.2,rob,0,IND,spin,yes,9.379999999999999,17.42
+1,750,750,IND,8,428,428,UT Yadav,MM Ali,10,0,3,8.15,349,44.41,Right-hand bat,137,85,3,6006,39.24,63.2,rob,0,IND,spin,yes,9.379999999999999,17.42
+1,758,758,IND,8,434,434,UT Yadav,MM Ali,10,1,8,8.15,349,44.41,Right-hand bat,139,86,3,6006,39.24,63.2,rob,0,IND,spin,yes,9.379999999999999,17.42
+1,759,759,IND,8,434,434,UT Yadav,MM Ali,10,1,9,8.15,349,44.41,Right-hand bat,140,86,3,6006,39.24,63.2,rob,0,IND,spin,yes,9.379999999999999,17.42
+1,760,760,IND,8,434,434,UT Yadav,MM Ali,10,1,10,8.15,349,44.41,Right-hand bat,141,86,3,6006,39.24,63.2,rob,0,IND,spin,yes,9.379999999999999,17.42
+1,761,761,IND,8,434,434,UT Yadav,MM Ali,10,1,11,8.15,349,44.41,Right-hand bat,142,86,3,6006,39.24,63.2,rob,0,IND,spin,yes,9.379999999999999,17.42
+1,762,762,IND,8,434,434,UT Yadav,MM Ali,10,1,12,8.15,349,44.41,Right-hand bat,143,86,3,6006,39.24,63.2,rob,4,IND,spin,yes,9.379999999999999,17.42
+1,769,769,IND,9,440,440,UT Yadav,MM Ali,10,5,13,8.15,349,44.41,Right-hand bat,144,90,3,6006,39.24,63.2,rob,0,IND,spin,yes,9.379999999999999,17.42
+1,770,770,IND,9,440,440,UT Yadav,MM Ali,10,5,14,8.15,349,44.41,Right-hand bat,145,90,3,6006,39.24,63.2,rob,0,IND,spin,yes,9.379999999999999,17.42
+1,771,771,IND,9,440,440,UT Yadav,MM Ali,10,5,15,8.15,349,44.41,Right-hand bat,146,90,3,6006,39.24,63.2,rob,4,IND,spin,yes,9.379999999999999,17.42
+1,772,772,IND,9,444,444,UT Yadav,MM Ali,10,9,16,8.15,349,44.41,Right-hand bat,147,94,3,6006,39.24,63.2,rob,0,IND,spin,yes,9.379999999999999,17.42
+1,773,773,IND,9,444,444,UT Yadav,MM Ali,10,9,17,8.15,349,44.41,Right-hand bat,148,94,3,6006,39.24,63.2,rob,4,IND,spin,yes,9.379999999999999,17.42
+1,774,774,IND,9,448,448,UT Yadav,MM Ali,10,13,18,8.15,349,44.41,Right-hand bat,149,98,3,6006,39.24,63.2,rob,0,IND,spin,yes,9.379999999999999,17.42

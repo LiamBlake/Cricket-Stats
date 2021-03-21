@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,132,132,RSA,2,77,77,JP Duminy,N Wagner,4,5,10,31.93,3360,42.76,Left-hand bat,0,0,0,4752.4,29.93,54,lmf,0,RSA,seam,yes,19.305555555555557,3.861111111111111
+1,133,133,RSA,2,77,77,JP Duminy,N Wagner,4,5,11,31.93,3360,42.76,Left-hand bat,1,0,0,4752.4,29.93,54,lmf,0,RSA,seam,yes,19.305555555555557,3.861111111111111
+1,134,134,RSA,2,77,77,JP Duminy,N Wagner,4,5,12,31.93,3360,42.76,Left-hand bat,2,0,0,4752.4,29.93,54,lmf,0,RSA,seam,yes,19.305555555555557,3.861111111111111
+1,135,135,RSA,2,77,77,JP Duminy,N Wagner,4,5,13,31.93,3360,42.76,Left-hand bat,3,0,0,4752.4,29.93,54,lmf,0,RSA,seam,yes,19.305555555555557,3.861111111111111
+1,136,136,RSA,2,77,77,JP Duminy,N Wagner,4,5,14,31.93,3360,42.76,Left-hand bat,4,0,0,4752.4,29.93,54,lmf,0,RSA,seam,yes,19.305555555555557,3.861111111111111
+1,137,137,RSA,2,77,77,JP Duminy,N Wagner,4,5,15,31.93,3360,42.76,Left-hand bat,5,0,0,4752.4,29.93,54,lmf,0,RSA,seam,yes,19.305555555555557,3.861111111111111
+1,178,178,RSA,2,98,98,JP Duminy,N Wagner,4,14,29,31.93,3360,42.76,Left-hand bat,22,9,0,4752.4,29.93,54,lmf,0,RSA,seam,yes,19.305555555555557,3.861111111111111
+1,179,179,RSA,2,98,98,JP Duminy,N Wagner,4,14,30,31.93,3360,42.76,Left-hand bat,23,9,0,4752.4,29.93,54,lmf,0,RSA,seam,yes,19.305555555555557,3.861111111111111
+1,186,186,RSA,2,102,102,JP Duminy,N Wagner,4,14,31,31.93,3360,42.76,Left-hand bat,24,9,0,4752.4,29.93,54,lmf,0,RSA,seam,yes,19.305555555555557,3.861111111111111
+1,187,187,RSA,2,102,102,JP Duminy,N Wagner,4,14,32,31.93,3360,42.76,Left-hand bat,25,9,0,4752.4,29.93,54,lmf,0,RSA,seam,yes,19.305555555555557,3.861111111111111
+1,188,188,RSA,2,102,102,JP Duminy,N Wagner,4,14,33,31.93,3360,42.76,Left-hand bat,26,9,0,4752.4,29.93,54,lmf,W,RSA,seam,yes,19.305555555555557,3.861111111111111

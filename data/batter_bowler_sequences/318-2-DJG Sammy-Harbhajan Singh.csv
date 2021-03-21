@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,784,367,WIN,7,143,-58,DJG Sammy,Harbhajan Singh,9,0,0,16.15,741,56.68,Right-hand bat,55,13,1,26886.5,31.89,67.5,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+2,785,368,WIN,7,143,-58,DJG Sammy,Harbhajan Singh,9,0,1,16.15,741,56.68,Right-hand bat,56,13,1,26886.5,31.89,67.5,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+2,786,369,WIN,7,143,-58,DJG Sammy,Harbhajan Singh,9,0,2,16.15,741,56.68,Right-hand bat,57,13,1,26886.5,31.89,67.5,rob,1,WIN,spin,yes,22.163452708907254,3.9577594123048665
+2,788,371,WIN,7,145,-56,DJG Sammy,Harbhajan Singh,9,1,3,16.15,741,56.68,Right-hand bat,59,15,1,26886.5,31.89,67.5,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+2,795,378,WIN,7,145,-56,DJG Sammy,Harbhajan Singh,9,1,4,16.15,741,56.68,Right-hand bat,60,15,1,26886.5,31.89,67.5,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+2,796,379,WIN,7,145,-56,DJG Sammy,Harbhajan Singh,9,1,5,16.15,741,56.68,Right-hand bat,61,15,1,26886.5,31.89,67.5,rob,2,WIN,spin,yes,22.163452708907254,3.9577594123048665
+2,797,380,WIN,7,147,-54,DJG Sammy,Harbhajan Singh,9,3,6,16.15,741,56.68,Right-hand bat,62,17,1,26886.5,31.89,67.5,rob,1,WIN,spin,yes,22.163452708907254,3.9577594123048665
+2,799,382,WIN,7,149,-52,DJG Sammy,Harbhajan Singh,9,4,7,16.15,741,56.68,Right-hand bat,64,19,1,26886.5,31.89,67.5,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+2,800,383,WIN,7,149,-52,DJG Sammy,Harbhajan Singh,9,4,8,16.15,741,56.68,Right-hand bat,65,19,1,26886.5,31.89,67.5,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+2,810,393,WIN,7,161,-40,DJG Sammy,Harbhajan Singh,9,5,11,16.15,741,56.68,Right-hand bat,69,24,1,26886.5,31.89,67.5,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+2,811,394,WIN,7,161,-40,DJG Sammy,Harbhajan Singh,9,5,12,16.15,741,56.68,Right-hand bat,70,24,1,26886.5,31.89,67.5,rob,1,WIN,spin,yes,22.163452708907254,3.9577594123048665
+2,845,428,WIN,7,185,-16,DJG Sammy,Harbhajan Singh,9,14,20,16.15,741,56.68,Right-hand bat,74,27,1,26886.5,31.89,67.5,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+2,846,429,WIN,7,185,-16,DJG Sammy,Harbhajan Singh,9,14,21,16.15,741,56.68,Right-hand bat,75,27,1,26886.5,31.89,67.5,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+2,847,430,WIN,7,185,-16,DJG Sammy,Harbhajan Singh,9,14,22,16.15,741,56.68,Right-hand bat,76,27,1,26886.5,31.89,67.5,rob,0,WIN,spin,yes,22.163452708907254,3.9577594123048665
+2,848,431,WIN,7,185,-16,DJG Sammy,Harbhajan Singh,9,14,23,16.15,741,56.68,Right-hand bat,77,27,1,26886.5,31.89,67.5,rob,1,WIN,spin,yes,22.163452708907254,3.9577594123048665

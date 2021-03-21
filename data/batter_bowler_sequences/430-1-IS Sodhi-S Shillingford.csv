@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,611,611,NZL,7,364,364,IS Sodhi,S Shillingford,9,17,19,35.75,190,75.26,Right-hand bat,142,59,1,4146.5,32.32,63.8,rob,4,NZL,spin,no,25.168888888888887,1.7977777777777777
+1,612,612,NZL,7,368,368,IS Sodhi,S Shillingford,9,21,20,35.75,190,75.26,Right-hand bat,143,63,1,4146.5,32.32,63.8,rob,0,NZL,spin,no,25.168888888888887,1.7977777777777777
+1,613,613,NZL,7,368,368,IS Sodhi,S Shillingford,9,21,21,35.75,190,75.26,Right-hand bat,144,63,1,4146.5,32.32,63.8,rob,0,NZL,spin,no,25.168888888888887,1.7977777777777777
+1,620,620,NZL,7,374,374,IS Sodhi,S Shillingford,9,24,25,35.75,190,75.26,Right-hand bat,145,63,1,4146.5,32.32,63.8,rob,0,NZL,spin,no,25.168888888888887,1.7977777777777777
+1,621,621,NZL,7,374,374,IS Sodhi,S Shillingford,9,24,26,35.75,190,75.26,Right-hand bat,146,63,1,4146.5,32.32,63.8,rob,1,NZL,spin,no,25.168888888888887,1.7977777777777777
+1,624,624,NZL,7,376,376,IS Sodhi,S Shillingford,9,25,27,35.75,190,75.26,Right-hand bat,149,65,1,4146.5,32.32,63.8,rob,1,NZL,spin,no,25.168888888888887,1.7977777777777777

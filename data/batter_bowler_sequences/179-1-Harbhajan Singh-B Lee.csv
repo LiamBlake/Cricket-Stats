@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,598,598,IND,7,366,366,Harbhajan Singh,B Lee,9,3,3,16.4,1715,66,Right-hand bat,173,86,3,13968,29.97,51.5,rf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+1,599,599,IND,7,366,366,Harbhajan Singh,B Lee,9,3,4,16.4,1715,66,Right-hand bat,174,86,3,13968,29.97,51.5,rf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+1,600,600,IND,7,366,366,Harbhajan Singh,B Lee,9,3,5,16.4,1715,66,Right-hand bat,175,86,3,13968,29.97,51.5,rf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+1,601,601,IND,7,366,366,Harbhajan Singh,B Lee,9,3,6,16.4,1715,66,Right-hand bat,176,86,3,13968,29.97,51.5,rf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+1,602,602,IND,7,366,366,Harbhajan Singh,B Lee,9,3,7,16.4,1715,66,Right-hand bat,177,86,3,13968,29.97,51.5,rf,1,AUS,seam,yes,39.11934156378601,13.039780521262003
+1,610,610,IND,7,368,368,Harbhajan Singh,B Lee,9,5,9,16.4,1715,66,Right-hand bat,179,87,3,13968,29.97,51.5,rf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+1,611,611,IND,7,368,368,Harbhajan Singh,B Lee,9,5,10,16.4,1715,66,Right-hand bat,180,87,3,13968,29.97,51.5,rf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+1,612,612,IND,7,368,368,Harbhajan Singh,B Lee,9,5,11,16.4,1715,66,Right-hand bat,181,87,3,13968,29.97,51.5,rf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+1,613,613,IND,7,368,368,Harbhajan Singh,B Lee,9,5,12,16.4,1715,66,Right-hand bat,182,87,3,13968,29.97,51.5,rf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+1,614,614,IND,7,368,368,Harbhajan Singh,B Lee,9,5,13,16.4,1715,66,Right-hand bat,183,87,3,13968,29.97,51.5,rf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
+1,615,615,IND,7,368,368,Harbhajan Singh,B Lee,9,5,14,16.4,1715,66,Right-hand bat,184,87,3,13968,29.97,51.5,rf,1,AUS,seam,yes,39.11934156378601,13.039780521262003

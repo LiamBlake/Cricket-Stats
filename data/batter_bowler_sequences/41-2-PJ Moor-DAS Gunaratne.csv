@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1287,357,ZIM,6,213,-324,PJ Moor,DAS Gunaratne,7,49,48,39.5,241,65.56,Right-hand bat,0,0,0,18,NA,NA,rmf,2,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1288,358,ZIM,6,215,-322,PJ Moor,DAS Gunaratne,7,51,49,39.5,241,65.56,Right-hand bat,1,2,0,18,NA,NA,rmf,1,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1290,360,ZIM,6,217,-320,PJ Moor,DAS Gunaratne,7,52,50,39.5,241,65.56,Right-hand bat,3,4,0,18,NA,NA,rmf,2,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1291,361,ZIM,6,219,-318,PJ Moor,DAS Gunaratne,7,54,51,39.5,241,65.56,Right-hand bat,4,6,0,18,NA,NA,rmf,6,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1292,362,ZIM,6,225,-312,PJ Moor,DAS Gunaratne,7,60,52,39.5,241,65.56,Right-hand bat,5,12,0,18,NA,NA,rmf,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1300,370,ZIM,6,229,-308,PJ Moor,DAS Gunaratne,7,61,54,39.5,241,65.56,Right-hand bat,7,13,0,18,NA,NA,rmf,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1301,371,ZIM,6,229,-308,PJ Moor,DAS Gunaratne,7,61,55,39.5,241,65.56,Right-hand bat,8,13,0,18,NA,NA,rmf,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1302,372,ZIM,6,229,-308,PJ Moor,DAS Gunaratne,7,61,56,39.5,241,65.56,Right-hand bat,9,13,0,18,NA,NA,rmf,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1303,373,ZIM,6,229,-308,PJ Moor,DAS Gunaratne,7,61,57,39.5,241,65.56,Right-hand bat,10,13,0,18,NA,NA,rmf,0,ZIM,seam,no,17.616512345679013,19.689043209876544
+2,1304,374,ZIM,6,229,-308,PJ Moor,DAS Gunaratne,7,61,58,39.5,241,65.56,Right-hand bat,11,13,0,18,NA,NA,rmf,0,ZIM,seam,no,17.616512345679013,19.689043209876544

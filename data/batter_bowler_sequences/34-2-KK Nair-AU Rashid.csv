@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,885,321,IND,4,152,-131,KK Nair,AU Rashid,6,0,0,4,4,100,Right-hand bat,92,42,3,2028.5,38.81,61.6,rls,0,IND,spin,no,14.21875,18.28125
+2,886,322,IND,4,152,-131,KK Nair,AU Rashid,6,0,1,4,4,100,Right-hand bat,93,42,3,2028.5,38.81,61.6,rls,0,IND,spin,no,14.21875,18.28125
+2,887,323,IND,4,152,-131,KK Nair,AU Rashid,6,0,2,4,4,100,Right-hand bat,94,42,3,2028.5,38.81,61.6,rls,0,IND,spin,no,14.21875,18.28125
+2,888,324,IND,4,152,-131,KK Nair,AU Rashid,6,0,3,4,4,100,Right-hand bat,95,42,3,2028.5,38.81,61.6,rls,4,IND,spin,no,14.21875,18.28125

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1761,415,SRL,7,190,73,KTGD Prasad,Zulfiqar Babar,9,2,4,14.57,687,55.16,Right-hand bat,58,24,0,2700.2,36.17,67.5,lo,0,SRL,spin,no,11.277777777777779,22.555555555555557
+3,1762,416,SRL,7,190,73,KTGD Prasad,Zulfiqar Babar,9,2,5,14.57,687,55.16,Right-hand bat,59,24,0,2700.2,36.17,67.5,lo,0,SRL,spin,no,11.277777777777779,22.555555555555557
+3,1769,423,SRL,7,194,77,KTGD Prasad,Zulfiqar Babar,9,2,6,14.57,687,55.16,Right-hand bat,60,24,0,2700.2,36.17,67.5,lo,0,SRL,spin,no,11.277777777777779,22.555555555555557
+3,1770,424,SRL,7,194,77,KTGD Prasad,Zulfiqar Babar,9,2,7,14.57,687,55.16,Right-hand bat,61,24,0,2700.2,36.17,67.5,lo,0,SRL,spin,no,11.277777777777779,22.555555555555557
+3,1771,425,SRL,7,194,77,KTGD Prasad,Zulfiqar Babar,9,2,8,14.57,687,55.16,Right-hand bat,62,24,0,2700.2,36.17,67.5,lo,0,SRL,spin,no,11.277777777777779,22.555555555555557
+3,1772,426,SRL,7,194,77,KTGD Prasad,Zulfiqar Babar,9,2,9,14.57,687,55.16,Right-hand bat,63,24,0,2700.2,36.17,67.5,lo,0,SRL,spin,no,11.277777777777779,22.555555555555557
+3,1773,427,SRL,7,194,77,KTGD Prasad,Zulfiqar Babar,9,2,10,14.57,687,55.16,Right-hand bat,64,24,0,2700.2,36.17,67.5,lo,0,SRL,spin,no,11.277777777777779,22.555555555555557
+3,1774,428,SRL,7,194,77,KTGD Prasad,Zulfiqar Babar,9,2,11,14.57,687,55.16,Right-hand bat,65,24,0,2700.2,36.17,67.5,lo,0,SRL,spin,no,11.277777777777779,22.555555555555557
+3,1784,438,SRL,7,200,83,KTGD Prasad,Zulfiqar Babar,9,2,17,14.57,687,55.16,Right-hand bat,69,29,0,2700.2,36.17,67.5,lo,0,SRL,spin,no,11.277777777777779,22.555555555555557
+3,1785,439,SRL,7,200,83,KTGD Prasad,Zulfiqar Babar,9,2,18,14.57,687,55.16,Right-hand bat,70,29,0,2700.2,36.17,67.5,lo,W,SRL,spin,no,11.277777777777779,22.555555555555557

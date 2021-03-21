@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1677,256,WIN,8,168,-91,FH Edwards,TT Bresnan,10,0,0,5.16,969,25.59,Right-hand bat,81,41,2,186,32.33,62,rmf,0,ENG,seam,no,32.773668639053255,7.803254437869824
+3,1684,263,WIN,9,172,-87,FH Edwards,TT Bresnan,10,0,1,5.16,969,25.59,Right-hand bat,82,41,2,186,32.33,62,rmf,0,ENG,seam,no,32.773668639053255,7.803254437869824
+3,1685,264,WIN,9,172,-87,FH Edwards,TT Bresnan,10,0,2,5.16,969,25.59,Right-hand bat,83,41,2,186,32.33,62,rmf,0,ENG,seam,no,32.773668639053255,7.803254437869824
+3,1686,265,WIN,9,172,-87,FH Edwards,TT Bresnan,10,0,3,5.16,969,25.59,Right-hand bat,84,41,2,186,32.33,62,rmf,0,ENG,seam,no,32.773668639053255,7.803254437869824
+3,1687,266,WIN,9,172,-87,FH Edwards,TT Bresnan,10,0,4,5.16,969,25.59,Right-hand bat,85,41,2,186,32.33,62,rmf,4,ENG,seam,no,32.773668639053255,7.803254437869824
+3,1688,267,WIN,9,176,-83,FH Edwards,TT Bresnan,10,4,5,5.16,969,25.59,Right-hand bat,86,45,2,186,32.33,62,rmf,0,ENG,seam,no,32.773668639053255,7.803254437869824
+3,1689,268,WIN,9,176,-83,FH Edwards,TT Bresnan,10,4,6,5.16,969,25.59,Right-hand bat,87,45,2,186,32.33,62,rmf,W,ENG,seam,no,32.773668639053255,7.803254437869824

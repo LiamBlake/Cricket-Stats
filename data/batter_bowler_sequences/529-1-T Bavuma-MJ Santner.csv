@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,294,294,RSA,4,139,139,T Bavuma,MJ Santner,6,20,41,39,901,47.61,Right-hand bat,12,6,0,942.1,26.85,67.3,lo,1,RSA,spin,yes,19.305555555555557,3.861111111111111
+1,378,378,RSA,5,191,191,T Bavuma,MJ Santner,6,44,76,39,901,47.61,Right-hand bat,30,8,0,942.1,26.85,67.3,lo,0,RSA,spin,yes,19.305555555555557,3.861111111111111
+1,379,379,RSA,5,191,191,T Bavuma,MJ Santner,6,44,77,39,901,47.61,Right-hand bat,31,8,0,942.1,26.85,67.3,lo,1,RSA,spin,yes,19.305555555555557,3.861111111111111
+1,381,381,RSA,5,193,193,T Bavuma,MJ Santner,6,45,78,39,901,47.61,Right-hand bat,33,10,0,942.1,26.85,67.3,lo,0,RSA,spin,yes,19.305555555555557,3.861111111111111
+1,382,382,RSA,5,193,193,T Bavuma,MJ Santner,6,45,79,39,901,47.61,Right-hand bat,34,10,0,942.1,26.85,67.3,lo,0,RSA,spin,yes,19.305555555555557,3.861111111111111
+1,383,383,RSA,5,193,193,T Bavuma,MJ Santner,6,45,80,39,901,47.61,Right-hand bat,35,10,0,942.1,26.85,67.3,lo,0,RSA,spin,yes,19.305555555555557,3.861111111111111
+1,393,393,RSA,5,195,195,T Bavuma,MJ Santner,6,45,84,39,901,47.61,Right-hand bat,39,11,0,942.1,26.85,67.3,lo,0,RSA,spin,yes,19.305555555555557,3.861111111111111
+1,394,394,RSA,5,195,195,T Bavuma,MJ Santner,6,45,85,39,901,47.61,Right-hand bat,40,11,0,942.1,26.85,67.3,lo,0,RSA,spin,yes,19.305555555555557,3.861111111111111
+1,395,395,RSA,5,195,195,T Bavuma,MJ Santner,6,45,86,39,901,47.61,Right-hand bat,41,11,0,942.1,26.85,67.3,lo,0,RSA,spin,yes,19.305555555555557,3.861111111111111
+1,402,402,RSA,5,199,199,T Bavuma,MJ Santner,6,45,87,39,901,47.61,Right-hand bat,42,11,0,942.1,26.85,67.3,lo,1,RSA,spin,yes,19.305555555555557,3.861111111111111
+1,406,406,RSA,6,208,208,T Bavuma,MJ Santner,6,46,88,39,901,47.61,Right-hand bat,46,20,1,942.1,26.85,67.3,lo,0,RSA,spin,yes,19.305555555555557,3.861111111111111
+1,407,407,RSA,6,208,208,T Bavuma,MJ Santner,6,46,89,39,901,47.61,Right-hand bat,47,20,1,942.1,26.85,67.3,lo,W,RSA,spin,yes,19.305555555555557,3.861111111111111

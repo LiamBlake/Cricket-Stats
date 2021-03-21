@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2256,289,ENG,4,75,-187,BA Stokes,N Wagner,6,0,18,36.03,6373,58.24,Left-hand bat,36,16,0,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2257,290,ENG,4,75,-187,BA Stokes,N Wagner,6,0,19,36.03,6373,58.24,Left-hand bat,37,16,0,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2258,291,ENG,4,75,-187,BA Stokes,N Wagner,6,0,20,36.03,6373,58.24,Left-hand bat,38,16,0,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2259,292,ENG,4,75,-187,BA Stokes,N Wagner,6,0,21,36.03,6373,58.24,Left-hand bat,39,16,0,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2260,293,ENG,4,75,-187,BA Stokes,N Wagner,6,0,22,36.03,6373,58.24,Left-hand bat,40,16,0,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299
+3,2261,294,ENG,4,75,-187,BA Stokes,N Wagner,6,0,23,36.03,6373,58.24,Left-hand bat,41,16,0,9474.1,27.04,52,lmf,0,NZL,seam,yes,31.860879904875144,8.311533888228299

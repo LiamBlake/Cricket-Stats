@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,763,763,IND,6,457,457,WP Saha,KA Maharaj,8,0,0,30.38,2626,45.12,Right-hand bat,305,173,3,5490,30.22,55.4,lo,0,IND,spin,yes,13.551508844953174,33.125910509885536
+1,764,764,IND,6,457,457,WP Saha,KA Maharaj,8,0,1,30.38,2626,45.12,Right-hand bat,306,173,3,5490,30.22,55.4,lo,0,IND,spin,yes,13.551508844953174,33.125910509885536
+1,783,783,IND,6,483,483,WP Saha,KA Maharaj,8,12,10,30.38,2626,45.12,Right-hand bat,313,181,3,5490,30.22,55.4,lo,0,IND,spin,yes,13.551508844953174,33.125910509885536
+1,784,784,IND,6,483,483,WP Saha,KA Maharaj,8,12,11,30.38,2626,45.12,Right-hand bat,314,181,3,5490,30.22,55.4,lo,4,IND,spin,yes,13.551508844953174,33.125910509885536
+1,785,785,IND,6,487,487,WP Saha,KA Maharaj,8,16,12,30.38,2626,45.12,Right-hand bat,315,185,3,5490,30.22,55.4,lo,0,IND,spin,yes,13.551508844953174,33.125910509885536
+1,786,786,IND,6,487,487,WP Saha,KA Maharaj,8,16,13,30.38,2626,45.12,Right-hand bat,316,185,3,5490,30.22,55.4,lo,1,IND,spin,yes,13.551508844953174,33.125910509885536

@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,82,82,SRL,0,33,33,JK Silva,ST Gabriel,2,10,40,32.66,3375,40.65,Right-hand bat,15,9,0,2130.3,37.03,64.6,rf,4lb,SRL,seam,yes,11.757777777777779,20.30888888888889
+1,83,83,SRL,0,37,37,JK Silva,ST Gabriel,2,10,41,32.66,3375,40.65,Right-hand bat,16,9,0,2130.3,37.03,64.6,rf,1,SRL,seam,yes,11.757777777777779,20.30888888888889
+1,92,92,SRL,0,44,44,JK Silva,ST Gabriel,2,12,43,32.66,3375,40.65,Right-hand bat,18,10,0,2130.3,37.03,64.6,rf,4,SRL,seam,yes,11.757777777777779,20.30888888888889
+1,93,93,SRL,0,48,48,JK Silva,ST Gabriel,2,16,44,32.66,3375,40.65,Right-hand bat,19,14,0,2130.3,37.03,64.6,rf,0,SRL,seam,yes,11.757777777777779,20.30888888888889
+1,94,94,SRL,0,48,48,JK Silva,ST Gabriel,2,16,45,32.66,3375,40.65,Right-hand bat,20,14,0,2130.3,37.03,64.6,rf,1,SRL,seam,yes,11.757777777777779,20.30888888888889
+1,96,96,SRL,0,50,50,JK Silva,ST Gabriel,2,17,46,32.66,3375,40.65,Right-hand bat,22,16,0,2130.3,37.03,64.6,rf,0,SRL,seam,yes,11.757777777777779,20.30888888888889
+1,97,97,SRL,0,50,50,JK Silva,ST Gabriel,2,17,47,32.66,3375,40.65,Right-hand bat,23,16,0,2130.3,37.03,64.6,rf,0,SRL,seam,yes,11.757777777777779,20.30888888888889

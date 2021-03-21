@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2030,116,IND,1,64,-115,M Vijay,D Bishoo,3,40,62,30.45,1256,48.48,Right-hand bat,6,6,0,1434.4,35.42,68.4,rls,0,WIN,spin,yes,18.647382920110193,10.65564738292011
+4,2031,117,IND,1,64,-115,M Vijay,D Bishoo,3,40,63,30.45,1256,48.48,Right-hand bat,7,6,0,1434.4,35.42,68.4,rls,1lb,WIN,spin,yes,18.647382920110193,10.65564738292011
+4,2042,128,IND,1,68,-111,M Vijay,D Bishoo,3,42,66,30.45,1256,48.48,Right-hand bat,12,6,0,1434.4,35.42,68.4,rls,0,WIN,spin,yes,18.647382920110193,10.65564738292011
+4,2043,129,IND,1,68,-111,M Vijay,D Bishoo,3,42,67,30.45,1256,48.48,Right-hand bat,13,6,0,1434.4,35.42,68.4,rls,0,WIN,spin,yes,18.647382920110193,10.65564738292011
+4,2044,130,IND,1,68,-111,M Vijay,D Bishoo,3,42,68,30.45,1256,48.48,Right-hand bat,14,6,0,1434.4,35.42,68.4,rls,1,WIN,spin,yes,18.647382920110193,10.65564738292011
+4,2047,133,IND,1,70,-109,M Vijay,D Bishoo,3,43,69,30.45,1256,48.48,Right-hand bat,17,8,0,1434.4,35.42,68.4,rls,0,WIN,spin,yes,18.647382920110193,10.65564738292011
+4,2054,140,IND,1,72,-107,M Vijay,D Bishoo,3,44,71,30.45,1256,48.48,Right-hand bat,18,8,0,1434.4,35.42,68.4,rls,0,WIN,spin,yes,18.647382920110193,10.65564738292011
+4,2055,141,IND,1,72,-107,M Vijay,D Bishoo,3,44,72,30.45,1256,48.48,Right-hand bat,19,8,0,1434.4,35.42,68.4,rls,0,WIN,spin,yes,18.647382920110193,10.65564738292011
+4,2056,142,IND,1,72,-107,M Vijay,D Bishoo,3,44,73,30.45,1256,48.48,Right-hand bat,20,8,0,1434.4,35.42,68.4,rls,0,WIN,spin,yes,18.647382920110193,10.65564738292011
+4,2057,143,IND,1,72,-107,M Vijay,D Bishoo,3,44,74,30.45,1256,48.48,Right-hand bat,21,8,0,1434.4,35.42,68.4,rls,0,WIN,spin,yes,18.647382920110193,10.65564738292011
+4,2058,144,IND,1,72,-107,M Vijay,D Bishoo,3,44,75,30.45,1256,48.48,Right-hand bat,22,8,0,1434.4,35.42,68.4,rls,0,WIN,spin,yes,18.647382920110193,10.65564738292011
+4,2059,145,IND,1,72,-107,M Vijay,D Bishoo,3,44,76,30.45,1256,48.48,Right-hand bat,23,8,0,1434.4,35.42,68.4,rls,1,WIN,spin,yes,18.647382920110193,10.65564738292011

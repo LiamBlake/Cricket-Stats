@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,823,402,ENG,1,183,-74,GS Ballance,AD Mathews,3,72,152,45.2,464,48.7,Left-hand bat,0,0,0,2154,60.66,119.6,rm,1,ENG,seam,yes,28.220000000000006,4.98
+2,828,407,ENG,1,187,-70,GS Ballance,AD Mathews,3,73,153,45.2,464,48.7,Left-hand bat,5,4,0,2154,60.66,119.6,rm,0,ENG,seam,yes,28.220000000000006,4.98
+2,837,416,ENG,1,191,-66,GS Ballance,AD Mathews,3,74,156,45.2,464,48.7,Left-hand bat,8,5,0,2154,60.66,119.6,rm,W,ENG,seam,yes,28.220000000000006,4.98

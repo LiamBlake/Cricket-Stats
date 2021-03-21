@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1887,121,AUS,2,55,-267,UT Khawaja,JJ Bumrah,3,5,25,42.94,4930,50.52,Left-hand bat,18,5,0,1758.3,24.44,51.7,rf,0,IND,seam,no,17.59875,9.47625
+4,1888,122,AUS,2,55,-267,UT Khawaja,JJ Bumrah,3,5,26,42.94,4930,50.52,Left-hand bat,19,5,0,1758.3,24.44,51.7,rf,0,IND,seam,no,17.59875,9.47625
+4,1889,123,AUS,2,55,-267,UT Khawaja,JJ Bumrah,3,5,27,42.94,4930,50.52,Left-hand bat,20,5,0,1758.3,24.44,51.7,rf,2,IND,seam,no,17.59875,9.47625
+4,1890,124,AUS,2,57,-265,UT Khawaja,JJ Bumrah,3,7,28,42.94,4930,50.52,Left-hand bat,21,7,0,1758.3,24.44,51.7,rf,0,IND,seam,no,17.59875,9.47625
+4,1891,125,AUS,2,57,-265,UT Khawaja,JJ Bumrah,3,7,29,42.94,4930,50.52,Left-hand bat,22,7,0,1758.3,24.44,51.7,rf,0,IND,seam,no,17.59875,9.47625
+4,1892,126,AUS,2,57,-265,UT Khawaja,JJ Bumrah,3,7,30,42.94,4930,50.52,Left-hand bat,23,7,0,1758.3,24.44,51.7,rf,0,IND,seam,no,17.59875,9.47625
+4,1899,133,AUS,2,59,-263,UT Khawaja,JJ Bumrah,3,8,34,42.94,4930,50.52,Left-hand bat,24,7,0,1758.3,24.44,51.7,rf,0,IND,seam,no,17.59875,9.47625
+4,1900,134,AUS,2,59,-263,UT Khawaja,JJ Bumrah,3,8,35,42.94,4930,50.52,Left-hand bat,25,7,0,1758.3,24.44,51.7,rf,0,IND,seam,no,17.59875,9.47625
+4,1901,135,AUS,2,59,-263,UT Khawaja,JJ Bumrah,3,8,36,42.94,4930,50.52,Left-hand bat,26,7,0,1758.3,24.44,51.7,rf,0,IND,seam,no,17.59875,9.47625
+4,1902,136,AUS,2,59,-263,UT Khawaja,JJ Bumrah,3,8,37,42.94,4930,50.52,Left-hand bat,27,7,0,1758.3,24.44,51.7,rf,0,IND,seam,no,17.59875,9.47625
+4,1903,137,AUS,2,59,-263,UT Khawaja,JJ Bumrah,3,8,38,42.94,4930,50.52,Left-hand bat,28,7,0,1758.3,24.44,51.7,rf,0,IND,seam,no,17.59875,9.47625
+4,1904,138,AUS,2,59,-263,UT Khawaja,JJ Bumrah,3,8,39,42.94,4930,50.52,Left-hand bat,29,7,0,1758.3,24.44,51.7,rf,0,IND,seam,no,17.59875,9.47625

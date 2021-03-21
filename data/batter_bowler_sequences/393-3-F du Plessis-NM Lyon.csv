@@ -1,0 +1,19 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1302,537,RSA,5,437,499,F du Plessis,NM Lyon,7,0,1,146.5,715,40.97,Right-hand bat,91,71,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+3,1303,538,RSA,5,437,499,F du Plessis,NM Lyon,7,0,2,146.5,715,40.97,Right-hand bat,92,71,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+3,1304,539,RSA,5,437,499,F du Plessis,NM Lyon,7,0,3,146.5,715,40.97,Right-hand bat,93,71,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+3,1305,540,RSA,5,437,499,F du Plessis,NM Lyon,7,0,4,146.5,715,40.97,Right-hand bat,94,71,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+3,1306,541,RSA,5,437,499,F du Plessis,NM Lyon,7,0,5,146.5,715,40.97,Right-hand bat,95,71,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+3,1317,552,RSA,5,451,513,F du Plessis,NM Lyon,7,0,8,146.5,715,40.97,Right-hand bat,100,84,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+3,1318,553,RSA,5,451,513,F du Plessis,NM Lyon,7,0,9,146.5,715,40.97,Right-hand bat,101,84,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+3,1325,560,RSA,5,455,517,F du Plessis,NM Lyon,7,2,14,146.5,715,40.97,Right-hand bat,102,84,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+3,1326,561,RSA,5,455,517,F du Plessis,NM Lyon,7,2,15,146.5,715,40.97,Right-hand bat,103,84,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+3,1327,562,RSA,5,455,517,F du Plessis,NM Lyon,7,2,16,146.5,715,40.97,Right-hand bat,104,84,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+3,1328,563,RSA,5,455,517,F du Plessis,NM Lyon,7,2,17,146.5,715,40.97,Right-hand bat,105,84,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+3,1329,564,RSA,5,455,517,F du Plessis,NM Lyon,7,2,18,146.5,715,40.97,Right-hand bat,106,84,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+3,1330,565,RSA,5,455,517,F du Plessis,NM Lyon,7,2,19,146.5,715,40.97,Right-hand bat,107,84,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+3,1350,585,RSA,5,473,535,F du Plessis,NM Lyon,7,4,24,146.5,715,40.97,Right-hand bat,115,90,0,3480.5,30.64,64.5,rob,1,AUS,spin,yes,24.780625,7.194375000000001
+3,1361,596,RSA,5,495,557,F du Plessis,NM Lyon,7,10,28,146.5,715,40.97,Right-hand bat,120,101,0,3480.5,30.64,64.5,rob,1,AUS,spin,yes,24.780625,7.194375000000001
+3,1363,598,RSA,5,497,559,F du Plessis,NM Lyon,7,11,29,146.5,715,40.97,Right-hand bat,122,103,0,3480.5,30.64,64.5,rob,1,AUS,spin,yes,24.780625,7.194375000000001
+3,1366,601,RSA,5,505,567,F du Plessis,NM Lyon,7,12,30,146.5,715,40.97,Right-hand bat,125,111,0,3480.5,30.64,64.5,rob,0,AUS,spin,yes,24.780625,7.194375000000001
+3,1375,610,RSA,5,523,585,F du Plessis,NM Lyon,7,24,36,146.5,715,40.97,Right-hand bat,128,116,0,3480.5,30.64,64.5,rob,3,AUS,spin,yes,24.780625,7.194375000000001

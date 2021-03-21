@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,762,20,WIN,1,19,-331,KA Edwards,Shahadat Hossain,3,0,0,53.66,317,50.78,Right-hand bat,13,7,1,4386.2,45.25,65.4,rmf,0,BAN,seam,no,9.880208333333334,23.994791666666668
+2,763,21,WIN,1,19,-331,KA Edwards,Shahadat Hossain,3,0,1,53.66,317,50.78,Right-hand bat,14,7,1,4386.2,45.25,65.4,rmf,0,BAN,seam,no,9.880208333333334,23.994791666666668
+2,770,28,WIN,1,21,-329,KA Edwards,Shahadat Hossain,3,0,4,53.66,317,50.78,Right-hand bat,15,7,1,4386.2,45.25,65.4,rmf,1nb,BAN,seam,no,9.880208333333334,23.994791666666668
+2,771,29,WIN,1,26,-324,KA Edwards,Shahadat Hossain,3,4,5,53.66,317,50.78,Right-hand bat,16,8,1,4386.2,45.25,65.4,rmf,0,BAN,seam,no,9.880208333333334,23.994791666666668
+2,772,30,WIN,1,26,-324,KA Edwards,Shahadat Hossain,3,4,6,53.66,317,50.78,Right-hand bat,17,8,1,4386.2,45.25,65.4,rmf,0,BAN,seam,no,9.880208333333334,23.994791666666668
+2,773,31,WIN,1,26,-324,KA Edwards,Shahadat Hossain,3,4,7,53.66,317,50.78,Right-hand bat,18,8,1,4386.2,45.25,65.4,rmf,1,BAN,seam,no,9.880208333333334,23.994791666666668

@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1558,6,ENG,0,4,-278,AD Hales,Rahat Ali,2,0,0,30,999,45.04,Right-hand bat,0,0,0,2988.4,35.56,68,lfm,1,ENG,seam,no,18.0775,7.7475
+4,1562,10,ENG,0,8,-274,AD Hales,Rahat Ali,2,1,1,30,999,45.04,Right-hand bat,4,4,0,2988.4,35.56,68,lfm,4,ENG,seam,no,18.0775,7.7475
+4,1563,11,ENG,0,12,-270,AD Hales,Rahat Ali,2,5,2,30,999,45.04,Right-hand bat,5,8,0,2988.4,35.56,68,lfm,1,ENG,seam,no,18.0775,7.7475
+4,1594,42,ENG,1,32,-250,AD Hales,Rahat Ali,2,16,20,30,999,45.04,Right-hand bat,18,17,1,2988.4,35.56,68,lfm,W,ENG,seam,no,18.0775,7.7475

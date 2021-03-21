@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2171,1221,NZL,8,644,398,N Wagner,Mohammed Shami,10,1,1,12.93,493,39.35,Left-hand bat,240,136,2,1344,29.48,49.7,rf,0,NZL,seam,no,46.07700312174818,1.5359001040582725
+3,2172,1222,NZL,8,644,398,N Wagner,Mohammed Shami,10,1,2,12.93,493,39.35,Left-hand bat,241,136,2,1344,29.48,49.7,rf,0,NZL,seam,no,46.07700312174818,1.5359001040582725
+3,2173,1223,NZL,8,644,398,N Wagner,Mohammed Shami,10,1,3,12.93,493,39.35,Left-hand bat,242,136,2,1344,29.48,49.7,rf,0,NZL,seam,no,46.07700312174818,1.5359001040582725
+3,2174,1224,NZL,8,644,398,N Wagner,Mohammed Shami,10,1,4,12.93,493,39.35,Left-hand bat,243,136,2,1344,29.48,49.7,rf,0,NZL,seam,no,46.07700312174818,1.5359001040582725
+3,2175,1225,NZL,8,644,398,N Wagner,Mohammed Shami,10,1,5,12.93,493,39.35,Left-hand bat,244,136,2,1344,29.48,49.7,rf,0,NZL,seam,no,46.07700312174818,1.5359001040582725
+3,2176,1226,NZL,8,644,398,N Wagner,Mohammed Shami,10,1,6,12.93,493,39.35,Left-hand bat,245,136,2,1344,29.48,49.7,rf,0,NZL,seam,no,46.07700312174818,1.5359001040582725
+3,2196,1246,NZL,8,664,418,N Wagner,Mohammed Shami,10,1,15,12.93,493,39.35,Left-hand bat,253,147,2,1344,29.48,49.7,rf,0,NZL,seam,no,46.07700312174818,1.5359001040582725
+3,2197,1247,NZL,8,664,418,N Wagner,Mohammed Shami,10,1,16,12.93,493,39.35,Left-hand bat,254,147,2,1344,29.48,49.7,rf,1,NZL,seam,no,46.07700312174818,1.5359001040582725
+3,2199,1249,NZL,8,666,420,N Wagner,Mohammed Shami,10,2,17,12.93,493,39.35,Left-hand bat,256,149,2,1344,29.48,49.7,rf,0,NZL,seam,no,46.07700312174818,1.5359001040582725
+3,2200,1250,NZL,8,666,420,N Wagner,Mohammed Shami,10,2,18,12.93,493,39.35,Left-hand bat,257,149,2,1344,29.48,49.7,rf,0,NZL,seam,no,46.07700312174818,1.5359001040582725

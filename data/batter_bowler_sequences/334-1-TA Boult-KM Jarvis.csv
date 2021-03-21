@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,715,715,NZL,8,466,466,TA Boult,KM Jarvis,10,0,0,26,37,70.27,Right-hand bat,174,101,1,840.1,36.14,60,rfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
+1,716,716,NZL,8,466,466,TA Boult,KM Jarvis,10,0,1,26,37,70.27,Right-hand bat,175,101,1,840.1,36.14,60,rfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
+1,717,717,NZL,8,466,466,TA Boult,KM Jarvis,10,0,2,26,37,70.27,Right-hand bat,176,101,1,840.1,36.14,60,rfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
+1,718,718,NZL,8,466,466,TA Boult,KM Jarvis,10,0,3,26,37,70.27,Right-hand bat,177,101,1,840.1,36.14,60,rfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
+1,719,719,NZL,8,466,466,TA Boult,KM Jarvis,10,0,4,26,37,70.27,Right-hand bat,178,101,1,840.1,36.14,60,rfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
+1,720,720,NZL,8,466,466,TA Boult,KM Jarvis,10,0,5,26,37,70.27,Right-hand bat,179,101,1,840.1,36.14,60,rfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
+1,732,732,NZL,8,478,478,TA Boult,KM Jarvis,10,1,9,26,37,70.27,Right-hand bat,185,110,1,840.1,36.14,60,rfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
+1,743,743,NZL,8,480,480,TA Boult,KM Jarvis,10,1,15,26,37,70.27,Right-hand bat,190,111,1,840.1,36.14,60,rfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
+1,744,744,NZL,8,480,480,TA Boult,KM Jarvis,10,1,16,26,37,70.27,Right-hand bat,191,111,1,840.1,36.14,60,rfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
+1,751,751,NZL,8,486,486,TA Boult,KM Jarvis,10,4,18,26,37,70.27,Right-hand bat,192,111,1,840.1,36.14,60,rfm,1,NZL,seam,no,21.737997256515776,4.725651577503429

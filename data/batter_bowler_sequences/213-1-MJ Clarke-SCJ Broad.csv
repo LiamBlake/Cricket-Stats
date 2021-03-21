@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,290,290,AUS,4,184,184,MJ Clarke,SCJ Broad,5,23,49,50.08,6688,53.16,Right-hand bat,36,24,0,3828.4,40.21,73.6,rfm,2,ENG,seam,yes,35.692800000000005,4.8672
+1,291,291,AUS,4,186,186,MJ Clarke,SCJ Broad,5,25,50,50.08,6688,53.16,Right-hand bat,37,26,0,3828.4,40.21,73.6,rfm,4,ENG,seam,yes,35.692800000000005,4.8672
+1,292,292,AUS,4,190,190,MJ Clarke,SCJ Broad,5,29,51,50.08,6688,53.16,Right-hand bat,38,30,0,3828.4,40.21,73.6,rfm,0,ENG,seam,yes,35.692800000000005,4.8672
+1,293,293,AUS,4,190,190,MJ Clarke,SCJ Broad,5,29,52,50.08,6688,53.16,Right-hand bat,39,30,0,3828.4,40.21,73.6,rfm,1lb,ENG,seam,yes,35.692800000000005,4.8672

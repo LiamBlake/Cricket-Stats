@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,961,30,IND,2,17,-574,SR Tendulkar,SCJ Broad,4,0,0,56.25,NA,NA,Right-hand bat,12,4,1,8310.5,32,62.9,rfm,0,ENG,seam,no,26.050295857988164,19.10355029585799
+2,962,31,IND,2,17,-574,SR Tendulkar,SCJ Broad,4,0,1,56.25,NA,NA,Right-hand bat,13,4,1,8310.5,32,62.9,rfm,0,ENG,seam,no,26.050295857988164,19.10355029585799
+2,963,32,IND,2,17,-574,SR Tendulkar,SCJ Broad,4,0,2,56.25,NA,NA,Right-hand bat,14,4,1,8310.5,32,62.9,rfm,0,ENG,seam,no,26.050295857988164,19.10355029585799
+2,964,33,IND,2,17,-574,SR Tendulkar,SCJ Broad,4,0,3,56.25,NA,NA,Right-hand bat,15,4,1,8310.5,32,62.9,rfm,0,ENG,seam,no,26.050295857988164,19.10355029585799
+2,965,34,IND,2,17,-574,SR Tendulkar,SCJ Broad,4,0,4,56.25,NA,NA,Right-hand bat,16,4,1,8310.5,32,62.9,rfm,0,ENG,seam,no,26.050295857988164,19.10355029585799
+2,966,35,IND,2,17,-574,SR Tendulkar,SCJ Broad,4,0,5,56.25,NA,NA,Right-hand bat,17,4,1,8310.5,32,62.9,rfm,0,ENG,seam,no,26.050295857988164,19.10355029585799
+2,973,42,IND,2,25,-566,SR Tendulkar,SCJ Broad,4,0,6,56.25,NA,NA,Right-hand bat,18,4,1,8310.5,32,62.9,rfm,0,ENG,seam,no,26.050295857988164,19.10355029585799
+2,974,43,IND,2,25,-566,SR Tendulkar,SCJ Broad,4,0,7,56.25,NA,NA,Right-hand bat,19,4,1,8310.5,32,62.9,rfm,0,ENG,seam,no,26.050295857988164,19.10355029585799
+2,975,44,IND,2,25,-566,SR Tendulkar,SCJ Broad,4,0,8,56.25,NA,NA,Right-hand bat,20,4,1,8310.5,32,62.9,rfm,0,ENG,seam,no,26.050295857988164,19.10355029585799
+2,976,45,IND,2,25,-566,SR Tendulkar,SCJ Broad,4,0,9,56.25,NA,NA,Right-hand bat,21,4,1,8310.5,32,62.9,rfm,0,ENG,seam,no,26.050295857988164,19.10355029585799
+2,977,46,IND,2,25,-566,SR Tendulkar,SCJ Broad,4,0,10,56.25,NA,NA,Right-hand bat,22,4,1,8310.5,32,62.9,rfm,4,ENG,seam,no,26.050295857988164,19.10355029585799
+2,978,47,IND,2,29,-562,SR Tendulkar,SCJ Broad,4,4,11,56.25,NA,NA,Right-hand bat,23,8,1,8310.5,32,62.9,rfm,0,ENG,seam,no,26.050295857988164,19.10355029585799
+2,985,54,IND,2,29,-562,SR Tendulkar,SCJ Broad,4,4,12,56.25,NA,NA,Right-hand bat,24,8,1,8310.5,32,62.9,rfm,1,ENG,seam,no,26.050295857988164,19.10355029585799
+2,990,59,IND,2,31,-560,SR Tendulkar,SCJ Broad,4,5,13,56.25,NA,NA,Right-hand bat,29,10,1,8310.5,32,62.9,rfm,0,ENG,seam,no,26.050295857988164,19.10355029585799
+2,997,66,IND,2,39,-552,SR Tendulkar,SCJ Broad,4,5,14,56.25,NA,NA,Right-hand bat,30,10,1,8310.5,32,62.9,rfm,1,ENG,seam,no,26.050295857988164,19.10355029585799

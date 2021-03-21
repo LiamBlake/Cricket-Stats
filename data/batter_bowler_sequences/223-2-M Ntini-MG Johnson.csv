@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1096,495,RSA,9,256,-119,M Ntini,MG Johnson,11,0,0,9.4,1282,50.62,Right-hand bat,122,51,8,3870,27.11,53.7,lf,0,AUS,seam,no,33.64359861591695,7.209342560553633
+2,1097,496,RSA,9,256,-119,M Ntini,MG Johnson,11,0,1,9.4,1282,50.62,Right-hand bat,123,51,8,3870,27.11,53.7,lf,0,AUS,seam,no,33.64359861591695,7.209342560553633
+2,1128,527,RSA,9,278,-97,M Ntini,MG Johnson,11,5,7,9.4,1282,50.62,Right-hand bat,136,60,8,3870,27.11,53.7,lf,0,AUS,seam,no,33.64359861591695,7.209342560553633
+2,1129,528,RSA,9,278,-97,M Ntini,MG Johnson,11,5,8,9.4,1282,50.62,Right-hand bat,137,60,8,3870,27.11,53.7,lf,0,AUS,seam,no,33.64359861591695,7.209342560553633
+2,1130,529,RSA,9,278,-97,M Ntini,MG Johnson,11,5,9,9.4,1282,50.62,Right-hand bat,138,60,8,3870,27.11,53.7,lf,0,AUS,seam,no,33.64359861591695,7.209342560553633
+2,1131,530,RSA,9,278,-97,M Ntini,MG Johnson,11,5,10,9.4,1282,50.62,Right-hand bat,139,60,8,3870,27.11,53.7,lf,0,AUS,seam,no,33.64359861591695,7.209342560553633
+2,1132,531,RSA,9,278,-97,M Ntini,MG Johnson,11,5,11,9.4,1282,50.62,Right-hand bat,140,60,8,3870,27.11,53.7,lf,0,AUS,seam,no,33.64359861591695,7.209342560553633
+2,1133,532,RSA,9,278,-97,M Ntini,MG Johnson,11,5,12,9.4,1282,50.62,Right-hand bat,141,60,8,3870,27.11,53.7,lf,0,AUS,seam,no,33.64359861591695,7.209342560553633
+2,1145,544,RSA,9,280,-95,M Ntini,MG Johnson,11,5,14,9.4,1282,50.62,Right-hand bat,147,61,8,3870,27.11,53.7,lf,0,AUS,seam,no,33.64359861591695,7.209342560553633

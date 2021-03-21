@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,613,613,AUS,9,243,243,NM Lyon,R Ashwin,11,0,0,14.5,640,36.25,Right-hand bat,193,51,5,5430.3,28.53,59,rob,0,IND,spin,yes,3.7024221453287196,21.474048442906575
+1,614,614,AUS,9,243,243,NM Lyon,R Ashwin,11,0,1,14.5,640,36.25,Right-hand bat,194,51,5,5430.3,28.53,59,rob,0,IND,spin,yes,3.7024221453287196,21.474048442906575
+1,615,615,AUS,9,243,243,NM Lyon,R Ashwin,11,0,2,14.5,640,36.25,Right-hand bat,195,51,5,5430.3,28.53,59,rob,0,IND,spin,yes,3.7024221453287196,21.474048442906575
+1,616,616,AUS,9,243,243,NM Lyon,R Ashwin,11,0,3,14.5,640,36.25,Right-hand bat,196,51,5,5430.3,28.53,59,rob,0,IND,spin,yes,3.7024221453287196,21.474048442906575
+1,617,617,AUS,9,243,243,NM Lyon,R Ashwin,11,0,4,14.5,640,36.25,Right-hand bat,197,51,5,5430.3,28.53,59,rob,0,IND,spin,yes,3.7024221453287196,21.474048442906575
+1,627,627,AUS,9,247,247,NM Lyon,R Ashwin,11,0,9,14.5,640,36.25,Right-hand bat,201,54,5,5430.3,28.53,59,rob,2,IND,spin,yes,3.7024221453287196,21.474048442906575
+1,628,628,AUS,9,249,249,NM Lyon,R Ashwin,11,2,10,14.5,640,36.25,Right-hand bat,202,56,5,5430.3,28.53,59,rob,0,IND,spin,yes,3.7024221453287196,21.474048442906575
+1,629,629,AUS,9,249,249,NM Lyon,R Ashwin,11,2,11,14.5,640,36.25,Right-hand bat,203,56,5,5430.3,28.53,59,rob,1,IND,spin,yes,3.7024221453287196,21.474048442906575

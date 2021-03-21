@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1135,226,IND,6,162,280,MS Dhoni,MG Johnson,8,0,3,35.22,1901,66.7,Right-hand bat,44,54,1,1176.2,34,65.4,lf,0,AUS,seam,yes,24.99,4.409999999999999
+3,1136,227,IND,6,162,280,MS Dhoni,MG Johnson,8,0,4,35.22,1901,66.7,Right-hand bat,45,54,1,1176.2,34,65.4,lf,0,AUS,seam,yes,24.99,4.409999999999999
+3,1137,228,IND,6,162,280,MS Dhoni,MG Johnson,8,0,5,35.22,1901,66.7,Right-hand bat,46,54,1,1176.2,34,65.4,lf,0,AUS,seam,yes,24.99,4.409999999999999
+3,1138,229,IND,6,162,280,MS Dhoni,MG Johnson,8,0,6,35.22,1901,66.7,Right-hand bat,47,54,1,1176.2,34,65.4,lf,0,AUS,seam,yes,24.99,4.409999999999999
+3,1145,236,IND,6,162,280,MS Dhoni,MG Johnson,8,0,7,35.22,1901,66.7,Right-hand bat,48,54,1,1176.2,34,65.4,lf,1,AUS,seam,yes,24.99,4.409999999999999
+3,1159,250,IND,6,166,284,MS Dhoni,MG Johnson,8,1,14,35.22,1901,66.7,Right-hand bat,56,58,1,1176.2,34,65.4,lf,0,AUS,seam,yes,24.99,4.409999999999999
+3,1160,251,IND,6,166,284,MS Dhoni,MG Johnson,8,1,15,35.22,1901,66.7,Right-hand bat,57,58,1,1176.2,34,65.4,lf,0,AUS,seam,yes,24.99,4.409999999999999
+3,1161,252,IND,6,166,284,MS Dhoni,MG Johnson,8,1,16,35.22,1901,66.7,Right-hand bat,58,58,1,1176.2,34,65.4,lf,0,AUS,seam,yes,24.99,4.409999999999999
+3,1162,253,IND,6,166,284,MS Dhoni,MG Johnson,8,1,17,35.22,1901,66.7,Right-hand bat,59,58,1,1176.2,34,65.4,lf,0,AUS,seam,yes,24.99,4.409999999999999

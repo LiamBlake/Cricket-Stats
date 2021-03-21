@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,727,727,AUS,9,383,383,JM Bird,Mohammad Amir,10,3,5,19.5,135,28.88,Right-hand bat,169,80,4,4950.1,31.58,61.1,lf,0,AUS,seam,yes,29.951020408163263,4.9918367346938775
+1,728,728,AUS,9,383,383,JM Bird,Mohammad Amir,10,3,6,19.5,135,28.88,Right-hand bat,170,80,4,4950.1,31.58,61.1,lf,0,AUS,seam,yes,29.951020408163263,4.9918367346938775
+1,729,729,AUS,9,383,383,JM Bird,Mohammad Amir,10,3,7,19.5,135,28.88,Right-hand bat,171,80,4,4950.1,31.58,61.1,lf,0,AUS,seam,yes,29.951020408163263,4.9918367346938775
+1,730,730,AUS,9,383,383,JM Bird,Mohammad Amir,10,3,8,19.5,135,28.88,Right-hand bat,172,80,4,4950.1,31.58,61.1,lf,0,AUS,seam,yes,29.951020408163263,4.9918367346938775
+1,731,731,AUS,9,383,383,JM Bird,Mohammad Amir,10,3,9,19.5,135,28.88,Right-hand bat,173,80,4,4950.1,31.58,61.1,lf,0,AUS,seam,yes,29.951020408163263,4.9918367346938775
+1,732,732,AUS,9,383,383,JM Bird,Mohammad Amir,10,3,10,19.5,135,28.88,Right-hand bat,174,80,4,4950.1,31.58,61.1,lf,1,AUS,seam,yes,29.951020408163263,4.9918367346938775
+1,740,740,AUS,9,388,388,JM Bird,Mohammad Amir,10,7,18,19.5,135,28.88,Right-hand bat,175,81,4,4950.1,31.58,61.1,lf,0,AUS,seam,yes,29.951020408163263,4.9918367346938775
+1,741,741,AUS,9,388,388,JM Bird,Mohammad Amir,10,7,19,19.5,135,28.88,Right-hand bat,176,81,4,4950.1,31.58,61.1,lf,0,AUS,seam,yes,29.951020408163263,4.9918367346938775
+1,742,742,AUS,9,388,388,JM Bird,Mohammad Amir,10,7,20,19.5,135,28.88,Right-hand bat,177,81,4,4950.1,31.58,61.1,lf,0,AUS,seam,yes,29.951020408163263,4.9918367346938775
+1,743,743,AUS,9,388,388,JM Bird,Mohammad Amir,10,7,21,19.5,135,28.88,Right-hand bat,178,81,4,4950.1,31.58,61.1,lf,0,AUS,seam,yes,29.951020408163263,4.9918367346938775
+1,744,744,AUS,9,388,388,JM Bird,Mohammad Amir,10,7,22,19.5,135,28.88,Right-hand bat,179,81,4,4950.1,31.58,61.1,lf,6,AUS,seam,yes,29.951020408163263,4.9918367346938775
+1,745,745,AUS,9,394,394,JM Bird,Mohammad Amir,10,13,23,19.5,135,28.88,Right-hand bat,180,87,4,4950.1,31.58,61.1,lf,0,AUS,seam,yes,29.951020408163263,4.9918367346938775

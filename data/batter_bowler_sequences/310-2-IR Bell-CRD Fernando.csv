@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,580,188,ENG,3,120,-64,IR Bell,CRD Fernando,5,0,0,47.11,8760,51.63,Right-hand bat,37,31,1,5688.1,36.97,60.5,rfm,0,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,581,189,ENG,3,120,-64,IR Bell,CRD Fernando,5,0,1,47.11,8760,51.63,Right-hand bat,38,31,1,5688.1,36.97,60.5,rfm,0,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,582,190,ENG,3,120,-64,IR Bell,CRD Fernando,5,0,2,47.11,8760,51.63,Right-hand bat,39,31,1,5688.1,36.97,60.5,rfm,4,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,798,406,ENG,5,255,71,IR Bell,CRD Fernando,5,64,107,47.11,8760,51.63,Right-hand bat,42,35,1,5688.1,36.97,60.5,rfm,4,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,799,407,ENG,5,259,75,IR Bell,CRD Fernando,5,68,108,47.11,8760,51.63,Right-hand bat,43,39,1,5688.1,36.97,60.5,rfm,1wd,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,800,408,ENG,5,260,76,IR Bell,CRD Fernando,5,68,108,47.11,8760,51.63,Right-hand bat,44,40,1,5688.1,36.97,60.5,rfm,0,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,801,409,ENG,5,260,76,IR Bell,CRD Fernando,5,68,109,47.11,8760,51.63,Right-hand bat,45,40,1,5688.1,36.97,60.5,rfm,1,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,804,412,ENG,5,262,78,IR Bell,CRD Fernando,5,69,110,47.11,8760,51.63,Right-hand bat,48,41,1,5688.1,36.97,60.5,rfm,0,ENG,seam,yes,35.52930056710775,3.383742911153119
+2,835,443,ENG,5,278,94,IR Bell,CRD Fernando,5,72,119,47.11,8760,51.63,Right-hand bat,61,44,1,5688.1,36.97,60.5,rfm,1,ENG,seam,yes,35.52930056710775,3.383742911153119

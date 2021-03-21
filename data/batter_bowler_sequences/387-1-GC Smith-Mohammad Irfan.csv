@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,0,0,RSA,0,0,0,GC Smith,Mohammad Irfan,1,0,0,48.62,14683,59.61,Left-hand bat,0,0,0,312.5,67,105.6,lf,0,RSA,seam,yes,24.888888888888893,1.777777777777778
+1,1,1,RSA,0,0,0,GC Smith,Mohammad Irfan,1,0,1,48.62,14683,59.61,Left-hand bat,1,0,0,312.5,67,105.6,lf,0,RSA,seam,yes,24.888888888888893,1.777777777777778
+1,2,2,RSA,0,0,0,GC Smith,Mohammad Irfan,1,0,2,48.62,14683,59.61,Left-hand bat,2,0,0,312.5,67,105.6,lf,0,RSA,seam,yes,24.888888888888893,1.777777777777778
+1,3,3,RSA,0,0,0,GC Smith,Mohammad Irfan,1,0,3,48.62,14683,59.61,Left-hand bat,3,0,0,312.5,67,105.6,lf,0,RSA,seam,yes,24.888888888888893,1.777777777777778
+1,4,4,RSA,0,0,0,GC Smith,Mohammad Irfan,1,0,4,48.62,14683,59.61,Left-hand bat,4,0,0,312.5,67,105.6,lf,0,RSA,seam,yes,24.888888888888893,1.777777777777778
+1,5,5,RSA,0,0,0,GC Smith,Mohammad Irfan,1,0,5,48.62,14683,59.61,Left-hand bat,5,0,0,312.5,67,105.6,lf,0,RSA,seam,yes,24.888888888888893,1.777777777777778
+1,13,13,RSA,0,11,11,GC Smith,Mohammad Irfan,1,0,6,48.62,14683,59.61,Left-hand bat,6,0,0,312.5,67,105.6,lf,0,RSA,seam,yes,24.888888888888893,1.777777777777778
+1,14,14,RSA,0,11,11,GC Smith,Mohammad Irfan,1,0,7,48.62,14683,59.61,Left-hand bat,7,0,0,312.5,67,105.6,lf,1,RSA,seam,yes,24.888888888888893,1.777777777777778
+1,18,18,RSA,0,13,13,GC Smith,Mohammad Irfan,1,1,8,48.62,14683,59.61,Left-hand bat,11,1,0,312.5,67,105.6,lf,0,RSA,seam,yes,24.888888888888893,1.777777777777778
+1,38,38,RSA,1,28,28,GC Smith,Mohammad Irfan,1,1,12,48.62,14683,59.61,Left-hand bat,18,9,0,312.5,67,105.6,lf,0,RSA,seam,yes,24.888888888888893,1.777777777777778
+1,39,39,RSA,1,28,28,GC Smith,Mohammad Irfan,1,1,13,48.62,14683,59.61,Left-hand bat,19,9,0,312.5,67,105.6,lf,0,RSA,seam,yes,24.888888888888893,1.777777777777778
+1,40,40,RSA,1,28,28,GC Smith,Mohammad Irfan,1,1,14,48.62,14683,59.61,Left-hand bat,20,9,0,312.5,67,105.6,lf,0,RSA,seam,yes,24.888888888888893,1.777777777777778
+1,41,41,RSA,1,28,28,GC Smith,Mohammad Irfan,1,1,15,48.62,14683,59.61,Left-hand bat,21,9,0,312.5,67,105.6,lf,0,RSA,seam,yes,24.888888888888893,1.777777777777778
+1,42,42,RSA,1,28,28,GC Smith,Mohammad Irfan,1,1,16,48.62,14683,59.61,Left-hand bat,22,9,0,312.5,67,105.6,lf,4,RSA,seam,yes,24.888888888888893,1.777777777777778
+1,43,43,RSA,1,32,32,GC Smith,Mohammad Irfan,1,5,17,48.62,14683,59.61,Left-hand bat,23,13,0,312.5,67,105.6,lf,0,RSA,seam,yes,24.888888888888893,1.777777777777778

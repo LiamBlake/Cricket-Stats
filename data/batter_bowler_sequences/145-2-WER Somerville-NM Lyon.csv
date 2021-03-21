@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1450,547,NZL,7,237,-217,WER Somerville,NM Lyon,9,0,6,18,294,24.48,Right-hand bat,168,60,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+2,1451,548,NZL,7,237,-217,WER Somerville,NM Lyon,9,0,7,18,294,24.48,Right-hand bat,169,60,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+2,1452,549,NZL,7,237,-217,WER Somerville,NM Lyon,9,0,8,18,294,24.48,Right-hand bat,170,60,2,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+2,1453,550,NZL,7,237,-217,WER Somerville,NM Lyon,9,0,9,18,294,24.48,Right-hand bat,171,60,2,24564.4,31.58,62.9,rob,W,AUS,spin,no,16.609375,15.5712890625

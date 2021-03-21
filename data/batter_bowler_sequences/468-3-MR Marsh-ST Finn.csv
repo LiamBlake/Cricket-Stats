@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,728,100,AUS,4,76,-69,MR Marsh,ST Finn,6,0,0,30.7,530,57.92,Right-hand bat,22,22,3,4530.4,28.19,46.2,rfm,0,ENG,seam,yes,22.0390625,3.1484375
+3,729,101,AUS,4,76,-69,MR Marsh,ST Finn,6,0,1,30.7,530,57.92,Right-hand bat,23,22,3,4530.4,28.19,46.2,rfm,1,ENG,seam,yes,22.0390625,3.1484375
+3,741,113,AUS,4,86,-59,MR Marsh,ST Finn,6,3,8,30.7,530,57.92,Right-hand bat,29,30,3,4530.4,28.19,46.2,rfm,0,ENG,seam,yes,22.0390625,3.1484375
+3,749,121,AUS,4,88,-57,MR Marsh,ST Finn,6,3,14,30.7,530,57.92,Right-hand bat,31,31,3,4530.4,28.19,46.2,rfm,1,ENG,seam,yes,22.0390625,3.1484375
+3,751,123,AUS,4,90,-55,MR Marsh,ST Finn,6,4,15,30.7,530,57.92,Right-hand bat,33,33,3,4530.4,28.19,46.2,rfm,0,ENG,seam,yes,22.0390625,3.1484375
+3,752,124,AUS,4,90,-55,MR Marsh,ST Finn,6,4,16,30.7,530,57.92,Right-hand bat,34,33,3,4530.4,28.19,46.2,rfm,0,ENG,seam,yes,22.0390625,3.1484375
+3,753,125,AUS,4,90,-55,MR Marsh,ST Finn,6,4,17,30.7,530,57.92,Right-hand bat,35,33,3,4530.4,28.19,46.2,rfm,1,ENG,seam,yes,22.0390625,3.1484375
+3,760,132,AUS,4,92,-53,MR Marsh,ST Finn,6,6,23,30.7,530,57.92,Right-hand bat,36,34,3,4530.4,28.19,46.2,rfm,W,ENG,seam,yes,22.0390625,3.1484375

@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1904,151,AUS,4,98,-89,PSP Handscomb,R Ashwin,5,16,32,60,844,56.87,Right-hand bat,42,32,1,13830.5,24.79,51.4,rob,2,IND,spin,no,7.446249999999999,13.82875
+4,1905,152,AUS,4,100,-87,PSP Handscomb,R Ashwin,5,18,33,60,844,56.87,Right-hand bat,43,34,1,13830.5,24.79,51.4,rob,0,IND,spin,no,7.446249999999999,13.82875
+4,1906,153,AUS,4,100,-87,PSP Handscomb,R Ashwin,5,18,34,60,844,56.87,Right-hand bat,44,34,1,13830.5,24.79,51.4,rob,0,IND,spin,no,7.446249999999999,13.82875
+4,1907,154,AUS,4,100,-87,PSP Handscomb,R Ashwin,5,18,35,60,844,56.87,Right-hand bat,45,34,1,13830.5,24.79,51.4,rob,1,IND,spin,no,7.446249999999999,13.82875
+4,1941,188,AUS,7,104,-83,PSP Handscomb,R Ashwin,5,20,53,60,844,56.87,Right-hand bat,61,36,4,13830.5,24.79,51.4,rob,1,IND,spin,no,7.446249999999999,13.82875
+4,1944,191,AUS,7,106,-81,PSP Handscomb,R Ashwin,5,21,54,60,844,56.87,Right-hand bat,64,38,4,13830.5,24.79,51.4,rob,0,IND,spin,no,7.446249999999999,13.82875
+4,1945,192,AUS,7,106,-81,PSP Handscomb,R Ashwin,5,21,55,60,844,56.87,Right-hand bat,65,38,4,13830.5,24.79,51.4,rob,1,IND,spin,no,7.446249999999999,13.82875
+4,1952,199,AUS,7,110,-77,PSP Handscomb,R Ashwin,5,24,59,60,844,56.87,Right-hand bat,66,39,4,13830.5,24.79,51.4,rob,0,IND,spin,no,7.446249999999999,13.82875
+4,1953,200,AUS,7,110,-77,PSP Handscomb,R Ashwin,5,24,60,60,844,56.87,Right-hand bat,67,39,4,13830.5,24.79,51.4,rob,0,IND,spin,no,7.446249999999999,13.82875
+4,1954,201,AUS,7,110,-77,PSP Handscomb,R Ashwin,5,24,61,60,844,56.87,Right-hand bat,68,39,4,13830.5,24.79,51.4,rob,0,IND,spin,no,7.446249999999999,13.82875
+4,1955,202,AUS,7,110,-77,PSP Handscomb,R Ashwin,5,24,62,60,844,56.87,Right-hand bat,69,39,4,13830.5,24.79,51.4,rob,0,IND,spin,no,7.446249999999999,13.82875
+4,1956,203,AUS,7,110,-77,PSP Handscomb,R Ashwin,5,24,63,60,844,56.87,Right-hand bat,70,39,4,13830.5,24.79,51.4,rob,0,IND,spin,no,7.446249999999999,13.82875
+4,1957,204,AUS,7,110,-77,PSP Handscomb,R Ashwin,5,24,64,60,844,56.87,Right-hand bat,71,39,4,13830.5,24.79,51.4,rob,0,IND,spin,no,7.446249999999999,13.82875
+4,1964,211,AUS,8,110,-77,PSP Handscomb,R Ashwin,5,24,65,60,844,56.87,Right-hand bat,72,39,4,13830.5,24.79,51.4,rob,0,IND,spin,no,7.446249999999999,13.82875
+4,1965,212,AUS,8,110,-77,PSP Handscomb,R Ashwin,5,24,66,60,844,56.87,Right-hand bat,73,39,4,13830.5,24.79,51.4,rob,W,IND,spin,no,7.446249999999999,13.82875

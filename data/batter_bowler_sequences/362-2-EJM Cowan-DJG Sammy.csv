@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,982,60,AUS,0,44,-405,EJM Cowan,DJG Sammy,1,13,30,31.75,574,44.25,Left-hand bat,0,0,0,3954.4,30.08,63.8,rm,0,WIN,seam,no,25.36326530612245,8.779591836734696
+2,983,61,AUS,0,44,-405,EJM Cowan,DJG Sammy,1,13,31,31.75,574,44.25,Left-hand bat,1,0,0,3954.4,30.08,63.8,rm,0,WIN,seam,no,25.36326530612245,8.779591836734696
+2,984,62,AUS,0,44,-405,EJM Cowan,DJG Sammy,1,13,32,31.75,574,44.25,Left-hand bat,2,0,0,3954.4,30.08,63.8,rm,0,WIN,seam,no,25.36326530612245,8.779591836734696
+2,985,63,AUS,0,44,-405,EJM Cowan,DJG Sammy,1,13,33,31.75,574,44.25,Left-hand bat,3,0,0,3954.4,30.08,63.8,rm,0,WIN,seam,no,25.36326530612245,8.779591836734696
+2,986,64,AUS,0,44,-405,EJM Cowan,DJG Sammy,1,13,34,31.75,574,44.25,Left-hand bat,4,0,0,3954.4,30.08,63.8,rm,0,WIN,seam,no,25.36326530612245,8.779591836734696
+2,987,65,AUS,0,44,-405,EJM Cowan,DJG Sammy,1,13,35,31.75,574,44.25,Left-hand bat,5,0,0,3954.4,30.08,63.8,rm,0,WIN,seam,no,25.36326530612245,8.779591836734696
+2,994,72,AUS,0,50,-399,EJM Cowan,DJG Sammy,1,14,39,31.75,574,44.25,Left-hand bat,6,0,0,3954.4,30.08,63.8,rm,0,WIN,seam,no,25.36326530612245,8.779591836734696
+2,995,73,AUS,0,50,-399,EJM Cowan,DJG Sammy,1,14,40,31.75,574,44.25,Left-hand bat,7,0,0,3954.4,30.08,63.8,rm,0,WIN,seam,no,25.36326530612245,8.779591836734696
+2,996,74,AUS,0,50,-399,EJM Cowan,DJG Sammy,1,14,41,31.75,574,44.25,Left-hand bat,8,0,0,3954.4,30.08,63.8,rm,W,WIN,seam,no,25.36326530612245,8.779591836734696

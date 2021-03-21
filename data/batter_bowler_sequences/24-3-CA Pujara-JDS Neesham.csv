@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1717,157,IND,1,94,357,CA Pujara,JDS Neesham,3,30,70,49.22,5892,48.45,Right-hand bat,0,0,0,906.5,46,75.9,rmf,1,IND,seam,yes,4.6875,39.0625
+3,1721,161,IND,1,98,361,CA Pujara,JDS Neesham,3,31,71,49.22,5892,48.45,Right-hand bat,4,4,0,906.5,46,75.9,rmf,0,IND,seam,yes,4.6875,39.0625
+3,1722,162,IND,1,98,361,CA Pujara,JDS Neesham,3,31,72,49.22,5892,48.45,Right-hand bat,5,4,0,906.5,46,75.9,rmf,2,IND,seam,yes,4.6875,39.0625
+3,1729,169,IND,1,104,367,CA Pujara,JDS Neesham,3,36,76,49.22,5892,48.45,Right-hand bat,6,6,0,906.5,46,75.9,rmf,1,IND,seam,yes,4.6875,39.0625
+3,1732,172,IND,1,106,369,CA Pujara,JDS Neesham,3,37,77,49.22,5892,48.45,Right-hand bat,9,8,0,906.5,46,75.9,rmf,1,IND,seam,yes,4.6875,39.0625
+3,1837,277,IND,3,196,459,CA Pujara,JDS Neesham,3,89,138,49.22,5892,48.45,Right-hand bat,12,11,0,906.5,46,75.9,rmf,1,IND,seam,yes,4.6875,39.0625
+3,1842,282,IND,3,202,465,CA Pujara,JDS Neesham,3,90,139,49.22,5892,48.45,Right-hand bat,17,17,0,906.5,46,75.9,rmf,2,IND,seam,yes,4.6875,39.0625
+3,1849,289,IND,3,208,471,CA Pujara,JDS Neesham,3,94,143,49.22,5892,48.45,Right-hand bat,18,19,0,906.5,46,75.9,rmf,2,IND,seam,yes,4.6875,39.0625
+3,1850,290,IND,3,210,473,CA Pujara,JDS Neesham,3,96,144,49.22,5892,48.45,Right-hand bat,19,21,0,906.5,46,75.9,rmf,0,IND,seam,yes,4.6875,39.0625
+3,1851,291,IND,3,210,473,CA Pujara,JDS Neesham,3,96,145,49.22,5892,48.45,Right-hand bat,20,21,0,906.5,46,75.9,rmf,1,IND,seam,yes,4.6875,39.0625
+3,1853,293,IND,3,212,475,CA Pujara,JDS Neesham,3,97,146,49.22,5892,48.45,Right-hand bat,22,23,0,906.5,46,75.9,rmf,4,IND,seam,yes,4.6875,39.0625
+3,1854,294,IND,3,216,479,CA Pujara,JDS Neesham,3,101,147,49.22,5892,48.45,Right-hand bat,23,27,0,906.5,46,75.9,rmf,0,IND,seam,yes,4.6875,39.0625

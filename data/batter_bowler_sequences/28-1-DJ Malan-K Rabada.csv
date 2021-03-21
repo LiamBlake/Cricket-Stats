@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,237,237,ENG,3,92,92,DJ Malan,K Rabada,5,0,0,8.75,94,37.23,Left-hand bat,57,24,1,3708.2,24.56,42.6,rf,0,ENG,seam,yes,19.36875,6.45625
+1,238,238,ENG,3,92,92,DJ Malan,K Rabada,5,0,1,8.75,94,37.23,Left-hand bat,58,24,1,3708.2,24.56,42.6,rf,0,ENG,seam,yes,19.36875,6.45625
+1,239,239,ENG,3,92,92,DJ Malan,K Rabada,5,0,2,8.75,94,37.23,Left-hand bat,59,24,1,3708.2,24.56,42.6,rf,1lb,ENG,seam,yes,19.36875,6.45625
+1,270,270,ENG,3,116,116,DJ Malan,K Rabada,5,5,16,8.75,94,37.23,Left-hand bat,72,30,1,3708.2,24.56,42.6,rf,0,ENG,seam,yes,19.36875,6.45625
+1,271,271,ENG,3,116,116,DJ Malan,K Rabada,5,5,17,8.75,94,37.23,Left-hand bat,73,30,1,3708.2,24.56,42.6,rf,0,ENG,seam,yes,19.36875,6.45625
+1,272,272,ENG,3,116,116,DJ Malan,K Rabada,5,5,18,8.75,94,37.23,Left-hand bat,74,30,1,3708.2,24.56,42.6,rf,0,ENG,seam,yes,19.36875,6.45625
+1,273,273,ENG,3,116,116,DJ Malan,K Rabada,5,5,19,8.75,94,37.23,Left-hand bat,75,30,1,3708.2,24.56,42.6,rf,4,ENG,seam,yes,19.36875,6.45625
+1,274,274,ENG,3,120,120,DJ Malan,K Rabada,5,9,20,8.75,94,37.23,Left-hand bat,76,34,1,3708.2,24.56,42.6,rf,0,ENG,seam,yes,19.36875,6.45625
+1,275,275,ENG,3,120,120,DJ Malan,K Rabada,5,9,21,8.75,94,37.23,Left-hand bat,77,34,1,3708.2,24.56,42.6,rf,0,ENG,seam,yes,19.36875,6.45625
+1,286,286,ENG,3,124,124,DJ Malan,K Rabada,5,9,22,8.75,94,37.23,Left-hand bat,82,37,1,3708.2,24.56,42.6,rf,0,ENG,seam,yes,19.36875,6.45625
+1,287,287,ENG,3,124,124,DJ Malan,K Rabada,5,9,23,8.75,94,37.23,Left-hand bat,83,37,1,3708.2,24.56,42.6,rf,0,ENG,seam,yes,19.36875,6.45625

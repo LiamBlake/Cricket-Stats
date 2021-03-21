@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1636,318,IND,9,159,-34,HH Pandya,AU Rashid,8,28,54,35.08,545,77.24,Right-hand bat,18,6,1,2616,40.63,63.8,rls,0,ENG,spin,no,16.366875,6.208125
+4,1637,319,IND,9,159,-34,HH Pandya,AU Rashid,8,28,55,35.08,545,77.24,Right-hand bat,19,6,1,2616,40.63,63.8,rls,2,ENG,spin,no,16.366875,6.208125
+4,1638,320,IND,9,161,-32,HH Pandya,AU Rashid,8,30,56,35.08,545,77.24,Right-hand bat,20,8,1,2616,40.63,63.8,rls,0,ENG,spin,no,16.366875,6.208125
+4,1639,321,IND,9,161,-32,HH Pandya,AU Rashid,8,30,57,35.08,545,77.24,Right-hand bat,21,8,1,2616,40.63,63.8,rls,0,ENG,spin,no,16.366875,6.208125
+4,1640,322,IND,9,161,-32,HH Pandya,AU Rashid,8,30,58,35.08,545,77.24,Right-hand bat,22,8,1,2616,40.63,63.8,rls,1,ENG,spin,no,16.366875,6.208125

@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1654,176,AUS,1,107,310,M Labuschagne,TD Astle,3,0,0,63.43,2581,56.52,Right-hand bat,13,11,1,666.1,52.57,95.2,rls,0,AUS,spin,yes,16.609375,15.5712890625
+3,1655,177,AUS,1,107,310,M Labuschagne,TD Astle,3,0,1,63.43,2581,56.52,Right-hand bat,14,11,1,666.1,52.57,95.2,rls,1,AUS,spin,yes,16.609375,15.5712890625
+3,1657,179,AUS,1,109,312,M Labuschagne,TD Astle,3,1,2,63.43,2581,56.52,Right-hand bat,16,13,1,666.1,52.57,95.2,rls,1,AUS,spin,yes,16.609375,15.5712890625
+3,1666,188,AUS,1,113,316,M Labuschagne,TD Astle,3,4,9,63.43,2581,56.52,Right-hand bat,19,15,1,666.1,52.57,95.2,rls,0,AUS,spin,yes,16.609375,15.5712890625
+3,1667,189,AUS,1,113,316,M Labuschagne,TD Astle,3,4,10,63.43,2581,56.52,Right-hand bat,20,15,1,666.1,52.57,95.2,rls,0,AUS,spin,yes,16.609375,15.5712890625
+3,1668,190,AUS,1,113,316,M Labuschagne,TD Astle,3,4,11,63.43,2581,56.52,Right-hand bat,21,15,1,666.1,52.57,95.2,rls,1,AUS,spin,yes,16.609375,15.5712890625
+3,1670,192,AUS,1,115,318,M Labuschagne,TD Astle,3,5,12,63.43,2581,56.52,Right-hand bat,23,17,1,666.1,52.57,95.2,rls,1,AUS,spin,yes,16.609375,15.5712890625
+3,1678,200,AUS,1,119,322,M Labuschagne,TD Astle,3,7,18,63.43,2581,56.52,Right-hand bat,25,19,1,666.1,52.57,95.2,rls,1,AUS,spin,yes,16.609375,15.5712890625
+3,1690,212,AUS,1,125,328,M Labuschagne,TD Astle,3,8,23,63.43,2581,56.52,Right-hand bat,31,24,1,666.1,52.57,95.2,rls,2,AUS,spin,yes,16.609375,15.5712890625
+3,1691,213,AUS,1,127,330,M Labuschagne,TD Astle,3,10,24,63.43,2581,56.52,Right-hand bat,32,26,1,666.1,52.57,95.2,rls,0,AUS,spin,yes,16.609375,15.5712890625
+3,1692,214,AUS,1,127,330,M Labuschagne,TD Astle,3,10,25,63.43,2581,56.52,Right-hand bat,33,26,1,666.1,52.57,95.2,rls,2,AUS,spin,yes,16.609375,15.5712890625
+3,1693,215,AUS,1,129,332,M Labuschagne,TD Astle,3,12,26,63.43,2581,56.52,Right-hand bat,34,28,1,666.1,52.57,95.2,rls,0,AUS,spin,yes,16.609375,15.5712890625
+3,1694,216,AUS,1,129,332,M Labuschagne,TD Astle,3,12,27,63.43,2581,56.52,Right-hand bat,35,28,1,666.1,52.57,95.2,rls,1,AUS,spin,yes,16.609375,15.5712890625
+3,1701,223,AUS,1,133,336,M Labuschagne,TD Astle,3,16,34,63.43,2581,56.52,Right-hand bat,36,29,1,666.1,52.57,95.2,rls,1,AUS,spin,yes,16.609375,15.5712890625
+3,1713,235,AUS,1,141,344,M Labuschagne,TD Astle,3,22,41,63.43,2581,56.52,Right-hand bat,42,32,1,666.1,52.57,95.2,rls,1,AUS,spin,yes,16.609375,15.5712890625
+3,1718,240,AUS,1,149,352,M Labuschagne,TD Astle,3,23,42,63.43,2581,56.52,Right-hand bat,47,40,1,666.1,52.57,95.2,rls,1,AUS,spin,yes,16.609375,15.5712890625

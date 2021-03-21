@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1444,185,NZL,4,95,-231,DR Flynn,A Symonds,6,17,36,43.66,669,39.16,Left-hand bat,3,5,0,1938,37.17,84.2,NA,1,AUS,seam,yes,18.846875,1.528125
+4,1446,187,NZL,4,97,-229,DR Flynn,A Symonds,6,18,37,43.66,669,39.16,Left-hand bat,5,7,0,1938,37.17,84.2,NA,0,AUS,seam,yes,18.846875,1.528125
+4,1469,210,NZL,4,115,-211,DR Flynn,A Symonds,6,26,46,43.66,669,39.16,Left-hand bat,14,10,0,1938,37.17,84.2,NA,0,AUS,seam,yes,18.846875,1.528125
+4,1470,211,NZL,4,115,-211,DR Flynn,A Symonds,6,26,47,43.66,669,39.16,Left-hand bat,15,10,0,1938,37.17,84.2,NA,0,AUS,seam,yes,18.846875,1.528125
+4,1471,212,NZL,4,115,-211,DR Flynn,A Symonds,6,26,48,43.66,669,39.16,Left-hand bat,16,10,0,1938,37.17,84.2,NA,0,AUS,seam,yes,18.846875,1.528125
+4,1472,213,NZL,4,115,-211,DR Flynn,A Symonds,6,26,49,43.66,669,39.16,Left-hand bat,17,10,0,1938,37.17,84.2,NA,0,AUS,seam,yes,18.846875,1.528125
+4,1479,220,NZL,4,125,-201,DR Flynn,A Symonds,6,26,50,43.66,669,39.16,Left-hand bat,18,10,0,1938,37.17,84.2,NA,1,AUS,seam,yes,18.846875,1.528125
+4,1482,223,NZL,4,127,-199,DR Flynn,A Symonds,6,27,51,43.66,669,39.16,Left-hand bat,21,12,0,1938,37.17,84.2,NA,0,AUS,seam,yes,18.846875,1.528125
+4,1483,224,NZL,4,127,-199,DR Flynn,A Symonds,6,27,52,43.66,669,39.16,Left-hand bat,22,12,0,1938,37.17,84.2,NA,0,AUS,seam,yes,18.846875,1.528125
+4,1484,225,NZL,4,127,-199,DR Flynn,A Symonds,6,27,53,43.66,669,39.16,Left-hand bat,23,12,0,1938,37.17,84.2,NA,0,AUS,seam,yes,18.846875,1.528125

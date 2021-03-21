@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1425,480,IND,3,275,-202,KK Nair,JE Root,5,25,63,160,403,79.4,Right-hand bat,0,0,0,1422.5,48.06,95.1,rob,0,IND,spin,no,17.814814814814813,35.629629629629626
+2,1426,481,IND,3,275,-202,KK Nair,JE Root,5,25,64,160,403,79.4,Right-hand bat,1,0,0,1422.5,48.06,95.1,rob,2,IND,spin,no,17.814814814814813,35.629629629629626
+2,1427,482,IND,3,277,-200,KK Nair,JE Root,5,27,65,160,403,79.4,Right-hand bat,2,2,0,1422.5,48.06,95.1,rob,0,IND,spin,no,17.814814814814813,35.629629629629626
+2,1428,483,IND,3,277,-200,KK Nair,JE Root,5,27,66,160,403,79.4,Right-hand bat,3,2,0,1422.5,48.06,95.1,rob,4,IND,spin,no,17.814814814814813,35.629629629629626
+2,1429,484,IND,3,281,-196,KK Nair,JE Root,5,31,67,160,403,79.4,Right-hand bat,4,6,0,1422.5,48.06,95.1,rob,1,IND,spin,no,17.814814814814813,35.629629629629626
+2,1442,497,IND,3,291,-186,KK Nair,JE Root,5,33,72,160,403,79.4,Right-hand bat,11,12,0,1422.5,48.06,95.1,rob,0,IND,spin,no,17.814814814814813,35.629629629629626

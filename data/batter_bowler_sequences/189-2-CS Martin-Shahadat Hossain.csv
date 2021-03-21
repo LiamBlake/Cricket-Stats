@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,801,518,NZL,9,340,203,CS Martin,Shahadat Hossain,11,0,0,2.46,302,21.19,Right-hand bat,100,86,2,1662.3,46.44,61.6,rmf,0,NZL,seam,yes,19.65452653485952,5.732570239334027
+2,802,519,NZL,9,340,203,CS Martin,Shahadat Hossain,11,0,1,2.46,302,21.19,Right-hand bat,101,86,2,1662.3,46.44,61.6,rmf,0,NZL,seam,yes,19.65452653485952,5.732570239334027
+2,809,526,NZL,9,342,205,CS Martin,Shahadat Hossain,11,1,6,2.46,302,21.19,Right-hand bat,102,86,2,1662.3,46.44,61.6,rmf,0,NZL,seam,yes,19.65452653485952,5.732570239334027
+2,810,527,NZL,9,342,205,CS Martin,Shahadat Hossain,11,1,7,2.46,302,21.19,Right-hand bat,103,86,2,1662.3,46.44,61.6,rmf,0,NZL,seam,yes,19.65452653485952,5.732570239334027
+2,811,528,NZL,9,342,205,CS Martin,Shahadat Hossain,11,1,8,2.46,302,21.19,Right-hand bat,104,86,2,1662.3,46.44,61.6,rmf,1nb,NZL,seam,yes,19.65452653485952,5.732570239334027
+2,812,529,NZL,9,343,206,CS Martin,Shahadat Hossain,11,1,9,2.46,302,21.19,Right-hand bat,105,87,2,1662.3,46.44,61.6,rmf,0,NZL,seam,yes,19.65452653485952,5.732570239334027
+2,813,530,NZL,9,343,206,CS Martin,Shahadat Hossain,11,1,10,2.46,302,21.19,Right-hand bat,106,87,2,1662.3,46.44,61.6,rmf,0,NZL,seam,yes,19.65452653485952,5.732570239334027
+2,814,531,NZL,9,343,206,CS Martin,Shahadat Hossain,11,1,11,2.46,302,21.19,Right-hand bat,107,87,2,1662.3,46.44,61.6,rmf,4,NZL,seam,yes,19.65452653485952,5.732570239334027
+2,815,532,NZL,9,347,210,CS Martin,Shahadat Hossain,11,5,12,2.46,302,21.19,Right-hand bat,108,91,2,1662.3,46.44,61.6,rmf,4,NZL,seam,yes,19.65452653485952,5.732570239334027

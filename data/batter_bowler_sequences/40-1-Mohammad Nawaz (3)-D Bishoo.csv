@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,438,438,PAK,5,230,230,Mohammad Nawaz (3),D Bishoo,7,0,0,12.5,157,31.84,Left-hand bat,79,63,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+1,439,439,PAK,5,230,230,Mohammad Nawaz (3),D Bishoo,7,0,1,12.5,157,31.84,Left-hand bat,80,63,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+1,440,440,PAK,5,230,230,Mohammad Nawaz (3),D Bishoo,7,0,2,12.5,157,31.84,Left-hand bat,81,63,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+1,441,441,PAK,5,230,230,Mohammad Nawaz (3),D Bishoo,7,0,3,12.5,157,31.84,Left-hand bat,82,63,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+1,442,442,PAK,5,230,230,Mohammad Nawaz (3),D Bishoo,7,0,4,12.5,157,31.84,Left-hand bat,83,63,2,5286,37,68.6,rls,4,PAK,spin,yes,16,12
+1,451,451,PAK,5,238,238,Mohammad Nawaz (3),D Bishoo,7,5,8,12.5,157,31.84,Left-hand bat,86,68,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+1,452,452,PAK,5,238,238,Mohammad Nawaz (3),D Bishoo,7,5,9,12.5,157,31.84,Left-hand bat,87,68,2,5286,37,68.6,rls,1,PAK,spin,yes,16,12
+1,454,454,PAK,5,240,240,Mohammad Nawaz (3),D Bishoo,7,6,10,12.5,157,31.84,Left-hand bat,89,70,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+1,462,462,PAK,5,242,242,Mohammad Nawaz (3),D Bishoo,7,6,16,12.5,157,31.84,Left-hand bat,91,71,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+1,463,463,PAK,5,242,242,Mohammad Nawaz (3),D Bishoo,7,6,17,12.5,157,31.84,Left-hand bat,92,71,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+1,464,464,PAK,5,242,242,Mohammad Nawaz (3),D Bishoo,7,6,18,12.5,157,31.84,Left-hand bat,93,71,2,5286,37,68.6,rls,0,PAK,spin,yes,16,12
+1,465,465,PAK,5,242,242,Mohammad Nawaz (3),D Bishoo,7,6,19,12.5,157,31.84,Left-hand bat,94,71,2,5286,37,68.6,rls,W,PAK,spin,yes,16,12

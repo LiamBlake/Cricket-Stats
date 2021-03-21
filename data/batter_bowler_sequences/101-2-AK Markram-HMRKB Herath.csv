@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,479,3,RSA,0,1,-286,AK Markram,HMRKB Herath,2,0,0,50.95,1602,63.6,Right-hand bat,3,1,0,25452.2,28.1,60.1,lo,0,SRL,spin,no,5.914999999999999,10.985
+2,480,4,RSA,0,1,-286,AK Markram,HMRKB Herath,2,0,1,50.95,1602,63.6,Right-hand bat,4,1,0,25452.2,28.1,60.1,lo,0,SRL,spin,no,5.914999999999999,10.985
+2,481,5,RSA,0,1,-286,AK Markram,HMRKB Herath,2,0,2,50.95,1602,63.6,Right-hand bat,5,1,0,25452.2,28.1,60.1,lo,0,SRL,spin,no,5.914999999999999,10.985
+2,488,12,RSA,0,1,-286,AK Markram,HMRKB Herath,2,0,3,50.95,1602,63.6,Right-hand bat,6,1,0,25452.2,28.1,60.1,lo,0,SRL,spin,no,5.914999999999999,10.985
+2,489,13,RSA,0,1,-286,AK Markram,HMRKB Herath,2,0,4,50.95,1602,63.6,Right-hand bat,7,1,0,25452.2,28.1,60.1,lo,0,SRL,spin,no,5.914999999999999,10.985
+2,490,14,RSA,0,1,-286,AK Markram,HMRKB Herath,2,0,5,50.95,1602,63.6,Right-hand bat,8,1,0,25452.2,28.1,60.1,lo,0,SRL,spin,no,5.914999999999999,10.985
+2,491,15,RSA,0,1,-286,AK Markram,HMRKB Herath,2,0,6,50.95,1602,63.6,Right-hand bat,9,1,0,25452.2,28.1,60.1,lo,W,SRL,spin,no,5.914999999999999,10.985

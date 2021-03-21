@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,885,885,NZL,4,561,561,BJ Watling,Sikandar Raza,6,77,133,40.03,5042,45.25,Right-hand bat,12,8,0,666.5,71,111.8,rob,1,ZIM,spin,yes,20.21005917159763,27.559171597633135
+1,888,888,NZL,4,563,563,BJ Watling,Sikandar Raza,6,78,134,40.03,5042,45.25,Right-hand bat,15,10,0,666.5,71,111.8,rob,4,ZIM,spin,yes,20.21005917159763,27.559171597633135
+1,889,889,NZL,4,567,567,BJ Watling,Sikandar Raza,6,82,135,40.03,5042,45.25,Right-hand bat,16,14,0,666.5,71,111.8,rob,0,ZIM,spin,yes,20.21005917159763,27.559171597633135
+1,890,890,NZL,4,567,567,BJ Watling,Sikandar Raza,6,82,136,40.03,5042,45.25,Right-hand bat,17,14,0,666.5,71,111.8,rob,0,ZIM,spin,yes,20.21005917159763,27.559171597633135
+1,899,899,NZL,4,573,573,BJ Watling,Sikandar Raza,6,82,139,40.03,5042,45.25,Right-hand bat,20,15,0,666.5,71,111.8,rob,0,ZIM,spin,yes,20.21005917159763,27.559171597633135
+1,900,900,NZL,4,573,573,BJ Watling,Sikandar Raza,6,82,140,40.03,5042,45.25,Right-hand bat,21,15,0,666.5,71,111.8,rob,0,ZIM,spin,yes,20.21005917159763,27.559171597633135
+1,901,901,NZL,4,573,573,BJ Watling,Sikandar Raza,6,82,141,40.03,5042,45.25,Right-hand bat,22,15,0,666.5,71,111.8,rob,1,ZIM,spin,yes,20.21005917159763,27.559171597633135

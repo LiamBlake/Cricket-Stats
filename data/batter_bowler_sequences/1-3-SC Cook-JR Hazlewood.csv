@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,844,33,RSA,0,12,10,SC Cook,JR Hazlewood,1,4,18,33.14,551,42.1,Right-hand bat,15,8,0,4404.3,26.95,53.7,rfm,0,AUS,seam,yes,28.81578947368421,7.684210526315789
+3,845,34,RSA,0,12,10,SC Cook,JR Hazlewood,1,4,19,33.14,551,42.1,Right-hand bat,16,8,0,4404.3,26.95,53.7,rfm,0,AUS,seam,yes,28.81578947368421,7.684210526315789
+3,846,35,RSA,0,12,10,SC Cook,JR Hazlewood,1,4,20,33.14,551,42.1,Right-hand bat,17,8,0,4404.3,26.95,53.7,rfm,4lb,AUS,seam,yes,28.81578947368421,7.684210526315789
+3,847,36,RSA,0,16,14,SC Cook,JR Hazlewood,1,4,21,33.14,551,42.1,Right-hand bat,18,8,0,4404.3,26.95,53.7,rfm,0,AUS,seam,yes,28.81578947368421,7.684210526315789
+3,854,43,RSA,0,20,18,SC Cook,JR Hazlewood,1,7,25,33.14,551,42.1,Right-hand bat,19,8,0,4404.3,26.95,53.7,rfm,0,AUS,seam,yes,28.81578947368421,7.684210526315789
+3,855,44,RSA,0,20,18,SC Cook,JR Hazlewood,1,7,26,33.14,551,42.1,Right-hand bat,20,8,0,4404.3,26.95,53.7,rfm,0,AUS,seam,yes,28.81578947368421,7.684210526315789
+3,856,45,RSA,0,20,18,SC Cook,JR Hazlewood,1,7,27,33.14,551,42.1,Right-hand bat,21,8,0,4404.3,26.95,53.7,rfm,4,AUS,seam,yes,28.81578947368421,7.684210526315789
+3,857,46,RSA,0,24,22,SC Cook,JR Hazlewood,1,11,28,33.14,551,42.1,Right-hand bat,22,12,0,4404.3,26.95,53.7,rfm,0,AUS,seam,yes,28.81578947368421,7.684210526315789
+3,858,47,RSA,0,24,22,SC Cook,JR Hazlewood,1,11,29,33.14,551,42.1,Right-hand bat,23,12,0,4404.3,26.95,53.7,rfm,0,AUS,seam,yes,28.81578947368421,7.684210526315789
+3,859,48,RSA,0,24,22,SC Cook,JR Hazlewood,1,11,30,33.14,551,42.1,Right-hand bat,24,12,0,4404.3,26.95,53.7,rfm,0,AUS,seam,yes,28.81578947368421,7.684210526315789

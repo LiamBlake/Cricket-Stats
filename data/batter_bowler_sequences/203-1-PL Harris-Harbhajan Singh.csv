@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,473,473,RSA,7,241,241,PL Harris,Harbhajan Singh,9,0,0,7.25,421,27.55,Right-hand bat,161,47,2,18036.4,31.03,65.6,rob,0,IND,spin,yes,10.595703125,13.623046875
+1,484,484,RSA,7,245,245,PL Harris,Harbhajan Singh,9,1,5,7.25,421,27.55,Right-hand bat,166,48,2,18036.4,31.03,65.6,rob,0,IND,spin,yes,10.595703125,13.623046875
+1,485,485,RSA,7,245,245,PL Harris,Harbhajan Singh,9,1,6,7.25,421,27.55,Right-hand bat,167,48,2,18036.4,31.03,65.6,rob,0,IND,spin,yes,10.595703125,13.623046875
+1,495,495,RSA,7,247,247,PL Harris,Harbhajan Singh,9,1,10,7.25,421,27.55,Right-hand bat,171,49,2,18036.4,31.03,65.6,rob,1,IND,spin,yes,10.595703125,13.623046875
+1,497,497,RSA,7,249,249,PL Harris,Harbhajan Singh,9,2,11,7.25,421,27.55,Right-hand bat,173,51,2,18036.4,31.03,65.6,rob,0,IND,spin,yes,10.595703125,13.623046875
+1,511,511,RSA,7,264,264,PL Harris,Harbhajan Singh,9,11,20,7.25,421,27.55,Right-hand bat,175,51,2,18036.4,31.03,65.6,rob,0,IND,spin,yes,10.595703125,13.623046875
+1,512,512,RSA,7,264,264,PL Harris,Harbhajan Singh,9,11,21,7.25,421,27.55,Right-hand bat,176,51,2,18036.4,31.03,65.6,rob,0,IND,spin,yes,10.595703125,13.623046875
+1,513,513,RSA,7,264,264,PL Harris,Harbhajan Singh,9,11,22,7.25,421,27.55,Right-hand bat,177,51,2,18036.4,31.03,65.6,rob,0,IND,spin,yes,10.595703125,13.623046875
+1,514,514,RSA,7,264,264,PL Harris,Harbhajan Singh,9,11,23,7.25,421,27.55,Right-hand bat,178,51,2,18036.4,31.03,65.6,rob,0,IND,spin,yes,10.595703125,13.623046875
+1,515,515,RSA,7,264,264,PL Harris,Harbhajan Singh,9,11,24,7.25,421,27.55,Right-hand bat,179,51,2,18036.4,31.03,65.6,rob,0,IND,spin,yes,10.595703125,13.623046875
+1,522,522,RSA,8,264,264,PL Harris,Harbhajan Singh,9,11,25,7.25,421,27.55,Right-hand bat,180,51,2,18036.4,31.03,65.6,rob,0,IND,spin,yes,10.595703125,13.623046875
+1,523,523,RSA,8,264,264,PL Harris,Harbhajan Singh,9,11,26,7.25,421,27.55,Right-hand bat,181,51,2,18036.4,31.03,65.6,rob,0,IND,spin,yes,10.595703125,13.623046875
+1,524,524,RSA,8,264,264,PL Harris,Harbhajan Singh,9,11,27,7.25,421,27.55,Right-hand bat,182,51,2,18036.4,31.03,65.6,rob,1,IND,spin,yes,10.595703125,13.623046875

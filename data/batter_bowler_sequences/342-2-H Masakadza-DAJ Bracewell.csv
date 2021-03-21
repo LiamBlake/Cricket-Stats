@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1064,198,ZIM,1,69,-357,H Masakadza,DAJ Bracewell,3,20,60,27.25,2258,42.24,Right-hand bat,48,12,0,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+2,1065,199,ZIM,1,69,-357,H Masakadza,DAJ Bracewell,3,20,61,27.25,2258,42.24,Right-hand bat,49,12,0,288,22.66,48,rfm,1lb,ZIM,seam,no,21.05678670360111,13.732686980609419
+2,1069,203,ZIM,1,71,-355,H Masakadza,DAJ Bracewell,3,20,62,27.25,2258,42.24,Right-hand bat,53,13,0,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+2,1076,210,ZIM,1,73,-353,H Masakadza,DAJ Bracewell,3,21,66,27.25,2258,42.24,Right-hand bat,54,13,0,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+2,1077,211,ZIM,1,73,-353,H Masakadza,DAJ Bracewell,3,21,67,27.25,2258,42.24,Right-hand bat,55,13,0,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+2,1078,212,ZIM,1,73,-353,H Masakadza,DAJ Bracewell,3,21,68,27.25,2258,42.24,Right-hand bat,56,13,0,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+2,1079,213,ZIM,1,73,-353,H Masakadza,DAJ Bracewell,3,21,69,27.25,2258,42.24,Right-hand bat,57,13,0,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+2,1080,214,ZIM,1,73,-353,H Masakadza,DAJ Bracewell,3,21,70,27.25,2258,42.24,Right-hand bat,58,13,0,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+2,1081,215,ZIM,1,73,-353,H Masakadza,DAJ Bracewell,3,21,71,27.25,2258,42.24,Right-hand bat,59,13,0,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+2,1113,247,ZIM,1,83,-343,H Masakadza,DAJ Bracewell,3,22,80,27.25,2258,42.24,Right-hand bat,61,14,0,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+2,1114,248,ZIM,1,83,-343,H Masakadza,DAJ Bracewell,3,22,81,27.25,2258,42.24,Right-hand bat,62,14,0,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+2,1115,249,ZIM,1,83,-343,H Masakadza,DAJ Bracewell,3,22,82,27.25,2258,42.24,Right-hand bat,63,14,0,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+2,1116,250,ZIM,1,83,-343,H Masakadza,DAJ Bracewell,3,22,83,27.25,2258,42.24,Right-hand bat,64,14,0,288,22.66,48,rfm,0,ZIM,seam,no,21.05678670360111,13.732686980609419
+2,1117,251,ZIM,1,83,-343,H Masakadza,DAJ Bracewell,3,22,84,27.25,2258,42.24,Right-hand bat,65,14,0,288,22.66,48,rfm,W,ZIM,seam,no,21.05678670360111,13.732686980609419

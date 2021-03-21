@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1285,30,PAK,0,8,-62,Taufeeq Umar,MS Panesar,2,3,16,40.26,6332,43.87,Left-hand bat,0,0,0,9468.2,33.71,71.2,lo,1,ENG,spin,yes,4.89375,16.85625
+3,1297,42,PAK,0,16,-54,Taufeeq Umar,MS Panesar,2,5,18,40.26,6332,43.87,Left-hand bat,6,2,0,9468.2,33.71,71.2,lo,0,ENG,spin,yes,4.89375,16.85625
+3,1298,43,PAK,0,16,-54,Taufeeq Umar,MS Panesar,2,5,19,40.26,6332,43.87,Left-hand bat,7,2,0,9468.2,33.71,71.2,lo,0,ENG,spin,yes,4.89375,16.85625
+3,1299,44,PAK,0,16,-54,Taufeeq Umar,MS Panesar,2,5,20,40.26,6332,43.87,Left-hand bat,8,2,0,9468.2,33.71,71.2,lo,0,ENG,spin,yes,4.89375,16.85625
+3,1300,45,PAK,0,16,-54,Taufeeq Umar,MS Panesar,2,5,21,40.26,6332,43.87,Left-hand bat,9,2,0,9468.2,33.71,71.2,lo,0,ENG,spin,yes,4.89375,16.85625
+3,1301,46,PAK,0,16,-54,Taufeeq Umar,MS Panesar,2,5,22,40.26,6332,43.87,Left-hand bat,10,2,0,9468.2,33.71,71.2,lo,0,ENG,spin,yes,4.89375,16.85625
+3,1302,47,PAK,0,16,-54,Taufeeq Umar,MS Panesar,2,5,23,40.26,6332,43.87,Left-hand bat,11,2,0,9468.2,33.71,71.2,lo,0,ENG,spin,yes,4.89375,16.85625
+3,1309,54,PAK,0,20,-50,Taufeeq Umar,MS Panesar,2,6,25,40.26,6332,43.87,Left-hand bat,12,2,0,9468.2,33.71,71.2,lo,0,ENG,spin,yes,4.89375,16.85625
+3,1310,55,PAK,0,20,-50,Taufeeq Umar,MS Panesar,2,6,26,40.26,6332,43.87,Left-hand bat,13,2,0,9468.2,33.71,71.2,lo,1,ENG,spin,yes,4.89375,16.85625

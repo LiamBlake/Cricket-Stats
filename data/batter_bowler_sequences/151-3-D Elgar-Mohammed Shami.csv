@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1644,60,RSA,2,35,-291,D Elgar,Mohammed Shami,3,20,30,39.43,7921,45.8,Left-hand bat,0,0,0,8196.1,28.4,50.9,rf,0,IND,seam,no,22.152,20.448
+3,1645,61,RSA,2,35,-291,D Elgar,Mohammed Shami,3,20,31,39.43,7921,45.8,Left-hand bat,1,0,0,8196.1,28.4,50.9,rf,4,IND,seam,no,22.152,20.448
+3,1646,62,RSA,2,39,-287,D Elgar,Mohammed Shami,3,24,32,39.43,7921,45.8,Left-hand bat,2,4,0,8196.1,28.4,50.9,rf,4,IND,seam,no,22.152,20.448
+3,1647,63,RSA,2,43,-283,D Elgar,Mohammed Shami,3,28,33,39.43,7921,45.8,Left-hand bat,3,8,0,8196.1,28.4,50.9,rf,0,IND,seam,no,22.152,20.448
+3,1648,64,RSA,2,43,-283,D Elgar,Mohammed Shami,3,28,34,39.43,7921,45.8,Left-hand bat,4,8,0,8196.1,28.4,50.9,rf,4,IND,seam,no,22.152,20.448
+3,1649,65,RSA,2,47,-279,D Elgar,Mohammed Shami,3,32,35,39.43,7921,45.8,Left-hand bat,5,12,0,8196.1,28.4,50.9,rf,0,IND,seam,no,22.152,20.448
+3,1656,72,RSA,2,49,-277,D Elgar,Mohammed Shami,3,33,37,39.43,7921,45.8,Left-hand bat,6,12,0,8196.1,28.4,50.9,rf,4,IND,seam,no,22.152,20.448
+3,1657,73,RSA,2,53,-273,D Elgar,Mohammed Shami,3,37,38,39.43,7921,45.8,Left-hand bat,7,16,0,8196.1,28.4,50.9,rf,0,IND,seam,no,22.152,20.448
+3,1658,74,RSA,2,53,-273,D Elgar,Mohammed Shami,3,37,39,39.43,7921,45.8,Left-hand bat,8,16,0,8196.1,28.4,50.9,rf,1wd,IND,seam,no,22.152,20.448
+3,1659,75,RSA,2,54,-272,D Elgar,Mohammed Shami,3,37,39,39.43,7921,45.8,Left-hand bat,9,17,0,8196.1,28.4,50.9,rf,0,IND,seam,no,22.152,20.448
+3,1660,76,RSA,2,54,-272,D Elgar,Mohammed Shami,3,37,40,39.43,7921,45.8,Left-hand bat,10,17,0,8196.1,28.4,50.9,rf,0,IND,seam,no,22.152,20.448
+3,1661,77,RSA,2,54,-272,D Elgar,Mohammed Shami,3,37,41,39.43,7921,45.8,Left-hand bat,11,17,0,8196.1,28.4,50.9,rf,0,IND,seam,no,22.152,20.448
+3,1662,78,RSA,2,54,-272,D Elgar,Mohammed Shami,3,37,42,39.43,7921,45.8,Left-hand bat,12,17,0,8196.1,28.4,50.9,rf,0,IND,seam,no,22.152,20.448

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,902,73,RSA,0,33,-412,ND McKenzie,MG Johnson,1,3,42,37.96,7443,42.33,Right-hand bat,0,0,0,4476.2,28.62,57.4,lf,0,AUS,seam,no,31.512110726643602,6.752595155709343
+2,903,74,RSA,0,33,-412,ND McKenzie,MG Johnson,1,3,43,37.96,7443,42.33,Right-hand bat,1,0,0,4476.2,28.62,57.4,lf,0,AUS,seam,no,31.512110726643602,6.752595155709343
+2,904,75,RSA,0,33,-412,ND McKenzie,MG Johnson,1,3,44,37.96,7443,42.33,Right-hand bat,2,0,0,4476.2,28.62,57.4,lf,0,AUS,seam,no,31.512110726643602,6.752595155709343
+2,905,76,RSA,0,33,-412,ND McKenzie,MG Johnson,1,3,45,37.96,7443,42.33,Right-hand bat,3,0,0,4476.2,28.62,57.4,lf,1,AUS,seam,no,31.512110726643602,6.752595155709343
+2,907,78,RSA,1,35,-410,ND McKenzie,MG Johnson,1,4,46,37.96,7443,42.33,Right-hand bat,5,1,1,4476.2,28.62,57.4,lf,0,AUS,seam,no,31.512110726643602,6.752595155709343
+2,914,85,RSA,1,35,-410,ND McKenzie,MG Johnson,1,4,47,37.96,7443,42.33,Right-hand bat,6,1,1,4476.2,28.62,57.4,lf,1,AUS,seam,no,31.512110726643602,6.752595155709343
+2,945,116,RSA,1,61,-384,ND McKenzie,MG Johnson,1,17,62,37.96,7443,42.33,Right-hand bat,23,11,1,4476.2,28.62,57.4,lf,0,AUS,seam,no,31.512110726643602,6.752595155709343
+2,968,139,RSA,1,72,-373,ND McKenzie,MG Johnson,1,19,73,37.96,7443,42.33,Right-hand bat,34,19,1,4476.2,28.62,57.4,lf,4,AUS,seam,no,31.512110726643602,6.752595155709343
+2,969,140,RSA,1,76,-369,ND McKenzie,MG Johnson,1,23,74,37.96,7443,42.33,Right-hand bat,35,23,1,4476.2,28.62,57.4,lf,0,AUS,seam,no,31.512110726643602,6.752595155709343
+2,970,141,RSA,1,76,-369,ND McKenzie,MG Johnson,1,23,75,37.96,7443,42.33,Right-hand bat,36,23,1,4476.2,28.62,57.4,lf,0,AUS,seam,no,31.512110726643602,6.752595155709343

@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,901,5,RSA,0,1,-29,JA Rudolph,MG Johnson,2,0,0,35.23,4847,43.61,Left-hand bat,5,1,0,10668.4,31.29,56.1,lf,1,RSA,seam,yes,23.481994459833793,8.386426592797784
+3,913,17,RSA,0,17,-13,JA Rudolph,MG Johnson,2,9,7,35.23,4847,43.61,Left-hand bat,11,9,0,10668.4,31.29,56.1,lf,0,RSA,seam,yes,23.481994459833793,8.386426592797784
+3,920,24,RSA,0,19,-11,JA Rudolph,MG Johnson,2,10,10,35.23,4847,43.61,Left-hand bat,12,9,0,10668.4,31.29,56.1,lf,2,RSA,seam,yes,23.481994459833793,8.386426592797784
+3,921,25,RSA,0,21,-9,JA Rudolph,MG Johnson,2,12,11,35.23,4847,43.61,Left-hand bat,13,11,0,10668.4,31.29,56.1,lf,4,RSA,seam,yes,23.481994459833793,8.386426592797784
+3,922,26,RSA,0,25,-5,JA Rudolph,MG Johnson,2,16,12,35.23,4847,43.61,Left-hand bat,14,15,0,10668.4,31.29,56.1,lf,0,RSA,seam,yes,23.481994459833793,8.386426592797784
+3,923,27,RSA,0,25,-5,JA Rudolph,MG Johnson,2,16,13,35.23,4847,43.61,Left-hand bat,15,15,0,10668.4,31.29,56.1,lf,0,RSA,seam,yes,23.481994459833793,8.386426592797784
+3,924,28,RSA,0,25,-5,JA Rudolph,MG Johnson,2,16,14,35.23,4847,43.61,Left-hand bat,16,15,0,10668.4,31.29,56.1,lf,0,RSA,seam,yes,23.481994459833793,8.386426592797784
+3,925,29,RSA,0,25,-5,JA Rudolph,MG Johnson,2,16,15,35.23,4847,43.61,Left-hand bat,17,15,0,10668.4,31.29,56.1,lf,0,RSA,seam,yes,23.481994459833793,8.386426592797784

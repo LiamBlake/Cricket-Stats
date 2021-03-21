@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1446,744,AUS,9,299,-3,NM Lyon,SCJ Broad,11,0,2,11.72,1556,44.47,Right-hand bat,147,49,3,22572.1,28.77,57.7,rfm,0,ENG,seam,no,24.395555555555557,8.87111111111111
+2,1447,745,AUS,9,299,-3,NM Lyon,SCJ Broad,11,0,3,11.72,1556,44.47,Right-hand bat,148,49,3,22572.1,28.77,57.7,rfm,0,ENG,seam,no,24.395555555555557,8.87111111111111
+2,1448,746,AUS,9,299,-3,NM Lyon,SCJ Broad,11,0,4,11.72,1556,44.47,Right-hand bat,149,49,3,22572.1,28.77,57.7,rfm,0,ENG,seam,no,24.395555555555557,8.87111111111111

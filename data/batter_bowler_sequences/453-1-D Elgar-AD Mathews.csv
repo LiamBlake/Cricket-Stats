@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,54,54,RSA,0,38,38,D Elgar,AD Mathews,2,17,22,33.84,939,46.85,Left-hand bat,0,0,0,2220,59.36,116.8,rm,0,SRL,seam,yes,19.085714285714285,14.314285714285715
+1,55,55,RSA,0,38,38,D Elgar,AD Mathews,2,17,23,33.84,939,46.85,Left-hand bat,1,0,0,2220,59.36,116.8,rm,0,SRL,seam,yes,19.085714285714285,14.314285714285715
+1,56,56,RSA,0,38,38,D Elgar,AD Mathews,2,17,24,33.84,939,46.85,Left-hand bat,2,0,0,2220,59.36,116.8,rm,4,SRL,seam,yes,19.085714285714285,14.314285714285715
+1,57,57,RSA,0,42,42,D Elgar,AD Mathews,2,21,25,33.84,939,46.85,Left-hand bat,3,4,0,2220,59.36,116.8,rm,0,SRL,seam,yes,19.085714285714285,14.314285714285715
+1,58,58,RSA,0,42,42,D Elgar,AD Mathews,2,21,26,33.84,939,46.85,Left-hand bat,4,4,0,2220,59.36,116.8,rm,0,SRL,seam,yes,19.085714285714285,14.314285714285715
+1,59,59,RSA,0,42,42,D Elgar,AD Mathews,2,21,27,33.84,939,46.85,Left-hand bat,5,4,0,2220,59.36,116.8,rm,1,SRL,seam,yes,19.085714285714285,14.314285714285715
+1,67,67,RSA,0,48,48,D Elgar,AD Mathews,2,23,31,33.84,939,46.85,Left-hand bat,7,6,0,2220,59.36,116.8,rm,4,SRL,seam,yes,19.085714285714285,14.314285714285715
+1,68,68,RSA,0,52,52,D Elgar,AD Mathews,2,27,32,33.84,939,46.85,Left-hand bat,8,10,0,2220,59.36,116.8,rm,0,SRL,seam,yes,19.085714285714285,14.314285714285715
+1,69,69,RSA,0,52,52,D Elgar,AD Mathews,2,27,33,33.84,939,46.85,Left-hand bat,9,10,0,2220,59.36,116.8,rm,0,SRL,seam,yes,19.085714285714285,14.314285714285715
+1,70,70,RSA,0,52,52,D Elgar,AD Mathews,2,27,34,33.84,939,46.85,Left-hand bat,10,10,0,2220,59.36,116.8,rm,0,SRL,seam,yes,19.085714285714285,14.314285714285715
+1,71,71,RSA,0,52,52,D Elgar,AD Mathews,2,27,35,33.84,939,46.85,Left-hand bat,11,10,0,2220,59.36,116.8,rm,0,SRL,seam,yes,19.085714285714285,14.314285714285715

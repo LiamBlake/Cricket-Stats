@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1120,0,AUS,0,0,287,DA Warner,Mohammad Amir,1,0,0,47.58,6411,77.19,Left-hand bat,0,0,0,4950.1,31.58,61.1,lf,4,AUS,seam,yes,29.951020408163263,4.9918367346938775
+3,1121,1,AUS,0,4,291,DA Warner,Mohammad Amir,1,4,1,47.58,6411,77.19,Left-hand bat,1,4,0,4950.1,31.58,61.1,lf,4,AUS,seam,yes,29.951020408163263,4.9918367346938775
+3,1122,2,AUS,0,8,295,DA Warner,Mohammad Amir,1,8,2,47.58,6411,77.19,Left-hand bat,2,8,0,4950.1,31.58,61.1,lf,0,AUS,seam,yes,29.951020408163263,4.9918367346938775
+3,1123,3,AUS,0,8,295,DA Warner,Mohammad Amir,1,8,3,47.58,6411,77.19,Left-hand bat,3,8,0,4950.1,31.58,61.1,lf,4,AUS,seam,yes,29.951020408163263,4.9918367346938775
+3,1124,4,AUS,0,12,299,DA Warner,Mohammad Amir,1,12,4,47.58,6411,77.19,Left-hand bat,4,12,0,4950.1,31.58,61.1,lf,0,AUS,seam,yes,29.951020408163263,4.9918367346938775
+3,1125,5,AUS,0,12,299,DA Warner,Mohammad Amir,1,12,5,47.58,6411,77.19,Left-hand bat,5,12,0,4950.1,31.58,61.1,lf,0,AUS,seam,yes,29.951020408163263,4.9918367346938775
+3,1132,12,AUS,0,12,299,DA Warner,Mohammad Amir,1,12,6,47.58,6411,77.19,Left-hand bat,6,12,0,4950.1,31.58,61.1,lf,0,AUS,seam,yes,29.951020408163263,4.9918367346938775
+3,1133,13,AUS,0,12,299,DA Warner,Mohammad Amir,1,12,7,47.58,6411,77.19,Left-hand bat,7,12,0,4950.1,31.58,61.1,lf,W,AUS,seam,yes,29.951020408163263,4.9918367346938775

@@ -1,0 +1,3 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1795,283,ZIM,4,105,-36,RW Chakabva,DW Steyn,6,6,3,17.8,481,37,Right-hand bat,78,25,1,15972.3,22.56,41.7,rf,0,ZIM,seam,yes,14.618106139438087,13.704474505723207
+3,1796,284,ZIM,4,105,-36,RW Chakabva,DW Steyn,6,6,4,17.8,481,37,Right-hand bat,79,25,1,15972.3,22.56,41.7,rf,3,ZIM,seam,yes,14.618106139438087,13.704474505723207

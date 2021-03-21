@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1824,277,RSA,5,128,-353,R McLaren,MG Johnson,7,0,0,23.5,108,43.51,Left-hand bat,67,42,3,12666.3,27.5,49.8,lf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1825,278,RSA,5,128,-353,R McLaren,MG Johnson,7,0,1,23.5,108,43.51,Left-hand bat,68,42,3,12666.3,27.5,49.8,lf,1,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1832,285,RSA,5,130,-351,R McLaren,MG Johnson,7,2,8,23.5,108,43.51,Left-hand bat,69,43,3,12666.3,27.5,49.8,lf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1833,286,RSA,5,130,-351,R McLaren,MG Johnson,7,2,9,23.5,108,43.51,Left-hand bat,70,43,3,12666.3,27.5,49.8,lf,2,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1834,287,RSA,5,132,-349,R McLaren,MG Johnson,7,4,10,23.5,108,43.51,Left-hand bat,71,45,3,12666.3,27.5,49.8,lf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1835,288,RSA,5,132,-349,R McLaren,MG Johnson,7,4,11,23.5,108,43.51,Left-hand bat,72,45,3,12666.3,27.5,49.8,lf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1836,289,RSA,5,132,-349,R McLaren,MG Johnson,7,4,12,23.5,108,43.51,Left-hand bat,73,45,3,12666.3,27.5,49.8,lf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1837,290,RSA,5,132,-349,R McLaren,MG Johnson,7,4,13,23.5,108,43.51,Left-hand bat,74,45,3,12666.3,27.5,49.8,lf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1844,297,RSA,5,140,-341,R McLaren,MG Johnson,7,6,16,23.5,108,43.51,Left-hand bat,75,45,3,12666.3,27.5,49.8,lf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1845,298,RSA,5,140,-341,R McLaren,MG Johnson,7,6,17,23.5,108,43.51,Left-hand bat,76,45,3,12666.3,27.5,49.8,lf,0,RSA,seam,yes,26.474048442906575,5.673010380622837
+4,1846,299,RSA,5,140,-341,R McLaren,MG Johnson,7,6,18,23.5,108,43.51,Left-hand bat,77,45,3,12666.3,27.5,49.8,lf,W,RSA,seam,yes,26.474048442906575,5.673010380622837

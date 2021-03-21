@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2326,518,IND,6,225,-232,Harbhajan Singh,CT Tremlett,8,0,0,18.57,3264,64.88,Right-hand bat,122,37,1,2556.4,25.67,52.2,rmf,0,ENG,seam,yes,33.47750865051903,4.463667820069204
+4,2327,519,IND,6,225,-232,Harbhajan Singh,CT Tremlett,8,0,1,18.57,3264,64.88,Right-hand bat,123,37,1,2556.4,25.67,52.2,rmf,1,ENG,seam,yes,33.47750865051903,4.463667820069204
+4,2329,521,IND,6,227,-230,Harbhajan Singh,CT Tremlett,8,1,2,18.57,3264,64.88,Right-hand bat,125,39,1,2556.4,25.67,52.2,rmf,0,ENG,seam,yes,33.47750865051903,4.463667820069204
+4,2338,530,IND,6,229,-228,Harbhajan Singh,CT Tremlett,8,1,8,18.57,3264,64.88,Right-hand bat,128,39,1,2556.4,25.67,52.2,rmf,1lb,ENG,seam,yes,33.47750865051903,4.463667820069204
+4,2340,532,IND,6,231,-226,Harbhajan Singh,CT Tremlett,8,1,9,18.57,3264,64.88,Right-hand bat,130,40,1,2556.4,25.67,52.2,rmf,0,ENG,seam,yes,33.47750865051903,4.463667820069204
+4,2341,533,IND,6,231,-226,Harbhajan Singh,CT Tremlett,8,1,10,18.57,3264,64.88,Right-hand bat,131,40,1,2556.4,25.67,52.2,rmf,4,ENG,seam,yes,33.47750865051903,4.463667820069204

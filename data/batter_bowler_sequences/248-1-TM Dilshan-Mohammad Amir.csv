@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,301,301,SRL,5,176,176,TM Dilshan,Mohammad Amir,6,18,30,41.36,4987,62.2,Right-hand bat,60,35,2,180,18.66,30,lf,0,SRL,seam,no,16.335,7.864999999999999
+1,302,302,SRL,5,176,176,TM Dilshan,Mohammad Amir,6,18,31,41.36,4987,62.2,Right-hand bat,61,35,2,180,18.66,30,lf,4,SRL,seam,no,16.335,7.864999999999999
+1,303,303,SRL,5,180,180,TM Dilshan,Mohammad Amir,6,22,32,41.36,4987,62.2,Right-hand bat,62,39,2,180,18.66,30,lf,0,SRL,seam,no,16.335,7.864999999999999
+1,304,304,SRL,5,180,180,TM Dilshan,Mohammad Amir,6,22,33,41.36,4987,62.2,Right-hand bat,63,39,2,180,18.66,30,lf,0,SRL,seam,no,16.335,7.864999999999999
+1,305,305,SRL,5,180,180,TM Dilshan,Mohammad Amir,6,22,34,41.36,4987,62.2,Right-hand bat,64,39,2,180,18.66,30,lf,2,SRL,seam,no,16.335,7.864999999999999
+1,306,306,SRL,5,182,182,TM Dilshan,Mohammad Amir,6,24,35,41.36,4987,62.2,Right-hand bat,65,41,2,180,18.66,30,lf,0,SRL,seam,no,16.335,7.864999999999999
+1,316,316,SRL,5,188,188,TM Dilshan,Mohammad Amir,6,24,36,41.36,4987,62.2,Right-hand bat,69,42,2,180,18.66,30,lf,0,SRL,seam,no,16.335,7.864999999999999
+1,317,317,SRL,5,188,188,TM Dilshan,Mohammad Amir,6,24,37,41.36,4987,62.2,Right-hand bat,70,42,2,180,18.66,30,lf,1,SRL,seam,no,16.335,7.864999999999999
+1,325,325,SRL,5,194,194,TM Dilshan,Mohammad Amir,6,28,42,41.36,4987,62.2,Right-hand bat,72,43,2,180,18.66,30,lf,W,SRL,seam,no,16.335,7.864999999999999

@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1158,337,AUS,7,244,415,RJ Harris,BA Stokes,9,0,0,19.45,701,61.05,Right-hand bat,58,61,2,696.5,32.8,46.7,rfm,0,AUS,seam,no,19.036875000000002,4.038125
+3,1159,338,AUS,7,244,415,RJ Harris,BA Stokes,9,0,1,19.45,701,61.05,Right-hand bat,59,61,2,696.5,32.8,46.7,rfm,1wd,AUS,seam,no,19.036875000000002,4.038125
+3,1160,339,AUS,7,245,416,RJ Harris,BA Stokes,9,0,1,19.45,701,61.05,Right-hand bat,60,62,2,696.5,32.8,46.7,rfm,0,AUS,seam,no,19.036875000000002,4.038125

@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2128,60,PAK,2,20,-167,Younis Khan,ST Gabriel,4,0,3,52.32,19227,52.24,Right-hand bat,30,6,1,3690.4,33.2,59.5,rf,0,WIN,seam,no,17.786250000000003,8.56375
+4,2129,61,PAK,2,20,-167,Younis Khan,ST Gabriel,4,0,4,52.32,19227,52.24,Right-hand bat,31,6,1,3690.4,33.2,59.5,rf,0,WIN,seam,no,17.786250000000003,8.56375
+4,2130,62,PAK,2,20,-167,Younis Khan,ST Gabriel,4,0,5,52.32,19227,52.24,Right-hand bat,32,6,1,3690.4,33.2,59.5,rf,0,WIN,seam,no,17.786250000000003,8.56375
+4,2131,63,PAK,2,20,-167,Younis Khan,ST Gabriel,4,0,6,52.32,19227,52.24,Right-hand bat,33,6,1,3690.4,33.2,59.5,rf,0,WIN,seam,no,17.786250000000003,8.56375
+4,2132,64,PAK,2,20,-167,Younis Khan,ST Gabriel,4,0,7,52.32,19227,52.24,Right-hand bat,34,6,1,3690.4,33.2,59.5,rf,1nb,WIN,seam,no,17.786250000000003,8.56375

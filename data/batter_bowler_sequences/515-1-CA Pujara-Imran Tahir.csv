@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,143,143,IND,1,48,48,CA Pujara,Imran Tahir,3,6,21,47.45,4923,49.15,Right-hand bat,2,1,0,3924.1,40.24,68.8,rls,1,IND,spin,yes,10.591836734693878,14.122448979591837
+1,153,153,IND,1,54,54,CA Pujara,Imran Tahir,3,8,23,47.45,4923,49.15,Right-hand bat,6,2,0,3924.1,40.24,68.8,rls,0,IND,spin,yes,10.591836734693878,14.122448979591837
+1,154,154,IND,1,54,54,CA Pujara,Imran Tahir,3,8,24,47.45,4923,49.15,Right-hand bat,7,2,0,3924.1,40.24,68.8,rls,0,IND,spin,yes,10.591836734693878,14.122448979591837
+1,155,155,IND,1,54,54,CA Pujara,Imran Tahir,3,8,25,47.45,4923,49.15,Right-hand bat,8,2,0,3924.1,40.24,68.8,rls,0,IND,spin,yes,10.591836734693878,14.122448979591837
+1,156,156,IND,1,54,54,CA Pujara,Imran Tahir,3,8,26,47.45,4923,49.15,Right-hand bat,9,2,0,3924.1,40.24,68.8,rls,6,IND,spin,yes,10.591836734693878,14.122448979591837
+1,157,157,IND,1,60,60,CA Pujara,Imran Tahir,3,14,27,47.45,4923,49.15,Right-hand bat,10,8,0,3924.1,40.24,68.8,rls,0,IND,spin,yes,10.591836734693878,14.122448979591837
+1,158,158,IND,1,60,60,CA Pujara,Imran Tahir,3,14,28,47.45,4923,49.15,Right-hand bat,11,8,0,3924.1,40.24,68.8,rls,0,IND,spin,yes,10.591836734693878,14.122448979591837

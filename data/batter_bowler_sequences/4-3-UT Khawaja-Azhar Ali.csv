@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1278,158,AUS,2,111,398,UT Khawaja,Azhar Ali,3,34,73,45.2,2885,53.27,Left-hand bat,1,1,0,630.3,84.4,126.6,rls,1,AUS,spin,yes,29.951020408163263,4.9918367346938775
+3,1281,161,AUS,2,115,402,UT Khawaja,Azhar Ali,3,35,74,45.2,2885,53.27,Left-hand bat,4,5,0,630.3,84.4,126.6,rls,0,AUS,spin,yes,29.951020408163263,4.9918367346938775
+3,1282,162,AUS,2,115,402,UT Khawaja,Azhar Ali,3,35,75,45.2,2885,53.27,Left-hand bat,5,5,0,630.3,84.4,126.6,rls,1,AUS,spin,yes,29.951020408163263,4.9918367346938775
+3,1291,171,AUS,2,125,412,UT Khawaja,Azhar Ali,3,42,82,45.2,2885,53.27,Left-hand bat,8,7,0,630.3,84.4,126.6,rls,4,AUS,spin,yes,29.951020408163263,4.9918367346938775
+3,1292,172,AUS,2,129,416,UT Khawaja,Azhar Ali,3,46,83,45.2,2885,53.27,Left-hand bat,9,11,0,630.3,84.4,126.6,rls,0,AUS,spin,yes,29.951020408163263,4.9918367346938775
+3,1293,173,AUS,2,129,416,UT Khawaja,Azhar Ali,3,46,84,45.2,2885,53.27,Left-hand bat,10,11,0,630.3,84.4,126.6,rls,1,AUS,spin,yes,29.951020408163263,4.9918367346938775
+3,1301,181,AUS,3,136,423,UT Khawaja,Azhar Ali,3,49,88,45.2,2885,53.27,Left-hand bat,12,12,0,630.3,84.4,126.6,rls,0,AUS,spin,yes,29.951020408163263,4.9918367346938775
+3,1302,182,AUS,3,136,423,UT Khawaja,Azhar Ali,3,49,89,45.2,2885,53.27,Left-hand bat,13,12,0,630.3,84.4,126.6,rls,0,AUS,spin,yes,29.951020408163263,4.9918367346938775
+3,1303,183,AUS,3,136,423,UT Khawaja,Azhar Ali,3,49,90,45.2,2885,53.27,Left-hand bat,14,12,0,630.3,84.4,126.6,rls,1b,AUS,spin,yes,29.951020408163263,4.9918367346938775
+3,1305,185,AUS,3,138,425,UT Khawaja,Azhar Ali,3,49,91,45.2,2885,53.27,Left-hand bat,16,13,0,630.3,84.4,126.6,rls,1,AUS,spin,yes,29.951020408163263,4.9918367346938775
+3,1316,196,AUS,3,148,435,UT Khawaja,Azhar Ali,3,51,95,45.2,2885,53.27,Left-hand bat,21,21,0,630.3,84.4,126.6,rls,4,AUS,spin,yes,29.951020408163263,4.9918367346938775
+3,1317,197,AUS,3,152,439,UT Khawaja,Azhar Ali,3,55,96,45.2,2885,53.27,Left-hand bat,22,25,0,630.3,84.4,126.6,rls,2,AUS,spin,yes,29.951020408163263,4.9918367346938775
+3,1318,198,AUS,3,154,441,UT Khawaja,Azhar Ali,3,57,97,45.2,2885,53.27,Left-hand bat,23,27,0,630.3,84.4,126.6,rls,0,AUS,spin,yes,29.951020408163263,4.9918367346938775

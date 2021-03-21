@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1082,330,PAK,3,133,298,Umar Akmal,IE O'Brien,5,1,1,75.5,415,72.77,Right-hand bat,84,39,3,4062.2,34.11,60.6,rfm,0,NZL,seam,no,16.21875,5.40625
+3,1083,331,PAK,3,133,298,Umar Akmal,IE O'Brien,5,1,2,75.5,415,72.77,Right-hand bat,85,39,3,4062.2,34.11,60.6,rfm,2,NZL,seam,no,16.21875,5.40625
+3,1084,332,PAK,3,135,300,Umar Akmal,IE O'Brien,5,3,3,75.5,415,72.77,Right-hand bat,86,41,3,4062.2,34.11,60.6,rfm,4,NZL,seam,no,16.21875,5.40625
+3,1085,333,PAK,3,139,304,Umar Akmal,IE O'Brien,5,7,4,75.5,415,72.77,Right-hand bat,87,45,3,4062.2,34.11,60.6,rfm,0,NZL,seam,no,16.21875,5.40625
+3,1086,334,PAK,3,139,304,Umar Akmal,IE O'Brien,5,7,5,75.5,415,72.77,Right-hand bat,88,45,3,4062.2,34.11,60.6,rfm,2,NZL,seam,no,16.21875,5.40625
+3,1087,335,PAK,3,141,306,Umar Akmal,IE O'Brien,5,9,6,75.5,415,72.77,Right-hand bat,89,47,3,4062.2,34.11,60.6,rfm,2,NZL,seam,no,16.21875,5.40625
+3,1099,347,PAK,3,155,320,Umar Akmal,IE O'Brien,5,21,10,75.5,415,72.77,Right-hand bat,95,50,3,4062.2,34.11,60.6,rfm,1,NZL,seam,no,16.21875,5.40625
+3,1121,369,PAK,3,179,344,Umar Akmal,IE O'Brien,5,38,19,75.5,415,72.77,Right-hand bat,105,56,3,4062.2,34.11,60.6,rfm,0,NZL,seam,no,16.21875,5.40625
+3,1122,370,PAK,3,179,344,Umar Akmal,IE O'Brien,5,38,20,75.5,415,72.77,Right-hand bat,106,56,3,4062.2,34.11,60.6,rfm,1,NZL,seam,no,16.21875,5.40625

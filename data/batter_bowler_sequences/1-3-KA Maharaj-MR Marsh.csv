@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1693,882,RSA,7,468,466,KA Maharaj,MR Marsh,9,0,0,57,53,107.54,Right-hand bat,142,59,2,1866.1,37.27,64.3,rm,0,AUS,seam,yes,28.81578947368421,7.684210526315789
+3,1694,883,RSA,7,468,466,KA Maharaj,MR Marsh,9,0,1,57,53,107.54,Right-hand bat,143,59,2,1866.1,37.27,64.3,rm,0,AUS,seam,yes,28.81578947368421,7.684210526315789
+3,1695,884,RSA,7,468,466,KA Maharaj,MR Marsh,9,0,2,57,53,107.54,Right-hand bat,144,59,2,1866.1,37.27,64.3,rm,0,AUS,seam,yes,28.81578947368421,7.684210526315789
+3,1696,885,RSA,7,468,466,KA Maharaj,MR Marsh,9,0,3,57,53,107.54,Right-hand bat,145,59,2,1866.1,37.27,64.3,rm,0,AUS,seam,yes,28.81578947368421,7.684210526315789
+3,1697,886,RSA,7,468,466,KA Maharaj,MR Marsh,9,0,4,57,53,107.54,Right-hand bat,146,59,2,1866.1,37.27,64.3,rm,2,AUS,seam,yes,28.81578947368421,7.684210526315789
+3,1704,893,RSA,7,472,470,KA Maharaj,MR Marsh,9,2,6,57,53,107.54,Right-hand bat,147,61,2,1866.1,37.27,64.3,rm,0,AUS,seam,yes,28.81578947368421,7.684210526315789
+3,1705,894,RSA,7,472,470,KA Maharaj,MR Marsh,9,2,7,57,53,107.54,Right-hand bat,148,61,2,1866.1,37.27,64.3,rm,3,AUS,seam,yes,28.81578947368421,7.684210526315789

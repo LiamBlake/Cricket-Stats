@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2013,580,AUS,9,298,-77,DE Bollinger,JM Anderson,11,2,5,7.71,159,33.96,Left-hand bat,129,92,2,11274.1,31.77,57.5,rfm,0,AUS,seam,yes,28.055999999999997,18.703999999999997
+3,2014,581,AUS,9,298,-77,DE Bollinger,JM Anderson,11,2,6,7.71,159,33.96,Left-hand bat,130,92,2,11274.1,31.77,57.5,rfm,0,AUS,seam,yes,28.055999999999997,18.703999999999997
+3,2015,582,AUS,9,298,-77,DE Bollinger,JM Anderson,11,2,7,7.71,159,33.96,Left-hand bat,131,92,2,11274.1,31.77,57.5,rfm,0,AUS,seam,yes,28.055999999999997,18.703999999999997

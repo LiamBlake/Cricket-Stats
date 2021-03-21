@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,667,153,PAK,8,40,-213,Junaid Khan,DW Steyn,10,0,0,6,92,39.13,Right-hand bat,38,8,4,13194.1,22.67,40.8,rf,0,RSA,seam,no,20.950413223140497,4.65564738292011
+2,668,154,PAK,8,40,-213,Junaid Khan,DW Steyn,10,0,1,6,92,39.13,Right-hand bat,39,8,4,13194.1,22.67,40.8,rf,0,RSA,seam,no,20.950413223140497,4.65564738292011
+2,669,155,PAK,8,40,-213,Junaid Khan,DW Steyn,10,0,2,6,92,39.13,Right-hand bat,40,8,4,13194.1,22.67,40.8,rf,0,RSA,seam,no,20.950413223140497,4.65564738292011
+2,670,156,PAK,8,40,-213,Junaid Khan,DW Steyn,10,0,3,6,92,39.13,Right-hand bat,41,8,4,13194.1,22.67,40.8,rf,0,RSA,seam,no,20.950413223140497,4.65564738292011

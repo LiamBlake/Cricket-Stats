@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1684,669,RSA,9,366,422,M Morkel,NM Lyon,11,0,0,11.8,1857,50.83,Left-hand bat,180,96,3,18708,31.76,62.1,rob,0,RSA,spin,yes,20.26625,5.88375
+3,1685,670,RSA,9,366,422,M Morkel,NM Lyon,11,0,1,11.8,1857,50.83,Left-hand bat,181,96,3,18708,31.76,62.1,rob,6,RSA,spin,yes,20.26625,5.88375
+3,1686,671,RSA,9,372,428,M Morkel,NM Lyon,11,6,2,11.8,1857,50.83,Left-hand bat,182,102,3,18708,31.76,62.1,rob,0,RSA,spin,yes,20.26625,5.88375
+3,1687,672,RSA,9,372,428,M Morkel,NM Lyon,11,6,3,11.8,1857,50.83,Left-hand bat,183,102,3,18708,31.76,62.1,rob,0,RSA,spin,yes,20.26625,5.88375
+3,1688,673,RSA,9,372,428,M Morkel,NM Lyon,11,6,4,11.8,1857,50.83,Left-hand bat,184,102,3,18708,31.76,62.1,rob,0,RSA,spin,yes,20.26625,5.88375
+3,1689,674,RSA,9,372,428,M Morkel,NM Lyon,11,6,5,11.8,1857,50.83,Left-hand bat,185,102,3,18708,31.76,62.1,rob,0,RSA,spin,yes,20.26625,5.88375

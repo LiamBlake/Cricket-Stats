@@ -1,0 +1,3 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1351,777,IND,6,615,222,Harbhajan Singh,M Muralitharan,8,1,1,16.74,2374,64.19,Right-hand bat,223,174,2,43668.1,22.71,55.1,rob,0,IND,spin,no,18.677764565992863,30.56361474435196
+2,1352,778,IND,6,615,222,Harbhajan Singh,M Muralitharan,8,1,2,16.74,2374,64.19,Right-hand bat,224,174,2,43668.1,22.71,55.1,rob,W,IND,spin,no,18.677764565992863,30.56361474435196

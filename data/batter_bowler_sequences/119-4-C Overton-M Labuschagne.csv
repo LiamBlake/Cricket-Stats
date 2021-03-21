@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2081,410,ENG,6,165,-217,C Overton,M Labuschagne,8,11,44,20.66,304,40.78,Right-hand bat,13,8,0,420,26.9,42,rls,0,ENG,spin,no,27.583910034602077,7.151384083044982
+4,2082,411,ENG,6,165,-217,C Overton,M Labuschagne,8,11,45,20.66,304,40.78,Right-hand bat,14,8,0,420,26.9,42,rls,0,ENG,spin,no,27.583910034602077,7.151384083044982
+4,2083,412,ENG,6,165,-217,C Overton,M Labuschagne,8,11,46,20.66,304,40.78,Right-hand bat,15,8,0,420,26.9,42,rls,1,ENG,spin,no,27.583910034602077,7.151384083044982

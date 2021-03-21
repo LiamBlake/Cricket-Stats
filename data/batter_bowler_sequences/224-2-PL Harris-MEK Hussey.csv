@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1166,477,RSA,7,249,-145,PL Harris,MEK Hussey,9,37,62,11.4,762,32.93,Right-hand bat,0,0,0,168,100,168,rm,0,AUS,seam,no,34.7117585848075,6.675338189386056
+2,1167,478,RSA,7,249,-145,PL Harris,MEK Hussey,9,37,63,11.4,762,32.93,Right-hand bat,1,0,0,168,100,168,rm,0,AUS,seam,no,34.7117585848075,6.675338189386056
+2,1168,479,RSA,7,249,-145,PL Harris,MEK Hussey,9,37,64,11.4,762,32.93,Right-hand bat,2,0,0,168,100,168,rm,2,AUS,seam,no,34.7117585848075,6.675338189386056
+2,1169,480,RSA,7,251,-143,PL Harris,MEK Hussey,9,39,65,11.4,762,32.93,Right-hand bat,3,2,0,168,100,168,rm,0,AUS,seam,no,34.7117585848075,6.675338189386056
+2,1170,481,RSA,7,251,-143,PL Harris,MEK Hussey,9,39,66,11.4,762,32.93,Right-hand bat,4,2,0,168,100,168,rm,W,AUS,seam,no,34.7117585848075,6.675338189386056

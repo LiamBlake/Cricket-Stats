@@ -1,0 +1,17 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1971,0,RSA,0,0,-40,D Elgar,J Nyumbu,1,0,0,31.52,1200,44.66,Left-hand bat,0,0,0,318.3,36.2,64.2,rob,0,ZIM,spin,no,14.618106139438087,13.704474505723207
+4,1972,1,RSA,0,0,-40,D Elgar,J Nyumbu,1,0,1,31.52,1200,44.66,Left-hand bat,1,0,0,318.3,36.2,64.2,rob,4,ZIM,spin,no,14.618106139438087,13.704474505723207
+4,1973,2,RSA,0,4,-36,D Elgar,J Nyumbu,1,4,2,31.52,1200,44.66,Left-hand bat,2,4,0,318.3,36.2,64.2,rob,0,ZIM,spin,no,14.618106139438087,13.704474505723207
+4,1974,3,RSA,0,4,-36,D Elgar,J Nyumbu,1,4,3,31.52,1200,44.66,Left-hand bat,3,4,0,318.3,36.2,64.2,rob,4,ZIM,spin,no,14.618106139438087,13.704474505723207
+4,1975,4,RSA,0,8,-32,D Elgar,J Nyumbu,1,8,4,31.52,1200,44.66,Left-hand bat,4,8,0,318.3,36.2,64.2,rob,0,ZIM,spin,no,14.618106139438087,13.704474505723207
+4,1976,5,RSA,0,8,-32,D Elgar,J Nyumbu,1,8,5,31.52,1200,44.66,Left-hand bat,5,8,0,318.3,36.2,64.2,rob,0,ZIM,spin,no,14.618106139438087,13.704474505723207
+4,1983,12,RSA,0,12,-28,D Elgar,J Nyumbu,1,8,6,31.52,1200,44.66,Left-hand bat,6,8,0,318.3,36.2,64.2,rob,0,ZIM,spin,no,14.618106139438087,13.704474505723207
+4,1984,13,RSA,0,12,-28,D Elgar,J Nyumbu,1,8,7,31.52,1200,44.66,Left-hand bat,7,8,0,318.3,36.2,64.2,rob,1lb,ZIM,spin,no,14.618106139438087,13.704474505723207
+4,1988,17,RSA,0,14,-26,D Elgar,J Nyumbu,1,8,8,31.52,1200,44.66,Left-hand bat,11,9,0,318.3,36.2,64.2,rob,0,ZIM,spin,no,14.618106139438087,13.704474505723207
+4,1996,25,RSA,0,16,-24,D Elgar,J Nyumbu,1,8,10,31.52,1200,44.66,Left-hand bat,13,10,0,318.3,36.2,64.2,rob,1,ZIM,spin,no,14.618106139438087,13.704474505723207
+4,1999,28,RSA,0,22,-18,D Elgar,J Nyumbu,1,9,11,31.52,1200,44.66,Left-hand bat,16,16,0,318.3,36.2,64.2,rob,1,ZIM,spin,no,14.618106139438087,13.704474505723207
+4,2008,37,RSA,0,24,-16,D Elgar,J Nyumbu,1,10,18,31.52,1200,44.66,Left-hand bat,19,18,0,318.3,36.2,64.2,rob,6,ZIM,spin,no,14.618106139438087,13.704474505723207
+4,2009,38,RSA,0,30,-10,D Elgar,J Nyumbu,1,16,19,31.52,1200,44.66,Left-hand bat,20,24,0,318.3,36.2,64.2,rob,0,ZIM,spin,no,14.618106139438087,13.704474505723207
+4,2010,39,RSA,0,30,-10,D Elgar,J Nyumbu,1,16,20,31.52,1200,44.66,Left-hand bat,21,24,0,318.3,36.2,64.2,rob,0,ZIM,spin,no,14.618106139438087,13.704474505723207
+4,2011,40,RSA,0,30,-10,D Elgar,J Nyumbu,1,16,21,31.52,1200,44.66,Left-hand bat,22,24,0,318.3,36.2,64.2,rob,0,ZIM,spin,no,14.618106139438087,13.704474505723207
+4,2012,41,RSA,0,30,-10,D Elgar,J Nyumbu,1,16,22,31.52,1200,44.66,Left-hand bat,23,24,0,318.3,36.2,64.2,rob,0,ZIM,spin,no,14.618106139438087,13.704474505723207

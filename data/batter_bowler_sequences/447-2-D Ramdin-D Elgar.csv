@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1192,345,WIN,6,191,-361,D Ramdin,D Elgar,7,12,16,26.78,4873,50.01,Right-hand bat,0,0,0,336.1,60.75,84.2,lo,0,RSA,spin,yes,28.288,4.2432
+2,1193,346,WIN,6,191,-361,D Ramdin,D Elgar,7,12,17,26.78,4873,50.01,Right-hand bat,1,0,0,336.1,60.75,84.2,lo,2,RSA,spin,yes,28.288,4.2432
+2,1194,347,WIN,6,193,-359,D Ramdin,D Elgar,7,14,18,26.78,4873,50.01,Right-hand bat,2,2,0,336.1,60.75,84.2,lo,0,RSA,spin,yes,28.288,4.2432
+2,1195,348,WIN,6,193,-359,D Ramdin,D Elgar,7,14,19,26.78,4873,50.01,Right-hand bat,3,2,0,336.1,60.75,84.2,lo,0,RSA,spin,yes,28.288,4.2432
+2,1196,349,WIN,6,193,-359,D Ramdin,D Elgar,7,14,20,26.78,4873,50.01,Right-hand bat,4,2,0,336.1,60.75,84.2,lo,0,RSA,spin,yes,28.288,4.2432
+2,1197,350,WIN,6,193,-359,D Ramdin,D Elgar,7,14,21,26.78,4873,50.01,Right-hand bat,5,2,0,336.1,60.75,84.2,lo,W,RSA,spin,yes,28.288,4.2432

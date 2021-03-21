@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,817,817,NZL,4,511,511,LRPL Taylor,PS Masvaure,4,82,123,48.66,9478,59.04,Right-hand bat,0,0,0,84,NA,NA,lfm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,818,818,NZL,4,511,511,LRPL Taylor,PS Masvaure,4,82,124,48.66,9478,59.04,Right-hand bat,1,0,0,84,NA,NA,lfm,1wd,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,819,819,NZL,4,512,512,LRPL Taylor,PS Masvaure,4,82,124,48.66,9478,59.04,Right-hand bat,2,1,0,84,NA,NA,lfm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,820,820,NZL,4,512,512,LRPL Taylor,PS Masvaure,4,82,125,48.66,9478,59.04,Right-hand bat,3,1,0,84,NA,NA,lfm,1,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,823,823,NZL,4,514,514,LRPL Taylor,PS Masvaure,4,83,126,48.66,9478,59.04,Right-hand bat,6,3,0,84,NA,NA,lfm,1,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,830,830,NZL,4,518,518,LRPL Taylor,PS Masvaure,4,86,129,48.66,9478,59.04,Right-hand bat,7,4,0,84,NA,NA,lfm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,831,831,NZL,4,518,518,LRPL Taylor,PS Masvaure,4,86,130,48.66,9478,59.04,Right-hand bat,8,4,0,84,NA,NA,lfm,1,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,834,834,NZL,4,520,520,LRPL Taylor,PS Masvaure,4,87,131,48.66,9478,59.04,Right-hand bat,11,6,0,84,NA,NA,lfm,3,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,842,842,NZL,4,528,528,LRPL Taylor,PS Masvaure,4,91,134,48.66,9478,59.04,Right-hand bat,13,10,0,84,NA,NA,lfm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,843,843,NZL,4,528,528,LRPL Taylor,PS Masvaure,4,91,135,48.66,9478,59.04,Right-hand bat,14,10,0,84,NA,NA,lfm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,844,844,NZL,4,528,528,LRPL Taylor,PS Masvaure,4,91,136,48.66,9478,59.04,Right-hand bat,15,10,0,84,NA,NA,lfm,0,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,845,845,NZL,4,528,528,LRPL Taylor,PS Masvaure,4,91,137,48.66,9478,59.04,Right-hand bat,16,10,0,84,NA,NA,lfm,2,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,846,846,NZL,4,530,530,LRPL Taylor,PS Masvaure,4,93,138,48.66,9478,59.04,Right-hand bat,17,12,0,84,NA,NA,lfm,4,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,847,847,NZL,4,534,534,LRPL Taylor,PS Masvaure,4,97,139,48.66,9478,59.04,Right-hand bat,18,16,0,84,NA,NA,lfm,1,ZIM,seam,yes,20.21005917159763,27.559171597633135
+1,854,854,NZL,4,540,540,LRPL Taylor,PS Masvaure,4,100,142,48.66,9478,59.04,Right-hand bat,19,17,0,84,NA,NA,lfm,1,ZIM,seam,yes,20.21005917159763,27.559171597633135

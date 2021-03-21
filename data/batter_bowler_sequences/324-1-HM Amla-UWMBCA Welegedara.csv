@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,44,44,RSA,1,38,38,HM Amla,UWMBCA Welegedara,3,8,11,46.97,8448,50.6,Right-hand bat,14,17,0,3114.3,39.21,66.3,lfm,0,RSA,seam,no,36.34375,12.114583333333334
+1,45,45,RSA,1,38,38,HM Amla,UWMBCA Welegedara,3,8,12,46.97,8448,50.6,Right-hand bat,15,17,0,3114.3,39.21,66.3,lfm,0,RSA,seam,no,36.34375,12.114583333333334
+1,46,46,RSA,1,38,38,HM Amla,UWMBCA Welegedara,3,8,13,46.97,8448,50.6,Right-hand bat,16,17,0,3114.3,39.21,66.3,lfm,0,RSA,seam,no,36.34375,12.114583333333334
+1,47,47,RSA,1,38,38,HM Amla,UWMBCA Welegedara,3,8,14,46.97,8448,50.6,Right-hand bat,17,17,0,3114.3,39.21,66.3,lfm,0,RSA,seam,no,36.34375,12.114583333333334
+1,48,48,RSA,1,38,38,HM Amla,UWMBCA Welegedara,3,8,15,46.97,8448,50.6,Right-hand bat,18,17,0,3114.3,39.21,66.3,lfm,1,RSA,seam,no,36.34375,12.114583333333334
+1,57,57,RSA,1,46,46,HM Amla,UWMBCA Welegedara,3,15,22,46.97,8448,50.6,Right-hand bat,21,19,0,3114.3,39.21,66.3,lfm,1nb,RSA,seam,no,36.34375,12.114583333333334
+1,58,58,RSA,1,47,47,HM Amla,UWMBCA Welegedara,3,15,23,46.97,8448,50.6,Right-hand bat,22,20,0,3114.3,39.21,66.3,lfm,0,RSA,seam,no,36.34375,12.114583333333334
+1,59,59,RSA,1,47,47,HM Amla,UWMBCA Welegedara,3,15,24,46.97,8448,50.6,Right-hand bat,23,20,0,3114.3,39.21,66.3,lfm,0,RSA,seam,no,36.34375,12.114583333333334
+1,60,60,RSA,1,47,47,HM Amla,UWMBCA Welegedara,3,15,25,46.97,8448,50.6,Right-hand bat,24,20,0,3114.3,39.21,66.3,lfm,0,RSA,seam,no,36.34375,12.114583333333334
+1,61,61,RSA,1,47,47,HM Amla,UWMBCA Welegedara,3,15,26,46.97,8448,50.6,Right-hand bat,25,20,0,3114.3,39.21,66.3,lfm,0,RSA,seam,no,36.34375,12.114583333333334

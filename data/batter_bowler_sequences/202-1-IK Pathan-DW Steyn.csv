@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,83,83,IND,5,53,53,IK Pathan,DW Steyn,7,0,0,31.57,2076,53.22,Left-hand bat,28,10,2,4164.5,21.41,35.6,rf,0,IND,seam,yes,25.868312757201647,7.390946502057613
+1,84,84,IND,5,53,53,IK Pathan,DW Steyn,7,0,1,31.57,2076,53.22,Left-hand bat,29,10,2,4164.5,21.41,35.6,rf,0,IND,seam,yes,25.868312757201647,7.390946502057613
+1,85,85,IND,5,53,53,IK Pathan,DW Steyn,7,0,2,31.57,2076,53.22,Left-hand bat,30,10,2,4164.5,21.41,35.6,rf,2,IND,seam,yes,25.868312757201647,7.390946502057613
+1,86,86,IND,5,55,55,IK Pathan,DW Steyn,7,2,3,31.57,2076,53.22,Left-hand bat,31,12,2,4164.5,21.41,35.6,rf,0,IND,seam,yes,25.868312757201647,7.390946502057613
+1,87,87,IND,5,55,55,IK Pathan,DW Steyn,7,2,4,31.57,2076,53.22,Left-hand bat,32,12,2,4164.5,21.41,35.6,rf,0,IND,seam,yes,25.868312757201647,7.390946502057613
+1,106,106,IND,8,61,61,IK Pathan,DW Steyn,7,7,11,31.57,2076,53.22,Left-hand bat,39,12,3,4164.5,21.41,35.6,rf,4,IND,seam,yes,25.868312757201647,7.390946502057613
+1,107,107,IND,8,65,65,IK Pathan,DW Steyn,7,11,12,31.57,2076,53.22,Left-hand bat,40,16,3,4164.5,21.41,35.6,rf,4,IND,seam,yes,25.868312757201647,7.390946502057613
+1,108,108,IND,8,69,69,IK Pathan,DW Steyn,7,15,13,31.57,2076,53.22,Left-hand bat,41,20,3,4164.5,21.41,35.6,rf,3,IND,seam,yes,25.868312757201647,7.390946502057613

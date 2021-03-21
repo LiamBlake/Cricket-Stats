@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,747,747,IND,5,414,414,MS Dhoni,SR Patel,7,0,0,38.11,6190,59.72,Right-hand bat,128,66,1,576,60.5,144,lo,0,IND,spin,yes,11.395957193816885,29.914387633769323
+1,748,748,IND,5,414,414,MS Dhoni,SR Patel,7,0,1,38.11,6190,59.72,Right-hand bat,129,66,1,576,60.5,144,lo,0,IND,spin,yes,11.395957193816885,29.914387633769323
+1,749,749,IND,5,414,414,MS Dhoni,SR Patel,7,0,2,38.11,6190,59.72,Right-hand bat,130,66,1,576,60.5,144,lo,0,IND,spin,yes,11.395957193816885,29.914387633769323
+1,750,750,IND,5,414,414,MS Dhoni,SR Patel,7,0,3,38.11,6190,59.72,Right-hand bat,131,66,1,576,60.5,144,lo,0,IND,spin,yes,11.395957193816885,29.914387633769323
+1,774,774,IND,5,430,430,MS Dhoni,SR Patel,7,2,13,38.11,6190,59.72,Right-hand bat,143,77,1,576,60.5,144,lo,0,IND,spin,yes,11.395957193816885,29.914387633769323
+1,782,782,IND,5,432,432,MS Dhoni,SR Patel,7,2,18,38.11,6190,59.72,Right-hand bat,145,78,1,576,60.5,144,lo,2,IND,spin,yes,11.395957193816885,29.914387633769323
+1,783,783,IND,5,434,434,MS Dhoni,SR Patel,7,4,19,38.11,6190,59.72,Right-hand bat,146,80,1,576,60.5,144,lo,0,IND,spin,yes,11.395957193816885,29.914387633769323
+1,784,784,IND,5,434,434,MS Dhoni,SR Patel,7,4,20,38.11,6190,59.72,Right-hand bat,147,80,1,576,60.5,144,lo,0,IND,spin,yes,11.395957193816885,29.914387633769323
+1,785,785,IND,5,434,434,MS Dhoni,SR Patel,7,4,21,38.11,6190,59.72,Right-hand bat,148,80,1,576,60.5,144,lo,0,IND,spin,yes,11.395957193816885,29.914387633769323
+1,786,786,IND,5,434,434,MS Dhoni,SR Patel,7,4,22,38.11,6190,59.72,Right-hand bat,149,80,1,576,60.5,144,lo,0,IND,spin,yes,11.395957193816885,29.914387633769323
+1,795,795,IND,5,440,440,MS Dhoni,SR Patel,7,4,27,38.11,6190,59.72,Right-hand bat,152,81,1,576,60.5,144,lo,0,IND,spin,yes,11.395957193816885,29.914387633769323
+1,796,796,IND,5,440,440,MS Dhoni,SR Patel,7,4,28,38.11,6190,59.72,Right-hand bat,153,81,1,576,60.5,144,lo,1,IND,spin,yes,11.395957193816885,29.914387633769323

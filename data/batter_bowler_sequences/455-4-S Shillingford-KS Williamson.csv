@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2189,283,WIN,9,215,-187,S Shillingford,KS Williamson,10,52,26,11.3,485,46.59,Right-hand bat,0,0,0,1614.5,39.39,70.3,rob,0,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2190,284,WIN,9,215,-187,S Shillingford,KS Williamson,10,52,27,11.3,485,46.59,Right-hand bat,1,0,0,1614.5,39.39,70.3,rob,0,WIN,spin,no,12.119183673469387,20.50938775510204
+4,2191,285,WIN,9,215,-187,S Shillingford,KS Williamson,10,52,28,11.3,485,46.59,Right-hand bat,2,0,0,1614.5,39.39,70.3,rob,1,WIN,spin,no,12.119183673469387,20.50938775510204

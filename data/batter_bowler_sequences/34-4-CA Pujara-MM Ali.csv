@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1983,43,IND,1,41,-61,CA Pujara,MM Ali,3,14,19,49.89,6516,49,Right-hand bat,1,1,0,6102,39.72,64.2,rob,0,IND,spin,no,14.21875,18.28125
+4,1984,44,IND,1,41,-61,CA Pujara,MM Ali,3,14,20,49.89,6516,49,Right-hand bat,2,1,0,6102,39.72,64.2,rob,0,IND,spin,no,14.21875,18.28125
+4,1985,45,IND,1,41,-61,CA Pujara,MM Ali,3,14,21,49.89,6516,49,Right-hand bat,3,1,0,6102,39.72,64.2,rob,0,IND,spin,no,14.21875,18.28125
+4,1986,46,IND,1,41,-61,CA Pujara,MM Ali,3,14,22,49.89,6516,49,Right-hand bat,4,1,0,6102,39.72,64.2,rob,0,IND,spin,no,14.21875,18.28125
+4,1987,47,IND,1,41,-61,CA Pujara,MM Ali,3,14,23,49.89,6516,49,Right-hand bat,5,1,0,6102,39.72,64.2,rob,0,IND,spin,no,14.21875,18.28125
+4,1998,58,IND,1,47,-55,CA Pujara,MM Ali,3,14,25,49.89,6516,49,Right-hand bat,10,6,0,6102,39.72,64.2,rob,1,IND,spin,no,14.21875,18.28125
+4,2011,71,IND,1,52,-50,CA Pujara,MM Ali,3,16,32,49.89,6516,49,Right-hand bat,16,8,0,6102,39.72,64.2,rob,1,IND,spin,no,14.21875,18.28125

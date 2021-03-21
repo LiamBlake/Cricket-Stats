@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,2065,1122,PAK,4,530,-114,Younis Khan,DPMD Jayawardene,3,290,491,51.8,9526,53.84,Right-hand bat,0,0,0,510.1,54.6,102.2,rm,1,PAK,seam,no,38.34567901234568,47.932098765432094
+2,2069,1126,PAK,5,532,-112,Younis Khan,DPMD Jayawardene,3,291,492,51.8,9526,53.84,Right-hand bat,4,2,1,510.1,54.6,102.2,rm,0,PAK,seam,no,38.34567901234568,47.932098765432094
+2,2070,1127,PAK,5,532,-112,Younis Khan,DPMD Jayawardene,3,291,493,51.8,9526,53.84,Right-hand bat,5,2,1,510.1,54.6,102.2,rm,0,PAK,seam,no,38.34567901234568,47.932098765432094
+2,2077,1134,PAK,5,538,-106,Younis Khan,DPMD Jayawardene,3,296,498,51.8,9526,53.84,Right-hand bat,6,2,1,510.1,54.6,102.2,rm,0,PAK,seam,no,38.34567901234568,47.932098765432094
+2,2078,1135,PAK,5,538,-106,Younis Khan,DPMD Jayawardene,3,296,499,51.8,9526,53.84,Right-hand bat,7,2,1,510.1,54.6,102.2,rm,1,PAK,seam,no,38.34567901234568,47.932098765432094
+2,2081,1138,PAK,5,540,-104,Younis Khan,DPMD Jayawardene,3,297,500,51.8,9526,53.84,Right-hand bat,10,4,1,510.1,54.6,102.2,rm,1,PAK,seam,no,38.34567901234568,47.932098765432094
+2,2164,1221,PAK,5,570,-74,Younis Khan,DPMD Jayawardene,3,306,539,51.8,9526,53.84,Right-hand bat,15,6,1,510.1,54.6,102.2,rm,0,PAK,seam,no,38.34567901234568,47.932098765432094
+2,2165,1222,PAK,5,570,-74,Younis Khan,DPMD Jayawardene,3,306,540,51.8,9526,53.84,Right-hand bat,16,6,1,510.1,54.6,102.2,rm,0,PAK,seam,no,38.34567901234568,47.932098765432094
+2,2166,1223,PAK,5,570,-74,Younis Khan,DPMD Jayawardene,3,306,541,51.8,9526,53.84,Right-hand bat,17,6,1,510.1,54.6,102.2,rm,0,PAK,seam,no,38.34567901234568,47.932098765432094

@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1624,36,PAK,1,7,136,Shan Masood,RL Chase,2,4,20,23.1,1055,43.79,Left-hand bat,0,0,0,1650.5,52.23,97.3,rob,0,WIN,spin,no,13.836565096952908,12.452908587257618
+3,1625,37,PAK,1,7,136,Shan Masood,RL Chase,2,4,21,23.1,1055,43.79,Left-hand bat,1,0,0,1650.5,52.23,97.3,rob,0,WIN,spin,no,13.836565096952908,12.452908587257618
+3,1626,38,PAK,1,7,136,Shan Masood,RL Chase,2,4,22,23.1,1055,43.79,Left-hand bat,2,0,0,1650.5,52.23,97.3,rob,1,WIN,spin,no,13.836565096952908,12.452908587257618
+3,1637,49,PAK,2,13,142,Shan Masood,RL Chase,2,9,29,23.1,1055,43.79,Left-hand bat,7,2,1,1650.5,52.23,97.3,rob,1,WIN,spin,no,13.836565096952908,12.452908587257618
+3,1639,51,PAK,2,15,144,Shan Masood,RL Chase,2,10,30,23.1,1055,43.79,Left-hand bat,9,4,1,1650.5,52.23,97.3,rob,0,WIN,spin,no,13.836565096952908,12.452908587257618
+3,1640,52,PAK,2,15,144,Shan Masood,RL Chase,2,10,31,23.1,1055,43.79,Left-hand bat,10,4,1,1650.5,52.23,97.3,rob,3,WIN,spin,no,13.836565096952908,12.452908587257618
+3,1649,61,PAK,2,25,154,Shan Masood,RL Chase,2,19,38,23.1,1055,43.79,Left-hand bat,13,8,1,1650.5,52.23,97.3,rob,0,WIN,spin,no,13.836565096952908,12.452908587257618
+3,1650,62,PAK,2,25,154,Shan Masood,RL Chase,2,19,39,23.1,1055,43.79,Left-hand bat,14,8,1,1650.5,52.23,97.3,rob,0,WIN,spin,no,13.836565096952908,12.452908587257618
+3,1651,63,PAK,2,25,154,Shan Masood,RL Chase,2,19,40,23.1,1055,43.79,Left-hand bat,15,8,1,1650.5,52.23,97.3,rob,0,WIN,spin,no,13.836565096952908,12.452908587257618
+3,1652,64,PAK,2,25,154,Shan Masood,RL Chase,2,19,41,23.1,1055,43.79,Left-hand bat,16,8,1,1650.5,52.23,97.3,rob,0,WIN,spin,no,13.836565096952908,12.452908587257618
+3,1653,65,PAK,2,25,154,Shan Masood,RL Chase,2,19,42,23.1,1055,43.79,Left-hand bat,17,8,1,1650.5,52.23,97.3,rob,0,WIN,spin,no,13.836565096952908,12.452908587257618
+3,1662,74,PAK,2,27,156,Shan Masood,RL Chase,2,19,46,23.1,1055,43.79,Left-hand bat,20,9,1,1650.5,52.23,97.3,rob,1,WIN,spin,no,13.836565096952908,12.452908587257618

@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,913,140,IND,3,75,-241,SR Tendulkar,MS Panesar,4,24,30,54.68,NA,NA,Right-hand bat,0,0,0,7974.1,32.58,68.1,lo,1,IND,spin,no,18.43893480257117,19.591368227731863
+2,917,144,IND,3,77,-239,SR Tendulkar,MS Panesar,4,25,31,54.68,NA,NA,Right-hand bat,4,2,0,7974.1,32.58,68.1,lo,0,IND,spin,no,18.43893480257117,19.591368227731863
+2,918,145,IND,3,77,-239,SR Tendulkar,MS Panesar,4,25,32,54.68,NA,NA,Right-hand bat,5,2,0,7974.1,32.58,68.1,lo,0,IND,spin,no,18.43893480257117,19.591368227731863
+2,925,152,IND,3,81,-235,SR Tendulkar,MS Panesar,4,25,33,54.68,NA,NA,Right-hand bat,6,2,0,7974.1,32.58,68.1,lo,1,IND,spin,no,18.43893480257117,19.591368227731863
+2,949,176,IND,3,89,-227,SR Tendulkar,MS Panesar,4,28,40,54.68,NA,NA,Right-hand bat,18,3,0,7974.1,32.58,68.1,lo,0,IND,spin,no,18.43893480257117,19.591368227731863
+2,950,177,IND,3,89,-227,SR Tendulkar,MS Panesar,4,28,41,54.68,NA,NA,Right-hand bat,19,3,0,7974.1,32.58,68.1,lo,0,IND,spin,no,18.43893480257117,19.591368227731863
+2,951,178,IND,3,89,-227,SR Tendulkar,MS Panesar,4,28,42,54.68,NA,NA,Right-hand bat,20,3,0,7974.1,32.58,68.1,lo,4,IND,spin,no,18.43893480257117,19.591368227731863
+2,952,179,IND,3,93,-223,SR Tendulkar,MS Panesar,4,32,43,54.68,NA,NA,Right-hand bat,21,7,0,7974.1,32.58,68.1,lo,0,IND,spin,no,18.43893480257117,19.591368227731863
+2,953,180,IND,3,93,-223,SR Tendulkar,MS Panesar,4,32,44,54.68,NA,NA,Right-hand bat,22,7,0,7974.1,32.58,68.1,lo,4,IND,spin,no,18.43893480257117,19.591368227731863
+2,954,181,IND,3,97,-219,SR Tendulkar,MS Panesar,4,36,45,54.68,NA,NA,Right-hand bat,23,11,0,7974.1,32.58,68.1,lo,0,IND,spin,no,18.43893480257117,19.591368227731863
+2,961,188,IND,3,97,-219,SR Tendulkar,MS Panesar,4,36,46,54.68,NA,NA,Right-hand bat,24,11,0,7974.1,32.58,68.1,lo,1,IND,spin,no,18.43893480257117,19.591368227731863

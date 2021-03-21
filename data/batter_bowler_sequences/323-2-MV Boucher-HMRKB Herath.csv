@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,896,240,RSA,5,111,-227,MV Boucher,HMRKB Herath,7,0,9,30.2,10779,50.16,Right-hand bat,75,20,0,8484.2,33.71,71.3,lo,0,RSA,spin,no,16.6725,8.9775
+2,897,241,RSA,5,111,-227,MV Boucher,HMRKB Herath,7,0,10,30.2,10779,50.16,Right-hand bat,76,20,0,8484.2,33.71,71.3,lo,1,RSA,spin,no,16.6725,8.9775
+2,906,250,RSA,5,118,-220,MV Boucher,HMRKB Herath,7,3,13,30.2,10779,50.16,Right-hand bat,78,21,0,8484.2,33.71,71.3,lo,W,RSA,spin,no,16.6725,8.9775

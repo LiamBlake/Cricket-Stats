@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1176,137,SRL,5,66,-165,JK Silva,VD Philander,7,0,0,14,230,36.52,Right-hand bat,49,19,3,522.1,12.37,21.7,rfm,0,RSA,seam,no,22.23,2.4699999999999998
+3,1183,144,SRL,6,70,-161,JK Silva,VD Philander,7,0,1,14,230,36.52,Right-hand bat,50,19,3,522.1,12.37,21.7,rfm,0,RSA,seam,no,22.23,2.4699999999999998
+3,1184,145,SRL,6,70,-161,JK Silva,VD Philander,7,0,2,14,230,36.52,Right-hand bat,51,19,3,522.1,12.37,21.7,rfm,0,RSA,seam,no,22.23,2.4699999999999998
+3,1185,146,SRL,6,70,-161,JK Silva,VD Philander,7,0,3,14,230,36.52,Right-hand bat,52,19,3,522.1,12.37,21.7,rfm,0,RSA,seam,no,22.23,2.4699999999999998
+3,1186,147,SRL,6,70,-161,JK Silva,VD Philander,7,0,4,14,230,36.52,Right-hand bat,53,19,3,522.1,12.37,21.7,rfm,0,RSA,seam,no,22.23,2.4699999999999998
+3,1187,148,SRL,6,70,-161,JK Silva,VD Philander,7,0,5,14,230,36.52,Right-hand bat,54,19,3,522.1,12.37,21.7,rfm,0,RSA,seam,no,22.23,2.4699999999999998
+3,1188,149,SRL,6,70,-161,JK Silva,VD Philander,7,0,6,14,230,36.52,Right-hand bat,55,19,3,522.1,12.37,21.7,rfm,1nb,RSA,seam,no,22.23,2.4699999999999998
+3,1189,150,SRL,6,73,-158,JK Silva,VD Philander,7,2,7,14,230,36.52,Right-hand bat,56,20,3,522.1,12.37,21.7,rfm,0,RSA,seam,no,22.23,2.4699999999999998

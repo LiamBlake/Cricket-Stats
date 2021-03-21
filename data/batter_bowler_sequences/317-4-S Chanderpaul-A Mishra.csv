@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1537,174,WIN,3,116,-209,S Chanderpaul,A Mishra,5,16,35,48.82,21620,42.45,Left-hand bat,12,15,0,3006.5,38.55,75.2,rls,2,WIN,spin,no,14.578125,8.746875
+4,1538,175,WIN,3,118,-207,S Chanderpaul,A Mishra,5,18,36,48.82,21620,42.45,Left-hand bat,13,17,0,3006.5,38.55,75.2,rls,0,WIN,spin,no,14.578125,8.746875
+4,1539,176,WIN,3,118,-207,S Chanderpaul,A Mishra,5,18,37,48.82,21620,42.45,Left-hand bat,14,17,0,3006.5,38.55,75.2,rls,4,WIN,spin,no,14.578125,8.746875
+4,1540,177,WIN,3,122,-203,S Chanderpaul,A Mishra,5,22,38,48.82,21620,42.45,Left-hand bat,15,21,0,3006.5,38.55,75.2,rls,0,WIN,spin,no,14.578125,8.746875
+4,1541,178,WIN,3,122,-203,S Chanderpaul,A Mishra,5,22,39,48.82,21620,42.45,Left-hand bat,16,21,0,3006.5,38.55,75.2,rls,0,WIN,spin,no,14.578125,8.746875
+4,1542,179,WIN,3,122,-203,S Chanderpaul,A Mishra,5,22,40,48.82,21620,42.45,Left-hand bat,17,21,0,3006.5,38.55,75.2,rls,0,WIN,spin,no,14.578125,8.746875
+4,1553,190,WIN,3,128,-197,S Chanderpaul,A Mishra,5,22,46,48.82,21620,42.45,Left-hand bat,22,22,0,3006.5,38.55,75.2,rls,0,WIN,spin,no,14.578125,8.746875
+4,1554,191,WIN,3,128,-197,S Chanderpaul,A Mishra,5,22,47,48.82,21620,42.45,Left-hand bat,23,22,0,3006.5,38.55,75.2,rls,1,WIN,spin,no,14.578125,8.746875

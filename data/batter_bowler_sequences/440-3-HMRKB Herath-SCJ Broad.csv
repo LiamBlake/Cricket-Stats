@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1721,589,SRL,7,305,197,HMRKB Herath,SCJ Broad,9,1,14,13.41,1563,49.77,Left-hand bat,143,61,0,14460,30.43,59,rfm,0,ENG,seam,no,28.220000000000006,4.98
+3,1728,596,SRL,7,305,197,HMRKB Herath,SCJ Broad,9,1,15,13.41,1563,49.77,Left-hand bat,144,61,0,14460,30.43,59,rfm,0,ENG,seam,no,28.220000000000006,4.98
+3,1729,597,SRL,7,305,197,HMRKB Herath,SCJ Broad,9,1,16,13.41,1563,49.77,Left-hand bat,145,61,0,14460,30.43,59,rfm,0,ENG,seam,no,28.220000000000006,4.98
+3,1730,598,SRL,7,305,197,HMRKB Herath,SCJ Broad,9,1,17,13.41,1563,49.77,Left-hand bat,146,61,0,14460,30.43,59,rfm,4,ENG,seam,no,28.220000000000006,4.98
+3,1731,599,SRL,7,309,201,HMRKB Herath,SCJ Broad,9,5,18,13.41,1563,49.77,Left-hand bat,147,65,0,14460,30.43,59,rfm,2,ENG,seam,no,28.220000000000006,4.98
+3,1732,600,SRL,7,311,203,HMRKB Herath,SCJ Broad,9,7,19,13.41,1563,49.77,Left-hand bat,148,67,0,14460,30.43,59,rfm,0,ENG,seam,no,28.220000000000006,4.98
+3,1733,601,SRL,7,311,203,HMRKB Herath,SCJ Broad,9,7,20,13.41,1563,49.77,Left-hand bat,149,67,0,14460,30.43,59,rfm,0,ENG,seam,no,28.220000000000006,4.98
+3,1837,705,SRL,7,374,266,HMRKB Herath,SCJ Broad,9,26,59,13.41,1563,49.77,Left-hand bat,162,76,0,14460,30.43,59,rfm,4,ENG,seam,no,28.220000000000006,4.98
+3,1838,706,SRL,7,378,270,HMRKB Herath,SCJ Broad,9,30,60,13.41,1563,49.77,Left-hand bat,163,80,0,14460,30.43,59,rfm,0,ENG,seam,no,28.220000000000006,4.98
+3,1839,707,SRL,7,378,270,HMRKB Herath,SCJ Broad,9,30,61,13.41,1563,49.77,Left-hand bat,164,80,0,14460,30.43,59,rfm,0,ENG,seam,no,28.220000000000006,4.98
+3,1840,708,SRL,7,378,270,HMRKB Herath,SCJ Broad,9,30,62,13.41,1563,49.77,Left-hand bat,165,80,0,14460,30.43,59,rfm,4,ENG,seam,no,28.220000000000006,4.98
+3,1841,709,SRL,7,382,274,HMRKB Herath,SCJ Broad,9,34,63,13.41,1563,49.77,Left-hand bat,166,84,0,14460,30.43,59,rfm,0,ENG,seam,no,28.220000000000006,4.98
+3,1842,710,SRL,7,382,274,HMRKB Herath,SCJ Broad,9,34,64,13.41,1563,49.77,Left-hand bat,167,84,0,14460,30.43,59,rfm,0,ENG,seam,no,28.220000000000006,4.98

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,331,331,RSA,2,211,211,JH Kallis,S Sreesanth,4,5,14,57.28,21637,43.94,Right-hand bat,73,52,0,2610.5,30.74,55.6,rfm,0,IND,seam,yes,19.174400000000002,40.745599999999996
+1,332,332,RSA,2,211,211,JH Kallis,S Sreesanth,4,5,15,57.28,21637,43.94,Right-hand bat,74,52,0,2610.5,30.74,55.6,rfm,0,IND,seam,yes,19.174400000000002,40.745599999999996
+1,333,333,RSA,2,211,211,JH Kallis,S Sreesanth,4,5,16,57.28,21637,43.94,Right-hand bat,75,52,0,2610.5,30.74,55.6,rfm,0,IND,seam,yes,19.174400000000002,40.745599999999996
+1,334,334,RSA,2,211,211,JH Kallis,S Sreesanth,4,5,17,57.28,21637,43.94,Right-hand bat,76,52,0,2610.5,30.74,55.6,rfm,0,IND,seam,yes,19.174400000000002,40.745599999999996
+1,335,335,RSA,2,211,211,JH Kallis,S Sreesanth,4,5,18,57.28,21637,43.94,Right-hand bat,77,52,0,2610.5,30.74,55.6,rfm,0,IND,seam,yes,19.174400000000002,40.745599999999996
+1,336,336,RSA,2,211,211,JH Kallis,S Sreesanth,4,5,19,57.28,21637,43.94,Right-hand bat,78,52,0,2610.5,30.74,55.6,rfm,0,IND,seam,yes,19.174400000000002,40.745599999999996
+1,346,346,RSA,2,217,217,JH Kallis,S Sreesanth,4,5,23,57.28,21637,43.94,Right-hand bat,82,57,0,2610.5,30.74,55.6,rfm,0,IND,seam,yes,19.174400000000002,40.745599999999996
+1,347,347,RSA,2,217,217,JH Kallis,S Sreesanth,4,5,24,57.28,21637,43.94,Right-hand bat,83,57,0,2610.5,30.74,55.6,rfm,0,IND,seam,yes,19.174400000000002,40.745599999999996
+1,348,348,RSA,2,217,217,JH Kallis,S Sreesanth,4,5,25,57.28,21637,43.94,Right-hand bat,84,57,0,2610.5,30.74,55.6,rfm,0,IND,seam,yes,19.174400000000002,40.745599999999996
+1,360,360,RSA,2,221,221,JH Kallis,S Sreesanth,4,6,29,57.28,21637,43.94,Right-hand bat,90,58,0,2610.5,30.74,55.6,rfm,2,IND,seam,yes,19.174400000000002,40.745599999999996

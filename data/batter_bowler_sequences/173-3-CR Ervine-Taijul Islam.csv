@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1642,64,ZIM,3,15,-280,CR Ervine,Taijul Islam,5,0,0,35.52,2455,49.2,Left-hand bat,28,7,1,7044.4,33.17,61.8,lo,0,BAN,spin,yes,10.5,28.5
+3,1643,65,ZIM,3,15,-280,CR Ervine,Taijul Islam,5,0,1,35.52,2455,49.2,Left-hand bat,29,7,1,7044.4,33.17,61.8,lo,0,BAN,spin,yes,10.5,28.5
+3,1650,72,ZIM,3,15,-280,CR Ervine,Taijul Islam,5,0,2,35.52,2455,49.2,Left-hand bat,30,7,1,7044.4,33.17,61.8,lo,1,BAN,spin,yes,10.5,28.5
+3,1663,85,ZIM,3,25,-270,CR Ervine,Taijul Islam,5,5,9,35.52,2455,49.2,Left-hand bat,37,13,1,7044.4,33.17,61.8,lo,1,BAN,spin,yes,10.5,28.5
+3,1718,140,ZIM,4,77,-218,CR Ervine,Taijul Islam,5,31,33,35.52,2455,49.2,Left-hand bat,44,25,1,7044.4,33.17,61.8,lo,1,BAN,spin,yes,10.5,28.5
+3,1733,155,ZIM,4,87,-208,CR Ervine,Taijul Islam,5,40,40,35.52,2455,49.2,Left-hand bat,53,27,1,7044.4,33.17,61.8,lo,0,BAN,spin,yes,10.5,28.5
+3,1741,163,ZIM,4,89,-206,CR Ervine,Taijul Islam,5,40,42,35.52,2455,49.2,Left-hand bat,55,28,1,7044.4,33.17,61.8,lo,1,BAN,spin,yes,10.5,28.5
+3,1745,167,ZIM,4,97,-198,CR Ervine,Taijul Islam,5,41,43,35.52,2455,49.2,Left-hand bat,59,36,1,7044.4,33.17,61.8,lo,1,BAN,spin,yes,10.5,28.5

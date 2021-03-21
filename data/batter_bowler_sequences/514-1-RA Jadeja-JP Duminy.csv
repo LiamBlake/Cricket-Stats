@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,326,326,IND,6,143,143,RA Jadeja,JP Duminy,8,16,22,21.38,714,62.88,Left-hand bat,0,0,0,2262,37.22,62.8,rob,0,IND,spin,yes,2.8525,13.4475
+1,327,327,IND,6,143,143,RA Jadeja,JP Duminy,8,16,23,21.38,714,62.88,Left-hand bat,1,0,0,2262,37.22,62.8,rob,1,IND,spin,yes,2.8525,13.4475
+1,330,330,IND,6,145,145,RA Jadeja,JP Duminy,8,17,24,21.38,714,62.88,Left-hand bat,4,2,0,2262,37.22,62.8,rob,4,IND,spin,yes,2.8525,13.4475
+1,331,331,IND,6,149,149,RA Jadeja,JP Duminy,8,21,25,21.38,714,62.88,Left-hand bat,5,6,0,2262,37.22,62.8,rob,0,IND,spin,yes,2.8525,13.4475

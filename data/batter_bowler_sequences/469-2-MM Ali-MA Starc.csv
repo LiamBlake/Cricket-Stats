@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,565,451,ENG,7,320,260,MM Ali,MA Starc,9,0,0,31.09,1408,48.57,Left-hand bat,129,82,6,4206.2,31.06,53.9,lf,4b,ENG,seam,yes,24.275862068965516,0
+2,566,452,ENG,7,324,264,MM Ali,MA Starc,9,0,1,31.09,1408,48.57,Left-hand bat,130,82,6,4206.2,31.06,53.9,lf,0,ENG,seam,yes,24.275862068965516,0
+2,567,453,ENG,7,324,264,MM Ali,MA Starc,9,0,2,31.09,1408,48.57,Left-hand bat,131,82,6,4206.2,31.06,53.9,lf,0,ENG,seam,yes,24.275862068965516,0
+2,568,454,ENG,7,324,264,MM Ali,MA Starc,9,0,3,31.09,1408,48.57,Left-hand bat,132,82,6,4206.2,31.06,53.9,lf,4,ENG,seam,yes,24.275862068965516,0
+2,588,474,ENG,8,336,276,MM Ali,MA Starc,9,4,8,31.09,1408,48.57,Left-hand bat,140,88,6,4206.2,31.06,53.9,lf,0,ENG,seam,yes,24.275862068965516,0
+2,589,475,ENG,8,336,276,MM Ali,MA Starc,9,4,9,31.09,1408,48.57,Left-hand bat,141,88,6,4206.2,31.06,53.9,lf,0,ENG,seam,yes,24.275862068965516,0
+2,590,476,ENG,8,336,276,MM Ali,MA Starc,9,4,10,31.09,1408,48.57,Left-hand bat,142,88,6,4206.2,31.06,53.9,lf,4,ENG,seam,yes,24.275862068965516,0
+2,591,477,ENG,8,340,280,MM Ali,MA Starc,9,8,11,31.09,1408,48.57,Left-hand bat,143,92,6,4206.2,31.06,53.9,lf,4,ENG,seam,yes,24.275862068965516,0
+2,592,478,ENG,8,344,284,MM Ali,MA Starc,9,12,12,31.09,1408,48.57,Left-hand bat,144,96,6,4206.2,31.06,53.9,lf,0,ENG,seam,yes,24.275862068965516,0
+2,612,498,ENG,8,379,319,MM Ali,MA Starc,9,27,17,31.09,1408,48.57,Left-hand bat,151,102,6,4206.2,31.06,53.9,lf,2,ENG,seam,yes,24.275862068965516,0
+2,613,499,ENG,8,381,321,MM Ali,MA Starc,9,29,18,31.09,1408,48.57,Left-hand bat,152,104,6,4206.2,31.06,53.9,lf,0,ENG,seam,yes,24.275862068965516,0
+2,614,500,ENG,8,381,321,MM Ali,MA Starc,9,29,19,31.09,1408,48.57,Left-hand bat,153,104,6,4206.2,31.06,53.9,lf,0,ENG,seam,yes,24.275862068965516,0
+2,615,501,ENG,8,381,321,MM Ali,MA Starc,9,29,20,31.09,1408,48.57,Left-hand bat,154,104,6,4206.2,31.06,53.9,lf,4,ENG,seam,yes,24.275862068965516,0
+2,616,502,ENG,8,385,325,MM Ali,MA Starc,9,33,21,31.09,1408,48.57,Left-hand bat,155,108,6,4206.2,31.06,53.9,lf,1,ENG,seam,yes,24.275862068965516,0

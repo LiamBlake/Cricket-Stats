@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1008,36,ENG,1,15,-354,MD Stoneman,TA Boult,2,6,10,27.86,881,47.44,Left-hand bat,18,2,1,11718.4,27.8,56,lfm,4b,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1009,37,ENG,1,19,-350,MD Stoneman,TA Boult,2,6,11,27.86,881,47.44,Left-hand bat,19,2,1,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1010,38,ENG,1,19,-350,MD Stoneman,TA Boult,2,6,12,27.86,881,47.44,Left-hand bat,20,2,1,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1011,39,ENG,1,19,-350,MD Stoneman,TA Boult,2,6,13,27.86,881,47.44,Left-hand bat,21,2,1,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1012,40,ENG,1,19,-350,MD Stoneman,TA Boult,2,6,14,27.86,881,47.44,Left-hand bat,22,2,1,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1013,41,ENG,1,19,-350,MD Stoneman,TA Boult,2,6,15,27.86,881,47.44,Left-hand bat,23,2,1,11718.4,27.8,56,lfm,2,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1057,85,ENG,1,41,-328,MD Stoneman,TA Boult,2,20,38,27.86,881,47.44,Left-hand bat,37,5,1,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1058,86,ENG,1,41,-328,MD Stoneman,TA Boult,2,20,39,27.86,881,47.44,Left-hand bat,38,5,1,11718.4,27.8,56,lfm,3,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1068,96,ENG,1,49,-320,MD Stoneman,TA Boult,2,24,45,27.86,881,47.44,Left-hand bat,42,12,1,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1069,97,ENG,1,49,-320,MD Stoneman,TA Boult,2,24,46,27.86,881,47.44,Left-hand bat,43,12,1,11718.4,27.8,56,lfm,4,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1070,98,ENG,1,53,-316,MD Stoneman,TA Boult,2,28,47,27.86,881,47.44,Left-hand bat,44,16,1,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1071,99,ENG,1,53,-316,MD Stoneman,TA Boult,2,28,48,27.86,881,47.44,Left-hand bat,45,16,1,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1072,100,ENG,1,53,-316,MD Stoneman,TA Boult,2,28,49,27.86,881,47.44,Left-hand bat,46,16,1,11718.4,27.8,56,lfm,2,ENG,seam,no,24.642857142857142,4.107142857142857
+3,1073,101,ENG,1,55,-314,MD Stoneman,TA Boult,2,30,50,27.86,881,47.44,Left-hand bat,47,18,1,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857

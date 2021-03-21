@@ -1,0 +1,16 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,984,54,NZL,2,11,-514,DG Brownlie,RK Kleinveldt,4,2,7,34.18,1177,46.47,Right-hand bat,0,0,0,516.1,42.5,64.6,rfm,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,985,55,NZL,2,11,-514,DG Brownlie,RK Kleinveldt,4,2,8,34.18,1177,46.47,Right-hand bat,1,0,0,516.1,42.5,64.6,rfm,4,RSA,seam,no,25.141581632653065,5.465561224489796
+2,986,56,NZL,2,15,-510,DG Brownlie,RK Kleinveldt,4,6,9,34.18,1177,46.47,Right-hand bat,2,4,0,516.1,42.5,64.6,rfm,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,987,57,NZL,2,15,-510,DG Brownlie,RK Kleinveldt,4,6,10,34.18,1177,46.47,Right-hand bat,3,4,0,516.1,42.5,64.6,rfm,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,988,58,NZL,2,15,-510,DG Brownlie,RK Kleinveldt,4,6,11,34.18,1177,46.47,Right-hand bat,4,4,0,516.1,42.5,64.6,rfm,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,989,59,NZL,2,15,-510,DG Brownlie,RK Kleinveldt,4,6,12,34.18,1177,46.47,Right-hand bat,5,4,0,516.1,42.5,64.6,rfm,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,996,66,NZL,2,19,-506,DG Brownlie,RK Kleinveldt,4,6,13,34.18,1177,46.47,Right-hand bat,6,4,0,516.1,42.5,64.6,rfm,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,997,67,NZL,2,19,-506,DG Brownlie,RK Kleinveldt,4,6,14,34.18,1177,46.47,Right-hand bat,7,4,0,516.1,42.5,64.6,rfm,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,998,68,NZL,2,19,-506,DG Brownlie,RK Kleinveldt,4,6,15,34.18,1177,46.47,Right-hand bat,8,4,0,516.1,42.5,64.6,rfm,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,999,69,NZL,2,19,-506,DG Brownlie,RK Kleinveldt,4,6,16,34.18,1177,46.47,Right-hand bat,9,4,0,516.1,42.5,64.6,rfm,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,1000,70,NZL,2,19,-506,DG Brownlie,RK Kleinveldt,4,6,17,34.18,1177,46.47,Right-hand bat,10,4,0,516.1,42.5,64.6,rfm,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,1001,71,NZL,2,19,-506,DG Brownlie,RK Kleinveldt,4,6,18,34.18,1177,46.47,Right-hand bat,11,4,0,516.1,42.5,64.6,rfm,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,1008,78,NZL,2,23,-502,DG Brownlie,RK Kleinveldt,4,6,19,34.18,1177,46.47,Right-hand bat,12,4,0,516.1,42.5,64.6,rfm,4,RSA,seam,no,25.141581632653065,5.465561224489796
+2,1009,79,NZL,2,27,-498,DG Brownlie,RK Kleinveldt,4,10,20,34.18,1177,46.47,Right-hand bat,13,8,0,516.1,42.5,64.6,rfm,0,RSA,seam,no,25.141581632653065,5.465561224489796
+2,1010,80,NZL,2,27,-498,DG Brownlie,RK Kleinveldt,4,10,21,34.18,1177,46.47,Right-hand bat,14,8,0,516.1,42.5,64.6,rfm,W,RSA,seam,no,25.141581632653065,5.465561224489796

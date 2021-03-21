@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1620,752,IRE,8,325,145,WB Rankin,Mohammad Amir,10,0,2,9,87,41.37,Left-hand bat,161,59,3,6654,31.95,66.5,lf,0,IRE,seam,yes,24.36851211072664,3.2491349480968856
+3,1621,753,IRE,8,325,145,WB Rankin,Mohammad Amir,10,0,3,9,87,41.37,Left-hand bat,162,59,3,6654,31.95,66.5,lf,0,IRE,seam,yes,24.36851211072664,3.2491349480968856
+3,1622,754,IRE,8,325,145,WB Rankin,Mohammad Amir,10,0,4,9,87,41.37,Left-hand bat,163,59,3,6654,31.95,66.5,lf,0,IRE,seam,yes,24.36851211072664,3.2491349480968856
+3,1629,761,IRE,8,325,145,WB Rankin,Mohammad Amir,10,0,5,9,87,41.37,Left-hand bat,164,59,3,6654,31.95,66.5,lf,0,IRE,seam,yes,24.36851211072664,3.2491349480968856
+3,1630,762,IRE,8,325,145,WB Rankin,Mohammad Amir,10,0,6,9,87,41.37,Left-hand bat,165,59,3,6654,31.95,66.5,lf,0,IRE,seam,yes,24.36851211072664,3.2491349480968856
+3,1631,763,IRE,8,325,145,WB Rankin,Mohammad Amir,10,0,7,9,87,41.37,Left-hand bat,166,59,3,6654,31.95,66.5,lf,0,IRE,seam,yes,24.36851211072664,3.2491349480968856
+3,1632,764,IRE,8,325,145,WB Rankin,Mohammad Amir,10,0,8,9,87,41.37,Left-hand bat,167,59,3,6654,31.95,66.5,lf,2,IRE,seam,yes,24.36851211072664,3.2491349480968856
+3,1633,765,IRE,8,327,147,WB Rankin,Mohammad Amir,10,2,9,9,87,41.37,Left-hand bat,168,61,3,6654,31.95,66.5,lf,0,IRE,seam,yes,24.36851211072664,3.2491349480968856
+3,1634,766,IRE,8,327,147,WB Rankin,Mohammad Amir,10,2,10,9,87,41.37,Left-hand bat,169,61,3,6654,31.95,66.5,lf,0,IRE,seam,yes,24.36851211072664,3.2491349480968856

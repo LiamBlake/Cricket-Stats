@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2149,593,WIN,9,305,317,KAJ Roach,DE Bollinger,11,0,0,4.83,99,29.29,Right-hand bat,103,47,2,516.5,35.42,74.4,lfm,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2150,594,WIN,9,305,317,KAJ Roach,DE Bollinger,11,0,1,4.83,99,29.29,Right-hand bat,104,47,2,516.5,35.42,74.4,lfm,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2159,603,WIN,9,317,329,KAJ Roach,DE Bollinger,11,8,7,4.83,99,29.29,Right-hand bat,107,49,2,516.5,35.42,74.4,lfm,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2160,604,WIN,9,317,329,KAJ Roach,DE Bollinger,11,8,8,4.83,99,29.29,Right-hand bat,108,49,2,516.5,35.42,74.4,lfm,0,AUS,seam,yes,31.27591836734694,9.266938775510205
+3,2161,605,WIN,9,317,329,KAJ Roach,DE Bollinger,11,8,9,4.83,99,29.29,Right-hand bat,109,49,2,516.5,35.42,74.4,lfm,W,AUS,seam,yes,31.27591836734694,9.266938775510205

@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1445,618,IND,4,314,-137,KK Nair,JR Hazlewood,6,17,27,73.8,490,75.3,Right-hand bat,138,56,0,6252.4,25.05,53.4,rfm,0,IND,seam,no,18.1152,32.2048
+2,1446,619,IND,4,314,-137,KK Nair,JR Hazlewood,6,17,28,73.8,490,75.3,Right-hand bat,139,56,0,6252.4,25.05,53.4,rfm,0,IND,seam,no,18.1152,32.2048
+2,1447,620,IND,4,314,-137,KK Nair,JR Hazlewood,6,17,29,73.8,490,75.3,Right-hand bat,140,56,0,6252.4,25.05,53.4,rfm,0,IND,seam,no,18.1152,32.2048
+2,1448,621,IND,4,314,-137,KK Nair,JR Hazlewood,6,17,30,73.8,490,75.3,Right-hand bat,141,56,0,6252.4,25.05,53.4,rfm,0,IND,seam,no,18.1152,32.2048
+2,1449,622,IND,4,314,-137,KK Nair,JR Hazlewood,6,17,31,73.8,490,75.3,Right-hand bat,142,56,0,6252.4,25.05,53.4,rfm,0,IND,seam,no,18.1152,32.2048
+2,1450,623,IND,4,314,-137,KK Nair,JR Hazlewood,6,17,32,73.8,490,75.3,Right-hand bat,143,56,0,6252.4,25.05,53.4,rfm,1,IND,seam,no,18.1152,32.2048
+2,1457,630,IND,4,316,-135,KK Nair,JR Hazlewood,6,19,39,73.8,490,75.3,Right-hand bat,144,57,0,6252.4,25.05,53.4,rfm,1,IND,seam,no,18.1152,32.2048
+2,1469,642,IND,4,320,-131,KK Nair,JR Hazlewood,6,23,43,73.8,490,75.3,Right-hand bat,150,58,0,6252.4,25.05,53.4,rfm,0,IND,seam,no,18.1152,32.2048
+2,1470,643,IND,4,320,-131,KK Nair,JR Hazlewood,6,23,44,73.8,490,75.3,Right-hand bat,151,58,0,6252.4,25.05,53.4,rfm,0,IND,seam,no,18.1152,32.2048
+2,1471,644,IND,4,320,-131,KK Nair,JR Hazlewood,6,23,45,73.8,490,75.3,Right-hand bat,152,58,0,6252.4,25.05,53.4,rfm,0,IND,seam,no,18.1152,32.2048
+2,1472,645,IND,4,320,-131,KK Nair,JR Hazlewood,6,23,46,73.8,490,75.3,Right-hand bat,153,58,0,6252.4,25.05,53.4,rfm,W,IND,seam,no,18.1152,32.2048

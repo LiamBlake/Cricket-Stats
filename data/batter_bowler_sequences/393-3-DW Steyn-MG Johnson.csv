@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1418,653,RSA,8,560,622,DW Steyn,MG Johnson,10,2,2,13.9,1979,42.14,Right-hand bat,140,105,4,10920.4,31.17,55.7,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,1419,654,RSA,8,560,622,DW Steyn,MG Johnson,10,2,3,13.9,1979,42.14,Right-hand bat,141,105,4,10920.4,31.17,55.7,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,1420,655,RSA,8,560,622,DW Steyn,MG Johnson,10,2,4,13.9,1979,42.14,Right-hand bat,142,105,4,10920.4,31.17,55.7,lf,1,AUS,seam,yes,24.780625,7.194375000000001
+3,1430,665,RSA,8,568,630,DW Steyn,MG Johnson,10,7,11,13.9,1979,42.14,Right-hand bat,146,109,4,10920.4,31.17,55.7,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,1431,666,RSA,8,568,630,DW Steyn,MG Johnson,10,7,12,13.9,1979,42.14,Right-hand bat,147,109,4,10920.4,31.17,55.7,lf,0,AUS,seam,yes,24.780625,7.194375000000001
+3,1432,667,RSA,8,568,630,DW Steyn,MG Johnson,10,7,13,13.9,1979,42.14,Right-hand bat,148,109,4,10920.4,31.17,55.7,lf,1,AUS,seam,yes,24.780625,7.194375000000001

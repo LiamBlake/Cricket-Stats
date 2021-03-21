@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,689,273,WIN,5,168,-83,D Ramdin,MG Johnson,7,0,0,21.65,2031,45.83,Right-hand bat,29,27,1,2130,32.88,62.6,lf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,690,274,WIN,5,168,-83,D Ramdin,MG Johnson,7,0,1,21.65,2031,45.83,Right-hand bat,30,27,1,2130,32.88,62.6,lf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,691,275,WIN,5,168,-83,D Ramdin,MG Johnson,7,0,2,21.65,2031,45.83,Right-hand bat,31,27,1,2130,32.88,62.6,lf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,698,282,WIN,5,186,-65,D Ramdin,MG Johnson,7,0,3,21.65,2031,45.83,Right-hand bat,32,27,1,2130,32.88,62.6,lf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,699,283,WIN,5,186,-65,D Ramdin,MG Johnson,7,0,4,21.65,2031,45.83,Right-hand bat,33,27,1,2130,32.88,62.6,lf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,700,284,WIN,5,186,-65,D Ramdin,MG Johnson,7,0,5,21.65,2031,45.83,Right-hand bat,34,27,1,2130,32.88,62.6,lf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,701,285,WIN,5,186,-65,D Ramdin,MG Johnson,7,0,6,21.65,2031,45.83,Right-hand bat,35,27,1,2130,32.88,62.6,lf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,702,286,WIN,5,186,-65,D Ramdin,MG Johnson,7,0,7,21.65,2031,45.83,Right-hand bat,36,27,1,2130,32.88,62.6,lf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,703,287,WIN,5,186,-65,D Ramdin,MG Johnson,7,0,8,21.65,2031,45.83,Right-hand bat,37,27,1,2130,32.88,62.6,lf,0,WIN,seam,yes,27.44326530612245,9.499591836734693
+2,710,294,WIN,5,188,-63,D Ramdin,MG Johnson,7,1,11,21.65,2031,45.83,Right-hand bat,38,27,1,2130,32.88,62.6,lf,W,WIN,seam,yes,27.44326530612245,9.499591836734693

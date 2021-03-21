@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,916,205,RSA,5,71,-263,DJ Vilas,I Sharma,7,4,10,8.57,159,37.73,Right-hand bat,55,12,0,13416.3,36.9,66.7,rfm,0,IND,seam,no,10.591836734693878,14.122448979591837
+2,917,206,RSA,5,71,-263,DJ Vilas,I Sharma,7,4,11,8.57,159,37.73,Right-hand bat,56,12,0,13416.3,36.9,66.7,rfm,0,IND,seam,no,10.591836734693878,14.122448979591837
+2,918,207,RSA,5,71,-263,DJ Vilas,I Sharma,7,4,12,8.57,159,37.73,Right-hand bat,57,12,0,13416.3,36.9,66.7,rfm,0,IND,seam,no,10.591836734693878,14.122448979591837
+2,919,208,RSA,5,71,-263,DJ Vilas,I Sharma,7,4,13,8.57,159,37.73,Right-hand bat,58,12,0,13416.3,36.9,66.7,rfm,0,IND,seam,no,10.591836734693878,14.122448979591837
+2,920,209,RSA,5,71,-263,DJ Vilas,I Sharma,7,4,14,8.57,159,37.73,Right-hand bat,59,12,0,13416.3,36.9,66.7,rfm,2,IND,seam,no,10.591836734693878,14.122448979591837
+2,921,210,RSA,5,73,-261,DJ Vilas,I Sharma,7,6,15,8.57,159,37.73,Right-hand bat,60,14,0,13416.3,36.9,66.7,rfm,4,IND,seam,no,10.591836734693878,14.122448979591837
+2,928,217,RSA,5,79,-255,DJ Vilas,I Sharma,7,11,17,8.57,159,37.73,Right-hand bat,61,18,0,13416.3,36.9,66.7,rfm,0,IND,seam,no,10.591836734693878,14.122448979591837
+2,929,218,RSA,5,79,-255,DJ Vilas,I Sharma,7,11,18,8.57,159,37.73,Right-hand bat,62,18,0,13416.3,36.9,66.7,rfm,0,IND,seam,no,10.591836734693878,14.122448979591837
+2,930,219,RSA,5,79,-255,DJ Vilas,I Sharma,7,11,19,8.57,159,37.73,Right-hand bat,63,18,0,13416.3,36.9,66.7,rfm,0,IND,seam,no,10.591836734693878,14.122448979591837
+2,931,220,RSA,5,79,-255,DJ Vilas,I Sharma,7,11,20,8.57,159,37.73,Right-hand bat,64,18,0,13416.3,36.9,66.7,rfm,W,IND,seam,no,10.591836734693878,14.122448979591837

@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1895,54,RSA,1,35,-394,AN Petersen,NM Lyon,1,18,31,41.68,2621,50.89,Right-hand bat,0,0,0,3276.5,29.13,64.3,rob,0,AUS,spin,no,31.39197530864198,8.969135802469136
+4,1896,55,RSA,1,35,-394,AN Petersen,NM Lyon,1,18,32,41.68,2621,50.89,Right-hand bat,1,0,0,3276.5,29.13,64.3,rob,1,AUS,spin,no,31.39197530864198,8.969135802469136
+4,1920,79,RSA,2,40,-389,AN Petersen,NM Lyon,1,20,40,41.68,2621,50.89,Right-hand bat,12,3,1,3276.5,29.13,64.3,rob,0,AUS,spin,no,31.39197530864198,8.969135802469136
+4,1921,80,RSA,2,40,-389,AN Petersen,NM Lyon,1,20,41,41.68,2621,50.89,Right-hand bat,13,3,1,3276.5,29.13,64.3,rob,0,AUS,spin,no,31.39197530864198,8.969135802469136
+4,1922,81,RSA,2,40,-389,AN Petersen,NM Lyon,1,20,42,41.68,2621,50.89,Right-hand bat,14,3,1,3276.5,29.13,64.3,rob,0,AUS,spin,no,31.39197530864198,8.969135802469136
+4,1923,82,RSA,2,40,-389,AN Petersen,NM Lyon,1,20,43,41.68,2621,50.89,Right-hand bat,15,3,1,3276.5,29.13,64.3,rob,0,AUS,spin,no,31.39197530864198,8.969135802469136
+4,1924,83,RSA,2,40,-389,AN Petersen,NM Lyon,1,20,44,41.68,2621,50.89,Right-hand bat,16,3,1,3276.5,29.13,64.3,rob,2,AUS,spin,no,31.39197530864198,8.969135802469136
+4,1925,84,RSA,2,42,-387,AN Petersen,NM Lyon,1,22,45,41.68,2621,50.89,Right-hand bat,17,5,1,3276.5,29.13,64.3,rob,0,AUS,spin,no,31.39197530864198,8.969135802469136
+4,1932,91,RSA,2,42,-387,AN Petersen,NM Lyon,1,22,46,41.68,2621,50.89,Right-hand bat,18,5,1,3276.5,29.13,64.3,rob,0,AUS,spin,no,31.39197530864198,8.969135802469136
+4,1933,92,RSA,2,42,-387,AN Petersen,NM Lyon,1,22,47,41.68,2621,50.89,Right-hand bat,19,5,1,3276.5,29.13,64.3,rob,1,AUS,spin,no,31.39197530864198,8.969135802469136

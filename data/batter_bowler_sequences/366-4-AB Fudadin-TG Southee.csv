@@ -1,0 +1,14 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1328,32,WIN,2,25,-180,AB Fudadin,TG Southee,3,3,7,30.5,380,32.1,Left-hand bat,6,0,1,3444.2,44,76.5,rmf,1,WIN,seam,yes,16.241632653061227,7.444081632653061
+4,1340,44,WIN,2,33,-172,AB Fudadin,TG Southee,3,5,11,30.5,380,32.1,Left-hand bat,12,1,1,3444.2,44,76.5,rmf,0,WIN,seam,yes,16.241632653061227,7.444081632653061
+4,1341,45,WIN,2,33,-172,AB Fudadin,TG Southee,3,5,12,30.5,380,32.1,Left-hand bat,13,1,1,3444.2,44,76.5,rmf,2,WIN,seam,yes,16.241632653061227,7.444081632653061
+4,1342,46,WIN,2,35,-170,AB Fudadin,TG Southee,3,7,13,30.5,380,32.1,Left-hand bat,14,3,1,3444.2,44,76.5,rmf,0,WIN,seam,yes,16.241632653061227,7.444081632653061
+4,1343,47,WIN,2,35,-170,AB Fudadin,TG Southee,3,7,14,30.5,380,32.1,Left-hand bat,15,3,1,3444.2,44,76.5,rmf,0,WIN,seam,yes,16.241632653061227,7.444081632653061
+4,1344,48,WIN,2,35,-170,AB Fudadin,TG Southee,3,7,15,30.5,380,32.1,Left-hand bat,16,3,1,3444.2,44,76.5,rmf,0,WIN,seam,yes,16.241632653061227,7.444081632653061
+4,1345,49,WIN,2,35,-170,AB Fudadin,TG Southee,3,7,16,30.5,380,32.1,Left-hand bat,17,3,1,3444.2,44,76.5,rmf,0,WIN,seam,yes,16.241632653061227,7.444081632653061
+4,1388,92,WIN,2,69,-136,AB Fudadin,TG Southee,3,21,29,30.5,380,32.1,Left-hand bat,24,4,1,3444.2,44,76.5,rmf,0,WIN,seam,yes,16.241632653061227,7.444081632653061
+4,1389,93,WIN,2,69,-136,AB Fudadin,TG Southee,3,21,30,30.5,380,32.1,Left-hand bat,25,4,1,3444.2,44,76.5,rmf,0,WIN,seam,yes,16.241632653061227,7.444081632653061
+4,1390,94,WIN,2,69,-136,AB Fudadin,TG Southee,3,21,31,30.5,380,32.1,Left-hand bat,26,4,1,3444.2,44,76.5,rmf,0,WIN,seam,yes,16.241632653061227,7.444081632653061
+4,1391,95,WIN,2,69,-136,AB Fudadin,TG Southee,3,21,32,30.5,380,32.1,Left-hand bat,27,4,1,3444.2,44,76.5,rmf,0,WIN,seam,yes,16.241632653061227,7.444081632653061
+4,1392,96,WIN,2,69,-136,AB Fudadin,TG Southee,3,21,33,30.5,380,32.1,Left-hand bat,28,4,1,3444.2,44,76.5,rmf,0,WIN,seam,yes,16.241632653061227,7.444081632653061
+4,1393,97,WIN,2,69,-136,AB Fudadin,TG Southee,3,21,34,30.5,380,32.1,Left-hand bat,29,4,1,3444.2,44,76.5,rmf,0,WIN,seam,yes,16.241632653061227,7.444081632653061

@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,833,311,ENG,2,148,-129,KP Pietersen,JDP Oram,4,0,0,49.04,5213,63.03,Right-hand bat,57,24,1,4338.2,29.86,73.5,rfm,0,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,834,312,ENG,2,148,-129,KP Pietersen,JDP Oram,4,0,1,49.04,5213,63.03,Right-hand bat,58,24,1,4338.2,29.86,73.5,rfm,0,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,835,313,ENG,2,148,-129,KP Pietersen,JDP Oram,4,0,2,49.04,5213,63.03,Right-hand bat,59,24,1,4338.2,29.86,73.5,rfm,0,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,842,320,ENG,2,148,-129,KP Pietersen,JDP Oram,4,0,3,49.04,5213,63.03,Right-hand bat,60,24,1,4338.2,29.86,73.5,rfm,0,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,843,321,ENG,2,148,-129,KP Pietersen,JDP Oram,4,0,4,49.04,5213,63.03,Right-hand bat,61,24,1,4338.2,29.86,73.5,rfm,0,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,844,322,ENG,2,148,-129,KP Pietersen,JDP Oram,4,0,5,49.04,5213,63.03,Right-hand bat,62,24,1,4338.2,29.86,73.5,rfm,1wd,ENG,seam,yes,24.31213017751479,8.957100591715975
+2,845,323,ENG,2,149,-128,KP Pietersen,JDP Oram,4,0,5,49.04,5213,63.03,Right-hand bat,63,25,1,4338.2,29.86,73.5,rfm,3,ENG,seam,yes,24.31213017751479,8.957100591715975

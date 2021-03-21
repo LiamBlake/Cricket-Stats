@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1678,734,WIN,8,346,-233,ML Cummins,Yasir Shah,10,0,0,9,71,38.02,Left-hand bat,249,115,4,5610.4,27.89,55,rls,0,PAK,spin,no,11.140495867768596,29.70798898071626
+2,1679,735,WIN,8,346,-233,ML Cummins,Yasir Shah,10,0,1,9,71,38.02,Left-hand bat,250,115,4,5610.4,27.89,55,rls,0,PAK,spin,no,11.140495867768596,29.70798898071626
+2,1680,736,WIN,8,346,-233,ML Cummins,Yasir Shah,10,0,2,9,71,38.02,Left-hand bat,251,115,4,5610.4,27.89,55,rls,0,PAK,spin,no,11.140495867768596,29.70798898071626
+2,1688,744,WIN,8,351,-228,ML Cummins,Yasir Shah,10,0,3,9,71,38.02,Left-hand bat,252,115,4,5610.4,27.89,55,rls,W,PAK,spin,no,11.140495867768596,29.70798898071626

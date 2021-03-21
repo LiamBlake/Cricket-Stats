@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1809,260,SRL,5,179,318,N Dickwella,M Morkel,7,4,6,44,137,64.23,Left-hand bat,49,34,3,11376,30.08,56.5,rf,1,SRL,seam,yes,10.943672839506172,19.361882716049383
+3,1811,262,SRL,5,181,320,N Dickwella,M Morkel,7,5,7,44,137,64.23,Left-hand bat,51,36,3,11376,30.08,56.5,rf,0,SRL,seam,yes,10.943672839506172,19.361882716049383
+3,1812,263,SRL,5,181,320,N Dickwella,M Morkel,7,5,8,44,137,64.23,Left-hand bat,52,36,3,11376,30.08,56.5,rf,1,SRL,seam,yes,10.943672839506172,19.361882716049383

@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1284,127,BAN,1,62,168,Tamim Iqbal,DJG Sammy,1,29,65,39.8,2645,60.18,Left-hand bat,0,0,0,3180.4,29.35,66.3,rm,0,BAN,seam,yes,9.880208333333334,23.994791666666668
+3,1285,128,BAN,1,62,168,Tamim Iqbal,DJG Sammy,1,29,66,39.8,2645,60.18,Left-hand bat,1,0,0,3180.4,29.35,66.3,rm,1,BAN,seam,yes,9.880208333333334,23.994791666666668
+3,1287,130,BAN,1,64,170,Tamim Iqbal,DJG Sammy,1,30,67,39.8,2645,60.18,Left-hand bat,3,2,0,3180.4,29.35,66.3,rm,1,BAN,seam,yes,9.880208333333334,23.994791666666668
+3,1296,139,BAN,1,72,178,Tamim Iqbal,DJG Sammy,1,37,73,39.8,2645,60.18,Left-hand bat,6,3,0,3180.4,29.35,66.3,rm,0,BAN,seam,yes,9.880208333333334,23.994791666666668
+3,1297,140,BAN,1,72,178,Tamim Iqbal,DJG Sammy,1,37,74,39.8,2645,60.18,Left-hand bat,7,3,0,3180.4,29.35,66.3,rm,W,BAN,seam,yes,9.880208333333334,23.994791666666668

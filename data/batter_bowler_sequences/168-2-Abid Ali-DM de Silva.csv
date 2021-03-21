@@ -1,0 +1,24 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,832,247,PAK,2,117,-191,Abid Ali,DM de Silva,2,68,124,NA,201,54.22,Right-hand bat,5,1,0,1578.1,50.38,87.7,rob,0,PAK,spin,no,70,0
+2,840,255,PAK,2,121,-187,Abid Ali,DM de Silva,2,69,126,NA,201,54.22,Right-hand bat,7,2,0,1578.1,50.38,87.7,rob,0,PAK,spin,no,70,0
+2,841,256,PAK,2,121,-187,Abid Ali,DM de Silva,2,69,127,NA,201,54.22,Right-hand bat,8,2,0,1578.1,50.38,87.7,rob,0,PAK,spin,no,70,0
+2,842,257,PAK,2,121,-187,Abid Ali,DM de Silva,2,69,128,NA,201,54.22,Right-hand bat,9,2,0,1578.1,50.38,87.7,rob,1,PAK,spin,no,70,0
+2,851,266,PAK,2,137,-171,Abid Ali,DM de Silva,2,79,133,NA,201,54.22,Right-hand bat,12,4,0,1578.1,50.38,87.7,rob,1,PAK,spin,no,70,0
+2,863,278,PAK,2,153,-155,Abid Ali,DM de Silva,2,84,138,NA,201,54.22,Right-hand bat,18,15,0,1578.1,50.38,87.7,rob,0,PAK,spin,no,70,0
+2,864,279,PAK,2,153,-155,Abid Ali,DM de Silva,2,84,139,NA,201,54.22,Right-hand bat,19,15,0,1578.1,50.38,87.7,rob,1,PAK,spin,no,70,0
+2,866,281,PAK,2,155,-153,Abid Ali,DM de Silva,2,85,140,NA,201,54.22,Right-hand bat,21,17,0,1578.1,50.38,87.7,rob,1,PAK,spin,no,70,0
+2,876,291,PAK,2,165,-143,Abid Ali,DM de Silva,2,87,142,NA,201,54.22,Right-hand bat,25,20,0,1578.1,50.38,87.7,rob,0,PAK,spin,no,70,0
+2,877,292,PAK,2,165,-143,Abid Ali,DM de Silva,2,87,143,NA,201,54.22,Right-hand bat,26,20,0,1578.1,50.38,87.7,rob,0,PAK,spin,no,70,0
+2,878,293,PAK,2,165,-143,Abid Ali,DM de Silva,2,87,144,NA,201,54.22,Right-hand bat,27,20,0,1578.1,50.38,87.7,rob,0,PAK,spin,no,70,0
+2,879,294,PAK,2,165,-143,Abid Ali,DM de Silva,2,87,145,NA,201,54.22,Right-hand bat,28,20,0,1578.1,50.38,87.7,rob,1,PAK,spin,no,70,0
+2,945,360,PAK,2,206,-102,Abid Ali,DM de Silva,2,94,179,NA,201,54.22,Right-hand bat,34,28,0,1578.1,50.38,87.7,rob,0,PAK,spin,no,70,0
+2,946,361,PAK,2,206,-102,Abid Ali,DM de Silva,2,94,180,NA,201,54.22,Right-hand bat,35,28,0,1578.1,50.38,87.7,rob,1,PAK,spin,no,70,0
+2,954,369,PAK,2,214,-94,Abid Ali,DM de Silva,2,101,187,NA,201,54.22,Right-hand bat,37,30,0,1578.1,50.38,87.7,rob,1,PAK,spin,no,70,0
+2,957,372,PAK,2,216,-92,Abid Ali,DM de Silva,2,102,188,NA,201,54.22,Right-hand bat,40,32,0,1578.1,50.38,87.7,rob,1,PAK,spin,no,70,0
+2,979,394,PAK,2,232,-76,Abid Ali,DM de Silva,2,103,191,NA,201,54.22,Right-hand bat,50,40,0,1578.1,50.38,87.7,rob,0,PAK,spin,no,70,0
+2,980,395,PAK,2,232,-76,Abid Ali,DM de Silva,2,103,192,NA,201,54.22,Right-hand bat,51,40,0,1578.1,50.38,87.7,rob,3,PAK,spin,no,70,0
+2,990,405,PAK,2,242,-66,Abid Ali,DM de Silva,2,106,195,NA,201,54.22,Right-hand bat,55,44,0,1578.1,50.38,87.7,rob,1,PAK,spin,no,70,0
+2,992,407,PAK,2,244,-64,Abid Ali,DM de Silva,2,107,196,NA,201,54.22,Right-hand bat,57,46,0,1578.1,50.38,87.7,rob,0,PAK,spin,no,70,0
+2,993,408,PAK,2,244,-64,Abid Ali,DM de Silva,2,107,197,NA,201,54.22,Right-hand bat,58,46,0,1578.1,50.38,87.7,rob,0,PAK,spin,no,70,0
+2,994,409,PAK,2,244,-64,Abid Ali,DM de Silva,2,107,198,NA,201,54.22,Right-hand bat,59,46,0,1578.1,50.38,87.7,rob,0,PAK,spin,no,70,0
+2,1001,416,PAK,2,250,-58,Abid Ali,DM de Silva,2,108,200,NA,201,54.22,Right-hand bat,60,46,0,1578.1,50.38,87.7,rob,1nb,PAK,spin,no,70,0

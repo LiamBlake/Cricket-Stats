@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1105,338,WIN,8,202,-197,JO Holder,MA Starc,8,67,55,34.54,589,64.51,Right-hand bat,73,33,1,3498,32.2,58.3,lf,0,WIN,seam,yes,23.0712890625,6.4599609375
+2,1106,339,WIN,8,202,-197,JO Holder,MA Starc,8,67,56,34.54,589,64.51,Right-hand bat,74,33,1,3498,32.2,58.3,lf,4,WIN,seam,yes,23.0712890625,6.4599609375
+2,1107,340,WIN,8,206,-193,JO Holder,MA Starc,8,71,57,34.54,589,64.51,Right-hand bat,75,37,1,3498,32.2,58.3,lf,0,WIN,seam,yes,23.0712890625,6.4599609375
+2,1108,341,WIN,8,206,-193,JO Holder,MA Starc,8,71,58,34.54,589,64.51,Right-hand bat,76,37,1,3498,32.2,58.3,lf,1,WIN,seam,yes,23.0712890625,6.4599609375
+2,1110,343,WIN,8,208,-191,JO Holder,MA Starc,8,72,59,34.54,589,64.51,Right-hand bat,78,39,1,3498,32.2,58.3,lf,4,WIN,seam,yes,23.0712890625,6.4599609375
+2,1117,350,WIN,8,212,-187,JO Holder,MA Starc,8,76,60,34.54,589,64.51,Right-hand bat,79,43,1,3498,32.2,58.3,lf,4,WIN,seam,yes,23.0712890625,6.4599609375
+2,1118,351,WIN,8,216,-183,JO Holder,MA Starc,8,80,61,34.54,589,64.51,Right-hand bat,80,47,1,3498,32.2,58.3,lf,1,WIN,seam,yes,23.0712890625,6.4599609375

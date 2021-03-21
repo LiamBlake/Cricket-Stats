@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,911,227,IND,3,108,-227,RG Sharma,K Rabada,5,0,1,39.97,2682,55.14,Right-hand bat,41,22,0,4518,22.25,39.6,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+2,920,236,IND,3,114,-221,RG Sharma,K Rabada,5,4,7,39.97,2682,55.14,Right-hand bat,44,23,0,4518,22.25,39.6,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+2,921,237,IND,3,114,-221,RG Sharma,K Rabada,5,4,8,39.97,2682,55.14,Right-hand bat,45,23,0,4518,22.25,39.6,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+2,922,238,IND,3,114,-221,RG Sharma,K Rabada,5,4,9,39.97,2682,55.14,Right-hand bat,46,23,0,4518,22.25,39.6,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+2,923,239,IND,3,114,-221,RG Sharma,K Rabada,5,4,10,39.97,2682,55.14,Right-hand bat,47,23,0,4518,22.25,39.6,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+2,946,262,IND,3,124,-211,RG Sharma,K Rabada,5,4,18,39.97,2682,55.14,Right-hand bat,58,29,0,4518,22.25,39.6,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+2,947,263,IND,3,124,-211,RG Sharma,K Rabada,5,4,19,39.97,2682,55.14,Right-hand bat,59,29,0,4518,22.25,39.6,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+2,956,272,IND,3,130,-205,RG Sharma,K Rabada,5,8,24,39.97,2682,55.14,Right-hand bat,62,30,0,4518,22.25,39.6,rf,0,RSA,seam,no,22.33375,3.9412499999999993
+2,957,273,IND,3,130,-205,RG Sharma,K Rabada,5,8,25,39.97,2682,55.14,Right-hand bat,63,30,0,4518,22.25,39.6,rf,2,RSA,seam,no,22.33375,3.9412499999999993
+2,958,274,IND,3,132,-203,RG Sharma,K Rabada,5,10,26,39.97,2682,55.14,Right-hand bat,64,32,0,4518,22.25,39.6,rf,W,RSA,seam,no,22.33375,3.9412499999999993

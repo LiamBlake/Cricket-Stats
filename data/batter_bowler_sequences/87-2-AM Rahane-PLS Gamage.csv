@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1246,770,IND,3,407,202,AM Rahane,PLS Gamage,5,1,9,45.4,5328,52.83,Right-hand bat,163,62,1,636.3,45.71,91.2,rfm,0,SRL,seam,no,13.060650887573965,24.67011834319527
+2,1247,771,IND,3,407,202,AM Rahane,PLS Gamage,5,1,10,45.4,5328,52.83,Right-hand bat,164,62,1,636.3,45.71,91.2,rfm,0,SRL,seam,no,13.060650887573965,24.67011834319527
+2,1248,772,IND,3,407,202,AM Rahane,PLS Gamage,5,1,11,45.4,5328,52.83,Right-hand bat,165,62,1,636.3,45.71,91.2,rfm,1,SRL,seam,no,13.060650887573965,24.67011834319527

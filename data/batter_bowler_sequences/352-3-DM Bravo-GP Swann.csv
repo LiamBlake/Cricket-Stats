@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1496,78,WIN,3,42,-16,DM Bravo,GP Swann,3,21,31,45.61,3048,46.39,Left-hand bat,0,0,0,10698,28.12,56.9,rob,0,ENG,spin,yes,26.82206035379813,7.823100936524454
+3,1497,79,WIN,3,42,-16,DM Bravo,GP Swann,3,21,32,45.61,3048,46.39,Left-hand bat,1,0,0,10698,28.12,56.9,rob,0,ENG,spin,yes,26.82206035379813,7.823100936524454
+3,1498,80,WIN,3,42,-16,DM Bravo,GP Swann,3,21,33,45.61,3048,46.39,Left-hand bat,2,0,0,10698,28.12,56.9,rob,0,ENG,spin,yes,26.82206035379813,7.823100936524454
+3,1499,81,WIN,3,42,-16,DM Bravo,GP Swann,3,21,34,45.61,3048,46.39,Left-hand bat,3,0,0,10698,28.12,56.9,rob,0,ENG,spin,yes,26.82206035379813,7.823100936524454
+3,1500,82,WIN,3,42,-16,DM Bravo,GP Swann,3,21,35,45.61,3048,46.39,Left-hand bat,4,0,0,10698,28.12,56.9,rob,0,ENG,spin,yes,26.82206035379813,7.823100936524454
+3,1501,83,WIN,3,42,-16,DM Bravo,GP Swann,3,21,36,45.61,3048,46.39,Left-hand bat,5,0,0,10698,28.12,56.9,rob,0,ENG,spin,yes,26.82206035379813,7.823100936524454
+3,1508,90,WIN,3,42,-16,DM Bravo,GP Swann,3,21,37,45.61,3048,46.39,Left-hand bat,6,0,0,10698,28.12,56.9,rob,0,ENG,spin,yes,26.82206035379813,7.823100936524454
+3,1509,91,WIN,3,42,-16,DM Bravo,GP Swann,3,21,38,45.61,3048,46.39,Left-hand bat,7,0,0,10698,28.12,56.9,rob,0,ENG,spin,yes,26.82206035379813,7.823100936524454
+3,1510,92,WIN,3,42,-16,DM Bravo,GP Swann,3,21,39,45.61,3048,46.39,Left-hand bat,8,0,0,10698,28.12,56.9,rob,0,ENG,spin,yes,26.82206035379813,7.823100936524454
+3,1511,93,WIN,3,42,-16,DM Bravo,GP Swann,3,21,40,45.61,3048,46.39,Left-hand bat,9,0,0,10698,28.12,56.9,rob,0,ENG,spin,yes,26.82206035379813,7.823100936524454
+3,1512,94,WIN,3,42,-16,DM Bravo,GP Swann,3,21,41,45.61,3048,46.39,Left-hand bat,10,0,0,10698,28.12,56.9,rob,1,ENG,spin,yes,26.82206035379813,7.823100936524454

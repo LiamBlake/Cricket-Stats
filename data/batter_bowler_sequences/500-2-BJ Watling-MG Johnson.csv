@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1046,254,NZL,5,145,-411,BJ Watling,MG Johnson,7,9,22,39.95,4257,44.11,Right-hand bat,62,44,2,15792.5,28.1,50.9,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+2,1047,255,NZL,5,145,-411,BJ Watling,MG Johnson,7,9,23,39.95,4257,44.11,Right-hand bat,63,44,2,15792.5,28.1,50.9,lf,1,AUS,seam,no,36.53061224489796,14.612244897959185
+2,1058,266,NZL,5,157,-399,BJ Watling,MG Johnson,7,14,30,39.95,4257,44.11,Right-hand bat,68,52,2,15792.5,28.1,50.9,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+2,1059,267,NZL,5,157,-399,BJ Watling,MG Johnson,7,14,31,39.95,4257,44.11,Right-hand bat,69,52,2,15792.5,28.1,50.9,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+2,1060,268,NZL,5,157,-399,BJ Watling,MG Johnson,7,14,32,39.95,4257,44.11,Right-hand bat,70,52,2,15792.5,28.1,50.9,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+2,1061,269,NZL,5,157,-399,BJ Watling,MG Johnson,7,14,33,39.95,4257,44.11,Right-hand bat,71,52,2,15792.5,28.1,50.9,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+2,1062,270,NZL,5,157,-399,BJ Watling,MG Johnson,7,14,34,39.95,4257,44.11,Right-hand bat,72,52,2,15792.5,28.1,50.9,lf,0,AUS,seam,no,36.53061224489796,14.612244897959185
+2,1105,313,NZL,5,185,-371,BJ Watling,MG Johnson,7,32,58,39.95,4257,44.11,Right-hand bat,73,52,2,15792.5,28.1,50.9,lf,W,AUS,seam,no,36.53061224489796,14.612244897959185

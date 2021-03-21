@@ -1,0 +1,9 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2477,247,IND,4,119,-264,CA Pujara,NM Lyon,6,7,28,47.11,4209,49.25,Right-hand bat,55,29,0,8892,34.96,66.3,rob,0,AUS,spin,no,33.98857142857143,8.497142857142858
+4,2478,248,IND,4,119,-264,CA Pujara,NM Lyon,6,7,29,47.11,4209,49.25,Right-hand bat,56,29,0,8892,34.96,66.3,rob,0,AUS,spin,no,33.98857142857143,8.497142857142858
+4,2479,249,IND,4,119,-264,CA Pujara,NM Lyon,6,7,30,47.11,4209,49.25,Right-hand bat,57,29,0,8892,34.96,66.3,rob,1,AUS,spin,no,33.98857142857143,8.497142857142858
+4,2488,258,IND,4,121,-262,CA Pujara,NM Lyon,6,9,34,47.11,4209,49.25,Right-hand bat,60,30,0,8892,34.96,66.3,rob,0,AUS,spin,no,33.98857142857143,8.497142857142858
+4,2489,259,IND,4,121,-262,CA Pujara,NM Lyon,6,9,35,47.11,4209,49.25,Right-hand bat,61,30,0,8892,34.96,66.3,rob,0,AUS,spin,no,33.98857142857143,8.497142857142858
+4,2490,260,IND,4,121,-262,CA Pujara,NM Lyon,6,9,36,47.11,4209,49.25,Right-hand bat,62,30,0,8892,34.96,66.3,rob,0,AUS,spin,no,33.98857142857143,8.497142857142858
+4,2491,261,IND,4,121,-262,CA Pujara,NM Lyon,6,9,37,47.11,4209,49.25,Right-hand bat,63,30,0,8892,34.96,66.3,rob,0,AUS,spin,no,33.98857142857143,8.497142857142858
+4,2492,262,IND,4,121,-262,CA Pujara,NM Lyon,6,9,38,47.11,4209,49.25,Right-hand bat,64,30,0,8892,34.96,66.3,rob,3,AUS,spin,no,33.98857142857143,8.497142857142858

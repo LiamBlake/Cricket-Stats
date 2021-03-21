@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,593,11,SRL,1,8,-334,JK Silva,SM Curran,3,0,1,29.01,5191,40.24,Right-hand bat,5,1,0,612.5,23.78,44,lmf,0,ENG,seam,no,5.171296296296297,25.85648148148148
+2,600,18,SRL,1,10,-332,JK Silva,SM Curran,3,1,3,29.01,5191,40.24,Right-hand bat,6,1,0,612.5,23.78,44,lmf,0,ENG,seam,no,5.171296296296297,25.85648148148148
+2,601,19,SRL,1,10,-332,JK Silva,SM Curran,3,1,4,29.01,5191,40.24,Right-hand bat,7,1,0,612.5,23.78,44,lmf,0,ENG,seam,no,5.171296296296297,25.85648148148148
+2,602,20,SRL,1,10,-332,JK Silva,SM Curran,3,1,5,29.01,5191,40.24,Right-hand bat,8,1,0,612.5,23.78,44,lmf,W,ENG,seam,no,5.171296296296297,25.85648148148148

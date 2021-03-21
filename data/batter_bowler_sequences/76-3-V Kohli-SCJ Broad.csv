@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,876,132,IND,3,43,-246,V Kohli,SCJ Broad,5,1,5,53.64,9936,58.31,Right-hand bat,36,9,1,24642.4,28.8,58.1,rfm,0,IND,seam,no,23.444444444444443,0
+3,877,133,IND,3,43,-246,V Kohli,SCJ Broad,5,1,6,53.64,9936,58.31,Right-hand bat,37,9,1,24642.4,28.8,58.1,rfm,0,IND,seam,no,23.444444444444443,0
+3,878,134,IND,3,43,-246,V Kohli,SCJ Broad,5,1,7,53.64,9936,58.31,Right-hand bat,38,9,1,24642.4,28.8,58.1,rfm,4,IND,seam,no,23.444444444444443,0
+3,879,135,IND,3,47,-242,V Kohli,SCJ Broad,5,5,8,53.64,9936,58.31,Right-hand bat,39,13,1,24642.4,28.8,58.1,rfm,0,IND,seam,no,23.444444444444443,0
+3,880,136,IND,3,47,-242,V Kohli,SCJ Broad,5,5,9,53.64,9936,58.31,Right-hand bat,40,13,1,24642.4,28.8,58.1,rfm,0,IND,seam,no,23.444444444444443,0
+3,881,137,IND,3,47,-242,V Kohli,SCJ Broad,5,5,10,53.64,9936,58.31,Right-hand bat,41,13,1,24642.4,28.8,58.1,rfm,0,IND,seam,no,23.444444444444443,0
+3,912,168,IND,4,51,-238,V Kohli,SCJ Broad,5,7,18,53.64,9936,58.31,Right-hand bat,54,13,2,24642.4,28.8,58.1,rfm,0,IND,seam,no,23.444444444444443,0
+3,913,169,IND,4,51,-238,V Kohli,SCJ Broad,5,7,19,53.64,9936,58.31,Right-hand bat,55,13,2,24642.4,28.8,58.1,rfm,1,IND,seam,no,23.444444444444443,0
+3,924,180,IND,4,59,-230,V Kohli,SCJ Broad,5,15,26,53.64,9936,58.31,Right-hand bat,60,14,2,24642.4,28.8,58.1,rfm,2,IND,seam,no,23.444444444444443,0
+3,925,181,IND,4,61,-228,V Kohli,SCJ Broad,5,17,27,53.64,9936,58.31,Right-hand bat,61,16,2,24642.4,28.8,58.1,rfm,0,IND,seam,no,23.444444444444443,0
+3,926,182,IND,4,61,-228,V Kohli,SCJ Broad,5,17,28,53.64,9936,58.31,Right-hand bat,62,16,2,24642.4,28.8,58.1,rfm,W,IND,seam,no,23.444444444444443,0

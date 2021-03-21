@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,6,6,NZL,0,2,2,AJ Redmond,JM Anderson,2,0,0,8.5,62,27.41,Right-hand bat,0,0,0,4476.3,37.92,59.7,rfm,0,ENG,seam,no,24.31213017751479,8.957100591715975
+1,7,7,NZL,0,2,2,AJ Redmond,JM Anderson,2,0,1,8.5,62,27.41,Right-hand bat,1,0,0,4476.3,37.92,59.7,rfm,0,ENG,seam,no,24.31213017751479,8.957100591715975
+1,8,8,NZL,0,2,2,AJ Redmond,JM Anderson,2,0,2,8.5,62,27.41,Right-hand bat,2,0,0,4476.3,37.92,59.7,rfm,0,ENG,seam,no,24.31213017751479,8.957100591715975
+1,9,9,NZL,0,2,2,AJ Redmond,JM Anderson,2,0,3,8.5,62,27.41,Right-hand bat,3,0,0,4476.3,37.92,59.7,rfm,0,ENG,seam,no,24.31213017751479,8.957100591715975
+1,10,10,NZL,0,2,2,AJ Redmond,JM Anderson,2,0,4,8.5,62,27.41,Right-hand bat,4,0,0,4476.3,37.92,59.7,rfm,W,ENG,seam,no,24.31213017751479,8.957100591715975

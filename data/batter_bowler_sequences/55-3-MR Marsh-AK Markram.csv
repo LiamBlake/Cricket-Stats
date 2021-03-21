@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1482,339,AUS,4,163,24,MR Marsh,AK Markram,6,35,98,30.13,2161,52.98,Right-hand bat,2,1,0,36,NA,NA,rob,1,AUS,spin,yes,24.23356401384083,4.178200692041522
+3,1492,349,AUS,4,169,30,MR Marsh,AK Markram,6,37,104,30.13,2161,52.98,Right-hand bat,6,2,0,36,NA,NA,rob,0,AUS,spin,yes,24.23356401384083,4.178200692041522
+3,1493,350,AUS,4,169,30,MR Marsh,AK Markram,6,37,105,30.13,2161,52.98,Right-hand bat,7,2,0,36,NA,NA,rob,0,AUS,spin,yes,24.23356401384083,4.178200692041522
+3,1494,351,AUS,4,169,30,MR Marsh,AK Markram,6,37,106,30.13,2161,52.98,Right-hand bat,8,2,0,36,NA,NA,rob,0,AUS,spin,yes,24.23356401384083,4.178200692041522
+3,1495,352,AUS,4,169,30,MR Marsh,AK Markram,6,37,107,30.13,2161,52.98,Right-hand bat,9,2,0,36,NA,NA,rob,0,AUS,spin,yes,24.23356401384083,4.178200692041522
+3,1496,353,AUS,4,169,30,MR Marsh,AK Markram,6,37,108,30.13,2161,52.98,Right-hand bat,10,2,0,36,NA,NA,rob,0,AUS,spin,yes,24.23356401384083,4.178200692041522
+3,1497,354,AUS,4,169,30,MR Marsh,AK Markram,6,37,109,30.13,2161,52.98,Right-hand bat,11,2,0,36,NA,NA,rob,0,AUS,spin,yes,24.23356401384083,4.178200692041522
+3,1505,362,AUS,4,173,34,MR Marsh,AK Markram,6,37,112,30.13,2161,52.98,Right-hand bat,13,3,0,36,NA,NA,rob,0,AUS,spin,yes,24.23356401384083,4.178200692041522
+3,1506,363,AUS,4,173,34,MR Marsh,AK Markram,6,37,113,30.13,2161,52.98,Right-hand bat,14,3,0,36,NA,NA,rob,0,AUS,spin,yes,24.23356401384083,4.178200692041522
+3,1507,364,AUS,4,173,34,MR Marsh,AK Markram,6,37,114,30.13,2161,52.98,Right-hand bat,15,3,0,36,NA,NA,rob,0,AUS,spin,yes,24.23356401384083,4.178200692041522
+3,1508,365,AUS,4,173,34,MR Marsh,AK Markram,6,37,115,30.13,2161,52.98,Right-hand bat,16,3,0,36,NA,NA,rob,0,AUS,spin,yes,24.23356401384083,4.178200692041522
+3,1509,366,AUS,4,173,34,MR Marsh,AK Markram,6,37,116,30.13,2161,52.98,Right-hand bat,17,3,0,36,NA,NA,rob,0,AUS,spin,yes,24.23356401384083,4.178200692041522

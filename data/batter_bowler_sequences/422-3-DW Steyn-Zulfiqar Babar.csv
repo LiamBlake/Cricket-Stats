@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1546,153,RSA,4,72,-121,DW Steyn,Zulfiqar Babar,6,0,0,13.87,2110,42.08,Right-hand bat,1,0,1,276,28,55.2,lo,0,PAK,spin,yes,16.888888888888886,12.444444444444443
+3,1547,154,RSA,4,72,-121,DW Steyn,Zulfiqar Babar,6,0,1,13.87,2110,42.08,Right-hand bat,2,0,1,276,28,55.2,lo,0,PAK,spin,yes,16.888888888888886,12.444444444444443
+3,1548,155,RSA,4,72,-121,DW Steyn,Zulfiqar Babar,6,0,2,13.87,2110,42.08,Right-hand bat,3,0,1,276,28,55.2,lo,0,PAK,spin,yes,16.888888888888886,12.444444444444443
+3,1549,156,RSA,4,72,-121,DW Steyn,Zulfiqar Babar,6,0,3,13.87,2110,42.08,Right-hand bat,4,0,1,276,28,55.2,lo,0,PAK,spin,yes,16.888888888888886,12.444444444444443
+3,1550,157,RSA,4,72,-121,DW Steyn,Zulfiqar Babar,6,0,4,13.87,2110,42.08,Right-hand bat,5,0,1,276,28,55.2,lo,0,PAK,spin,yes,16.888888888888886,12.444444444444443
+3,1618,225,RSA,4,104,-89,DW Steyn,Zulfiqar Babar,6,7,47,13.87,2110,42.08,Right-hand bat,7,0,1,276,28,55.2,lo,0,PAK,spin,yes,16.888888888888886,12.444444444444443
+3,1619,226,RSA,4,104,-89,DW Steyn,Zulfiqar Babar,6,7,48,13.87,2110,42.08,Right-hand bat,8,0,1,276,28,55.2,lo,W,PAK,spin,yes,16.888888888888886,12.444444444444443

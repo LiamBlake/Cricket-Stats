@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1837,60,SRL,0,28,-333,FDM Karunaratne,MM Ali,1,15,30,34.33,3527,49.64,Left-hand bat,0,0,0,4428,41.28,67,rob,4,ENG,spin,no,31.071428571428573,5.178571428571429
+4,1838,61,SRL,0,32,-329,FDM Karunaratne,MM Ali,1,19,31,34.33,3527,49.64,Left-hand bat,1,4,0,4428,41.28,67,rob,0,ENG,spin,no,31.071428571428573,5.178571428571429
+4,1839,62,SRL,0,32,-329,FDM Karunaratne,MM Ali,1,19,32,34.33,3527,49.64,Left-hand bat,2,4,0,4428,41.28,67,rob,0,ENG,spin,no,31.071428571428573,5.178571428571429
+4,1840,63,SRL,0,32,-329,FDM Karunaratne,MM Ali,1,19,33,34.33,3527,49.64,Left-hand bat,3,4,0,4428,41.28,67,rob,0,ENG,spin,no,31.071428571428573,5.178571428571429
+4,1841,64,SRL,0,32,-329,FDM Karunaratne,MM Ali,1,19,34,34.33,3527,49.64,Left-hand bat,4,4,0,4428,41.28,67,rob,0,ENG,spin,no,31.071428571428573,5.178571428571429
+4,1842,65,SRL,0,32,-329,FDM Karunaratne,MM Ali,1,19,35,34.33,3527,49.64,Left-hand bat,5,4,0,4428,41.28,67,rob,0,ENG,spin,no,31.071428571428573,5.178571428571429
+4,1916,139,SRL,1,72,-289,FDM Karunaratne,MM Ali,1,37,60,34.33,3527,49.64,Left-hand bat,6,4,0,4428,41.28,67,rob,0,ENG,spin,no,31.071428571428573,5.178571428571429
+4,1917,140,SRL,1,72,-289,FDM Karunaratne,MM Ali,1,37,61,34.33,3527,49.64,Left-hand bat,7,4,0,4428,41.28,67,rob,0,ENG,spin,no,31.071428571428573,5.178571428571429
+4,1918,141,SRL,1,72,-289,FDM Karunaratne,MM Ali,1,37,62,34.33,3527,49.64,Left-hand bat,8,4,0,4428,41.28,67,rob,0,ENG,spin,no,31.071428571428573,5.178571428571429
+4,1919,142,SRL,1,72,-289,FDM Karunaratne,MM Ali,1,37,63,34.33,3527,49.64,Left-hand bat,9,4,0,4428,41.28,67,rob,0,ENG,spin,no,31.071428571428573,5.178571428571429
+4,1920,143,SRL,1,72,-289,FDM Karunaratne,MM Ali,1,37,64,34.33,3527,49.64,Left-hand bat,10,4,0,4428,41.28,67,rob,0,ENG,spin,no,31.071428571428573,5.178571428571429
+4,1921,144,SRL,1,72,-289,FDM Karunaratne,MM Ali,1,37,65,34.33,3527,49.64,Left-hand bat,11,4,0,4428,41.28,67,rob,0,ENG,spin,no,31.071428571428573,5.178571428571429

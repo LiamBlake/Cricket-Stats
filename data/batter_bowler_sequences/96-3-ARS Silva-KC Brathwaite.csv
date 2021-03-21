@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1567,480,SRL,6,285,238,ARS Silva,KC Brathwaite,7,42,106,54.57,828,46.13,Right-hand bat,0,0,0,1512.4,59.64,108.2,rob,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1568,481,SRL,6,285,238,ARS Silva,KC Brathwaite,7,42,107,54.57,828,46.13,Right-hand bat,1,0,0,1512.4,59.64,108.2,rob,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1569,482,SRL,6,285,238,ARS Silva,KC Brathwaite,7,42,108,54.57,828,46.13,Right-hand bat,2,0,0,1512.4,59.64,108.2,rob,4,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1570,483,SRL,6,289,242,ARS Silva,KC Brathwaite,7,46,109,54.57,828,46.13,Right-hand bat,3,4,0,1512.4,59.64,108.2,rob,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1571,484,SRL,6,289,242,ARS Silva,KC Brathwaite,7,46,110,54.57,828,46.13,Right-hand bat,4,4,0,1512.4,59.64,108.2,rob,0,SRL,spin,yes,28.070204081632653,1.7012244897959183
+3,1572,485,SRL,6,289,242,ARS Silva,KC Brathwaite,7,46,111,54.57,828,46.13,Right-hand bat,5,4,0,1512.4,59.64,108.2,rob,0,SRL,spin,yes,28.070204081632653,1.7012244897959183

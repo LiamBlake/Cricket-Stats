@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1058,404,RSA,8,213,-149,K Rabada,DJ Malan,9,18,24,14.38,520,49.8,Left-hand bat,1,1,0,6,NA,NA,rls,0,ENG,spin,no,19.36875,6.45625
+2,1059,405,RSA,8,213,-149,K Rabada,DJ Malan,9,18,25,14.38,520,49.8,Left-hand bat,2,1,0,6,NA,NA,rls,1,ENG,spin,no,19.36875,6.45625
+2,1062,408,RSA,8,215,-147,K Rabada,DJ Malan,9,19,26,14.38,520,49.8,Left-hand bat,5,3,0,6,NA,NA,rls,4,ENG,spin,no,19.36875,6.45625

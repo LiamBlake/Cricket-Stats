@@ -1,0 +1,4 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,460,460,AUS,7,234,234,RJ Harris,RAS Lakmal,9,0,0,9.42,130,50.76,Right-hand bat,76,44,2,888.5,40.92,63.7,rfm,0,SRL,seam,yes,10.5125,10.5125
+1,461,461,AUS,7,234,234,RJ Harris,RAS Lakmal,9,0,1,9.42,130,50.76,Right-hand bat,77,44,2,888.5,40.92,63.7,rfm,0,SRL,seam,yes,10.5125,10.5125
+1,468,468,AUS,7,236,236,RJ Harris,RAS Lakmal,9,1,4,9.42,130,50.76,Right-hand bat,78,44,2,888.5,40.92,63.7,rfm,W,SRL,seam,yes,10.5125,10.5125

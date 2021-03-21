@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,2017,111,WIN,5,55,-347,D Ramdin,TG Southee,7,0,1,27.47,4655,49.58,Right-hand bat,32,9,2,6678.1,29.56,56.6,rmf,4,WIN,seam,no,12.119183673469387,20.50938775510204
+4,2018,112,WIN,5,59,-343,D Ramdin,TG Southee,7,4,2,27.47,4655,49.58,Right-hand bat,33,13,2,6678.1,29.56,56.6,rmf,1,WIN,seam,no,12.119183673469387,20.50938775510204
+4,2028,122,WIN,5,73,-329,D Ramdin,TG Southee,7,13,9,27.47,4655,49.58,Right-hand bat,37,19,2,6678.1,29.56,56.6,rmf,0,WIN,seam,no,12.119183673469387,20.50938775510204
+4,2029,123,WIN,5,73,-329,D Ramdin,TG Southee,7,13,10,27.47,4655,49.58,Right-hand bat,38,19,2,6678.1,29.56,56.6,rmf,0,WIN,seam,no,12.119183673469387,20.50938775510204
+4,2030,124,WIN,5,73,-329,D Ramdin,TG Southee,7,13,11,27.47,4655,49.58,Right-hand bat,39,19,2,6678.1,29.56,56.6,rmf,0,WIN,seam,no,12.119183673469387,20.50938775510204
+4,2031,125,WIN,5,73,-329,D Ramdin,TG Southee,7,13,12,27.47,4655,49.58,Right-hand bat,40,19,2,6678.1,29.56,56.6,rmf,0,WIN,seam,no,12.119183673469387,20.50938775510204
+4,2032,126,WIN,5,73,-329,D Ramdin,TG Southee,7,13,13,27.47,4655,49.58,Right-hand bat,41,19,2,6678.1,29.56,56.6,rmf,0,WIN,seam,no,12.119183673469387,20.50938775510204

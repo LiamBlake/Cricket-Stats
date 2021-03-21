@@ -1,0 +1,2 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1315,156,IND,1,98,154,CA Pujara,TA Boult,3,20,21,47.67,5410,48.46,Right-hand bat,18,5,0,9558,29.4,59.3,lfm,1,IND,seam,yes,7.791020408163266,26.294693877551023

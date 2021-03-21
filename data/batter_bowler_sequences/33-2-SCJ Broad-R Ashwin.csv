@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1367,588,ENG,8,243,-212,SCJ Broad,R Ashwin,10,1,7,21.54,4102,65.11,Left-hand bat,162,65,3,11664.1,24.64,50.4,rob,0,IND,spin,no,9.379999999999999,17.42
+2,1368,589,ENG,8,243,-212,SCJ Broad,R Ashwin,10,1,8,21.54,4102,65.11,Left-hand bat,163,65,3,11664.1,24.64,50.4,rob,0,IND,spin,no,9.379999999999999,17.42
+2,1369,590,ENG,8,243,-212,SCJ Broad,R Ashwin,10,1,9,21.54,4102,65.11,Left-hand bat,164,65,3,11664.1,24.64,50.4,rob,0,IND,spin,no,9.379999999999999,17.42
+2,1370,591,ENG,8,243,-212,SCJ Broad,R Ashwin,10,1,10,21.54,4102,65.11,Left-hand bat,165,65,3,11664.1,24.64,50.4,rob,0,IND,spin,no,9.379999999999999,17.42
+2,1371,592,ENG,8,243,-212,SCJ Broad,R Ashwin,10,1,11,21.54,4102,65.11,Left-hand bat,166,65,3,11664.1,24.64,50.4,rob,0,IND,spin,no,9.379999999999999,17.42
+2,1372,593,ENG,8,243,-212,SCJ Broad,R Ashwin,10,1,12,21.54,4102,65.11,Left-hand bat,167,65,3,11664.1,24.64,50.4,rob,1,IND,spin,no,9.379999999999999,17.42
+2,1379,600,ENG,8,251,-204,SCJ Broad,R Ashwin,10,9,17,21.54,4102,65.11,Left-hand bat,168,66,3,11664.1,24.64,50.4,rob,0,IND,spin,no,9.379999999999999,17.42
+2,1380,601,ENG,8,251,-204,SCJ Broad,R Ashwin,10,9,18,21.54,4102,65.11,Left-hand bat,169,66,3,11664.1,24.64,50.4,rob,1,IND,spin,no,9.379999999999999,17.42
+2,1391,612,ENG,8,255,-200,SCJ Broad,R Ashwin,10,13,22,21.54,4102,65.11,Left-hand bat,174,67,3,11664.1,24.64,50.4,rob,0,IND,spin,no,9.379999999999999,17.42
+2,1392,613,ENG,8,255,-200,SCJ Broad,R Ashwin,10,13,23,21.54,4102,65.11,Left-hand bat,175,67,3,11664.1,24.64,50.4,rob,0,IND,spin,no,9.379999999999999,17.42
+2,1393,614,ENG,8,255,-200,SCJ Broad,R Ashwin,10,13,24,21.54,4102,65.11,Left-hand bat,176,67,3,11664.1,24.64,50.4,rob,0,IND,spin,no,9.379999999999999,17.42
+2,1394,615,ENG,8,255,-200,SCJ Broad,R Ashwin,10,13,25,21.54,4102,65.11,Left-hand bat,177,67,3,11664.1,24.64,50.4,rob,W,IND,spin,no,9.379999999999999,17.42

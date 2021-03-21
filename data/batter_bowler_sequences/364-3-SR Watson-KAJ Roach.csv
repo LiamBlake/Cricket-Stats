@@ -1,0 +1,12 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1246,22,AUS,1,17,127,SR Watson,KAJ Roach,3,0,0,37.54,4613,50.46,Right-hand bat,10,4,1,3312.4,28.67,53.4,rfm,1nb,WIN,seam,yes,9.61625,17.85875
+3,1247,23,AUS,1,18,128,SR Watson,KAJ Roach,3,0,1,37.54,4613,50.46,Right-hand bat,11,5,1,3312.4,28.67,53.4,rfm,0,WIN,seam,yes,9.61625,17.85875
+3,1248,24,AUS,1,18,128,SR Watson,KAJ Roach,3,0,2,37.54,4613,50.46,Right-hand bat,12,5,1,3312.4,28.67,53.4,rfm,0,WIN,seam,yes,9.61625,17.85875
+3,1255,31,AUS,1,18,128,SR Watson,KAJ Roach,3,0,3,37.54,4613,50.46,Right-hand bat,13,5,1,3312.4,28.67,53.4,rfm,0,WIN,seam,yes,9.61625,17.85875
+3,1256,32,AUS,1,18,128,SR Watson,KAJ Roach,3,0,4,37.54,4613,50.46,Right-hand bat,14,5,1,3312.4,28.67,53.4,rfm,0,WIN,seam,yes,9.61625,17.85875
+3,1257,33,AUS,1,18,128,SR Watson,KAJ Roach,3,0,5,37.54,4613,50.46,Right-hand bat,15,5,1,3312.4,28.67,53.4,rfm,0,WIN,seam,yes,9.61625,17.85875
+3,1258,34,AUS,1,18,128,SR Watson,KAJ Roach,3,0,6,37.54,4613,50.46,Right-hand bat,16,5,1,3312.4,28.67,53.4,rfm,0,WIN,seam,yes,9.61625,17.85875
+3,1259,35,AUS,1,18,128,SR Watson,KAJ Roach,3,0,7,37.54,4613,50.46,Right-hand bat,17,5,1,3312.4,28.67,53.4,rfm,0,WIN,seam,yes,9.61625,17.85875
+3,1260,36,AUS,1,18,128,SR Watson,KAJ Roach,3,0,8,37.54,4613,50.46,Right-hand bat,18,5,1,3312.4,28.67,53.4,rfm,2,WIN,seam,yes,9.61625,17.85875
+3,1267,43,AUS,1,22,132,SR Watson,KAJ Roach,3,2,9,37.54,4613,50.46,Right-hand bat,19,7,1,3312.4,28.67,53.4,rfm,0,WIN,seam,yes,9.61625,17.85875
+3,1268,44,AUS,1,22,132,SR Watson,KAJ Roach,3,2,10,37.54,4613,50.46,Right-hand bat,20,7,1,3312.4,28.67,53.4,rfm,3,WIN,seam,yes,9.61625,17.85875

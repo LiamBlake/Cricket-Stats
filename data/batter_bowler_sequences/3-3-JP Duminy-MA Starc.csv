@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1406,215,RSA,2,106,-18,JP Duminy,MA Starc,4,5,26,32.86,3854,44.34,Left-hand bat,52,30,1,6228.3,27.66,48.3,lf,0,AUS,seam,yes,23.8828125,7.9609375
+3,1407,216,RSA,2,106,-18,JP Duminy,MA Starc,4,5,27,32.86,3854,44.34,Left-hand bat,53,30,1,6228.3,27.66,48.3,lf,1,AUS,seam,yes,23.8828125,7.9609375
+3,1427,236,RSA,2,110,-14,JP Duminy,MA Starc,4,9,40,32.86,3854,44.34,Left-hand bat,61,31,1,6228.3,27.66,48.3,lf,0,AUS,seam,yes,23.8828125,7.9609375
+3,1428,237,RSA,2,110,-14,JP Duminy,MA Starc,4,9,41,32.86,3854,44.34,Left-hand bat,62,31,1,6228.3,27.66,48.3,lf,0,AUS,seam,yes,23.8828125,7.9609375
+3,1429,238,RSA,2,110,-14,JP Duminy,MA Starc,4,9,42,32.86,3854,44.34,Left-hand bat,63,31,1,6228.3,27.66,48.3,lf,4,AUS,seam,yes,23.8828125,7.9609375
+3,1430,239,RSA,2,114,-10,JP Duminy,MA Starc,4,13,43,32.86,3854,44.34,Left-hand bat,64,35,1,6228.3,27.66,48.3,lf,0,AUS,seam,yes,23.8828125,7.9609375
+3,1431,240,RSA,2,114,-10,JP Duminy,MA Starc,4,13,44,32.86,3854,44.34,Left-hand bat,65,35,1,6228.3,27.66,48.3,lf,2,AUS,seam,yes,23.8828125,7.9609375
+3,1432,241,RSA,2,116,-8,JP Duminy,MA Starc,4,15,45,32.86,3854,44.34,Left-hand bat,66,37,1,6228.3,27.66,48.3,lf,0,AUS,seam,yes,23.8828125,7.9609375
+3,1439,248,RSA,2,118,-6,JP Duminy,MA Starc,4,16,48,32.86,3854,44.34,Left-hand bat,67,37,1,6228.3,27.66,48.3,lf,0,AUS,seam,yes,23.8828125,7.9609375
+3,1440,249,RSA,2,118,-6,JP Duminy,MA Starc,4,16,49,32.86,3854,44.34,Left-hand bat,68,37,1,6228.3,27.66,48.3,lf,0,AUS,seam,yes,23.8828125,7.9609375
+3,1441,250,RSA,2,118,-6,JP Duminy,MA Starc,4,16,50,32.86,3854,44.34,Left-hand bat,69,37,1,6228.3,27.66,48.3,lf,0,AUS,seam,yes,23.8828125,7.9609375
+3,1442,251,RSA,2,118,-6,JP Duminy,MA Starc,4,16,51,32.86,3854,44.34,Left-hand bat,70,37,1,6228.3,27.66,48.3,lf,0,AUS,seam,yes,23.8828125,7.9609375
+3,1443,252,RSA,2,118,-6,JP Duminy,MA Starc,4,16,52,32.86,3854,44.34,Left-hand bat,71,37,1,6228.3,27.66,48.3,lf,4,AUS,seam,yes,23.8828125,7.9609375
+3,1444,253,RSA,2,122,-2,JP Duminy,MA Starc,4,20,53,32.86,3854,44.34,Left-hand bat,72,41,1,6228.3,27.66,48.3,lf,0,AUS,seam,yes,23.8828125,7.9609375

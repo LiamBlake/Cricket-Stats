@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,1465,562,NZL,9,243,-211,MJ Henry,NM Lyon,11,0,3,18.66,293,76.45,Right-hand bat,177,65,4,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+2,1466,563,NZL,9,243,-211,MJ Henry,NM Lyon,11,0,4,18.66,293,76.45,Right-hand bat,178,65,4,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+2,1467,564,NZL,9,243,-211,MJ Henry,NM Lyon,11,0,5,18.66,293,76.45,Right-hand bat,179,65,4,24564.4,31.58,62.9,rob,1,AUS,spin,no,16.609375,15.5712890625
+2,1474,571,NZL,9,249,-205,MJ Henry,NM Lyon,11,1,11,18.66,293,76.45,Right-hand bat,180,66,4,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+2,1475,572,NZL,9,249,-205,MJ Henry,NM Lyon,11,1,12,18.66,293,76.45,Right-hand bat,181,66,4,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
+2,1476,573,NZL,9,249,-205,MJ Henry,NM Lyon,11,1,13,18.66,293,76.45,Right-hand bat,182,66,4,24564.4,31.58,62.9,rob,2,AUS,spin,no,16.609375,15.5712890625
+2,1477,574,NZL,9,251,-203,MJ Henry,NM Lyon,11,3,14,18.66,293,76.45,Right-hand bat,183,68,4,24564.4,31.58,62.9,rob,W,AUS,spin,no,16.609375,15.5712890625

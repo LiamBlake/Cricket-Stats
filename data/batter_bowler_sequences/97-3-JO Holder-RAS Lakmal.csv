@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,860,84,WIN,5,39,89,JO Holder,RAS Lakmal,7,11,15,30.12,2468,57.37,Right-hand bat,42,14,3,8922.3,41.28,78.2,rfm,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,861,85,WIN,5,39,89,JO Holder,RAS Lakmal,7,11,16,30.12,2468,57.37,Right-hand bat,43,14,3,8922.3,41.28,78.2,rfm,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,862,86,WIN,5,39,89,JO Holder,RAS Lakmal,7,11,17,30.12,2468,57.37,Right-hand bat,44,14,3,8922.3,41.28,78.2,rfm,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,863,87,WIN,5,39,89,JO Holder,RAS Lakmal,7,11,18,30.12,2468,57.37,Right-hand bat,45,14,3,8922.3,41.28,78.2,rfm,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,864,88,WIN,5,39,89,JO Holder,RAS Lakmal,7,11,19,30.12,2468,57.37,Right-hand bat,46,14,3,8922.3,41.28,78.2,rfm,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,865,89,WIN,5,39,89,JO Holder,RAS Lakmal,7,11,20,30.12,2468,57.37,Right-hand bat,47,14,3,8922.3,41.28,78.2,rfm,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,872,96,WIN,7,41,91,JO Holder,RAS Lakmal,7,11,21,30.12,2468,57.37,Right-hand bat,48,14,3,8922.3,41.28,78.2,rfm,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,873,97,WIN,7,41,91,JO Holder,RAS Lakmal,7,11,22,30.12,2468,57.37,Right-hand bat,49,14,3,8922.3,41.28,78.2,rfm,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,874,98,WIN,7,41,91,JO Holder,RAS Lakmal,7,11,23,30.12,2468,57.37,Right-hand bat,50,14,3,8922.3,41.28,78.2,rfm,1lb,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,884,108,WIN,7,47,97,JO Holder,RAS Lakmal,7,11,24,30.12,2468,57.37,Right-hand bat,54,15,3,8922.3,41.28,78.2,rfm,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,885,109,WIN,7,47,97,JO Holder,RAS Lakmal,7,11,25,30.12,2468,57.37,Right-hand bat,55,15,3,8922.3,41.28,78.2,rfm,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,886,110,WIN,7,47,97,JO Holder,RAS Lakmal,7,11,26,30.12,2468,57.37,Right-hand bat,56,15,3,8922.3,41.28,78.2,rfm,0,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,887,111,WIN,7,47,97,JO Holder,RAS Lakmal,7,11,27,30.12,2468,57.37,Right-hand bat,57,15,3,8922.3,41.28,78.2,rfm,4,WIN,seam,yes,15.609567901234568,0.91820987654321
+3,888,112,WIN,7,51,101,JO Holder,RAS Lakmal,7,15,28,30.12,2468,57.37,Right-hand bat,58,19,3,8922.3,41.28,78.2,rfm,1lb,WIN,seam,yes,15.609567901234568,0.91820987654321

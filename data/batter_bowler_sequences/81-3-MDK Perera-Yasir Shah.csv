@@ -1,0 +1,2 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1628,117,SRL,6,60,280,MDK Perera,Yasir Shah,8,0,0,21.75,1559,50.22,Right-hand bat,55,23,1,9276.1,29.44,56.2,rls,W,SRL,spin,yes,10.879999999999999,16.32

@@ -1,0 +1,13 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,334,334,AUS,0,158,158,SR Watson,Imran Farhat,1,86,174,40.54,1930,50.41,Right-hand bat,0,0,0,324.1,78.33,108.3,rls,2,AUS,spin,yes,26.181818181818183,9.818181818181818
+1,335,335,AUS,0,160,160,SR Watson,Imran Farhat,1,88,175,40.54,1930,50.41,Right-hand bat,1,2,0,324.1,78.33,108.3,rls,0,AUS,spin,yes,26.181818181818183,9.818181818181818
+1,336,336,AUS,0,160,160,SR Watson,Imran Farhat,1,88,176,40.54,1930,50.41,Right-hand bat,2,2,0,324.1,78.33,108.3,rls,0,AUS,spin,yes,26.181818181818183,9.818181818181818
+1,337,337,AUS,0,160,160,SR Watson,Imran Farhat,1,88,177,40.54,1930,50.41,Right-hand bat,3,2,0,324.1,78.33,108.3,rls,1,AUS,spin,yes,26.181818181818183,9.818181818181818
+1,339,339,AUS,0,162,162,SR Watson,Imran Farhat,1,89,178,40.54,1930,50.41,Right-hand bat,5,4,0,324.1,78.33,108.3,rls,0,AUS,spin,yes,26.181818181818183,9.818181818181818
+1,347,347,AUS,0,170,170,SR Watson,Imran Farhat,1,89,183,40.54,1930,50.41,Right-hand bat,7,5,0,324.1,78.33,108.3,rls,0,AUS,spin,yes,26.181818181818183,9.818181818181818
+1,348,348,AUS,0,170,170,SR Watson,Imran Farhat,1,89,184,40.54,1930,50.41,Right-hand bat,8,5,0,324.1,78.33,108.3,rls,1,AUS,spin,yes,26.181818181818183,9.818181818181818
+1,351,351,AUS,0,174,174,SR Watson,Imran Farhat,1,90,185,40.54,1930,50.41,Right-hand bat,11,9,0,324.1,78.33,108.3,rls,0,AUS,spin,yes,26.181818181818183,9.818181818181818
+1,359,359,AUS,0,178,178,SR Watson,Imran Farhat,1,90,187,40.54,1930,50.41,Right-hand bat,13,10,0,324.1,78.33,108.3,rls,1,AUS,spin,yes,26.181818181818183,9.818181818181818
+1,361,361,AUS,0,180,180,SR Watson,Imran Farhat,1,91,188,40.54,1930,50.41,Right-hand bat,15,11,0,324.1,78.33,108.3,rls,0,AUS,spin,yes,26.181818181818183,9.818181818181818
+1,362,362,AUS,0,180,180,SR Watson,Imran Farhat,1,91,189,40.54,1930,50.41,Right-hand bat,16,11,0,324.1,78.33,108.3,rls,0,AUS,spin,yes,26.181818181818183,9.818181818181818
+1,363,363,AUS,0,180,180,SR Watson,Imran Farhat,1,91,190,40.54,1930,50.41,Right-hand bat,17,11,0,324.1,78.33,108.3,rls,2,AUS,spin,yes,26.181818181818183,9.818181818181818

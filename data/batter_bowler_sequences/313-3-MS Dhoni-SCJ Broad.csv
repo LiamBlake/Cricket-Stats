@@ -1,0 +1,5 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1848,329,IND,9,240,-246,MS Dhoni,SCJ Broad,7,70,75,38.81,5364,60.06,Right-hand bat,70,24,2,8064.5,32.26,63,rfm,0,ENG,seam,no,32.318244170096015,11.311385459533607
+3,1849,330,IND,9,240,-246,MS Dhoni,SCJ Broad,7,70,76,38.81,5364,60.06,Right-hand bat,71,24,2,8064.5,32.26,63,rfm,0,ENG,seam,no,32.318244170096015,11.311385459533607
+3,1850,331,IND,9,240,-246,MS Dhoni,SCJ Broad,7,70,77,38.81,5364,60.06,Right-hand bat,72,24,2,8064.5,32.26,63,rfm,0,ENG,seam,no,32.318244170096015,11.311385459533607
+3,1851,332,IND,9,240,-246,MS Dhoni,SCJ Broad,7,70,78,38.81,5364,60.06,Right-hand bat,73,24,2,8064.5,32.26,63,rfm,4,ENG,seam,no,32.318244170096015,11.311385459533607

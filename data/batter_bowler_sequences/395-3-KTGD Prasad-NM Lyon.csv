@@ -1,0 +1,8 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,1208,127,SRL,6,80,-224,KTGD Prasad,NM Lyon,7,2,10,19.84,425,60.7,Right-hand bat,0,0,0,3870.3,30.96,65.6,rob,1,AUS,spin,yes,18.374444444444446,3.9944444444444445
+3,1211,130,SRL,6,82,-222,KTGD Prasad,NM Lyon,7,3,11,19.84,425,60.7,Right-hand bat,3,2,0,3870.3,30.96,65.6,rob,0,AUS,spin,yes,18.374444444444446,3.9944444444444445
+3,1212,131,SRL,6,82,-222,KTGD Prasad,NM Lyon,7,3,12,19.84,425,60.7,Right-hand bat,4,2,0,3870.3,30.96,65.6,rob,2,AUS,spin,yes,18.374444444444446,3.9944444444444445
+3,1213,132,SRL,6,84,-220,KTGD Prasad,NM Lyon,7,5,13,19.84,425,60.7,Right-hand bat,5,4,0,3870.3,30.96,65.6,rob,0,AUS,spin,yes,18.374444444444446,3.9944444444444445
+3,1220,139,SRL,6,90,-214,KTGD Prasad,NM Lyon,7,5,14,19.84,425,60.7,Right-hand bat,6,4,0,3870.3,30.96,65.6,rob,6,AUS,spin,yes,18.374444444444446,3.9944444444444445
+3,1221,140,SRL,6,96,-208,KTGD Prasad,NM Lyon,7,11,15,19.84,425,60.7,Right-hand bat,7,10,0,3870.3,30.96,65.6,rob,6,AUS,spin,yes,18.374444444444446,3.9944444444444445
+3,1222,141,SRL,6,102,-202,KTGD Prasad,NM Lyon,7,17,16,19.84,425,60.7,Right-hand bat,8,16,0,3870.3,30.96,65.6,rob,W,AUS,spin,yes,18.374444444444446,3.9944444444444445

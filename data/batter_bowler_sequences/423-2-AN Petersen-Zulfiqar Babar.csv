@@ -1,0 +1,6 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,281,61,RSA,0,37,-62,AN Petersen,Zulfiqar Babar,1,26,31,37.15,3207,50.98,Right-hand bat,0,0,0,492.2,44,82.3,lo,0,PAK,spin,no,10.466666666666667,19.886666666666667
+2,282,62,RSA,0,37,-62,AN Petersen,Zulfiqar Babar,1,26,32,37.15,3207,50.98,Right-hand bat,1,0,0,492.2,44,82.3,lo,0,PAK,spin,no,10.466666666666667,19.886666666666667
+2,283,63,RSA,0,37,-62,AN Petersen,Zulfiqar Babar,1,26,33,37.15,3207,50.98,Right-hand bat,2,0,0,492.2,44,82.3,lo,0,PAK,spin,no,10.466666666666667,19.886666666666667
+2,284,64,RSA,0,37,-62,AN Petersen,Zulfiqar Babar,1,26,34,37.15,3207,50.98,Right-hand bat,3,0,0,492.2,44,82.3,lo,0,PAK,spin,no,10.466666666666667,19.886666666666667
+2,285,65,RSA,0,37,-62,AN Petersen,Zulfiqar Babar,1,26,35,37.15,3207,50.98,Right-hand bat,4,0,0,492.2,44,82.3,lo,W,PAK,spin,no,10.466666666666667,19.886666666666667

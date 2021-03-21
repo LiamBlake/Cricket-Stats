@@ -1,0 +1,11 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+2,696,240,ENG,5,126,-142,MJ Prior,BW Hilfenhaus,7,4,21,40.52,3107,62.6,Right-hand bat,83,34,0,3324.4,34.04,66.5,rfm,0,AUS,seam,yes,21.06625,1.1087500000000001
+2,697,241,ENG,5,126,-142,MJ Prior,BW Hilfenhaus,7,4,22,40.52,3107,62.6,Right-hand bat,84,34,0,3324.4,34.04,66.5,rfm,0,AUS,seam,yes,21.06625,1.1087500000000001
+2,708,252,ENG,5,128,-140,MJ Prior,BW Hilfenhaus,7,4,25,40.52,3107,62.6,Right-hand bat,89,35,0,3324.4,34.04,66.5,rfm,0,AUS,seam,yes,21.06625,1.1087500000000001
+2,709,253,ENG,5,128,-140,MJ Prior,BW Hilfenhaus,7,4,26,40.52,3107,62.6,Right-hand bat,90,35,0,3324.4,34.04,66.5,rfm,2,AUS,seam,yes,21.06625,1.1087500000000001
+2,716,260,ENG,5,134,-134,MJ Prior,BW Hilfenhaus,7,6,27,40.52,3107,62.6,Right-hand bat,91,37,0,3324.4,34.04,66.5,rfm,0,AUS,seam,yes,21.06625,1.1087500000000001
+2,717,261,ENG,5,134,-134,MJ Prior,BW Hilfenhaus,7,6,28,40.52,3107,62.6,Right-hand bat,92,37,0,3324.4,34.04,66.5,rfm,4,AUS,seam,yes,21.06625,1.1087500000000001
+2,718,262,ENG,5,138,-130,MJ Prior,BW Hilfenhaus,7,10,29,40.52,3107,62.6,Right-hand bat,93,41,0,3324.4,34.04,66.5,rfm,0,AUS,seam,yes,21.06625,1.1087500000000001
+2,719,263,ENG,5,138,-130,MJ Prior,BW Hilfenhaus,7,10,30,40.52,3107,62.6,Right-hand bat,94,41,0,3324.4,34.04,66.5,rfm,2,AUS,seam,yes,21.06625,1.1087500000000001
+2,720,264,ENG,5,140,-128,MJ Prior,BW Hilfenhaus,7,12,31,40.52,3107,62.6,Right-hand bat,95,43,0,3324.4,34.04,66.5,rfm,0,AUS,seam,yes,21.06625,1.1087500000000001
+2,721,265,ENG,5,140,-128,MJ Prior,BW Hilfenhaus,7,12,32,40.52,3107,62.6,Right-hand bat,96,43,0,3324.4,34.04,66.5,rfm,0,AUS,seam,yes,21.06625,1.1087500000000001

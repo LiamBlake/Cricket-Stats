@@ -1,0 +1,10 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+3,2004,769,WIN,9,340,185,FH Edwards,GP Swann,10,5,26,6.64,1392,28.16,Right-hand bat,102,54,2,10536.4,28.11,56.9,rob,2,ENG,spin,no,28.873469387755097,4.812244897959183
+3,2005,770,WIN,9,342,187,FH Edwards,GP Swann,10,7,27,6.64,1392,28.16,Right-hand bat,103,56,2,10536.4,28.11,56.9,rob,0,ENG,spin,no,28.873469387755097,4.812244897959183
+3,2006,771,WIN,9,342,187,FH Edwards,GP Swann,10,7,28,6.64,1392,28.16,Right-hand bat,104,56,2,10536.4,28.11,56.9,rob,0,ENG,spin,no,28.873469387755097,4.812244897959183
+3,2007,772,WIN,9,342,187,FH Edwards,GP Swann,10,7,29,6.64,1392,28.16,Right-hand bat,105,56,2,10536.4,28.11,56.9,rob,2,ENG,spin,no,28.873469387755097,4.812244897959183
+3,2008,773,WIN,9,344,189,FH Edwards,GP Swann,10,9,30,6.64,1392,28.16,Right-hand bat,106,58,2,10536.4,28.11,56.9,rob,0,ENG,spin,no,28.873469387755097,4.812244897959183
+3,2009,774,WIN,9,344,189,FH Edwards,GP Swann,10,9,31,6.64,1392,28.16,Right-hand bat,107,58,2,10536.4,28.11,56.9,rob,0,ENG,spin,no,28.873469387755097,4.812244897959183
+3,2016,781,WIN,9,344,189,FH Edwards,GP Swann,10,9,32,6.64,1392,28.16,Right-hand bat,108,58,2,10536.4,28.11,56.9,rob,0,ENG,spin,no,28.873469387755097,4.812244897959183
+3,2017,782,WIN,9,344,189,FH Edwards,GP Swann,10,9,33,6.64,1392,28.16,Right-hand bat,109,58,2,10536.4,28.11,56.9,rob,0,ENG,spin,no,28.873469387755097,4.812244897959183
+3,2018,783,WIN,9,344,189,FH Edwards,GP Swann,10,9,34,6.64,1392,28.16,Right-hand bat,110,58,2,10536.4,28.11,56.9,rob,1,ENG,spin,no,28.873469387755097,4.812244897959183

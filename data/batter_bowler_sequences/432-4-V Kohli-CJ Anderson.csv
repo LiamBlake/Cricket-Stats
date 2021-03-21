@@ -1,0 +1,7 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+4,1621,267,IND,2,131,-275,V Kohli,CJ Anderson,4,22,46,43.83,3189,49.48,Right-hand bat,19,8,0,600,24,54.5,lmf,0,NZL,seam,yes,27.93,1.47
+4,1622,268,IND,2,131,-275,V Kohli,CJ Anderson,4,22,47,43.83,3189,49.48,Right-hand bat,20,8,0,600,24,54.5,lmf,0,NZL,seam,yes,27.93,1.47
+4,1623,269,IND,2,131,-275,V Kohli,CJ Anderson,4,22,48,43.83,3189,49.48,Right-hand bat,21,8,0,600,24,54.5,lmf,0,NZL,seam,yes,27.93,1.47
+4,1624,270,IND,2,131,-275,V Kohli,CJ Anderson,4,22,49,43.83,3189,49.48,Right-hand bat,22,8,0,600,24,54.5,lmf,4,NZL,seam,yes,27.93,1.47
+4,1625,271,IND,2,135,-271,V Kohli,CJ Anderson,4,26,50,43.83,3189,49.48,Right-hand bat,23,12,0,600,24,54.5,lmf,0,NZL,seam,yes,27.93,1.47
+4,1626,272,IND,2,135,-271,V Kohli,CJ Anderson,4,26,51,43.83,3189,49.48,Right-hand bat,24,12,0,600,24,54.5,lmf,1,NZL,seam,yes,27.93,1.47

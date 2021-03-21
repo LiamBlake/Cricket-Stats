@@ -1,0 +1,15 @@
+innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
+1,266,266,IND,3,125,125,AM Rahane,LE Plunkett,5,12,36,43.5,825,52.72,Right-hand bat,44,24,0,2436.1,38.37,65.8,rf,0,ENG,seam,yes,39.952437574316285,6.3923900118906065
+1,267,267,IND,3,125,125,AM Rahane,LE Plunkett,5,12,37,43.5,825,52.72,Right-hand bat,45,24,0,2436.1,38.37,65.8,rf,0,ENG,seam,yes,39.952437574316285,6.3923900118906065
+1,268,268,IND,3,125,125,AM Rahane,LE Plunkett,5,12,38,43.5,825,52.72,Right-hand bat,46,24,0,2436.1,38.37,65.8,rf,0,ENG,seam,yes,39.952437574316285,6.3923900118906065
+1,269,269,IND,3,125,125,AM Rahane,LE Plunkett,5,12,39,43.5,825,52.72,Right-hand bat,47,24,0,2436.1,38.37,65.8,rf,0,ENG,seam,yes,39.952437574316285,6.3923900118906065
+1,288,288,IND,3,133,133,AM Rahane,LE Plunkett,5,13,48,43.5,825,52.72,Right-hand bat,54,30,0,2436.1,38.37,65.8,rf,1,ENG,seam,yes,39.952437574316285,6.3923900118906065
+1,330,330,IND,3,166,166,AM Rahane,LE Plunkett,5,24,65,43.5,825,52.72,Right-hand bat,66,40,0,2436.1,38.37,65.8,rf,0,ENG,seam,yes,39.952437574316285,6.3923900118906065
+1,331,331,IND,3,166,166,AM Rahane,LE Plunkett,5,24,66,43.5,825,52.72,Right-hand bat,67,40,0,2436.1,38.37,65.8,rf,0,ENG,seam,yes,39.952437574316285,6.3923900118906065
+1,332,332,IND,3,166,166,AM Rahane,LE Plunkett,5,24,67,43.5,825,52.72,Right-hand bat,68,40,0,2436.1,38.37,65.8,rf,0,ENG,seam,yes,39.952437574316285,6.3923900118906065
+1,333,333,IND,3,166,166,AM Rahane,LE Plunkett,5,24,68,43.5,825,52.72,Right-hand bat,69,40,0,2436.1,38.37,65.8,rf,0,ENG,seam,yes,39.952437574316285,6.3923900118906065
+1,334,334,IND,3,166,166,AM Rahane,LE Plunkett,5,24,69,43.5,825,52.72,Right-hand bat,70,40,0,2436.1,38.37,65.8,rf,1,ENG,seam,yes,39.952437574316285,6.3923900118906065
+1,356,356,IND,3,178,178,AM Rahane,LE Plunkett,5,32,77,43.5,825,52.72,Right-hand bat,80,42,0,2436.1,38.37,65.8,rf,0,ENG,seam,yes,39.952437574316285,6.3923900118906065
+1,357,357,IND,3,178,178,AM Rahane,LE Plunkett,5,32,78,43.5,825,52.72,Right-hand bat,81,42,0,2436.1,38.37,65.8,rf,0,ENG,seam,yes,39.952437574316285,6.3923900118906065
+1,358,358,IND,3,178,178,AM Rahane,LE Plunkett,5,32,79,43.5,825,52.72,Right-hand bat,82,42,0,2436.1,38.37,65.8,rf,0,ENG,seam,yes,39.952437574316285,6.3923900118906065
+1,359,359,IND,3,178,178,AM Rahane,LE Plunkett,5,32,80,43.5,825,52.72,Right-hand bat,83,42,0,2436.1,38.37,65.8,rf,W,ENG,seam,yes,39.952437574316285,6.3923900118906065
