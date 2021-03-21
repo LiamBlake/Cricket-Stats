@@ -101,7 +101,7 @@ ggplot(aes(sample = last_score), data = fo_logis) + geom_qq()
 nl_fo <- fo %>% mutate(lead = -lead)
 wf_final <- workflow() %>% 
   add_recipe(
-    recipe(follow_on ~ lead + match_balls + last_score, data = nl_fo) %>%
+    recipe(follow_on ~ lead, data = nl_fo) %>%
       step_BoxCox(all_predictors()) %>% 
       step_normalize(all_predictors())
   ) %>%
@@ -127,14 +127,30 @@ fo_logis <- final_recp %>% bake(new_data = nl_fo) %>%
   mutate(logit = log(.pred_yes/(1-.pred_yes)))
 
 # Linearity
-ggplot(aes(match_balls_poly_2, logit), data = fo_logis) + geom_point()  +
+ggplot(aes(match_balls, logit), data = fo_logis) + geom_point()  +
   geom_smooth(method = "loess")
 
 ggplot(aes(lead, logit), data = fo_logis) + geom_point()  +
+  geom_smooth(method = "loess")
+
+ggplot(aes(last_score, logit), data = fo_logis) + geom_point()  +
   geom_smooth(method = "loess")
 
 
 # Normality
 ggplot(aes(sample = match_balls), data = fo_logis) + geom_qq() 
 
-ggplot(aes(sample = lead), data = fo_logis
+ggplot(aes(sample = lead), data = fo_logis) + geom_qq() 
+
+ggplot(aes(sample = last_score), data = fo_logis) + geom_qq() 
+
+
+# Residuals
+ggplot(aes(x = logit, y = final_fit$fit$fit$fit$residuals), data = fo_logis) + geom_point()
+ggplot(aes(sample = final_fit$fit$fit$fit$residuals), data = fo_logis) + geom_qq()
+
+
+# So we will use the logistic regression fit. Assumptions are a bit dodgy, but 75% accuracy is pretty decent for now
+tidy(final_fit)
+# transformations
+tidy(final_recp, n = 1)
