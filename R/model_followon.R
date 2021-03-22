@@ -102,8 +102,8 @@ nl_fo <- fo %>% mutate(lead = -lead)
 wf_final <- workflow() %>% 
   add_recipe(
     recipe(follow_on ~ lead, data = nl_fo) %>%
-      step_BoxCox(all_predictors()) %>% 
-      step_normalize(all_predictors())
+      step_BoxCox(all_predictors()) #%>% 
+      #step_normalize(all_predictors())
   ) %>%
   add_model(
     logistic_reg() %>%
