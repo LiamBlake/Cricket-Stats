@@ -3,7 +3,7 @@
 pacman::p_load(tidymodels, visNetwork, sparkline, vip)
 
 # Load data
-dec <- readRDS("declarations.rds") %>% mutate(is_dec = as.factor(is_dec), innings = as.factor(innings))
+dec <- readRDS("../data/rds/declarations.rds") %>% mutate(is_dec = as.factor(is_dec), innings = as.factor(innings))
 
 # Ignore impossible declarations
 dec <- dec %>% filter(!(lead <= -200 & innings == 2) & !(lead < 0 & innings == 3))
@@ -25,14 +25,16 @@ test <- testing(split)
 # Create a balanced dataset
 train_bal <- bind_rows(train %>% filter(is_dec == "yes"), sample_n(train %>% filter(is_dec == "no"), size = 5*nrow(train %>% filter(is_dec == "yes"))))
 
+
+
 balanced <- function(df, cond, factor = 1) {
   return()
 }
 
 
 # Decision tree
-tree_fit <- decision_tree(mode = "classification") %>% set_engine("rpart") %>%
-  fit(is_dec ~ ., data = train_bal)
+tree_fit <- decision_tree(mode = "classification", tree_depth = 5) %>% set_engine("rpart") %>%
+  fit(is_dec ~ innings + match_balls + lead+ bat_score + is_wkt, data = train_bal)
 visTree(tree_fit$fit)
 
 vip(tree_fit)
@@ -44,18 +46,20 @@ tree_test %>% roc_auc(truth = is_dec, estimte = .pred_yes, event_level = "second
 
 
 # Logistic regression
-log_wf <- workflow()%>%
-  add_recipe(recipe(is_dec ~ ., data = train_bal %>% mutate(bat_score_int = bat_score)) %>%
-                    step_rm(outcome, wkts) %>%
+log_wf <- workflow() %>%
+  add_recipe(recipe(is_dec ~ ., data = train_bal) %>%
+                    step_rm(outcome) %>%
                     step_naomit(all_predictors()) %>%
                     step_BoxCox(all_numeric(), -lead) %>%
-                    step_cut(bat_score, breaks = c(39,50,89,100,139,150,189,200,239,250)) %>%
-                    step_normalize(all_numeric()) %>%
-                    step_dummy(is_wkt, bat_score) %>%
-               step_interact(terms = ~ starts_with("bat_score_"):bat_score_int)) %>%
+                    #step_cut(bat_score, breaks = c(39,50,89,100,139,150,189,200,239,250)) %>%
+                    step_dummy(is_wkt, wkts, innings) %>%
+                    #step_log(bat_score, offset = 1) %>%     
+                    step_normalize(all_numeric())) %>%
+               #step_interact(terms = ~ starts_with("bat_score_"):bat_score_int) %>%
+               #step_corr(all_numeric())) %>%
                 add_model(logistic_reg() %>% set_engine("glm"))
-log_fit <- log_wf %>% fit(data = train_bal %>% mutate(bat_score_int = bat_score))
-tidy(log_fit)
+log_fit <- log_wf %>% fit(data = train_bal)
+log_coeff <- tidy(log_fit)
 
 # Evaluate on test set
 log_test <- test %>% add_column(log_fit %>% predict(new_data = test %>% mutate(bat_score_int = bat_score), type = "prob"))
@@ -77,6 +81,8 @@ ggplot(aes(lead, logit), data = dec_log) + geom_point()  +
 
 ggplot(aes(bat_score, logit), data = dec_log) + geom_point()  +
   geom_smooth(method = "loess")
+
+
 
 
 prepped <- log_fit %>% pull_workflow_prepped_recipe() %>% bake(train_bal)
