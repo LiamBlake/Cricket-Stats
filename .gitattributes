@@ -65,3 +65,4 @@
 
 *.py linguist-language=python
 *.ipynb linguist-language=python
+*.rmd linguist-language=R
