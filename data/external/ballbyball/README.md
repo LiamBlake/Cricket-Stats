@@ -1,0 +1,1 @@
+This raw ball-by-ball data is taken from [Cricsheet](https://cricsheet.org/) and combined with other data taken from ESPNCricinfo.
