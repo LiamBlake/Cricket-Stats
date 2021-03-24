@@ -33,17 +33,39 @@ balanced <- function(df, cond, factor = 1) {
 
 
 # Decision tree
-tree_fit <- decision_tree(mode = "classification", tree_depth = 5) %>% set_engine("rpart") %>%
-  fit(is_dec ~ innings + match_balls + lead+ bat_score + is_wkt, data = train_bal)
+wf_tree <- workflow() %>% 
+  add_recipe(
+    recipe(is_dec ~ innings + match_balls + lead + bat_score + is_wkt, data = train_bal)
+    ) %>%
+  add_model(
+    decision_tree(mode = "classification", tree_depth = tune(), min_n = 5) %>% 
+      set_engine("rpart"))
+
+tune_grid <- grid_regular(tree_depth(), levels = 30)
+dec_folds <- vfold_cv(train_bal)
+
+# Tune tree depth
+tree_res <- wf_tree %>% 
+  tune_grid(
+    resamples = dec_folds,
+    grid = tune_grid
+  )
+
+tree_res %>% collect_metrics()
+
+
+final_tree <- wf_tree %>% finalize_workflow(tree_res %>% select_best("accuracy")) %>% fit(data = train_bal)
+tree_fit <- final_tree %>% pull_workflow_fit()
+
 visTree(tree_fit$fit)
 
 vip(tree_fit)
 
 # Evaluate on test set
-tree_test <- test %>% add_column(tree_fit %>% predict(new_data = test, type = "prob"))
-tree_test %>% roc_curve(truth = is_dec, estimte = .pred_yes, event_level = "second") %>% autoplot()
-tree_test %>% roc_auc(truth = is_dec, estimte = .pred_yes, event_level = "second") 
-
+tree_test <- test %>% add_column(tree_fit %>% predict(new_data = test, type = "prob")) %>% add_column(tree_fit %>% predict(new_data = test))
+tree_test %>% roc_curve(truth = is_dec, estimate = .pred_yes, event_level = "second") %>% autoplot()
+tree_test %>% roc_auc(truth = is_dec, estimate = .pred_yes, event_level = "second") 
+tree_test %>% accuracy(truth = is_dec, estimate = .pred_class, event_level = "second")
 
 # Logistic regression
 log_wf <- workflow() %>%
@@ -94,3 +116,16 @@ ggplot(aes(sample = match_balls), data = prepped) + geom_qq()
 ggplot(aes(sample = lead), data = prepped) + geom_qq() 
 
 ggplot(aes(sample = bat_score), data = prepped) + geom_qq()
+
+
+
+# So these models are problematic because the data is highly correlated
+train_bal %>% ggplot(aes(x = match_balls, y = lead, colour = is_dec)) + geom_point()
+train_bal %>% ggplot(aes(x = bat_score, y = lead, colour = is_dec)) + geom_point()
+
+
+# Remove innings which were not declared
+nodec <- dec %>% group_by(game_id) %>% 
+
+dec %>% group_by(game_id) %>% summarise(n = n()) %>%
+  ggplot(aes(x = n)) + geom_histogram()
