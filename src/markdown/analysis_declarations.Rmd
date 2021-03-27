@@ -1,6 +1,8 @@
 ---
 title: "Declaration Timing Analysis"
 output: html_document
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../../output/notebooks") })
 ---
 
 ```{r setup, echo=false}
@@ -8,7 +10,7 @@ output: html_document
 pacman::p_load(tidymodels, visNetwork, sparkline, vip, survival, survminer, ggfortify)
 
 # Load data
-dec <- readRDS("../data/rds/declarations.rds") %>% mutate(is_dec = as.factor(is_dec), innings = as.factor(innings))
+dec <- readRDS("../../data/processed/declarations.rds") %>% mutate(is_dec = as.factor(is_dec), innings = as.factor(innings))
 
 # Ignore impossible declarations
 dec <- dec %>% filter(!(lead <= -200 & innings == 2) & !(lead < 0 & innings == 3))
@@ -33,6 +35,13 @@ dec %>% filter(is_dec == "yes") %>%
   ggplot(aes(x = lead, y = inns_balls, color = innings)) + geom_point()
 ```
 
+
+
+```{r}
+dec %>% group_by(lead) %>% summarize(p = sum(is_dec == "yes")/n()) %>%
+  filter(p != 0) %>%
+  ggplot(aes(x = lead, y = 1 - p)) + geom_point() + geom_smooth()
+```
 
 
 
@@ -132,24 +141,23 @@ ggplot(aes(bat_score, logit), data = dec_log) + geom_point()  +
 ## Cox Model
 
 ```{r}
-edec <- dec %>% mutate(is_dec= abs(as.numeric(is_dec) - 1))
+edec <- dec %>% mutate(is_dec= as.numeric(is_dec) - 1)
 cm <- coxph(Surv(lead, is_dec) ~ is_wkt + match_balls + innings, data = edec)
-tidy(cm)
+summary(cm)
 ```
 
 
 ```{r}
-ggsurvplot(survfit(cm), data = edec)
+autoplot(survfit(cm))
 ```
 
 
 ```{r}
 test.ph <- cox.zph(cm)
-test.ph
-ggcoxzph(test.ph)
+plot(test.ph[1])
 ```
 
-
+### Evaluate on test
 
 
 # (Prior) Prediction
