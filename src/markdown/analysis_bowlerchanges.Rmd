@@ -9,7 +9,7 @@ knit: (function(inputFile, encoding) {
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-pacman::p_load(tidyverse, tidymodels)
+pacman::p_load(tidyverse, tidymodels, ranger)
 
 # Load data
 changes <- readRDS("../../data/processed/bowler_changes.rds")
@@ -22,7 +22,7 @@ changes <- readRDS("../../data/processed/bowler_changes.rds")
 ```{r}
 changes <- changes %>% mutate(bowl_class = as.factor(ifelse(bowl_type %in% c("lc", "lo", "rls", "rob"), "spin", "seam"))) %>%
   mutate(old_bowl_class = as.factor(ifelse(old_bowl_type %in% c("lc", "lo", "rls", "rob"), "spin", "seam")))  %>%
-  mutate(bowl_class = as.factor(ifelse(old_bowl_avg > 40, "parttime", bowl_class)))  %>%
+  mutate(bowl_class = as.factor(ifelse(bowl_avg > 40, "parttime", bowl_class)))  %>%
   mutate(old_bowl_class = as.factor(ifelse(old_bowl_avg > 40, "parttime", old_bowl_class))) %>%
   na.omit(bowl_class, old_bowl_class)
 
@@ -42,3 +42,35 @@ tree_fit <- decision_tree(mode = "classification") %>% set_engine("rpart") %>%
   fit(bowl_class ~ ., data = changes %>% select(-c(bowl_type, old_bowl_type, bowler, old_bowler, bowl_avg, bowl_sr, old_bowl_avg, old_bowl_sr)))
 visNetwork::visTree(tree_fit$fit)
 ```
+
+
+
+
+# Random Forest fit
+First, let's split the data into a testing and training set, with an approximately 75%/25% split.
+```{r}
+split <- initial_split(changes, strata = bowl_class)
+train <- training(split)
+test <- testing(split)
+```
+
+
+We fit a random forest on the training set, using all predictors. 
+```{r}
+bowl_rf <- rand_forest(mode = "classification") %>%
+  set_engine("ranger", importance = "permutation") %>%
+  fit(bowl_class ~ ., data = train)
+bowl_rf
+```
+
+Assess quality of fit on the test set.
+```{r}
+rf_test <- test %>% add_column(bowl_rf %>% predict(new_data = test), type = "prob")
+```
+
+
+Variable importance.
+```{r}
+vip::vip(bowl_rf)
+```
+
