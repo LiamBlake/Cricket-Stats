@@ -25,7 +25,6 @@ def get_profile_data(url):
     search = soup.find_all('h1')
     name = search[1].text
     name = name.rstrip()    # Remove whitespace
-   
 
     # Getting batting hand, bowl type
     search = soup.find_all('p', class_='ciPlayerinformationtxt')
@@ -65,7 +64,7 @@ def scrape_statsguru(format):
     elif format == "modi":
         class_ = 2
     elif format == "mt20":
-        class_ = 3      
+        class_ = 3
     elif format == "wtest":
         class_ = 8
     elif format == "wodi":
@@ -74,7 +73,6 @@ def scrape_statsguru(format):
         class_ = 10
     else:
         raise KeyError
-
 
     # Directory for saving data
     DIR = path.dirname(path.realpath(__file__))
@@ -86,22 +84,21 @@ def scrape_statsguru(format):
             'careerBalls', 'bowlAvg', 'bowlEcon', 'bowlSR', 'batHand', 'bowlType']
 
     # Delete output file to allow for appending
-    if (path.isfile(FILEPATH)): remove(FILEPATH)
-
+    if (path.isfile(FILEPATH)):
+        remove(FILEPATH)
 
     # Start scraping process
     print('Starting scraping procedure...')
 
     # Determine number of pages
-    url = 'https://stats.espncricinfo.com/ci/engine/stats/index.html?class=' + str(class_) + ';orderby=player;page=1;size=200;spanmax1=31+Dec+2100;spanmin1=01+Jan+2001;spanval1=span;template=results;type=batting'
+    url = 'https://stats.espncricinfo.com/ci/engine/stats/index.html?class=' + \
+        str(class_) + ';orderby=player;page=1;size=200;spanmax1=31+Dec+2100;spanmin1=01+Jan+2001;spanval1=span;template=results;type=batting'
     page = get(url)
-    strainer = SoupStrainer('td', class_ = 'left')
+    strainer = SoupStrainer('td', class_='left')
     soup = BeautifulSoup(page.content, 'html.parser', parse_only=strainer)
 
-    page_str = soup.find_all('td', class_ = 'left')[3].text
+    page_str = soup.find_all('td', class_='left')[3].text
     pages = int(page_str.split(' ')[-1])
-
-
 
     for p in range(1, pages + 1):
         print('Scraping page ' + str(p) + ' of ' + str(pages) + '...')
@@ -111,22 +108,26 @@ def scrape_statsguru(format):
 
         # Batting stats
         if p > 1:
-            url = 'https://stats.espncricinfo.com/ci/engine/stats/index.html?class=' + str(class_) + ';orderby=player;page=' + str(p) + ';size=200;spanmax1=31+Dec+2100;spanmin1=01+Jan+2001;spanval1=span;template=results;type=batting'
+            url = 'https://stats.espncricinfo.com/ci/engine/stats/index.html?class=' + str(class_) + ';orderby=player;page=' + str(
+                p) + ';size=200;spanmax1=31+Dec+2100;spanmin1=01+Jan+2001;spanval1=span;template=results;type=batting'
             page = get(url)
 
         strainer = SoupStrainer('tr')
-        bat_soup = BeautifulSoup(page.content, 'html.parser', parse_only=strainer)
-
+        bat_soup = BeautifulSoup(
+            page.content, 'html.parser', parse_only=strainer)
 
         # Bowling stats
-        url = 'https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;orderby=player;page=' + str(p) + ';size=200;spanmax1=31+Dec+2100;spanmin1=01+Jan+2001;spanval1=span;template=results;type=bowling'
+        url = 'https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;orderby=player;page=' + \
+            str(p) + ';size=200;spanmax1=31+Dec+2100;spanmin1=01+Jan+2001;spanval1=span;template=results;type=bowling'
         page = get(url)
-        bowl_soup = BeautifulSoup(page.content, 'html.parser', parse_only=strainer)
+        bowl_soup = BeautifulSoup(
+            page.content, 'html.parser', parse_only=strainer)
 
         for (bat, bowl) in zip(bat_soup.find_all('tr', class_='data1'), bowl_soup.find_all('tr', class_='data1')):
             try:
                 profile_url = bat.find('a', class_='data-link')['href']
-                name, hand, bType = get_profile_data('https://espncricinfo.com' + profile_url)
+                name, hand, bType = get_profile_data(
+                    'https://espncricinfo.com' + profile_url)
 
                 data = [name]
 

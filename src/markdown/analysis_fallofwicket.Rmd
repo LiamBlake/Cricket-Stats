@@ -213,10 +213,12 @@ bbb %>% group_by(bat_balls) %>% summarize(p = sum(is_wkt == "W")/n()) %>%
 
 ## Exponential GLM
 ```{r}
-form_exp <- is_wkt ~ bat_avg + bowl_avg + bat_sr
-recp_exp <- recipe(form_exp, data = train) %>%
+form_exp <- bat_balls ~ bat_avg + bowl_avg + bat_sr
+recp_exp <- recipe(form_exp, data = train %>% filter(is_wkt == "W")) %>%
+  step_naomit(everything()) %>%
   step_normalize(all_numeric()) %>%
-  step_mutate(is_wkt = as.numeric(is_wkt)) %>%
+  step_mutate(bat_balls = bat_balls + 1)%>%
+  #step_mutate(is_wkt = as.numeric(is_wkt) - 1) %>%
   prep(data = train)
 
 
@@ -228,9 +230,9 @@ summary(fit_exp, dispersion = 1)
 ### Evaluate on testing set
 
 ```{r}
-prep_test_exp <- recp_exp %>% bake(new_data = test)
+prep_test_exp <- recp_exp %>% bake(new_data = test %>% filter(is_wkt == "W"))
 
-test_exp <- prep_test_exp %>% add_column(fit_exp %>% predict(new_data = prep_test_exp, type = "response", dispersion = 1))
+test_exp <- prep_test_exp %>% add_column(rate = fit_exp %>% predict(newdata = prep_test_exp, type = "terms", dispersion = 1))
 test_exp %>% roc_curve(truth = is_wkt, estimate = .pred_W, event_level = "second") %>% autoplot()
 test_exp %>% roc_auc(truth = is_wkt, estimte = .pred_W, event_level = "second") 
 ```
