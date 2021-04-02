@@ -30,6 +30,7 @@ bbb <- bbb %>% mutate(rsum = seam_factor + spin_factor) %>% mutate(seam_factor =
 
 
 
+
 # Exploratory Data Analysis
 
 ```{r}
@@ -52,15 +53,21 @@ wkt_only %>% ggplot(aes(bat_balls)) + geom_histogram(binwidth = 2)
 
 
 
-
-
-
 ## Bivariate Scatterplots
 
 ```{r}
 wkt_only %>% ggplot(aes(x = bat_avg, y = bowl_avg)) + geom_point()
 
 ```
+
+
+
+## By categorical variables
+
+```{r}
+wkt_only %>% ggplot(aes(x = bat_position))
+```
+
 
 
 # Training/Testing split
@@ -79,6 +86,9 @@ Wickets are relatively rare in the full dataset, so let's create a balanced trai
 train_bal <- bind_rows(train %>% filter(is_wkt == "W"), sample_n(train %>% filter(is_wkt == "no"), size = 5*nrow(train %>% filter(is_wkt == "W"))))
 
 ```
+
+
+
 
 
 
