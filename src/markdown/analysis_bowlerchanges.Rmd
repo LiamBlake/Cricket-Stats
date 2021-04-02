@@ -22,8 +22,8 @@ changes <- readRDS("../../data/processed/bowler_changes.rds")
 ```{r}
 changes <- changes %>% mutate(bowl_class = as.factor(ifelse(bowl_type %in% c("lc", "lo", "rls", "rob"), "spin", "seam"))) %>%
   mutate(old_bowl_class = as.factor(ifelse(old_bowl_type %in% c("lc", "lo", "rls", "rob"), "spin", "seam")))  %>%
-  mutate(bowl_class = as.factor(ifelse(old_bowl_avg > 40, "parttime", bowl_class)))  %>%
-  mutate(old_bowl_class = as.factor(ifelse(old_bowl_avg > 40, "parttime", old_bowl_class))) %>%
+  mutate(bowl_class = as.factor(ifelse(bowl_avg > 40, "parttime", bowl_class)))  %>%
+  mutate(old_bowl_class = ifelse(old_bowl_avg > 40, "parttime", old_bowl_class)) %>%
   na.omit(bowl_class, old_bowl_class)
 
 ```
