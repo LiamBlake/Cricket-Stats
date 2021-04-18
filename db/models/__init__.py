@@ -1,1 +1,2 @@
-from .player import Base, Player
+from .base import Model
+from .player import Player, CareerBatStats, CareerFieldStats, CareerBowlStats

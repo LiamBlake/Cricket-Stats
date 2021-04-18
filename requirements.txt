@@ -1,5 +1,7 @@
 numpy
+pandas
 keras
 sqlalchemy
 requests
 bs4
+psycopg2
