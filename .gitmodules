@@ -1,3 +1,6 @@
 [submodule "Cricinfo-scraper"]
 	path = Cricinfo-scraper
 	url = https://github.com/LiamBlake/Cricinfo-scraper
+[submodule "cricketdb"]
+	path = cricketdb
+	url = https://github.com/LiamBlake/CricketDB
