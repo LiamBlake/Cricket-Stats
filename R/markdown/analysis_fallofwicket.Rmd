@@ -46,11 +46,87 @@ wkt_only <- bbb %>% filter(is_wkt == "W")
 
 
 ```{r}
-wkt_only %>% ggplot(aes(bat_balls)) + geom_histogram(binwidth = 2)
+wkt_only %>% ggplot(aes(bat_balls)) + geom_density()
 
+```
+However, the pattern here is primarily due to the scarcity of the data. Let's try a relative wicket-likelihood.
+
+```{r}
+gb_wkt_freq <- function(df, col) {
+  return(df %>% group_by_(col) %>%
+  summarise(n_wkt = sum(is_wkt == "W"), n_no = sum(is_wkt == "no")) %>%
+  mutate(wkt_freq = (n_wkt + 1) / (n_wkt + n_no + 1)) %>%
+  mutate(logit = log(wkt_freq/(1 - wkt_freq))))    # With a pseudocount to prevent division by 0
+}
+
+  gb_wkt_freq(bbb, "bat_balls") %>%
+  filter(bat_balls <= 300) %>%
+  ggplot(aes(x = bat_balls, y = logit)) + 
+  geom_point() +
+  geom_smooth()
+```
+
+```{r}
+gb_wkt_freq(bbb %>% mutate(bin = ntile(bat_avg, 20)), "bin") %>%
+  ggplot(aes(x = bin, y = logit)) + 
+  geom_point() +
+  geom_smooth()
 ```
 
 
+```{r}
+gb_wkt_freq(bbb %>% mutate(bin = ntile(bowl_avg, 20)), "bin") %>%
+  ggplot(aes(x = bin, y = logit)) + 
+  geom_point() +
+  geom_smooth()
+```
+
+
+```{r}
+gb_wkt_freq(bbb %>% mutate(bin = ntile(team_lead, 20)), "bin") %>%
+  ggplot(aes(x = bin, y = logit)) + 
+  geom_point() +
+  geom_smooth()
+```
+
+```{r}
+gb_wkt_freq(bbb %>% mutate(bin = ntile(spin_factor, 20)), "bin") %>%
+  ggplot(aes(x = bin, y = logit)) + 
+  geom_point() +
+  geom_smooth()
+```
+
+```{r}
+gb_wkt_freq(bbb, "bat_score") %>%
+  filter(bat_score < 250) %>%
+  ggplot(aes(x = bat_score, y = logit)) + 
+  geom_point() +
+  geom_smooth()
+```
+
+```{r}
+gb_wkt_freq(bbb, "inn_balls") %>%
+  filter(inn_balls < 80*6) %>%
+  ggplot(aes(x = inn_balls, y = wkt_freq)) + 
+  geom_point() +
+  geom_smooth()
+```
+
+```{r}
+gb_wkt_freq(bbb, "inn_balls") %>%
+  filter(80*6 <= inn_balls & inn_balls <= 160*6) %>%
+  ggplot(aes(x = inn_balls, y = wkt_freq)) + 
+  geom_point() +
+  geom_smooth()
+```
+
+
+```{r}
+gb_wkt_freq(bbb %>% mutate(bin = ntile(bowl_sr, 20)), "bin") %>%
+  ggplot(aes(x = bin, y = wkt_freq)) + 
+  geom_point() +
+  geom_smooth()
+```
 
 
 ## Bivariate Scatterplots
@@ -89,6 +165,11 @@ train_bal <- bind_rows(train %>% filter(is_wkt == "W"), sample_n(train %>% filte
 
 
 
+# Model 2 - Gamma GLM
+Driven by this result, some sort of exponential family distribution seems appropriate, when considering the number of balls faced before dismissal.
+```{r}
+wkt_only %>% ggplot(aes(bat_balls)) + geom_density()
+```
 
 
 
@@ -209,6 +290,39 @@ ggplot(aes(match_balls, logit), data = train_log_basic) + geom_point()  +
 
 ```
 
+
+
+# Random Forest
+
+```{r}
+rf_wf <- workflow() %>%
+  add_recipe(recipe(is_wkt ~ ., data = train_bal) %>% 
+               step_naomit(everything()) %>%
+               step_rm(c(bowl_class, game_id, career_bat_balls, career_bowl_balls))) %>%
+  add_model(rand_forest(mode="classification", trees=300) %>% 
+  set_engine("ranger", importance="permutation"))
+  
+rf_wf <- rf_wf %>% fit(data = train_bal)
+
+(rf_fit <- rf_wf %>% pull_workflow_fit())
+```
+
+## Evaluate on test set
+```{r}
+test_rf_prep <- rf_wf %>% pull_workflow_prepped_recipe() %>% bake(new_data = test)
+
+test_rf <- test %>% na.omit() %>% add_column(rf_fit %>% predict(new_data = test_rf_prep, type = "prob"))
+test_rf %>% roc_curve(truth = is_wkt, estimate = .pred_W, event_level = "second") %>% autoplot()
+test_rf %>% roc_auc(truth = is_wkt, estimte = .pred_W, event_level = "second") 
+```
+
+## Importance
+```{r}
+rf_fit %>% vi() %>% 
+  ggplot(aes(Importance, fct_reorder(Variable, Importance))) + 
+  geom_col() + 
+  labs(y = NULL)
+```
 
 
 # Survival Analysis
