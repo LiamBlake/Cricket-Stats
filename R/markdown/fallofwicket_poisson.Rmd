@@ -1,0 +1,109 @@
+---
+title: "Fall-of-Wicket Poisson Regression Model"
+author: "L. Blake"
+date: "24/03/2021"
+output: html_document
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../../output/notebooks") })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+pacman::p_load(tidyverse, tidymodels, vip, survival, ggfortify)
+
+bbb <- readRDS("../../data/processed/bbb_cleaned.RDS") %>% 
+  select(-c(bat_team_total_runs, 
+            bat_team_total_wkts, bowl_team_total_runs, bowl_team_total_wkts,
+            host_country, venue, winner, margin, outcome, toss_win, toss_elect,
+            batter, bowler, dism_mode, bat_win_toss, 
+            bat_home_away, bat_team, bowl_team, runs, extras, spell_balls,
+            spell_runs, spell_wkts, pitch_factor, start_date, game_id, bowl_class, bowl_wkts, bowl_runs)) %>%
+  mutate_if(is.character, as.factor) %>%
+  mutate_at(c("innings", "bat_position"), as.factor) %>%
+  drop_na()
+
+# Normalise pitch factors
+bbb <- bbb %>% mutate(rsum = seam_factor + spin_factor) %>% mutate(seam_factor = seam_factor/rsum) %>%
+  mutate(spin_factor = spin_factor/rsum) %>% select(-rsum)
+
+bbb <- bbb %>% select(-spin_factor)
+
+```
+
+# Preprocessing
+
+## Reduce to just wickets
+```{r}
+wkts_only <- bbb %>% filter(is_wkt == "W") %>% select(-is_wkt) 
+```
+
+
+## Train/Test Split
+```{r}
+split <- initial_split(wkts_only, strata = bat_balls)
+train <- training(split)
+test <- testing(split)
+```
+
+
+# Models
+
+## Model 1 - Poisson Regression on all Predictors
+```{r}
+M1 <- glm(bat_balls ~ ., data = wkts_only, family=poisson())
+summary(M1)
+```
+
+
+
+
+## Model 2 - Poisson Rate Regression on all Predictors
+```{r}
+M2 <- glm(bat_balls ~ . - inn_balls, offset = log(inn_balls + 1), data = wkts_only, family=poisson())
+summary(M2)
+```
+
+
+# EDA to inform non-linearities
+
+```{r}
+rate_data <- wkts_only %>% mutate(wkt_rate = log(1/(bat_balls + 1)))
+```
+
+## Each potential predictor
+```{r}
+rate_data %>% ggplot(aes(x = team_lead, y=wkt_rate)) + geom_point()
+```
+
+```{r}
+rate_data %>% ggplot(aes(x = bat_avg, y=wkt_rate)) + geom_point()
+```
+
+
+## Model 3 - Poisson Rate Regression with Less Predictors
+```{r}
+M3 <- glm(bat_balls ~ . - inn_balls -team_score, offset = log(inn_balls + 1), data = wkts_only, family=poisson())
+summary(M3)
+```
+
+
+
+
+## Model 1 - Negative Binomial with all Predictors
+```{r}
+M1 <- MASS::glm.nb(bat_balls ~ . - team_score, data = wkts_only)
+summary(M1)
+```
+
+
+```{r}
+plot(M1)
+```
+
+
+# EDA to inform non-linearities
+
+```{r}
+rate_data <- wkts_only %>% mutate(wkt_rate = log(1/(bat_balls + 1)))
+```

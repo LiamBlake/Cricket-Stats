@@ -1,0 +1,140 @@
+---
+title: "Are first-class statistics a good indicator of test match performance?"
+author: "L. Blake"
+output: html_document
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../../output/notebooks") })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+pacman::p_load(tidyverse)
+
+bat <- read_csv("../../data/processed/fc_test_bat_stats.csv", na = c("-")) %>% 
+  as_tibble() %>%
+  janitor::clean_names() %>%
+  mutate_at(c("country"), as.factor) #%>%
+  #mutate_if(country == "ENG/IRE", country)   # Correct for Eoin 
+
+bowl <- read_csv("../../data/processed/fc_test_bowl_stats.csv", na = c("-")) %>% 
+  as_tibble() %>%
+  janitor::clean_names() %>%
+  mutate_at(c("country"), as.factor)
+
+# Remove bowlers who bowled less than 1000 balls
+bowl <- bowl %>% filter(test_balls >= 1000)
+
+# First-class stats without tests
+bat <- bat %>% mutate(fc_notest = (fc_runs - test_runs)/(fc_inns - test_inns - fc_no + test_no)) %>% na.omit(fc_notest)
+bowl <- bowl %>% mutate(fc_notest = (fc_runs - test_runs)/(fc_wkts - test_wkts))
+
+# Filter to at least 5 matches
+bat <- bat %>% filter(test_mat >= 5)
+
+
+
+```
+
+
+
+# The distributions
+
+## Batting
+```{r}
+bat %>% ggplot(aes(x = test_ave)) + geom_histogram(binwidth = 2, fill = "purple")
+```
+
+```{r}
+bat %>% ggplot(aes(x = fc_notest)) + geom_histogram(binwidth = 2, fill = "purple")
+```
+
+
+```{r}
+bat %>% ggplot(aes(sample = test_ave)) + geom_qq() + geom_qq_line()
+
+bat %>% ggplot(aes(sample = fc_notest)) + geom_qq() + geom_qq_line()
+
+```
+
+
+## Bowling
+```{r}
+bowl %>% ggplot(aes(x = test_ave)) + geom_histogram(binwidth = 2, fill = "purple")
+```
+
+```{r}
+bowl %>% ggplot(aes(x = fc_notest)) + geom_histogram(binwidth = 2, fill = "purple")
+```
+
+
+```{r}
+bowl %>% ggplot(aes(sample = test_ave)) + geom_qq() + geom_qq_line()
+
+bowl %>% ggplot(aes(sample = fc_notest)) + geom_qq() + geom_qq_line()
+
+```
+
+
+
+# Comparisons
+```{r}
+bat %>% ggplot(aes(x = fc_notest, y = test_ave)) + geom_point() + 
+  geom_smooth(method = lm)
+```
+
+
+```{r}
+bowl %>% ggplot(aes(x = fc_notest, y = test_ave)) + geom_point() + 
+  geom_smooth(method = lm)
+```
+
+
+```{r}
+bat %>% mutate(diff = test_ave - fc_notest) %>% 
+  group_by(country) %>%
+  summarise(avg_diff = mean(diff)) %>%
+  ggplot(aes(x = country, y = avg_diff)) + 
+  geom_point()
+
+
+bowl %>% mutate(diff = test_ave - fc_notest) %>% 
+  group_by(country) %>%
+  summarise(avg_diff = mean(diff)) %>%
+  ggplot(aes(x = country, y = avg_diff)) + 
+  geom_point()
+```
+
+
+
+## Fit a Linear Model
+```{r}
+fit.lm <- lm(I((test_ave^(0.5) - 1) / 0.5) ~ fc_notest, data = bat)
+summary(fit.lm)
+```
+
+```{r}
+gglm::gglm(fit.lm)
+#MASS::boxcox(fit.lm)
+```
+
+
+
+
+
+So the suggested transformation is
+\[
+\text{Expected Test Average} = \left(4.914208 + 0.36875\times \text{FC Average}\right)^2
+\]
+
+
+
+```{r}
+fit.lm <- lm(test_ave ~ fc_notest, data = bowl)
+summary(fit.lm)
+```
+
+
+```{r}
+gglm::gglm(fit.lm)
+MASS::boxcox(fit.lm)
+```
