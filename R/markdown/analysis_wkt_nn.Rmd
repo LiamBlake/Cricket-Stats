@@ -1,0 +1,26 @@
+---
+title: "FOW - CNN"
+author: "L. Blake"
+date: "15/05/2021"
+output: html_document
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../../output/notebooks") })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+pacman::p_load(tidyverse, tidymodels, tensorflow, keras)
+
+
+# Load data
+data <- readRDS("../../data/processed/bbb_cleaned.RDS")
+
+# Normalise pitch factors
+data <- data %>% mutate(s = seam_factor + spin_factor) %>% mutate(seam_factor = seam_factor/s, spin_factor = spin_factor/s)
+
+```
+
+# Preprocessing
+```{r}
+
+```

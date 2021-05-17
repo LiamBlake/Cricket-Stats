@@ -56,3 +56,22 @@ pitch_qi <- function(bbb, key) {
   
   
 }
+
+
+
+
+pqi_on_all <- function(bbb) {
+  gb <- bbb %>% group_by(game_id)
+  
+  pqis <- suppressMessages(gb %>%
+    group_map(pitch_qi))
+  
+  
+  # Bind to original df and return
+  unique_gameids <- unique(bbb$game_id)
+  return(bbb %>% 
+           mutate(gii = match(game_id, unique_gameids)) %>% 
+           mutate(pqi = unlist(pqis[gii])) %>%
+           select(-gii))
+  
+}

@@ -1,6 +1,4 @@
-
-
-pacman::p_load(tidyverse, tidymodels)
+pacman::p_load(tidyverse, recipes)
 
 bbb <- readRDS("../../data/processed/bbb_cleaned.RDS") %>% 
   select(-c(bat_team_total_runs, 
@@ -17,14 +15,16 @@ bbb <- bbb %>% mutate(rsum = seam_factor + spin_factor) %>% mutate(seam_factor =
   mutate(spin_factor = spin_factor/rsum) %>% select(-rsum)
 
 # Create artificial split at each new ball
-bbb <- bbb %>% mutate(ball_age <- inn_balls %% 480)
+bbb <- bbb %>% mutate(ball_age = inn_balls %% 480) %>%
+  mutate(ball_no = as_factor(inn_balls %/% 480 + 1)) %>%
+  select(-inn_balls)
 
-# Create recipe specification (I love this package)
+# Create recipe specification for preprocessing
 prepped <- recipe(is_wkt ~ ., data = bbb) %>%
   step_naomit(everything()) %>%
   step_rm(team_score, game_id, bowl_class, seam_factor) %>%
   step_range(all_numeric()) %>%
-  step_dummy(all_nominal()) %>%
+  step_dummy(all_nominal(), one_hot=TRUE) %>%
   prep(data = bbb) %>%
   juice()
 
