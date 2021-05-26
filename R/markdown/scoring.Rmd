@@ -1,0 +1,65 @@
+---
+title: "Scoring Rate"
+author: "L. Blake"
+date: "26/05/2021"
+output: html-document
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../../output/notebooks") })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+pacman::p_load(tidyverse, tidymodels)
+source("../pitch_qi.R")
+
+bbb <- readRDS("../../data/processed/bbb_cleaned.RDS") %>%
+  mutate_if(is.character, as.factor) %>%
+  mutate_at(c("innings", "bat_position"), as.factor)
+
+# Use better pitch factors:
+bbb <- pqi_on_all(bbb) %>% 
+  filter(is_wkt == "no") %>%    # Wicket cases should already be handled by a prior model
+  select(-c(bat_team_total_runs, 
+            bat_team_total_wkts, bowl_team_total_runs, bowl_team_total_wkts,
+            host_country, venue, winner, margin, outcome, toss_win, toss_elect,
+            batter, bowler, dism_mode, bat_win_toss, 
+            bat_home_away, bat_team, bowl_team, spell_balls, is_wkt,
+            spell_runs, spell_wkts, pitch_factor, start_date, game_id, bowl_class, bowl_wkts, bowl_runs, spin_factor, seam_factor)) %>%
+  mutate(sr = as.numeric(runs) * 100) %>%
+  na.omit()
+
+```
+
+
+## EDA of Response
+```{r}
+bbb %>% ggplot(aes(x = runs, y = team_lead)) + geom_boxplot()
+bbb %>% group_by(team_lead, innings) %>% 
+  summarise(sr = mean(sr)) %>% 
+  filter(abs(team_lead) < 450) %>%
+  ggplot(aes(x = team_lead, y = sr, colour=innings)) + geom_point()
+```
+
+```{r}
+bbb %>% ggplot(aes(x = runs, y = bat_sr)) + geom_boxplot()
+```
+
+## Correlation
+```{r}
+
+```
+
+
+
+## Model 1 - Decision Tree
+```{r}
+fit_dt <- decision_tree(mode="classification") %>% 
+  set_engine("rpart") %>%
+  fit(runs ~ . - sr, data = bbb)
+```
+
+```{r}
+plot(fit_dt$fit)
+```
+
