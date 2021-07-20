@@ -24,8 +24,7 @@ bbb <- bbb %>%
   mutate(is_wkt = as.factor(ifelse(grepl("^W_", outcome), "W", "no"))) %>%
   mutate(bowl_class = as.factor(ifelse(bowl_type %in% c("lc", "lo", "rls", "rob"), "spin", "seam"))) %>%
   mutate(bat_win_toss = as.factor(ifelse(bat_team == toss_win, "yes", "no"))) %>%
-  mutate(bat_home_away = as.factor(ifelse(bat_team == host_country, "home", "away"))) %>%
-  mutate(dism_mode = as.factor(ifelse(is_wkt == "W", substring(outcome, 3), NA)))
+  mutate(bat_home_away = as.factor(ifelse(bat_team == host_country, "home", "away")))
 
 # Remove unwanted factors
 bbb <- bbb %>%
@@ -60,7 +59,7 @@ bbb <- bbb %>%
 
 
 # Pitch factors
-bbb <- pqi_on_all(bbb %>% na.omit())
+bbb <- pqi_on_all(bbb %>% na.omit()) %>% rename(game_id = game_id.y)
 
 # Export as RDS object
 saveRDS(bbb, "bbb_cleaned.RDS")

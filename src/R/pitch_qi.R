@@ -18,7 +18,7 @@ pitch_qi <- function(bbb, key) {
     select(bat_avg)
   exp_runs <- colSums(exp_runs[, 2])
   # TODO: Properly handle not outs
-
+  
   r_runs <- totals$runs / exp_runs
   if (r_runs > 3) {
     r_runs <- 3 # Forced maximum of 3
@@ -28,10 +28,10 @@ pitch_qi <- function(bbb, key) {
   exp_wkts <- bbb %>%
     group_by(bowler) %>%
     summarize(n = n(), sr = dplyr::first(bowl_sr)) %>%
-    mutate(exp_wkts <- ifelse(is.na(sr), 1e4, n / sr))
+    mutate(exp_wkts = ifelse(is.na(sr), 80, n / sr))
   # TODO: Implement better handling of missing data (i.e. NA sr because no career wickets)
   exp_wkts <- colSums(exp_wkts[, 4])
-
+  
   r_wkts <- totals$wkts / exp_wkts
   if (r_wkts > 3) {
     r_wkts <- 3 # Forced maximum of 3
@@ -46,7 +46,6 @@ pitch_qi <- function(bbb, key) {
     # Map to range 50-100
     pqi <- 50 * (pqi - 3) / 6.0 + 50
   }
-
 
   return(pqi)
 }
@@ -63,5 +62,5 @@ pqi_on_all <- function(bbb) {
 
   # Join to original df and return
   unique_gameids <- unique(bbb$game_id)
-  return(bbb %>% left_join(pqis, by = "game_id"))
+  return(bbb %>% left_join(pqis, by = "game_id", keep = TRUE))
 }
