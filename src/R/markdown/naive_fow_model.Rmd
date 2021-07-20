@@ -1,0 +1,202 @@
+---
+title: "The Naive FOW Model"
+author: "L. Blake"
+date: "26/06/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+pacman::p_load(tidyverse, tidymodels)
+source("../pitch_qi.R")
+
+bbb <- readRDS("../../data/processed/bbb_cleaned.RDS") %>%
+  mutate_if(is.character, as.factor) %>%
+  mutate_at(c("innings", "bat_position"), as.factor)
+
+# Use better pitch factors:
+bbb <- pqi_on_all(bbb) %>%
+  # Wicket cases should already be handled by a prior model
+  select(-c(
+    bat_team_total_runs,
+    bat_team_total_wkts, bowl_team_total_runs, bowl_team_total_wkts,
+    host_country, venue, winner, margin, outcome, toss_win, toss_elect,
+    batter, bowler, dism_mode, bat_win_toss,
+    bat_home_away, bat_team, bowl_team, spell_balls, extras,
+    spell_runs, spell_wkts, pitch_factor, start_date, game_id, bowl_class, bowl_wkts, bowl_runs, spin_factor, seam_factor
+  )) #%>%
+  #na.omit()
+
+# Combine left and right-arm medium into one level
+bbb <- bbb %>% mutate(
+  bowl_type = fct_recode(bowl_type, m = "rm", m = "lm")
+)
+```
+
+We attempt to predict the probability of a wicket falling, by inspecting the relationship between each covariate and the log-odds of a wicket falling and choosing an appropriate transformation. These are used in a logistic model to provide a simple benchmark which is easy to implement. 
+
+
+# Summary Statistics
+
+```{r}
+skimr::skim(bbb)
+```
+
+# Calculating the log-odds
+
+```{r}
+gb_wkt_freq <- function(df, col) {
+  return(df %>% group_by_(.dots = col) %>%
+    summarise(n_wkt = sum(is_wkt == "W"), n_no = sum(is_wkt == "no")) %>%
+    mutate(wkt_freq = (n_wkt + 1) / (n_wkt + n_no + 1)) %>% # With a pseudocount to prevent division by 0
+    mutate(logit = log(wkt_freq / (1 - wkt_freq))))
+}
+```
+
+
+# Each possible predictor
+## The number of deliveries
+```{r}
+gb_wkt_freq(bbb, "bat_balls") %>%
+  filter(bat_balls <= 300) %>%
+  ggplot(aes(x = bat_balls, y = logit)) +
+  geom_point() +
+  geom_smooth()
+```
+
+## The number of balls in innings
+```{r}
+gb_wkt_freq(bbb, "inn_balls") %>%
+  filter(inn_balls < 600) %>%
+  ggplot(aes(x = inn_balls, y = logit)) +
+  geom_point() +
+  geom_smooth()
+```
+
+
+When the new ball is taken after 80 overs, this is a discrete event 
+```{r}
+bbb <- bbb %>%
+  mutate(ball = ifelse(inn_balls > 0, inn_balls %/% 480, 0), ball_age = inn_balls %% 480) %>%
+  mutate_at(c("ball"), as.factor) %>%
+  select(-inn_balls)
+```
+
+```{r}
+gb_wkt_freq(bbb, "ball_age") %>%
+  ggplot(aes(x = ball_age, y = logit)) +
+  geom_point() +
+  geom_smooth()
+```
+
+```{r}
+gb_wkt_freq(bbb, "ball") %>%
+  ggplot(aes(x = ball, y = logit)) +
+  geom_point() +
+  geom_smooth()
+```
+
+```{r}
+gb_wkt_freq(bbb, c("ball", "ball_age")) %>%
+  ggplot(aes(x = ball_age, y = logit, color = ball)) +
+  geom_point() 
+```
+
+
+## Team Wickets
+```{r}
+gb_wkt_freq(bbb, "team_wkts") %>%
+  ggplot(aes(x = team_wkts, y = logit)) +
+  geom_point() +
+  geom_smooth()
+```
+However, this is a misleading picture.
+
+```{r}
+bbb %>%
+  filter(career_bat_balls > 1000) %>%
+  ggplot(aes(x = team_wkts, y = bat_avg)) +
+  geom_boxplot()
+```
+
+
+## Team lead
+```{r}
+gb_wkt_freq(bbb, "team_lead") %>%
+  ggplot(aes(x = team_lead, y = logit)) +
+  geom_point() +
+  geom_smooth()
+```
+
+
+## Batting average
+```{r}
+gb_wkt_freq(bbb %>% mutate(bin = ntile(bat_avg, 100)), "bin") %>%
+  ggplot(aes(x = bin, y = logit)) +
+  geom_point() +
+  geom_smooth()
+```
+
+
+## Batting Dismissal Frequency
+```{r}
+bbb <- bbb %>%
+  mutate(bat_dism_freq = bat_avg / (100 * bat_sr)) %>%
+  na.omit() # TODO: handle zero strike rate
+gb_wkt_freq(bbb %>% mutate(bin = ntile(bat_dism_freq, 100)), "bin") %>%
+  ggplot(aes(x = bin, y = logit)) +
+  geom_point() +
+  geom_smooth()
+```
+
+## Bowling strike rate
+```{r}
+gb_wkt_freq(bbb %>% mutate(bin = ntile(bowl_sr, 100)), "bin") %>%
+  ggplot(aes(x = bin, y = logit)) +
+  geom_point() +
+  geom_smooth()
+```
+
+
+# Training/Testing split
+```{r}
+set.seed(2403)
+split <- initial_split(bbb, strata = is_wkt)
+train <- training(split)
+test <- testing(split)
+```
+
+
+# The model
+
+```{r}
+rec <- recipe(is_wkt ~ ., data = train) %>%
+  step_rm(team_score, bat_position, bat_avg, bowl_balls, bowl_avg, career_bat_balls, career_bowl_balls) %>%
+  # These predictors are closely related to others
+  step_poly(team_lead, degree = 3) %>%
+  step_BoxCox(all_numeric()) %>% # To account for any skew
+  step_dummy(team_wkts, bat_arm, bowl_type, ball) %>%
+  step_interact(terms=~starts_with("bat_arm"):starts_with("bowl_type"))
+
+wf <- workflow() %>%
+  add_recipe(rec) %>%
+  add_model(logistic_reg(penal
+                         \
+                         ty=0.5) %>% set_engine("glm"))
+
+wf <- wf %>% fit(data = train)
+fitted <- wf %>% pull_workflow_fit()
+summary(fitted$fit)
+```
+
+
+94543
+
+## Summary of Recipe
+```{r}
+prep_rec <- wf %>% pull_workflow_prepped_recipe()
+for (n in 1:length(prep_rec$steps)) {
+  print(tidy(prep_rec, n = n))
+}
+```

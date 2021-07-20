@@ -1,0 +1,492 @@
+---
+title: "Fall-of-Wicket Exploratory Data Analysis"
+author: "L. Blake"
+date: "24/03/2021"
+output: html_document
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../../output/notebooks") })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+pacman::p_load(tidyverse, tidymodels, vip, survival, ggfortify)
+
+bbb <- readRDS("../../data/processed/bbb_cleaned.RDS") %>% 
+  select(-c(bat_team_total_runs, 
+            bat_team_total_wkts, bowl_team_total_runs, bowl_team_total_wkts,
+            host_country, venue, winner, margin, outcome, toss_win, toss_elect,
+            batter, bowler, dism_mode, bat_win_toss, 
+            bat_home_away, bat_team, bowl_team, runs, extras, spell_balls,
+            spell_runs, spell_wkts, pitch_factor, start_date, game_id)) %>%
+  mutate_if(is.character, as.factor) %>%
+  mutate_at(c("innings", "bat_position"), as.factor)
+
+# Normalise pitch factors
+bbb <- bbb %>% mutate(rsum = seam_factor + spin_factor) %>% mutate(seam_factor = seam_factor/rsum) %>%
+  mutate(spin_factor = spin_factor/rsum) %>% select(-rsum)
+
+```
+
+
+# Summary Statistics
+
+```{r}
+skimr::skim(bbb)
+```
+
+We shall first explore the patterns in the predictors when the wicket itself falls.
+
+```{r}
+wkt_only <- bbb %>% filter(is_wkt == "W") %>% select(-is_wkt)
+skimr::skim(wkt_only)
+```
+
+
+
+```{r}
+wkt_only %>% ggplot(aes(bat_balls)) + geom_density()
+
+```
+We can instead formulate the problem as predicting the probability that a batter survives a certain number of deliveries, by treating this number as a random variable. This is phrasing the problem in terms of survival analysis.
+
+To be precise, we are modelling the number of deliveries faced *before* the batter is dismissed, i.e. the number of deliveries safely negotiated. 
+
+This formulation is ignoring a lot of information. For example, we are not considering the other bowlers faced prior to a dismissal. Often pressure can be built on a batter via good bowling by one bowler, which results in a wicket to another bowler because of a poor shot, etc. If we are unable to devise a good model with this approach, we can further complicate the approach by considering a sequence of deliveries.
+
+
+We can visualise the distribution of number of deliveries faced before dismissal:
+```{r}
+wkt_only %>% ggplot(aes(x = bat_balls)) + geom_density()
+```
+However, this distribution is dependent on the sparsity of the data, so we should look at the frequency of wickets. The following helper function lets us do so:
+
+```{r}
+gb_wkt_freq <- function(df, col) {
+  return(df %>% group_by_(col) %>%
+  summarise(n_wkt = sum(is_wkt == "W"), n_no = sum(is_wkt == "no")) %>%
+  mutate(wkt_freq = (n_wkt + 1) / (n_wkt + n_no + 1))) %>%  # With a pseudocount to prevent division by 0
+    mutate(logit = log(wkt_freq/(1 - wkt_freq)))
+}
+```
+
+To construct a model, we will incrementally consider each feature, hoping to understand the relationship between each and the frequency of dismissal. 
+
+
+# Training/Testing split
+Split the data into training and testing sets, with a 75/25 split.
+```{r}
+set.seed(2403)
+split <- initial_split(bbb, strata = is_wkt)
+train <- training(split)
+test <- testing(split)
+
+```
+
+Wickets are relatively rare in the full dataset, so let's create a balanced training set, with a 1:5 ratio.
+
+```{r}
+train_bal <- bind_rows(train %>% filter(is_wkt == "W"), sample_n(train %>% filter(is_wkt == "no"), size = 5*nrow(train %>% filter(is_wkt == "W"))))
+
+```
+
+
+
+
+# The number of deliveries
+```{r}
+gb_wkt_freq(bbb, "bat_balls") %>%
+filter(bat_balls <= 300) %>%
+ggplot(aes(x = bat_balls, y = wkt_freq)) + 
+geom_point() +
+geom_smooth()
+```
+
+The data becomes sparser as the number of balls increase, so the wicket frequency becomes more variable. When a batter first comes to the crease, they often find it difficult and need some time to get used to the bowling. We shall see if this is reflected in the data by plotting the wicket frequencies for the first 100 balls faced.
+
+```{r}
+gb_wkt_freq(bbb, "bat_balls") %>%
+filter(bat_balls <= 99) %>%
+ggplot(aes(x = bat_balls, y = wkt_freq)) + 
+geom_point() +
+geom_smooth()
+```
+In general, we see that as the batter faces more deliveries, the wicket probability decreases. This matches what we expect, reflecting the batter "getting their eye in". The rate of decrease in probability lessens as the batter faces more deliveries, highlighting how important those first deliveries are for a batter to establish themselves at the crease.
+
+
+## Model 1 - Logistic Regression
+We can fit logistic regression with the number of deliveries faced as the only predictor. The relationship is clearly non-linear, however, but we can assess this better with the logit of the wicket probability.
+
+```{r}
+gb_wkt_freq(bbb, "bat_balls") %>%
+  #mutate(logit=log(wkt_freq/(1-wkt_freq))) %>%
+ggplot(aes(x = bat_balls, y = logit)) + 
+geom_point() +
+geom_smooth()
+```
+
+The curvature may be addressable with a quadratic term, while a Box-Cox transform may address the heteroscedasticity. We therefore propose the model
+\[
+p = 
+\]
+
+
+```{r}
+wf_log1 <- workflow() %>%
+  add_recipe(recipe(is_wkt ~ bat_balls, data = train) %>%
+               step_naomit(everything()) %>%
+               step_poly(terms = bat_balls)) %>%
+  add_model(logistic_reg() %>% set_engine("glm"))
+wf_log1 <- wf_log1 %>% fit(data = train)
+fit_log1 <- wf_log1 %>% pull_workflow_fit()
+summary(fit_log1$fit)
+```
+
+### Linearity assumption
+```{r}
+ggplot(aes(x = bat_balls, y = fit_log1$fit$fitted.values))
+```
+
+
+### Evaluate on Test Set
+```{r}
+prep_test_log_basic <- wf_log1 %>% pull_workflow_prepped_recipe() %>% bake(new_data = test)
+
+test_log_basic <- prep_test_log_basic %>% add_column(wf_log1 %>% predict(new_data = test, type = "prob"))
+test_log_basic %>% roc_curve(truth = is_wkt, estimate = .pred_W, event_level = "second") %>% autoplot()
+test_log_basic %>% roc_auc(truth = is_wkt, estimte = .pred_W, event_level = "second") 
+```
+
+
+# The age of the ball
+The condition of the ball is a significant factor in cricket, particularly test cricket. A hard, new ball is usually more challenging to face, as it generally produces more lateral movement (swing and seam). Moreover, teams usually open the bowling with their best bowlers, in order to take full advantage of this. Initially, we shall only consider the first new ball, so from the start of the innings to the end of the 80th over.
+
+```{r}
+gb_wkt_freq(bbb, "inn_balls") %>%
+  filter(inn_balls < 480) %>%
+ggplot(aes(x = inn_balls, y = wkt_freq)) + 
+geom_point() +
+geom_smooth()
+```
+In the long term, there is no obvious 
+
+
+
+
+```{r}
+gb_wkt_freq(bbb, "bat_score") %>%
+  filter(bat_score < 250) %>%
+  ggplot(aes(x = bat_score, y = wkt_freq)) + 
+  geom_point() +
+  geom_smooth()
+```
+
+```{r}
+gb_wkt_freq(bbb, "inn_balls") %>%
+  filter(inn_balls < 2*80*6) %>%
+  ggplot(aes(x = inn_balls, y = wkt_freq)) + 
+  geom_point() +
+  geom_smooth()
+```
+
+```{r}
+gb_wkt_freq(bbb, "inn_balls") %>%
+  filter(80*6 <= inn_balls & inn_balls <= 160*6) %>%
+  ggplot(aes(x = inn_balls, y = wkt_freq)) + 
+  geom_point() +
+  geom_smooth()
+```
+
+
+
+
+
+```{r}
+gb_wkt_freq(bbb %>% mutate(bin = ntile(bat_avg, 20)), "bin") %>%
+  ggplot(aes(x = bin, y = logit)) + 
+  geom_point() +
+  geom_smooth()
+```
+
+
+```{r}
+gb_wkt_freq(bbb %>% mutate(bin = ntile(bowl_avg, 20)), "bin") %>%
+  ggplot(aes(x = bin, y = logit)) + 
+  geom_point() +
+  geom_smooth()
+```
+
+
+```{r}
+gb_wkt_freq(bbb %>% mutate(bin = ntile(team_lead, 20)), "bin") %>%
+  ggplot(aes(x = bin, y = logit)) + 
+  geom_point() +
+  geom_smooth()
+```
+
+```{r}
+gb_wkt_freq(bbb %>% mutate(bin = ntile(spin_factor, 20)), "bin") %>%
+  ggplot(aes(x = bin, y = logit)) + 
+  geom_point() +
+  geom_smooth()
+```
+
+
+```{r}
+gb_wkt_freq(bbb %>% mutate(bin = ntile(bowl_sr, 20)), "bin") %>%
+  ggplot(aes(x = bin, y = wkt_freq)) + 
+  geom_point() +
+  geom_smooth()
+```
+
+
+## Bivariate Scatterplots
+
+```{r}
+wkt_only %>% ggplot(aes(x = bat_avg, y = bowl_avg)) + geom_point()
+
+```
+
+
+
+## By categorical variables
+
+```{r}
+wkt_only %>% ggplot(aes(x = bat_position))
+```
+
+
+
+
+# Model 2 - Gamma GLM
+Driven by this result, some sort of exponential family distribution seems appropriate, when considering the number of balls faced before dismissal.
+```{r}
+wkt_only %>% ggplot(aes(bat_balls)) + geom_density()
+```
+
+
+
+# Model 1 - Logistic Regression
+
+
+We first try fitting a logistic regression with every predictor in a linear relationship
+```{r}
+wf_log_basic <- workflow() %>%
+  add_recipe(recipe(is_wkt ~ ., data = train_bal) %>%
+               step_rm(bowl_class) %>%
+               step_naomit(all_predictors()) %>%
+               step_normalize(all_numeric()) %>%
+               step_dummy(innings, bat_position, bat_arm, bowl_type)) %>%
+  add_model(logistic_reg() %>% set_engine("glm"))
+wf_log_basic <- wf_log_basic %>% fit(data = train_bal)
+fit_log_basic <- wf_log_basic %>% pull_workflow_fit()
+```
+
+```{r}
+tidy(fit_log_basic)
+
+```
+
+## Evaluate on Test Set
+
+```{r}
+prep_test_log_basic <- wf_log_basic %>% pull_workflow_prepped_recipe() %>% bake(new_data = test)
+
+test_log_basic <- prep_test_log_basic %>% add_column(wf_log_basic %>% predict(new_data = test, type = "prob"))
+test_log_basic %>% roc_curve(truth = is_wkt, estimate = .pred_W, event_level = "second") %>% autoplot()
+test_log_basic %>% roc_auc(truth = is_wkt, estimte = .pred_W, event_level = "second") 
+
+
+#dec_log <- train_bal %>%
+#  add_column(log_fit %>% predict(new_data = train_bal %>% mutate(bat_score_int = bat_score), type = "prob")) %>%
+#  mutate(logit = log(.pred_yes/(1-.pred_yes)))
+```
+
+## Variable impoirtance
+```{r}
+fit_log_basic %>% vi() %>%
+  ggplot(aes(Importance, fct_reorder(Variable, Importance), fill = Sign)) + 
+  geom_col()
+```
+
+
+Next, we try a model with less predictors and an expected interaction between the bowling type and the pitch conditions.
+```{r}
+wf_log_less <- workflow() %>%
+  add_recipe(recipe(is_wkt ~ ., data = train_bal) %>%
+               step_rm(bowl_wkts, team_score, bat_position, career_bowl_balls, bowl_type, seam_factor) %>%
+               step_naomit(all_predictors()) %>%
+               step_dummy(innings, bat_arm, bowl_class) %>%
+               step_interact(terms = ~starts_with("bowl_class"):spin_factor)) %>%
+  add_model(logistic_reg() %>% set_engine("glm"))
+wf_log_less <- wf_log_less %>% fit(data = train_bal)
+fit_log_less <- wf_log_less %>% pull_workflow_fit()
+```
+
+```{r}
+tidy(fit_log_less)
+
+```
+
+## Evaluate on Test Set
+
+```{r}
+prep_test_log_less <- wf_log_less %>% pull_workflow_prepped_recipe() %>% bake(new_data = test)
+
+test_log_less <- prep_test_log_less %>% add_column(wf_log_less %>% predict(new_data = test, type = "prob"))
+test_log_less %>% roc_curve(truth = is_wkt, estimate = .pred_W, event_level = "second") %>% autoplot()
+test_log_less %>% roc_auc(truth = is_wkt, estimte = .pred_W, event_level = "second") 
+```
+
+
+## Variable impoirtance
+```{r}
+fit_log_less %>% vi() %>%
+  ggplot(aes(Importance, fct_reorder(Variable, Importance), fill = Sign)) + 
+  geom_col()
+```
+
+
+## Assumption checkiong
+```{r}
+train_log_basic <- train_bal %>% na.omit() %>%
+  add_column(wf_log_basic %>% predict(new_data = train_bal, type = "prob")) %>%
+  mutate(logit = log(.pred_W/(1-.pred_W)))
+```
+
+### Linearity
+```{r}
+# Linearity
+ggplot(aes(bat_avg, logit), data = train_log_basic) + geom_point()  +
+  geom_smooth(method = "loess")
+
+ggplot(aes(bowl_avg, logit), data = train_log_basic) + geom_point()  +
+  geom_smooth(method = "loess")
+
+ggplot(aes(bat_score, logit), data = train_log_basic) + geom_point()  +
+  geom_smooth(method = "loess")
+
+ggplot(aes(team_score, logit), data = train_log_basic) + geom_point()  +
+  geom_smooth(method = "loess")
+
+ggplot(aes(bat_balls, logit), data = train_log_basic) + geom_point()  +
+  geom_smooth(method = "loess")
+
+ggplot(aes(bowl_balls, logit), data = train_log_basic) + geom_point()  +
+  geom_smooth(method = "loess")
+
+ggplot(aes(team_lead, logit), data = train_log_basic) + geom_point()  +
+  geom_smooth(method = "loess")
+
+ggplot(aes(match_balls, logit), data = train_log_basic) + geom_point()  +
+  geom_smooth(method = "loess")
+
+```
+
+
+
+# Random Forest
+
+```{r}
+rf_wf <- workflow() %>%
+  add_recipe(recipe(is_wkt ~ ., data = train_bal) %>% 
+               step_naomit(everything()) %>%
+               step_rm(c(bowl_class, game_id, career_bat_balls, career_bowl_balls))) %>%
+  add_model(rand_forest(mode="classification", trees=300) %>% 
+  set_engine("ranger", importance="permutation"))
+  
+rf_wf <- rf_wf %>% fit(data = train_bal)
+
+(rf_fit <- rf_wf %>% pull_workflow_fit())
+```
+
+## Evaluate on test set
+```{r}
+test_rf_prep <- rf_wf %>% pull_workflow_prepped_recipe() %>% bake(new_data = test)
+
+test_rf <- test %>% na.omit() %>% add_column(rf_fit %>% predict(new_data = test_rf_prep, type = "prob"))
+test_rf %>% roc_curve(truth = is_wkt, estimate = .pred_W, event_level = "second") %>% autoplot()
+test_rf %>% roc_auc(truth = is_wkt, estimte = .pred_W, event_level = "second") 
+```
+
+## Importance
+```{r}
+rf_fit %>% vi() %>% 
+  ggplot(aes(Importance, fct_reorder(Variable, Importance))) + 
+  geom_col() + 
+  labs(y = NULL)
+```
+
+
+# Survival Analysis
+Let us instead put this in the context of survival analysis: we want to predict the probability that a batter survives beyond a certain number of deliveries.
+
+
+```{r}
+bbb %>% group_by(bat_balls) %>% summarize(p = sum(is_wkt == "W")/n()) %>%
+  filter(p != 0) %>% filter(bat_balls < 300) %>%
+  ggplot(aes(x = bat_balls, y = p)) + geom_point()
+```
+
+## Exponential GLM
+```{r}
+form_exp <- bat_balls ~ bat_avg + bowl_avg + bat_sr
+recp_exp <- recipe(form_exp, data = train %>% filter(is_wkt == "W")) %>%
+  step_naomit(everything()) %>%
+  step_normalize(all_numeric()) %>%
+  step_mutate(bat_balls = bat_balls + 1)%>%
+  #step_mutate(is_wkt = as.numeric(is_wkt) - 1) %>%
+  prep(data = train)
+
+
+fit_exp <- glm(form_exp, family = Gamma(link = "log"), data = recp_exp %>% juice())
+summary(fit_exp, dispersion = 1)
+```
+
+
+### Evaluate on testing set
+
+```{r}
+prep_test_exp <- recp_exp %>% bake(new_data = test %>% filter(is_wkt == "W"))
+
+test_exp <- prep_test_exp %>% add_column(rate = fit_exp %>% predict(newdata = prep_test_exp, type = "terms", dispersion = 1))
+test_exp %>% roc_curve(truth = is_wkt, estimate = .pred_W, event_level = "second") %>% autoplot()
+test_exp %>% roc_auc(truth = is_wkt, estimte = .pred_W, event_level = "second") 
+```
+
+
+
+## Kaplan-Meier Analysis
+```{r}
+bbb_01 <- bbb %>% mutate(is_wkt = as.numeric(is_wkt) - 1)
+
+km_fit <- survfit(Surv(bat_balls, is_wkt) ~ 1, data = bbb_01)
+autoplot(km_fit)
+```
+
+
+### By factors
+```{r}
+km_inn_fit <- survfit(Surv(bat_balls, is_wkt) ~ innings, data = bbb_01)
+autoplot(km_inn_fit)
+```
+
+
+## Cox Proportional Model
+```{r}
+train_01 <- train %>% mutate(is_wkt = as.numeric(is_wkt) - 1)
+fit_cox <- coxph(Surv(bat_balls, is_wkt) ~ bat_avg + bowl_avg + bowl_sr + bat_score + team_lead + match_balls, data = train_01)
+summary(fit_cox)
+autoplot(survfit(fit_cox))
+```
+
+### Proportional hazards assumption
+```{r}
+zp <- cox.zph(fit_cox)
+```
+
+```{r}
+plot(zp[1])
+```
+
+

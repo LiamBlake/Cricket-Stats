@@ -1,0 +1,101 @@
+---
+title: "Scoring Rate"
+author: "L. Blake"
+date: "26/05/2021"
+output: html-document
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../../output/notebooks") })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+pacman::p_load(tidyverse, tidymodels)
+source("../pitch_qi.R")
+
+bbb <- readRDS("../../data/processed/bbb_cleaned.RDS") %>%
+  mutate_if(is.character, as.factor) %>%
+  mutate_at(c("innings", "bat_position"), as.factor)
+
+# Use better pitch factors:
+bbb <- pqi_on_all(bbb) %>% 
+  filter(is_wkt == "no") %>%    # Wicket cases should already be handled by a prior model
+  select(-c(bat_team_total_runs, 
+            bat_team_total_wkts, bowl_team_total_runs, bowl_team_total_wkts,
+            host_country, venue, winner, margin, outcome, toss_win, toss_elect,
+            batter, bowler, dism_mode, bat_win_toss, 
+            bat_home_away, bat_team, bowl_team, spell_balls, is_wkt,
+            spell_runs, spell_wkts, pitch_factor, start_date, game_id, bowl_class, bowl_wkts, bowl_runs, spin_factor, seam_factor)) %>%
+  mutate(sr = as.numeric(as.character(runs)) * 100) %>%
+  na.omit()
+
+# Combine left and right-arm medium into one level
+bbb <- bbb %>% mutate(
+  bowl_type = fct_recode(bowl_type, m = "rm", m = "lm")
+  )
+```
+
+
+
+
+# Legal Deliveries
+```{r}
+legal <- bbb %>% filter(extras=="off_bat") %>% select(-extras)
+```
+
+## EDA of Response
+```{r}
+legal %>% ggplot(aes(x = runs, y = team_lead)) + geom_boxplot()
+legal %>% filter(abs(team_lead) < 450) %>%
+  group_by(team_lead) %>% 
+  summarise(sr = mean(sr)) %>% 
+  ggplot(aes(x = team_lead, y = sr)) + geom_point(alpha = 0.5)
+```
+
+```{r}
+legal %>% ggplot(aes(x = runs, y = bat_sr)) + geom_boxplot()
+```
+
+## Correlation
+```{r}
+
+```
+
+
+# Training-Testing Split
+```{r}
+split <- initial_split(legal, strata = runs)
+train <- training(split) 
+test <- testing(split)
+```
+
+
+
+## Model 1 - Decision Tree
+```{r}
+fit_dt <- decision_tree(mode="classification") %>% 
+  set_engine("rpart") %>%
+  fit(runs ~ . - sr, data = train)
+```
+
+```{r}
+plot(fit_dt$fit)
+```
+
+## Model 2 - Multinomial Regression
+```{r}
+wf_log <- workflow() %>% add_recipe(
+  recipe(runs ~ ., data = train) %>%
+    step_rm(sr) %>%
+    step_dummy(innings, team_wkts, bat_position, bat_arm, bowl_type)
+) %>% add_model(
+  multinom_reg() %>% set_engine("nnet")
+) %>% 
+  fit(data = train)
+
+```
+
+```{r}
+fit_log <- wf_log %>% pull_workflow_fit()
+fit_log$fit
+```

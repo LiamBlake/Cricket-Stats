@@ -1,0 +1,88 @@
+---
+title: "Fall-of-Wicket Poisson Regression Model"
+author: "L. Blake"
+date: "24/03/2021"
+output: html_document
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../../output/notebooks") })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+pacman::p_load(tidyverse, tidymodels, vip, survival, ggfortify, poissonreg)
+source("../pitch_qi.R")
+
+bbb <- readRDS("../../data/processed/bbb_cleaned.RDS") %>%
+  mutate_if(is.character, as.factor) %>%
+  mutate_at(c("innings", "bat_position"), as.factor)
+
+# Use better pitch factors:
+bbb <- pqi_on_all(bbb) %>% 
+  select(-c(bat_team_total_runs, 
+            bat_team_total_wkts, bowl_team_total_runs, bowl_team_total_wkts,
+            host_country, venue, winner, margin, outcome, toss_win, toss_elect,
+            batter, bowler, dism_mode, bat_win_toss, 
+            bat_home_away, bat_team, bowl_team, runs, extras, spell_balls,
+            spell_runs, spell_wkts, pitch_factor, start_date, game_id, bowl_class, bowl_wkts, bowl_runs, spin_factor, seam_factor)) %>%
+  na.omit()
+
+# Regroup medium bowlers
+bbb <- bbb %>% mutate(
+  bowl_type = fct_recode(bowl_type, m = "rm", m = "lm")
+)
+
+```
+
+# Preprocessing
+
+## Reduce to just wickets
+```{r}
+#wkts_only <- bbb %>% filter(is_wkt == "W") %>% select(-is_wkt)  %>% mutate(bat_balls = bat_balls + 1)
+```
+
+
+## Train/Test Split
+```{r}
+split <- initial_split(bbb, strata = is_wkt)
+train <- training(split)
+test <- testing(split)
+```
+
+
+# EDA
+```{r}
+skimr::skim(bbb)
+```
+
+```{r}
+bbb %>% ggplot(aes(x = bat_balls)) + geom_density()
+```
+
+
+# Models
+
+## Model 1 - Logistic Regression on all Predictors
+```{r}
+M1 <- glm(is_wkt ~ ., data = bbb, family=binomial())
+summary(M1)
+```
+
+
+### Model 2 - Remove Unimportant Predictors, Simplify wkts fallen
+```{r}
+bbb <- bbb %>% mutate(
+  team_wkts = fct_recode(team_wkts, toporder = "0", toporder = "1", toporder = "2", toporder = "3", toporder = "4", toporder = "5")
+)
+```
+
+```{r}
+M2 <- update(M1, . ~ . - team_score - bowl_balls - bat_position - bat_arm - bowl_avg)
+summary(M2)
+```
+
+```{r}
+M2_res <- residuals(M2, type="pearson")
+ggplot(aes)
+```
+

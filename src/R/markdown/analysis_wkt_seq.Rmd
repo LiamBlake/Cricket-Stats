@@ -1,0 +1,83 @@
+---
+title: "Fall-of-Wicket Analysis (with sequences)"
+author: "L. Blake"
+date: "03/04/2021"
+output: html_document
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../../output/notebooks") })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+pacman::p_load(tidyverse, tidymodels)
+
+
+# Load data
+data <- read_csv("../../data/processed/bat_bowl_pred.csv") %>% as_tibble() %>%
+  add_column(read_csv("../../data/processed/bat_bowl_out.csv"))
+
+# Normalise pitch factors
+data <- data %>% mutate(s = seam_factor + spin_factor) %>% mutate(seam_factor = seam_factor/s, spin_factor = spin_factor/s)
+
+# Pad sequences
+MAX_MEMORY <- 18 # 3 overs
+pad <- function(val) {
+  seqs <- data.frame(t(rep("-1", MAX_MEMORY)))
+  colnames(seqs) <- paste("ball-", as.character(seq(MAX_MEMORY,1, by=-1)), sep = "")
+  
+  seqs <- seqs %>% as_tibble() %>% slice(rep(1:n(), each = length(val)))
+  
+  for (j in 1:length(val)) {
+    if (val[j] == "[]") {
+      next
+    } else if (substr(val[j], start = 2, stop = 2) == "'") {
+      x <- strsplit(val[j], "', '")[[1]]
+      x[1] <- substr(x[1], start = 3, stop = 3)
+    } else {
+       x <- strsplit(val[j], ", ")[[1]]
+      x[1] <- substr(x[1], start = 2, stop = 2)
+    }
+    
+    
+      x[length(x)] <- substr(x[length(x)], start = 1, stop = 1)
+    
+
+      for (i in 1:min(c(MAX_MEMORY, length(x)))) {
+        seqs[j,MAX_MEMORY - i + 1] <- x[i]
+      }
+    
+    
+  }
+  return(seqs)
+    
+}
+data <- data %>% mutate_at(c("seq"), pad)
+
+tmp <- data$seq
+data <- data %>% select(-seq) %>% add_column(tmp)
+
+data <- data %>% mutate_if(is.character, as.factor) %>% select(-c(s)) %>% rename(next_ball = "0")
+```
+
+
+
+
+# Training, testing split
+```{r}
+split <- initial_split(data, strata = next_ball, prop = 9/10)
+train <- training(split)
+test <- testing(split)
+```
+
+
+# Decision tree
+```{r}
+tree_fit <- decision_tree(mode = "classification") %>% set_engine("rpart") %>%
+  fit(next_ball ~ ., data = train)
+```
+
+
+```{r}
+visNetwork::visTree(tree_fit$fit)
+```
+

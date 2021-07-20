@@ -59,7 +59,7 @@ bbb <- bbb %>%
 
 
 # Pitch factors
-bbb <- pqi_on_all(bbb %>% na.omit()) %>% rename(game_id = game_id.y)
+bbb <- pqi_on_all(bbb %>% na.omit()) %>% rename(game_id = game_id.x) %>% select(-game_id.y)
 
 # Export as RDS object
-saveRDS(bbb, "bbb_cleaned.RDS")
+saveRDS(bbb, "data/processed/bbb_cleaned.RDS")

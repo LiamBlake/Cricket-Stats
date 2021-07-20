@@ -1,0 +1,135 @@
+---
+title: "Fall-of-Wicket Poisson Regression Model"
+author: "L. Blake"
+date: "24/03/2021"
+output: html_document
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../../output/notebooks") })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+pacman::p_load(tidyverse, tidymodels, vip, survival, ggfortify, poissonreg)
+source("../pitch_qi.R")
+
+bbb <- readRDS("../../data/processed/bbb_cleaned.RDS") %>%
+  mutate_if(is.character, as.factor) %>%
+  mutate_at(c("innings", "bat_position"), as.factor)
+
+# Use better pitch factors:
+bbb <- pqi_on_all(bbb) %>% 
+  select(-c(bat_team_total_runs, 
+            bat_team_total_wkts, bowl_team_total_runs, bowl_team_total_wkts,
+            host_country, venue, winner, margin, outcome, toss_win, toss_elect,
+            batter, bowler, dism_mode, bat_win_toss, 
+            bat_home_away, bat_team, bowl_team, runs, extras, spell_balls,
+            spell_runs, spell_wkts, pitch_factor, start_date, game_id, bowl_class, bowl_wkts, bowl_runs, spin_factor, seam_factor)) %>%
+  na.omit()
+
+```
+
+# Preprocessing
+
+## Reduce to just wickets
+```{r}
+wkts_only <- bbb %>% filter(is_wkt == "W") %>% select(-is_wkt)  %>% mutate(bat_balls = bat_balls + 1)
+```
+
+
+## Train/Test Split
+```{r}
+split <- initial_split(wkts_only, strata = bat_balls)
+train <- training(split)
+test <- testing(split)
+```
+
+
+# EDA
+```{r}
+skimr::skim(wkts_only)
+```
+
+```{r}
+wkts_only %>% ggplot(aes(x = bat_balls)) + geom_density()
+```
+
+
+# Models
+
+## Model 1 - Poisson Regression on all Predictors
+```{r}
+M1 <- glm(bat_balls ~ ., data = wkts_only, family=poisson())
+summary(M1)
+```
+
+
+
+
+## Model 2 - Poisson Rate Regression on some Predictors
+```{r}
+M2 <- glm(bat_balls + 1 ~ . + bat_arm:bowl_type - match_balls - team_score - inn_balls, offset = log(inn_balls + 1), data = wkts_only, family=poisson())
+summary(M2)
+```
+
+### Residuals Plots
+```{r}
+M2_res <- residuals(M2)
+gglm::gglm(M2)
+```
+
+
+
+```{r}
+wkts_only %>% ggplot(aes(x = innings, y = M2_res)) + geom_boxplot()
+wkts_only %>% ggplot(aes(x = team_wkts, y = M2_res)) + geom_boxplot()
+wkts_only %>% ggplot(aes(x = team_lead, y = M2_res)) + geom_point()
+wkts_only %>% ggplot(aes(x = bat_position, y = M2_res)) + geom_boxplot()
+wkts_only %>% ggplot(aes(x = bat_score, y = M2_res)) + geom_point()
+wkts_only %>% ggplot(aes(x = bat_avg, y = M2_res)) + geom_point()
+wkts_only %>% ggplot(aes(x = bat_sr, y = M2_res)) + geom_point()
+wkts_only %>% ggplot(aes(x = career_bat_balls, y = M2_res)) + geom_point()
+wkts_only %>% ggplot(aes(x = bowl_avg, y = M2_res)) + geom_point()
+wkts_only %>% ggplot(aes(x = bowl_sr, y = M2_res)) + geom_point()
+wkts_only %>% ggplot(aes(x = bowl_type, y = M2_res)) + geom_boxplot()
+wkts_only %>% ggplot(aes(x = pqi, y = M2_res)) + geom_point()
+wkts_only %>% ggplot(aes(x = bat_arm, y = M2_res)) + geom_boxplot()
+```
+
+
+# Model 3 - Improved Poisson Rate Regression
+```{r}
+pois_wf <- workflow() %>% add_recipe(
+  recipe(bat_balls ~ ., data = wkts_only) %>%
+    step_log(inn_balls, offset = 1) %>%
+    step_rm(match_balls, team_score, career_bat_balls) %>%
+    step_BoxCox(bat_score, bat_avg , bowl_avg, bowl_sr, pqi, offset=) %>%
+    step_poly(bat_score, degree = 2) %>%
+    step_dummy(all_nominal()) %>%
+    step_interact(terms=~starts_with("bat_arm"):starts_with("bowl_type"))) %>%
+  add_model(poisson_reg() %>% set_engine("glm"))
+
+pois_wf <- pois_wf %>% fit(data = wkts_only)
+M3 <- pois_wf %>% pull_workflow_fit()
+summary(M3$fit)
+```
+
+
+```{r}
+prepped <- pois_wf %>% pull_workflow_prepped_recipe()
+tidy(prepped, n = 3)
+
+```
+
+```{r}
+M3_res <- residuals(M3$fit)
+gglm::gglm(M3$fit)
+```
+
+
+
+```{r}
+prepped_data <- prepped %>% bake(new_data=wkts_only)
+prepped_data %>% ggplot(aes(x = team_lead, y = M3_res)) + geom_point()
+prepped_data %>% ggplot(aes(x = bat_avg, y = M3_res)) + geom_point()
+```
