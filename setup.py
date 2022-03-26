@@ -7,6 +7,6 @@ setup(
     author_email="",
     packages=find_packages("src"),
     package_dir={"": "src"},
-    install_requires=["keras", "pandas", "pyreadr"],
+    install_requires=["pandas", "pyreadr", "bs4"],
     extras_require={"dev": ["flake8", "black", "isort"]},
 )

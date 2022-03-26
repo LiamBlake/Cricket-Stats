@@ -1,0 +1,40 @@
+---
+title: "Declaration Timing"
+author: "Liam Blake"
+date: "26/03/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+pacman::p_load(tidyverse)
+
+decs <- read_csv("../../../data/processed/declarations.csv")
+```
+
+## Preprocessing
+
+```{r}
+decs <- decs %>% mutate_if(is.character, as.factor) %>% filter(balls_left > 0)
+```
+
+
+## Visualisation
+
+```{r}
+skimr::skim(decs)
+```
+
+
+```{r}
+decs %>% ggplot(aes(x = balls_left, y = lead, colour = result)) + geom_point()
+```
+
+```{r}
+decs %>% ggplot(aes(x = lead, fill = result)) + geom_density(alpha = 0.5, colour= NA)
+```
+
+```{r}
+decs %>% ggplot(aes(x = balls_left, fill = result)) + geom_density(alpha = 0.5, colour= NA)
+```
