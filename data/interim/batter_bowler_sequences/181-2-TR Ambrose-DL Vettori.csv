@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,985,438,ENG,7,165,-216,TR Ambrose,DL Vettori,8,1,8,25.87,452,45.79,Right-hand bat,154,46,4,19704.5,34.27,76.9,lo,1,ENG,spin,no,16.288062283737027,12.001730103806228
-2,988,441,ENG,7,167,-214,TR Ambrose,DL Vettori,8,2,9,25.87,452,45.79,Right-hand bat,157,48,4,19704.5,34.27,76.9,lo,0,ENG,spin,no,16.288062283737027,12.001730103806228
-2,989,442,ENG,7,167,-214,TR Ambrose,DL Vettori,8,2,10,25.87,452,45.79,Right-hand bat,158,48,4,19704.5,34.27,76.9,lo,0,ENG,spin,no,16.288062283737027,12.001730103806228
-2,990,443,ENG,7,167,-214,TR Ambrose,DL Vettori,8,2,11,25.87,452,45.79,Right-hand bat,159,48,4,19704.5,34.27,76.9,lo,0,ENG,spin,no,16.288062283737027,12.001730103806228
-2,997,450,ENG,7,175,-206,TR Ambrose,DL Vettori,8,2,12,25.87,452,45.79,Right-hand bat,160,48,4,19704.5,34.27,76.9,lo,0,ENG,spin,no,16.288062283737027,12.001730103806228
-2,998,451,ENG,7,175,-206,TR Ambrose,DL Vettori,8,2,13,25.87,452,45.79,Right-hand bat,161,48,4,19704.5,34.27,76.9,lo,1,ENG,spin,no,16.288062283737027,12.001730103806228
-2,1010,463,ENG,7,179,-202,TR Ambrose,DL Vettori,8,3,17,25.87,452,45.79,Right-hand bat,167,51,4,19704.5,34.27,76.9,lo,W,ENG,spin,no,16.288062283737027,12.001730103806228

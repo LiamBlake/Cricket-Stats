@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1460,248,WIN,8,121,-230,SS Cottrell,DW Steyn,10,0,0,2.75,24,45.83,Right-hand bat,44,30,5,16104.5,22.44,41.4,rf,2,RSA,seam,yes,28.288,4.2432
-3,1461,249,WIN,8,123,-228,SS Cottrell,DW Steyn,10,2,1,2.75,24,45.83,Right-hand bat,45,32,5,16104.5,22.44,41.4,rf,0,RSA,seam,yes,28.288,4.2432
-3,1462,250,WIN,8,123,-228,SS Cottrell,DW Steyn,10,2,2,2.75,24,45.83,Right-hand bat,46,32,5,16104.5,22.44,41.4,rf,2,RSA,seam,yes,28.288,4.2432
-3,1469,257,WIN,8,131,-220,SS Cottrell,DW Steyn,10,4,3,2.75,24,45.83,Right-hand bat,47,34,5,16104.5,22.44,41.4,rf,0,RSA,seam,yes,28.288,4.2432
-3,1470,258,WIN,8,131,-220,SS Cottrell,DW Steyn,10,4,4,2.75,24,45.83,Right-hand bat,48,34,5,16104.5,22.44,41.4,rf,0,RSA,seam,yes,28.288,4.2432
-3,1471,259,WIN,8,131,-220,SS Cottrell,DW Steyn,10,4,5,2.75,24,45.83,Right-hand bat,49,34,5,16104.5,22.44,41.4,rf,W,RSA,seam,yes,28.288,4.2432

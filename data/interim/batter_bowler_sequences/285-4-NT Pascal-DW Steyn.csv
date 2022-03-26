@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1927,480,WIN,9,289,-167,NT Pascal,DW Steyn,11,6,8,6,27,44.44,Right-hand bat,90,61,2,7950.5,23.05,38.9,rf,0,WIN,seam,no,14.839100346020762,13.190311418685122
-4,1928,481,WIN,9,289,-167,NT Pascal,DW Steyn,11,6,9,6,27,44.44,Right-hand bat,91,61,2,7950.5,23.05,38.9,rf,4,WIN,seam,no,14.839100346020762,13.190311418685122
-4,1929,482,WIN,9,293,-163,NT Pascal,DW Steyn,11,10,10,6,27,44.44,Right-hand bat,92,65,2,7950.5,23.05,38.9,rf,W,WIN,seam,no,14.839100346020762,13.190311418685122

@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,583,583,NZL,6,287,287,DL Vettori,Z Khan,8,0,0,30.58,7010,57.58,Left-hand bat,128,50,4,15276.1,32.22,58.5,lfm,0,IND,seam,yes,20.479591836734695,27.30612244897959
-1,584,584,NZL,6,287,287,DL Vettori,Z Khan,8,0,1,30.58,7010,57.58,Left-hand bat,129,50,4,15276.1,32.22,58.5,lfm,1,IND,seam,yes,20.479591836734695,27.30612244897959
-1,593,593,NZL,6,293,293,DL Vettori,Z Khan,8,2,6,30.58,7010,57.58,Left-hand bat,132,55,4,15276.1,32.22,58.5,lfm,1,IND,seam,yes,20.479591836734695,27.30612244897959
-1,595,595,NZL,6,295,295,DL Vettori,Z Khan,8,3,7,30.58,7010,57.58,Left-hand bat,134,57,4,15276.1,32.22,58.5,lfm,0,IND,seam,yes,20.479591836734695,27.30612244897959
-1,596,596,NZL,6,295,295,DL Vettori,Z Khan,8,3,8,30.58,7010,57.58,Left-hand bat,135,57,4,15276.1,32.22,58.5,lfm,0,IND,seam,yes,20.479591836734695,27.30612244897959
-1,597,597,NZL,6,295,295,DL Vettori,Z Khan,8,3,9,30.58,7010,57.58,Left-hand bat,136,57,4,15276.1,32.22,58.5,lfm,0,IND,seam,yes,20.479591836734695,27.30612244897959
-1,598,598,NZL,6,295,295,DL Vettori,Z Khan,8,3,10,30.58,7010,57.58,Left-hand bat,137,57,4,15276.1,32.22,58.5,lfm,2,IND,seam,yes,20.479591836734695,27.30612244897959

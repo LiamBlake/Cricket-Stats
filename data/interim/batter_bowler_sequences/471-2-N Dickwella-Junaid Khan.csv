@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1705,859,SRL,5,451,0,N Dickwella,Junaid Khan,7,0,0,31,144,64.58,Left-hand bat,176,95,2,3780.4,29.78,63,lf,0,SRL,seam,no,12.333984375,27.134765625
-2,1706,860,SRL,5,451,0,N Dickwella,Junaid Khan,7,0,1,31,144,64.58,Left-hand bat,177,95,2,3780.4,29.78,63,lf,4,SRL,seam,no,12.333984375,27.134765625
-2,1707,861,SRL,5,455,4,N Dickwella,Junaid Khan,7,4,2,31,144,64.58,Left-hand bat,178,99,2,3780.4,29.78,63,lf,0,SRL,seam,no,12.333984375,27.134765625
-2,1708,862,SRL,5,455,4,N Dickwella,Junaid Khan,7,4,3,31,144,64.58,Left-hand bat,179,99,2,3780.4,29.78,63,lf,0,SRL,seam,no,12.333984375,27.134765625
-2,1709,863,SRL,5,455,4,N Dickwella,Junaid Khan,7,4,4,31,144,64.58,Left-hand bat,180,99,2,3780.4,29.78,63,lf,0,SRL,seam,no,12.333984375,27.134765625

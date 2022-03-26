@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1749,537,ENG,6,237,-138,JC Buttler,A Nortje,7,5,26,33,3564,57.4,Right-hand bat,93,45,2,468.3,47,78.5,rf,4,RSA,seam,yes,23.86875,1.25625
-4,1750,538,ENG,6,241,-134,JC Buttler,A Nortje,7,9,27,33,3564,57.4,Right-hand bat,94,49,2,468.3,47,78.5,rf,0,RSA,seam,yes,23.86875,1.25625
-4,1751,539,ENG,6,241,-134,JC Buttler,A Nortje,7,9,28,33,3564,57.4,Right-hand bat,95,49,2,468.3,47,78.5,rf,6,RSA,seam,yes,23.86875,1.25625
-4,1752,540,ENG,6,247,-128,JC Buttler,A Nortje,7,15,29,33,3564,57.4,Right-hand bat,96,55,2,468.3,47,78.5,rf,0,RSA,seam,yes,23.86875,1.25625
-4,1759,547,ENG,7,255,-120,JC Buttler,A Nortje,7,15,30,33,3564,57.4,Right-hand bat,97,55,2,468.3,47,78.5,rf,1,RSA,seam,yes,23.86875,1.25625

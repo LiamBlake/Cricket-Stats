@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1001,162,ENG,3,68,-275,PD Collingwood,BW Hilfenhaus,5,0,1,43.17,7646,46.29,Right-hand bat,54,29,2,1638,33.64,65.5,rfm,2,ENG,seam,yes,27,0
-3,1002,163,ENG,3,70,-273,PD Collingwood,BW Hilfenhaus,5,2,2,43.17,7646,46.29,Right-hand bat,55,31,2,1638,33.64,65.5,rfm,1nb,ENG,seam,yes,27,0
-3,1003,164,ENG,3,71,-272,PD Collingwood,BW Hilfenhaus,5,2,3,43.17,7646,46.29,Right-hand bat,56,32,2,1638,33.64,65.5,rfm,2,ENG,seam,yes,27,0
-3,1004,165,ENG,3,73,-270,PD Collingwood,BW Hilfenhaus,5,4,4,43.17,7646,46.29,Right-hand bat,57,34,2,1638,33.64,65.5,rfm,0,ENG,seam,yes,27,0
-3,1005,166,ENG,3,73,-270,PD Collingwood,BW Hilfenhaus,5,4,5,43.17,7646,46.29,Right-hand bat,58,34,2,1638,33.64,65.5,rfm,0,ENG,seam,yes,27,0

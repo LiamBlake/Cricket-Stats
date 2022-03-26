@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,538,26,ENG,1,11,-273,DP Sibley,K Rabada,2,0,6,14.2,247,28.74,Right-hand bat,14,7,0,7602.2,22.57,40,rf,0,RSA,seam,yes,23.86875,1.25625
-2,539,27,ENG,1,11,-273,DP Sibley,K Rabada,2,0,7,14.2,247,28.74,Right-hand bat,15,7,0,7602.2,22.57,40,rf,0,RSA,seam,yes,23.86875,1.25625
-2,540,28,ENG,1,11,-273,DP Sibley,K Rabada,2,0,8,14.2,247,28.74,Right-hand bat,16,7,0,7602.2,22.57,40,rf,0,RSA,seam,yes,23.86875,1.25625
-2,541,29,ENG,1,11,-273,DP Sibley,K Rabada,2,0,9,14.2,247,28.74,Right-hand bat,17,7,0,7602.2,22.57,40,rf,0,RSA,seam,yes,23.86875,1.25625
-2,542,30,ENG,1,11,-273,DP Sibley,K Rabada,2,0,10,14.2,247,28.74,Right-hand bat,18,7,0,7602.2,22.57,40,rf,4,RSA,seam,yes,23.86875,1.25625
-2,543,31,ENG,1,15,-269,DP Sibley,K Rabada,2,4,11,14.2,247,28.74,Right-hand bat,19,11,0,7602.2,22.57,40,rf,W,RSA,seam,yes,23.86875,1.25625

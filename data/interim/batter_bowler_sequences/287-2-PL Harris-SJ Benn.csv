@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,512,64,RSA,2,41,-190,PL Harris,SJ Benn,4,0,0,11.54,1222,34.94,Right-hand bat,1,0,1,4254.1,40.92,85.1,lo,0,WIN,spin,no,13.730945821854913,10.117539026629936
-2,513,65,RSA,2,41,-190,PL Harris,SJ Benn,4,0,1,11.54,1222,34.94,Right-hand bat,2,0,1,4254.1,40.92,85.1,lo,0,WIN,spin,no,13.730945821854913,10.117539026629936
-2,514,66,RSA,2,41,-190,PL Harris,SJ Benn,4,0,2,11.54,1222,34.94,Right-hand bat,3,0,1,4254.1,40.92,85.1,lo,0,WIN,spin,no,13.730945821854913,10.117539026629936
-2,515,67,RSA,2,41,-190,PL Harris,SJ Benn,4,0,3,11.54,1222,34.94,Right-hand bat,4,0,1,4254.1,40.92,85.1,lo,0,WIN,spin,no,13.730945821854913,10.117539026629936
-2,516,68,RSA,2,41,-190,PL Harris,SJ Benn,4,0,4,11.54,1222,34.94,Right-hand bat,5,0,1,4254.1,40.92,85.1,lo,1,WIN,spin,no,13.730945821854913,10.117539026629936
-2,526,78,RSA,2,45,-186,PL Harris,SJ Benn,4,2,9,11.54,1222,34.94,Right-hand bat,9,2,1,4254.1,40.92,85.1,lo,0,WIN,spin,no,13.730945821854913,10.117539026629936
-2,527,79,RSA,2,45,-186,PL Harris,SJ Benn,4,2,10,11.54,1222,34.94,Right-hand bat,10,2,1,4254.1,40.92,85.1,lo,0,WIN,spin,no,13.730945821854913,10.117539026629936
-2,528,80,RSA,2,45,-186,PL Harris,SJ Benn,4,2,11,11.54,1222,34.94,Right-hand bat,11,2,1,4254.1,40.92,85.1,lo,0,WIN,spin,no,13.730945821854913,10.117539026629936

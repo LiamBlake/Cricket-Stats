@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,613,613,AUS,5,351,351,PM Nevill,MM Ali,7,5,11,23.83,313,45.68,Right-hand bat,62,50,1,2520.4,36.04,56,rob,1,ENG,spin,no,22.391111111111112,8.142222222222223
-1,636,636,AUS,5,372,372,PM Nevill,MM Ali,7,14,24,23.83,313,45.68,Right-hand bat,72,61,1,2520.4,36.04,56,rob,0,ENG,spin,no,22.391111111111112,8.142222222222223
-1,637,637,AUS,5,372,372,PM Nevill,MM Ali,7,14,25,23.83,313,45.68,Right-hand bat,73,61,1,2520.4,36.04,56,rob,4,ENG,spin,no,22.391111111111112,8.142222222222223
-1,638,638,AUS,5,376,376,PM Nevill,MM Ali,7,18,26,23.83,313,45.68,Right-hand bat,74,65,1,2520.4,36.04,56,rob,W,ENG,spin,no,22.391111111111112,8.142222222222223

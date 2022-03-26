@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,604,205,PAK,2,90,-63,Azhar Ali,IS Sodhi,3,21,88,44.18,13042,41.32,Right-hand bat,1,1,0,3054,47.04,74.4,rls,0,NZL,spin,no,9,11
-2,605,206,PAK,2,90,-63,Azhar Ali,IS Sodhi,3,21,89,44.18,13042,41.32,Right-hand bat,2,1,0,3054,47.04,74.4,rls,0,NZL,spin,no,9,11
-2,606,207,PAK,2,90,-63,Azhar Ali,IS Sodhi,3,21,90,44.18,13042,41.32,Right-hand bat,3,1,0,3054,47.04,74.4,rls,0,NZL,spin,no,9,11
-2,607,208,PAK,2,90,-63,Azhar Ali,IS Sodhi,3,21,91,44.18,13042,41.32,Right-hand bat,4,1,0,3054,47.04,74.4,rls,0,NZL,spin,no,9,11
-2,608,209,PAK,2,90,-63,Azhar Ali,IS Sodhi,3,21,92,44.18,13042,41.32,Right-hand bat,5,1,0,3054,47.04,74.4,rls,0,NZL,spin,no,9,11
-2,615,216,PAK,2,90,-63,Azhar Ali,IS Sodhi,3,21,93,44.18,13042,41.32,Right-hand bat,6,1,0,3054,47.04,74.4,rls,1,NZL,spin,no,9,11

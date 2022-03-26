@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,556,97,AUS,1,22,-237,DA Warner,VD Philander,3,3,3,48.08,6333,77.45,Left-hand bat,37,15,0,6894.2,22.21,48.5,rfm,0,AUS,seam,no,23.8828125,7.9609375
-2,557,98,AUS,1,22,-237,DA Warner,VD Philander,3,3,4,48.08,6333,77.45,Left-hand bat,38,15,0,6894.2,22.21,48.5,rfm,1lb,AUS,seam,no,23.8828125,7.9609375
-2,568,109,AUS,1,26,-233,DA Warner,VD Philander,3,4,11,48.08,6333,77.45,Left-hand bat,43,17,0,6894.2,22.21,48.5,rfm,0,AUS,seam,no,23.8828125,7.9609375
-2,569,110,AUS,1,26,-233,DA Warner,VD Philander,3,4,12,48.08,6333,77.45,Left-hand bat,44,17,0,6894.2,22.21,48.5,rfm,0,AUS,seam,no,23.8828125,7.9609375
-2,570,111,AUS,1,26,-233,DA Warner,VD Philander,3,4,13,48.08,6333,77.45,Left-hand bat,45,17,0,6894.2,22.21,48.5,rfm,2,AUS,seam,no,23.8828125,7.9609375
-2,571,112,AUS,1,28,-231,DA Warner,VD Philander,3,6,14,48.08,6333,77.45,Left-hand bat,46,19,0,6894.2,22.21,48.5,rfm,3,AUS,seam,no,23.8828125,7.9609375

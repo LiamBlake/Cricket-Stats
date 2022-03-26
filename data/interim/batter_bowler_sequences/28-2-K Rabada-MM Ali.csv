@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,997,343,RSA,7,171,-191,K Rabada,MM Ali,9,0,0,14.38,520,49.8,Left-hand bat,96,40,2,7392,36.82,60,rob,0,ENG,spin,no,19.36875,6.45625
-2,998,344,RSA,7,171,-191,K Rabada,MM Ali,9,0,1,14.38,520,49.8,Left-hand bat,97,40,2,7392,36.82,60,rob,0,ENG,spin,no,19.36875,6.45625
-2,999,345,RSA,7,171,-191,K Rabada,MM Ali,9,0,2,14.38,520,49.8,Left-hand bat,98,40,2,7392,36.82,60,rob,0,ENG,spin,no,19.36875,6.45625
-2,1000,346,RSA,7,171,-191,K Rabada,MM Ali,9,0,3,14.38,520,49.8,Left-hand bat,99,40,2,7392,36.82,60,rob,0,ENG,spin,no,19.36875,6.45625
-2,1001,347,RSA,7,171,-191,K Rabada,MM Ali,9,0,4,14.38,520,49.8,Left-hand bat,100,40,2,7392,36.82,60,rob,1,ENG,spin,no,19.36875,6.45625
-2,1050,396,RSA,8,203,-159,K Rabada,MM Ali,9,14,21,14.38,520,49.8,Left-hand bat,125,57,2,7392,36.82,60,rob,0,ENG,spin,no,19.36875,6.45625

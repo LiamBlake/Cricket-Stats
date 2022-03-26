@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1389,607,WIN,2,355,4,MN Samuels,CS Martin,4,28,42,33.4,4803,46.59,Right-hand bat,97,91,0,13746.2,33.79,60,rfm,0,WIN,seam,no,24.65452653485952,15.571279916753383
-2,1390,608,WIN,2,355,4,MN Samuels,CS Martin,4,28,43,33.4,4803,46.59,Right-hand bat,98,91,0,13746.2,33.79,60,rfm,0,WIN,seam,no,24.65452653485952,15.571279916753383
-2,1391,609,WIN,2,355,4,MN Samuels,CS Martin,4,28,44,33.4,4803,46.59,Right-hand bat,99,91,0,13746.2,33.79,60,rfm,0,WIN,seam,no,24.65452653485952,15.571279916753383
-2,1392,610,WIN,2,355,4,MN Samuels,CS Martin,4,28,45,33.4,4803,46.59,Right-hand bat,100,91,0,13746.2,33.79,60,rfm,0,WIN,seam,no,24.65452653485952,15.571279916753383
-2,1393,611,WIN,2,355,4,MN Samuels,CS Martin,4,28,46,33.4,4803,46.59,Right-hand bat,101,91,0,13746.2,33.79,60,rfm,0,WIN,seam,no,24.65452653485952,15.571279916753383
-2,1394,612,WIN,2,355,4,MN Samuels,CS Martin,4,28,47,33.4,4803,46.59,Right-hand bat,102,91,0,13746.2,33.79,60,rfm,W,WIN,seam,no,24.65452653485952,15.571279916753383

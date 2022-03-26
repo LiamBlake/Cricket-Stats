@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1986,430,SRL,9,241,-54,PM Pushpakumara,MJ Leach,11,0,3,9.4,170,27.64,Right-hand bat,160,81,4,882,24.46,58.8,lo,0,ENG,spin,no,1.51875,28.85625
-4,1987,431,SRL,9,241,-54,PM Pushpakumara,MJ Leach,11,0,4,9.4,170,27.64,Right-hand bat,161,81,4,882,24.46,58.8,lo,0,ENG,spin,no,1.51875,28.85625
-4,1994,438,SRL,9,241,-54,PM Pushpakumara,MJ Leach,11,0,5,9.4,170,27.64,Right-hand bat,162,81,4,882,24.46,58.8,lo,0,ENG,spin,no,1.51875,28.85625
-4,1995,439,SRL,9,241,-54,PM Pushpakumara,MJ Leach,11,0,6,9.4,170,27.64,Right-hand bat,163,81,4,882,24.46,58.8,lo,1,ENG,spin,no,1.51875,28.85625
-4,1998,442,SRL,9,243,-52,PM Pushpakumara,MJ Leach,11,1,7,9.4,170,27.64,Right-hand bat,166,83,4,882,24.46,58.8,lo,0,ENG,spin,no,1.51875,28.85625
-4,1999,443,SRL,9,243,-52,PM Pushpakumara,MJ Leach,11,1,8,9.4,170,27.64,Right-hand bat,167,83,4,882,24.46,58.8,lo,W,ENG,spin,no,1.51875,28.85625

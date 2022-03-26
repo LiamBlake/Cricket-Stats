@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,2264,213,ENG,5,212,214,SCJ Broad,FH Edwards,7,0,1,29.18,810,57.65,Left-hand bat,63,55,0,6930.1,39.94,60.2,rf,1,WIN,seam,yes,25.61777777777778,22.415555555555557
-3,2272,221,ENG,5,222,224,SCJ Broad,FH Edwards,7,2,5,29.18,810,57.65,Left-hand bat,65,57,0,6930.1,39.94,60.2,rf,0,WIN,seam,yes,25.61777777777778,22.415555555555557
-3,2273,222,ENG,5,222,224,SCJ Broad,FH Edwards,7,2,6,29.18,810,57.65,Left-hand bat,66,57,0,6930.1,39.94,60.2,rf,4,WIN,seam,yes,25.61777777777778,22.415555555555557
-3,2274,223,ENG,5,226,228,SCJ Broad,FH Edwards,7,6,7,29.18,810,57.65,Left-hand bat,67,61,0,6930.1,39.94,60.2,rf,0,WIN,seam,yes,25.61777777777778,22.415555555555557
-3,2275,224,ENG,5,226,228,SCJ Broad,FH Edwards,7,6,8,29.18,810,57.65,Left-hand bat,68,61,0,6930.1,39.94,60.2,rf,1,WIN,seam,yes,25.61777777777778,22.415555555555557
-3,2277,226,ENG,5,228,230,SCJ Broad,FH Edwards,7,7,9,29.18,810,57.65,Left-hand bat,70,63,0,6930.1,39.94,60.2,rf,0,WIN,seam,yes,25.61777777777778,22.415555555555557
-3,2285,234,ENG,5,236,238,SCJ Broad,FH Edwards,7,12,14,29.18,810,57.65,Left-hand bat,72,64,0,6930.1,39.94,60.2,rf,1,WIN,seam,yes,25.61777777777778,22.415555555555557

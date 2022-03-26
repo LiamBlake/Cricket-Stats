@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1338,139,NZL,2,72,-116,KS Williamson,AD Mathews,3,33,63,49.93,8052,48.37,Right-hand bat,0,0,0,3210,49.56,107,rm,0,NZL,seam,yes,22.92489795918367,1.3893877551020408
-4,1339,140,NZL,2,72,-116,KS Williamson,AD Mathews,3,33,64,49.93,8052,48.37,Right-hand bat,1,0,0,3210,49.56,107,rm,2,NZL,seam,yes,22.92489795918367,1.3893877551020408
-4,1340,141,NZL,2,74,-114,KS Williamson,AD Mathews,3,35,65,49.93,8052,48.37,Right-hand bat,2,2,0,3210,49.56,107,rm,0,NZL,seam,yes,22.92489795918367,1.3893877551020408
-4,1341,142,NZL,2,74,-114,KS Williamson,AD Mathews,3,35,66,49.93,8052,48.37,Right-hand bat,3,2,0,3210,49.56,107,rm,2,NZL,seam,yes,22.92489795918367,1.3893877551020408
-4,1342,143,NZL,2,76,-112,KS Williamson,AD Mathews,3,37,67,49.93,8052,48.37,Right-hand bat,4,4,0,3210,49.56,107,rm,0,NZL,seam,yes,22.92489795918367,1.3893877551020408
-4,1343,144,NZL,2,76,-112,KS Williamson,AD Mathews,3,37,68,49.93,8052,48.37,Right-hand bat,5,4,0,3210,49.56,107,rm,0,NZL,seam,yes,22.92489795918367,1.3893877551020408

@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1244,166,IND,9,91,-247,I Sharma,CJ Jordan,11,0,0,9.35,1793,29.22,Right-hand bat,22,16,3,906,33.06,60.4,rfm,0,ENG,seam,no,21.839999999999996,2.4266666666666667
-3,1245,167,IND,9,91,-247,I Sharma,CJ Jordan,11,0,1,9.35,1793,29.22,Right-hand bat,23,16,3,906,33.06,60.4,rfm,2,ENG,seam,no,21.839999999999996,2.4266666666666667
-3,1253,175,IND,9,94,-244,I Sharma,CJ Jordan,11,2,2,9.35,1793,29.22,Right-hand bat,24,18,3,906,33.06,60.4,rfm,0,ENG,seam,no,21.839999999999996,2.4266666666666667
-3,1254,176,IND,9,94,-244,I Sharma,CJ Jordan,11,2,3,9.35,1793,29.22,Right-hand bat,25,18,3,906,33.06,60.4,rfm,W,ENG,seam,no,21.839999999999996,2.4266666666666667

@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,709,84,WIN,0,41,-236,JD Campbell,MM Ali,2,29,43,35.2,305,57.7,Left-hand bat,6,0,0,10692.2,36.37,60.4,rob,3,WIN,spin,yes,23.862857142857145,5.965714285714286
-2,712,87,WIN,0,45,-232,JD Campbell,MM Ali,2,32,44,35.2,305,57.7,Left-hand bat,9,4,0,10692.2,36.37,60.4,rob,0,WIN,spin,yes,23.862857142857145,5.965714285714286
-2,713,88,WIN,0,45,-232,JD Campbell,MM Ali,2,32,45,35.2,305,57.7,Left-hand bat,10,4,0,10692.2,36.37,60.4,rob,0,WIN,spin,yes,23.862857142857145,5.965714285714286
-2,714,89,WIN,0,45,-232,JD Campbell,MM Ali,2,32,46,35.2,305,57.7,Left-hand bat,11,4,0,10692.2,36.37,60.4,rob,1,WIN,spin,yes,23.862857142857145,5.965714285714286
-2,723,98,WIN,0,52,-225,JD Campbell,MM Ali,2,37,54,35.2,305,57.7,Left-hand bat,13,6,0,10692.2,36.37,60.4,rob,0,WIN,spin,yes,23.862857142857145,5.965714285714286
-2,724,99,WIN,0,52,-225,JD Campbell,MM Ali,2,37,55,35.2,305,57.7,Left-hand bat,14,6,0,10692.2,36.37,60.4,rob,0,WIN,spin,yes,23.862857142857145,5.965714285714286
-2,725,100,WIN,0,52,-225,JD Campbell,MM Ali,2,37,56,35.2,305,57.7,Left-hand bat,15,6,0,10692.2,36.37,60.4,rob,1,WIN,spin,yes,23.862857142857145,5.965714285714286
-2,737,112,WIN,1,57,-220,JD Campbell,MM Ali,2,41,62,35.2,305,57.7,Left-hand bat,21,7,1,10692.2,36.37,60.4,rob,W,WIN,spin,yes,23.862857142857145,5.965714285714286

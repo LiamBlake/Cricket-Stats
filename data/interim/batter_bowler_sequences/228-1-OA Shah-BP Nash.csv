@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,453,453,ENG,2,256,256,OA Shah,BP Nash,3,6,31,29.37,519,45.27,Right-hand bat,20,7,0,162,78,162,lm,0,WIN,seam,yes,50.69896193771626,45.06574394463668
-1,454,454,ENG,2,256,256,OA Shah,BP Nash,3,6,32,29.37,519,45.27,Right-hand bat,21,7,0,162,78,162,lm,0,WIN,seam,yes,50.69896193771626,45.06574394463668
-1,455,455,ENG,2,256,256,OA Shah,BP Nash,3,6,33,29.37,519,45.27,Right-hand bat,22,7,0,162,78,162,lm,0,WIN,seam,yes,50.69896193771626,45.06574394463668
-1,456,456,ENG,2,256,256,OA Shah,BP Nash,3,6,34,29.37,519,45.27,Right-hand bat,23,7,0,162,78,162,lm,0,WIN,seam,yes,50.69896193771626,45.06574394463668
-1,465,465,ENG,2,258,258,OA Shah,BP Nash,3,6,39,29.37,519,45.27,Right-hand bat,26,8,0,162,78,162,lm,0,WIN,seam,yes,50.69896193771626,45.06574394463668
-1,466,466,ENG,2,258,258,OA Shah,BP Nash,3,6,40,29.37,519,45.27,Right-hand bat,27,8,0,162,78,162,lm,0,WIN,seam,yes,50.69896193771626,45.06574394463668
-1,467,467,ENG,2,258,258,OA Shah,BP Nash,3,6,41,29.37,519,45.27,Right-hand bat,28,8,0,162,78,162,lm,1,WIN,seam,yes,50.69896193771626,45.06574394463668

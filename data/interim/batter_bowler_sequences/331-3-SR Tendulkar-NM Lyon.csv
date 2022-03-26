@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1706,360,IND,3,206,-262,SR Tendulkar,NM Lyon,4,50,90,56.03,NA,NA,Right-hand bat,38,29,0,1356.4,30.04,56.6,rob,1,AUS,spin,yes,47.743055555555564,4.340277777777778
-3,1709,363,IND,3,208,-260,SR Tendulkar,NM Lyon,4,51,91,56.03,NA,NA,Right-hand bat,41,31,0,1356.4,30.04,56.6,rob,0,AUS,spin,yes,47.743055555555564,4.340277777777778
-3,1716,370,IND,3,210,-258,SR Tendulkar,NM Lyon,4,51,92,56.03,NA,NA,Right-hand bat,42,31,0,1356.4,30.04,56.6,rob,1,AUS,spin,yes,47.743055555555564,4.340277777777778
-3,1728,382,IND,3,218,-250,SR Tendulkar,NM Lyon,4,52,93,56.03,NA,NA,Right-hand bat,48,35,0,1356.4,30.04,56.6,rob,1,AUS,spin,yes,47.743055555555564,4.340277777777778
-3,1741,395,IND,3,230,-238,SR Tendulkar,NM Lyon,4,60,98,56.03,NA,NA,Right-hand bat,55,37,0,1356.4,30.04,56.6,rob,0,AUS,spin,yes,47.743055555555564,4.340277777777778
-3,1742,396,IND,3,230,-238,SR Tendulkar,NM Lyon,4,60,99,56.03,NA,NA,Right-hand bat,56,37,0,1356.4,30.04,56.6,rob,1,AUS,spin,yes,47.743055555555564,4.340277777777778
-3,1756,410,IND,3,238,-230,SR Tendulkar,NM Lyon,4,67,106,56.03,NA,NA,Right-hand bat,64,39,0,1356.4,30.04,56.6,rob,2,AUS,spin,yes,47.743055555555564,4.340277777777778
-3,1757,411,IND,3,240,-228,SR Tendulkar,NM Lyon,4,69,107,56.03,NA,NA,Right-hand bat,65,41,0,1356.4,30.04,56.6,rob,0,AUS,spin,yes,47.743055555555564,4.340277777777778

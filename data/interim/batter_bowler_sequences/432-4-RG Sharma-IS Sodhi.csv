@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1802,448,IND,3,248,-158,RG Sharma,IS Sodhi,5,17,42,60.57,709,59.8,Right-hand bat,71,64,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
-4,1810,456,IND,4,254,-152,RG Sharma,IS Sodhi,5,17,45,60.57,709,59.8,Right-hand bat,73,65,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
-4,1811,457,IND,4,254,-152,RG Sharma,IS Sodhi,5,17,46,60.57,709,59.8,Right-hand bat,74,65,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
-4,1812,458,IND,4,254,-152,RG Sharma,IS Sodhi,5,17,47,60.57,709,59.8,Right-hand bat,75,65,0,1062.3,59.72,96.8,rls,1,NZL,spin,yes,27.93,1.47
-4,1822,468,IND,4,256,-150,RG Sharma,IS Sodhi,5,18,54,60.57,709,59.8,Right-hand bat,79,67,0,1062.3,59.72,96.8,rls,1,NZL,spin,yes,27.93,1.47
-4,1837,483,IND,4,268,-138,RG Sharma,IS Sodhi,5,19,56,60.57,709,59.8,Right-hand bat,88,78,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47
-4,1838,484,IND,4,268,-138,RG Sharma,IS Sodhi,5,19,57,60.57,709,59.8,Right-hand bat,89,78,0,1062.3,59.72,96.8,rls,0,NZL,spin,yes,27.93,1.47

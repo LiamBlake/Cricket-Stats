@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1828,229,NZL,2,116,-5,HD Rutherford,N Deonarine,2,42,109,34.87,916,60.91,Left-hand bat,0,0,0,1500.3,29.7,62.6,rob,1,NZL,spin,yes,21.1806640625,8.2880859375
-4,1832,233,NZL,2,118,-3,HD Rutherford,N Deonarine,2,43,110,34.87,916,60.91,Left-hand bat,4,2,0,1500.3,29.7,62.6,rob,0,NZL,spin,yes,21.1806640625,8.2880859375
-4,1833,234,NZL,2,118,-3,HD Rutherford,N Deonarine,2,43,111,34.87,916,60.91,Left-hand bat,5,2,0,1500.3,29.7,62.6,rob,0,NZL,spin,yes,21.1806640625,8.2880859375
-4,1840,241,NZL,2,120,-1,HD Rutherford,N Deonarine,2,44,113,34.87,916,60.91,Left-hand bat,6,2,0,1500.3,29.7,62.6,rob,0,NZL,spin,yes,21.1806640625,8.2880859375
-4,1841,242,NZL,2,120,-1,HD Rutherford,N Deonarine,2,44,114,34.87,916,60.91,Left-hand bat,7,2,0,1500.3,29.7,62.6,rob,0,NZL,spin,yes,21.1806640625,8.2880859375
-4,1842,243,NZL,2,120,-1,HD Rutherford,N Deonarine,2,44,115,34.87,916,60.91,Left-hand bat,8,2,0,1500.3,29.7,62.6,rob,0,NZL,spin,yes,21.1806640625,8.2880859375
-4,1843,244,NZL,2,120,-1,HD Rutherford,N Deonarine,2,44,116,34.87,916,60.91,Left-hand bat,9,2,0,1500.3,29.7,62.6,rob,4,NZL,spin,yes,21.1806640625,8.2880859375

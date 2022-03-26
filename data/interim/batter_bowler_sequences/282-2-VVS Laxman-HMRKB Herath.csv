@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1167,593,IND,3,504,111,VVS Laxman,HMRKB Herath,5,2,19,45.5,14113,49.01,Right-hand bat,164,135,1,5112.1,36.68,73,lo,1,IND,spin,no,18.677764565992863,30.56361474435196
-2,1177,603,IND,3,508,115,VVS Laxman,HMRKB Herath,5,6,24,45.5,14113,49.01,Right-hand bat,168,136,1,5112.1,36.68,73,lo,2,IND,spin,no,18.677764565992863,30.56361474435196
-2,1178,604,IND,3,510,117,VVS Laxman,HMRKB Herath,5,8,25,45.5,14113,49.01,Right-hand bat,169,138,1,5112.1,36.68,73,lo,1,IND,spin,no,18.677764565992863,30.56361474435196
-2,1180,606,IND,3,512,119,VVS Laxman,HMRKB Herath,5,9,26,45.5,14113,49.01,Right-hand bat,171,140,1,5112.1,36.68,73,lo,1,IND,spin,no,18.677764565992863,30.56361474435196
-2,1182,608,IND,3,514,121,VVS Laxman,HMRKB Herath,5,10,27,45.5,14113,49.01,Right-hand bat,173,142,1,5112.1,36.68,73,lo,0,IND,spin,no,18.677764565992863,30.56361474435196
-2,1201,627,IND,3,522,129,VVS Laxman,HMRKB Herath,5,15,36,45.5,14113,49.01,Right-hand bat,180,144,1,5112.1,36.68,73,lo,0,IND,spin,no,18.677764565992863,30.56361474435196
-2,1202,628,IND,3,522,129,VVS Laxman,HMRKB Herath,5,15,37,45.5,14113,49.01,Right-hand bat,181,144,1,5112.1,36.68,73,lo,1,IND,spin,no,18.677764565992863,30.56361474435196
-2,1297,723,IND,4,582,189,VVS Laxman,HMRKB Herath,5,56,84,45.5,14113,49.01,Right-hand bat,186,149,1,5112.1,36.68,73,lo,1,IND,spin,no,18.677764565992863,30.56361474435196

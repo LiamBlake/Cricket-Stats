@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,69,69,WIN,1,22,22,KOA Powell,SF Mire,2,11,35,27.32,2969,48.77,Left-hand bat,3,1,0,54,27,54,rmf,1,WIN,seam,yes,6.66875,20.00625
-1,114,114,WIN,2,44,44,KOA Powell,SF Mire,2,17,56,27.32,2969,48.77,Left-hand bat,24,14,1,54,27,54,rmf,0,WIN,seam,yes,6.66875,20.00625
-1,115,115,WIN,2,44,44,KOA Powell,SF Mire,2,17,57,27.32,2969,48.77,Left-hand bat,25,14,1,54,27,54,rmf,0,WIN,seam,yes,6.66875,20.00625
-1,116,116,WIN,2,44,44,KOA Powell,SF Mire,2,17,58,27.32,2969,48.77,Left-hand bat,26,14,1,54,27,54,rmf,0,WIN,seam,yes,6.66875,20.00625
-1,117,117,WIN,2,44,44,KOA Powell,SF Mire,2,17,59,27.32,2969,48.77,Left-hand bat,27,14,1,54,27,54,rmf,0,WIN,seam,yes,6.66875,20.00625
-1,118,118,WIN,2,44,44,KOA Powell,SF Mire,2,17,60,27.32,2969,48.77,Left-hand bat,28,14,1,54,27,54,rmf,0,WIN,seam,yes,6.66875,20.00625
-1,119,119,WIN,2,44,44,KOA Powell,SF Mire,2,17,61,27.32,2969,48.77,Left-hand bat,29,14,1,54,27,54,rmf,1,WIN,seam,yes,6.66875,20.00625

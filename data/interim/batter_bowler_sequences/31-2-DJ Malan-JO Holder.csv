@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,434,87,ENG,4,25,-98,DJ Malan,JO Holder,5,4,5,23.62,489,38.65,Left-hand bat,21,7,2,4140.4,36.61,84.5,rmf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
-2,435,88,ENG,4,25,-98,DJ Malan,JO Holder,5,4,6,23.62,489,38.65,Left-hand bat,22,7,2,4140.4,36.61,84.5,rmf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
-2,436,89,ENG,4,25,-98,DJ Malan,JO Holder,5,4,7,23.62,489,38.65,Left-hand bat,23,7,2,4140.4,36.61,84.5,rmf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
-2,443,96,ENG,4,33,-90,DJ Malan,JO Holder,5,4,8,23.62,489,38.65,Left-hand bat,24,7,2,4140.4,36.61,84.5,rmf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
-2,444,97,ENG,4,33,-90,DJ Malan,JO Holder,5,4,9,23.62,489,38.65,Left-hand bat,25,7,2,4140.4,36.61,84.5,rmf,4,WIN,seam,no,18.761706555671175,0.6253902185223725
-2,445,98,ENG,4,37,-86,DJ Malan,JO Holder,5,8,10,23.62,489,38.65,Left-hand bat,26,11,2,4140.4,36.61,84.5,rmf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
-2,446,99,ENG,4,37,-86,DJ Malan,JO Holder,5,8,11,23.62,489,38.65,Left-hand bat,27,11,2,4140.4,36.61,84.5,rmf,0,WIN,seam,no,18.761706555671175,0.6253902185223725
-2,447,100,ENG,4,37,-86,DJ Malan,JO Holder,5,8,12,23.62,489,38.65,Left-hand bat,28,11,2,4140.4,36.61,84.5,rmf,3,WIN,seam,no,18.761706555671175,0.6253902185223725

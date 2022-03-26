@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1538,164,IND,4,130,-24,MS Dhoni,NM Lyon,6,0,1,39.7,7010,60.04,Right-hand bat,80,61,2,4836.4,33.18,63.6,rob,0,IND,spin,no,3.7024221453287196,21.474048442906575
-4,1539,165,IND,4,130,-24,MS Dhoni,NM Lyon,6,0,2,39.7,7010,60.04,Right-hand bat,81,61,2,4836.4,33.18,63.6,rob,0,IND,spin,no,3.7024221453287196,21.474048442906575
-4,1540,166,IND,4,130,-24,MS Dhoni,NM Lyon,6,0,3,39.7,7010,60.04,Right-hand bat,82,61,2,4836.4,33.18,63.6,rob,0,IND,spin,no,3.7024221453287196,21.474048442906575
-4,1541,167,IND,4,130,-24,MS Dhoni,NM Lyon,6,0,4,39.7,7010,60.04,Right-hand bat,83,61,2,4836.4,33.18,63.6,rob,1,IND,spin,no,3.7024221453287196,21.474048442906575
-4,1549,175,IND,4,138,-16,MS Dhoni,NM Lyon,6,6,10,39.7,7010,60.04,Right-hand bat,85,63,2,4836.4,33.18,63.6,rob,1,IND,spin,no,3.7024221453287196,21.474048442906575
-4,1552,178,IND,4,140,-14,MS Dhoni,NM Lyon,6,7,11,39.7,7010,60.04,Right-hand bat,88,65,2,4836.4,33.18,63.6,rob,1,IND,spin,no,3.7024221453287196,21.474048442906575
-4,1560,186,IND,4,154,0,MS Dhoni,NM Lyon,6,8,12,39.7,7010,60.04,Right-hand bat,90,67,2,4836.4,33.18,63.6,rob,0,IND,spin,no,3.7024221453287196,21.474048442906575
-4,1561,187,IND,4,154,0,MS Dhoni,NM Lyon,6,8,13,39.7,7010,60.04,Right-hand bat,91,67,2,4836.4,33.18,63.6,rob,4,IND,spin,no,3.7024221453287196,21.474048442906575

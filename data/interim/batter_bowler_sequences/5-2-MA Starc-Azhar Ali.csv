@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1568,807,AUS,6,541,98,MA Starc,Azhar Ali,8,51,70,24.55,1379,67.65,Left-hand bat,14,12,0,660.3,91.4,132.6,rls,1,AUS,spin,no,33.74485596707819,11.810699588477368
-2,1571,810,AUS,6,543,100,MA Starc,Azhar Ali,8,52,71,24.55,1379,67.65,Left-hand bat,17,14,0,660.3,91.4,132.6,rls,0,AUS,spin,no,33.74485596707819,11.810699588477368
-2,1579,818,AUS,6,549,106,MA Starc,Azhar Ali,8,53,75,24.55,1379,67.65,Left-hand bat,19,15,0,660.3,91.4,132.6,rls,0,AUS,spin,no,33.74485596707819,11.810699588477368
-2,1580,819,AUS,6,549,106,MA Starc,Azhar Ali,8,53,76,24.55,1379,67.65,Left-hand bat,20,15,0,660.3,91.4,132.6,rls,1,AUS,spin,no,33.74485596707819,11.810699588477368
-2,1591,830,AUS,6,558,115,MA Starc,Azhar Ali,8,56,80,24.55,1379,67.65,Left-hand bat,24,19,0,660.3,91.4,132.6,rls,6,AUS,spin,no,33.74485596707819,11.810699588477368
-2,1592,831,AUS,6,564,121,MA Starc,Azhar Ali,8,62,81,24.55,1379,67.65,Left-hand bat,25,25,0,660.3,91.4,132.6,rls,6,AUS,spin,no,33.74485596707819,11.810699588477368
-2,1593,832,AUS,6,570,127,MA Starc,Azhar Ali,8,68,82,24.55,1379,67.65,Left-hand bat,26,31,0,660.3,91.4,132.6,rls,2,AUS,spin,no,33.74485596707819,11.810699588477368
-2,1594,833,AUS,6,572,129,MA Starc,Azhar Ali,8,70,83,24.55,1379,67.65,Left-hand bat,27,33,0,660.3,91.4,132.6,rls,1,AUS,spin,no,33.74485596707819,11.810699588477368

@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1427,98,WIN,2,62,-190,MN Samuels,M Muralitharan,4,7,28,28.73,3172,44.38,Right-hand bat,0,0,0,40032.3,21.95,54.4,rob,0,WIN,spin,yes,25.551903114186853,6.624567474048443
-4,1428,99,WIN,2,62,-190,MN Samuels,M Muralitharan,4,7,29,28.73,3172,44.38,Right-hand bat,1,0,0,40032.3,21.95,54.4,rob,0,WIN,spin,yes,25.551903114186853,6.624567474048443
-4,1429,100,WIN,2,62,-190,MN Samuels,M Muralitharan,4,7,30,28.73,3172,44.38,Right-hand bat,2,0,0,40032.3,21.95,54.4,rob,2,WIN,spin,yes,25.551903114186853,6.624567474048443
-4,1430,101,WIN,2,64,-188,MN Samuels,M Muralitharan,4,9,31,28.73,3172,44.38,Right-hand bat,3,2,0,40032.3,21.95,54.4,rob,1,WIN,spin,yes,25.551903114186853,6.624567474048443
-4,1439,110,WIN,2,70,-182,MN Samuels,M Muralitharan,4,10,32,28.73,3172,44.38,Right-hand bat,6,4,0,40032.3,21.95,54.4,rob,0,WIN,spin,yes,25.551903114186853,6.624567474048443
-4,1440,111,WIN,2,70,-182,MN Samuels,M Muralitharan,4,10,33,28.73,3172,44.38,Right-hand bat,7,4,0,40032.3,21.95,54.4,rob,1,WIN,spin,yes,25.551903114186853,6.624567474048443
-4,1444,115,WIN,2,72,-180,MN Samuels,M Muralitharan,4,11,34,28.73,3172,44.38,Right-hand bat,11,6,0,40032.3,21.95,54.4,rob,0,WIN,spin,yes,25.551903114186853,6.624567474048443

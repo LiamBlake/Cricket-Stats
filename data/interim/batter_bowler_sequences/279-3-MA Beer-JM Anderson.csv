@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,2209,493,AUS,9,267,-97,MA Beer,JM Anderson,11,0,0,4,26,15.38,Right-hand bat,99,53,3,12054.2,31.1,56.8,rfm,1wd,AUS,seam,yes,34.81111111111111,5.355555555555555
-3,2210,494,AUS,9,268,-96,MA Beer,JM Anderson,11,0,0,4,26,15.38,Right-hand bat,100,54,3,12054.2,31.1,56.8,rfm,0,AUS,seam,yes,34.81111111111111,5.355555555555555
-3,2211,495,AUS,9,268,-96,MA Beer,JM Anderson,11,0,1,4,26,15.38,Right-hand bat,101,54,3,12054.2,31.1,56.8,rfm,2,AUS,seam,yes,34.81111111111111,5.355555555555555
-3,2212,496,AUS,9,270,-94,MA Beer,JM Anderson,11,2,2,4,26,15.38,Right-hand bat,102,56,3,12054.2,31.1,56.8,rfm,0,AUS,seam,yes,34.81111111111111,5.355555555555555
-3,2223,507,AUS,9,280,-84,MA Beer,JM Anderson,11,2,6,4,26,15.38,Right-hand bat,107,61,3,12054.2,31.1,56.8,rfm,0,AUS,seam,yes,34.81111111111111,5.355555555555555
-3,2224,508,AUS,9,280,-84,MA Beer,JM Anderson,11,2,7,4,26,15.38,Right-hand bat,108,61,3,12054.2,31.1,56.8,rfm,0,AUS,seam,yes,34.81111111111111,5.355555555555555

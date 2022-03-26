@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,287,287,AUS,5,188,188,BJ Haddin,SJ Benn,7,24,57,30.2,327,46.17,Right-hand bat,28,23,0,636,52.28,90.8,lo,0,WIN,spin,no,27.44326530612245,9.499591836734693
-1,288,288,AUS,5,188,188,BJ Haddin,SJ Benn,7,24,58,30.2,327,46.17,Right-hand bat,29,23,0,636,52.28,90.8,lo,4,WIN,spin,no,27.44326530612245,9.499591836734693
-1,296,296,AUS,5,194,194,BJ Haddin,SJ Benn,7,28,63,30.2,327,46.17,Right-hand bat,31,28,0,636,52.28,90.8,lo,4,WIN,spin,no,27.44326530612245,9.499591836734693
-1,297,297,AUS,5,198,198,BJ Haddin,SJ Benn,7,32,64,30.2,327,46.17,Right-hand bat,32,32,0,636,52.28,90.8,lo,0,WIN,spin,no,27.44326530612245,9.499591836734693
-1,298,298,AUS,5,198,198,BJ Haddin,SJ Benn,7,32,65,30.2,327,46.17,Right-hand bat,33,32,0,636,52.28,90.8,lo,W,WIN,spin,no,27.44326530612245,9.499591836734693

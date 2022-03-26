@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1149,328,AUS,5,235,406,BJ Haddin,SG Borthwick,7,24,36,36.67,5130,58.61,Right-hand bat,13,9,0,78,20.5,19.5,rls,0,AUS,spin,no,19.036875000000002,4.038125
-3,1150,329,AUS,5,235,406,BJ Haddin,SG Borthwick,7,24,37,36.67,5130,58.61,Right-hand bat,14,9,0,78,20.5,19.5,rls,0,AUS,spin,no,19.036875000000002,4.038125
-3,1151,330,AUS,5,235,406,BJ Haddin,SG Borthwick,7,24,38,36.67,5130,58.61,Right-hand bat,15,9,0,78,20.5,19.5,rls,4,AUS,spin,no,19.036875000000002,4.038125
-3,1152,331,AUS,5,239,410,BJ Haddin,SG Borthwick,7,28,39,36.67,5130,58.61,Right-hand bat,16,13,0,78,20.5,19.5,rls,W,AUS,spin,no,19.036875000000002,4.038125

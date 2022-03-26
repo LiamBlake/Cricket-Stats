@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1681,132,AUS,1,87,-324,DA Warner,JE Root,2,50,72,46.47,4472,73.79,Left-hand bat,0,0,0,894,39,89.4,rob,1lb,ENG,spin,no,21.414375,10.310625
-4,1684,135,AUS,1,89,-322,DA Warner,JE Root,2,50,73,46.47,4472,73.79,Left-hand bat,3,1,0,894,39,89.4,rob,1,ENG,spin,no,21.414375,10.310625
-4,1694,145,AUS,1,91,-320,DA Warner,JE Root,2,51,80,46.47,4472,73.79,Left-hand bat,7,3,0,894,39,89.4,rob,0,ENG,spin,no,21.414375,10.310625
-4,1695,146,AUS,1,91,-320,DA Warner,JE Root,2,51,81,46.47,4472,73.79,Left-hand bat,8,3,0,894,39,89.4,rob,0,ENG,spin,no,21.414375,10.310625
-4,1696,147,AUS,1,91,-320,DA Warner,JE Root,2,51,82,46.47,4472,73.79,Left-hand bat,9,3,0,894,39,89.4,rob,1,ENG,spin,no,21.414375,10.310625

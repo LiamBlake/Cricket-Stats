@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,827,363,RSA,7,169,-18,AL Phehlukwayo,JJ Bumrah,9,0,0,9.5,39,48.71,Left-hand bat,95,40,3,672.1,25.21,48,rf,0,IND,seam,no,20.125,0
-2,838,374,RSA,7,175,-12,AL Phehlukwayo,JJ Bumrah,9,0,4,9.5,39,48.71,Left-hand bat,100,45,3,672.1,25.21,48,rf,0,IND,seam,no,20.125,0
-2,839,375,RSA,7,175,-12,AL Phehlukwayo,JJ Bumrah,9,0,5,9.5,39,48.71,Left-hand bat,101,45,3,672.1,25.21,48,rf,0,IND,seam,no,20.125,0
-2,859,395,RSA,8,194,7,AL Phehlukwayo,JJ Bumrah,9,9,14,9.5,39,48.71,Left-hand bat,109,54,3,672.1,25.21,48,rf,0,IND,seam,no,20.125,0
-2,860,396,RSA,8,194,7,AL Phehlukwayo,JJ Bumrah,9,9,15,9.5,39,48.71,Left-hand bat,110,54,3,672.1,25.21,48,rf,0,IND,seam,no,20.125,0
-2,861,397,RSA,8,194,7,AL Phehlukwayo,JJ Bumrah,9,9,16,9.5,39,48.71,Left-hand bat,111,54,3,672.1,25.21,48,rf,W,IND,seam,no,20.125,0

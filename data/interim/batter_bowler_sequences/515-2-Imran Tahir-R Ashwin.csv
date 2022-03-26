@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,995,284,RSA,9,119,-215,Imran Tahir,R Ashwin,11,0,0,9.28,235,55.31,Right-hand bat,73,24,1,9222.2,25.39,52.4,rob,0,IND,spin,no,10.591836734693878,14.122448979591837
-2,996,285,RSA,9,119,-215,Imran Tahir,R Ashwin,11,0,1,9.28,235,55.31,Right-hand bat,74,24,1,9222.2,25.39,52.4,rob,1,IND,spin,no,10.591836734693878,14.122448979591837
-2,1008,297,RSA,9,121,-213,Imran Tahir,R Ashwin,11,1,8,9.28,235,55.31,Right-hand bat,80,26,1,9222.2,25.39,52.4,rob,W,IND,spin,no,10.591836734693878,14.122448979591837

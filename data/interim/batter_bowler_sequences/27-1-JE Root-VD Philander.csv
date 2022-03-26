@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,218,218,ENG,2,109,109,JE Root,VD Philander,4,27,44,53.26,8845,56,Right-hand bat,24,2,1,8448.2,22.45,49.4,rfm,0,ENG,seam,yes,21.95083102493075,6.8123268698060935
-1,219,219,ENG,2,109,109,JE Root,VD Philander,4,27,45,53.26,8845,56,Right-hand bat,25,2,1,8448.2,22.45,49.4,rfm,0,ENG,seam,yes,21.95083102493075,6.8123268698060935
-1,220,220,ENG,2,109,109,JE Root,VD Philander,4,27,46,53.26,8845,56,Right-hand bat,26,2,1,8448.2,22.45,49.4,rfm,0,ENG,seam,yes,21.95083102493075,6.8123268698060935
-1,221,221,ENG,2,109,109,JE Root,VD Philander,4,27,47,53.26,8845,56,Right-hand bat,27,2,1,8448.2,22.45,49.4,rfm,0,ENG,seam,yes,21.95083102493075,6.8123268698060935
-1,222,222,ENG,2,109,109,JE Root,VD Philander,4,27,48,53.26,8845,56,Right-hand bat,28,2,1,8448.2,22.45,49.4,rfm,1lb,ENG,seam,yes,21.95083102493075,6.8123268698060935
-1,231,231,ENG,2,113,113,JE Root,VD Philander,4,29,55,53.26,8845,56,Right-hand bat,31,3,1,8448.2,22.45,49.4,rfm,W,ENG,seam,yes,21.95083102493075,6.8123268698060935

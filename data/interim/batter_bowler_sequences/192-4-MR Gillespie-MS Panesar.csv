@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2160,574,NZL,8,295,-142,MR Gillespie,MS Panesar,10,6,21,2.25,51,17.64,Right-hand bat,117,52,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001
-4,2161,575,NZL,8,295,-142,MR Gillespie,MS Panesar,10,6,22,2.25,51,17.64,Right-hand bat,118,52,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001
-4,2162,576,NZL,8,295,-142,MR Gillespie,MS Panesar,10,6,23,2.25,51,17.64,Right-hand bat,119,52,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001
-4,2176,590,NZL,8,308,-129,MR Gillespie,MS Panesar,10,9,31,2.25,51,17.64,Right-hand bat,121,53,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001
-4,2177,591,NZL,8,308,-129,MR Gillespie,MS Panesar,10,9,32,2.25,51,17.64,Right-hand bat,122,53,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001
-4,2178,592,NZL,8,308,-129,MR Gillespie,MS Panesar,10,9,33,2.25,51,17.64,Right-hand bat,123,53,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001
-4,2179,593,NZL,8,308,-129,MR Gillespie,MS Panesar,10,9,34,2.25,51,17.64,Right-hand bat,124,53,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001
-4,2180,594,NZL,8,308,-129,MR Gillespie,MS Panesar,10,9,35,2.25,51,17.64,Right-hand bat,125,53,0,5856,33.25,68,lo,0,NZL,spin,yes,27.885,0.7150000000000001

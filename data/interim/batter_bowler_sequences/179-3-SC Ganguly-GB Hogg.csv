@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,2264,231,IND,3,129,92,SC Ganguly,GB Hogg,5,0,0,42.45,12857,51.18,Left-hand bat,25,35,0,1524,54.88,89.6,lc,4,AUS,spin,yes,39.11934156378601,13.039780521262003
-3,2265,232,IND,3,133,96,SC Ganguly,GB Hogg,5,4,1,42.45,12857,51.18,Left-hand bat,26,39,0,1524,54.88,89.6,lc,2lb,AUS,spin,yes,39.11934156378601,13.039780521262003
-3,2266,233,IND,3,135,98,SC Ganguly,GB Hogg,5,4,2,42.45,12857,51.18,Left-hand bat,27,39,0,1524,54.88,89.6,lc,0,AUS,spin,yes,39.11934156378601,13.039780521262003
-3,2267,234,IND,3,135,98,SC Ganguly,GB Hogg,5,4,3,42.45,12857,51.18,Left-hand bat,28,39,0,1524,54.88,89.6,lc,1,AUS,spin,yes,39.11934156378601,13.039780521262003

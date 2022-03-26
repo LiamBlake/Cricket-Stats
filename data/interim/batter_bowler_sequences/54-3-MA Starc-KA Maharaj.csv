@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1363,389,AUS,7,198,387,MA Starc,KA Maharaj,9,4,8,23.06,1655,69.66,Left-hand bat,161,89,3,3456.1,26.54,52.3,lo,1,AUS,spin,yes,16.8675,9.0825
-3,1370,396,AUS,7,200,389,MA Starc,KA Maharaj,9,6,12,23.06,1655,69.66,Left-hand bat,162,90,3,3456.1,26.54,52.3,lo,0,AUS,spin,yes,16.8675,9.0825
-3,1371,397,AUS,7,200,389,MA Starc,KA Maharaj,9,6,13,23.06,1655,69.66,Left-hand bat,163,90,3,3456.1,26.54,52.3,lo,1,AUS,spin,yes,16.8675,9.0825

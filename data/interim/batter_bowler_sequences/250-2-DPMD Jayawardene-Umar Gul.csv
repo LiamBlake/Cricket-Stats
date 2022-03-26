@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,587,47,SRL,2,38,-261,DPMD Jayawardene,Umar Gul,4,4,5,52.61,16004,52.59,Right-hand bat,23,25,1,4452,32.4,53.6,rfm,0,SRL,seam,yes,19.80532598714417,21.043158861340682
-2,588,48,SRL,2,38,-261,DPMD Jayawardene,Umar Gul,4,4,6,52.61,16004,52.59,Right-hand bat,24,25,1,4452,32.4,53.6,rfm,0,SRL,seam,yes,19.80532598714417,21.043158861340682
-2,589,49,SRL,2,38,-261,DPMD Jayawardene,Umar Gul,4,4,7,52.61,16004,52.59,Right-hand bat,25,25,1,4452,32.4,53.6,rfm,0,SRL,seam,yes,19.80532598714417,21.043158861340682
-2,650,110,SRL,3,63,-236,DPMD Jayawardene,Umar Gul,4,10,34,52.61,16004,52.59,Right-hand bat,32,29,1,4452,32.4,53.6,rfm,1,SRL,seam,yes,19.80532598714417,21.043158861340682
-2,662,122,SRL,3,75,-224,DPMD Jayawardene,Umar Gul,4,16,41,52.61,16004,52.59,Right-hand bat,38,36,1,4452,32.4,53.6,rfm,0,SRL,seam,yes,19.80532598714417,21.043158861340682
-2,663,123,SRL,3,75,-224,DPMD Jayawardene,Umar Gul,4,16,42,52.61,16004,52.59,Right-hand bat,39,36,1,4452,32.4,53.6,rfm,0,SRL,seam,yes,19.80532598714417,21.043158861340682
-2,664,124,SRL,3,75,-224,DPMD Jayawardene,Umar Gul,4,16,43,52.61,16004,52.59,Right-hand bat,40,36,1,4452,32.4,53.6,rfm,3,SRL,seam,yes,19.80532598714417,21.043158861340682

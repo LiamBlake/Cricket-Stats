@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,525,73,BAN,3,14,-248,Mehrab Hossain jnr,JS Patel,5,1,1,22,242,45.45,Left-hand bat,18,0,0,1206,35.56,75.3,rob,0,BAN,spin,yes,13.9453125,17.9296875
-2,526,74,BAN,3,14,-248,Mehrab Hossain jnr,JS Patel,5,1,2,22,242,45.45,Left-hand bat,19,0,0,1206,35.56,75.3,rob,1lb,BAN,spin,yes,13.9453125,17.9296875
-2,552,100,BAN,3,24,-238,Mehrab Hossain jnr,JS Patel,5,5,15,22,242,45.45,Left-hand bat,33,5,0,1206,35.56,75.3,rob,0,BAN,spin,yes,13.9453125,17.9296875
-2,553,101,BAN,3,24,-238,Mehrab Hossain jnr,JS Patel,5,5,16,22,242,45.45,Left-hand bat,34,5,0,1206,35.56,75.3,rob,0,BAN,spin,yes,13.9453125,17.9296875
-2,554,102,BAN,3,24,-238,Mehrab Hossain jnr,JS Patel,5,5,17,22,242,45.45,Left-hand bat,35,5,0,1206,35.56,75.3,rob,1,BAN,spin,yes,13.9453125,17.9296875
-2,561,109,BAN,3,26,-236,Mehrab Hossain jnr,JS Patel,5,7,21,22,242,45.45,Left-hand bat,36,6,0,1206,35.56,75.3,rob,0,BAN,spin,yes,13.9453125,17.9296875
-2,562,110,BAN,3,26,-236,Mehrab Hossain jnr,JS Patel,5,7,22,22,242,45.45,Left-hand bat,37,6,0,1206,35.56,75.3,rob,W,BAN,spin,yes,13.9453125,17.9296875

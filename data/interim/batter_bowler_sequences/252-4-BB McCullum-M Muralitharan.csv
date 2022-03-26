@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2012,240,NZL,4,138,-355,BB McCullum,M Muralitharan,6,5,4,31.7,3646,62.61,Right-hand bat,35,24,0,42756.2,22.21,54.6,rob,0,SRL,spin,no,8.868571428571428,29.93142857142857
-4,2022,250,NZL,4,152,-341,BB McCullum,M Muralitharan,6,9,9,31.7,3646,62.61,Right-hand bat,39,27,0,42756.2,22.21,54.6,rob,0,SRL,spin,no,8.868571428571428,29.93142857142857
-4,2023,251,NZL,4,152,-341,BB McCullum,M Muralitharan,6,9,10,31.7,3646,62.61,Right-hand bat,40,27,0,42756.2,22.21,54.6,rob,0,SRL,spin,no,8.868571428571428,29.93142857142857
-4,2024,252,NZL,4,152,-341,BB McCullum,M Muralitharan,6,9,11,31.7,3646,62.61,Right-hand bat,41,27,0,42756.2,22.21,54.6,rob,1,SRL,spin,no,8.868571428571428,29.93142857142857
-4,2031,259,NZL,4,156,-337,BB McCullum,M Muralitharan,6,12,17,31.7,3646,62.61,Right-hand bat,42,28,0,42756.2,22.21,54.6,rob,1,SRL,spin,no,8.868571428571428,29.93142857142857
-4,2035,263,NZL,4,158,-335,BB McCullum,M Muralitharan,6,13,18,31.7,3646,62.61,Right-hand bat,46,30,0,42756.2,22.21,54.6,rob,W,SRL,spin,no,8.868571428571428,29.93142857142857

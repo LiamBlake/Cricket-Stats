@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1352,343,ENG,8,210,427,MA Wood,BE Hendricks,10,0,1,19.6,567,69.13,Right-hand bat,79,51,4,228.3,29.16,38.5,lfm,1,RSA,seam,yes,26.934375,0.690625
-3,1354,345,ENG,8,212,429,MA Wood,BE Hendricks,10,1,2,19.6,567,69.13,Right-hand bat,81,52,4,228.3,29.16,38.5,lfm,2,RSA,seam,yes,26.934375,0.690625
-3,1355,346,ENG,8,214,431,MA Wood,BE Hendricks,10,3,3,19.6,567,69.13,Right-hand bat,82,54,4,228.3,29.16,38.5,lfm,0,RSA,seam,yes,26.934375,0.690625
-3,1356,347,ENG,8,214,431,MA Wood,BE Hendricks,10,3,4,19.6,567,69.13,Right-hand bat,83,54,4,228.3,29.16,38.5,lfm,0,RSA,seam,yes,26.934375,0.690625
-3,1364,355,ENG,8,229,446,MA Wood,BE Hendricks,10,13,9,19.6,567,69.13,Right-hand bat,84,54,4,228.3,29.16,38.5,lfm,4,RSA,seam,yes,26.934375,0.690625
-3,1365,356,ENG,8,233,450,MA Wood,BE Hendricks,10,17,10,19.6,567,69.13,Right-hand bat,85,58,4,228.3,29.16,38.5,lfm,1,RSA,seam,yes,26.934375,0.690625

@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2086,172,IND,3,86,-93,VVS Laxman,R Rampaul,5,0,0,47.36,16519,49.31,Right-hand bat,56,27,2,1830.4,36.72,73.3,rfm,0,WIN,seam,yes,18.647382920110193,10.65564738292011
-4,2087,173,IND,3,86,-93,VVS Laxman,R Rampaul,5,0,1,47.36,16519,49.31,Right-hand bat,57,27,2,1830.4,36.72,73.3,rfm,0,WIN,seam,yes,18.647382920110193,10.65564738292011
-4,2088,174,IND,3,86,-93,VVS Laxman,R Rampaul,5,0,2,47.36,16519,49.31,Right-hand bat,58,27,2,1830.4,36.72,73.3,rfm,0,WIN,seam,yes,18.647382920110193,10.65564738292011
-4,2089,175,IND,3,86,-93,VVS Laxman,R Rampaul,5,0,3,47.36,16519,49.31,Right-hand bat,59,27,2,1830.4,36.72,73.3,rfm,0,WIN,seam,yes,18.647382920110193,10.65564738292011
-4,2090,176,IND,3,86,-93,VVS Laxman,R Rampaul,5,0,4,47.36,16519,49.31,Right-hand bat,60,27,2,1830.4,36.72,73.3,rfm,0,WIN,seam,yes,18.647382920110193,10.65564738292011
-4,2097,183,IND,3,88,-91,VVS Laxman,R Rampaul,5,0,5,47.36,16519,49.31,Right-hand bat,61,27,2,1830.4,36.72,73.3,rfm,1,WIN,seam,yes,18.647382920110193,10.65564738292011
-4,2100,186,IND,3,90,-89,VVS Laxman,R Rampaul,5,1,6,47.36,16519,49.31,Right-hand bat,64,29,2,1830.4,36.72,73.3,rfm,0,WIN,seam,yes,18.647382920110193,10.65564738292011
-4,2101,187,IND,3,90,-89,VVS Laxman,R Rampaul,5,1,7,47.36,16519,49.31,Right-hand bat,65,29,2,1830.4,36.72,73.3,rfm,1,WIN,seam,yes,18.647382920110193,10.65564738292011

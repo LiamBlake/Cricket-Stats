@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,346,346,IND,7,231,231,P Kumar,R Rampaul,9,0,0,2,9,44.44,Right-hand bat,98,51,2,1500.4,40.89,79.1,rfm,4,WIN,seam,yes,14.578125,8.746875
-1,347,347,IND,7,235,235,P Kumar,R Rampaul,9,4,1,2,9,44.44,Right-hand bat,99,55,2,1500.4,40.89,79.1,rfm,0,WIN,seam,yes,14.578125,8.746875
-1,348,348,IND,7,235,235,P Kumar,R Rampaul,9,4,2,2,9,44.44,Right-hand bat,100,55,2,1500.4,40.89,79.1,rfm,0,WIN,seam,yes,14.578125,8.746875
-1,349,349,IND,7,235,235,P Kumar,R Rampaul,9,4,3,2,9,44.44,Right-hand bat,101,55,2,1500.4,40.89,79.1,rfm,0,WIN,seam,yes,14.578125,8.746875
-1,350,350,IND,7,235,235,P Kumar,R Rampaul,9,4,4,2,9,44.44,Right-hand bat,102,55,2,1500.4,40.89,79.1,rfm,0,WIN,seam,yes,14.578125,8.746875
-1,351,351,IND,7,235,235,P Kumar,R Rampaul,9,4,5,2,9,44.44,Right-hand bat,103,55,2,1500.4,40.89,79.1,rfm,0,WIN,seam,yes,14.578125,8.746875

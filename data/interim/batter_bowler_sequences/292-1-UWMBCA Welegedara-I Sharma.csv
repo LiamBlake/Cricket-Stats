@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,844,844,SRL,9,421,421,UWMBCA Welegedara,I Sharma,11,0,0,6.75,50,54,Right-hand bat,139,64,2,4818,37.5,66,rfm,4,SRL,seam,yes,9.051428571428572,30.54857142857143
-1,845,845,SRL,9,425,425,UWMBCA Welegedara,I Sharma,11,4,1,6.75,50,54,Right-hand bat,140,68,2,4818,37.5,66,rfm,0,SRL,seam,yes,9.051428571428572,30.54857142857143
-1,846,846,SRL,9,425,425,UWMBCA Welegedara,I Sharma,11,4,2,6.75,50,54,Right-hand bat,141,68,2,4818,37.5,66,rfm,W,SRL,seam,yes,9.051428571428572,30.54857142857143

@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1626,205,WIN,6,146,-113,JE Taylor,TT Bresnan,8,0,0,16.34,1071,57.98,Right-hand bat,54,24,2,186,32.33,62,rmf,4,ENG,seam,no,32.773668639053255,7.803254437869824
-3,1627,206,WIN,6,150,-109,JE Taylor,TT Bresnan,8,4,1,16.34,1071,57.98,Right-hand bat,55,28,2,186,32.33,62,rmf,0,ENG,seam,no,32.773668639053255,7.803254437869824
-3,1628,207,WIN,6,150,-109,JE Taylor,TT Bresnan,8,4,2,16.34,1071,57.98,Right-hand bat,56,28,2,186,32.33,62,rmf,0,ENG,seam,no,32.773668639053255,7.803254437869824
-3,1629,208,WIN,6,150,-109,JE Taylor,TT Bresnan,8,4,3,16.34,1071,57.98,Right-hand bat,57,28,2,186,32.33,62,rmf,0,ENG,seam,no,32.773668639053255,7.803254437869824

@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,380,380,ENG,2,133,133,JE Root,JJ Bumrah,4,0,0,51.04,11375,55.2,Right-hand bat,98,37,1,1470.3,25.57,52.6,rf,0,ENG,seam,yes,20.24376731301939,16.38781163434903
-1,381,381,ENG,2,133,133,JE Root,JJ Bumrah,4,0,1,51.04,11375,55.2,Right-hand bat,99,37,1,1470.3,25.57,52.6,rf,0,ENG,seam,yes,20.24376731301939,16.38781163434903
-1,382,382,ENG,2,133,133,JE Root,JJ Bumrah,4,0,2,51.04,11375,55.2,Right-hand bat,100,37,1,1470.3,25.57,52.6,rf,W,ENG,seam,yes,20.24376731301939,16.38781163434903

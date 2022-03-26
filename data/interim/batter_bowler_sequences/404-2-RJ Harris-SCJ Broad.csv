@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1018,416,AUS,7,158,-97,RJ Harris,SCJ Broad,9,4,14,19.65,664,59.18,Right-hand bat,86,28,1,13692.1,30.31,58.5,rfm,0,AUS,seam,yes,20.3671875,6.7890625
-2,1019,417,AUS,7,158,-97,RJ Harris,SCJ Broad,9,4,15,19.65,664,59.18,Right-hand bat,87,28,1,13692.1,30.31,58.5,rfm,0,AUS,seam,yes,20.3671875,6.7890625
-2,1020,418,AUS,7,158,-97,RJ Harris,SCJ Broad,9,4,16,19.65,664,59.18,Right-hand bat,88,28,1,13692.1,30.31,58.5,rfm,0,AUS,seam,yes,20.3671875,6.7890625
-2,1021,419,AUS,7,158,-97,RJ Harris,SCJ Broad,9,4,17,19.65,664,59.18,Right-hand bat,89,28,1,13692.1,30.31,58.5,rfm,1,AUS,seam,yes,20.3671875,6.7890625
-2,1030,428,AUS,7,162,-93,RJ Harris,SCJ Broad,9,6,23,19.65,664,59.18,Right-hand bat,92,30,1,13692.1,30.31,58.5,rfm,0,AUS,seam,yes,20.3671875,6.7890625
-2,1031,429,AUS,7,162,-93,RJ Harris,SCJ Broad,9,6,24,19.65,664,59.18,Right-hand bat,93,30,1,13692.1,30.31,58.5,rfm,0,AUS,seam,yes,20.3671875,6.7890625
-2,1032,430,AUS,7,162,-93,RJ Harris,SCJ Broad,9,6,25,19.65,664,59.18,Right-hand bat,94,30,1,13692.1,30.31,58.5,rfm,0,AUS,seam,yes,20.3671875,6.7890625
-2,1033,431,AUS,7,162,-93,RJ Harris,SCJ Broad,9,6,26,19.65,664,59.18,Right-hand bat,95,30,1,13692.1,30.31,58.5,rfm,W,AUS,seam,yes,20.3671875,6.7890625

@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1691,446,RSA,3,194,461,F du Plessis,MT Renshaw,5,73,130,43.2,7074,45.19,Right-hand bat,2,3,0,24,NA,NA,rob,1,RSA,spin,yes,24.416666666666668,8.13888888888889
-3,1701,456,RSA,3,202,469,F du Plessis,MT Renshaw,5,81,135,43.2,7074,45.19,Right-hand bat,6,4,0,24,NA,NA,rob,0,RSA,spin,yes,24.416666666666668,8.13888888888889
-3,1702,457,RSA,3,202,469,F du Plessis,MT Renshaw,5,81,136,43.2,7074,45.19,Right-hand bat,7,4,0,24,NA,NA,rob,1,RSA,spin,yes,24.416666666666668,8.13888888888889
-3,1705,460,RSA,3,204,471,F du Plessis,MT Renshaw,5,82,137,43.2,7074,45.19,Right-hand bat,10,6,0,24,NA,NA,rob,0,RSA,spin,yes,24.416666666666668,8.13888888888889
-3,1706,461,RSA,3,204,471,F du Plessis,MT Renshaw,5,82,138,43.2,7074,45.19,Right-hand bat,11,6,0,24,NA,NA,rob,0,RSA,spin,yes,24.416666666666668,8.13888888888889
-3,1713,468,RSA,3,204,471,F du Plessis,MT Renshaw,5,82,139,43.2,7074,45.19,Right-hand bat,12,6,0,24,NA,NA,rob,0,RSA,spin,yes,24.416666666666668,8.13888888888889
-3,1714,469,RSA,3,204,471,F du Plessis,MT Renshaw,5,82,140,43.2,7074,45.19,Right-hand bat,13,6,0,24,NA,NA,rob,1,RSA,spin,yes,24.416666666666668,8.13888888888889
-3,1717,472,RSA,3,206,473,F du Plessis,MT Renshaw,5,83,141,43.2,7074,45.19,Right-hand bat,16,8,0,24,NA,NA,rob,1,RSA,spin,yes,24.416666666666668,8.13888888888889

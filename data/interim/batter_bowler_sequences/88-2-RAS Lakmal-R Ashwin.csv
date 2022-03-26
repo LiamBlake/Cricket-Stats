@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1492,718,SRL,7,322,-214,RAS Lakmal,R Ashwin,9,0,0,10.82,1044,48.75,Right-hand bat,176,69,3,16056,25.44,52.8,rob,0,IND,spin,no,21.939643347050758,33.90672153635117
-2,1493,719,SRL,7,322,-214,RAS Lakmal,R Ashwin,9,0,1,10.82,1044,48.75,Right-hand bat,177,69,3,16056,25.44,52.8,rob,0,IND,spin,no,21.939643347050758,33.90672153635117
-2,1494,720,SRL,7,322,-214,RAS Lakmal,R Ashwin,9,0,2,10.82,1044,48.75,Right-hand bat,178,69,3,16056,25.44,52.8,rob,1,IND,spin,no,21.939643347050758,33.90672153635117
-2,1504,730,SRL,7,326,-210,RAS Lakmal,R Ashwin,9,1,8,10.82,1044,48.75,Right-hand bat,182,71,3,16056,25.44,52.8,rob,4,IND,spin,no,21.939643347050758,33.90672153635117
-2,1505,731,SRL,7,330,-206,RAS Lakmal,R Ashwin,9,5,9,10.82,1044,48.75,Right-hand bat,183,75,3,16056,25.44,52.8,rob,0,IND,spin,no,21.939643347050758,33.90672153635117
-2,1506,732,SRL,7,330,-206,RAS Lakmal,R Ashwin,9,5,10,10.82,1044,48.75,Right-hand bat,184,75,3,16056,25.44,52.8,rob,0,IND,spin,no,21.939643347050758,33.90672153635117
-2,1507,733,SRL,7,330,-206,RAS Lakmal,R Ashwin,9,5,11,10.82,1044,48.75,Right-hand bat,185,75,3,16056,25.44,52.8,rob,0,IND,spin,no,21.939643347050758,33.90672153635117

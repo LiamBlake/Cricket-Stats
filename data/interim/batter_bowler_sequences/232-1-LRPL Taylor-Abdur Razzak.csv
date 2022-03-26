@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,70,70,NZL,2,42,42,LRPL Taylor,Abdur Razzak,4,14,30,35.38,1047,60.84,Right-hand bat,2,5,0,1128,80.14,161.1,lo,2b,BAN,spin,no,13.9453125,17.9296875
-1,71,71,NZL,2,44,44,LRPL Taylor,Abdur Razzak,4,14,31,35.38,1047,60.84,Right-hand bat,3,5,0,1128,80.14,161.1,lo,0,BAN,spin,no,13.9453125,17.9296875
-1,72,72,NZL,2,44,44,LRPL Taylor,Abdur Razzak,4,14,32,35.38,1047,60.84,Right-hand bat,4,5,0,1128,80.14,161.1,lo,1,BAN,spin,no,13.9453125,17.9296875

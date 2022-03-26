@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,722,439,NZL,6,284,147,DL Vettori,Shahadat Hossain,8,1,5,25.65,4262,55.37,Left-hand bat,94,81,1,1662.3,46.44,61.6,rmf,2,NZL,seam,yes,19.65452653485952,5.732570239334027
-2,723,440,NZL,6,286,149,DL Vettori,Shahadat Hossain,8,3,6,25.65,4262,55.37,Left-hand bat,95,83,1,1662.3,46.44,61.6,rmf,0,NZL,seam,yes,19.65452653485952,5.732570239334027
-2,797,514,NZL,8,336,199,DL Vettori,Shahadat Hossain,8,29,50,25.65,4262,55.37,Left-hand bat,96,83,1,1662.3,46.44,61.6,rmf,2,NZL,seam,yes,19.65452653485952,5.732570239334027
-2,798,515,NZL,8,338,201,DL Vettori,Shahadat Hossain,8,31,51,25.65,4262,55.37,Left-hand bat,97,85,1,1662.3,46.44,61.6,rmf,1,NZL,seam,yes,19.65452653485952,5.732570239334027
-2,800,517,NZL,8,340,203,DL Vettori,Shahadat Hossain,8,32,52,25.65,4262,55.37,Left-hand bat,99,86,1,1662.3,46.44,61.6,rmf,W,NZL,seam,yes,19.65452653485952,5.732570239334027

@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,628,157,PAK,2,80,-248,Azhar Ali,MM Ali,2,25,72,43.27,9108,40.86,Right-hand bat,0,0,0,5088,42.03,66,rob,0,ENG,spin,no,28.477777777777778,10.355555555555556
-2,629,158,PAK,2,80,-248,Azhar Ali,MM Ali,2,25,73,43.27,9108,40.86,Right-hand bat,1,0,0,5088,42.03,66,rob,1,ENG,spin,no,28.477777777777778,10.355555555555556
-2,631,160,PAK,2,82,-246,Azhar Ali,MM Ali,2,26,74,43.27,9108,40.86,Right-hand bat,3,2,0,5088,42.03,66,rob,0,ENG,spin,no,28.477777777777778,10.355555555555556
-2,632,161,PAK,2,82,-246,Azhar Ali,MM Ali,2,26,75,43.27,9108,40.86,Right-hand bat,4,2,0,5088,42.03,66,rob,0,ENG,spin,no,28.477777777777778,10.355555555555556
-2,633,162,PAK,2,82,-246,Azhar Ali,MM Ali,2,26,76,43.27,9108,40.86,Right-hand bat,5,2,0,5088,42.03,66,rob,1,ENG,spin,no,28.477777777777778,10.355555555555556
-2,696,225,PAK,2,113,-215,Azhar Ali,MM Ali,2,44,105,43.27,9108,40.86,Right-hand bat,13,4,0,5088,42.03,66,rob,1,ENG,spin,no,28.477777777777778,10.355555555555556
-2,709,238,PAK,2,127,-201,Azhar Ali,MM Ali,2,49,112,43.27,9108,40.86,Right-hand bat,20,14,0,5088,42.03,66,rob,W,ENG,spin,no,28.477777777777778,10.355555555555556

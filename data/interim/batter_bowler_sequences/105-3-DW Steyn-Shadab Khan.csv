@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1242,473,RSA,8,302,379,DW Steyn,Shadab Khan,10,0,0,13.84,2778,44.34,Right-hand bat,62,41,2,882.3,38.83,73.7,rls,0,RSA,spin,yes,22.378125,3.196875
-3,1243,474,RSA,8,302,379,DW Steyn,Shadab Khan,10,0,1,13.84,2778,44.34,Right-hand bat,63,41,2,882.3,38.83,73.7,rls,0,RSA,spin,yes,22.378125,3.196875
-3,1244,475,RSA,8,302,379,DW Steyn,Shadab Khan,10,0,2,13.84,2778,44.34,Right-hand bat,64,41,2,882.3,38.83,73.7,rls,0,RSA,spin,yes,22.378125,3.196875
-3,1245,476,RSA,8,302,379,DW Steyn,Shadab Khan,10,0,3,13.84,2778,44.34,Right-hand bat,65,41,2,882.3,38.83,73.7,rls,0,RSA,spin,yes,22.378125,3.196875

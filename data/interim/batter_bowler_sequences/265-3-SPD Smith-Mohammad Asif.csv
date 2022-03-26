@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1057,338,AUS,7,188,293,SPD Smith,Mohammad Asif,9,0,0,6.5,24,54.16,Right-hand bat,85,44,3,4140.4,23.21,46.5,rfm,1nb,AUS,seam,no,16.64,8.96
-3,1070,351,AUS,7,198,303,SPD Smith,Mohammad Asif,9,4,6,6.5,24,54.16,Right-hand bat,92,46,3,4140.4,23.21,46.5,rfm,1,AUS,seam,no,16.64,8.96
-3,1084,365,AUS,7,202,307,SPD Smith,Mohammad Asif,9,6,9,6.5,24,54.16,Right-hand bat,100,48,3,4140.4,23.21,46.5,rfm,1,AUS,seam,no,16.64,8.96

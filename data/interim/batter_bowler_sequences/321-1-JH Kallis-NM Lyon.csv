@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,145,145,RSA,2,95,95,JH Kallis,NM Lyon,4,32,28,56.89,26488,45.32,Right-hand bat,0,0,0,756.5,34.58,63.4,rob,4,RSA,spin,yes,23.481994459833793,8.386426592797784
-1,146,146,RSA,2,99,99,JH Kallis,NM Lyon,4,36,29,56.89,26488,45.32,Right-hand bat,1,4,0,756.5,34.58,63.4,rob,1,RSA,spin,yes,23.481994459833793,8.386426592797784
-1,148,148,RSA,2,101,101,JH Kallis,NM Lyon,4,37,30,56.89,26488,45.32,Right-hand bat,3,6,0,756.5,34.58,63.4,rob,0,RSA,spin,yes,23.481994459833793,8.386426592797784
-1,149,149,RSA,2,101,101,JH Kallis,NM Lyon,4,37,31,56.89,26488,45.32,Right-hand bat,4,6,0,756.5,34.58,63.4,rob,6,RSA,spin,yes,23.481994459833793,8.386426592797784
-1,150,150,RSA,2,107,107,JH Kallis,NM Lyon,4,43,32,56.89,26488,45.32,Right-hand bat,5,12,0,756.5,34.58,63.4,rob,0,RSA,spin,yes,23.481994459833793,8.386426592797784

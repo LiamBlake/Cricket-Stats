@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1363,86,AUS,0,78,285,CJL Rogers,DW Steyn,1,25,46,38.14,2171,47.44,Left-hand bat,0,0,0,15258.3,23.01,42.1,rf,0,RSA,seam,yes,34.251953125,7.904296875
-3,1364,87,AUS,0,78,285,CJL Rogers,DW Steyn,1,25,47,38.14,2171,47.44,Left-hand bat,1,0,0,15258.3,23.01,42.1,rf,0,RSA,seam,yes,34.251953125,7.904296875
-3,1365,88,AUS,0,78,285,CJL Rogers,DW Steyn,1,25,48,38.14,2171,47.44,Left-hand bat,2,0,0,15258.3,23.01,42.1,rf,0,RSA,seam,yes,34.251953125,7.904296875
-3,1366,89,AUS,0,78,285,CJL Rogers,DW Steyn,1,25,49,38.14,2171,47.44,Left-hand bat,3,0,0,15258.3,23.01,42.1,rf,0,RSA,seam,yes,34.251953125,7.904296875
-3,1367,90,AUS,0,78,285,CJL Rogers,DW Steyn,1,25,50,38.14,2171,47.44,Left-hand bat,4,0,0,15258.3,23.01,42.1,rf,0,RSA,seam,yes,34.251953125,7.904296875
-3,1368,91,AUS,0,78,285,CJL Rogers,DW Steyn,1,25,51,38.14,2171,47.44,Left-hand bat,5,0,0,15258.3,23.01,42.1,rf,0,RSA,seam,yes,34.251953125,7.904296875
-3,1375,98,AUS,0,88,295,CJL Rogers,DW Steyn,1,34,55,38.14,2171,47.44,Left-hand bat,6,0,0,15258.3,23.01,42.1,rf,1,RSA,seam,yes,34.251953125,7.904296875

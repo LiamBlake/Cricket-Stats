@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1098,149,IND,5,92,204,R Ashwin,N Wagner,7,0,0,33.55,2733,55.25,Right-hand bat,34,19,0,5442.4,29.63,55,lmf,0,IND,seam,yes,15.925,8.575
-3,1099,150,IND,5,92,204,R Ashwin,N Wagner,7,0,1,33.55,2733,55.25,Right-hand bat,35,19,0,5442.4,29.63,55,lmf,1,IND,seam,yes,15.925,8.575
-3,1107,158,IND,5,100,212,R Ashwin,N Wagner,7,3,5,33.55,2733,55.25,Right-hand bat,37,20,0,5442.4,29.63,55,lmf,0,IND,seam,yes,15.925,8.575
-3,1108,159,IND,5,100,212,R Ashwin,N Wagner,7,3,6,33.55,2733,55.25,Right-hand bat,38,20,0,5442.4,29.63,55,lmf,0,IND,seam,yes,15.925,8.575
-3,1109,160,IND,5,100,212,R Ashwin,N Wagner,7,3,7,33.55,2733,55.25,Right-hand bat,39,20,0,5442.4,29.63,55,lmf,0,IND,seam,yes,15.925,8.575
-3,1110,161,IND,5,100,212,R Ashwin,N Wagner,7,3,8,33.55,2733,55.25,Right-hand bat,40,20,0,5442.4,29.63,55,lmf,0,IND,seam,yes,15.925,8.575
-3,1111,162,IND,5,100,212,R Ashwin,N Wagner,7,3,9,33.55,2733,55.25,Right-hand bat,41,20,0,5442.4,29.63,55,lmf,0,IND,seam,yes,15.925,8.575
-3,1112,163,IND,5,100,212,R Ashwin,N Wagner,7,3,10,33.55,2733,55.25,Right-hand bat,42,20,0,5442.4,29.63,55,lmf,1,IND,seam,yes,15.925,8.575

@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1005,73,PAK,0,23,-566,Mohammad Hafeez,CR Woakes,1,14,36,40.11,6108,56.48,Right-hand bat,0,0,0,1686.2,25.58,49.6,rfm,0,ENG,seam,no,31.234244946492268,9.938168846611177
-2,1006,74,PAK,0,23,-566,Mohammad Hafeez,CR Woakes,1,14,37,40.11,6108,56.48,Right-hand bat,1,0,0,1686.2,25.58,49.6,rfm,0,ENG,seam,no,31.234244946492268,9.938168846611177
-2,1007,75,PAK,0,23,-566,Mohammad Hafeez,CR Woakes,1,14,38,40.11,6108,56.48,Right-hand bat,2,0,0,1686.2,25.58,49.6,rfm,0,ENG,seam,no,31.234244946492268,9.938168846611177
-2,1008,76,PAK,0,23,-566,Mohammad Hafeez,CR Woakes,1,14,39,40.11,6108,56.48,Right-hand bat,3,0,0,1686.2,25.58,49.6,rfm,0,ENG,seam,no,31.234244946492268,9.938168846611177
-2,1009,77,PAK,0,23,-566,Mohammad Hafeez,CR Woakes,1,14,40,40.11,6108,56.48,Right-hand bat,4,0,0,1686.2,25.58,49.6,rfm,4,ENG,seam,no,31.234244946492268,9.938168846611177
-2,1010,78,PAK,0,27,-562,Mohammad Hafeez,CR Woakes,1,18,41,40.11,6108,56.48,Right-hand bat,5,4,0,1686.2,25.58,49.6,rfm,W,ENG,seam,no,31.234244946492268,9.938168846611177

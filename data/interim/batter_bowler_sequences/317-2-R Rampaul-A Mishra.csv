@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,768,394,WIN,8,164,-82,R Rampaul,A Mishra,9,11,12,23,380,60.52,Left-hand bat,76,44,0,3006.5,38.55,75.2,rls,1,WIN,spin,no,14.578125,8.746875
-2,772,398,WIN,8,166,-80,R Rampaul,A Mishra,9,12,13,23,380,60.52,Left-hand bat,80,46,0,3006.5,38.55,75.2,rls,0,WIN,spin,no,14.578125,8.746875
-2,773,399,WIN,8,166,-80,R Rampaul,A Mishra,9,12,14,23,380,60.52,Left-hand bat,81,46,0,3006.5,38.55,75.2,rls,0,WIN,spin,no,14.578125,8.746875
-2,780,406,WIN,8,168,-78,R Rampaul,A Mishra,9,13,17,23,380,60.52,Left-hand bat,82,46,0,3006.5,38.55,75.2,rls,0,WIN,spin,no,14.578125,8.746875
-2,781,407,WIN,8,168,-78,R Rampaul,A Mishra,9,13,18,23,380,60.52,Left-hand bat,83,46,0,3006.5,38.55,75.2,rls,1,WIN,spin,no,14.578125,8.746875

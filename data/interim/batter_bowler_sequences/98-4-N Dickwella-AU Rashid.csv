@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1916,366,SRL,5,171,-290,N Dickwella,AU Rashid,7,7,17,30.46,1805,69.19,Left-hand bat,36,20,0,3228.1,39.68,63.3,rls,0,ENG,spin,no,5.171296296296297,25.85648148148148
-4,1917,367,SRL,5,171,-290,N Dickwella,AU Rashid,7,7,18,30.46,1805,69.19,Left-hand bat,37,20,0,3228.1,39.68,63.3,rls,1,ENG,spin,no,5.171296296296297,25.85648148148148
-4,1920,370,SRL,5,173,-288,N Dickwella,AU Rashid,7,8,19,30.46,1805,69.19,Left-hand bat,40,22,0,3228.1,39.68,63.3,rls,0,ENG,spin,no,5.171296296296297,25.85648148148148
-4,1921,371,SRL,5,173,-288,N Dickwella,AU Rashid,7,8,20,30.46,1805,69.19,Left-hand bat,41,22,0,3228.1,39.68,63.3,rls,0,ENG,spin,no,5.171296296296297,25.85648148148148
-4,1928,378,SRL,5,175,-286,N Dickwella,AU Rashid,7,9,23,30.46,1805,69.19,Left-hand bat,42,22,0,3228.1,39.68,63.3,rls,1,ENG,spin,no,5.171296296296297,25.85648148148148
-4,1931,381,SRL,5,177,-284,N Dickwella,AU Rashid,7,10,24,30.46,1805,69.19,Left-hand bat,45,24,0,3228.1,39.68,63.3,rls,2,ENG,spin,no,5.171296296296297,25.85648148148148
-4,1932,382,SRL,5,179,-282,N Dickwella,AU Rashid,7,12,25,30.46,1805,69.19,Left-hand bat,46,26,0,3228.1,39.68,63.3,rls,4,ENG,spin,no,5.171296296296297,25.85648148148148
-4,1933,383,SRL,5,183,-278,N Dickwella,AU Rashid,7,16,26,30.46,1805,69.19,Left-hand bat,47,30,0,3228.1,39.68,63.3,rls,0,ENG,spin,no,5.171296296296297,25.85648148148148

@@ -1,3 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,279,279,NZL,2,129,129,MS Sinclair,PD Collingwood,4,8,35,34.08,3517,43.61,Right-hand bat,15,2,0,1008.4,50,92,rm,0,NZL,seam,yes,19.615384615384617,8.717948717948717
-1,280,280,NZL,2,129,129,MS Sinclair,PD Collingwood,4,8,36,34.08,3517,43.61,Right-hand bat,16,2,0,1008.4,50,92,rm,W,NZL,seam,yes,19.615384615384617,8.717948717948717

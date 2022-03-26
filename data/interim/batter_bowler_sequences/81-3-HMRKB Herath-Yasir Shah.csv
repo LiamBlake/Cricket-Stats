@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1629,118,SRL,7,60,280,HMRKB Herath,Yasir Shah,9,0,0,14.82,3069,50.24,Left-hand bat,56,23,2,9276.1,29.44,56.2,rls,4,SRL,spin,yes,10.879999999999999,16.32
-3,1630,119,SRL,7,64,284,HMRKB Herath,Yasir Shah,9,4,1,14.82,3069,50.24,Left-hand bat,57,27,2,9276.1,29.44,56.2,rls,4,SRL,spin,yes,10.879999999999999,16.32
-3,1631,120,SRL,7,68,288,HMRKB Herath,Yasir Shah,9,8,2,14.82,3069,50.24,Left-hand bat,58,31,2,9276.1,29.44,56.2,rls,1,SRL,spin,yes,10.879999999999999,16.32
-3,1639,128,SRL,7,70,290,HMRKB Herath,Yasir Shah,9,10,4,14.82,3069,50.24,Left-hand bat,60,32,2,9276.1,29.44,56.2,rls,0,SRL,spin,yes,10.879999999999999,16.32
-3,1640,129,SRL,7,70,290,HMRKB Herath,Yasir Shah,9,10,5,14.82,3069,50.24,Left-hand bat,61,32,2,9276.1,29.44,56.2,rls,1,SRL,spin,yes,10.879999999999999,16.32

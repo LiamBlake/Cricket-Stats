@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1327,511,WIN,8,216,-335,JE Taylor,JR Hazlewood,10,0,2,12.96,1341,62.86,Right-hand bat,104,30,0,2892.5,24.13,48.2,rfm,0,AUS,seam,yes,34.162721893491124,15.183431952662723
-2,1328,512,WIN,8,216,-335,JE Taylor,JR Hazlewood,10,0,3,12.96,1341,62.86,Right-hand bat,105,30,0,2892.5,24.13,48.2,rfm,0,AUS,seam,yes,34.162721893491124,15.183431952662723
-2,1329,513,WIN,8,216,-335,JE Taylor,JR Hazlewood,10,0,4,12.96,1341,62.86,Right-hand bat,106,30,0,2892.5,24.13,48.2,rfm,0,AUS,seam,yes,34.162721893491124,15.183431952662723
-2,1330,514,WIN,8,216,-335,JE Taylor,JR Hazlewood,10,0,5,12.96,1341,62.86,Right-hand bat,107,30,0,2892.5,24.13,48.2,rfm,0,AUS,seam,yes,34.162721893491124,15.183431952662723
-2,1338,522,WIN,8,218,-333,JE Taylor,JR Hazlewood,10,0,8,12.96,1341,62.86,Right-hand bat,109,31,0,2892.5,24.13,48.2,rfm,3,AUS,seam,yes,34.162721893491124,15.183431952662723
-2,1340,524,WIN,8,222,-329,JE Taylor,JR Hazlewood,10,3,9,12.96,1341,62.86,Right-hand bat,111,35,0,2892.5,24.13,48.2,rfm,0,AUS,seam,yes,34.162721893491124,15.183431952662723
-2,1341,525,WIN,8,222,-329,JE Taylor,JR Hazlewood,10,3,10,12.96,1341,62.86,Right-hand bat,112,35,0,2892.5,24.13,48.2,rfm,2,AUS,seam,yes,34.162721893491124,15.183431952662723
-2,1342,526,WIN,8,224,-327,JE Taylor,JR Hazlewood,10,5,11,12.96,1341,62.86,Right-hand bat,113,37,0,2892.5,24.13,48.2,rfm,4,AUS,seam,yes,34.162721893491124,15.183431952662723

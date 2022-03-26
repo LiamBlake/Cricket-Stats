@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1825,272,WIN,6,120,-364,KAJ Roach,JL Denly,8,3,8,12.16,2162,38.25,Right-hand bat,2,1,0,24,NA,NA,rls,0,WIN,spin,yes,23.862857142857145,5.965714285714286
-4,1826,273,WIN,6,120,-364,KAJ Roach,JL Denly,8,3,9,12.16,2162,38.25,Right-hand bat,3,1,0,24,NA,NA,rls,4,WIN,spin,yes,23.862857142857145,5.965714285714286
-4,1827,274,WIN,6,124,-360,KAJ Roach,JL Denly,8,7,10,12.16,2162,38.25,Right-hand bat,4,5,0,24,NA,NA,rls,1,WIN,spin,yes,23.862857142857145,5.965714285714286
-4,1835,282,WIN,6,130,-354,KAJ Roach,JL Denly,8,9,13,12.16,2162,38.25,Right-hand bat,6,6,0,24,NA,NA,rls,0,WIN,spin,yes,23.862857142857145,5.965714285714286
-4,1836,283,WIN,6,130,-354,KAJ Roach,JL Denly,8,9,14,12.16,2162,38.25,Right-hand bat,7,6,0,24,NA,NA,rls,0,WIN,spin,yes,23.862857142857145,5.965714285714286
-4,1837,284,WIN,6,130,-354,KAJ Roach,JL Denly,8,9,15,12.16,2162,38.25,Right-hand bat,8,6,0,24,NA,NA,rls,4,WIN,spin,yes,23.862857142857145,5.965714285714286
-4,1838,285,WIN,6,134,-350,KAJ Roach,JL Denly,8,13,16,12.16,2162,38.25,Right-hand bat,9,10,0,24,NA,NA,rls,1,WIN,spin,yes,23.862857142857145,5.965714285714286
-4,1840,287,WIN,6,136,-348,KAJ Roach,JL Denly,8,14,17,12.16,2162,38.25,Right-hand bat,11,12,0,24,NA,NA,rls,0,WIN,spin,yes,23.862857142857145,5.965714285714286

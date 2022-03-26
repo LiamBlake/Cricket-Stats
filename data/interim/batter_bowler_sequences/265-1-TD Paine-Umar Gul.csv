@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,344,344,AUS,5,193,193,TD Paine,Umar Gul,7,6,39,27,131,41.22,Right-hand bat,72,19,0,5742.2,33.83,56.8,rfm,0,AUS,seam,no,16.64,8.96
-1,345,345,AUS,5,193,193,TD Paine,Umar Gul,7,6,40,27,131,41.22,Right-hand bat,73,19,0,5742.2,33.83,56.8,rfm,0,AUS,seam,no,16.64,8.96
-1,346,346,AUS,5,193,193,TD Paine,Umar Gul,7,6,41,27,131,41.22,Right-hand bat,74,19,0,5742.2,33.83,56.8,rfm,0,AUS,seam,no,16.64,8.96
-1,347,347,AUS,5,193,193,TD Paine,Umar Gul,7,6,42,27,131,41.22,Right-hand bat,75,19,0,5742.2,33.83,56.8,rfm,0,AUS,seam,no,16.64,8.96
-1,354,354,AUS,5,205,205,TD Paine,Umar Gul,7,7,44,27,131,41.22,Right-hand bat,76,19,0,5742.2,33.83,56.8,rfm,1nb,AUS,seam,no,16.64,8.96
-1,355,355,AUS,5,206,206,TD Paine,Umar Gul,7,7,45,27,131,41.22,Right-hand bat,77,20,0,5742.2,33.83,56.8,rfm,W,AUS,seam,no,16.64,8.96

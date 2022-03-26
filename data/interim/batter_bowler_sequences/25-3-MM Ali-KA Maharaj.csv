@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1681,406,ENG,5,150,247,MM Ali,KA Maharaj,7,0,2,35.45,3961,51.02,Left-hand bat,135,43,1,1812,28.83,60.4,lo,1,ENG,spin,yes,16.10125,13.173749999999998
-3,1690,415,ENG,5,154,251,MM Ali,KA Maharaj,7,2,7,35.45,3961,51.02,Left-hand bat,138,45,1,1812,28.83,60.4,lo,0,ENG,spin,yes,16.10125,13.173749999999998
-3,1691,416,ENG,5,154,251,MM Ali,KA Maharaj,7,2,8,35.45,3961,51.02,Left-hand bat,139,45,1,1812,28.83,60.4,lo,1,ENG,spin,yes,16.10125,13.173749999999998
-3,1702,427,ENG,5,158,255,MM Ali,KA Maharaj,7,4,11,35.45,3961,51.02,Left-hand bat,144,46,1,1812,28.83,60.4,lo,0,ENG,spin,yes,16.10125,13.173749999999998
-3,1703,428,ENG,5,158,255,MM Ali,KA Maharaj,7,4,12,35.45,3961,51.02,Left-hand bat,145,46,1,1812,28.83,60.4,lo,1,ENG,spin,yes,16.10125,13.173749999999998
-3,1719,444,ENG,5,180,277,MM Ali,KA Maharaj,7,7,15,35.45,3961,51.02,Left-hand bat,155,64,1,1812,28.83,60.4,lo,W,ENG,spin,yes,16.10125,13.173749999999998

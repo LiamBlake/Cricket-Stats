@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,815,6,NZL,0,7,-431,BB McCullum,UT Yadav,1,7,4,36.28,6583,60.07,Right-hand bat,0,0,0,1116.3,31.92,44.7,rf,1,IND,seam,no,6.764444444444445,18.602222222222224
-2,839,30,NZL,0,15,-423,BB McCullum,UT Yadav,1,13,16,36.28,6583,60.07,Right-hand bat,12,3,0,1116.3,31.92,44.7,rf,0,IND,seam,no,6.764444444444445,18.602222222222224
-2,840,31,NZL,0,15,-423,BB McCullum,UT Yadav,1,13,17,36.28,6583,60.07,Right-hand bat,13,3,0,1116.3,31.92,44.7,rf,1,IND,seam,no,6.764444444444445,18.602222222222224

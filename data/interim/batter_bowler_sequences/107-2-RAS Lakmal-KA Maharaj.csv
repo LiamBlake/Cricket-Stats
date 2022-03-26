@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,581,209,SRL,7,144,-78,RAS Lakmal,KA Maharaj,9,4,6,11.04,1491,49.63,Right-hand bat,3,5,0,5028,28.44,53.4,lo,0,RSA,spin,no,17.1142578125,4.107421875
-2,582,210,SRL,7,144,-78,RAS Lakmal,KA Maharaj,9,4,7,11.04,1491,49.63,Right-hand bat,4,5,0,5028,28.44,53.4,lo,0,RSA,spin,no,17.1142578125,4.107421875
-2,583,211,SRL,7,144,-78,RAS Lakmal,KA Maharaj,9,4,8,11.04,1491,49.63,Right-hand bat,5,5,0,5028,28.44,53.4,lo,2,RSA,spin,no,17.1142578125,4.107421875
-2,590,218,SRL,7,152,-70,RAS Lakmal,KA Maharaj,9,6,9,11.04,1491,49.63,Right-hand bat,6,7,0,5028,28.44,53.4,lo,0,RSA,spin,no,17.1142578125,4.107421875
-2,591,219,SRL,7,152,-70,RAS Lakmal,KA Maharaj,9,6,10,11.04,1491,49.63,Right-hand bat,7,7,0,5028,28.44,53.4,lo,1,RSA,spin,no,17.1142578125,4.107421875
-2,593,221,SRL,7,154,-68,RAS Lakmal,KA Maharaj,9,7,11,11.04,1491,49.63,Right-hand bat,9,9,0,5028,28.44,53.4,lo,0,RSA,spin,no,17.1142578125,4.107421875
-2,594,222,SRL,7,154,-68,RAS Lakmal,KA Maharaj,9,7,12,11.04,1491,49.63,Right-hand bat,10,9,0,5028,28.44,53.4,lo,0,RSA,spin,no,17.1142578125,4.107421875
-2,595,223,SRL,7,154,-68,RAS Lakmal,KA Maharaj,9,7,13,11.04,1491,49.63,Right-hand bat,11,9,0,5028,28.44,53.4,lo,W,RSA,spin,no,17.1142578125,4.107421875

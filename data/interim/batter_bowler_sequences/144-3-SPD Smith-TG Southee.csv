@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1465,196,AUS,2,102,421,SPD Smith,TG Southee,4,0,0,62.84,12886,55.59,Right-hand bat,43,15,0,16002,29.82,59.2,rmf,2,AUS,seam,no,21.712653061224486,6.680816326530612
-3,1466,197,AUS,2,104,423,SPD Smith,TG Southee,4,2,1,62.84,12886,55.59,Right-hand bat,44,17,0,16002,29.82,59.2,rmf,4,AUS,seam,no,21.712653061224486,6.680816326530612
-3,1467,198,AUS,2,108,427,SPD Smith,TG Southee,4,6,2,62.84,12886,55.59,Right-hand bat,45,21,0,16002,29.82,59.2,rmf,0,AUS,seam,no,21.712653061224486,6.680816326530612
-3,1468,199,AUS,2,108,427,SPD Smith,TG Southee,4,6,3,62.84,12886,55.59,Right-hand bat,46,21,0,16002,29.82,59.2,rmf,0,AUS,seam,no,21.712653061224486,6.680816326530612
-3,1469,200,AUS,2,108,427,SPD Smith,TG Southee,4,6,4,62.84,12886,55.59,Right-hand bat,47,21,0,16002,29.82,59.2,rmf,0,AUS,seam,no,21.712653061224486,6.680816326530612

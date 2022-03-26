@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1778,229,SRL,3,153,292,KC Sangakkara,JP Duminy,3,69,82,58.32,21502,54.25,Left-hand bat,0,0,0,2052,38.15,64.1,rob,0,SRL,spin,yes,10.943672839506172,19.361882716049383
-3,1779,230,SRL,3,153,292,KC Sangakkara,JP Duminy,3,69,83,58.32,21502,54.25,Left-hand bat,1,0,0,2052,38.15,64.1,rob,0,SRL,spin,yes,10.943672839506172,19.361882716049383
-3,1780,231,SRL,3,153,292,KC Sangakkara,JP Duminy,3,69,84,58.32,21502,54.25,Left-hand bat,2,0,0,2052,38.15,64.1,rob,0,SRL,spin,yes,10.943672839506172,19.361882716049383
-3,1781,232,SRL,3,153,292,KC Sangakkara,JP Duminy,3,69,85,58.32,21502,54.25,Left-hand bat,3,0,0,2052,38.15,64.1,rob,2,SRL,spin,yes,10.943672839506172,19.361882716049383
-3,1782,233,SRL,3,155,294,KC Sangakkara,JP Duminy,3,71,86,58.32,21502,54.25,Left-hand bat,4,2,0,2052,38.15,64.1,rob,0,SRL,spin,yes,10.943672839506172,19.361882716049383
-3,1783,234,SRL,3,155,294,KC Sangakkara,JP Duminy,3,71,87,58.32,21502,54.25,Left-hand bat,5,2,0,2052,38.15,64.1,rob,0,SRL,spin,yes,10.943672839506172,19.361882716049383

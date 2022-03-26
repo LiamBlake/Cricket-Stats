@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1043,1,PAK,0,1,-110,Taufeeq Umar,KMDN Kulasekara,2,0,0,38.72,6578,44.74,Left-hand bat,1,1,0,2346.4,34.41,69.1,rfm,2lb,SRL,seam,no,21.115234375,14.447265625
-3,1044,2,PAK,0,3,-108,Taufeeq Umar,KMDN Kulasekara,2,0,1,38.72,6578,44.74,Left-hand bat,2,1,0,2346.4,34.41,69.1,rfm,2lb,SRL,seam,no,21.115234375,14.447265625
-3,1045,3,PAK,0,5,-106,Taufeeq Umar,KMDN Kulasekara,2,0,2,38.72,6578,44.74,Left-hand bat,3,1,0,2346.4,34.41,69.1,rfm,4,SRL,seam,no,21.115234375,14.447265625
-3,1046,4,PAK,0,9,-102,Taufeeq Umar,KMDN Kulasekara,2,4,3,38.72,6578,44.74,Left-hand bat,4,5,0,2346.4,34.41,69.1,rfm,0,SRL,seam,no,21.115234375,14.447265625
-3,1047,5,PAK,0,9,-102,Taufeeq Umar,KMDN Kulasekara,2,4,4,38.72,6578,44.74,Left-hand bat,5,5,0,2346.4,34.41,69.1,rfm,0,SRL,seam,no,21.115234375,14.447265625
-3,1056,14,PAK,0,16,-95,Taufeeq Umar,KMDN Kulasekara,2,4,7,38.72,6578,44.74,Left-hand bat,7,6,0,2346.4,34.41,69.1,rfm,W,SRL,seam,no,21.115234375,14.447265625

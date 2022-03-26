@@ -1,3 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1182,472,NZL,6,195,-257,JDP Oram,T Thushara,8,0,0,36.17,3333,51,Left-hand bat,110,57,3,1344.3,32.53,51.8,lfm,0,SRL,seam,yes,16.885813148788927,18.996539792387544
-2,1183,473,NZL,6,195,-257,JDP Oram,T Thushara,8,0,1,36.17,3333,51,Left-hand bat,111,57,3,1344.3,32.53,51.8,lfm,1,SRL,seam,yes,16.885813148788927,18.996539792387544

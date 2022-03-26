@@ -1,3 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1561,433,NZL,9,247,259,JS Patel,PP Ojha,11,21,23,12.55,483,46.79,Right-hand bat,120,48,2,5190.2,31.82,69.2,lo,0,IND,spin,yes,19.0465306122449,16.039183673469388
-3,1562,434,NZL,9,247,259,JS Patel,PP Ojha,11,21,24,12.55,483,46.79,Right-hand bat,121,48,2,5190.2,31.82,69.2,lo,1,IND,spin,yes,19.0465306122449,16.039183673469388

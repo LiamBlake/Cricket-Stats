@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,597,597,ZIM,9,257,257,BV Vitori,Saeed Ajmal,11,1,7,10.4,84,61.9,Left-hand bat,146,84,1,8850.1,26.78,60.2,rob,1,ZIM,spin,yes,17.43625,6.6137500000000005
-1,612,612,ZIM,9,263,263,BV Vitori,Saeed Ajmal,11,3,12,10.4,84,61.9,Left-hand bat,155,86,1,8850.1,26.78,60.2,rob,0,ZIM,spin,yes,17.43625,6.6137500000000005
-1,622,622,ZIM,9,265,265,BV Vitori,Saeed Ajmal,11,3,14,10.4,84,61.9,Left-hand bat,159,87,1,8850.1,26.78,60.2,rob,4,ZIM,spin,yes,17.43625,6.6137500000000005
-1,623,623,ZIM,9,269,269,BV Vitori,Saeed Ajmal,11,7,15,10.4,84,61.9,Left-hand bat,160,91,1,8850.1,26.78,60.2,rob,1,ZIM,spin,yes,17.43625,6.6137500000000005

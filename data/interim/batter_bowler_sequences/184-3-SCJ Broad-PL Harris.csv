@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1990,603,ENG,9,285,-34,SCJ Broad,PL Harris,9,36,29,41.22,634,58.51,Left-hand bat,66,22,0,2976.1,32.51,72.6,lo,0,ENG,spin,no,31.83,3.5366666666666666
-3,1991,604,ENG,9,285,-34,SCJ Broad,PL Harris,9,36,30,41.22,634,58.51,Left-hand bat,67,22,0,2976.1,32.51,72.6,lo,0,ENG,spin,no,31.83,3.5366666666666666
-3,1992,605,ENG,9,285,-34,SCJ Broad,PL Harris,9,36,31,41.22,634,58.51,Left-hand bat,68,22,0,2976.1,32.51,72.6,lo,2,ENG,spin,no,31.83,3.5366666666666666
-3,1993,606,ENG,9,287,-32,SCJ Broad,PL Harris,9,38,32,41.22,634,58.51,Left-hand bat,69,24,0,2976.1,32.51,72.6,lo,0,ENG,spin,no,31.83,3.5366666666666666
-3,1994,607,ENG,9,287,-32,SCJ Broad,PL Harris,9,38,33,41.22,634,58.51,Left-hand bat,70,24,0,2976.1,32.51,72.6,lo,2,ENG,spin,no,31.83,3.5366666666666666
-3,1995,608,ENG,9,289,-30,SCJ Broad,PL Harris,9,40,34,41.22,634,58.51,Left-hand bat,71,26,0,2976.1,32.51,72.6,lo,0,ENG,spin,no,31.83,3.5366666666666666
-3,2002,615,ENG,9,289,-30,SCJ Broad,PL Harris,9,40,35,41.22,634,58.51,Left-hand bat,72,26,0,2976.1,32.51,72.6,lo,0,ENG,spin,no,31.83,3.5366666666666666
-3,2003,616,ENG,9,289,-30,SCJ Broad,PL Harris,9,40,36,41.22,634,58.51,Left-hand bat,73,26,0,2976.1,32.51,72.6,lo,1,ENG,spin,no,31.83,3.5366666666666666

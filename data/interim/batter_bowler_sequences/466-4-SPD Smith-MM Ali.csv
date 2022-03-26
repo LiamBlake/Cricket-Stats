@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1614,65,AUS,1,28,-383,SPD Smith,MM Ali,3,4,2,55.27,4840,54.81,Right-hand bat,5,5,0,1968.3,31.73,51.8,rob,0,ENG,spin,no,21.414375,10.310625
-4,1621,72,AUS,1,36,-375,SPD Smith,MM Ali,3,4,3,55.27,4840,54.81,Right-hand bat,6,5,0,1968.3,31.73,51.8,rob,4,ENG,spin,no,21.414375,10.310625
-4,1622,73,AUS,1,40,-371,SPD Smith,MM Ali,3,8,4,55.27,4840,54.81,Right-hand bat,7,9,0,1968.3,31.73,51.8,rob,0,ENG,spin,no,21.414375,10.310625
-4,1623,74,AUS,1,40,-371,SPD Smith,MM Ali,3,8,5,55.27,4840,54.81,Right-hand bat,8,9,0,1968.3,31.73,51.8,rob,0,ENG,spin,no,21.414375,10.310625
-4,1624,75,AUS,1,40,-371,SPD Smith,MM Ali,3,8,6,55.27,4840,54.81,Right-hand bat,9,9,0,1968.3,31.73,51.8,rob,3,ENG,spin,no,21.414375,10.310625

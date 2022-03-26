@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1677,158,IND,4,64,-422,SR Tendulkar,GP Swann,4,26,37,56.25,NA,NA,Right-hand bat,12,4,0,8484.5,29.18,58.9,rob,0,ENG,spin,no,32.318244170096015,11.311385459533607
-3,1678,159,IND,4,64,-422,SR Tendulkar,GP Swann,4,26,38,56.25,NA,NA,Right-hand bat,13,4,0,8484.5,29.18,58.9,rob,4,ENG,spin,no,32.318244170096015,11.311385459533607
-3,1679,160,IND,4,68,-418,SR Tendulkar,GP Swann,4,30,39,56.25,NA,NA,Right-hand bat,14,8,0,8484.5,29.18,58.9,rob,1,ENG,spin,no,32.318244170096015,11.311385459533607
-3,1682,163,IND,4,70,-416,SR Tendulkar,GP Swann,4,31,40,56.25,NA,NA,Right-hand bat,17,10,0,8484.5,29.18,58.9,rob,1b,ENG,spin,no,32.318244170096015,11.311385459533607
-3,1704,185,IND,5,88,-398,SR Tendulkar,GP Swann,4,39,53,56.25,NA,NA,Right-hand bat,27,19,1,8484.5,29.18,58.9,rob,1,ENG,spin,no,32.318244170096015,11.311385459533607

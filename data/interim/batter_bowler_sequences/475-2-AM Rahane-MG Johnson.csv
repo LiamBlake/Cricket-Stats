@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1078,351,IND,3,209,-308,AM Rahane,MG Johnson,5,10,24,38.94,1386,53.39,Right-hand bat,69,54,1,13902.3,27.6,50.7,lf,0,AUS,seam,no,22.939453125,25.998046875
-2,1079,352,IND,3,209,-308,AM Rahane,MG Johnson,5,10,25,38.94,1386,53.39,Right-hand bat,70,54,1,13902.3,27.6,50.7,lf,0,AUS,seam,no,22.939453125,25.998046875
-2,1080,353,IND,3,209,-308,AM Rahane,MG Johnson,5,10,26,38.94,1386,53.39,Right-hand bat,71,54,1,13902.3,27.6,50.7,lf,1,AUS,seam,no,22.939453125,25.998046875
-2,1082,355,IND,3,211,-306,AM Rahane,MG Johnson,5,11,27,38.94,1386,53.39,Right-hand bat,73,56,1,13902.3,27.6,50.7,lf,0,AUS,seam,no,22.939453125,25.998046875
-2,1092,365,IND,3,219,-298,AM Rahane,MG Johnson,5,15,33,38.94,1386,53.39,Right-hand bat,77,59,1,13902.3,27.6,50.7,lf,4,AUS,seam,no,22.939453125,25.998046875
-2,1093,366,IND,3,223,-294,AM Rahane,MG Johnson,5,19,34,38.94,1386,53.39,Right-hand bat,78,63,1,13902.3,27.6,50.7,lf,0,AUS,seam,no,22.939453125,25.998046875
-2,1094,367,IND,3,223,-294,AM Rahane,MG Johnson,5,19,35,38.94,1386,53.39,Right-hand bat,79,63,1,13902.3,27.6,50.7,lf,0,AUS,seam,no,22.939453125,25.998046875

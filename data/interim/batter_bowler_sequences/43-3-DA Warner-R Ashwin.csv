@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,816,0,AUS,0,0,155,DA Warner,R Ashwin,1,0,0,48.7,6759,78.54,Left-hand bat,0,0,0,13464.1,25.07,51.5,rob,2,IND,spin,yes,4.258125000000001,14.666875000000001
-3,817,1,AUS,0,2,157,DA Warner,R Ashwin,1,2,1,48.7,6759,78.54,Left-hand bat,1,2,0,13464.1,25.07,51.5,rob,4,IND,spin,yes,4.258125000000001,14.666875000000001
-3,818,2,AUS,0,6,161,DA Warner,R Ashwin,1,6,2,48.7,6759,78.54,Left-hand bat,2,6,0,13464.1,25.07,51.5,rob,0,IND,spin,yes,4.258125000000001,14.666875000000001
-3,819,3,AUS,0,6,161,DA Warner,R Ashwin,1,6,3,48.7,6759,78.54,Left-hand bat,3,6,0,13464.1,25.07,51.5,rob,0,IND,spin,yes,4.258125000000001,14.666875000000001
-3,820,4,AUS,0,6,161,DA Warner,R Ashwin,1,6,4,48.7,6759,78.54,Left-hand bat,4,6,0,13464.1,25.07,51.5,rob,4,IND,spin,yes,4.258125000000001,14.666875000000001
-3,821,5,AUS,0,10,165,DA Warner,R Ashwin,1,10,5,48.7,6759,78.54,Left-hand bat,5,10,0,13464.1,25.07,51.5,rob,W,IND,spin,yes,4.258125000000001,14.666875000000001

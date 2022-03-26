@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1983,519,ENG,8,242,-278,SCJ Broad,JJ Bumrah,10,1,1,19.66,4605,65.32,Left-hand bat,145,64,4,918.3,22.61,43.8,rf,1,IND,seam,yes,27.091307523739953,4.233016800584368
-4,2044,580,ENG,8,291,-229,SCJ Broad,JJ Bumrah,10,20,27,19.66,4605,65.32,Left-hand bat,158,83,4,918.3,22.61,43.8,rf,0,IND,seam,yes,27.091307523739953,4.233016800584368
-4,2045,581,ENG,8,291,-229,SCJ Broad,JJ Bumrah,10,20,28,19.66,4605,65.32,Left-hand bat,159,83,4,918.3,22.61,43.8,rf,W,IND,seam,yes,27.091307523739953,4.233016800584368

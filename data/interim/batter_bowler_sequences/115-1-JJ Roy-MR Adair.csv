@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,6,6,ENG,0,4,4,JJ Roy,MR Adair,2,3,2,38.5,89,86.51,Right-hand bat,0,0,0,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125
-1,7,7,ENG,0,4,4,JJ Roy,MR Adair,2,3,3,38.5,89,86.51,Right-hand bat,1,0,0,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125
-1,8,8,ENG,0,4,4,JJ Roy,MR Adair,2,3,4,38.5,89,86.51,Right-hand bat,2,0,0,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125
-1,9,9,ENG,0,4,4,JJ Roy,MR Adair,2,3,5,38.5,89,86.51,Right-hand bat,3,0,0,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125
-1,10,10,ENG,0,4,4,JJ Roy,MR Adair,2,3,6,38.5,89,86.51,Right-hand bat,4,0,0,162.4,16.33,27.6,rf,2,ENG,seam,yes,15.033750000000001,0.79125
-1,11,11,ENG,0,6,6,JJ Roy,MR Adair,2,5,7,38.5,89,86.51,Right-hand bat,5,2,0,162.4,16.33,27.6,rf,1nb,ENG,seam,yes,15.033750000000001,0.79125
-1,12,12,ENG,0,7,7,JJ Roy,MR Adair,2,5,8,38.5,89,86.51,Right-hand bat,6,3,0,162.4,16.33,27.6,rf,0,ENG,seam,yes,15.033750000000001,0.79125

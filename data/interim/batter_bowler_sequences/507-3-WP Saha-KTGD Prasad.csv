@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1869,525,IND,7,311,398,WP Saha,KTGD Prasad,7,5,10,23.66,677,41.94,Right-hand bat,78,33,3,3774.4,41.22,65.1,rfm,0,SRL,seam,yes,12.831024930747922,17.642659279778393
-3,1877,533,IND,7,317,404,WP Saha,KTGD Prasad,7,9,14,23.66,677,41.94,Right-hand bat,80,33,3,3774.4,41.22,65.1,rfm,1,SRL,seam,yes,12.831024930747922,17.642659279778393
-3,1889,545,IND,8,321,408,WP Saha,KTGD Prasad,7,11,18,23.66,677,41.94,Right-hand bat,86,35,4,3774.4,41.22,65.1,rfm,1,SRL,seam,yes,12.831024930747922,17.642659279778393
-3,1891,547,IND,8,323,410,WP Saha,KTGD Prasad,7,12,19,23.66,677,41.94,Right-hand bat,88,37,4,3774.4,41.22,65.1,rfm,0,SRL,seam,yes,12.831024930747922,17.642659279778393
-3,1892,548,IND,8,323,410,WP Saha,KTGD Prasad,7,12,20,23.66,677,41.94,Right-hand bat,89,37,4,3774.4,41.22,65.1,rfm,1,SRL,seam,yes,12.831024930747922,17.642659279778393

@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1053,108,IND,0,57,-420,PA Patel,LA Dawson,2,27,48,33.76,1809,48.53,Left-hand bat,0,0,0,258,64.5,129,lo,0,IND,spin,no,17.814814814814813,35.629629629629626
-2,1054,109,IND,0,57,-420,PA Patel,LA Dawson,2,27,49,33.76,1809,48.53,Left-hand bat,1,0,0,258,64.5,129,lo,1lb,IND,spin,no,17.814814814814813,35.629629629629626
-2,1068,123,IND,0,61,-416,PA Patel,LA Dawson,2,28,52,33.76,1809,48.53,Left-hand bat,9,1,0,258,64.5,129,lo,1,IND,spin,no,17.814814814814813,35.629629629629626
-2,1094,149,IND,0,81,-396,PA Patel,LA Dawson,2,34,62,33.76,1809,48.53,Left-hand bat,23,15,0,258,64.5,129,lo,0,IND,spin,no,17.814814814814813,35.629629629629626

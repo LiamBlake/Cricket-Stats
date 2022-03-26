@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1231,439,NZL,7,262,-294,KS Williamson,AC Voges,3,102,138,47.19,7256,46.83,Right-hand bat,0,0,0,18,NA,NA,lo,1,AUS,spin,no,36.53061224489796,14.612244897959185
-2,1235,443,NZL,7,264,-292,KS Williamson,AC Voges,3,103,139,47.19,7256,46.83,Right-hand bat,4,2,0,18,NA,NA,lo,0,AUS,spin,no,36.53061224489796,14.612244897959185
-2,1236,444,NZL,7,264,-292,KS Williamson,AC Voges,3,103,140,47.19,7256,46.83,Right-hand bat,5,2,0,18,NA,NA,lo,1,AUS,spin,no,36.53061224489796,14.612244897959185

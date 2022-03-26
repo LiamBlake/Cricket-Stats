@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,0,0,ENG,0,0,0,AN Cook,Mohammad Amir,1,0,0,47.55,22457,47,Left-hand bat,0,0,0,3600.4,30.29,59,lf,0,ENG,seam,no,32.12422839506173,5.181327160493827
-1,1,1,ENG,0,0,0,AN Cook,Mohammad Amir,1,0,1,47.55,22457,47,Left-hand bat,1,0,0,3600.4,30.29,59,lf,1,ENG,seam,no,32.12422839506173,5.181327160493827
-1,24,24,ENG,0,12,12,AN Cook,Mohammad Amir,1,5,11,47.55,22457,47,Left-hand bat,12,5,0,3600.4,30.29,59,lf,4,ENG,seam,no,32.12422839506173,5.181327160493827
-1,25,25,ENG,0,16,16,AN Cook,Mohammad Amir,1,9,12,47.55,22457,47,Left-hand bat,13,9,0,3600.4,30.29,59,lf,1,ENG,seam,no,32.12422839506173,5.181327160493827
-1,40,40,ENG,0,22,22,AN Cook,Mohammad Amir,1,10,19,47.55,22457,47,Left-hand bat,22,15,0,3600.4,30.29,59,lf,1,ENG,seam,no,32.12422839506173,5.181327160493827
-1,103,103,ENG,2,70,70,AN Cook,Mohammad Amir,1,40,47,47.55,22457,47,Left-hand bat,24,17,0,3600.4,30.29,59,lf,4,ENG,seam,no,32.12422839506173,5.181327160493827
-1,104,104,ENG,2,74,74,AN Cook,Mohammad Amir,1,44,48,47.55,22457,47,Left-hand bat,25,21,0,3600.4,30.29,59,lf,0,ENG,seam,no,32.12422839506173,5.181327160493827
-1,105,105,ENG,2,74,74,AN Cook,Mohammad Amir,1,44,49,47.55,22457,47,Left-hand bat,26,21,0,3600.4,30.29,59,lf,1,ENG,seam,no,32.12422839506173,5.181327160493827

@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,633,298,NZL,6,146,13,TD Astle,Rahat Ali,8,0,0,12.66,141,26.95,Right-hand bat,60,41,1,3852.3,36.73,68.8,lfm,0,NZL,seam,yes,18.52734375,0.59765625
-2,634,299,NZL,6,146,13,TD Astle,Rahat Ali,8,0,1,12.66,141,26.95,Right-hand bat,61,41,1,3852.3,36.73,68.8,lfm,0,NZL,seam,yes,18.52734375,0.59765625
-2,635,300,NZL,6,146,13,TD Astle,Rahat Ali,8,0,2,12.66,141,26.95,Right-hand bat,62,41,1,3852.3,36.73,68.8,lfm,0,NZL,seam,yes,18.52734375,0.59765625
-2,636,301,NZL,6,146,13,TD Astle,Rahat Ali,8,0,3,12.66,141,26.95,Right-hand bat,63,41,1,3852.3,36.73,68.8,lfm,0,NZL,seam,yes,18.52734375,0.59765625
-2,637,302,NZL,6,146,13,TD Astle,Rahat Ali,8,0,4,12.66,141,26.95,Right-hand bat,64,41,1,3852.3,36.73,68.8,lfm,W,NZL,seam,yes,18.52734375,0.59765625

@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,820,820,RSA,5,520,520,Q de Kock,SS Cottrell,7,0,0,37.71,466,56.65,Left-hand bat,159,114,1,276,98,138,lfm,0,RSA,seam,no,28.288,4.2432
-1,821,821,RSA,5,520,520,Q de Kock,SS Cottrell,7,0,1,37.71,466,56.65,Left-hand bat,160,114,1,276,98,138,lfm,1,RSA,seam,no,28.288,4.2432
-1,832,832,RSA,5,530,530,Q de Kock,SS Cottrell,7,3,6,37.71,466,56.65,Left-hand bat,165,120,1,276,98,138,lfm,0,RSA,seam,no,28.288,4.2432
-1,833,833,RSA,5,530,530,Q de Kock,SS Cottrell,7,3,7,37.71,466,56.65,Left-hand bat,166,120,1,276,98,138,lfm,0,RSA,seam,no,28.288,4.2432
-1,834,834,RSA,5,530,530,Q de Kock,SS Cottrell,7,3,8,37.71,466,56.65,Left-hand bat,167,120,1,276,98,138,lfm,0,RSA,seam,no,28.288,4.2432
-1,835,835,RSA,5,530,530,Q de Kock,SS Cottrell,7,3,9,37.71,466,56.65,Left-hand bat,168,120,1,276,98,138,lfm,2,RSA,seam,no,28.288,4.2432
-1,836,836,RSA,5,532,532,Q de Kock,SS Cottrell,7,5,10,37.71,466,56.65,Left-hand bat,169,122,1,276,98,138,lfm,1,RSA,seam,no,28.288,4.2432

@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,612,612,SRL,7,401,401,SL Malinga,A Mithun,9,0,11,11.63,578,44.29,Right-hand bat,151,88,3,198,34.5,49.5,rm,1lb,SRL,seam,yes,26.67091836734694,17.25765306122449
-1,614,614,SRL,7,403,403,SL Malinga,A Mithun,9,0,12,11.63,578,44.29,Right-hand bat,153,89,3,198,34.5,49.5,rm,0,SRL,seam,yes,26.67091836734694,17.25765306122449
-1,615,615,SRL,7,403,403,SL Malinga,A Mithun,9,0,13,11.63,578,44.29,Right-hand bat,154,89,3,198,34.5,49.5,rm,1,SRL,seam,yes,26.67091836734694,17.25765306122449
-1,725,725,SRL,7,502,502,SL Malinga,A Mithun,9,63,71,11.63,578,44.29,Right-hand bat,156,91,3,198,34.5,49.5,rm,0,SRL,seam,yes,26.67091836734694,17.25765306122449
-1,726,726,SRL,7,502,502,SL Malinga,A Mithun,9,63,72,11.63,578,44.29,Right-hand bat,157,91,3,198,34.5,49.5,rm,1,SRL,seam,yes,26.67091836734694,17.25765306122449
-1,729,729,SRL,7,508,508,SL Malinga,A Mithun,9,64,73,11.63,578,44.29,Right-hand bat,160,97,3,198,34.5,49.5,rm,0,SRL,seam,yes,26.67091836734694,17.25765306122449
-1,730,730,SRL,7,508,508,SL Malinga,A Mithun,9,64,74,11.63,578,44.29,Right-hand bat,161,97,3,198,34.5,49.5,rm,W,SRL,seam,yes,26.67091836734694,17.25765306122449

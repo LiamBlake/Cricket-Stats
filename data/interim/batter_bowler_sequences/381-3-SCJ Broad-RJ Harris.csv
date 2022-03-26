@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1596,495,ENG,7,251,219,SCJ Broad,RJ Harris,9,0,0,24.94,2933,62.93,Left-hand bat,129,74,5,3084.3,22.32,46,rf,0,ENG,seam,yes,19.24875,7.3012500000000005
-3,1597,496,ENG,7,251,219,SCJ Broad,RJ Harris,9,0,1,24.94,2933,62.93,Left-hand bat,130,74,5,3084.3,22.32,46,rf,4,ENG,seam,yes,19.24875,7.3012500000000005
-3,1598,497,ENG,7,255,223,SCJ Broad,RJ Harris,9,4,2,24.94,2933,62.93,Left-hand bat,131,78,5,3084.3,22.32,46,rf,0,ENG,seam,yes,19.24875,7.3012500000000005
-3,1606,505,ENG,7,265,233,SCJ Broad,RJ Harris,9,4,3,24.94,2933,62.93,Left-hand bat,133,79,5,3084.3,22.32,46,rf,1,ENG,seam,yes,19.24875,7.3012500000000005
-3,1608,507,ENG,7,267,235,SCJ Broad,RJ Harris,9,5,4,24.94,2933,62.93,Left-hand bat,135,81,5,3084.3,22.32,46,rf,4,ENG,seam,yes,19.24875,7.3012500000000005
-3,1609,508,ENG,7,271,239,SCJ Broad,RJ Harris,9,9,5,24.94,2933,62.93,Left-hand bat,136,85,5,3084.3,22.32,46,rf,4,ENG,seam,yes,19.24875,7.3012500000000005
-3,1610,509,ENG,7,275,243,SCJ Broad,RJ Harris,9,13,6,24.94,2933,62.93,Left-hand bat,137,89,5,3084.3,22.32,46,rf,W,ENG,seam,yes,19.24875,7.3012500000000005

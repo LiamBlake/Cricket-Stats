@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,879,879,RSA,7,491,491,DW Steyn,TA Boult,9,0,6,13.75,2002,41.9,Right-hand bat,184,103,1,1710,31.43,57,lfm,1,RSA,seam,yes,25.141581632653065,5.465561224489796
-1,881,881,RSA,7,493,493,DW Steyn,TA Boult,9,1,7,13.75,2002,41.9,Right-hand bat,186,105,1,1710,31.43,57,lfm,0,RSA,seam,yes,25.141581632653065,5.465561224489796
-1,882,882,RSA,7,493,493,DW Steyn,TA Boult,9,1,8,13.75,2002,41.9,Right-hand bat,187,105,1,1710,31.43,57,lfm,2,RSA,seam,yes,25.141581632653065,5.465561224489796
-1,889,889,RSA,7,503,503,DW Steyn,TA Boult,9,4,11,13.75,2002,41.9,Right-hand bat,188,107,1,1710,31.43,57,lfm,0,RSA,seam,yes,25.141581632653065,5.465561224489796
-1,890,890,RSA,7,503,503,DW Steyn,TA Boult,9,4,12,13.75,2002,41.9,Right-hand bat,189,107,1,1710,31.43,57,lfm,1lb,RSA,seam,yes,25.141581632653065,5.465561224489796
-1,894,894,RSA,7,505,505,DW Steyn,TA Boult,9,4,13,13.75,2002,41.9,Right-hand bat,193,108,1,1710,31.43,57,lfm,0,RSA,seam,yes,25.141581632653065,5.465561224489796

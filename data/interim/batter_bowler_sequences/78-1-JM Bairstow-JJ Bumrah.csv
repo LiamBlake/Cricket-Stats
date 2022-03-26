@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,63,63,ENG,2,22,22,JM Bairstow,JJ Bumrah,4,1,10,37.79,6407,55.45,Right-hand bat,33,15,1,1152.3,22.88,46.2,rf,3,ENG,seam,yes,16.43625,7.91375
-1,73,73,ENG,2,26,26,JM Bairstow,JJ Bumrah,4,5,13,37.79,6407,55.45,Right-hand bat,37,18,1,1152.3,22.88,46.2,rf,1,ENG,seam,yes,16.43625,7.91375
-1,77,77,ENG,2,28,28,JM Bairstow,JJ Bumrah,4,6,14,37.79,6407,55.45,Right-hand bat,41,20,1,1152.3,22.88,46.2,rf,0,ENG,seam,yes,16.43625,7.91375
-1,78,78,ENG,2,28,28,JM Bairstow,JJ Bumrah,4,6,15,37.79,6407,55.45,Right-hand bat,42,20,1,1152.3,22.88,46.2,rf,W,ENG,seam,yes,16.43625,7.91375

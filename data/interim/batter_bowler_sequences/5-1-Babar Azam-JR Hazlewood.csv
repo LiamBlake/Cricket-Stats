@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,131,131,PAK,1,46,46,Babar Azam,JR Hazlewood,3,14,30,32.33,577,50.43,Right-hand bat,34,5,0,5448.5,25.66,53.4,rfm,0,AUS,seam,yes,33.74485596707819,11.810699588477368
-1,132,132,PAK,1,46,46,Babar Azam,JR Hazlewood,3,14,31,32.33,577,50.43,Right-hand bat,35,5,0,5448.5,25.66,53.4,rfm,0,AUS,seam,yes,33.74485596707819,11.810699588477368
-1,154,154,PAK,1,60,60,Babar Azam,JR Hazlewood,3,23,40,32.33,577,50.43,Right-hand bat,45,8,0,5448.5,25.66,53.4,rfm,0,AUS,seam,yes,33.74485596707819,11.810699588477368
-1,155,155,PAK,1,60,60,Babar Azam,JR Hazlewood,3,23,41,32.33,577,50.43,Right-hand bat,46,8,0,5448.5,25.66,53.4,rfm,0,AUS,seam,yes,33.74485596707819,11.810699588477368
-1,156,156,PAK,1,60,60,Babar Azam,JR Hazlewood,3,23,42,32.33,577,50.43,Right-hand bat,47,8,0,5448.5,25.66,53.4,rfm,W,AUS,seam,yes,33.74485596707819,11.810699588477368

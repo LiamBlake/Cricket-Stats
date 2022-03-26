@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1480,488,RSA,5,351,432,Q de Kock,PVD Chameera,7,42,51,50.47,1352,70.93,Left-hand bat,69,62,1,1032.5,33,47.1,rf,1,RSA,seam,yes,23.632716049382715,9.089506172839506
-3,1492,500,RSA,5,355,436,Q de Kock,PVD Chameera,7,44,55,50.47,1352,70.93,Left-hand bat,75,63,1,1032.5,33,47.1,rf,1nb,RSA,seam,yes,23.632716049382715,9.089506172839506
-3,1495,503,RSA,5,358,439,Q de Kock,PVD Chameera,7,45,56,50.47,1352,70.93,Left-hand bat,78,65,1,1032.5,33,47.1,rf,0,RSA,seam,yes,23.632716049382715,9.089506172839506
-3,1496,504,RSA,5,358,439,Q de Kock,PVD Chameera,7,45,57,50.47,1352,70.93,Left-hand bat,79,65,1,1032.5,33,47.1,rf,0,RSA,seam,yes,23.632716049382715,9.089506172839506
-3,1497,505,RSA,5,358,439,Q de Kock,PVD Chameera,7,45,58,50.47,1352,70.93,Left-hand bat,80,65,1,1032.5,33,47.1,rf,1,RSA,seam,yes,23.632716049382715,9.089506172839506
-3,1505,513,RSA,5,360,441,Q de Kock,PVD Chameera,7,47,64,50.47,1352,70.93,Left-hand bat,82,66,1,1032.5,33,47.1,rf,1,RSA,seam,yes,23.632716049382715,9.089506172839506
-3,1518,526,RSA,5,374,455,Q de Kock,PVD Chameera,7,52,71,50.47,1352,70.93,Left-hand bat,89,76,1,1032.5,33,47.1,rf,1,RSA,seam,yes,23.632716049382715,9.089506172839506

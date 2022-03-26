@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1428,159,AUS,1,83,402,M Labuschagne,TG Southee,3,14,20,56.42,2144,55.27,Right-hand bat,24,2,0,16002,29.82,59.2,rmf,0,AUS,seam,no,21.712653061224486,6.680816326530612
-3,1429,160,AUS,1,83,402,M Labuschagne,TG Southee,3,14,21,56.42,2144,55.27,Right-hand bat,25,2,0,16002,29.82,59.2,rmf,0,AUS,seam,no,21.712653061224486,6.680816326530612
-3,1430,161,AUS,1,83,402,M Labuschagne,TG Southee,3,14,22,56.42,2144,55.27,Right-hand bat,26,2,0,16002,29.82,59.2,rmf,1,AUS,seam,no,21.712653061224486,6.680816326530612
-3,1452,183,AUS,1,99,418,M Labuschagne,TG Southee,3,18,27,56.42,2144,55.27,Right-hand bat,36,13,0,16002,29.82,59.2,rmf,0,AUS,seam,no,21.712653061224486,6.680816326530612
-3,1453,184,AUS,1,99,418,M Labuschagne,TG Southee,3,18,28,56.42,2144,55.27,Right-hand bat,37,13,0,16002,29.82,59.2,rmf,0,AUS,seam,no,21.712653061224486,6.680816326530612
-3,1454,185,AUS,1,99,418,M Labuschagne,TG Southee,3,18,29,56.42,2144,55.27,Right-hand bat,38,13,0,16002,29.82,59.2,rmf,0,AUS,seam,no,21.712653061224486,6.680816326530612
-3,1455,186,AUS,1,99,418,M Labuschagne,TG Southee,3,18,30,56.42,2144,55.27,Right-hand bat,39,13,0,16002,29.82,59.2,rmf,0,AUS,seam,no,21.712653061224486,6.680816326530612
-3,1456,187,AUS,1,99,418,M Labuschagne,TG Southee,3,18,31,56.42,2144,55.27,Right-hand bat,40,13,0,16002,29.82,59.2,rmf,1,AUS,seam,no,21.712653061224486,6.680816326530612

@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1005,731,NZL,7,429,295,N Wagner,ST Gabriel,9,0,0,12.67,894,43.95,Left-hand bat,137,68,0,4884.1,34.72,63.4,rf,0,WIN,seam,yes,30.080856123662304,3.4708680142687274
-2,1006,732,NZL,7,429,295,N Wagner,ST Gabriel,9,0,1,12.67,894,43.95,Left-hand bat,138,68,0,4884.1,34.72,63.4,rf,0,WIN,seam,yes,30.080856123662304,3.4708680142687274
-2,1007,733,NZL,7,429,295,N Wagner,ST Gabriel,9,0,2,12.67,894,43.95,Left-hand bat,139,68,0,4884.1,34.72,63.4,rf,2,WIN,seam,yes,30.080856123662304,3.4708680142687274
-2,1008,734,NZL,7,431,297,N Wagner,ST Gabriel,9,2,3,12.67,894,43.95,Left-hand bat,140,70,0,4884.1,34.72,63.4,rf,0,WIN,seam,yes,30.080856123662304,3.4708680142687274
-2,1009,735,NZL,7,431,297,N Wagner,ST Gabriel,9,2,4,12.67,894,43.95,Left-hand bat,141,70,0,4884.1,34.72,63.4,rf,0,WIN,seam,yes,30.080856123662304,3.4708680142687274
-2,1010,736,NZL,7,431,297,N Wagner,ST Gabriel,9,2,5,12.67,894,43.95,Left-hand bat,142,70,0,4884.1,34.72,63.4,rf,1,WIN,seam,yes,30.080856123662304,3.4708680142687274

@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2273,534,WIN,9,265,-104,DJG Sammy,RJ Harris,8,46,36,19.09,1137,68.86,Right-hand bat,54,23,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
-4,2274,535,WIN,9,265,-104,DJG Sammy,RJ Harris,8,46,37,19.09,1137,68.86,Right-hand bat,55,23,0,2310.2,23.63,49.1,rf,1,WIN,seam,no,9.61625,17.85875
-4,2276,537,WIN,9,267,-102,DJG Sammy,RJ Harris,8,47,38,19.09,1137,68.86,Right-hand bat,57,24,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
-4,2277,538,WIN,9,267,-102,DJG Sammy,RJ Harris,8,47,39,19.09,1137,68.86,Right-hand bat,58,24,0,2310.2,23.63,49.1,rf,2,WIN,seam,no,9.61625,17.85875
-4,2278,539,WIN,9,269,-100,DJG Sammy,RJ Harris,8,49,40,19.09,1137,68.86,Right-hand bat,59,26,0,2310.2,23.63,49.1,rf,1,WIN,seam,no,9.61625,17.85875
-4,2285,546,WIN,9,271,-98,DJG Sammy,RJ Harris,8,51,42,19.09,1137,68.86,Right-hand bat,60,27,0,2310.2,23.63,49.1,rf,1,WIN,seam,no,9.61625,17.85875
-4,2297,558,WIN,9,283,-86,DJG Sammy,RJ Harris,8,59,46,19.09,1137,68.86,Right-hand bat,66,32,0,2310.2,23.63,49.1,rf,0,WIN,seam,no,9.61625,17.85875
-4,2298,559,WIN,9,283,-86,DJG Sammy,RJ Harris,8,59,47,19.09,1137,68.86,Right-hand bat,67,32,0,2310.2,23.63,49.1,rf,1,WIN,seam,no,9.61625,17.85875

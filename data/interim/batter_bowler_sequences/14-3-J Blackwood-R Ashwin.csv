@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1743,219,WIN,3,88,-235,J Blackwood,R Ashwin,5,0,0,30.76,1467,54.53,Right-hand bat,47,26,1,9474.2,25.11,51.7,rob,0,WIN,spin,no,15.918367346938778,21.22448979591837
-3,1750,226,WIN,3,92,-231,J Blackwood,R Ashwin,5,0,1,30.76,1467,54.53,Right-hand bat,48,26,1,9474.2,25.11,51.7,rob,0,WIN,spin,no,15.918367346938778,21.22448979591837
-3,1751,227,WIN,3,92,-231,J Blackwood,R Ashwin,5,0,2,30.76,1467,54.53,Right-hand bat,49,26,1,9474.2,25.11,51.7,rob,0,WIN,spin,no,15.918367346938778,21.22448979591837
-3,1752,228,WIN,3,92,-231,J Blackwood,R Ashwin,5,0,3,30.76,1467,54.53,Right-hand bat,50,26,1,9474.2,25.11,51.7,rob,0,WIN,spin,no,15.918367346938778,21.22448979591837
-3,1753,229,WIN,3,92,-231,J Blackwood,R Ashwin,5,0,4,30.76,1467,54.53,Right-hand bat,51,26,1,9474.2,25.11,51.7,rob,0,WIN,spin,no,15.918367346938778,21.22448979591837
-3,1754,230,WIN,3,92,-231,J Blackwood,R Ashwin,5,0,5,30.76,1467,54.53,Right-hand bat,52,26,1,9474.2,25.11,51.7,rob,W,WIN,spin,no,15.918367346938778,21.22448979591837

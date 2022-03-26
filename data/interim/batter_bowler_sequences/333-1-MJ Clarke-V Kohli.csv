@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,344,344,AUS,3,211,211,MJ Clarke,V Kohli,5,68,100,49.65,10748,54.97,Right-hand bat,0,0,0,66,NA,NA,rm,0,AUS,seam,yes,25.51171875,13.36328125
-1,345,345,AUS,3,211,211,MJ Clarke,V Kohli,5,68,101,49.65,10748,54.97,Right-hand bat,1,0,0,66,NA,NA,rm,0,AUS,seam,yes,25.51171875,13.36328125
-1,346,346,AUS,3,211,211,MJ Clarke,V Kohli,5,68,102,49.65,10748,54.97,Right-hand bat,2,0,0,66,NA,NA,rm,0,AUS,seam,yes,25.51171875,13.36328125
-1,347,347,AUS,3,211,211,MJ Clarke,V Kohli,5,68,103,49.65,10748,54.97,Right-hand bat,3,0,0,66,NA,NA,rm,0,AUS,seam,yes,25.51171875,13.36328125
-1,348,348,AUS,3,211,211,MJ Clarke,V Kohli,5,68,104,49.65,10748,54.97,Right-hand bat,4,0,0,66,NA,NA,rm,3,AUS,seam,yes,25.51171875,13.36328125

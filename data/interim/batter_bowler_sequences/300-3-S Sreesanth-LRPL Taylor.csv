@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,2518,602,IND,9,260,288,S Sreesanth,LRPL Taylor,11,0,0,12.21,392,59.18,Right-hand bat,20,3,1,60,9,30,rob,0,IND,spin,yes,15.408949011446408,24.397502601456814
-3,2519,603,IND,9,260,288,S Sreesanth,LRPL Taylor,11,0,1,12.21,392,59.18,Right-hand bat,21,3,1,60,9,30,rob,0,IND,spin,yes,15.408949011446408,24.397502601456814
-3,2520,604,IND,9,260,288,S Sreesanth,LRPL Taylor,11,0,2,12.21,392,59.18,Right-hand bat,22,3,1,60,9,30,rob,0,IND,spin,yes,15.408949011446408,24.397502601456814
-3,2521,605,IND,9,260,288,S Sreesanth,LRPL Taylor,11,0,3,12.21,392,59.18,Right-hand bat,23,3,1,60,9,30,rob,0,IND,spin,yes,15.408949011446408,24.397502601456814
-3,2529,613,IND,9,266,294,S Sreesanth,LRPL Taylor,11,4,8,12.21,392,59.18,Right-hand bat,25,4,1,60,9,30,rob,0,IND,spin,yes,15.408949011446408,24.397502601456814
-3,2530,614,IND,9,266,294,S Sreesanth,LRPL Taylor,11,4,9,12.21,392,59.18,Right-hand bat,26,4,1,60,9,30,rob,0,IND,spin,yes,15.408949011446408,24.397502601456814
-3,2531,615,IND,9,266,294,S Sreesanth,LRPL Taylor,11,4,10,12.21,392,59.18,Right-hand bat,27,4,1,60,9,30,rob,W,IND,spin,yes,15.408949011446408,24.397502601456814

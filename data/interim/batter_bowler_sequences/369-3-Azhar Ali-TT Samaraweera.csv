@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1519,477,PAK,4,236,125,Azhar Ali,TT Samaraweera,3,108,235,45.27,4534,39.94,Right-hand bat,1,1,0,1326.1,45.93,88.4,rob,0,SRL,spin,no,21.115234375,14.447265625
-3,1520,478,PAK,4,236,125,Azhar Ali,TT Samaraweera,3,108,236,45.27,4534,39.94,Right-hand bat,2,1,0,1326.1,45.93,88.4,rob,0,SRL,spin,no,21.115234375,14.447265625
-3,1521,479,PAK,4,236,125,Azhar Ali,TT Samaraweera,3,108,237,45.27,4534,39.94,Right-hand bat,3,1,0,1326.1,45.93,88.4,rob,0,SRL,spin,no,21.115234375,14.447265625
-3,1522,480,PAK,4,236,125,Azhar Ali,TT Samaraweera,3,108,238,45.27,4534,39.94,Right-hand bat,4,1,0,1326.1,45.93,88.4,rob,1,SRL,spin,no,21.115234375,14.447265625

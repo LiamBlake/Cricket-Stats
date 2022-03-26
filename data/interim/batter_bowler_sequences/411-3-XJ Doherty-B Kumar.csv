@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,2138,490,AUS,9,198,107,XJ Doherty,B Kumar,11,4,28,12.75,159,32.07,Left-hand bat,50,26,3,318,31.16,53,rm,0,IND,seam,yes,17.52249134948097,19.71280276816609
-3,2139,491,AUS,9,198,107,XJ Doherty,B Kumar,11,4,29,12.75,159,32.07,Left-hand bat,51,26,3,318,31.16,53,rm,0,IND,seam,yes,17.52249134948097,19.71280276816609
-3,2140,492,AUS,9,198,107,XJ Doherty,B Kumar,11,4,30,12.75,159,32.07,Left-hand bat,52,26,3,318,31.16,53,rm,0,IND,seam,yes,17.52249134948097,19.71280276816609
-3,2141,493,AUS,9,198,107,XJ Doherty,B Kumar,11,4,31,12.75,159,32.07,Left-hand bat,53,26,3,318,31.16,53,rm,0,IND,seam,yes,17.52249134948097,19.71280276816609
-3,2149,501,AUS,9,206,115,XJ Doherty,B Kumar,11,10,37,12.75,159,32.07,Left-hand bat,55,27,3,318,31.16,53,rm,0,IND,seam,yes,17.52249134948097,19.71280276816609
-3,2150,502,AUS,9,206,115,XJ Doherty,B Kumar,11,10,38,12.75,159,32.07,Left-hand bat,56,27,3,318,31.16,53,rm,4,IND,seam,yes,17.52249134948097,19.71280276816609
-3,2151,503,AUS,9,210,119,XJ Doherty,B Kumar,11,14,39,12.75,159,32.07,Left-hand bat,57,31,3,318,31.16,53,rm,0,IND,seam,yes,17.52249134948097,19.71280276816609
-3,2152,504,AUS,9,210,119,XJ Doherty,B Kumar,11,14,40,12.75,159,32.07,Left-hand bat,58,31,3,318,31.16,53,rm,1lb,IND,seam,yes,17.52249134948097,19.71280276816609

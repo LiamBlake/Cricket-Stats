@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,397,397,SRL,8,206,206,CAK Rajitha,ST Gabriel,10,0,0,2,39,10.25,Right-hand bat,88,59,5,5508.5,30.66,55.1,rf,0,SRL,seam,yes,28.070204081632653,1.7012244897959183
-1,398,398,SRL,8,206,206,CAK Rajitha,ST Gabriel,10,0,1,2,39,10.25,Right-hand bat,89,59,5,5508.5,30.66,55.1,rf,0,SRL,seam,yes,28.070204081632653,1.7012244897959183
-1,405,405,SRL,8,212,212,CAK Rajitha,ST Gabriel,10,1,5,2,39,10.25,Right-hand bat,90,59,5,5508.5,30.66,55.1,rf,0,SRL,seam,yes,28.070204081632653,1.7012244897959183
-1,406,406,SRL,8,212,212,CAK Rajitha,ST Gabriel,10,1,6,2,39,10.25,Right-hand bat,91,59,5,5508.5,30.66,55.1,rf,0,SRL,seam,yes,28.070204081632653,1.7012244897959183
-1,407,407,SRL,8,212,212,CAK Rajitha,ST Gabriel,10,1,7,2,39,10.25,Right-hand bat,92,59,5,5508.5,30.66,55.1,rf,0,SRL,seam,yes,28.070204081632653,1.7012244897959183
-1,408,408,SRL,8,212,212,CAK Rajitha,ST Gabriel,10,1,8,2,39,10.25,Right-hand bat,93,59,5,5508.5,30.66,55.1,rf,0,SRL,seam,yes,28.070204081632653,1.7012244897959183
-1,409,409,SRL,8,212,212,CAK Rajitha,ST Gabriel,10,1,9,2,39,10.25,Right-hand bat,94,59,5,5508.5,30.66,55.1,rf,0,SRL,seam,yes,28.070204081632653,1.7012244897959183
-1,410,410,SRL,8,212,212,CAK Rajitha,ST Gabriel,10,1,10,2,39,10.25,Right-hand bat,95,59,5,5508.5,30.66,55.1,rf,0,SRL,seam,yes,28.070204081632653,1.7012244897959183

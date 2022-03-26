@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,4,4,ENG,0,1,1,JJ Roy,TJ Murtagh,2,0,0,38.5,89,86.51,Right-hand bat,4,1,0,570,16.38,43.8,rfm,0,ENG,seam,yes,15.033750000000001,0.79125
-1,5,5,ENG,0,1,1,JJ Roy,TJ Murtagh,2,0,1,38.5,89,86.51,Right-hand bat,5,1,0,570,16.38,43.8,rfm,3,ENG,seam,yes,15.033750000000001,0.79125
-1,15,15,ENG,0,8,8,JJ Roy,TJ Murtagh,2,5,9,38.5,89,86.51,Right-hand bat,8,5,0,570,16.38,43.8,rfm,0,ENG,seam,yes,15.033750000000001,0.79125
-1,16,16,ENG,0,8,8,JJ Roy,TJ Murtagh,2,5,10,38.5,89,86.51,Right-hand bat,9,5,0,570,16.38,43.8,rfm,W,ENG,seam,yes,15.033750000000001,0.79125

@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,336,336,RSA,5,178,178,JH Kallis,KP Pietersen,4,53,114,54.8,23954,44.38,Right-hand bat,4,1,0,786.3,137,197.2,rob,1,RSA,spin,no,26.22067901234568,10.084876543209877
-1,449,449,RSA,6,245,245,JH Kallis,KP Pietersen,4,91,163,54.8,23954,44.38,Right-hand bat,9,5,0,786.3,137,197.2,rob,1,RSA,spin,no,26.22067901234568,10.084876543209877
-1,458,458,RSA,6,249,249,JH Kallis,KP Pietersen,4,94,168,54.8,23954,44.38,Right-hand bat,12,6,0,786.3,137,197.2,rob,0,RSA,spin,no,26.22067901234568,10.084876543209877
-1,459,459,RSA,6,249,249,JH Kallis,KP Pietersen,4,94,169,54.8,23954,44.38,Right-hand bat,13,6,0,786.3,137,197.2,rob,1,RSA,spin,no,26.22067901234568,10.084876543209877
-1,470,470,RSA,6,255,255,JH Kallis,KP Pietersen,4,96,172,54.8,23954,44.38,Right-hand bat,18,11,0,786.3,137,197.2,rob,4,RSA,spin,no,26.22067901234568,10.084876543209877
-1,471,471,RSA,6,259,259,JH Kallis,KP Pietersen,4,100,173,54.8,23954,44.38,Right-hand bat,19,15,0,786.3,137,197.2,rob,0,RSA,spin,no,26.22067901234568,10.084876543209877
-1,472,472,RSA,6,259,259,JH Kallis,KP Pietersen,4,100,174,54.8,23954,44.38,Right-hand bat,20,15,0,786.3,137,197.2,rob,1,RSA,spin,no,26.22067901234568,10.084876543209877
-1,474,474,RSA,6,261,261,JH Kallis,KP Pietersen,4,101,175,54.8,23954,44.38,Right-hand bat,22,17,0,786.3,137,197.2,rob,1b,RSA,spin,no,26.22067901234568,10.084876543209877

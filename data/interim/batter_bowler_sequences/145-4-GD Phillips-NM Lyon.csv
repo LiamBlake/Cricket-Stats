@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1850,59,NZL,3,22,-398,GD Phillips,NM Lyon,5,0,0,26,119,43.69,Right-hand bat,5,0,1,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
-4,1857,66,NZL,3,22,-398,GD Phillips,NM Lyon,5,0,1,26,119,43.69,Right-hand bat,6,0,1,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
-4,1858,67,NZL,3,22,-398,GD Phillips,NM Lyon,5,0,2,26,119,43.69,Right-hand bat,7,0,1,24564.4,31.58,62.9,rob,0,AUS,spin,no,16.609375,15.5712890625
-4,1859,68,NZL,3,22,-398,GD Phillips,NM Lyon,5,0,3,26,119,43.69,Right-hand bat,8,0,1,24564.4,31.58,62.9,rob,W,AUS,spin,no,16.609375,15.5712890625

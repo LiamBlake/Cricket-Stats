@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1680,161,IND,4,69,-417,SK Raina,GP Swann,6,1,16,32.27,1286,55.2,Left-hand bat,15,9,0,8484.5,29.18,58.9,rob,0,ENG,spin,no,32.318244170096015,11.311385459533607
-3,1681,162,IND,4,69,-417,SK Raina,GP Swann,6,1,17,32.27,1286,55.2,Left-hand bat,16,9,0,8484.5,29.18,58.9,rob,1,ENG,spin,no,32.318244170096015,11.311385459533607
-3,1689,170,IND,4,79,-407,SK Raina,GP Swann,6,2,18,32.27,1286,55.2,Left-hand bat,18,10,0,8484.5,29.18,58.9,rob,0,ENG,spin,no,32.318244170096015,11.311385459533607
-3,1690,171,IND,4,79,-407,SK Raina,GP Swann,6,2,19,32.27,1286,55.2,Left-hand bat,19,10,0,8484.5,29.18,58.9,rob,4,ENG,spin,no,32.318244170096015,11.311385459533607
-3,1691,172,IND,4,83,-403,SK Raina,GP Swann,6,6,20,32.27,1286,55.2,Left-hand bat,20,14,0,8484.5,29.18,58.9,rob,0,ENG,spin,no,32.318244170096015,11.311385459533607
-3,1692,173,IND,4,83,-403,SK Raina,GP Swann,6,6,21,32.27,1286,55.2,Left-hand bat,21,14,0,8484.5,29.18,58.9,rob,0,ENG,spin,no,32.318244170096015,11.311385459533607
-3,1693,174,IND,4,83,-403,SK Raina,GP Swann,6,6,22,32.27,1286,55.2,Left-hand bat,22,14,0,8484.5,29.18,58.9,rob,4,ENG,spin,no,32.318244170096015,11.311385459533607
-3,1694,175,IND,4,87,-399,SK Raina,GP Swann,6,10,23,32.27,1286,55.2,Left-hand bat,23,18,0,8484.5,29.18,58.9,rob,W,ENG,spin,no,32.318244170096015,11.311385459533607

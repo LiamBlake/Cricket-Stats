@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,480,480,WIN,6,311,311,DJG Sammy,DE Bollinger,8,41,44,19.4,540,53.88,Right-hand bat,76,33,2,516.5,35.42,74.4,lfm,0,AUS,seam,yes,31.27591836734694,9.266938775510205
-1,481,481,WIN,6,311,311,DJG Sammy,DE Bollinger,8,41,45,19.4,540,53.88,Right-hand bat,77,33,2,516.5,35.42,74.4,lfm,0,AUS,seam,yes,31.27591836734694,9.266938775510205
-1,482,482,WIN,6,311,311,DJG Sammy,DE Bollinger,8,41,46,19.4,540,53.88,Right-hand bat,78,33,2,516.5,35.42,74.4,lfm,1,AUS,seam,yes,31.27591836734694,9.266938775510205
-1,491,491,WIN,6,313,313,DJG Sammy,DE Bollinger,8,42,53,19.4,540,53.88,Right-hand bat,81,35,2,516.5,35.42,74.4,lfm,1lb,AUS,seam,yes,31.27591836734694,9.266938775510205
-1,502,502,WIN,6,329,329,DJG Sammy,DE Bollinger,8,42,54,19.4,540,53.88,Right-hand bat,86,40,2,516.5,35.42,74.4,lfm,1,AUS,seam,yes,31.27591836734694,9.266938775510205

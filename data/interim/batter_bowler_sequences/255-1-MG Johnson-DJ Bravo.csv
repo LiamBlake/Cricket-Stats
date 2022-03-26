@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,749,749,AUS,6,478,478,MG Johnson,DJ Bravo,8,17,28,28.43,1386,61.54,Left-hand bat,79,56,1,5700.4,38.14,70.4,rm,0,AUS,seam,yes,26.69101533966399,9.532505478451425
-1,750,750,AUS,6,478,478,MG Johnson,DJ Bravo,8,17,29,28.43,1386,61.54,Left-hand bat,80,56,1,5700.4,38.14,70.4,rm,1,AUS,seam,yes,26.69101533966399,9.532505478451425
-1,761,761,AUS,6,498,498,MG Johnson,DJ Bravo,8,24,32,28.43,1386,61.54,Left-hand bat,85,65,1,5700.4,38.14,70.4,rm,1,AUS,seam,yes,26.69101533966399,9.532505478451425
-1,764,764,AUS,6,506,506,MG Johnson,DJ Bravo,8,25,33,28.43,1386,61.54,Left-hand bat,88,73,1,5700.4,38.14,70.4,rm,1,AUS,seam,yes,26.69101533966399,9.532505478451425
-1,784,784,AUS,7,516,516,MG Johnson,DJ Bravo,8,32,40,28.43,1386,61.54,Left-hand bat,96,75,1,5700.4,38.14,70.4,rm,1,AUS,seam,yes,26.69101533966399,9.532505478451425
-1,796,796,AUS,7,518,518,MG Johnson,DJ Bravo,8,34,42,28.43,1386,61.54,Left-hand bat,102,76,1,5700.4,38.14,70.4,rm,1,AUS,seam,yes,26.69101533966399,9.532505478451425
-1,798,798,AUS,7,520,520,MG Johnson,DJ Bravo,8,35,43,28.43,1386,61.54,Left-hand bat,104,78,1,5700.4,38.14,70.4,rm,0,AUS,seam,yes,26.69101533966399,9.532505478451425
-1,799,799,AUS,7,520,520,MG Johnson,DJ Bravo,8,35,44,28.43,1386,61.54,Left-hand bat,105,78,1,5700.4,38.14,70.4,rm,W,AUS,seam,yes,26.69101533966399,9.532505478451425

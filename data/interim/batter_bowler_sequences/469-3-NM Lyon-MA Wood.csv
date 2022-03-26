@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1069,437,AUS,9,249,-82,NM Lyon,MA Wood,11,0,9,14.48,1119,40.12,Right-hand bat,106,65,2,990.4,35.05,55.2,rf,0,ENG,seam,no,24.275862068965516,0
-3,1070,438,AUS,9,249,-82,NM Lyon,MA Wood,11,0,10,14.48,1119,40.12,Right-hand bat,107,65,2,990.4,35.05,55.2,rf,4,ENG,seam,no,24.275862068965516,0
-3,1071,439,AUS,9,253,-78,NM Lyon,MA Wood,11,4,11,14.48,1119,40.12,Right-hand bat,108,69,2,990.4,35.05,55.2,rf,W,ENG,seam,no,24.275862068965516,0

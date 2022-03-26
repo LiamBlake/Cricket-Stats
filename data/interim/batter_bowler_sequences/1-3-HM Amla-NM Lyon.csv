@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,919,108,RSA,1,38,36,HM Amla,NM Lyon,3,0,2,50.47,14878,50.21,Right-hand bat,17,7,0,13422.5,33.35,63,rob,0,AUS,spin,yes,28.81578947368421,7.684210526315789
-3,926,115,RSA,1,38,36,HM Amla,NM Lyon,3,0,3,50.47,14878,50.21,Right-hand bat,18,7,0,13422.5,33.35,63,rob,0,AUS,spin,yes,28.81578947368421,7.684210526315789
-3,927,116,RSA,1,38,36,HM Amla,NM Lyon,3,0,4,50.47,14878,50.21,Right-hand bat,19,7,0,13422.5,33.35,63,rob,0,AUS,spin,yes,28.81578947368421,7.684210526315789
-3,928,117,RSA,1,38,36,HM Amla,NM Lyon,3,0,5,50.47,14878,50.21,Right-hand bat,20,7,0,13422.5,33.35,63,rob,1,AUS,spin,yes,28.81578947368421,7.684210526315789

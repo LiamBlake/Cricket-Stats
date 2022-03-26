@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,60,60,RSA,0,35,35,D Elgar,MM Ali,2,20,32,36.73,2766,45.15,Left-hand bat,0,0,0,4134,39.76,64.5,rob,0,RSA,spin,yes,29.506938775510207,3.8073469387755106
-1,61,61,RSA,0,35,35,D Elgar,MM Ali,2,20,33,36.73,2766,45.15,Left-hand bat,1,0,0,4134,39.76,64.5,rob,0,RSA,spin,yes,29.506938775510207,3.8073469387755106
-1,62,62,RSA,0,35,35,D Elgar,MM Ali,2,20,34,36.73,2766,45.15,Left-hand bat,2,0,0,4134,39.76,64.5,rob,0,RSA,spin,yes,29.506938775510207,3.8073469387755106
-1,63,63,RSA,0,35,35,D Elgar,MM Ali,2,20,35,36.73,2766,45.15,Left-hand bat,3,0,0,4134,39.76,64.5,rob,W,RSA,spin,yes,29.506938775510207,3.8073469387755106

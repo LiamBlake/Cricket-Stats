@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1300,368,PAK,9,179,-410,Mohammad Amir,MM Ali,11,0,0,13.16,1086,30.29,Left-hand bat,37,30,1,4704.2,40.42,64.4,rob,1,ENG,spin,no,31.234244946492268,9.938168846611177
-2,1305,373,PAK,9,189,-400,Mohammad Amir,MM Ali,11,1,1,13.16,1086,30.29,Left-hand bat,42,40,1,4704.2,40.42,64.4,rob,0,ENG,spin,no,31.234244946492268,9.938168846611177
-2,1312,380,PAK,9,195,-394,Mohammad Amir,MM Ali,11,6,6,13.16,1086,30.29,Left-hand bat,43,40,1,4704.2,40.42,64.4,rob,3,ENG,spin,no,31.234244946492268,9.938168846611177

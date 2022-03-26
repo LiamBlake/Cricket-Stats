@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,901,299,AUS,4,110,-145,GJ Bailey,SCJ Broad,6,0,0,27.2,229,59.38,Right-hand bat,71,26,1,13692.1,30.31,58.5,rfm,0,AUS,seam,yes,20.3671875,6.7890625
-2,913,311,AUS,4,112,-143,GJ Bailey,SCJ Broad,6,0,1,27.2,229,59.38,Right-hand bat,77,27,1,13692.1,30.31,58.5,rfm,0,AUS,seam,yes,20.3671875,6.7890625
-2,920,318,AUS,5,114,-141,GJ Bailey,SCJ Broad,6,0,2,27.2,229,59.38,Right-hand bat,78,27,1,13692.1,30.31,58.5,rfm,0,AUS,seam,yes,20.3671875,6.7890625
-2,921,319,AUS,5,114,-141,GJ Bailey,SCJ Broad,6,0,3,27.2,229,59.38,Right-hand bat,79,27,1,13692.1,30.31,58.5,rfm,0,AUS,seam,yes,20.3671875,6.7890625
-2,922,320,AUS,5,114,-141,GJ Bailey,SCJ Broad,6,0,4,27.2,229,59.38,Right-hand bat,80,27,1,13692.1,30.31,58.5,rfm,0,AUS,seam,yes,20.3671875,6.7890625
-2,923,321,AUS,5,114,-141,GJ Bailey,SCJ Broad,6,0,5,27.2,229,59.38,Right-hand bat,81,27,1,13692.1,30.31,58.5,rfm,0,AUS,seam,yes,20.3671875,6.7890625
-2,924,322,AUS,5,114,-141,GJ Bailey,SCJ Broad,6,0,6,27.2,229,59.38,Right-hand bat,82,27,1,13692.1,30.31,58.5,rfm,0,AUS,seam,yes,20.3671875,6.7890625
-2,925,323,AUS,5,114,-141,GJ Bailey,SCJ Broad,6,0,7,27.2,229,59.38,Right-hand bat,83,27,1,13692.1,30.31,58.5,rfm,0,AUS,seam,yes,20.3671875,6.7890625

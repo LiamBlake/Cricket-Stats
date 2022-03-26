@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,152,152,NZL,2,70,70,MJ Guptill,MN Samuels,2,31,70,35.15,3533,43.78,Right-hand bat,0,0,0,2880.3,67.12,120.1,rob,0,WIN,spin,no,16.241632653061227,7.444081632653061
-1,153,153,NZL,2,70,70,MJ Guptill,MN Samuels,2,31,71,35.15,3533,43.78,Right-hand bat,1,0,0,2880.3,67.12,120.1,rob,0,WIN,spin,no,16.241632653061227,7.444081632653061
-1,154,154,NZL,2,70,70,MJ Guptill,MN Samuels,2,31,72,35.15,3533,43.78,Right-hand bat,2,0,0,2880.3,67.12,120.1,rob,0,WIN,spin,no,16.241632653061227,7.444081632653061
-1,155,155,NZL,2,70,70,MJ Guptill,MN Samuels,2,31,73,35.15,3533,43.78,Right-hand bat,3,0,0,2880.3,67.12,120.1,rob,0,WIN,spin,no,16.241632653061227,7.444081632653061
-1,156,156,NZL,2,70,70,MJ Guptill,MN Samuels,2,31,74,35.15,3533,43.78,Right-hand bat,4,0,0,2880.3,67.12,120.1,rob,1,WIN,spin,no,16.241632653061227,7.444081632653061

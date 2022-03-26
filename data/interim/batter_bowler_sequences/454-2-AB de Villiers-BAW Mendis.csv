@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1028,295,RSA,3,90,-331,AB de Villiers,BAW Mendis,5,10,29,51.33,13501,53.98,Right-hand bat,43,19,0,4728.2,34.77,67.5,rob,0,SRL,spin,no,10.943672839506172,19.361882716049383
-2,1029,296,RSA,3,90,-331,AB de Villiers,BAW Mendis,5,10,30,51.33,13501,53.98,Right-hand bat,44,19,0,4728.2,34.77,67.5,rob,0,SRL,spin,no,10.943672839506172,19.361882716049383
-2,1030,297,RSA,3,90,-331,AB de Villiers,BAW Mendis,5,10,31,51.33,13501,53.98,Right-hand bat,45,19,0,4728.2,34.77,67.5,rob,1,SRL,spin,no,10.943672839506172,19.361882716049383
-2,1054,321,RSA,3,100,-321,AB de Villiers,BAW Mendis,5,11,43,51.33,13501,53.98,Right-hand bat,57,28,0,4728.2,34.77,67.5,rob,0,SRL,spin,no,10.943672839506172,19.361882716049383
-2,1055,322,RSA,3,100,-321,AB de Villiers,BAW Mendis,5,11,44,51.33,13501,53.98,Right-hand bat,58,28,0,4728.2,34.77,67.5,rob,0,SRL,spin,no,10.943672839506172,19.361882716049383
-2,1056,323,RSA,3,100,-321,AB de Villiers,BAW Mendis,5,11,45,51.33,13501,53.98,Right-hand bat,59,28,0,4728.2,34.77,67.5,rob,2,SRL,spin,no,10.943672839506172,19.361882716049383
-2,1057,324,RSA,3,102,-319,AB de Villiers,BAW Mendis,5,13,46,51.33,13501,53.98,Right-hand bat,60,30,0,4728.2,34.77,67.5,rob,0,SRL,spin,no,10.943672839506172,19.361882716049383
-2,1065,332,RSA,3,106,-315,AB de Villiers,BAW Mendis,5,15,51,51.33,13501,53.98,Right-hand bat,62,31,0,4728.2,34.77,67.5,rob,1,SRL,spin,no,10.943672839506172,19.361882716049383

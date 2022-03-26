@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1345,6,IND,0,0,-440,KL Rahul,NM Lyon,2,0,0,38.3,1535,57.39,Right-hand bat,0,0,0,14718.4,33.66,63.1,rob,1,IND,spin,no,4.258125000000001,14.666875000000001
-4,1357,18,IND,0,6,-434,KL Rahul,NM Lyon,2,1,1,38.3,1535,57.39,Right-hand bat,6,2,0,14718.4,33.66,63.1,rob,1,IND,spin,no,4.258125000000001,14.666875000000001
-4,1360,21,IND,0,8,-432,KL Rahul,NM Lyon,2,2,2,38.3,1535,57.39,Right-hand bat,9,4,0,14718.4,33.66,63.1,rob,0,IND,spin,no,4.258125000000001,14.666875000000001
-4,1361,22,IND,0,8,-432,KL Rahul,NM Lyon,2,2,3,38.3,1535,57.39,Right-hand bat,10,4,0,14718.4,33.66,63.1,rob,0,IND,spin,no,4.258125000000001,14.666875000000001
-4,1362,23,IND,0,8,-432,KL Rahul,NM Lyon,2,2,4,38.3,1535,57.39,Right-hand bat,11,4,0,14718.4,33.66,63.1,rob,1,IND,spin,no,4.258125000000001,14.666875000000001
-4,1369,30,IND,1,10,-430,KL Rahul,NM Lyon,2,4,6,38.3,1535,57.39,Right-hand bat,12,5,0,14718.4,33.66,63.1,rob,2,IND,spin,no,4.258125000000001,14.666875000000001
-4,1370,31,IND,1,12,-428,KL Rahul,NM Lyon,2,6,7,38.3,1535,57.39,Right-hand bat,13,7,0,14718.4,33.66,63.1,rob,4,IND,spin,no,4.258125000000001,14.666875000000001
-4,1371,32,IND,1,16,-424,KL Rahul,NM Lyon,2,10,8,38.3,1535,57.39,Right-hand bat,14,11,0,14718.4,33.66,63.1,rob,W,IND,spin,no,4.258125000000001,14.666875000000001

@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,865,261,AUS,7,192,-138,MG Johnson,RP Singh,9,0,0,99,159,62.26,Left-hand bat,64,64,2,1986.2,32.87,49.7,lfm,0,AUS,seam,no,24.99,4.409999999999999
-2,866,262,AUS,7,192,-138,MG Johnson,RP Singh,9,0,1,99,159,62.26,Left-hand bat,65,64,2,1986.2,32.87,49.7,lfm,0,AUS,seam,no,24.99,4.409999999999999
-2,897,293,AUS,9,204,-126,MG Johnson,RP Singh,9,2,8,99,159,62.26,Left-hand bat,78,64,4,1986.2,32.87,49.7,lfm,0,AUS,seam,no,24.99,4.409999999999999
-2,898,294,AUS,9,204,-126,MG Johnson,RP Singh,9,2,9,99,159,62.26,Left-hand bat,79,64,4,1986.2,32.87,49.7,lfm,4b,AUS,seam,no,24.99,4.409999999999999
-2,899,295,AUS,9,208,-122,MG Johnson,RP Singh,9,2,10,99,159,62.26,Left-hand bat,80,64,4,1986.2,32.87,49.7,lfm,0,AUS,seam,no,24.99,4.409999999999999
-2,900,296,AUS,9,208,-122,MG Johnson,RP Singh,9,2,11,99,159,62.26,Left-hand bat,81,64,4,1986.2,32.87,49.7,lfm,0,AUS,seam,no,24.99,4.409999999999999
-2,901,297,AUS,9,208,-122,MG Johnson,RP Singh,9,2,12,99,159,62.26,Left-hand bat,82,64,4,1986.2,32.87,49.7,lfm,4,AUS,seam,no,24.99,4.409999999999999
-2,902,298,AUS,9,212,-118,MG Johnson,RP Singh,9,6,13,99,159,62.26,Left-hand bat,83,68,4,1986.2,32.87,49.7,lfm,0,AUS,seam,no,24.99,4.409999999999999

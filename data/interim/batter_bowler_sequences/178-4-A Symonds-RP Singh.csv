@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1690,284,AUS,4,161,-251,A Symonds,RP Singh,6,1,1,41.7,1486,67.36,Right-hand bat,91,50,1,1986.2,32.87,49.7,lfm,4,AUS,seam,no,24.99,4.409999999999999
-4,1691,285,AUS,4,165,-247,A Symonds,RP Singh,6,5,2,41.7,1486,67.36,Right-hand bat,92,54,1,1986.2,32.87,49.7,lfm,0,AUS,seam,no,24.99,4.409999999999999
-4,1692,286,AUS,4,165,-247,A Symonds,RP Singh,6,5,3,41.7,1486,67.36,Right-hand bat,93,54,1,1986.2,32.87,49.7,lfm,1,AUS,seam,no,24.99,4.409999999999999
-4,1708,302,AUS,4,170,-242,A Symonds,RP Singh,6,6,10,41.7,1486,67.36,Right-hand bat,103,59,1,1986.2,32.87,49.7,lfm,0,AUS,seam,no,24.99,4.409999999999999

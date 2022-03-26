@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,2232,556,AUS,4,298,141,MJ Clarke,TM Dilshan,5,70,112,46.31,9309,53.23,Right-hand bat,66,30,0,1818.2,37.45,75.8,rob,1,SRL,spin,no,29.959999999999997,12.84
-3,2299,623,AUS,4,370,213,MJ Clarke,TM Dilshan,5,106,147,46.31,9309,53.23,Right-hand bat,72,35,0,1818.2,37.45,75.8,rob,0,SRL,spin,no,29.959999999999997,12.84
-3,2300,624,AUS,4,370,213,MJ Clarke,TM Dilshan,5,106,148,46.31,9309,53.23,Right-hand bat,73,35,0,1818.2,37.45,75.8,rob,1,SRL,spin,no,29.959999999999997,12.84
-3,2316,640,AUS,4,380,223,MJ Clarke,TM Dilshan,5,107,155,46.31,9309,53.23,Right-hand bat,83,45,0,1818.2,37.45,75.8,rob,0,SRL,spin,no,29.959999999999997,12.84

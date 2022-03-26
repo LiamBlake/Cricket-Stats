@@ -1,3 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,760,760,NZL,6,423,423,LRPL Taylor,KP Pietersen,5,118,233,28.33,323,52.63,Right-hand bat,0,0,0,462,113.66,154,rob,2,NZL,spin,yes,19.615384615384617,8.717948717948717
-1,761,761,NZL,6,425,425,LRPL Taylor,KP Pietersen,5,120,234,28.33,323,52.63,Right-hand bat,1,2,0,462,113.66,154,rob,W,NZL,spin,yes,19.615384615384617,8.717948717948717

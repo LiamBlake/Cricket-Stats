@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,957,957,RSA,6,579,579,RJ Peterson,Mohammad Rafique,8,0,0,27.16,227,71.8,Left-hand bat,259,128,1,8742.2,40.76,87.4,lo,0,BAN,spin,yes,21.091906721536354,13.182441700960222
-1,958,958,RSA,6,579,579,RJ Peterson,Mohammad Rafique,8,0,1,27.16,227,71.8,Left-hand bat,260,128,1,8742.2,40.76,87.4,lo,0,BAN,spin,yes,21.091906721536354,13.182441700960222
-1,959,959,RSA,6,579,579,RJ Peterson,Mohammad Rafique,8,0,2,27.16,227,71.8,Left-hand bat,261,128,1,8742.2,40.76,87.4,lo,0,BAN,spin,yes,21.091906721536354,13.182441700960222
-1,960,960,RSA,6,579,579,RJ Peterson,Mohammad Rafique,8,0,3,27.16,227,71.8,Left-hand bat,262,128,1,8742.2,40.76,87.4,lo,4,BAN,spin,yes,21.091906721536354,13.182441700960222
-1,961,961,RSA,6,583,583,RJ Peterson,Mohammad Rafique,8,4,4,27.16,227,71.8,Left-hand bat,263,132,1,8742.2,40.76,87.4,lo,0,BAN,spin,yes,21.091906721536354,13.182441700960222
-1,962,962,RSA,6,583,583,RJ Peterson,Mohammad Rafique,8,4,5,27.16,227,71.8,Left-hand bat,264,132,1,8742.2,40.76,87.4,lo,0,BAN,spin,yes,21.091906721536354,13.182441700960222
-1,969,969,RSA,6,583,583,RJ Peterson,Mohammad Rafique,8,4,6,27.16,227,71.8,Left-hand bat,265,132,1,8742.2,40.76,87.4,lo,W,BAN,spin,yes,21.091906721536354,13.182441700960222

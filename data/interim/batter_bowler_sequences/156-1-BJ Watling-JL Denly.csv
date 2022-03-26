@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,426,426,NZL,5,206,206,BJ Watling,JL Denly,6,11,39,40.67,8238,42.95,Right-hand bat,0,0,0,222,NA,NA,rls,0,NZL,spin,no,47.38016528925619,2.256198347107438
-1,427,427,NZL,5,206,206,BJ Watling,JL Denly,6,11,40,40.67,8238,42.95,Right-hand bat,1,0,0,222,NA,NA,rls,0,NZL,spin,no,47.38016528925619,2.256198347107438
-1,428,428,NZL,5,206,206,BJ Watling,JL Denly,6,11,41,40.67,8238,42.95,Right-hand bat,2,0,0,222,NA,NA,rls,0,NZL,spin,no,47.38016528925619,2.256198347107438
-1,429,429,NZL,5,206,206,BJ Watling,JL Denly,6,11,42,40.67,8238,42.95,Right-hand bat,3,0,0,222,NA,NA,rls,0,NZL,spin,no,47.38016528925619,2.256198347107438
-1,430,430,NZL,5,206,206,BJ Watling,JL Denly,6,11,43,40.67,8238,42.95,Right-hand bat,4,0,0,222,NA,NA,rls,0,NZL,spin,no,47.38016528925619,2.256198347107438
-1,431,431,NZL,5,206,206,BJ Watling,JL Denly,6,11,44,40.67,8238,42.95,Right-hand bat,5,0,0,222,NA,NA,rls,1,NZL,spin,no,47.38016528925619,2.256198347107438
-1,451,451,NZL,5,220,220,BJ Watling,JL Denly,6,14,57,40.67,8238,42.95,Right-hand bat,13,10,0,222,NA,NA,rls,1,NZL,spin,no,47.38016528925619,2.256198347107438

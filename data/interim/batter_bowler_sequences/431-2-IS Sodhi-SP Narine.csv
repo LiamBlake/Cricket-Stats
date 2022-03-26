@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1369,670,NZL,8,322,-45,IS Sodhi,SP Narine,10,1,1,30.4,202,75.24,Right-hand bat,235,89,4,1650,40.52,78.5,rob,0,NZL,spin,yes,21.1806640625,8.2880859375
-2,1370,671,NZL,8,322,-45,IS Sodhi,SP Narine,10,1,2,30.4,202,75.24,Right-hand bat,236,89,4,1650,40.52,78.5,rob,0,NZL,spin,yes,21.1806640625,8.2880859375
-2,1371,672,NZL,8,322,-45,IS Sodhi,SP Narine,10,1,3,30.4,202,75.24,Right-hand bat,237,89,4,1650,40.52,78.5,rob,0,NZL,spin,yes,21.1806640625,8.2880859375
-2,1372,673,NZL,8,322,-45,IS Sodhi,SP Narine,10,1,4,30.4,202,75.24,Right-hand bat,238,89,4,1650,40.52,78.5,rob,1,NZL,spin,yes,21.1806640625,8.2880859375
-2,1381,682,NZL,8,332,-35,IS Sodhi,SP Narine,10,9,10,30.4,202,75.24,Right-hand bat,241,90,4,1650,40.52,78.5,rob,0,NZL,spin,yes,21.1806640625,8.2880859375
-2,1382,683,NZL,8,332,-35,IS Sodhi,SP Narine,10,9,11,30.4,202,75.24,Right-hand bat,242,90,4,1650,40.52,78.5,rob,W,NZL,spin,yes,21.1806640625,8.2880859375

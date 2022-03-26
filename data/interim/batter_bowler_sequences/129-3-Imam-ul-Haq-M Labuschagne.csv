@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1712,222,PAK,3,103,383,Imam-ul-Haq,M Labuschagne,1,45,98,43.5,559,46.69,Left-hand bat,0,0,0,66,19,33,rls,0,PAK,spin,yes,12.737024221453286,23.35121107266436
-3,1713,223,PAK,3,103,383,Imam-ul-Haq,M Labuschagne,1,45,99,43.5,559,46.69,Left-hand bat,1,0,0,66,19,33,rls,0,PAK,spin,yes,12.737024221453286,23.35121107266436
-3,1714,224,PAK,3,103,383,Imam-ul-Haq,M Labuschagne,1,45,100,43.5,559,46.69,Left-hand bat,2,0,0,66,19,33,rls,1,PAK,spin,yes,12.737024221453286,23.35121107266436
-3,1716,226,PAK,3,105,385,Imam-ul-Haq,M Labuschagne,1,46,101,43.5,559,46.69,Left-hand bat,4,2,0,66,19,33,rls,1,PAK,spin,yes,12.737024221453286,23.35121107266436

@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1536,519,NZL,8,271,-286,MJ Henry,R Ashwin,10,0,0,23.12,237,78.05,Right-hand bat,152,70,6,10884.5,24.29,49.4,rob,0,IND,spin,no,4.6875,39.0625
-2,1537,520,NZL,8,271,-286,MJ Henry,R Ashwin,10,0,1,23.12,237,78.05,Right-hand bat,153,70,6,10884.5,24.29,49.4,rob,4,IND,spin,no,4.6875,39.0625
-2,1538,521,NZL,8,275,-282,MJ Henry,R Ashwin,10,4,2,23.12,237,78.05,Right-hand bat,154,74,6,10884.5,24.29,49.4,rob,0,IND,spin,no,4.6875,39.0625
-2,1539,522,NZL,8,275,-282,MJ Henry,R Ashwin,10,4,3,23.12,237,78.05,Right-hand bat,155,74,6,10884.5,24.29,49.4,rob,6,IND,spin,no,4.6875,39.0625
-2,1546,529,NZL,8,289,-268,MJ Henry,R Ashwin,10,10,4,23.12,237,78.05,Right-hand bat,156,80,6,10884.5,24.29,49.4,rob,0,IND,spin,no,4.6875,39.0625
-2,1547,530,NZL,8,289,-268,MJ Henry,R Ashwin,10,10,5,23.12,237,78.05,Right-hand bat,157,80,6,10884.5,24.29,49.4,rob,W,IND,spin,no,4.6875,39.0625
-2,1548,531,NZL,9,289,-268,MJ Henry,R Ashwin,10,10,6,23.12,237,78.05,Right-hand bat,158,80,7,10884.5,24.29,49.4,rob,1,IND,spin,no,4.6875,39.0625

@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,192,192,SRL,9,100,100,PADLR Sandakan,SNJ O'Keefe,10,2,5,28,22,127.27,Right-hand bat,54,23,1,654.5,35.6,65.9,lo,0,SRL,spin,yes,7.297500000000001,13.5525
-1,193,193,SRL,9,100,100,PADLR Sandakan,SNJ O'Keefe,10,2,6,28,22,127.27,Right-hand bat,55,23,1,654.5,35.6,65.9,lo,4,SRL,spin,yes,7.297500000000001,13.5525
-1,194,194,SRL,9,104,104,PADLR Sandakan,SNJ O'Keefe,10,6,7,28,22,127.27,Right-hand bat,56,27,1,654.5,35.6,65.9,lo,4,SRL,spin,yes,7.297500000000001,13.5525
-1,195,195,SRL,9,108,108,PADLR Sandakan,SNJ O'Keefe,10,10,8,28,22,127.27,Right-hand bat,57,31,1,654.5,35.6,65.9,lo,1,SRL,spin,yes,7.297500000000001,13.5525

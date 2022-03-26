@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1149,175,SRL,4,88,143,TAM Siriwardana,TG Southee,6,0,0,37.57,377,69.76,Left-hand bat,51,17,1,10098.2,31.47,61.9,rmf,0,NZL,seam,no,22.92489795918367,1.3893877551020408
-3,1150,176,SRL,4,88,143,TAM Siriwardana,TG Southee,6,0,1,37.57,377,69.76,Left-hand bat,52,17,1,10098.2,31.47,61.9,rmf,1nb,NZL,seam,no,22.92489795918367,1.3893877551020408
-3,1151,177,SRL,4,89,144,TAM Siriwardana,TG Southee,6,0,2,37.57,377,69.76,Left-hand bat,53,18,1,10098.2,31.47,61.9,rmf,0,NZL,seam,no,22.92489795918367,1.3893877551020408
-3,1152,178,SRL,4,89,144,TAM Siriwardana,TG Southee,6,0,3,37.57,377,69.76,Left-hand bat,54,18,1,10098.2,31.47,61.9,rmf,1,NZL,seam,no,22.92489795918367,1.3893877551020408
-3,1161,187,SRL,5,111,166,TAM Siriwardana,TG Southee,6,17,10,37.57,377,69.76,Left-hand bat,57,20,2,10098.2,31.47,61.9,rmf,0,NZL,seam,no,22.92489795918367,1.3893877551020408
-3,1162,188,SRL,5,111,166,TAM Siriwardana,TG Southee,6,17,11,37.57,377,69.76,Left-hand bat,58,20,2,10098.2,31.47,61.9,rmf,0,NZL,seam,no,22.92489795918367,1.3893877551020408
-3,1163,189,SRL,5,111,166,TAM Siriwardana,TG Southee,6,17,12,37.57,377,69.76,Left-hand bat,59,20,2,10098.2,31.47,61.9,rmf,0,NZL,seam,no,22.92489795918367,1.3893877551020408
-3,1164,190,SRL,5,111,166,TAM Siriwardana,TG Southee,6,17,13,37.57,377,69.76,Left-hand bat,60,20,2,10098.2,31.47,61.9,rmf,4,NZL,seam,no,22.92489795918367,1.3893877551020408

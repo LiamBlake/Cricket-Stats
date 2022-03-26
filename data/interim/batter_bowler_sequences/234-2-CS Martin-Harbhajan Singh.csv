@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,932,369,NZL,9,181,-198,CS Martin,Harbhajan Singh,11,0,0,2.28,400,20,Right-hand bat,129,36,3,21468.3,30.42,65,rob,2b,NZL,spin,yes,27.400816326530613,9.484897959183675
-2,933,370,NZL,9,183,-196,CS Martin,Harbhajan Singh,11,0,1,2.28,400,20,Right-hand bat,130,36,3,21468.3,30.42,65,rob,0,NZL,spin,yes,27.400816326530613,9.484897959183675
-2,934,371,NZL,9,183,-196,CS Martin,Harbhajan Singh,11,0,2,2.28,400,20,Right-hand bat,131,36,3,21468.3,30.42,65,rob,0,NZL,spin,yes,27.400816326530613,9.484897959183675
-2,946,383,NZL,9,189,-190,CS Martin,Harbhajan Singh,11,0,4,2.28,400,20,Right-hand bat,137,39,3,21468.3,30.42,65,rob,4,NZL,spin,yes,27.400816326530613,9.484897959183675

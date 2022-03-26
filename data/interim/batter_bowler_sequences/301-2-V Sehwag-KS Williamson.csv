@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,878,168,IND,0,91,-259,V Sehwag,KS Williamson,2,50,70,54.56,9115,82.01,Right-hand bat,0,0,0,138,98,138,rob,0,IND,spin,no,20.479591836734695,27.30612244897959
-2,879,169,IND,0,91,-259,V Sehwag,KS Williamson,2,50,71,54.56,9115,82.01,Right-hand bat,1,0,0,138,98,138,rob,0,IND,spin,no,20.479591836734695,27.30612244897959
-2,880,170,IND,0,91,-259,V Sehwag,KS Williamson,2,50,72,54.56,9115,82.01,Right-hand bat,2,0,0,138,98,138,rob,1,IND,spin,no,20.479591836734695,27.30612244897959
-2,898,188,IND,0,112,-238,V Sehwag,KS Williamson,2,63,83,54.56,9115,82.01,Right-hand bat,8,7,0,138,98,138,rob,6,IND,spin,no,20.479591836734695,27.30612244897959
-2,899,189,IND,0,118,-232,V Sehwag,KS Williamson,2,69,84,54.56,9115,82.01,Right-hand bat,9,13,0,138,98,138,rob,4,IND,spin,no,20.479591836734695,27.30612244897959
-2,900,190,IND,0,122,-228,V Sehwag,KS Williamson,2,73,85,54.56,9115,82.01,Right-hand bat,10,17,0,138,98,138,rob,0,IND,spin,no,20.479591836734695,27.30612244897959
-2,901,191,IND,0,122,-228,V Sehwag,KS Williamson,2,73,86,54.56,9115,82.01,Right-hand bat,11,17,0,138,98,138,rob,0,IND,spin,no,20.479591836734695,27.30612244897959

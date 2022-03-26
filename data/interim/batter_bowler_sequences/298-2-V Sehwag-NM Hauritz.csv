@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,995,72,IND,0,69,-359,V Sehwag,NM Hauritz,2,39,32,53.9,8707,81.71,Right-hand bat,0,0,0,3888.1,32.91,64.8,rob,4,IND,spin,no,21.213675213675213,10.606837606837606
-2,996,73,IND,0,73,-355,V Sehwag,NM Hauritz,2,43,33,53.9,8707,81.71,Right-hand bat,1,4,0,3888.1,32.91,64.8,rob,4,IND,spin,no,21.213675213675213,10.606837606837606
-2,997,74,IND,0,77,-351,V Sehwag,NM Hauritz,2,47,34,53.9,8707,81.71,Right-hand bat,2,8,0,3888.1,32.91,64.8,rob,0,IND,spin,no,21.213675213675213,10.606837606837606
-2,998,75,IND,0,77,-351,V Sehwag,NM Hauritz,2,47,35,53.9,8707,81.71,Right-hand bat,3,8,0,3888.1,32.91,64.8,rob,0,IND,spin,no,21.213675213675213,10.606837606837606
-2,999,76,IND,0,77,-351,V Sehwag,NM Hauritz,2,47,36,53.9,8707,81.71,Right-hand bat,4,8,0,3888.1,32.91,64.8,rob,2,IND,spin,no,21.213675213675213,10.606837606837606
-2,1000,77,IND,0,79,-349,V Sehwag,NM Hauritz,2,49,37,53.9,8707,81.71,Right-hand bat,5,10,0,3888.1,32.91,64.8,rob,1,IND,spin,no,21.213675213675213,10.606837606837606

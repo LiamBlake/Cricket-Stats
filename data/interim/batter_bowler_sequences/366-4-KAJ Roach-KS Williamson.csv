@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1617,321,WIN,4,175,-30,KAJ Roach,KS Williamson,6,37,54,10.39,848,34.31,Right-hand bat,12,6,0,618.5,47.75,77.8,rob,0,WIN,spin,yes,16.241632653061227,7.444081632653061
-4,1618,322,WIN,4,175,-30,KAJ Roach,KS Williamson,6,37,55,10.39,848,34.31,Right-hand bat,13,6,0,618.5,47.75,77.8,rob,2,WIN,spin,yes,16.241632653061227,7.444081632653061
-4,1619,323,WIN,4,177,-28,KAJ Roach,KS Williamson,6,39,56,10.39,848,34.31,Right-hand bat,14,8,0,618.5,47.75,77.8,rob,1,WIN,spin,yes,16.241632653061227,7.444081632653061
-4,1629,333,WIN,4,183,-22,KAJ Roach,KS Williamson,6,41,58,10.39,848,34.31,Right-hand bat,18,10,0,618.5,47.75,77.8,rob,0,WIN,spin,yes,16.241632653061227,7.444081632653061
-4,1630,334,WIN,4,183,-22,KAJ Roach,KS Williamson,6,41,59,10.39,848,34.31,Right-hand bat,19,10,0,618.5,47.75,77.8,rob,W,WIN,spin,yes,16.241632653061227,7.444081632653061

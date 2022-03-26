@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1007,446,AUS,5,217,-21,BJ Haddin,TT Bresnan,7,7,14,34.5,4383,56.67,Right-hand bat,96,55,1,4296.3,32.1,64.1,rmf,0,ENG,seam,no,19.24875,7.3012500000000005
-2,1008,447,AUS,5,217,-21,BJ Haddin,TT Bresnan,7,7,15,34.5,4383,56.67,Right-hand bat,97,55,1,4296.3,32.1,64.1,rmf,4,ENG,seam,no,19.24875,7.3012500000000005
-2,1009,448,AUS,5,221,-17,BJ Haddin,TT Bresnan,7,11,16,34.5,4383,56.67,Right-hand bat,98,59,1,4296.3,32.1,64.1,rmf,0,ENG,seam,no,19.24875,7.3012500000000005
-2,1010,449,AUS,5,221,-17,BJ Haddin,TT Bresnan,7,11,17,34.5,4383,56.67,Right-hand bat,99,59,1,4296.3,32.1,64.1,rmf,1,ENG,seam,no,19.24875,7.3012500000000005

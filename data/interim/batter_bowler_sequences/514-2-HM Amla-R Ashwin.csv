@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,519,46,RSA,2,10,-205,HM Amla,R Ashwin,4,0,1,51.19,13419,51.12,Right-hand bat,22,5,1,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
-2,520,47,RSA,2,10,-205,HM Amla,R Ashwin,4,0,2,51.19,13419,51.12,Right-hand bat,23,5,1,8844.4,25.93,52.3,rob,0,IND,spin,no,2.8525,13.4475
-2,539,66,RSA,3,12,-203,HM Amla,R Ashwin,4,1,9,51.19,13419,51.12,Right-hand bat,30,5,2,8844.4,25.93,52.3,rob,W,IND,spin,no,2.8525,13.4475

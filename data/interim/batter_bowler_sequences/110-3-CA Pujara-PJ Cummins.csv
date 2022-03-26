@@ -1,3 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1507,84,IND,1,28,320,CA Pujara,PJ Cummins,3,0,0,49.83,11309,46.27,Right-hand bat,12,2,1,3918.5,23.25,49,rf,0,AUS,seam,yes,22.75020408163265,4.706938775510204
-3,1508,85,IND,1,28,320,CA Pujara,PJ Cummins,3,0,1,49.83,11309,46.27,Right-hand bat,13,2,1,3918.5,23.25,49,rf,W,AUS,seam,yes,22.75020408163265,4.706938775510204

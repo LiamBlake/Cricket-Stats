@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1500,372,NZL,7,216,228,TG Southee,R Ashwin,9,0,0,18.78,639,82.31,Right-hand bat,113,59,4,2562.2,26.63,52.3,rob,2,IND,spin,yes,19.0465306122449,16.039183673469388
-3,1521,393,NZL,7,222,234,TG Southee,R Ashwin,9,2,7,18.78,639,82.31,Right-hand bat,122,62,4,2562.2,26.63,52.3,rob,0,IND,spin,yes,19.0465306122449,16.039183673469388
-3,1522,394,NZL,7,222,234,TG Southee,R Ashwin,9,2,8,18.78,639,82.31,Right-hand bat,123,62,4,2562.2,26.63,52.3,rob,0,IND,spin,yes,19.0465306122449,16.039183673469388
-3,1523,395,NZL,7,222,234,TG Southee,R Ashwin,9,2,9,18.78,639,82.31,Right-hand bat,124,62,4,2562.2,26.63,52.3,rob,0,IND,spin,yes,19.0465306122449,16.039183673469388
-3,1524,396,NZL,7,222,234,TG Southee,R Ashwin,9,2,10,18.78,639,82.31,Right-hand bat,125,62,4,2562.2,26.63,52.3,rob,W,IND,spin,yes,19.0465306122449,16.039183673469388

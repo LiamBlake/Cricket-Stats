@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1335,98,WIN,1,51,-192,SD Hope,MDK Perera,2,29,45,16.2,384,42.18,Right-hand bat,0,0,0,2568.4,29.56,58.4,rob,1,SRL,spin,no,5.55,12.95
-4,1347,110,WIN,1,57,-186,SD Hope,MDK Perera,2,32,51,16.2,384,42.18,Right-hand bat,6,3,0,2568.4,29.56,58.4,rob,0,SRL,spin,no,5.55,12.95
-4,1348,111,WIN,1,57,-186,SD Hope,MDK Perera,2,32,52,16.2,384,42.18,Right-hand bat,7,3,0,2568.4,29.56,58.4,rob,1,SRL,spin,no,5.55,12.95
-4,1364,127,WIN,1,63,-180,SD Hope,MDK Perera,2,33,59,16.2,384,42.18,Right-hand bat,17,9,0,2568.4,29.56,58.4,rob,0,SRL,spin,no,5.55,12.95
-4,1371,134,WIN,1,75,-168,SD Hope,MDK Perera,2,33,60,16.2,384,42.18,Right-hand bat,18,9,0,2568.4,29.56,58.4,rob,0,SRL,spin,no,5.55,12.95
-4,1372,135,WIN,1,75,-168,SD Hope,MDK Perera,2,33,61,16.2,384,42.18,Right-hand bat,19,9,0,2568.4,29.56,58.4,rob,0,SRL,spin,no,5.55,12.95
-4,1373,136,WIN,1,75,-168,SD Hope,MDK Perera,2,33,62,16.2,384,42.18,Right-hand bat,20,9,0,2568.4,29.56,58.4,rob,1,SRL,spin,no,5.55,12.95

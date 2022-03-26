@@ -1,3 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,502,0,AUS,0,0,-295,DA Warner,DL Vettori,1,0,0,15,7,214.28,Left-hand bat,0,0,0,27564.5,33.67,77.6,lo,0,AUS,spin,no,18.54318418314256,10.198751300728409
-2,503,1,AUS,0,0,-295,DA Warner,DL Vettori,1,0,1,15,7,214.28,Left-hand bat,1,0,0,27564.5,33.67,77.6,lo,3,AUS,spin,no,18.54318418314256,10.198751300728409

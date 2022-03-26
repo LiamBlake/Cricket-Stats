@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2270,84,PAK,2,56,-31,Younis Khan,GA Lamb,4,2,11,51.06,10779,53.05,Right-hand bat,0,0,0,192,47,64,rob,4,ZIM,spin,yes,16.264462809917354,17.28099173553719
-4,2271,85,PAK,2,60,-27,Younis Khan,GA Lamb,4,6,12,51.06,10779,53.05,Right-hand bat,1,4,0,192,47,64,rob,1,ZIM,spin,yes,16.264462809917354,17.28099173553719
-4,2282,96,PAK,2,64,-23,Younis Khan,GA Lamb,4,8,15,51.06,10779,53.05,Right-hand bat,6,7,0,192,47,64,rob,1,ZIM,spin,yes,16.264462809917354,17.28099173553719
-4,2294,108,PAK,2,74,-13,Younis Khan,GA Lamb,4,10,19,51.06,10779,53.05,Right-hand bat,12,12,0,192,47,64,rob,0,ZIM,spin,yes,16.264462809917354,17.28099173553719
-4,2295,109,PAK,2,74,-13,Younis Khan,GA Lamb,4,10,20,51.06,10779,53.05,Right-hand bat,13,12,0,192,47,64,rob,1,ZIM,spin,yes,16.264462809917354,17.28099173553719
-4,2306,120,PAK,3,80,-7,Younis Khan,GA Lamb,4,12,25,51.06,10779,53.05,Right-hand bat,18,17,0,192,47,64,rob,1,ZIM,spin,yes,16.264462809917354,17.28099173553719
-4,2308,122,PAK,3,82,-5,Younis Khan,GA Lamb,4,13,26,51.06,10779,53.05,Right-hand bat,20,19,0,192,47,64,rob,0,ZIM,spin,yes,16.264462809917354,17.28099173553719
-4,2309,123,PAK,3,82,-5,Younis Khan,GA Lamb,4,13,27,51.06,10779,53.05,Right-hand bat,21,19,0,192,47,64,rob,1,ZIM,spin,yes,16.264462809917354,17.28099173553719

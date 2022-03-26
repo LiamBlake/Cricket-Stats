@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,267,267,NZL,3,171,171,LRPL Taylor,V Sehwag,4,76,117,36.96,1691,61.2,Right-hand bat,0,0,0,2412.1,42.75,83.2,rob,0,NZL,spin,yes,34.40453686200378,26.46502835538752
-1,268,268,NZL,3,171,171,LRPL Taylor,V Sehwag,4,76,118,36.96,1691,61.2,Right-hand bat,1,0,0,2412.1,42.75,83.2,rob,0,NZL,spin,yes,34.40453686200378,26.46502835538752
-1,269,269,NZL,3,171,171,LRPL Taylor,V Sehwag,4,76,119,36.96,1691,61.2,Right-hand bat,2,0,0,2412.1,42.75,83.2,rob,4,NZL,spin,yes,34.40453686200378,26.46502835538752
-1,270,270,NZL,3,175,175,LRPL Taylor,V Sehwag,4,80,120,36.96,1691,61.2,Right-hand bat,3,4,0,2412.1,42.75,83.2,rob,1,NZL,spin,yes,34.40453686200378,26.46502835538752
-1,296,296,NZL,3,197,197,LRPL Taylor,V Sehwag,4,82,127,36.96,1691,61.2,Right-hand bat,17,22,0,2412.1,42.75,83.2,rob,1,NZL,spin,yes,34.40453686200378,26.46502835538752

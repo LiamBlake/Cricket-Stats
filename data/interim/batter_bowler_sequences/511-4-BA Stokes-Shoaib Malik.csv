@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2342,356,ENG,8,145,-138,BA Stokes,Shoaib Malik,10,2,6,28.58,1578,61.59,Left-hand bat,84,21,2,2712,47.46,84.7,rob,0,ENG,spin,no,9.19625,17.07875
-4,2343,357,ENG,8,145,-138,BA Stokes,Shoaib Malik,10,2,7,28.58,1578,61.59,Left-hand bat,85,21,2,2712,47.46,84.7,rob,3,ENG,spin,no,9.19625,17.07875
-4,2345,359,ENG,8,149,-134,BA Stokes,Shoaib Malik,10,5,8,28.58,1578,61.59,Left-hand bat,87,25,2,2712,47.46,84.7,rob,1,ENG,spin,no,9.19625,17.07875

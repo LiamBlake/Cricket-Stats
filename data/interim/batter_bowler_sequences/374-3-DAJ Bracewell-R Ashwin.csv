@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1604,426,NZL,6,145,-134,DAJ Bracewell,R Ashwin,8,0,0,10,394,40.6,Right-hand bat,132,49,3,2286.2,26.83,53.2,rob,0,IND,spin,no,6.764444444444445,18.602222222222224
-3,1605,427,NZL,6,145,-134,DAJ Bracewell,R Ashwin,8,0,1,10,394,40.6,Right-hand bat,133,49,3,2286.2,26.83,53.2,rob,1,IND,spin,no,6.764444444444445,18.602222222222224
-3,1617,439,NZL,6,147,-132,DAJ Bracewell,R Ashwin,8,1,8,10,394,40.6,Right-hand bat,139,51,3,2286.2,26.83,53.2,rob,0,IND,spin,no,6.764444444444445,18.602222222222224
-3,1618,440,NZL,6,147,-132,DAJ Bracewell,R Ashwin,8,1,9,10,394,40.6,Right-hand bat,140,51,3,2286.2,26.83,53.2,rob,0,IND,spin,no,6.764444444444445,18.602222222222224
-3,1619,441,NZL,6,147,-132,DAJ Bracewell,R Ashwin,8,1,10,10,394,40.6,Right-hand bat,141,51,3,2286.2,26.83,53.2,rob,0,IND,spin,no,6.764444444444445,18.602222222222224
-3,1620,442,NZL,6,147,-132,DAJ Bracewell,R Ashwin,8,1,11,10,394,40.6,Right-hand bat,142,51,3,2286.2,26.83,53.2,rob,0,IND,spin,no,6.764444444444445,18.602222222222224
-3,1621,443,NZL,6,147,-132,DAJ Bracewell,R Ashwin,8,1,12,10,394,40.6,Right-hand bat,143,51,3,2286.2,26.83,53.2,rob,0,IND,spin,no,6.764444444444445,18.602222222222224

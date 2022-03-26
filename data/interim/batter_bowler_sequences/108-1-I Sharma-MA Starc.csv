@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,480,480,IND,7,206,206,I Sharma,MA Starc,9,4,11,7.92,2195,28.51,Right-hand bat,90,40,1,9594.5,28.31,50.2,lf,0,IND,seam,yes,17.59875,9.47625
-1,481,481,IND,7,206,206,I Sharma,MA Starc,9,4,12,7.92,2195,28.51,Right-hand bat,91,40,1,9594.5,28.31,50.2,lf,0,IND,seam,yes,17.59875,9.47625
-1,482,482,IND,7,206,206,I Sharma,MA Starc,9,4,13,7.92,2195,28.51,Right-hand bat,92,40,1,9594.5,28.31,50.2,lf,0,IND,seam,yes,17.59875,9.47625
-1,483,483,IND,7,206,206,I Sharma,MA Starc,9,4,14,7.92,2195,28.51,Right-hand bat,93,40,1,9594.5,28.31,50.2,lf,0,IND,seam,yes,17.59875,9.47625
-1,484,484,IND,7,206,206,I Sharma,MA Starc,9,4,15,7.92,2195,28.51,Right-hand bat,94,40,1,9594.5,28.31,50.2,lf,0,IND,seam,yes,17.59875,9.47625
-1,485,485,IND,7,206,206,I Sharma,MA Starc,9,4,16,7.92,2195,28.51,Right-hand bat,95,40,1,9594.5,28.31,50.2,lf,0,IND,seam,yes,17.59875,9.47625
-1,494,494,IND,7,210,210,I Sharma,MA Starc,9,4,18,7.92,2195,28.51,Right-hand bat,98,41,1,9594.5,28.31,50.2,lf,0,IND,seam,yes,17.59875,9.47625
-1,495,495,IND,7,210,210,I Sharma,MA Starc,9,4,19,7.92,2195,28.51,Right-hand bat,99,41,1,9594.5,28.31,50.2,lf,W,IND,seam,yes,17.59875,9.47625

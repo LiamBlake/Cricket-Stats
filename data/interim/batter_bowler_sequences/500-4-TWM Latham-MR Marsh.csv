@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1665,114,NZL,0,35,-468,TWM Latham,MR Marsh,1,23,60,39.39,2050,44.19,Left-hand bat,0,0,0,720.1,30.83,60,rm,0,AUS,seam,no,36.53061224489796,14.612244897959185
-4,1666,115,NZL,0,35,-468,TWM Latham,MR Marsh,1,23,61,39.39,2050,44.19,Left-hand bat,1,0,0,720.1,30.83,60,rm,6,AUS,seam,no,36.53061224489796,14.612244897959185
-4,1667,116,NZL,0,41,-462,TWM Latham,MR Marsh,1,29,62,39.39,2050,44.19,Left-hand bat,2,6,0,720.1,30.83,60,rm,0,AUS,seam,no,36.53061224489796,14.612244897959185
-4,1668,117,NZL,0,41,-462,TWM Latham,MR Marsh,1,29,63,39.39,2050,44.19,Left-hand bat,3,6,0,720.1,30.83,60,rm,0,AUS,seam,no,36.53061224489796,14.612244897959185
-4,1669,118,NZL,0,41,-462,TWM Latham,MR Marsh,1,29,64,39.39,2050,44.19,Left-hand bat,4,6,0,720.1,30.83,60,rm,0,AUS,seam,no,36.53061224489796,14.612244897959185
-4,1670,119,NZL,0,41,-462,TWM Latham,MR Marsh,1,29,65,39.39,2050,44.19,Left-hand bat,5,6,0,720.1,30.83,60,rm,0,AUS,seam,no,36.53061224489796,14.612244897959185

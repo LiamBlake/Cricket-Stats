@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,909,280,WIN,6,165,-208,SO Dowrich,N Wagner,7,33,40,24.13,1535,47.16,Right-hand bat,38,42,0,7440.5,27.87,51.7,lmf,0,NZL,seam,yes,25.617728531855956,3.0138504155124655
-2,910,281,WIN,6,165,-208,SO Dowrich,N Wagner,7,33,41,24.13,1535,47.16,Right-hand bat,39,42,0,7440.5,27.87,51.7,lmf,0,NZL,seam,yes,25.617728531855956,3.0138504155124655
-2,911,282,WIN,6,165,-208,SO Dowrich,N Wagner,7,33,42,24.13,1535,47.16,Right-hand bat,40,42,0,7440.5,27.87,51.7,lmf,1,NZL,seam,yes,25.617728531855956,3.0138504155124655
-2,919,290,WIN,6,167,-206,SO Dowrich,N Wagner,7,34,43,24.13,1535,47.16,Right-hand bat,42,43,0,7440.5,27.87,51.7,lmf,1,NZL,seam,yes,25.617728531855956,3.0138504155124655
-2,931,302,WIN,6,169,-204,SO Dowrich,N Wagner,7,35,44,24.13,1535,47.16,Right-hand bat,48,45,0,7440.5,27.87,51.7,lmf,W,NZL,seam,yes,25.617728531855956,3.0138504155124655

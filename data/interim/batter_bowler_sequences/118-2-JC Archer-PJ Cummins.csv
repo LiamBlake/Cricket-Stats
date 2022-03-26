@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,461,145,ENG,7,54,-125,JC Archer,PJ Cummins,9,0,0,11.33,61,55.73,Right-hand bat,43,14,2,5094.4,21.48,45.9,rf,0,ENG,seam,yes,19.65154503616042,2.245890861275477
-2,462,146,ENG,7,54,-125,JC Archer,PJ Cummins,9,0,1,11.33,61,55.73,Right-hand bat,44,14,2,5094.4,21.48,45.9,rf,0,ENG,seam,yes,19.65154503616042,2.245890861275477
-2,463,147,ENG,7,54,-125,JC Archer,PJ Cummins,9,0,2,11.33,61,55.73,Right-hand bat,45,14,2,5094.4,21.48,45.9,rf,0,ENG,seam,yes,19.65154503616042,2.245890861275477
-2,464,148,ENG,7,54,-125,JC Archer,PJ Cummins,9,0,3,11.33,61,55.73,Right-hand bat,46,14,2,5094.4,21.48,45.9,rf,1,ENG,seam,yes,19.65154503616042,2.245890861275477
-2,472,156,ENG,8,60,-119,JC Archer,PJ Cummins,9,1,4,11.33,61,55.73,Right-hand bat,48,16,2,5094.4,21.48,45.9,rf,4,ENG,seam,yes,19.65154503616042,2.245890861275477
-2,473,157,ENG,8,64,-115,JC Archer,PJ Cummins,9,5,5,11.33,61,55.73,Right-hand bat,49,20,2,5094.4,21.48,45.9,rf,0,ENG,seam,yes,19.65154503616042,2.245890861275477
-2,474,158,ENG,8,64,-115,JC Archer,PJ Cummins,9,5,6,11.33,61,55.73,Right-hand bat,50,20,2,5094.4,21.48,45.9,rf,2,ENG,seam,yes,19.65154503616042,2.245890861275477
-2,475,159,ENG,8,66,-113,JC Archer,PJ Cummins,9,7,7,11.33,61,55.73,Right-hand bat,51,22,2,5094.4,21.48,45.9,rf,W,ENG,seam,yes,19.65154503616042,2.245890861275477

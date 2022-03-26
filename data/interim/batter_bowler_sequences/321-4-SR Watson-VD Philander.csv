@@ -1,3 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1561,0,AUS,0,0,-309,SR Watson,VD Philander,1,0,0,38.12,4168,51.22,Right-hand bat,0,0,0,378,13.92,27,rfm,0,RSA,seam,no,23.481994459833793,8.386426592797784
-4,1562,1,AUS,0,0,-309,SR Watson,VD Philander,1,0,1,38.12,4168,51.22,Right-hand bat,1,0,0,378,13.92,27,rfm,W,RSA,seam,no,23.481994459833793,8.386426592797784

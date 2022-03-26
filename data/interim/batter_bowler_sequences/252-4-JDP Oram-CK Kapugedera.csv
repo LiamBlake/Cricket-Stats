@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2235,463,NZL,6,244,-249,JDP Oram,CK Kapugedera,7,36,103,36.32,3533,50.38,Left-hand bat,0,0,0,12,NA,NA,rm,4,SRL,seam,no,8.868571428571428,29.93142857142857
-4,2236,464,NZL,6,248,-245,JDP Oram,CK Kapugedera,7,40,104,36.32,3533,50.38,Left-hand bat,1,4,0,12,NA,NA,rm,0,SRL,seam,no,8.868571428571428,29.93142857142857
-4,2237,465,NZL,6,248,-245,JDP Oram,CK Kapugedera,7,40,105,36.32,3533,50.38,Left-hand bat,2,4,0,12,NA,NA,rm,1,SRL,seam,no,8.868571428571428,29.93142857142857
-4,2247,475,NZL,6,260,-233,JDP Oram,CK Kapugedera,7,42,109,36.32,3533,50.38,Left-hand bat,6,7,0,12,NA,NA,rm,0,SRL,seam,no,8.868571428571428,29.93142857142857
-4,2248,476,NZL,6,260,-233,JDP Oram,CK Kapugedera,7,42,110,36.32,3533,50.38,Left-hand bat,7,7,0,12,NA,NA,rm,0,SRL,seam,no,8.868571428571428,29.93142857142857
-4,2249,477,NZL,6,260,-233,JDP Oram,CK Kapugedera,7,42,111,36.32,3533,50.38,Left-hand bat,8,7,0,12,NA,NA,rm,0,SRL,seam,no,8.868571428571428,29.93142857142857
-4,2250,478,NZL,6,260,-233,JDP Oram,CK Kapugedera,7,42,112,36.32,3533,50.38,Left-hand bat,9,7,0,12,NA,NA,rm,1,SRL,seam,no,8.868571428571428,29.93142857142857
-4,2252,480,NZL,6,262,-231,JDP Oram,CK Kapugedera,7,43,113,36.32,3533,50.38,Left-hand bat,11,9,0,12,NA,NA,rm,0,SRL,seam,no,8.868571428571428,29.93142857142857

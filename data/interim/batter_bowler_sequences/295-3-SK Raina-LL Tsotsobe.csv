@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1468,443,IND,5,256,-228,SK Raina,LL Tsotsobe,7,0,0,33.9,652,57.2,Left-hand bat,96,60,1,492,84.66,164,lfm,0,RSA,seam,no,42.1875,8.4375
-3,1479,454,IND,5,260,-224,SK Raina,LL Tsotsobe,7,1,4,33.9,652,57.2,Left-hand bat,101,60,1,492,84.66,164,lfm,0,RSA,seam,no,42.1875,8.4375
-3,1480,455,IND,5,260,-224,SK Raina,LL Tsotsobe,7,1,5,33.9,652,57.2,Left-hand bat,102,60,1,492,84.66,164,lfm,0,RSA,seam,no,42.1875,8.4375
-3,1487,462,IND,5,264,-220,SK Raina,LL Tsotsobe,7,1,6,33.9,652,57.2,Left-hand bat,103,60,1,492,84.66,164,lfm,1,RSA,seam,no,42.1875,8.4375
-3,1491,466,IND,5,270,-214,SK Raina,LL Tsotsobe,7,2,7,33.9,652,57.2,Left-hand bat,107,66,1,492,84.66,164,lfm,1,RSA,seam,no,42.1875,8.4375

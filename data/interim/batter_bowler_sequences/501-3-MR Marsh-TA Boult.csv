@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,2140,411,AUS,3,270,205,MR Marsh,TA Boult,5,0,0,24.78,628,55.25,Right-hand bat,73,54,2,7482.4,28.86,58,lfm,0,AUS,seam,yes,46.91836734693878,12.795918367346939
-3,2141,412,AUS,3,270,205,MR Marsh,TA Boult,5,0,1,24.78,628,55.25,Right-hand bat,74,54,2,7482.4,28.86,58,lfm,0,AUS,seam,yes,46.91836734693878,12.795918367346939
-3,2142,413,AUS,3,270,205,MR Marsh,TA Boult,5,0,2,24.78,628,55.25,Right-hand bat,75,54,2,7482.4,28.86,58,lfm,0,AUS,seam,yes,46.91836734693878,12.795918367346939
-3,2143,414,AUS,3,270,205,MR Marsh,TA Boult,5,0,3,24.78,628,55.25,Right-hand bat,76,54,2,7482.4,28.86,58,lfm,0,AUS,seam,yes,46.91836734693878,12.795918367346939
-3,2144,415,AUS,3,270,205,MR Marsh,TA Boult,5,0,4,24.78,628,55.25,Right-hand bat,77,54,2,7482.4,28.86,58,lfm,0,AUS,seam,yes,46.91836734693878,12.795918367346939
-3,2152,423,AUS,3,272,207,MR Marsh,TA Boult,5,0,8,24.78,628,55.25,Right-hand bat,79,55,2,7482.4,28.86,58,lfm,1,AUS,seam,yes,46.91836734693878,12.795918367346939

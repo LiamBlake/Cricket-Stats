@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,159,159,ENG,3,72,72,JE Root,JE Taylor,5,20,18,55,4234,49.36,Right-hand bat,45,17,0,6870.5,34.35,60.3,rf,2,WIN,seam,yes,16.194285714285716,5.605714285714286
-1,160,160,ENG,3,74,74,JE Root,JE Taylor,5,22,19,55,4234,49.36,Right-hand bat,46,19,0,6870.5,34.35,60.3,rf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
-1,161,161,ENG,3,74,74,JE Root,JE Taylor,5,22,20,55,4234,49.36,Right-hand bat,47,19,0,6870.5,34.35,60.3,rf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
-1,162,162,ENG,3,74,74,JE Root,JE Taylor,5,22,21,55,4234,49.36,Right-hand bat,48,19,0,6870.5,34.35,60.3,rf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
-1,163,163,ENG,3,74,74,JE Root,JE Taylor,5,22,22,55,4234,49.36,Right-hand bat,49,19,0,6870.5,34.35,60.3,rf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
-1,164,164,ENG,3,74,74,JE Root,JE Taylor,5,22,23,55,4234,49.36,Right-hand bat,50,19,0,6870.5,34.35,60.3,rf,1,WIN,seam,yes,16.194285714285716,5.605714285714286

@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1338,279,PAK,4,195,-59,Fakhar Zaman,K Rabada,6,1,1,32,359,53.48,Left-hand bat,73,41,1,6288.1,21.35,38.5,rf,0,RSA,seam,no,31.46722164412071,0
-3,1339,280,PAK,4,195,-59,Fakhar Zaman,K Rabada,6,1,2,32,359,53.48,Left-hand bat,74,41,1,6288.1,21.35,38.5,rf,2,RSA,seam,no,31.46722164412071,0
-3,1340,281,PAK,4,197,-57,Fakhar Zaman,K Rabada,6,3,3,32,359,53.48,Left-hand bat,75,43,1,6288.1,21.35,38.5,rf,4,RSA,seam,no,31.46722164412071,0
-3,1341,282,PAK,4,201,-53,Fakhar Zaman,K Rabada,6,7,4,32,359,53.48,Left-hand bat,76,47,1,6288.1,21.35,38.5,rf,0,RSA,seam,no,31.46722164412071,0
-3,1342,283,PAK,4,201,-53,Fakhar Zaman,K Rabada,6,7,5,32,359,53.48,Left-hand bat,77,47,1,6288.1,21.35,38.5,rf,0,RSA,seam,no,31.46722164412071,0
-3,1343,284,PAK,4,201,-53,Fakhar Zaman,K Rabada,6,7,6,32,359,53.48,Left-hand bat,78,47,1,6288.1,21.35,38.5,rf,0,RSA,seam,no,31.46722164412071,0
-3,1350,291,PAK,4,201,-53,Fakhar Zaman,K Rabada,6,7,7,32,359,53.48,Left-hand bat,79,47,1,6288.1,21.35,38.5,rf,W,RSA,seam,no,31.46722164412071,0

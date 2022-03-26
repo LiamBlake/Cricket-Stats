@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,709,709,SRL,5,367,367,HAPW Jayawardene,DL Vettori,7,0,0,24.9,1635,45.68,Right-hand bat,235,94,2,23124.1,33.51,76.3,lo,0,SRL,spin,yes,8.868571428571428,29.93142857142857
-1,710,710,SRL,5,367,367,HAPW Jayawardene,DL Vettori,7,0,1,24.9,1635,45.68,Right-hand bat,236,94,2,23124.1,33.51,76.3,lo,4,SRL,spin,yes,8.868571428571428,29.93142857142857
-1,711,711,SRL,5,371,371,HAPW Jayawardene,DL Vettori,7,4,2,24.9,1635,45.68,Right-hand bat,237,98,2,23124.1,33.51,76.3,lo,0,SRL,spin,yes,8.868571428571428,29.93142857142857
-1,712,712,SRL,5,371,371,HAPW Jayawardene,DL Vettori,7,4,3,24.9,1635,45.68,Right-hand bat,238,98,2,23124.1,33.51,76.3,lo,0,SRL,spin,yes,8.868571428571428,29.93142857142857
-1,713,713,SRL,5,371,371,HAPW Jayawardene,DL Vettori,7,4,4,24.9,1635,45.68,Right-hand bat,239,98,2,23124.1,33.51,76.3,lo,1,SRL,spin,yes,8.868571428571428,29.93142857142857

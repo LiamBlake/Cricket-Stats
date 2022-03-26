@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1752,46,WIN,5,15,-403,SD Hope,JJ Bumrah,6,0,0,27.5,3488,42.57,Right-hand bat,21,6,3,2568.4,20.63,46.7,rf,0,WIN,seam,yes,20.37837837837838,5.621621621621622
-4,1753,47,WIN,5,15,-403,SD Hope,JJ Bumrah,6,0,1,27.5,3488,42.57,Right-hand bat,22,6,3,2568.4,20.63,46.7,rf,0,WIN,seam,yes,20.37837837837838,5.621621621621622
-4,1754,48,WIN,5,15,-403,SD Hope,JJ Bumrah,6,0,2,27.5,3488,42.57,Right-hand bat,23,6,3,2568.4,20.63,46.7,rf,0,WIN,seam,yes,20.37837837837838,5.621621621621622
-4,1761,55,WIN,5,25,-393,SD Hope,JJ Bumrah,6,0,3,27.5,3488,42.57,Right-hand bat,24,6,3,2568.4,20.63,46.7,rf,1,WIN,seam,yes,20.37837837837838,5.621621621621622
-4,1773,67,WIN,5,27,-391,SD Hope,JJ Bumrah,6,2,10,27.5,3488,42.57,Right-hand bat,30,7,3,2568.4,20.63,46.7,rf,W,WIN,seam,yes,20.37837837837838,5.621621621621622

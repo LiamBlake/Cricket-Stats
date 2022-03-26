@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,852,79,IND,1,30,-286,G Gambhir,GP Swann,1,15,40,44.28,2829,54.78,Left-hand bat,0,0,0,228.3,36.25,57.7,rob,4,IND,spin,no,18.43893480257117,19.591368227731863
-2,853,80,IND,1,34,-282,G Gambhir,GP Swann,1,19,41,44.28,2829,54.78,Left-hand bat,1,4,0,228.3,36.25,57.7,rob,0,IND,spin,no,18.43893480257117,19.591368227731863
-2,854,81,IND,1,34,-282,G Gambhir,GP Swann,1,19,42,44.28,2829,54.78,Left-hand bat,2,4,0,228.3,36.25,57.7,rob,W,IND,spin,no,18.43893480257117,19.591368227731863

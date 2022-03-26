@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1376,528,AUS,3,278,-77,MC Henriques,MDK Perera,5,3,9,23.42,346,47.39,Right-hand bat,198,99,0,3354.4,28.35,56.9,rob,0,SRL,spin,no,7.734764542936287,24.923130193905813
-2,1377,529,AUS,3,278,-77,MC Henriques,MDK Perera,5,3,10,23.42,346,47.39,Right-hand bat,199,99,0,3354.4,28.35,56.9,rob,0,SRL,spin,no,7.734764542936287,24.923130193905813
-2,1378,530,AUS,3,278,-77,MC Henriques,MDK Perera,5,3,11,23.42,346,47.39,Right-hand bat,200,99,0,3354.4,28.35,56.9,rob,1,SRL,spin,no,7.734764542936287,24.923130193905813

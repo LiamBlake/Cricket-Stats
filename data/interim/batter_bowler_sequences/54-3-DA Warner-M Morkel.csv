@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,991,17,AUS,0,9,198,DA Warner,M Morkel,2,4,6,48.63,8338,74.65,Left-hand bat,11,5,0,16176,28.2,54.4,rf,0,AUS,seam,yes,16.8675,9.0825
-3,998,24,AUS,0,9,198,DA Warner,M Morkel,2,4,7,48.63,8338,74.65,Left-hand bat,12,5,0,16176,28.2,54.4,rf,0,AUS,seam,yes,16.8675,9.0825
-3,999,25,AUS,0,9,198,DA Warner,M Morkel,2,4,8,48.63,8338,74.65,Left-hand bat,13,5,0,16176,28.2,54.4,rf,2,AUS,seam,yes,16.8675,9.0825
-3,1000,26,AUS,0,11,200,DA Warner,M Morkel,2,6,9,48.63,8338,74.65,Left-hand bat,14,7,0,16176,28.2,54.4,rf,0,AUS,seam,yes,16.8675,9.0825
-3,1001,27,AUS,0,11,200,DA Warner,M Morkel,2,6,10,48.63,8338,74.65,Left-hand bat,15,7,0,16176,28.2,54.4,rf,1,AUS,seam,yes,16.8675,9.0825
-3,1014,40,AUS,0,17,206,DA Warner,M Morkel,2,9,17,48.63,8338,74.65,Left-hand bat,22,11,0,16176,28.2,54.4,rf,4,AUS,seam,yes,16.8675,9.0825
-3,1015,41,AUS,0,21,210,DA Warner,M Morkel,2,13,18,48.63,8338,74.65,Left-hand bat,23,15,0,16176,28.2,54.4,rf,0,AUS,seam,yes,16.8675,9.0825

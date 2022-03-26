@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1592,596,PAK,5,274,97,Sarfraz Ahmed,PVD Chameera,7,0,0,46.91,1424,75.77,Right-hand bat,92,43,1,168.5,21.5,43.2,rf,1,SRL,seam,yes,12.020202020202019,16.31313131313131
-3,1601,605,PAK,5,276,99,Sarfraz Ahmed,PVD Chameera,7,2,2,46.91,1424,75.77,Right-hand bat,95,44,1,168.5,21.5,43.2,rf,0,SRL,seam,yes,12.020202020202019,16.31313131313131
-3,1602,606,PAK,5,276,99,Sarfraz Ahmed,PVD Chameera,7,2,3,46.91,1424,75.77,Right-hand bat,96,44,1,168.5,21.5,43.2,rf,1,SRL,seam,yes,12.020202020202019,16.31313131313131
-3,1606,610,PAK,5,280,103,Sarfraz Ahmed,PVD Chameera,7,3,4,46.91,1424,75.77,Right-hand bat,100,48,1,168.5,21.5,43.2,rf,0,SRL,seam,yes,12.020202020202019,16.31313131313131
-3,1614,618,PAK,5,285,108,Sarfraz Ahmed,PVD Chameera,7,6,8,46.91,1424,75.77,Right-hand bat,101,48,1,168.5,21.5,43.2,rf,1,SRL,seam,yes,12.020202020202019,16.31313131313131
-3,1618,622,PAK,5,289,112,Sarfraz Ahmed,PVD Chameera,7,7,9,46.91,1424,75.77,Right-hand bat,105,52,1,168.5,21.5,43.2,rf,0,SRL,seam,yes,12.020202020202019,16.31313131313131
-3,1619,623,PAK,5,289,112,Sarfraz Ahmed,PVD Chameera,7,7,10,46.91,1424,75.77,Right-hand bat,106,52,1,168.5,21.5,43.2,rf,0,SRL,seam,yes,12.020202020202019,16.31313131313131

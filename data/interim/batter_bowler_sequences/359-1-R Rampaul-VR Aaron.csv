@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,1020,1020,WIN,7,540,540,R Rampaul,VR Aaron,9,0,0,16.41,510,54.7,Left-hand bat,154,86,3,192,43,64,rf,0,IND,seam,yes,14.280078895463513,22.848126232741617
-1,1021,1021,WIN,7,540,540,R Rampaul,VR Aaron,9,0,1,16.41,510,54.7,Left-hand bat,155,86,3,192,43,64,rf,0,IND,seam,yes,14.280078895463513,22.848126232741617
-1,1032,1032,WIN,7,542,542,R Rampaul,VR Aaron,9,0,6,16.41,510,54.7,Left-hand bat,160,87,3,192,43,64,rf,0,IND,seam,yes,14.280078895463513,22.848126232741617
-1,1033,1033,WIN,7,542,542,R Rampaul,VR Aaron,9,0,7,16.41,510,54.7,Left-hand bat,161,87,3,192,43,64,rf,0,IND,seam,yes,14.280078895463513,22.848126232741617
-1,1040,1040,WIN,7,544,544,R Rampaul,VR Aaron,9,1,10,16.41,510,54.7,Left-hand bat,162,87,3,192,43,64,rf,4,IND,seam,yes,14.280078895463513,22.848126232741617
-1,1041,1041,WIN,7,548,548,R Rampaul,VR Aaron,9,5,11,16.41,510,54.7,Left-hand bat,163,91,3,192,43,64,rf,4,IND,seam,yes,14.280078895463513,22.848126232741617
-1,1042,1042,WIN,7,552,552,R Rampaul,VR Aaron,9,9,12,16.41,510,54.7,Left-hand bat,164,95,3,192,43,64,rf,1,IND,seam,yes,14.280078895463513,22.848126232741617

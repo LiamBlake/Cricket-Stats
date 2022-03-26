@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,978,456,ENG,6,208,-69,SCJ Broad,DL Vettori,8,0,0,23.4,248,47.17,Left-hand bat,56,22,3,19308.5,34.38,77.2,lo,0,ENG,spin,yes,24.31213017751479,8.957100591715975
-2,979,457,ENG,6,208,-69,SCJ Broad,DL Vettori,8,0,1,23.4,248,47.17,Left-hand bat,57,22,3,19308.5,34.38,77.2,lo,0,ENG,spin,yes,24.31213017751479,8.957100591715975
-2,980,458,ENG,6,208,-69,SCJ Broad,DL Vettori,8,0,2,23.4,248,47.17,Left-hand bat,58,22,3,19308.5,34.38,77.2,lo,0,ENG,spin,yes,24.31213017751479,8.957100591715975
-2,981,459,ENG,6,208,-69,SCJ Broad,DL Vettori,8,0,3,23.4,248,47.17,Left-hand bat,59,22,3,19308.5,34.38,77.2,lo,0,ENG,spin,yes,24.31213017751479,8.957100591715975
-2,1003,481,ENG,6,221,-56,SCJ Broad,DL Vettori,8,4,14,23.4,248,47.17,Left-hand bat,68,29,3,19308.5,34.38,77.2,lo,2,ENG,spin,yes,24.31213017751479,8.957100591715975
-2,1004,482,ENG,6,223,-54,SCJ Broad,DL Vettori,8,6,15,23.4,248,47.17,Left-hand bat,69,31,3,19308.5,34.38,77.2,lo,0,ENG,spin,yes,24.31213017751479,8.957100591715975
-2,1005,483,ENG,6,223,-54,SCJ Broad,DL Vettori,8,6,16,23.4,248,47.17,Left-hand bat,70,31,3,19308.5,34.38,77.2,lo,0,ENG,spin,yes,24.31213017751479,8.957100591715975
-2,1006,484,ENG,6,223,-54,SCJ Broad,DL Vettori,8,6,17,23.4,248,47.17,Left-hand bat,71,31,3,19308.5,34.38,77.2,lo,0,ENG,spin,yes,24.31213017751479,8.957100591715975

@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1972,1043,AUS,8,528,2,MG Johnson,IK Pathan,10,0,0,56,187,59.89,Left-hand bat,208,103,3,5754.2,31.41,57.5,lmf,0,AUS,seam,no,39.11934156378601,13.039780521262003
-2,1973,1044,AUS,8,528,2,MG Johnson,IK Pathan,10,0,1,56,187,59.89,Left-hand bat,209,103,3,5754.2,31.41,57.5,lmf,1wd,AUS,seam,no,39.11934156378601,13.039780521262003
-2,1974,1045,AUS,8,529,3,MG Johnson,IK Pathan,10,0,1,56,187,59.89,Left-hand bat,210,104,3,5754.2,31.41,57.5,lmf,0,AUS,seam,no,39.11934156378601,13.039780521262003
-2,1975,1046,AUS,8,529,3,MG Johnson,IK Pathan,10,0,2,56,187,59.89,Left-hand bat,211,104,3,5754.2,31.41,57.5,lmf,1lb,AUS,seam,no,39.11934156378601,13.039780521262003
-2,1987,1058,AUS,8,542,16,MG Johnson,IK Pathan,10,4,10,56,187,59.89,Left-hand bat,216,111,3,5754.2,31.41,57.5,lmf,0,AUS,seam,no,39.11934156378601,13.039780521262003
-2,1988,1059,AUS,8,542,16,MG Johnson,IK Pathan,10,4,11,56,187,59.89,Left-hand bat,217,111,3,5754.2,31.41,57.5,lmf,0,AUS,seam,no,39.11934156378601,13.039780521262003
-2,1989,1060,AUS,8,542,16,MG Johnson,IK Pathan,10,4,12,56,187,59.89,Left-hand bat,218,111,3,5754.2,31.41,57.5,lmf,1,AUS,seam,no,39.11934156378601,13.039780521262003

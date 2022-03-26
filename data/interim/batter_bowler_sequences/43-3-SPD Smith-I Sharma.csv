@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1081,265,AUS,4,143,298,SPD Smith,I Sharma,3,59,112,60.34,8510,57.43,Right-hand bat,13,6,0,14388.3,36.62,66.9,rfm,0,IND,seam,yes,4.258125000000001,14.666875000000001
-3,1082,266,AUS,4,143,298,SPD Smith,I Sharma,3,59,113,60.34,8510,57.43,Right-hand bat,14,6,0,14388.3,36.62,66.9,rfm,0,IND,seam,yes,4.258125000000001,14.666875000000001
-3,1083,267,AUS,4,143,298,SPD Smith,I Sharma,3,59,114,60.34,8510,57.43,Right-hand bat,15,6,0,14388.3,36.62,66.9,rfm,0,IND,seam,yes,4.258125000000001,14.666875000000001
-3,1084,268,AUS,4,143,298,SPD Smith,I Sharma,3,59,115,60.34,8510,57.43,Right-hand bat,16,6,0,14388.3,36.62,66.9,rfm,0,IND,seam,yes,4.258125000000001,14.666875000000001
-3,1085,269,AUS,4,143,298,SPD Smith,I Sharma,3,59,116,60.34,8510,57.43,Right-hand bat,17,6,0,14388.3,36.62,66.9,rfm,0,IND,seam,yes,4.258125000000001,14.666875000000001

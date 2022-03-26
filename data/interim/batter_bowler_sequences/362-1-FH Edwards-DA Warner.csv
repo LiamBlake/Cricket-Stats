@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,825,825,WIN,8,405,405,FH Edwards,DA Warner,10,0,0,6.55,1332,28.52,Right-hand bat,41,27,1,78,29,39,rls,0,WIN,spin,yes,25.36326530612245,8.779591836734696
-1,834,834,WIN,8,407,407,FH Edwards,DA Warner,10,0,2,6.55,1332,28.52,Right-hand bat,44,28,1,78,29,39,rls,0,WIN,spin,yes,25.36326530612245,8.779591836734696
-1,835,835,WIN,8,407,407,FH Edwards,DA Warner,10,0,3,6.55,1332,28.52,Right-hand bat,45,28,1,78,29,39,rls,4,WIN,spin,yes,25.36326530612245,8.779591836734696
-1,836,836,WIN,8,411,411,FH Edwards,DA Warner,10,4,4,6.55,1332,28.52,Right-hand bat,46,32,1,78,29,39,rls,4,WIN,spin,yes,25.36326530612245,8.779591836734696
-1,837,837,WIN,8,415,415,FH Edwards,DA Warner,10,8,5,6.55,1332,28.52,Right-hand bat,47,36,1,78,29,39,rls,1,WIN,spin,yes,25.36326530612245,8.779591836734696
-1,846,846,WIN,8,421,421,FH Edwards,DA Warner,10,10,11,6.55,1332,28.52,Right-hand bat,50,40,1,78,29,39,rls,W,WIN,spin,yes,25.36326530612245,8.779591836734696

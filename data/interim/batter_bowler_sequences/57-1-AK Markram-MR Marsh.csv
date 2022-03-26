@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,157,157,RSA,1,81,81,AK Markram,MR Marsh,2,47,82,55.55,1549,64.55,Right-hand bat,1,1,0,2340.1,42.06,70.9,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889
-1,158,158,RSA,1,81,81,AK Markram,MR Marsh,2,47,83,55.55,1549,64.55,Right-hand bat,2,1,0,2340.1,42.06,70.9,rm,0,RSA,seam,yes,24.416666666666668,8.13888888888889
-1,159,159,RSA,1,81,81,AK Markram,MR Marsh,2,47,84,55.55,1549,64.55,Right-hand bat,3,1,0,2340.1,42.06,70.9,rm,1,RSA,seam,yes,24.416666666666668,8.13888888888889
-1,161,161,RSA,1,83,83,AK Markram,MR Marsh,2,48,85,55.55,1549,64.55,Right-hand bat,5,3,0,2340.1,42.06,70.9,rm,1,RSA,seam,yes,24.416666666666668,8.13888888888889

@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1685,902,SRL,9,381,78,RMS Eranga,JDS Neesham,10,22,46,16.9,427,43.55,Right-hand bat,42,20,1,588.5,39.87,74.1,rmf,4,NZL,seam,yes,30.9541015625,3.2021484375
-3,1686,903,SRL,9,385,82,RMS Eranga,JDS Neesham,10,26,47,16.9,427,43.55,Right-hand bat,43,24,1,588.5,39.87,74.1,rmf,0,NZL,seam,yes,30.9541015625,3.2021484375
-3,1687,904,SRL,9,385,82,RMS Eranga,JDS Neesham,10,26,48,16.9,427,43.55,Right-hand bat,44,24,1,588.5,39.87,74.1,rmf,4,NZL,seam,yes,30.9541015625,3.2021484375
-3,1688,905,SRL,9,389,86,RMS Eranga,JDS Neesham,10,30,49,16.9,427,43.55,Right-hand bat,45,28,1,588.5,39.87,74.1,rmf,0,NZL,seam,yes,30.9541015625,3.2021484375
-3,1689,906,SRL,9,389,86,RMS Eranga,JDS Neesham,10,30,50,16.9,427,43.55,Right-hand bat,46,28,1,588.5,39.87,74.1,rmf,0,NZL,seam,yes,30.9541015625,3.2021484375
-3,1690,907,SRL,9,389,86,RMS Eranga,JDS Neesham,10,30,51,16.9,427,43.55,Right-hand bat,47,28,1,588.5,39.87,74.1,rmf,1,NZL,seam,yes,30.9541015625,3.2021484375

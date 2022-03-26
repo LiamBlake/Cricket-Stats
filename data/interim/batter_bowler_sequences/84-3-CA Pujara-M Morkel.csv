@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,990,126,IND,2,52,45,CA Pujara,M Morkel,4,1,4,50.51,9475,47.45,Right-hand bat,30,9,0,15954,28.08,54.2,rf,0,IND,seam,yes,20.125,0
-3,991,127,IND,2,52,45,CA Pujara,M Morkel,4,1,5,50.51,9475,47.45,Right-hand bat,31,9,0,15954,28.08,54.2,rf,0,IND,seam,yes,20.125,0
-3,992,128,IND,2,52,45,CA Pujara,M Morkel,4,1,6,50.51,9475,47.45,Right-hand bat,32,9,0,15954,28.08,54.2,rf,0,IND,seam,yes,20.125,0
-3,993,129,IND,2,52,45,CA Pujara,M Morkel,4,1,7,50.51,9475,47.45,Right-hand bat,33,9,0,15954,28.08,54.2,rf,4lb,IND,seam,yes,20.125,0
-3,994,130,IND,2,56,49,CA Pujara,M Morkel,4,1,8,50.51,9475,47.45,Right-hand bat,34,9,0,15954,28.08,54.2,rf,0,IND,seam,yes,20.125,0
-3,995,131,IND,2,56,49,CA Pujara,M Morkel,4,1,9,50.51,9475,47.45,Right-hand bat,35,9,0,15954,28.08,54.2,rf,1wd,IND,seam,yes,20.125,0
-3,996,132,IND,2,57,50,CA Pujara,M Morkel,4,1,9,50.51,9475,47.45,Right-hand bat,36,10,0,15954,28.08,54.2,rf,W,IND,seam,yes,20.125,0

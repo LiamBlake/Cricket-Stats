@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1819,0,NZL,0,0,10,TWM Latham,Rahat Ali,1,0,0,48.83,1362,43.02,Left-hand bat,0,0,0,2064.4,38.44,76.5,lfm,1,NZL,seam,yes,13.96712802768166,22.56228373702422
-3,1832,13,NZL,0,14,24,TWM Latham,Rahat Ali,1,1,7,48.83,1362,43.02,Left-hand bat,7,14,0,2064.4,38.44,76.5,lfm,0,NZL,seam,yes,13.96712802768166,22.56228373702422
-3,1833,14,NZL,0,14,24,TWM Latham,Rahat Ali,1,1,8,48.83,1362,43.02,Left-hand bat,8,14,0,2064.4,38.44,76.5,lfm,0,NZL,seam,yes,13.96712802768166,22.56228373702422
-3,1834,15,NZL,0,14,24,TWM Latham,Rahat Ali,1,1,9,48.83,1362,43.02,Left-hand bat,9,14,0,2064.4,38.44,76.5,lfm,0,NZL,seam,yes,13.96712802768166,22.56228373702422
-3,1835,16,NZL,0,14,24,TWM Latham,Rahat Ali,1,1,10,48.83,1362,43.02,Left-hand bat,10,14,0,2064.4,38.44,76.5,lfm,0,NZL,seam,yes,13.96712802768166,22.56228373702422
-3,1836,17,NZL,0,14,24,TWM Latham,Rahat Ali,1,1,11,48.83,1362,43.02,Left-hand bat,11,14,0,2064.4,38.44,76.5,lfm,0,NZL,seam,yes,13.96712802768166,22.56228373702422

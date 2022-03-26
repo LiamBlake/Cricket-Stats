@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2009,0,ENG,0,0,-345,AJ Strauss,M Morkel,1,0,0,40.91,14385,48.91,Left-hand bat,0,0,0,8328.2,30.36,55.5,rf,1wd,ENG,seam,no,26.966250000000002,4.758750000000001
-4,2010,1,ENG,0,1,-344,AJ Strauss,M Morkel,1,0,0,40.91,14385,48.91,Left-hand bat,1,1,0,8328.2,30.36,55.5,rf,0,ENG,seam,no,26.966250000000002,4.758750000000001
-4,2011,2,ENG,0,1,-344,AJ Strauss,M Morkel,1,0,1,40.91,14385,48.91,Left-hand bat,2,1,0,8328.2,30.36,55.5,rf,0,ENG,seam,no,26.966250000000002,4.758750000000001
-4,2012,3,ENG,0,1,-344,AJ Strauss,M Morkel,1,0,2,40.91,14385,48.91,Left-hand bat,3,1,0,8328.2,30.36,55.5,rf,1,ENG,seam,no,26.966250000000002,4.758750000000001
-4,2014,5,ENG,0,5,-340,AJ Strauss,M Morkel,1,1,3,40.91,14385,48.91,Left-hand bat,5,5,0,8328.2,30.36,55.5,rf,0,ENG,seam,no,26.966250000000002,4.758750000000001
-4,2015,6,ENG,0,5,-340,AJ Strauss,M Morkel,1,1,4,40.91,14385,48.91,Left-hand bat,6,5,0,8328.2,30.36,55.5,rf,0,ENG,seam,no,26.966250000000002,4.758750000000001

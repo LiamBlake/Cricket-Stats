@@ -1,3 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1586,62,WIN,1,16,-307,DM Bravo,Mohammed Shami,2,5,30,40.66,6534,46.05,Left-hand bat,14,1,0,2856.3,35.11,56,rf,0,WIN,seam,no,15.918367346938778,21.22448979591837
-3,1587,63,WIN,1,16,-307,DM Bravo,Mohammed Shami,2,5,31,40.66,6534,46.05,Left-hand bat,15,1,0,2856.3,35.11,56,rf,1,WIN,seam,no,15.918367346938778,21.22448979591837

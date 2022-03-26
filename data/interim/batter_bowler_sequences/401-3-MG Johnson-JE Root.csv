@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1377,477,AUS,6,310,469,MG Johnson,JE Root,8,0,2,23.21,2579,58.51,Left-hand bat,87,57,0,288,44.33,96,rob,0,AUS,spin,yes,22.89335281227173,4.430971512052593
-3,1378,478,AUS,6,310,469,MG Johnson,JE Root,8,0,3,23.21,2579,58.51,Left-hand bat,88,57,0,288,44.33,96,rob,0,AUS,spin,yes,22.89335281227173,4.430971512052593
-3,1379,479,AUS,6,310,469,MG Johnson,JE Root,8,0,4,23.21,2579,58.51,Left-hand bat,89,57,0,288,44.33,96,rob,0,AUS,spin,yes,22.89335281227173,4.430971512052593

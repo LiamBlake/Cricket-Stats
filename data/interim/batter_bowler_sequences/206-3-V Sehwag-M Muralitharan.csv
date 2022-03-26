@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1331,41,IND,0,43,-104,V Sehwag,M Muralitharan,2,20,16,52.62,6658,77.45,Right-hand bat,3,5,0,40998.2,21.96,54.2,rob,0,SRL,spin,yes,12.140625,20.234375
-3,1332,42,IND,0,43,-104,V Sehwag,M Muralitharan,2,20,17,52.62,6658,77.45,Right-hand bat,4,5,0,40998.2,21.96,54.2,rob,0,SRL,spin,yes,12.140625,20.234375
-3,1333,43,IND,0,43,-104,V Sehwag,M Muralitharan,2,20,18,52.62,6658,77.45,Right-hand bat,5,5,0,40998.2,21.96,54.2,rob,0,SRL,spin,yes,12.140625,20.234375
-3,1340,50,IND,0,51,-96,V Sehwag,M Muralitharan,2,25,21,52.62,6658,77.45,Right-hand bat,6,5,0,40998.2,21.96,54.2,rob,1,SRL,spin,yes,12.140625,20.234375
-3,1343,53,IND,0,53,-94,V Sehwag,M Muralitharan,2,26,22,52.62,6658,77.45,Right-hand bat,9,7,0,40998.2,21.96,54.2,rob,0,SRL,spin,yes,12.140625,20.234375
-3,1344,54,IND,0,53,-94,V Sehwag,M Muralitharan,2,26,23,52.62,6658,77.45,Right-hand bat,10,7,0,40998.2,21.96,54.2,rob,0,SRL,spin,yes,12.140625,20.234375
-3,1345,55,IND,0,53,-94,V Sehwag,M Muralitharan,2,26,24,52.62,6658,77.45,Right-hand bat,11,7,0,40998.2,21.96,54.2,rob,4,SRL,spin,yes,12.140625,20.234375

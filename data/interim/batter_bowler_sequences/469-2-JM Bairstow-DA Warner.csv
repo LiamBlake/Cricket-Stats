@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,430,316,ENG,3,215,155,JM Bairstow,DA Warner,5,54,78,28,1343,50.03,Right-hand bat,0,0,0,330,63.5,82.5,rls,4,ENG,spin,yes,24.275862068965516,0
-2,431,317,ENG,3,219,159,JM Bairstow,DA Warner,5,58,79,28,1343,50.03,Right-hand bat,1,4,0,330,63.5,82.5,rls,0,ENG,spin,yes,24.275862068965516,0
-2,432,318,ENG,3,219,159,JM Bairstow,DA Warner,5,58,80,28,1343,50.03,Right-hand bat,2,4,0,330,63.5,82.5,rls,1,ENG,spin,yes,24.275862068965516,0
-2,445,331,ENG,3,229,169,JM Bairstow,DA Warner,5,59,81,28,1343,50.03,Right-hand bat,9,11,0,330,63.5,82.5,rls,0,ENG,spin,yes,24.275862068965516,0
-2,446,332,ENG,3,229,169,JM Bairstow,DA Warner,5,59,82,28,1343,50.03,Right-hand bat,10,11,0,330,63.5,82.5,rls,1,ENG,spin,yes,24.275862068965516,0
-2,454,340,ENG,3,233,173,JM Bairstow,DA Warner,5,63,85,28,1343,50.03,Right-hand bat,12,12,0,330,63.5,82.5,rls,0,ENG,spin,yes,24.275862068965516,0
-2,455,341,ENG,3,233,173,JM Bairstow,DA Warner,5,63,86,28,1343,50.03,Right-hand bat,13,12,0,330,63.5,82.5,rls,0,ENG,spin,yes,24.275862068965516,0
-2,456,342,ENG,3,233,173,JM Bairstow,DA Warner,5,63,87,28,1343,50.03,Right-hand bat,14,12,0,330,63.5,82.5,rls,1,ENG,spin,yes,24.275862068965516,0

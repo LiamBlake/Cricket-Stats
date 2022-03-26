@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2019,400,WIN,5,192,-267,D Ramdin,JL Pattinson,6,38,52,25.54,5794,48.94,Right-hand bat,68,23,1,2922.3,25.75,47.1,rfm,0,AUS,seam,yes,34.162721893491124,15.183431952662723
-4,2020,401,WIN,5,192,-267,D Ramdin,JL Pattinson,6,38,53,25.54,5794,48.94,Right-hand bat,69,23,1,2922.3,25.75,47.1,rfm,0,AUS,seam,yes,34.162721893491124,15.183431952662723
-4,2021,402,WIN,5,192,-267,D Ramdin,JL Pattinson,6,38,54,25.54,5794,48.94,Right-hand bat,70,23,1,2922.3,25.75,47.1,rfm,3,AUS,seam,yes,34.162721893491124,15.183431952662723
-4,2029,410,WIN,5,198,-261,D Ramdin,JL Pattinson,6,42,59,25.54,5794,48.94,Right-hand bat,72,26,1,2922.3,25.75,47.1,rfm,4lb,AUS,seam,yes,34.162721893491124,15.183431952662723
-4,2030,411,WIN,5,202,-257,D Ramdin,JL Pattinson,6,42,60,25.54,5794,48.94,Right-hand bat,73,26,1,2922.3,25.75,47.1,rfm,0,AUS,seam,yes,34.162721893491124,15.183431952662723
-4,2031,412,WIN,5,202,-257,D Ramdin,JL Pattinson,6,42,61,25.54,5794,48.94,Right-hand bat,74,26,1,2922.3,25.75,47.1,rfm,3,AUS,seam,yes,34.162721893491124,15.183431952662723
-4,2034,415,WIN,5,206,-253,D Ramdin,JL Pattinson,6,45,62,25.54,5794,48.94,Right-hand bat,77,30,1,2922.3,25.75,47.1,rfm,0,AUS,seam,yes,34.162721893491124,15.183431952662723

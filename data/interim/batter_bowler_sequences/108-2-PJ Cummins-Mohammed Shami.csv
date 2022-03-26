@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,938,410,AUS,6,145,-105,PJ Cummins,Mohammed Shami,8,3,6,20.15,1024,39.35,Right-hand bat,72,32,0,6960.2,29.75,52.3,rf,1lb,IND,seam,no,17.59875,9.47625
-2,941,413,AUS,6,147,-103,PJ Cummins,Mohammed Shami,8,3,7,20.15,1024,39.35,Right-hand bat,75,33,0,6960.2,29.75,52.3,rf,1,IND,seam,no,17.59875,9.47625
-2,943,415,AUS,6,149,-101,PJ Cummins,Mohammed Shami,8,4,8,20.15,1024,39.35,Right-hand bat,77,35,0,6960.2,29.75,52.3,rf,0,IND,seam,no,17.59875,9.47625
-2,952,424,AUS,6,151,-99,PJ Cummins,Mohammed Shami,8,4,11,20.15,1024,39.35,Right-hand bat,80,36,0,6960.2,29.75,52.3,rf,1,IND,seam,no,17.59875,9.47625

@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1626,683,PAK,3,293,-351,Misbah-ul-Haq,TM Dilshan,5,17,65,41.94,1832,38.91,Right-hand bat,2,1,0,816.2,36.9,74.3,rob,2,PAK,spin,no,38.34567901234568,47.932098765432094
-2,1627,684,PAK,3,295,-349,Misbah-ul-Haq,TM Dilshan,5,19,66,41.94,1832,38.91,Right-hand bat,3,3,0,816.2,36.9,74.3,rob,0,PAK,spin,no,38.34567901234568,47.932098765432094
-2,1628,685,PAK,3,295,-349,Misbah-ul-Haq,TM Dilshan,5,19,67,41.94,1832,38.91,Right-hand bat,4,3,0,816.2,36.9,74.3,rob,1,PAK,spin,no,38.34567901234568,47.932098765432094

@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1676,183,SRL,5,79,68,AD Mathews,A Mishra,7,0,3,36.15,786,59.79,Right-hand bat,3,1,0,2850,39.69,79.1,rls,0,SRL,spin,yes,9.051428571428572,30.54857142857143
-3,1677,184,SRL,5,79,68,AD Mathews,A Mishra,7,0,4,36.15,786,59.79,Right-hand bat,4,1,0,2850,39.69,79.1,rls,0,SRL,spin,yes,9.051428571428572,30.54857142857143
-3,1678,185,SRL,5,79,68,AD Mathews,A Mishra,7,0,5,36.15,786,59.79,Right-hand bat,5,1,0,2850,39.69,79.1,rls,0,SRL,spin,yes,9.051428571428572,30.54857142857143
-3,1685,192,SRL,5,87,76,AD Mathews,A Mishra,7,5,8,36.15,786,59.79,Right-hand bat,6,1,0,2850,39.69,79.1,rls,W,SRL,spin,yes,9.051428571428572,30.54857142857143

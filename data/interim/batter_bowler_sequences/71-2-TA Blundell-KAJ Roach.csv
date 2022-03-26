@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,888,614,NZL,6,302,168,TA Blundell,KAJ Roach,8,4,15,NA,180,59.44,Right-hand bat,112,73,3,7872.5,29.44,54.7,rfm,0,WIN,seam,yes,30.080856123662304,3.4708680142687274
-2,889,615,NZL,6,302,168,TA Blundell,KAJ Roach,8,4,16,NA,180,59.44,Right-hand bat,113,73,3,7872.5,29.44,54.7,rfm,0,WIN,seam,yes,30.080856123662304,3.4708680142687274
-2,1082,808,NZL,9,474,340,TA Blundell,KAJ Roach,8,75,118,NA,180,59.44,Right-hand bat,129,82,3,7872.5,29.44,54.7,rfm,2,WIN,seam,yes,30.080856123662304,3.4708680142687274
-2,1083,809,NZL,9,476,342,TA Blundell,KAJ Roach,8,77,119,NA,180,59.44,Right-hand bat,130,84,3,7872.5,29.44,54.7,rfm,0,WIN,seam,yes,30.080856123662304,3.4708680142687274
-2,1084,810,NZL,9,476,342,TA Blundell,KAJ Roach,8,77,120,NA,180,59.44,Right-hand bat,131,84,3,7872.5,29.44,54.7,rfm,1,WIN,seam,yes,30.080856123662304,3.4708680142687274

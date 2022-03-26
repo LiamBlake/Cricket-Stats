@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,925,274,IND,7,195,-109,I Sharma,MN Samuels,9,15,26,11.5,1249,29.46,Right-hand bat,7,4,0,2136,82.28,152.5,rob,1,IND,spin,no,11.074285714285715,16.611428571428572
-2,929,278,IND,7,197,-107,I Sharma,MN Samuels,9,16,27,11.5,1249,29.46,Right-hand bat,11,6,0,2136,82.28,152.5,rob,0,IND,spin,no,11.074285714285715,16.611428571428572
-2,940,289,IND,7,201,-103,I Sharma,MN Samuels,9,16,33,11.5,1249,29.46,Right-hand bat,16,9,0,2136,82.28,152.5,rob,0,IND,spin,no,11.074285714285715,16.611428571428572
-2,941,290,IND,7,201,-103,I Sharma,MN Samuels,9,16,34,11.5,1249,29.46,Right-hand bat,17,9,0,2136,82.28,152.5,rob,0,IND,spin,no,11.074285714285715,16.611428571428572
-2,948,297,IND,7,203,-101,I Sharma,MN Samuels,9,17,39,11.5,1249,29.46,Right-hand bat,18,9,0,2136,82.28,152.5,rob,0,IND,spin,no,11.074285714285715,16.611428571428572
-2,949,298,IND,7,203,-101,I Sharma,MN Samuels,9,17,40,11.5,1249,29.46,Right-hand bat,19,9,0,2136,82.28,152.5,rob,W,IND,spin,no,11.074285714285715,16.611428571428572

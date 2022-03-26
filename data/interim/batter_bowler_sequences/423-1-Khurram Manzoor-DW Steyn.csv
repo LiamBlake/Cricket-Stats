@@ -1,3 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,0,0,PAK,0,0,0,Khurram Manzoor,DW Steyn,1,0,0,31.42,1354,44.09,Right-hand bat,0,0,0,14082,22.65,41.4,rf,0,PAK,seam,yes,10.466666666666667,19.886666666666667
-1,1,1,PAK,0,0,0,Khurram Manzoor,DW Steyn,1,0,1,31.42,1354,44.09,Right-hand bat,1,0,0,14082,22.65,41.4,rf,W,PAK,seam,yes,10.466666666666667,19.886666666666667

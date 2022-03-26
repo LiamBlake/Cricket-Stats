@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,666,10,RSA,0,2,-336,JA Rudolph,NLTC Perera,2,0,2,34.71,5065,43.17,Left-hand bat,4,1,0,564,53,80.5,rmf,0,RSA,seam,no,16.6725,8.9775
-2,667,11,RSA,0,2,-336,JA Rudolph,NLTC Perera,2,0,3,34.71,5065,43.17,Left-hand bat,5,1,0,564,53,80.5,rmf,0,RSA,seam,no,16.6725,8.9775
-2,676,20,RSA,0,10,-328,JA Rudolph,NLTC Perera,2,0,5,34.71,5065,43.17,Left-hand bat,8,2,0,564,53,80.5,rmf,0,RSA,seam,no,16.6725,8.9775
-2,677,21,RSA,0,10,-328,JA Rudolph,NLTC Perera,2,0,6,34.71,5065,43.17,Left-hand bat,9,2,0,564,53,80.5,rmf,0,RSA,seam,no,16.6725,8.9775
-2,678,22,RSA,0,10,-328,JA Rudolph,NLTC Perera,2,0,7,34.71,5065,43.17,Left-hand bat,10,2,0,564,53,80.5,rmf,0,RSA,seam,no,16.6725,8.9775
-2,679,23,RSA,0,10,-328,JA Rudolph,NLTC Perera,2,0,8,34.71,5065,43.17,Left-hand bat,11,2,0,564,53,80.5,rmf,4,RSA,seam,no,16.6725,8.9775
-2,698,42,RSA,0,22,-316,JA Rudolph,NLTC Perera,2,7,11,34.71,5065,43.17,Left-hand bat,12,6,0,564,53,80.5,rmf,0,RSA,seam,no,16.6725,8.9775
-2,699,43,RSA,0,22,-316,JA Rudolph,NLTC Perera,2,7,12,34.71,5065,43.17,Left-hand bat,13,6,0,564,53,80.5,rmf,W,RSA,seam,no,16.6725,8.9775

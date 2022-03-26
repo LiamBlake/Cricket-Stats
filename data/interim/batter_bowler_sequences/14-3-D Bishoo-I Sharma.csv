@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1950,426,WIN,8,196,-127,D Bishoo,I Sharma,10,27,48,16.72,679,44.32,Left-hand bat,64,23,1,13602.3,37.06,67.3,rfm,0,WIN,seam,no,15.918367346938778,21.22448979591837
-3,1951,427,WIN,8,196,-127,D Bishoo,I Sharma,10,27,49,16.72,679,44.32,Left-hand bat,65,23,1,13602.3,37.06,67.3,rfm,0,WIN,seam,no,15.918367346938778,21.22448979591837
-3,1952,428,WIN,8,196,-127,D Bishoo,I Sharma,10,27,50,16.72,679,44.32,Left-hand bat,66,23,1,13602.3,37.06,67.3,rfm,0,WIN,seam,no,15.918367346938778,21.22448979591837
-3,1953,429,WIN,8,196,-127,D Bishoo,I Sharma,10,27,51,16.72,679,44.32,Left-hand bat,67,23,1,13602.3,37.06,67.3,rfm,3,WIN,seam,no,15.918367346938778,21.22448979591837

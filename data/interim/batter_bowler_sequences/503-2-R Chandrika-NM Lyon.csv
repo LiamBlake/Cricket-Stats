@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,780,79,WIN,1,27,-556,R Chandrika,NM Lyon,2,18,39,6.25,70,35.71,Right-hand bat,0,0,0,11262.5,33.78,64.3,rob,0,AUS,spin,no,26.5,9.9375
-2,781,80,WIN,1,27,-556,R Chandrika,NM Lyon,2,18,40,6.25,70,35.71,Right-hand bat,1,0,0,11262.5,33.78,64.3,rob,1,AUS,spin,no,26.5,9.9375
-2,819,118,WIN,1,58,-525,R Chandrika,NM Lyon,2,25,55,6.25,70,35.71,Right-hand bat,18,8,0,11262.5,33.78,64.3,rob,0,AUS,spin,no,26.5,9.9375
-2,820,119,WIN,1,58,-525,R Chandrika,NM Lyon,2,25,56,6.25,70,35.71,Right-hand bat,19,8,0,11262.5,33.78,64.3,rob,0,AUS,spin,no,26.5,9.9375
-2,821,120,WIN,1,58,-525,R Chandrika,NM Lyon,2,25,57,6.25,70,35.71,Right-hand bat,20,8,0,11262.5,33.78,64.3,rob,W,AUS,spin,no,26.5,9.9375

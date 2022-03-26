@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1039,345,WIN,8,128,-200,R Rampaul,DA Warner,10,3,9,16.89,570,56.31,Left-hand bat,24,17,1,132,31.33,44,rls,0,WIN,spin,no,9.61625,17.85875
-2,1040,346,WIN,8,128,-200,R Rampaul,DA Warner,10,3,10,16.89,570,56.31,Left-hand bat,25,17,1,132,31.33,44,rls,0,WIN,spin,no,9.61625,17.85875
-2,1041,347,WIN,8,128,-200,R Rampaul,DA Warner,10,3,11,16.89,570,56.31,Left-hand bat,26,17,1,132,31.33,44,rls,0,WIN,spin,no,9.61625,17.85875
-2,1042,348,WIN,8,128,-200,R Rampaul,DA Warner,10,3,12,16.89,570,56.31,Left-hand bat,27,17,1,132,31.33,44,rls,0,WIN,spin,no,9.61625,17.85875
-2,1043,349,WIN,8,128,-200,R Rampaul,DA Warner,10,3,13,16.89,570,56.31,Left-hand bat,28,17,1,132,31.33,44,rls,0,WIN,spin,no,9.61625,17.85875
-2,1044,350,WIN,8,128,-200,R Rampaul,DA Warner,10,3,14,16.89,570,56.31,Left-hand bat,29,17,1,132,31.33,44,rls,4,WIN,spin,no,9.61625,17.85875

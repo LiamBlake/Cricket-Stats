@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,519,519,IND,5,316,316,WP Saha,CBRLS Kumara,7,7,26,32.7,2453,45.33,Right-hand bat,79,63,0,1458,45.3,63.3,rf,0,IND,seam,yes,9.814444444444444,16.952222222222222
-1,520,520,IND,5,316,316,WP Saha,CBRLS Kumara,7,7,27,32.7,2453,45.33,Right-hand bat,80,63,0,1458,45.3,63.3,rf,1,IND,seam,yes,9.814444444444444,16.952222222222222
-1,530,530,IND,6,322,322,WP Saha,CBRLS Kumara,7,11,32,32.7,2453,45.33,Right-hand bat,84,66,0,1458,45.3,63.3,rf,4lb,IND,seam,yes,9.814444444444444,16.952222222222222
-1,531,531,IND,6,326,326,WP Saha,CBRLS Kumara,7,11,33,32.7,2453,45.33,Right-hand bat,85,66,0,1458,45.3,63.3,rf,1,IND,seam,yes,9.814444444444444,16.952222222222222
-1,546,546,IND,6,336,336,WP Saha,CBRLS Kumara,7,13,38,32.7,2453,45.33,Right-hand bat,94,70,0,1458,45.3,63.3,rf,0,IND,seam,yes,9.814444444444444,16.952222222222222
-1,547,547,IND,6,336,336,WP Saha,CBRLS Kumara,7,13,39,32.7,2453,45.33,Right-hand bat,95,70,0,1458,45.3,63.3,rf,1,IND,seam,yes,9.814444444444444,16.952222222222222

@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,731,731,AUS,6,378,378,MG Johnson,JP Duminy,8,61,116,25.82,803,54.66,Left-hand bat,0,0,0,24,14,24,rob,0,AUS,spin,yes,31.512110726643602,6.752595155709343
-1,732,732,AUS,6,378,378,MG Johnson,JP Duminy,8,61,117,25.82,803,54.66,Left-hand bat,1,0,0,24,14,24,rob,0,AUS,spin,yes,31.512110726643602,6.752595155709343
-1,733,733,AUS,6,378,378,MG Johnson,JP Duminy,8,61,118,25.82,803,54.66,Left-hand bat,2,0,0,24,14,24,rob,1,AUS,spin,yes,31.512110726643602,6.752595155709343

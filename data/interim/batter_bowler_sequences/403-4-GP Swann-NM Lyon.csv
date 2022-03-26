@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2269,591,ENG,7,336,-167,GP Swann,NM Lyon,9,0,0,22.09,1791,76.49,Right-hand bat,116,63,2,6222.5,33.04,65.5,rob,0,AUS,spin,no,30.38734567901234,7.334876543209877
-4,2270,592,ENG,7,336,-167,GP Swann,NM Lyon,9,0,1,22.09,1791,76.49,Right-hand bat,117,63,2,6222.5,33.04,65.5,rob,0,AUS,spin,no,30.38734567901234,7.334876543209877
-4,2271,593,ENG,7,336,-167,GP Swann,NM Lyon,9,0,2,22.09,1791,76.49,Right-hand bat,118,63,2,6222.5,33.04,65.5,rob,4,AUS,spin,no,30.38734567901234,7.334876543209877
-4,2272,594,ENG,7,340,-163,GP Swann,NM Lyon,9,4,3,22.09,1791,76.49,Right-hand bat,119,67,2,6222.5,33.04,65.5,rob,1wd,AUS,spin,no,30.38734567901234,7.334876543209877
-4,2273,595,ENG,7,341,-162,GP Swann,NM Lyon,9,4,3,22.09,1791,76.49,Right-hand bat,120,68,2,6222.5,33.04,65.5,rob,0,AUS,spin,no,30.38734567901234,7.334876543209877
-4,2280,602,ENG,7,347,-156,GP Swann,NM Lyon,9,4,4,22.09,1791,76.49,Right-hand bat,121,68,2,6222.5,33.04,65.5,rob,0,AUS,spin,no,30.38734567901234,7.334876543209877
-4,2281,603,ENG,7,347,-156,GP Swann,NM Lyon,9,4,5,22.09,1791,76.49,Right-hand bat,122,68,2,6222.5,33.04,65.5,rob,W,AUS,spin,no,30.38734567901234,7.334876543209877

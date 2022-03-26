@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1913,291,ZIM,4,156,-277,Sikandar Raza,KC Brathwaite,6,0,3,36.75,1011,58.16,Right-hand bat,57,28,1,1218,51.76,93.6,rob,2,WIN,spin,no,6.66875,20.00625
-4,1914,292,ZIM,4,158,-275,Sikandar Raza,KC Brathwaite,6,2,4,36.75,1011,58.16,Right-hand bat,58,30,1,1218,51.76,93.6,rob,0,WIN,spin,no,6.66875,20.00625
-4,1915,293,ZIM,4,158,-275,Sikandar Raza,KC Brathwaite,6,2,5,36.75,1011,58.16,Right-hand bat,59,30,1,1218,51.76,93.6,rob,0,WIN,spin,no,6.66875,20.00625

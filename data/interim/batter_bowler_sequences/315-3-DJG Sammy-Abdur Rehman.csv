@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1179,197,WIN,7,91,157,DJG Sammy,Abdur Rehman,9,4,3,16.1,607,53.04,Right-hand bat,20,11,0,2604.1,33.97,76.6,lo,1,WIN,spin,yes,8.5025,9.397499999999999
-3,1189,207,WIN,7,93,159,DJG Sammy,Abdur Rehman,9,5,6,16.1,607,53.04,Right-hand bat,24,12,0,2604.1,33.97,76.6,lo,1,WIN,spin,yes,8.5025,9.397499999999999
-3,1192,210,WIN,7,95,161,DJG Sammy,Abdur Rehman,9,6,7,16.1,607,53.04,Right-hand bat,27,14,0,2604.1,33.97,76.6,lo,1,WIN,spin,yes,8.5025,9.397499999999999
-3,1203,221,WIN,7,99,165,DJG Sammy,Abdur Rehman,9,9,14,16.1,607,53.04,Right-hand bat,32,16,0,2604.1,33.97,76.6,lo,0,WIN,spin,yes,8.5025,9.397499999999999
-3,1204,222,WIN,7,99,165,DJG Sammy,Abdur Rehman,9,9,15,16.1,607,53.04,Right-hand bat,33,16,0,2604.1,33.97,76.6,lo,0,WIN,spin,yes,8.5025,9.397499999999999
-3,1205,223,WIN,7,99,165,DJG Sammy,Abdur Rehman,9,9,16,16.1,607,53.04,Right-hand bat,34,16,0,2604.1,33.97,76.6,lo,0,WIN,spin,yes,8.5025,9.397499999999999
-3,1206,224,WIN,7,99,165,DJG Sammy,Abdur Rehman,9,9,17,16.1,607,53.04,Right-hand bat,35,16,0,2604.1,33.97,76.6,lo,W,WIN,spin,yes,8.5025,9.397499999999999

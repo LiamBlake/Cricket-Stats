@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,605,605,IND,1,264,264,R Dravid,PD Collingwood,3,110,284,52.28,25097,41.87,Right-hand bat,6,2,0,1296.3,49.78,92.7,rm,1,IND,seam,yes,17.74234693877551,20.471938775510207
-1,607,607,IND,1,266,266,R Dravid,PD Collingwood,3,111,285,52.28,25097,41.87,Right-hand bat,8,4,0,1296.3,49.78,92.7,rm,1,IND,seam,yes,17.74234693877551,20.471938775510207
-1,610,610,IND,1,272,272,R Dravid,PD Collingwood,3,112,286,52.28,25097,41.87,Right-hand bat,11,10,0,1296.3,49.78,92.7,rm,0,IND,seam,yes,17.74234693877551,20.471938775510207

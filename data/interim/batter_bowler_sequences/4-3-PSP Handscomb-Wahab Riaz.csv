@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1331,211,AUS,3,172,459,PSP Handscomb,Wahab Riaz,5,17,14,97.5,348,56.03,Right-hand bat,31,23,0,4068.2,33.15,58.1,lf,1,AUS,seam,yes,29.951020408163263,4.9918367346938775
-3,1333,213,AUS,3,174,461,PSP Handscomb,Wahab Riaz,5,18,15,97.5,348,56.03,Right-hand bat,33,25,0,4068.2,33.15,58.1,lf,4,AUS,seam,yes,29.951020408163263,4.9918367346938775
-3,1334,214,AUS,3,178,465,PSP Handscomb,Wahab Riaz,5,22,16,97.5,348,56.03,Right-hand bat,34,29,0,4068.2,33.15,58.1,lf,1,AUS,seam,yes,29.951020408163263,4.9918367346938775
-3,1343,223,AUS,4,188,475,PSP Handscomb,Wahab Riaz,5,26,20,97.5,348,56.03,Right-hand bat,37,35,0,4068.2,33.15,58.1,lf,2,AUS,seam,yes,29.951020408163263,4.9918367346938775
-3,1344,224,AUS,4,190,477,PSP Handscomb,Wahab Riaz,5,28,21,97.5,348,56.03,Right-hand bat,38,37,0,4068.2,33.15,58.1,lf,4,AUS,seam,yes,29.951020408163263,4.9918367346938775
-3,1345,225,AUS,4,194,481,PSP Handscomb,Wahab Riaz,5,32,22,97.5,348,56.03,Right-hand bat,39,41,0,4068.2,33.15,58.1,lf,1,AUS,seam,yes,29.951020408163263,4.9918367346938775

@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1137,187,SRL,4,89,-533,AD Mathews,R Ashwin,5,12,23,45.46,9275,50.49,Right-hand bat,61,39,2,15090.1,25.47,52.7,rob,0,IND,spin,no,9.913198573127229,31.15576694411415
-2,1138,188,SRL,4,89,-533,AD Mathews,R Ashwin,5,12,24,45.46,9275,50.49,Right-hand bat,62,39,2,15090.1,25.47,52.7,rob,0,IND,spin,no,9.913198573127229,31.15576694411415
-2,1139,189,SRL,4,89,-533,AD Mathews,R Ashwin,5,12,25,45.46,9275,50.49,Right-hand bat,63,39,2,15090.1,25.47,52.7,rob,0,IND,spin,no,9.913198573127229,31.15576694411415
-2,1140,190,SRL,4,89,-533,AD Mathews,R Ashwin,5,12,26,45.46,9275,50.49,Right-hand bat,64,39,2,15090.1,25.47,52.7,rob,1,IND,spin,no,9.913198573127229,31.15576694411415
-2,1153,203,SRL,4,117,-505,AD Mathews,R Ashwin,5,26,32,45.46,9275,50.49,Right-hand bat,71,53,2,15090.1,25.47,52.7,rob,W,IND,spin,no,9.913198573127229,31.15576694411415

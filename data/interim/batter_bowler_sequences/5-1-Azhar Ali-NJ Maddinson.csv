@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,445,445,PAK,4,196,196,Azhar Ali,NJ Maddinson,2,99,215,47.19,11022,41.96,Right-hand bat,0,0,0,36,NA,NA,lo,0,AUS,spin,yes,33.74485596707819,11.810699588477368
-1,446,446,PAK,4,196,196,Azhar Ali,NJ Maddinson,2,99,216,47.19,11022,41.96,Right-hand bat,1,0,0,36,NA,NA,lo,0,AUS,spin,yes,33.74485596707819,11.810699588477368
-1,447,447,PAK,4,196,196,Azhar Ali,NJ Maddinson,2,99,217,47.19,11022,41.96,Right-hand bat,2,0,0,36,NA,NA,lo,2,AUS,spin,yes,33.74485596707819,11.810699588477368
-1,448,448,PAK,4,198,198,Azhar Ali,NJ Maddinson,2,101,218,47.19,11022,41.96,Right-hand bat,3,2,0,36,NA,NA,lo,1,AUS,spin,yes,33.74485596707819,11.810699588477368
-1,457,457,PAK,4,202,202,Azhar Ali,NJ Maddinson,2,104,222,47.19,11022,41.96,Right-hand bat,6,3,0,36,NA,NA,lo,1,AUS,spin,yes,33.74485596707819,11.810699588477368
-1,459,459,PAK,4,204,204,Azhar Ali,NJ Maddinson,2,105,223,47.19,11022,41.96,Right-hand bat,8,5,0,36,NA,NA,lo,0,AUS,spin,yes,33.74485596707819,11.810699588477368
-1,460,460,PAK,4,204,204,Azhar Ali,NJ Maddinson,2,105,224,47.19,11022,41.96,Right-hand bat,9,5,0,36,NA,NA,lo,1,AUS,spin,yes,33.74485596707819,11.810699588477368
-1,462,462,PAK,4,206,206,Azhar Ali,NJ Maddinson,2,106,225,47.19,11022,41.96,Right-hand bat,11,7,0,36,NA,NA,lo,4,AUS,spin,yes,33.74485596707819,11.810699588477368

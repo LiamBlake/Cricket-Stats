@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,253,253,RSA,3,165,165,HM Amla,Younis Khan,3,87,115,52.11,10996,52.61,Right-hand bat,0,0,0,762,51.66,84.6,NA,1,RSA,seam,yes,24.888888888888893,1.777777777777778
-1,257,257,RSA,3,171,171,HM Amla,Younis Khan,3,88,116,52.11,10996,52.61,Right-hand bat,4,6,0,762,51.66,84.6,NA,0,RSA,seam,yes,24.888888888888893,1.777777777777778
-1,258,258,RSA,3,171,171,HM Amla,Younis Khan,3,88,117,52.11,10996,52.61,Right-hand bat,5,6,0,762,51.66,84.6,NA,0,RSA,seam,yes,24.888888888888893,1.777777777777778
-1,265,265,RSA,3,173,173,HM Amla,Younis Khan,3,89,119,52.11,10996,52.61,Right-hand bat,6,6,0,762,51.66,84.6,NA,1,RSA,seam,yes,24.888888888888893,1.777777777777778
-1,280,280,RSA,3,182,182,HM Amla,Younis Khan,3,91,125,52.11,10996,52.61,Right-hand bat,14,12,0,762,51.66,84.6,NA,0,RSA,seam,yes,24.888888888888893,1.777777777777778
-1,281,281,RSA,3,182,182,HM Amla,Younis Khan,3,91,126,52.11,10996,52.61,Right-hand bat,15,12,0,762,51.66,84.6,NA,1,RSA,seam,yes,24.888888888888893,1.777777777777778

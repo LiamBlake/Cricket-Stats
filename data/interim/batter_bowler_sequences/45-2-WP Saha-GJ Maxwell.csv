@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1955,1128,IND,6,503,52,WP Saha,GJ Maxwell,8,99,213,32.73,2142,45.84,Right-hand bat,12,4,0,366,40.57,52.2,rob,1,IND,spin,no,18.1152,32.2048
-2,1968,1141,IND,6,513,62,WP Saha,GJ Maxwell,8,102,215,32.73,2142,45.84,Right-hand bat,19,7,0,366,40.57,52.2,rob,1,IND,spin,no,18.1152,32.2048
-2,1970,1143,IND,6,515,64,WP Saha,GJ Maxwell,8,103,216,32.73,2142,45.84,Right-hand bat,21,9,0,366,40.57,52.2,rob,3,IND,spin,no,18.1152,32.2048
-2,1972,1145,IND,6,519,68,WP Saha,GJ Maxwell,8,106,217,32.73,2142,45.84,Right-hand bat,23,13,0,366,40.57,52.2,rob,0,IND,spin,no,18.1152,32.2048

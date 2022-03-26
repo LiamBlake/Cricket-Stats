@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1868,294,AUS,5,157,180,TD Paine,PP Ojha,7,1,4,34.16,470,43.61,Right-hand bat,91,49,1,2130.5,44.62,88.9,lo,0,IND,spin,yes,21.213675213675213,10.606837606837606
-3,1869,295,AUS,5,157,180,TD Paine,PP Ojha,7,1,5,34.16,470,43.61,Right-hand bat,92,49,1,2130.5,44.62,88.9,lo,4,IND,spin,yes,21.213675213675213,10.606837606837606
-3,1870,296,AUS,5,161,184,TD Paine,PP Ojha,7,5,6,34.16,470,43.61,Right-hand bat,93,53,1,2130.5,44.62,88.9,lo,4,IND,spin,yes,21.213675213675213,10.606837606837606
-3,1871,297,AUS,5,165,188,TD Paine,PP Ojha,7,9,7,34.16,470,43.61,Right-hand bat,94,57,1,2130.5,44.62,88.9,lo,0,IND,spin,yes,21.213675213675213,10.606837606837606
-3,1872,298,AUS,5,165,188,TD Paine,PP Ojha,7,9,8,34.16,470,43.61,Right-hand bat,95,57,1,2130.5,44.62,88.9,lo,0,IND,spin,yes,21.213675213675213,10.606837606837606
-3,1879,305,AUS,6,165,188,TD Paine,PP Ojha,7,9,9,34.16,470,43.61,Right-hand bat,96,57,1,2130.5,44.62,88.9,lo,0,IND,spin,yes,21.213675213675213,10.606837606837606
-3,1880,306,AUS,6,165,188,TD Paine,PP Ojha,7,9,10,34.16,470,43.61,Right-hand bat,97,57,1,2130.5,44.62,88.9,lo,0,IND,spin,yes,21.213675213675213,10.606837606837606
-3,1881,307,AUS,6,165,188,TD Paine,PP Ojha,7,9,11,34.16,470,43.61,Right-hand bat,98,57,1,2130.5,44.62,88.9,lo,W,IND,spin,yes,21.213675213675213,10.606837606837606

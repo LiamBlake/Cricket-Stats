@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1202,273,AUS,0,143,-383,ML Hayden,V Sehwag,2,79,139,53.51,13707,60.12,Left-hand bat,0,0,0,1446.2,41.61,80.4,rob,1,AUS,spin,no,39.11934156378601,13.039780521262003
-2,1206,277,AUS,0,145,-381,ML Hayden,V Sehwag,2,80,140,53.51,13707,60.12,Left-hand bat,4,2,0,1446.2,41.61,80.4,rob,0,AUS,spin,no,39.11934156378601,13.039780521262003
-2,1207,278,AUS,0,145,-381,ML Hayden,V Sehwag,2,80,141,53.51,13707,60.12,Left-hand bat,5,2,0,1446.2,41.61,80.4,rob,1,AUS,spin,no,39.11934156378601,13.039780521262003
-2,1215,286,AUS,0,149,-377,ML Hayden,V Sehwag,2,82,146,53.51,13707,60.12,Left-hand bat,7,4,0,1446.2,41.61,80.4,rob,1lb,AUS,spin,no,39.11934156378601,13.039780521262003
-2,1226,297,AUS,0,151,-375,ML Hayden,V Sehwag,2,83,150,53.51,13707,60.12,Left-hand bat,12,4,0,1446.2,41.61,80.4,rob,0,AUS,spin,no,39.11934156378601,13.039780521262003
-2,1227,298,AUS,0,151,-375,ML Hayden,V Sehwag,2,83,151,53.51,13707,60.12,Left-hand bat,13,4,0,1446.2,41.61,80.4,rob,0,AUS,spin,no,39.11934156378601,13.039780521262003
-2,1228,299,AUS,0,151,-375,ML Hayden,V Sehwag,2,83,152,53.51,13707,60.12,Left-hand bat,14,4,0,1446.2,41.61,80.4,rob,0,AUS,spin,no,39.11934156378601,13.039780521262003
-2,1229,300,AUS,0,151,-375,ML Hayden,V Sehwag,2,83,153,53.51,13707,60.12,Left-hand bat,15,4,0,1446.2,41.61,80.4,rob,1,AUS,spin,no,39.11934156378601,13.039780521262003

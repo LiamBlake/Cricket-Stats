@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1774,30,SRL,0,30,-230,TM Dilshan,Abdur Rehman,2,15,17,41.21,7628,65.91,Right-hand bat,0,0,0,5352.2,28.4,66,lo,0,SRL,spin,yes,16.919999999999998,39.480000000000004
-4,1775,31,SRL,0,30,-230,TM Dilshan,Abdur Rehman,2,15,18,41.21,7628,65.91,Right-hand bat,1,0,0,5352.2,28.4,66,lo,0,SRL,spin,yes,16.919999999999998,39.480000000000004
-4,1776,32,SRL,0,30,-230,TM Dilshan,Abdur Rehman,2,15,19,41.21,7628,65.91,Right-hand bat,2,0,0,5352.2,28.4,66,lo,0,SRL,spin,yes,16.919999999999998,39.480000000000004
-4,1777,33,SRL,0,30,-230,TM Dilshan,Abdur Rehman,2,15,20,41.21,7628,65.91,Right-hand bat,3,0,0,5352.2,28.4,66,lo,0,SRL,spin,yes,16.919999999999998,39.480000000000004
-4,1778,34,SRL,0,30,-230,TM Dilshan,Abdur Rehman,2,15,21,41.21,7628,65.91,Right-hand bat,4,0,0,5352.2,28.4,66,lo,1,SRL,spin,yes,16.919999999999998,39.480000000000004
-4,1815,71,SRL,0,48,-212,TM Dilshan,Abdur Rehman,2,28,32,41.21,7628,65.91,Right-hand bat,23,2,0,5352.2,28.4,66,lo,W,SRL,spin,yes,16.919999999999998,39.480000000000004

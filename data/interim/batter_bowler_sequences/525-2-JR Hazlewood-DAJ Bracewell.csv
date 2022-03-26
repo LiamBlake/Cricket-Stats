@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1126,833,AUS,7,494,311,JR Hazlewood,DAJ Bracewell,9,0,0,23.14,312,51.92,Left-hand bat,159,103,1,4662.2,38.05,67.5,rfm,0,NZL,seam,yes,25.013333333333332,10.72
-2,1127,834,AUS,7,494,311,JR Hazlewood,DAJ Bracewell,9,0,1,23.14,312,51.92,Left-hand bat,160,103,1,4662.2,38.05,67.5,rfm,0,NZL,seam,yes,25.013333333333332,10.72
-2,1128,835,AUS,7,494,311,JR Hazlewood,DAJ Bracewell,9,0,2,23.14,312,51.92,Left-hand bat,161,103,1,4662.2,38.05,67.5,rfm,0,NZL,seam,yes,25.013333333333332,10.72
-2,1129,836,AUS,7,494,311,JR Hazlewood,DAJ Bracewell,9,0,3,23.14,312,51.92,Left-hand bat,162,103,1,4662.2,38.05,67.5,rfm,4,NZL,seam,yes,25.013333333333332,10.72
-2,1130,837,AUS,7,498,315,JR Hazlewood,DAJ Bracewell,9,4,4,23.14,312,51.92,Left-hand bat,163,107,1,4662.2,38.05,67.5,rfm,4,NZL,seam,yes,25.013333333333332,10.72
-2,1138,845,AUS,7,508,325,JR Hazlewood,DAJ Bracewell,9,8,7,23.14,312,51.92,Left-hand bat,165,112,1,4662.2,38.05,67.5,rfm,0,NZL,seam,yes,25.013333333333332,10.72
-2,1139,846,AUS,7,508,325,JR Hazlewood,DAJ Bracewell,9,8,8,23.14,312,51.92,Left-hand bat,166,112,1,4662.2,38.05,67.5,rfm,0,NZL,seam,yes,25.013333333333332,10.72
-2,1140,847,AUS,7,508,325,JR Hazlewood,DAJ Bracewell,9,8,9,23.14,312,51.92,Left-hand bat,167,112,1,4662.2,38.05,67.5,rfm,W,NZL,seam,yes,25.013333333333332,10.72

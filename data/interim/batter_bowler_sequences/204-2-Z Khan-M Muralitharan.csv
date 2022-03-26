@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1302,308,IND,8,181,-419,Z Khan,M Muralitharan,10,0,0,11.79,1250,50.96,Right-hand bat,110,51,5,40284.3,21.77,54,rob,0,SRL,spin,no,7.107988165680473,29.853550295857985
-2,1303,309,IND,8,181,-419,Z Khan,M Muralitharan,10,0,1,11.79,1250,50.96,Right-hand bat,111,51,5,40284.3,21.77,54,rob,0,SRL,spin,no,7.107988165680473,29.853550295857985
-2,1304,310,IND,8,181,-419,Z Khan,M Muralitharan,10,0,2,11.79,1250,50.96,Right-hand bat,112,51,5,40284.3,21.77,54,rob,0,SRL,spin,no,7.107988165680473,29.853550295857985
-2,1305,311,IND,8,181,-419,Z Khan,M Muralitharan,10,0,3,11.79,1250,50.96,Right-hand bat,113,51,5,40284.3,21.77,54,rob,1,SRL,spin,no,7.107988165680473,29.853550295857985
-2,1314,320,IND,8,183,-417,Z Khan,M Muralitharan,10,1,10,11.79,1250,50.96,Right-hand bat,116,53,5,40284.3,21.77,54,rob,2,SRL,spin,no,7.107988165680473,29.853550295857985
-2,1315,321,IND,8,185,-415,Z Khan,M Muralitharan,10,3,11,11.79,1250,50.96,Right-hand bat,117,55,5,40284.3,21.77,54,rob,2,SRL,spin,no,7.107988165680473,29.853550295857985
-2,1316,322,IND,8,187,-413,Z Khan,M Muralitharan,10,5,12,11.79,1250,50.96,Right-hand bat,118,57,5,40284.3,21.77,54,rob,0,SRL,spin,no,7.107988165680473,29.853550295857985
-2,1317,323,IND,8,187,-413,Z Khan,M Muralitharan,10,5,13,11.79,1250,50.96,Right-hand bat,119,57,5,40284.3,21.77,54,rob,0,SRL,spin,no,7.107988165680473,29.853550295857985

@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,80,80,ENG,1,36,36,DP Sibley,KA Maharaj,2,20,41,39.66,634,37.53,Right-hand bat,2,1,0,6330,33.05,60.2,lo,0,RSA,spin,yes,24.280470914127424,5.482686980609418
-1,81,81,ENG,1,36,36,DP Sibley,KA Maharaj,2,20,42,39.66,634,37.53,Right-hand bat,3,1,0,6330,33.05,60.2,lo,0,RSA,spin,yes,24.280470914127424,5.482686980609418
-1,82,82,ENG,1,36,36,DP Sibley,KA Maharaj,2,20,43,39.66,634,37.53,Right-hand bat,4,1,0,6330,33.05,60.2,lo,4,RSA,spin,yes,24.280470914127424,5.482686980609418
-1,83,83,ENG,1,40,40,DP Sibley,KA Maharaj,2,24,44,39.66,634,37.53,Right-hand bat,5,5,0,6330,33.05,60.2,lo,0,RSA,spin,yes,24.280470914127424,5.482686980609418

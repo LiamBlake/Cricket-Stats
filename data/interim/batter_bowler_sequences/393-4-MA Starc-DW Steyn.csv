@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1897,458,AUS,9,275,-356,MA Starc,DW Steyn,10,40,26,43.75,236,74.15,Left-hand bat,115,51,2,12576.2,23.79,42,rf,1,AUS,seam,no,24.780625,7.194375000000001
-4,1900,461,AUS,9,277,-354,MA Starc,DW Steyn,10,41,27,43.75,236,74.15,Left-hand bat,118,53,2,12576.2,23.79,42,rf,0,AUS,seam,no,24.780625,7.194375000000001
-4,1901,462,AUS,9,277,-354,MA Starc,DW Steyn,10,41,28,43.75,236,74.15,Left-hand bat,119,53,2,12576.2,23.79,42,rf,0,AUS,seam,no,24.780625,7.194375000000001
-4,1902,463,AUS,9,277,-354,MA Starc,DW Steyn,10,41,29,43.75,236,74.15,Left-hand bat,120,53,2,12576.2,23.79,42,rf,2,AUS,seam,no,24.780625,7.194375000000001
-4,1909,470,AUS,9,287,-344,MA Starc,DW Steyn,10,50,32,43.75,236,74.15,Left-hand bat,121,55,2,12576.2,23.79,42,rf,1,AUS,seam,no,24.780625,7.194375000000001

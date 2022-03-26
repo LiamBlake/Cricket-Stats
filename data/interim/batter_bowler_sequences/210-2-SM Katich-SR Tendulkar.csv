@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1019,267,AUS,2,178,-263,SM Katich,SR Tendulkar,2,86,108,41.02,3953,48.77,Left-hand bat,2,5,0,3876.4,53.02,92.3,NA,1,IND,seam,no,11.375,21.125
-2,1029,277,AUS,2,180,-261,SM Katich,SR Tendulkar,2,88,111,41.02,3953,48.77,Left-hand bat,6,6,0,3876.4,53.02,92.3,NA,0,IND,seam,no,11.375,21.125
-2,1030,278,AUS,2,180,-261,SM Katich,SR Tendulkar,2,88,112,41.02,3953,48.77,Left-hand bat,7,6,0,3876.4,53.02,92.3,NA,1,IND,seam,no,11.375,21.125
-2,1034,282,AUS,2,186,-255,SM Katich,SR Tendulkar,2,89,113,41.02,3953,48.77,Left-hand bat,11,12,0,3876.4,53.02,92.3,NA,1,IND,seam,no,11.375,21.125

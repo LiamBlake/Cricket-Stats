@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1286,129,BAN,1,63,169,Shahriar Nafees,DJG Sammy,3,14,34,27.11,1812,53.86,Left-hand bat,2,1,0,3180.4,29.35,66.3,rm,1,BAN,seam,yes,9.880208333333334,23.994791666666668
-3,1288,131,BAN,1,65,171,Shahriar Nafees,DJG Sammy,3,15,35,27.11,1812,53.86,Left-hand bat,4,3,0,3180.4,29.35,66.3,rm,0,BAN,seam,yes,9.880208333333334,23.994791666666668
-3,1289,132,BAN,1,65,171,Shahriar Nafees,DJG Sammy,3,15,36,27.11,1812,53.86,Left-hand bat,5,3,0,3180.4,29.35,66.3,rm,0,BAN,seam,yes,9.880208333333334,23.994791666666668
-3,1324,167,BAN,2,83,189,Shahriar Nafees,DJG Sammy,3,23,49,27.11,1812,53.86,Left-hand bat,22,6,1,3180.4,29.35,66.3,rm,0,BAN,seam,yes,9.880208333333334,23.994791666666668
-3,1325,168,BAN,2,83,189,Shahriar Nafees,DJG Sammy,3,23,50,27.11,1812,53.86,Left-hand bat,23,6,1,3180.4,29.35,66.3,rm,0,BAN,seam,yes,9.880208333333334,23.994791666666668
-3,1332,175,BAN,2,85,191,Shahriar Nafees,DJG Sammy,3,24,53,27.11,1812,53.86,Left-hand bat,24,6,1,3180.4,29.35,66.3,rm,0,BAN,seam,yes,9.880208333333334,23.994791666666668
-3,1333,176,BAN,2,85,191,Shahriar Nafees,DJG Sammy,3,24,54,27.11,1812,53.86,Left-hand bat,25,6,1,3180.4,29.35,66.3,rm,1,BAN,seam,yes,9.880208333333334,23.994791666666668
-3,1337,180,BAN,2,87,193,Shahriar Nafees,DJG Sammy,3,25,55,27.11,1812,53.86,Left-hand bat,29,8,1,3180.4,29.35,66.3,rm,0,BAN,seam,yes,9.880208333333334,23.994791666666668

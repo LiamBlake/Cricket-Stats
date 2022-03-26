@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,222,222,PAK,2,101,101,Khurram Manzoor,HMRKB Herath,1,59,108,30.65,1595,44.2,Right-hand bat,18,12,0,13470,29.62,64.4,lo,0,PAK,spin,no,24.014568158168572,9.824141519250778
-1,223,223,PAK,2,101,101,Khurram Manzoor,HMRKB Herath,1,59,109,30.65,1595,44.2,Right-hand bat,19,12,0,13470,29.62,64.4,lo,6,PAK,spin,no,24.014568158168572,9.824141519250778
-1,224,224,PAK,2,107,107,Khurram Manzoor,HMRKB Herath,1,65,110,30.65,1595,44.2,Right-hand bat,20,18,0,13470,29.62,64.4,lo,0,PAK,spin,no,24.014568158168572,9.824141519250778
-1,225,225,PAK,2,107,107,Khurram Manzoor,HMRKB Herath,1,65,111,30.65,1595,44.2,Right-hand bat,21,18,0,13470,29.62,64.4,lo,0,PAK,spin,no,24.014568158168572,9.824141519250778
-1,226,226,PAK,2,107,107,Khurram Manzoor,HMRKB Herath,1,65,112,30.65,1595,44.2,Right-hand bat,22,18,0,13470,29.62,64.4,lo,0,PAK,spin,no,24.014568158168572,9.824141519250778
-1,227,227,PAK,2,107,107,Khurram Manzoor,HMRKB Herath,1,65,113,30.65,1595,44.2,Right-hand bat,23,18,0,13470,29.62,64.4,lo,0,PAK,spin,no,24.014568158168572,9.824141519250778

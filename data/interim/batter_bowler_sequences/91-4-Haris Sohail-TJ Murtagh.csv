@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1654,4,PAK,1,2,-157,Haris Sohail,TJ Murtagh,2,0,0,35.66,463,46.22,Left-hand bat,4,2,1,246,16.66,41,rfm,0,IRE,seam,no,24.36851211072664,3.2491349480968856
-4,1655,5,PAK,1,2,-157,Haris Sohail,TJ Murtagh,2,0,1,35.66,463,46.22,Left-hand bat,5,2,1,246,16.66,41,rfm,4,IRE,seam,no,24.36851211072664,3.2491349480968856
-4,1662,12,PAK,1,6,-153,Haris Sohail,TJ Murtagh,2,4,2,35.66,463,46.22,Left-hand bat,6,6,1,246,16.66,41,rfm,0,IRE,seam,no,24.36851211072664,3.2491349480968856
-4,1663,13,PAK,1,6,-153,Haris Sohail,TJ Murtagh,2,4,3,35.66,463,46.22,Left-hand bat,7,6,1,246,16.66,41,rfm,3,IRE,seam,no,24.36851211072664,3.2491349480968856

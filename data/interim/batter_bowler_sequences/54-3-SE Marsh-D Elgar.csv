@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1222,248,AUS,3,145,334,SE Marsh,D Elgar,5,15,38,40.69,4467,44.63,Left-hand bat,2,1,0,936.5,42.28,67.2,lo,1,AUS,spin,yes,16.8675,9.0825
-3,1245,271,AUS,4,153,342,SE Marsh,D Elgar,5,17,50,40.69,4467,44.63,Left-hand bat,13,7,1,936.5,42.28,67.2,lo,2,AUS,spin,yes,16.8675,9.0825
-3,1246,272,AUS,4,155,344,SE Marsh,D Elgar,5,19,51,40.69,4467,44.63,Left-hand bat,14,9,1,936.5,42.28,67.2,lo,0,AUS,spin,yes,16.8675,9.0825
-3,1247,273,AUS,4,155,344,SE Marsh,D Elgar,5,19,52,40.69,4467,44.63,Left-hand bat,15,9,1,936.5,42.28,67.2,lo,0,AUS,spin,yes,16.8675,9.0825
-3,1248,274,AUS,4,155,344,SE Marsh,D Elgar,5,19,53,40.69,4467,44.63,Left-hand bat,16,9,1,936.5,42.28,67.2,lo,1,AUS,spin,yes,16.8675,9.0825

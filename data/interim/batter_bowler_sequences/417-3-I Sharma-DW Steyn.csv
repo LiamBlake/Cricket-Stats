@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1789,706,IND,8,396,432,I Sharma,DW Steyn,10,0,4,9.45,1593,28.49,Right-hand bat,170,85,0,14418,23.07,42.2,rf,2,RSA,seam,yes,31.588750913075238,6.113951789627465
-3,1790,707,IND,8,398,434,I Sharma,DW Steyn,10,2,5,9.45,1593,28.49,Right-hand bat,171,87,0,14418,23.07,42.2,rf,0,RSA,seam,yes,31.588750913075238,6.113951789627465
-3,1791,708,IND,8,398,434,I Sharma,DW Steyn,10,2,6,9.45,1593,28.49,Right-hand bat,172,87,0,14418,23.07,42.2,rf,1,RSA,seam,yes,31.588750913075238,6.113951789627465
-3,1793,710,IND,8,400,436,I Sharma,DW Steyn,10,3,7,9.45,1593,28.49,Right-hand bat,174,88,0,14418,23.07,42.2,rf,1,RSA,seam,yes,31.588750913075238,6.113951789627465

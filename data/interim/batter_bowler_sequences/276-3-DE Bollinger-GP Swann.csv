@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,2005,572,AUS,9,295,-80,DE Bollinger,GP Swann,11,0,0,7.71,159,33.96,Left-hand bat,235,87,4,6840.3,27.23,56,rob,0,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,2006,573,AUS,9,295,-80,DE Bollinger,GP Swann,11,0,1,7.71,159,33.96,Left-hand bat,236,87,4,6840.3,27.23,56,rob,0,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,2007,574,AUS,9,295,-80,DE Bollinger,GP Swann,11,0,2,7.71,159,33.96,Left-hand bat,237,87,4,6840.3,27.23,56,rob,2,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,2008,575,AUS,9,297,-78,DE Bollinger,GP Swann,11,2,3,7.71,159,33.96,Left-hand bat,238,89,4,6840.3,27.23,56,rob,0,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,2009,576,AUS,9,297,-78,DE Bollinger,GP Swann,11,2,4,7.71,159,33.96,Left-hand bat,239,89,4,6840.3,27.23,56,rob,0,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,2018,585,AUS,9,299,-76,DE Bollinger,GP Swann,11,2,8,7.71,159,33.96,Left-hand bat,242,90,4,6840.3,27.23,56,rob,0,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,2019,586,AUS,9,299,-76,DE Bollinger,GP Swann,11,2,9,7.71,159,33.96,Left-hand bat,243,90,4,6840.3,27.23,56,rob,1,AUS,spin,yes,28.055999999999997,18.703999999999997

@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,893,893,IND,4,506,506,RA Jadeja,AK Markram,6,39,75,34.42,2663,64.62,Left-hand bat,6,4,0,162.2,NA,NA,rob,4,IND,spin,yes,22.152,20.448
-1,894,894,IND,4,510,510,RA Jadeja,AK Markram,6,43,76,34.42,2663,64.62,Left-hand bat,7,8,0,162.2,NA,NA,rob,4,IND,spin,yes,22.152,20.448
-1,895,895,IND,4,514,514,RA Jadeja,AK Markram,6,47,77,34.42,2663,64.62,Left-hand bat,8,12,0,162.2,NA,NA,rob,2,IND,spin,yes,22.152,20.448
-1,896,896,IND,4,516,516,RA Jadeja,AK Markram,6,49,78,34.42,2663,64.62,Left-hand bat,9,14,0,162.2,NA,NA,rob,2,IND,spin,yes,22.152,20.448
-1,897,897,IND,4,518,518,RA Jadeja,AK Markram,6,51,79,34.42,2663,64.62,Left-hand bat,10,16,0,162.2,NA,NA,rob,1,IND,spin,yes,22.152,20.448

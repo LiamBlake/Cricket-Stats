@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,111,111,AUS,2,57,57,AJ Doolan,RJ Peterson,3,22,43,58,205,56.58,Right-hand bat,3,1,0,2514.1,37.26,66.1,lo,0,RSA,spin,no,26.474048442906575,5.673010380622837
-1,112,112,AUS,2,57,57,AJ Doolan,RJ Peterson,3,22,44,58,205,56.58,Right-hand bat,4,1,0,2514.1,37.26,66.1,lo,0,RSA,spin,no,26.474048442906575,5.673010380622837
-1,113,113,AUS,2,57,57,AJ Doolan,RJ Peterson,3,22,45,58,205,56.58,Right-hand bat,5,1,0,2514.1,37.26,66.1,lo,4,RSA,spin,no,26.474048442906575,5.673010380622837
-1,120,120,AUS,2,63,63,AJ Doolan,RJ Peterson,3,26,46,58,205,56.58,Right-hand bat,6,5,0,2514.1,37.26,66.1,lo,0,RSA,spin,no,26.474048442906575,5.673010380622837
-1,121,121,AUS,2,63,63,AJ Doolan,RJ Peterson,3,26,47,58,205,56.58,Right-hand bat,7,5,0,2514.1,37.26,66.1,lo,1,RSA,spin,no,26.474048442906575,5.673010380622837
-1,124,124,AUS,2,65,65,AJ Doolan,RJ Peterson,3,27,48,58,205,56.58,Right-hand bat,10,7,0,2514.1,37.26,66.1,lo,0,RSA,spin,no,26.474048442906575,5.673010380622837
-1,125,125,AUS,2,65,65,AJ Doolan,RJ Peterson,3,27,49,58,205,56.58,Right-hand bat,11,7,0,2514.1,37.26,66.1,lo,0,RSA,spin,no,26.474048442906575,5.673010380622837

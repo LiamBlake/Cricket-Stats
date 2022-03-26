@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1204,52,AUS,1,25,119,RT Ponting,DW Steyn,3,0,0,56.74,17840,58.83,Right-hand bat,27,10,1,5352.2,23.18,38.2,rf,2,AUS,seam,yes,33.64359861591695,7.209342560553633
-3,1205,53,AUS,1,27,121,RT Ponting,DW Steyn,3,2,1,56.74,17840,58.83,Right-hand bat,28,12,1,5352.2,23.18,38.2,rf,3,AUS,seam,yes,33.64359861591695,7.209342560553633
-3,1213,61,AUS,1,39,133,RT Ponting,DW Steyn,3,10,7,56.74,17840,58.83,Right-hand bat,30,19,1,5352.2,23.18,38.2,rf,2,AUS,seam,yes,33.64359861591695,7.209342560553633
-3,1214,62,AUS,1,41,135,RT Ponting,DW Steyn,3,12,8,56.74,17840,58.83,Right-hand bat,31,21,1,5352.2,23.18,38.2,rf,1,AUS,seam,yes,33.64359861591695,7.209342560553633
-3,1217,65,AUS,1,45,139,RT Ponting,DW Steyn,3,13,9,56.74,17840,58.83,Right-hand bat,34,25,1,5352.2,23.18,38.2,rf,0,AUS,seam,yes,33.64359861591695,7.209342560553633
-3,1218,66,AUS,1,45,139,RT Ponting,DW Steyn,3,13,10,56.74,17840,58.83,Right-hand bat,35,25,1,5352.2,23.18,38.2,rf,2,AUS,seam,yes,33.64359861591695,7.209342560553633

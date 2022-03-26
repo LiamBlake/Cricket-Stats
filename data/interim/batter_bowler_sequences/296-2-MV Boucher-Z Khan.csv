@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,573,178,RSA,6,101,-104,MV Boucher,Z Khan,7,1,6,30.74,10513,50,Right-hand bat,60,27,3,15456.1,31.85,57.8,lfm,0,RSA,seam,yes,16.066875000000003,3.4081250000000005
-2,574,179,RSA,6,101,-104,MV Boucher,Z Khan,7,1,7,30.74,10513,50,Right-hand bat,61,27,3,15456.1,31.85,57.8,lfm,1,RSA,seam,yes,16.066875000000003,3.4081250000000005
-2,578,183,RSA,6,103,-102,MV Boucher,Z Khan,7,2,8,30.74,10513,50,Right-hand bat,65,29,3,15456.1,31.85,57.8,lfm,0,RSA,seam,yes,16.066875000000003,3.4081250000000005
-2,585,190,RSA,8,103,-102,MV Boucher,Z Khan,7,2,9,30.74,10513,50,Right-hand bat,66,29,3,15456.1,31.85,57.8,lfm,1,RSA,seam,yes,16.066875000000003,3.4081250000000005
-2,597,202,RSA,8,105,-100,MV Boucher,Z Khan,7,4,11,30.74,10513,50,Right-hand bat,72,30,3,15456.1,31.85,57.8,lfm,4,RSA,seam,yes,16.066875000000003,3.4081250000000005
-2,598,203,RSA,8,109,-96,MV Boucher,Z Khan,7,8,12,30.74,10513,50,Right-hand bat,73,34,3,15456.1,31.85,57.8,lfm,0,RSA,seam,yes,16.066875000000003,3.4081250000000005
-2,599,204,RSA,8,109,-96,MV Boucher,Z Khan,7,8,13,30.74,10513,50,Right-hand bat,74,34,3,15456.1,31.85,57.8,lfm,0,RSA,seam,yes,16.066875000000003,3.4081250000000005
-2,600,205,RSA,8,109,-96,MV Boucher,Z Khan,7,8,14,30.74,10513,50,Right-hand bat,75,34,3,15456.1,31.85,57.8,lfm,1lb,RSA,seam,yes,16.066875000000003,3.4081250000000005

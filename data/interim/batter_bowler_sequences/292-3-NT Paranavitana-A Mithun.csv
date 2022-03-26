@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1493,0,SRL,0,0,-11,NT Paranavitana,A Mithun,1,0,0,35.73,1652,49.75,Left-hand bat,0,0,0,552,62,92,rm,4,SRL,seam,yes,9.051428571428572,30.54857142857143
-3,1494,1,SRL,0,4,-7,NT Paranavitana,A Mithun,1,4,1,35.73,1652,49.75,Left-hand bat,1,4,0,552,62,92,rm,0,SRL,seam,yes,9.051428571428572,30.54857142857143
-3,1495,2,SRL,0,4,-7,NT Paranavitana,A Mithun,1,4,2,35.73,1652,49.75,Left-hand bat,2,4,0,552,62,92,rm,1lb,SRL,seam,yes,9.051428571428572,30.54857142857143
-3,1507,14,SRL,0,7,-4,NT Paranavitana,A Mithun,1,4,9,35.73,1652,49.75,Left-hand bat,7,5,0,552,62,92,rm,0,SRL,seam,yes,9.051428571428572,30.54857142857143
-3,1508,15,SRL,0,7,-4,NT Paranavitana,A Mithun,1,4,10,35.73,1652,49.75,Left-hand bat,8,5,0,552,62,92,rm,0,SRL,seam,yes,9.051428571428572,30.54857142857143
-3,1509,16,SRL,0,7,-4,NT Paranavitana,A Mithun,1,4,11,35.73,1652,49.75,Left-hand bat,9,5,0,552,62,92,rm,1,SRL,seam,yes,9.051428571428572,30.54857142857143
-3,1520,27,SRL,0,9,-2,NT Paranavitana,A Mithun,1,5,18,35.73,1652,49.75,Left-hand bat,14,7,0,552,62,92,rm,0,SRL,seam,yes,9.051428571428572,30.54857142857143
-3,1521,28,SRL,0,9,-2,NT Paranavitana,A Mithun,1,5,19,35.73,1652,49.75,Left-hand bat,15,7,0,552,62,92,rm,1,SRL,seam,yes,9.051428571428572,30.54857142857143

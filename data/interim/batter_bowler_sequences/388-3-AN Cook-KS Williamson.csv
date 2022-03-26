@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1324,292,ENG,0,130,-163,AN Cook,KS Williamson,1,60,136,49.6,15224,47.57,Left-hand bat,10,5,0,756.5,56.75,95.1,rob,0,NZL,spin,no,30.1824,11.7376
-3,1325,293,ENG,0,130,-163,AN Cook,KS Williamson,1,60,137,49.6,15224,47.57,Left-hand bat,11,5,0,756.5,56.75,95.1,rob,0,NZL,spin,no,30.1824,11.7376
-3,1345,313,ENG,0,133,-160,AN Cook,KS Williamson,1,61,148,49.6,15224,47.57,Left-hand bat,18,5,0,756.5,56.75,95.1,rob,0,NZL,spin,no,30.1824,11.7376
-3,1346,314,ENG,0,133,-160,AN Cook,KS Williamson,1,61,149,49.6,15224,47.57,Left-hand bat,19,5,0,756.5,56.75,95.1,rob,1,NZL,spin,no,30.1824,11.7376
-3,1349,317,ENG,0,135,-158,AN Cook,KS Williamson,1,62,150,49.6,15224,47.57,Left-hand bat,22,7,0,756.5,56.75,95.1,rob,2,NZL,spin,no,30.1824,11.7376
-3,1350,318,ENG,0,137,-156,AN Cook,KS Williamson,1,64,151,49.6,15224,47.57,Left-hand bat,23,9,0,756.5,56.75,95.1,rob,0,NZL,spin,no,30.1824,11.7376

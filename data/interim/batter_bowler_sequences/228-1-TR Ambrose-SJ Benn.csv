@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,853,853,ENG,5,521,521,TR Ambrose,SJ Benn,7,35,49,29.8,963,46.41,Right-hand bat,171,101,1,1854.4,47.4,92.9,lo,0,WIN,spin,yes,50.69896193771626,45.06574394463668
-1,854,854,ENG,5,521,521,TR Ambrose,SJ Benn,7,35,50,29.8,963,46.41,Right-hand bat,172,101,1,1854.4,47.4,92.9,lo,0,WIN,spin,yes,50.69896193771626,45.06574394463668
-1,855,855,ENG,5,521,521,TR Ambrose,SJ Benn,7,35,51,29.8,963,46.41,Right-hand bat,173,101,1,1854.4,47.4,92.9,lo,0,WIN,spin,yes,50.69896193771626,45.06574394463668
-1,862,862,ENG,5,527,527,TR Ambrose,SJ Benn,7,37,54,29.8,963,46.41,Right-hand bat,174,101,1,1854.4,47.4,92.9,lo,1,WIN,spin,yes,50.69896193771626,45.06574394463668
-1,865,865,ENG,5,529,529,TR Ambrose,SJ Benn,7,38,55,29.8,963,46.41,Right-hand bat,177,103,1,1854.4,47.4,92.9,lo,1,WIN,spin,yes,50.69896193771626,45.06574394463668
-1,867,867,ENG,5,531,531,TR Ambrose,SJ Benn,7,39,56,29.8,963,46.41,Right-hand bat,179,105,1,1854.4,47.4,92.9,lo,1,WIN,spin,yes,50.69896193771626,45.06574394463668

@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,2168,1218,NZL,8,639,393,N Wagner,Z Khan,10,0,0,12.93,493,39.35,Left-hand bat,299,156,5,18780.5,32.94,60.4,lfm,1,NZL,seam,no,46.07700312174818,1.5359001040582725
-3,2181,1231,NZL,8,653,407,N Wagner,Z Khan,10,1,7,12.93,493,39.35,Left-hand bat,306,170,5,18780.5,32.94,60.4,lfm,0,NZL,seam,no,46.07700312174818,1.5359001040582725
-3,2182,1232,NZL,8,653,407,N Wagner,Z Khan,10,1,8,12.93,493,39.35,Left-hand bat,307,170,5,18780.5,32.94,60.4,lfm,0,NZL,seam,no,46.07700312174818,1.5359001040582725

@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1200,110,NZL,2,96,96,LRPL Taylor,MM Ali,4,38,30,44.99,8322,57.3,Right-hand bat,2,1,0,1782,32.6,54,rob,1,ENG,spin,no,27.3213296398892,9.757617728531855
-3,1202,112,NZL,2,98,98,LRPL Taylor,MM Ali,4,39,31,44.99,8322,57.3,Right-hand bat,4,3,0,1782,32.6,54,rob,1,ENG,spin,no,27.3213296398892,9.757617728531855
-3,1212,122,NZL,2,112,112,LRPL Taylor,MM Ali,4,44,37,44.99,8322,57.3,Right-hand bat,8,12,0,1782,32.6,54,rob,0,ENG,spin,no,27.3213296398892,9.757617728531855
-3,1213,123,NZL,2,112,112,LRPL Taylor,MM Ali,4,44,38,44.99,8322,57.3,Right-hand bat,9,12,0,1782,32.6,54,rob,1,ENG,spin,no,27.3213296398892,9.757617728531855
-3,1223,133,NZL,2,118,118,LRPL Taylor,MM Ali,4,47,43,44.99,8322,57.3,Right-hand bat,13,14,0,1782,32.6,54,rob,0,ENG,spin,no,27.3213296398892,9.757617728531855
-3,1224,134,NZL,2,118,118,LRPL Taylor,MM Ali,4,47,44,44.99,8322,57.3,Right-hand bat,14,14,0,1782,32.6,54,rob,1,ENG,spin,no,27.3213296398892,9.757617728531855
-3,1226,136,NZL,2,120,120,LRPL Taylor,MM Ali,4,48,45,44.99,8322,57.3,Right-hand bat,16,16,0,1782,32.6,54,rob,0,ENG,spin,no,27.3213296398892,9.757617728531855
-3,1227,137,NZL,2,120,120,LRPL Taylor,MM Ali,4,48,46,44.99,8322,57.3,Right-hand bat,17,16,0,1782,32.6,54,rob,0,ENG,spin,no,27.3213296398892,9.757617728531855

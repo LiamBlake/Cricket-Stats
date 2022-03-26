@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,926,926,ENG,9,458,458,JT Ball,R Ashwin,11,1,4,8.66,109,47.7,Right-hand bat,253,132,1,12732,24.96,51.3,rob,0,IND,spin,yes,17.814814814814813,35.629629629629626
-1,927,927,ENG,9,458,458,JT Ball,R Ashwin,11,1,5,8.66,109,47.7,Right-hand bat,254,132,1,12732,24.96,51.3,rob,0,IND,spin,yes,17.814814814814813,35.629629629629626
-1,928,928,ENG,9,458,458,JT Ball,R Ashwin,11,1,6,8.66,109,47.7,Right-hand bat,255,132,1,12732,24.96,51.3,rob,1,IND,spin,yes,17.814814814814813,35.629629629629626
-1,939,939,ENG,9,466,466,JT Ball,R Ashwin,11,2,13,8.66,109,47.7,Right-hand bat,260,140,1,12732,24.96,51.3,rob,0,IND,spin,yes,17.814814814814813,35.629629629629626
-1,940,940,ENG,9,466,466,JT Ball,R Ashwin,11,2,14,8.66,109,47.7,Right-hand bat,261,140,1,12732,24.96,51.3,rob,6,IND,spin,yes,17.814814814814813,35.629629629629626
-1,941,941,ENG,9,472,472,JT Ball,R Ashwin,11,8,15,8.66,109,47.7,Right-hand bat,262,146,1,12732,24.96,51.3,rob,2,IND,spin,yes,17.814814814814813,35.629629629629626
-1,942,942,ENG,9,474,474,JT Ball,R Ashwin,11,10,16,8.66,109,47.7,Right-hand bat,263,148,1,12732,24.96,51.3,rob,2,IND,spin,yes,17.814814814814813,35.629629629629626

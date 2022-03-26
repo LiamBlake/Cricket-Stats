@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2482,133,NZL,2,80,-240,LRPL Taylor,MA Starc,4,24,19,46.98,8785,58.29,Right-hand bat,31,30,0,4836.1,31.35,54.9,lf,2,AUS,seam,no,46.91836734693878,12.795918367346939
-4,2483,134,NZL,2,82,-238,LRPL Taylor,MA Starc,4,26,20,46.98,8785,58.29,Right-hand bat,32,32,0,4836.1,31.35,54.9,lf,0,AUS,seam,no,46.91836734693878,12.795918367346939
-4,2484,135,NZL,2,82,-238,LRPL Taylor,MA Starc,4,26,21,46.98,8785,58.29,Right-hand bat,33,32,0,4836.1,31.35,54.9,lf,1,AUS,seam,no,46.91836734693878,12.795918367346939

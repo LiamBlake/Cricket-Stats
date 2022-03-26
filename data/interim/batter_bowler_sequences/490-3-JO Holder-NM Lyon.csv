@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1436,463,WIN,6,199,29,JO Holder,NM Lyon,8,0,3,29.7,517,57.44,Right-hand bat,132,63,1,9528.5,35.49,67.6,rob,0,WIN,spin,yes,15.171696149843912,8.344432882414152
-3,1437,464,WIN,6,199,29,JO Holder,NM Lyon,8,0,4,29.7,517,57.44,Right-hand bat,133,63,1,9528.5,35.49,67.6,rob,1,WIN,spin,yes,15.171696149843912,8.344432882414152
-3,1441,468,WIN,6,201,31,JO Holder,NM Lyon,8,1,5,29.7,517,57.44,Right-hand bat,137,64,1,9528.5,35.49,67.6,rob,0,WIN,spin,yes,15.171696149843912,8.344432882414152
-3,1448,475,WIN,6,203,33,JO Holder,NM Lyon,8,1,6,29.7,517,57.44,Right-hand bat,138,64,1,9528.5,35.49,67.6,rob,1,WIN,spin,yes,15.171696149843912,8.344432882414152
-3,1452,479,WIN,6,205,35,JO Holder,NM Lyon,8,2,7,29.7,517,57.44,Right-hand bat,142,66,1,9528.5,35.49,67.6,rob,1,WIN,spin,yes,15.171696149843912,8.344432882414152

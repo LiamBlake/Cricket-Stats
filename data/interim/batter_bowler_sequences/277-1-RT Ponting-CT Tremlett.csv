@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,18,18,AUS,1,4,4,RT Ponting,CT Tremlett,3,0,0,53.85,20716,59.53,Right-hand bat,6,2,1,1140.1,25.52,54.3,rmf,0,AUS,seam,no,21.06625,1.1087500000000001
-1,19,19,AUS,1,4,4,RT Ponting,CT Tremlett,3,0,1,53.85,20716,59.53,Right-hand bat,7,2,1,1140.1,25.52,54.3,rmf,0,AUS,seam,no,21.06625,1.1087500000000001
-1,20,20,AUS,1,4,4,RT Ponting,CT Tremlett,3,0,2,53.85,20716,59.53,Right-hand bat,8,2,1,1140.1,25.52,54.3,rmf,4,AUS,seam,no,21.06625,1.1087500000000001
-1,21,21,AUS,1,8,8,RT Ponting,CT Tremlett,3,4,3,53.85,20716,59.53,Right-hand bat,9,6,1,1140.1,25.52,54.3,rmf,0,AUS,seam,no,21.06625,1.1087500000000001
-1,22,22,AUS,1,8,8,RT Ponting,CT Tremlett,3,4,4,53.85,20716,59.53,Right-hand bat,10,6,1,1140.1,25.52,54.3,rmf,4,AUS,seam,no,21.06625,1.1087500000000001
-1,23,23,AUS,1,12,12,RT Ponting,CT Tremlett,3,8,5,53.85,20716,59.53,Right-hand bat,11,10,1,1140.1,25.52,54.3,rmf,0,AUS,seam,no,21.06625,1.1087500000000001

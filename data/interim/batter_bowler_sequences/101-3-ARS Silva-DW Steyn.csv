@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1026,222,SRL,4,111,272,ARS Silva,DW Steyn,6,10,14,37,914,44.52,Right-hand bat,30,15,0,17538.1,22.42,41.6,rf,1,SRL,seam,yes,5.914999999999999,10.985
-3,1030,226,SRL,4,113,274,ARS Silva,DW Steyn,6,11,15,37,914,44.52,Right-hand bat,34,17,0,17538.1,22.42,41.6,rf,0,SRL,seam,yes,5.914999999999999,10.985
-3,1031,227,SRL,4,113,274,ARS Silva,DW Steyn,6,11,16,37,914,44.52,Right-hand bat,35,17,0,17538.1,22.42,41.6,rf,0,SRL,seam,yes,5.914999999999999,10.985
-3,1038,234,SRL,4,115,276,ARS Silva,DW Steyn,6,12,19,37,914,44.52,Right-hand bat,36,17,0,17538.1,22.42,41.6,rf,0,SRL,seam,yes,5.914999999999999,10.985
-3,1039,235,SRL,4,115,276,ARS Silva,DW Steyn,6,12,20,37,914,44.52,Right-hand bat,37,17,0,17538.1,22.42,41.6,rf,1,SRL,seam,yes,5.914999999999999,10.985
-3,1041,237,SRL,4,117,278,ARS Silva,DW Steyn,6,13,21,37,914,44.52,Right-hand bat,39,19,0,17538.1,22.42,41.6,rf,0,SRL,seam,yes,5.914999999999999,10.985
-3,1042,238,SRL,4,117,278,ARS Silva,DW Steyn,6,13,22,37,914,44.52,Right-hand bat,40,19,0,17538.1,22.42,41.6,rf,0,SRL,seam,yes,5.914999999999999,10.985
-3,1043,239,SRL,4,117,278,ARS Silva,DW Steyn,6,13,23,37,914,44.52,Right-hand bat,41,19,0,17538.1,22.42,41.6,rf,0,SRL,seam,yes,5.914999999999999,10.985

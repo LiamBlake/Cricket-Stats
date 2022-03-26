@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1189,180,ENG,2,80,297,JE Root,PJ Malan,4,4,14,48.4,13931,54.54,Right-hand bat,0,0,0,12,NA,NA,rmf,0,RSA,seam,yes,26.934375,0.690625
-3,1190,181,ENG,2,80,297,JE Root,PJ Malan,4,4,15,48.4,13931,54.54,Right-hand bat,1,0,0,12,NA,NA,rmf,1,RSA,seam,yes,26.934375,0.690625
-3,1201,192,ENG,2,82,299,JE Root,PJ Malan,4,6,21,48.4,13931,54.54,Right-hand bat,6,1,0,12,NA,NA,rmf,0,RSA,seam,yes,26.934375,0.690625
-3,1202,193,ENG,2,82,299,JE Root,PJ Malan,4,6,22,48.4,13931,54.54,Right-hand bat,7,1,0,12,NA,NA,rmf,0,RSA,seam,yes,26.934375,0.690625
-3,1203,194,ENG,2,82,299,JE Root,PJ Malan,4,6,23,48.4,13931,54.54,Right-hand bat,8,1,0,12,NA,NA,rmf,0,RSA,seam,yes,26.934375,0.690625
-3,1204,195,ENG,2,82,299,JE Root,PJ Malan,4,6,24,48.4,13931,54.54,Right-hand bat,9,1,0,12,NA,NA,rmf,0,RSA,seam,yes,26.934375,0.690625
-3,1205,196,ENG,2,82,299,JE Root,PJ Malan,4,6,25,48.4,13931,54.54,Right-hand bat,10,1,0,12,NA,NA,rmf,4,RSA,seam,yes,26.934375,0.690625
-3,1206,197,ENG,2,86,303,JE Root,PJ Malan,4,10,26,48.4,13931,54.54,Right-hand bat,11,5,0,12,NA,NA,rmf,0,RSA,seam,yes,26.934375,0.690625

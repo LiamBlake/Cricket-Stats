@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1676,732,ENG,9,322,-36,MJ Leach,PJ Cummins,11,0,9,19.5,352,44.31,Left-hand bat,139,66,1,5094.4,21.48,45.9,rf,0,ENG,seam,yes,19.65154503616042,2.245890861275477
-4,1693,749,ENG,9,351,-7,MJ Leach,PJ Cummins,11,0,12,19.5,352,44.31,Left-hand bat,144,75,1,5094.4,21.48,45.9,rf,0,ENG,seam,yes,19.65154503616042,2.245890861275477
-4,1694,750,ENG,9,351,-7,MJ Leach,PJ Cummins,11,0,13,19.5,352,44.31,Left-hand bat,145,75,1,5094.4,21.48,45.9,rf,0,ENG,seam,yes,19.65154503616042,2.245890861275477
-4,1701,757,ENG,9,357,-1,MJ Leach,PJ Cummins,11,0,14,19.5,352,44.31,Left-hand bat,146,75,1,5094.4,21.48,45.9,rf,0,ENG,seam,yes,19.65154503616042,2.245890861275477
-4,1702,758,ENG,9,357,-1,MJ Leach,PJ Cummins,11,0,15,19.5,352,44.31,Left-hand bat,147,75,1,5094.4,21.48,45.9,rf,0,ENG,seam,yes,19.65154503616042,2.245890861275477
-4,1703,759,ENG,9,357,-1,MJ Leach,PJ Cummins,11,0,16,19.5,352,44.31,Left-hand bat,148,75,1,5094.4,21.48,45.9,rf,1,ENG,seam,yes,19.65154503616042,2.245890861275477

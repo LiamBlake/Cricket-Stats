@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,2126,831,WIN,6,439,43,DJG Sammy,AJ Redmond,8,40,69,22.73,1896,68.35,Right-hand bat,24,14,0,102.3,26.66,35,rls,0,NZL,spin,yes,28.444444444444443,14.222222222222221
-3,2127,832,WIN,6,439,43,DJG Sammy,AJ Redmond,8,40,70,22.73,1896,68.35,Right-hand bat,25,14,0,102.3,26.66,35,rls,0,NZL,spin,yes,28.444444444444443,14.222222222222221
-3,2128,833,WIN,6,439,43,DJG Sammy,AJ Redmond,8,40,71,22.73,1896,68.35,Right-hand bat,26,14,0,102.3,26.66,35,rls,0,NZL,spin,yes,28.444444444444443,14.222222222222221
-3,2129,834,WIN,6,439,43,DJG Sammy,AJ Redmond,8,40,72,22.73,1896,68.35,Right-hand bat,27,14,0,102.3,26.66,35,rls,0,NZL,spin,yes,28.444444444444443,14.222222222222221
-3,2130,835,WIN,6,439,43,DJG Sammy,AJ Redmond,8,40,73,22.73,1896,68.35,Right-hand bat,28,14,0,102.3,26.66,35,rls,4,NZL,spin,yes,28.444444444444443,14.222222222222221
-3,2131,836,WIN,6,443,47,DJG Sammy,AJ Redmond,8,44,74,22.73,1896,68.35,Right-hand bat,29,18,0,102.3,26.66,35,rls,0,NZL,spin,yes,28.444444444444443,14.222222222222221

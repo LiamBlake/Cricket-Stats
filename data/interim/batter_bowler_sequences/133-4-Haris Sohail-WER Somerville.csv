@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2290,103,PAK,2,43,-236,Haris Sohail,WER Somerville,4,9,25,40.33,1663,43.65,Left-hand bat,0,0,0,336,18.14,48,rob,0,NZL,spin,no,9.913805697589481,20.653761869978087
-4,2291,104,PAK,2,43,-236,Haris Sohail,WER Somerville,4,9,26,40.33,1663,43.65,Left-hand bat,1,0,0,336,18.14,48,rob,0,NZL,spin,no,9.913805697589481,20.653761869978087
-4,2292,105,PAK,2,43,-236,Haris Sohail,WER Somerville,4,9,27,40.33,1663,43.65,Left-hand bat,2,0,0,336,18.14,48,rob,W,NZL,spin,no,9.913805697589481,20.653761869978087

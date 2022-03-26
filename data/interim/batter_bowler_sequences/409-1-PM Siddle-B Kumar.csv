@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,667,667,AUS,7,348,348,PM Siddle,B Kumar,9,13,66,15.22,1406,47.65,Right-hand bat,67,49,0,78,NA,NA,rm,0,IND,seam,yes,9.7109375,29.1328125
-1,668,668,AUS,7,348,348,PM Siddle,B Kumar,9,13,67,15.22,1406,47.65,Right-hand bat,68,49,0,78,NA,NA,rm,0,IND,seam,yes,9.7109375,29.1328125
-1,669,669,AUS,7,348,348,PM Siddle,B Kumar,9,13,68,15.22,1406,47.65,Right-hand bat,69,49,0,78,NA,NA,rm,0,IND,seam,yes,9.7109375,29.1328125
-1,670,670,AUS,7,348,348,PM Siddle,B Kumar,9,13,69,15.22,1406,47.65,Right-hand bat,70,49,0,78,NA,NA,rm,0,IND,seam,yes,9.7109375,29.1328125
-1,671,671,AUS,7,348,348,PM Siddle,B Kumar,9,13,70,15.22,1406,47.65,Right-hand bat,71,49,0,78,NA,NA,rm,0,IND,seam,yes,9.7109375,29.1328125

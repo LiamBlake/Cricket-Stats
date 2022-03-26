@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1986,106,NZL,1,55,177,JM How,SJ Harmison,1,15,55,23.81,503,52.08,Right-hand bat,4,5,0,12402.3,31.39,58.5,rfm,0,NZL,seam,yes,19.615384615384617,8.717948717948717
-3,1987,107,NZL,1,55,177,JM How,SJ Harmison,1,15,56,23.81,503,52.08,Right-hand bat,5,5,0,12402.3,31.39,58.5,rfm,0,NZL,seam,yes,19.615384615384617,8.717948717948717
-3,1994,114,NZL,1,55,177,JM How,SJ Harmison,1,15,57,23.81,503,52.08,Right-hand bat,6,5,0,12402.3,31.39,58.5,rfm,0,NZL,seam,yes,19.615384615384617,8.717948717948717
-3,1995,115,NZL,1,55,177,JM How,SJ Harmison,1,15,58,23.81,503,52.08,Right-hand bat,7,5,0,12402.3,31.39,58.5,rfm,1,NZL,seam,yes,19.615384615384617,8.717948717948717
-3,1999,119,NZL,1,57,179,JM How,SJ Harmison,1,16,59,23.81,503,52.08,Right-hand bat,11,7,0,12402.3,31.39,58.5,rfm,1,NZL,seam,yes,19.615384615384617,8.717948717948717
-3,2019,139,NZL,1,81,203,JM How,SJ Harmison,1,30,70,23.81,503,52.08,Right-hand bat,19,17,0,12402.3,31.39,58.5,rfm,0,NZL,seam,yes,19.615384615384617,8.717948717948717
-3,2020,140,NZL,1,81,203,JM How,SJ Harmison,1,30,71,23.81,503,52.08,Right-hand bat,20,17,0,12402.3,31.39,58.5,rfm,1,NZL,seam,yes,19.615384615384617,8.717948717948717

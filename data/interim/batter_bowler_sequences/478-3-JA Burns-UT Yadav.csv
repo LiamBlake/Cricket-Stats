@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,2118,222,AUS,5,214,311,JA Burns,UT Yadav,6,40,27,36.5,197,74.11,Right-hand bat,11,22,0,2196,36.93,51,rf,0,AUS,seam,yes,36.166666666666664,15.5
-3,2119,223,AUS,5,214,311,JA Burns,UT Yadav,6,40,28,36.5,197,74.11,Right-hand bat,12,22,0,2196,36.93,51,rf,1,AUS,seam,yes,36.166666666666664,15.5
-3,2127,231,AUS,5,226,323,JA Burns,UT Yadav,6,42,31,36.5,197,74.11,Right-hand bat,14,24,0,2196,36.93,51,rf,4,AUS,seam,yes,36.166666666666664,15.5
-3,2128,232,AUS,5,230,327,JA Burns,UT Yadav,6,46,32,36.5,197,74.11,Right-hand bat,15,28,0,2196,36.93,51,rf,4,AUS,seam,yes,36.166666666666664,15.5
-3,2129,233,AUS,5,234,331,JA Burns,UT Yadav,6,50,33,36.5,197,74.11,Right-hand bat,16,32,0,2196,36.93,51,rf,4,AUS,seam,yes,36.166666666666664,15.5
-3,2130,234,AUS,5,238,335,JA Burns,UT Yadav,6,54,34,36.5,197,74.11,Right-hand bat,17,36,0,2196,36.93,51,rf,4,AUS,seam,yes,36.166666666666664,15.5
-3,2131,235,AUS,5,242,339,JA Burns,UT Yadav,6,58,35,36.5,197,74.11,Right-hand bat,18,40,0,2196,36.93,51,rf,1,AUS,seam,yes,36.166666666666664,15.5

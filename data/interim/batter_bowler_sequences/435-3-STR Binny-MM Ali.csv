@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1648,457,IND,5,203,179,STR Binny,MM Ali,7,0,5,22,153,57.51,Right-hand bat,37,15,0,738,44.9,73.8,rob,0,ENG,spin,no,23.580000000000002,5.8950000000000005
-3,1649,458,IND,5,203,179,STR Binny,MM Ali,7,0,6,22,153,57.51,Right-hand bat,38,15,0,738,44.9,73.8,rob,0,ENG,spin,no,23.580000000000002,5.8950000000000005
-3,1650,459,IND,5,203,179,STR Binny,MM Ali,7,0,7,22,153,57.51,Right-hand bat,39,15,0,738,44.9,73.8,rob,0,ENG,spin,no,23.580000000000002,5.8950000000000005
-3,1651,460,IND,5,203,179,STR Binny,MM Ali,7,0,8,22,153,57.51,Right-hand bat,40,15,0,738,44.9,73.8,rob,W,ENG,spin,no,23.580000000000002,5.8950000000000005

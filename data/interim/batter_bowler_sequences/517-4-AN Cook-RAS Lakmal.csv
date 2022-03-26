@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1885,54,ENG,0,29,-49,AN Cook,RAS Lakmal,1,19,22,46.49,21658,46.36,Left-hand bat,0,0,0,4962.2,49.62,88.6,rfm,4,ENG,seam,yes,32.05555555555556,6.411111111111111
-4,1886,55,ENG,0,33,-45,AN Cook,RAS Lakmal,1,23,23,46.49,21658,46.36,Left-hand bat,1,4,0,4962.2,49.62,88.6,rfm,0,ENG,seam,yes,32.05555555555556,6.411111111111111
-4,1887,56,ENG,0,33,-45,AN Cook,RAS Lakmal,1,23,24,46.49,21658,46.36,Left-hand bat,2,4,0,4962.2,49.62,88.6,rfm,0,ENG,seam,yes,32.05555555555556,6.411111111111111
-4,1888,57,ENG,0,33,-45,AN Cook,RAS Lakmal,1,23,25,46.49,21658,46.36,Left-hand bat,3,4,0,4962.2,49.62,88.6,rfm,0,ENG,seam,yes,32.05555555555556,6.411111111111111
-4,1889,58,ENG,0,33,-45,AN Cook,RAS Lakmal,1,23,26,46.49,21658,46.36,Left-hand bat,4,4,0,4962.2,49.62,88.6,rfm,0,ENG,seam,yes,32.05555555555556,6.411111111111111
-4,1890,59,ENG,0,33,-45,AN Cook,RAS Lakmal,1,23,27,46.49,21658,46.36,Left-hand bat,5,4,0,4962.2,49.62,88.6,rfm,0,ENG,seam,yes,32.05555555555556,6.411111111111111
-4,1968,137,ENG,1,72,-6,AN Cook,RAS Lakmal,1,47,64,46.49,21658,46.36,Left-hand bat,17,9,0,4962.2,49.62,88.6,rfm,0,ENG,seam,yes,32.05555555555556,6.411111111111111

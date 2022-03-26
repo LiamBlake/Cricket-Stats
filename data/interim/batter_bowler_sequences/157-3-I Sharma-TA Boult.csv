@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1467,452,IND,7,169,-14,I Sharma,TA Boult,9,0,3,8.37,2400,30,Right-hand bat,126,33,4,14688,27.84,56.2,lfm,0,NZL,seam,no,21.389999999999997,2.3766666666666665
-3,1468,453,IND,7,169,-14,I Sharma,TA Boult,9,0,4,8.37,2400,30,Right-hand bat,127,33,4,14688,27.84,56.2,lfm,2,NZL,seam,no,21.389999999999997,2.3766666666666665
-3,1469,454,IND,7,171,-12,I Sharma,TA Boult,9,2,5,8.37,2400,30,Right-hand bat,128,35,4,14688,27.84,56.2,lfm,0,NZL,seam,no,21.389999999999997,2.3766666666666665
-3,1470,455,IND,7,171,-12,I Sharma,TA Boult,9,2,6,8.37,2400,30,Right-hand bat,129,35,4,14688,27.84,56.2,lfm,4,NZL,seam,no,21.389999999999997,2.3766666666666665
-3,1471,456,IND,7,175,-8,I Sharma,TA Boult,9,6,7,8.37,2400,30,Right-hand bat,130,39,4,14688,27.84,56.2,lfm,0,NZL,seam,no,21.389999999999997,2.3766666666666665
-3,1472,457,IND,7,175,-8,I Sharma,TA Boult,9,6,8,8.37,2400,30,Right-hand bat,131,39,4,14688,27.84,56.2,lfm,0,NZL,seam,no,21.389999999999997,2.3766666666666665

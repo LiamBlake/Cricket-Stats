@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1484,881,AUS,7,473,203,MG Johnson,DL Vettori,9,2,5,22.53,532,55.07,Left-hand bat,340,120,2,20982.2,33.5,76,lo,0,AUS,spin,no,23.52,10.080000000000002
-2,1485,882,AUS,7,473,203,MG Johnson,DL Vettori,9,2,6,22.53,532,55.07,Left-hand bat,341,120,2,20982.2,33.5,76,lo,0,AUS,spin,no,23.52,10.080000000000002
-2,1486,883,AUS,7,473,203,MG Johnson,DL Vettori,9,2,7,22.53,532,55.07,Left-hand bat,342,120,2,20982.2,33.5,76,lo,0,AUS,spin,no,23.52,10.080000000000002
-2,1487,884,AUS,7,473,203,MG Johnson,DL Vettori,9,2,8,22.53,532,55.07,Left-hand bat,343,120,2,20982.2,33.5,76,lo,0,AUS,spin,no,23.52,10.080000000000002
-2,1488,885,AUS,7,473,203,MG Johnson,DL Vettori,9,2,9,22.53,532,55.07,Left-hand bat,344,120,2,20982.2,33.5,76,lo,0,AUS,spin,no,23.52,10.080000000000002
-2,1495,892,AUS,7,481,211,MG Johnson,DL Vettori,9,3,13,22.53,532,55.07,Left-hand bat,345,120,2,20982.2,33.5,76,lo,0,AUS,spin,no,23.52,10.080000000000002
-2,1496,893,AUS,7,481,211,MG Johnson,DL Vettori,9,3,14,22.53,532,55.07,Left-hand bat,346,120,2,20982.2,33.5,76,lo,2,AUS,spin,no,23.52,10.080000000000002
-2,1497,894,AUS,7,483,213,MG Johnson,DL Vettori,9,5,15,22.53,532,55.07,Left-hand bat,347,122,2,20982.2,33.5,76,lo,1,AUS,spin,no,23.52,10.080000000000002

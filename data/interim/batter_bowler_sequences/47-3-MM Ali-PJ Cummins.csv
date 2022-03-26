@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1777,289,ENG,5,138,112,MM Ali,PJ Cummins,6,35,49,34.79,4460,53.04,Left-hand bat,60,18,0,1356.4,25.64,54.4,rf,0,ENG,seam,yes,24.395555555555557,8.87111111111111
-3,1778,290,ENG,5,138,112,MM Ali,PJ Cummins,6,35,50,34.79,4460,53.04,Left-hand bat,61,18,0,1356.4,25.64,54.4,rf,1,ENG,seam,yes,24.395555555555557,8.87111111111111
-3,1781,293,ENG,5,140,114,MM Ali,PJ Cummins,6,36,51,34.79,4460,53.04,Left-hand bat,64,20,0,1356.4,25.64,54.4,rf,0,ENG,seam,yes,24.395555555555557,8.87111111111111
-3,1782,294,ENG,5,140,114,MM Ali,PJ Cummins,6,36,52,34.79,4460,53.04,Left-hand bat,65,20,0,1356.4,25.64,54.4,rf,1,ENG,seam,yes,24.395555555555557,8.87111111111111
-3,1792,304,ENG,5,150,124,MM Ali,PJ Cummins,6,38,56,34.79,4460,53.04,Left-hand bat,69,22,0,1356.4,25.64,54.4,rf,1,ENG,seam,yes,24.395555555555557,8.87111111111111

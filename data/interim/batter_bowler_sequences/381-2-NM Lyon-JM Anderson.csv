@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1070,509,AUS,8,245,7,NM Lyon,JM Anderson,10,0,0,13.55,657,37.13,Right-hand bat,135,60,1,18990.2,30.2,58.6,rfm,0,ENG,seam,no,19.24875,7.3012500000000005
-2,1071,510,AUS,8,245,7,NM Lyon,JM Anderson,10,0,1,13.55,657,37.13,Right-hand bat,136,60,1,18990.2,30.2,58.6,rfm,0,ENG,seam,no,19.24875,7.3012500000000005
-2,1072,511,AUS,8,245,7,NM Lyon,JM Anderson,10,0,2,13.55,657,37.13,Right-hand bat,137,60,1,18990.2,30.2,58.6,rfm,0,ENG,seam,no,19.24875,7.3012500000000005
-2,1082,521,AUS,8,254,16,NM Lyon,JM Anderson,10,0,4,13.55,657,37.13,Right-hand bat,140,61,1,18990.2,30.2,58.6,rfm,4,ENG,seam,no,19.24875,7.3012500000000005
-2,1083,522,AUS,8,258,20,NM Lyon,JM Anderson,10,4,5,13.55,657,37.13,Right-hand bat,141,65,1,18990.2,30.2,58.6,rfm,0,ENG,seam,no,19.24875,7.3012500000000005
-2,1084,523,AUS,8,258,20,NM Lyon,JM Anderson,10,4,6,13.55,657,37.13,Right-hand bat,142,65,1,18990.2,30.2,58.6,rfm,W,ENG,seam,no,19.24875,7.3012500000000005

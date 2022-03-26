@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1350,571,ENG,8,234,-221,SCJ Broad,RA Jadeja,10,0,0,21.54,4102,65.11,Left-hand bat,163,53,2,5958,24.45,65.4,lo,0,IND,spin,no,9.379999999999999,17.42
-2,1351,572,ENG,8,234,-221,SCJ Broad,RA Jadeja,10,0,1,21.54,4102,65.11,Left-hand bat,164,53,2,5958,24.45,65.4,lo,0,IND,spin,no,9.379999999999999,17.42
-2,1352,573,ENG,8,234,-221,SCJ Broad,RA Jadeja,10,0,2,21.54,4102,65.11,Left-hand bat,165,53,2,5958,24.45,65.4,lo,0,IND,spin,no,9.379999999999999,17.42
-2,1353,574,ENG,8,234,-221,SCJ Broad,RA Jadeja,10,0,3,21.54,4102,65.11,Left-hand bat,166,53,2,5958,24.45,65.4,lo,0,IND,spin,no,9.379999999999999,17.42
-2,1354,575,ENG,8,234,-221,SCJ Broad,RA Jadeja,10,0,4,21.54,4102,65.11,Left-hand bat,167,53,2,5958,24.45,65.4,lo,0,IND,spin,no,9.379999999999999,17.42
-2,1385,606,ENG,8,252,-203,SCJ Broad,RA Jadeja,10,10,19,21.54,4102,65.11,Left-hand bat,168,53,2,5958,24.45,65.4,lo,2,IND,spin,no,9.379999999999999,17.42
-2,1386,607,ENG,8,254,-201,SCJ Broad,RA Jadeja,10,12,20,21.54,4102,65.11,Left-hand bat,169,55,2,5958,24.45,65.4,lo,0,IND,spin,no,9.379999999999999,17.42
-2,1387,608,ENG,8,254,-201,SCJ Broad,RA Jadeja,10,12,21,21.54,4102,65.11,Left-hand bat,170,55,2,5958,24.45,65.4,lo,1,IND,spin,no,9.379999999999999,17.42

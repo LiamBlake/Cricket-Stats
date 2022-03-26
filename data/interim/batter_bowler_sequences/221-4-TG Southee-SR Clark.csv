@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1574,315,NZL,7,161,-165,TG Southee,SR Clark,9,0,2,31.66,80,118.75,Right-hand bat,94,30,3,4680.4,22.34,52.6,rfm,0,AUS,seam,yes,18.846875,1.528125
-4,1575,316,NZL,7,161,-165,TG Southee,SR Clark,9,0,3,31.66,80,118.75,Right-hand bat,95,30,3,4680.4,22.34,52.6,rfm,0,AUS,seam,yes,18.846875,1.528125
-4,1585,326,NZL,9,165,-161,TG Southee,SR Clark,9,0,4,31.66,80,118.75,Right-hand bat,99,31,4,4680.4,22.34,52.6,rfm,6,AUS,seam,yes,18.846875,1.528125
-4,1586,327,NZL,9,171,-155,TG Southee,SR Clark,9,6,5,31.66,80,118.75,Right-hand bat,100,37,4,4680.4,22.34,52.6,rfm,0,AUS,seam,yes,18.846875,1.528125
-4,1587,328,NZL,9,171,-155,TG Southee,SR Clark,9,6,6,31.66,80,118.75,Right-hand bat,101,37,4,4680.4,22.34,52.6,rfm,6,AUS,seam,yes,18.846875,1.528125

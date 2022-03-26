@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1834,387,WIN,7,208,-248,S Shillingford,GC Smith,8,6,20,13.5,40,67.5,Right-hand bat,0,0,0,1320.2,100.62,165.2,rob,0,WIN,spin,no,14.839100346020762,13.190311418685122
-4,1835,388,WIN,7,208,-248,S Shillingford,GC Smith,8,6,21,13.5,40,67.5,Right-hand bat,1,0,0,1320.2,100.62,165.2,rob,0,WIN,spin,no,14.839100346020762,13.190311418685122
-4,1836,389,WIN,7,208,-248,S Shillingford,GC Smith,8,6,22,13.5,40,67.5,Right-hand bat,2,0,0,1320.2,100.62,165.2,rob,4,WIN,spin,no,14.839100346020762,13.190311418685122

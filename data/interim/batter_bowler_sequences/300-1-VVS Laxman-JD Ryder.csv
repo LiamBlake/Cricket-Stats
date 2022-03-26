@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,616,616,IND,3,354,354,VVS Laxman,JD Ryder,5,21,59,47.63,15464,49.28,Right-hand bat,66,44,1,480,53.6,96,rm,0,IND,seam,yes,15.408949011446408,24.397502601456814
-1,617,617,IND,3,354,354,VVS Laxman,JD Ryder,5,21,60,47.63,15464,49.28,Right-hand bat,67,44,1,480,53.6,96,rm,0,IND,seam,yes,15.408949011446408,24.397502601456814
-1,618,618,IND,3,354,354,VVS Laxman,JD Ryder,5,21,61,47.63,15464,49.28,Right-hand bat,68,44,1,480,53.6,96,rm,0,IND,seam,yes,15.408949011446408,24.397502601456814
-1,619,619,IND,3,354,354,VVS Laxman,JD Ryder,5,21,62,47.63,15464,49.28,Right-hand bat,69,44,1,480,53.6,96,rm,0,IND,seam,yes,15.408949011446408,24.397502601456814
-1,620,620,IND,3,354,354,VVS Laxman,JD Ryder,5,21,63,47.63,15464,49.28,Right-hand bat,70,44,1,480,53.6,96,rm,1,IND,seam,yes,15.408949011446408,24.397502601456814
-1,630,630,IND,3,356,356,VVS Laxman,JD Ryder,5,22,70,47.63,15464,49.28,Right-hand bat,74,46,1,480,53.6,96,rm,1,IND,seam,yes,15.408949011446408,24.397502601456814

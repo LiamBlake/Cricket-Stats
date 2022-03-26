@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1547,288,RSA,3,136,130,DW Steyn,GP Swann,5,0,5,14.69,1866,43.3,Right-hand bat,119,38,1,11592.2,29.58,60.3,rob,0,ENG,spin,yes,26.966250000000002,4.758750000000001
-3,1604,345,RSA,3,159,153,DW Steyn,GP Swann,5,5,32,14.69,1866,43.3,Right-hand bat,121,39,1,11592.2,29.58,60.3,rob,2,ENG,spin,yes,26.966250000000002,4.758750000000001
-3,1605,346,RSA,3,161,155,DW Steyn,GP Swann,5,7,33,14.69,1866,43.3,Right-hand bat,122,41,1,11592.2,29.58,60.3,rob,0,ENG,spin,yes,26.966250000000002,4.758750000000001
-3,1606,347,RSA,3,161,155,DW Steyn,GP Swann,5,7,34,14.69,1866,43.3,Right-hand bat,123,41,1,11592.2,29.58,60.3,rob,0,ENG,spin,yes,26.966250000000002,4.758750000000001
-3,1607,348,RSA,3,161,155,DW Steyn,GP Swann,5,7,35,14.69,1866,43.3,Right-hand bat,124,41,1,11592.2,29.58,60.3,rob,1,ENG,spin,yes,26.966250000000002,4.758750000000001

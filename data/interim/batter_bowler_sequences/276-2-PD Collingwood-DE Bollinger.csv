@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1201,684,ENG,3,434,189,PD Collingwood,DE Bollinger,5,38,56,41.8,9070,46.54,Right-hand bat,136,109,1,2400.1,25.92,48,lfm,0,AUS,seam,no,28.055999999999997,18.703999999999997
-2,1202,685,ENG,3,434,189,PD Collingwood,DE Bollinger,5,38,57,41.8,9070,46.54,Right-hand bat,137,109,1,2400.1,25.92,48,lfm,0,AUS,seam,no,28.055999999999997,18.703999999999997
-2,1203,686,ENG,3,434,189,PD Collingwood,DE Bollinger,5,38,58,41.8,9070,46.54,Right-hand bat,138,109,1,2400.1,25.92,48,lfm,1,AUS,seam,no,28.055999999999997,18.703999999999997

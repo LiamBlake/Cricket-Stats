@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,507,58,NZL,1,16,-215,MS Sinclair,NM Hauritz,3,5,29,32.05,3795,43.08,Right-hand bat,3,1,0,3660,31.82,64.2,rob,0,NZL,spin,no,24.457063711911356,9.963988919667589
-2,508,59,NZL,1,16,-215,MS Sinclair,NM Hauritz,3,5,30,32.05,3795,43.08,Right-hand bat,4,1,0,3660,31.82,64.2,rob,0,NZL,spin,no,24.457063711911356,9.963988919667589
-2,509,60,NZL,1,16,-215,MS Sinclair,NM Hauritz,3,5,31,32.05,3795,43.08,Right-hand bat,5,1,0,3660,31.82,64.2,rob,0,NZL,spin,no,24.457063711911356,9.963988919667589
-2,516,67,NZL,1,16,-215,MS Sinclair,NM Hauritz,3,5,32,32.05,3795,43.08,Right-hand bat,6,1,0,3660,31.82,64.2,rob,2,NZL,spin,no,24.457063711911356,9.963988919667589
-2,517,68,NZL,1,18,-213,MS Sinclair,NM Hauritz,3,7,33,32.05,3795,43.08,Right-hand bat,7,3,0,3660,31.82,64.2,rob,0,NZL,spin,no,24.457063711911356,9.963988919667589
-2,518,69,NZL,1,18,-213,MS Sinclair,NM Hauritz,3,7,34,32.05,3795,43.08,Right-hand bat,8,3,0,3660,31.82,64.2,rob,0,NZL,spin,no,24.457063711911356,9.963988919667589
-2,519,70,NZL,1,18,-213,MS Sinclair,NM Hauritz,3,7,35,32.05,3795,43.08,Right-hand bat,9,3,0,3660,31.82,64.2,rob,1,NZL,spin,no,24.457063711911356,9.963988919667589

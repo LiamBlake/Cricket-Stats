@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,794,209,ENG,3,85,-210,IR Bell,NM Lyon,5,3,8,46.26,13197,49.43,Right-hand bat,18,0,0,5718.5,32.44,64.3,rob,0,AUS,spin,no,22.89335281227173,4.430971512052593
-2,795,210,ENG,3,85,-210,IR Bell,NM Lyon,5,3,9,46.26,13197,49.43,Right-hand bat,19,0,0,5718.5,32.44,64.3,rob,0,AUS,spin,no,22.89335281227173,4.430971512052593
-2,796,211,ENG,3,85,-210,IR Bell,NM Lyon,5,3,10,46.26,13197,49.43,Right-hand bat,20,0,0,5718.5,32.44,64.3,rob,2,AUS,spin,no,22.89335281227173,4.430971512052593
-2,797,212,ENG,3,87,-208,IR Bell,NM Lyon,5,5,11,46.26,13197,49.43,Right-hand bat,21,2,0,5718.5,32.44,64.3,rob,0,AUS,spin,no,22.89335281227173,4.430971512052593
-2,798,213,ENG,3,87,-208,IR Bell,NM Lyon,5,5,12,46.26,13197,49.43,Right-hand bat,22,2,0,5718.5,32.44,64.3,rob,0,AUS,spin,no,22.89335281227173,4.430971512052593
-2,799,214,ENG,3,87,-208,IR Bell,NM Lyon,5,5,13,46.26,13197,49.43,Right-hand bat,23,2,0,5718.5,32.44,64.3,rob,0,AUS,spin,no,22.89335281227173,4.430971512052593
-2,806,221,ENG,4,87,-208,IR Bell,NM Lyon,5,5,14,46.26,13197,49.43,Right-hand bat,24,2,0,5718.5,32.44,64.3,rob,0,AUS,spin,no,22.89335281227173,4.430971512052593
-2,807,222,ENG,4,87,-208,IR Bell,NM Lyon,5,5,15,46.26,13197,49.43,Right-hand bat,25,2,0,5718.5,32.44,64.3,rob,W,AUS,spin,no,22.89335281227173,4.430971512052593

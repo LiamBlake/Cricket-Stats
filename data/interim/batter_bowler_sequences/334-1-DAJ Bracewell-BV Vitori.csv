@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,640,640,NZL,6,388,388,DAJ Bracewell,BV Vitori,8,7,12,5,125,24,Right-hand bat,139,82,0,540,55.66,90,lfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
-1,641,641,NZL,6,388,388,DAJ Bracewell,BV Vitori,8,7,13,5,125,24,Right-hand bat,140,82,0,540,55.66,90,lfm,4,NZL,seam,no,21.737997256515776,4.725651577503429
-1,642,642,NZL,6,392,392,DAJ Bracewell,BV Vitori,8,11,14,5,125,24,Right-hand bat,141,86,0,540,55.66,90,lfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
-1,643,643,NZL,6,392,392,DAJ Bracewell,BV Vitori,8,11,15,5,125,24,Right-hand bat,142,86,0,540,55.66,90,lfm,0,NZL,seam,no,21.737997256515776,4.725651577503429
-1,644,644,NZL,6,392,392,DAJ Bracewell,BV Vitori,8,11,16,5,125,24,Right-hand bat,143,86,0,540,55.66,90,lfm,W,NZL,seam,no,21.737997256515776,4.725651577503429

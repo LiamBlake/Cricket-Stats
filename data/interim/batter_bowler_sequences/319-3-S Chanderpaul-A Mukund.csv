@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1495,373,WIN,3,158,15,S Chanderpaul,A Mukund,5,43,139,49.04,22226,42.14,Left-hand bat,0,0,0,12,NA,NA,rls,0,WIN,spin,no,18.647382920110193,10.65564738292011
-3,1496,374,WIN,3,158,15,S Chanderpaul,A Mukund,5,43,140,49.04,22226,42.14,Left-hand bat,1,0,0,12,NA,NA,rls,0,WIN,spin,no,18.647382920110193,10.65564738292011
-3,1497,375,WIN,3,158,15,S Chanderpaul,A Mukund,5,43,141,49.04,22226,42.14,Left-hand bat,2,0,0,12,NA,NA,rls,1,WIN,spin,no,18.647382920110193,10.65564738292011
-3,1508,386,WIN,3,166,23,S Chanderpaul,A Mukund,5,44,148,49.04,22226,42.14,Left-hand bat,7,8,0,12,NA,NA,rls,0,WIN,spin,no,18.647382920110193,10.65564738292011
-3,1509,387,WIN,3,166,23,S Chanderpaul,A Mukund,5,44,149,49.04,22226,42.14,Left-hand bat,8,8,0,12,NA,NA,rls,0,WIN,spin,no,18.647382920110193,10.65564738292011
-3,1510,388,WIN,3,166,23,S Chanderpaul,A Mukund,5,44,150,49.04,22226,42.14,Left-hand bat,9,8,0,12,NA,NA,rls,0,WIN,spin,no,18.647382920110193,10.65564738292011
-3,1511,389,WIN,3,166,23,S Chanderpaul,A Mukund,5,44,151,49.04,22226,42.14,Left-hand bat,10,8,0,12,NA,NA,rls,4,WIN,spin,no,18.647382920110193,10.65564738292011
-3,1512,390,WIN,3,170,27,S Chanderpaul,A Mukund,5,48,152,49.04,22226,42.14,Left-hand bat,11,12,0,12,NA,NA,rls,2,WIN,spin,no,18.647382920110193,10.65564738292011

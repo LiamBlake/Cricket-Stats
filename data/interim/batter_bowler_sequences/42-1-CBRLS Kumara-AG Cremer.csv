@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,823,823,SRL,9,476,476,CBRLS Kumara,AG Cremer,11,0,0,7,20,35,Left-hand bat,220,118,3,2922,52,78.9,rls,0,ZIM,spin,no,11.662064431295201,20.825115055884286
-1,824,824,SRL,9,476,476,CBRLS Kumara,AG Cremer,11,0,1,7,20,35,Left-hand bat,221,118,3,2922,52,78.9,rls,0,ZIM,spin,no,11.662064431295201,20.825115055884286
-1,860,860,SRL,9,493,493,CBRLS Kumara,AG Cremer,11,0,14,7,20,35,Left-hand bat,238,132,3,2922,52,78.9,rls,4,ZIM,spin,no,11.662064431295201,20.825115055884286
-1,861,861,SRL,9,497,497,CBRLS Kumara,AG Cremer,11,4,15,7,20,35,Left-hand bat,239,136,3,2922,52,78.9,rls,0,ZIM,spin,no,11.662064431295201,20.825115055884286

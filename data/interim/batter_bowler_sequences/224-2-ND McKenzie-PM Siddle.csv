@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,695,6,RSA,0,0,-394,ND McKenzie,PM Siddle,2,0,0,38.28,7263,42.69,Right-hand bat,0,0,0,798.5,46.55,89.2,rfm,0,AUS,seam,no,34.7117585848075,6.675338189386056
-2,696,7,RSA,0,0,-394,ND McKenzie,PM Siddle,2,0,1,38.28,7263,42.69,Right-hand bat,1,0,0,798.5,46.55,89.2,rfm,0,AUS,seam,no,34.7117585848075,6.675338189386056
-2,697,8,RSA,0,0,-394,ND McKenzie,PM Siddle,2,0,2,38.28,7263,42.69,Right-hand bat,2,0,0,798.5,46.55,89.2,rfm,0,AUS,seam,no,34.7117585848075,6.675338189386056
-2,698,9,RSA,0,0,-394,ND McKenzie,PM Siddle,2,0,3,38.28,7263,42.69,Right-hand bat,3,0,0,798.5,46.55,89.2,rfm,1nb,AUS,seam,no,34.7117585848075,6.675338189386056
-2,699,10,RSA,0,1,-393,ND McKenzie,PM Siddle,2,0,4,38.28,7263,42.69,Right-hand bat,4,1,0,798.5,46.55,89.2,rfm,W,AUS,seam,no,34.7117585848075,6.675338189386056

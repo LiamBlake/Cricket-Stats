@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1603,767,ENG,8,416,-3,JM Anderson,DW Steyn,10,0,7,11.26,1799,37.57,Left-hand bat,163,98,2,11646.5,23.36,41.3,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
-2,1604,768,ENG,8,416,-3,JM Anderson,DW Steyn,10,0,8,11.26,1799,37.57,Left-hand bat,164,98,2,11646.5,23.36,41.3,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
-2,1605,769,ENG,8,416,-3,JM Anderson,DW Steyn,10,0,9,11.26,1799,37.57,Left-hand bat,165,98,2,11646.5,23.36,41.3,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052
-2,1606,770,ENG,8,416,-3,JM Anderson,DW Steyn,10,0,10,11.26,1799,37.57,Left-hand bat,166,98,2,11646.5,23.36,41.3,rf,4,ENG,seam,yes,28.282828282828284,9.050505050505052
-2,1607,771,ENG,8,420,1,JM Anderson,DW Steyn,10,4,11,11.26,1799,37.57,Left-hand bat,167,102,2,11646.5,23.36,41.3,rf,0,ENG,seam,yes,28.282828282828284,9.050505050505052

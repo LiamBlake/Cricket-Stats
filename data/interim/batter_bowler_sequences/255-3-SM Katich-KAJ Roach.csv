@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1294,1,AUS,0,1,209,SM Katich,KAJ Roach,2,0,0,44.48,6553,50.23,Left-hand bat,1,0,0,1080.4,29.3,54.2,rfm,0,AUS,seam,yes,26.69101533966399,9.532505478451425
-3,1295,2,AUS,0,1,209,SM Katich,KAJ Roach,2,0,1,44.48,6553,50.23,Left-hand bat,2,0,0,1080.4,29.3,54.2,rfm,0,AUS,seam,yes,26.69101533966399,9.532505478451425
-3,1296,3,AUS,0,1,209,SM Katich,KAJ Roach,2,0,2,44.48,6553,50.23,Left-hand bat,3,0,0,1080.4,29.3,54.2,rfm,4,AUS,seam,yes,26.69101533966399,9.532505478451425
-3,1297,4,AUS,0,5,213,SM Katich,KAJ Roach,2,4,3,44.48,6553,50.23,Left-hand bat,4,4,0,1080.4,29.3,54.2,rfm,0,AUS,seam,yes,26.69101533966399,9.532505478451425
-3,1298,5,AUS,0,5,213,SM Katich,KAJ Roach,2,4,4,44.48,6553,50.23,Left-hand bat,5,4,0,1080.4,29.3,54.2,rfm,4,AUS,seam,yes,26.69101533966399,9.532505478451425

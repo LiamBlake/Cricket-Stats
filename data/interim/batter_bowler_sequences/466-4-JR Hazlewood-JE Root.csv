@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1944,395,AUS,8,223,-188,JR Hazlewood,JE Root,10,0,0,37,219,50.68,Left-hand bat,22,23,1,894,39,89.4,rob,0,ENG,spin,no,21.414375,10.310625
-4,1945,396,AUS,8,223,-188,JR Hazlewood,JE Root,10,0,1,37,219,50.68,Left-hand bat,23,23,1,894,39,89.4,rob,0,ENG,spin,no,21.414375,10.310625
-4,1956,407,AUS,8,235,-176,JR Hazlewood,JE Root,10,8,7,37,219,50.68,Left-hand bat,28,26,1,894,39,89.4,rob,0,ENG,spin,no,21.414375,10.310625
-4,1957,408,AUS,8,235,-176,JR Hazlewood,JE Root,10,8,8,37,219,50.68,Left-hand bat,29,26,1,894,39,89.4,rob,2,ENG,spin,no,21.414375,10.310625

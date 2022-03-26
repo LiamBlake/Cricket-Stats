@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,815,815,NZL,8,451,451,JS Patel,PD Collingwood,10,0,0,45,66,68.18,Right-hand bat,79,32,2,1008.4,50,92,rm,0,NZL,seam,yes,19.615384615384617,8.717948717948717
-1,816,816,NZL,8,451,451,JS Patel,PD Collingwood,10,0,1,45,66,68.18,Right-hand bat,80,32,2,1008.4,50,92,rm,0,NZL,seam,yes,19.615384615384617,8.717948717948717
-1,817,817,NZL,8,451,451,JS Patel,PD Collingwood,10,0,2,45,66,68.18,Right-hand bat,81,32,2,1008.4,50,92,rm,4,NZL,seam,yes,19.615384615384617,8.717948717948717
-1,818,818,NZL,8,455,455,JS Patel,PD Collingwood,10,4,3,45,66,68.18,Right-hand bat,82,36,2,1008.4,50,92,rm,0,NZL,seam,yes,19.615384615384617,8.717948717948717
-1,819,819,NZL,8,455,455,JS Patel,PD Collingwood,10,4,4,45,66,68.18,Right-hand bat,83,36,2,1008.4,50,92,rm,0,NZL,seam,yes,19.615384615384617,8.717948717948717
-1,826,826,NZL,8,463,463,JS Patel,PD Collingwood,10,4,5,45,66,68.18,Right-hand bat,84,36,2,1008.4,50,92,rm,0,NZL,seam,yes,19.615384615384617,8.717948717948717
-1,827,827,NZL,8,463,463,JS Patel,PD Collingwood,10,4,6,45,66,68.18,Right-hand bat,85,36,2,1008.4,50,92,rm,1,NZL,seam,yes,19.615384615384617,8.717948717948717
-1,831,831,NZL,8,469,469,JS Patel,PD Collingwood,10,5,7,45,66,68.18,Right-hand bat,89,42,2,1008.4,50,92,rm,0,NZL,seam,yes,19.615384615384617,8.717948717948717

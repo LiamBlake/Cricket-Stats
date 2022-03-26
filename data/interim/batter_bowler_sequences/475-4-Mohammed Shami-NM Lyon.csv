@@ -1,3 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2345,492,IND,7,304,-59,Mohammed Shami,NM Lyon,9,0,0,11.5,218,63.3,Right-hand bat,190,147,6,8430.2,34.66,66.3,rob,0,AUS,spin,no,22.939453125,25.998046875
-4,2346,493,IND,7,304,-59,Mohammed Shami,NM Lyon,9,0,1,11.5,218,63.3,Right-hand bat,191,147,6,8430.2,34.66,66.3,rob,1,AUS,spin,no,22.939453125,25.998046875

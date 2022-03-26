@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,973,291,SRL,4,162,76,BKG Mendis,AC Voges,4,116,157,40.23,894,58.5,Right-hand bat,1,1,0,24.4,NA,NA,lo,0,SRL,spin,yes,7.297500000000001,13.5525
-3,974,292,SRL,4,162,76,BKG Mendis,AC Voges,4,116,158,40.23,894,58.5,Right-hand bat,2,1,0,24.4,NA,NA,lo,0,SRL,spin,yes,7.297500000000001,13.5525
-3,975,293,SRL,4,162,76,BKG Mendis,AC Voges,4,116,159,40.23,894,58.5,Right-hand bat,3,1,0,24.4,NA,NA,lo,0,SRL,spin,yes,7.297500000000001,13.5525
-3,982,300,SRL,4,162,76,BKG Mendis,AC Voges,4,116,160,40.23,894,58.5,Right-hand bat,4,1,0,24.4,NA,NA,lo,1,SRL,spin,yes,7.297500000000001,13.5525
-3,987,305,SRL,4,164,78,BKG Mendis,AC Voges,4,117,161,40.23,894,58.5,Right-hand bat,9,3,0,24.4,NA,NA,lo,0,SRL,spin,yes,7.297500000000001,13.5525

@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1377,901,IND,4,489,284,RG Sharma,FDM Karunaratne,6,44,79,40.18,2341,54.93,Right-hand bat,0,0,0,144,97,144,rm,3lb,SRL,seam,no,13.060650887573965,24.67011834319527
-2,1380,904,IND,4,493,288,RG Sharma,FDM Karunaratne,6,44,80,40.18,2341,54.93,Right-hand bat,3,1,0,144,97,144,rm,1,SRL,seam,no,13.060650887573965,24.67011834319527
-2,1382,906,IND,4,495,290,RG Sharma,FDM Karunaratne,6,45,81,40.18,2341,54.93,Right-hand bat,5,3,0,144,97,144,rm,1,SRL,seam,no,13.060650887573965,24.67011834319527
-2,1390,914,IND,4,499,294,RG Sharma,FDM Karunaratne,6,47,85,40.18,2341,54.93,Right-hand bat,7,5,0,144,97,144,rm,1,SRL,seam,no,13.060650887573965,24.67011834319527
-2,1392,916,IND,4,501,296,RG Sharma,FDM Karunaratne,6,48,86,40.18,2341,54.93,Right-hand bat,9,7,0,144,97,144,rm,1,SRL,seam,no,13.060650887573965,24.67011834319527

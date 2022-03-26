@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1751,784,ENG,9,446,-11,JE Root,M Vijay,5,121,234,47.17,3157,43.33,Right-hand bat,0,0,0,18,NA,NA,rob,0,ENG,spin,no,39.952437574316285,6.3923900118906065
-2,1752,785,ENG,9,446,-11,JE Root,M Vijay,5,121,235,47.17,3157,43.33,Right-hand bat,1,0,0,18,NA,NA,rob,0,ENG,spin,no,39.952437574316285,6.3923900118906065
-2,1753,786,ENG,9,446,-11,JE Root,M Vijay,5,121,236,47.17,3157,43.33,Right-hand bat,2,0,0,18,NA,NA,rob,1,ENG,spin,no,39.952437574316285,6.3923900118906065
-2,1763,796,ENG,9,450,-7,JE Root,M Vijay,5,125,243,47.17,3157,43.33,Right-hand bat,6,1,0,18,NA,NA,rob,2,ENG,spin,no,39.952437574316285,6.3923900118906065
-2,1764,797,ENG,9,452,-5,JE Root,M Vijay,5,127,244,47.17,3157,43.33,Right-hand bat,7,3,0,18,NA,NA,rob,1,ENG,spin,no,39.952437574316285,6.3923900118906065

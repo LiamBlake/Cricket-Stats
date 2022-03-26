@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,265,265,SRL,6,128,128,MDK Perera,JO Holder,8,0,2,11.07,419,36.99,Right-hand bat,55,19,2,1458.5,33.31,77,rmf,0,SRL,seam,yes,5.55,12.95
-1,266,266,SRL,6,128,128,MDK Perera,JO Holder,8,0,3,11.07,419,36.99,Right-hand bat,56,19,2,1458.5,33.31,77,rmf,0,SRL,seam,yes,5.55,12.95
-1,267,267,SRL,6,128,128,MDK Perera,JO Holder,8,0,4,11.07,419,36.99,Right-hand bat,57,19,2,1458.5,33.31,77,rmf,0,SRL,seam,yes,5.55,12.95
-1,268,268,SRL,6,128,128,MDK Perera,JO Holder,8,0,5,11.07,419,36.99,Right-hand bat,58,19,2,1458.5,33.31,77,rmf,1lb,SRL,seam,yes,5.55,12.95

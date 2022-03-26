@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,1007,1007,SRL,8,412,412,RMS Eranga,Mohammad Talha,10,17,41,11.66,287,36.58,Right-hand bat,179,87,2,432,36,61.7,rmf,4,PAK,seam,yes,20.008650519031143,17.785467128027683
-1,1008,1008,SRL,8,416,416,RMS Eranga,Mohammad Talha,10,21,42,11.66,287,36.58,Right-hand bat,180,91,2,432,36,61.7,rmf,0,PAK,seam,yes,20.008650519031143,17.785467128027683
-1,1009,1009,SRL,8,416,416,RMS Eranga,Mohammad Talha,10,21,43,11.66,287,36.58,Right-hand bat,181,91,2,432,36,61.7,rmf,0,PAK,seam,yes,20.008650519031143,17.785467128027683

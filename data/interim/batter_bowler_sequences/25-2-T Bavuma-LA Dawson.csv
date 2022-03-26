@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,923,281,RSA,4,143,-315,T Bavuma,LA Dawson,5,16,35,32.03,2063,45.03,Right-hand bat,28,36,0,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
-2,924,282,RSA,4,143,-315,T Bavuma,LA Dawson,5,16,36,32.03,2063,45.03,Right-hand bat,29,36,0,414.4,38.33,69.6,lo,2,ENG,spin,no,16.10125,13.173749999999998
-2,945,303,RSA,4,151,-307,T Bavuma,LA Dawson,5,22,45,32.03,2063,45.03,Right-hand bat,38,39,0,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
-2,946,304,RSA,4,151,-307,T Bavuma,LA Dawson,5,22,46,32.03,2063,45.03,Right-hand bat,39,39,0,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
-2,947,305,RSA,4,151,-307,T Bavuma,LA Dawson,5,22,47,32.03,2063,45.03,Right-hand bat,40,39,0,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
-2,948,306,RSA,4,151,-307,T Bavuma,LA Dawson,5,22,48,32.03,2063,45.03,Right-hand bat,41,39,0,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
-2,1117,475,RSA,6,247,-211,T Bavuma,LA Dawson,5,58,123,32.03,2063,45.03,Right-hand bat,52,48,1,414.4,38.33,69.6,lo,1,ENG,spin,no,16.10125,13.173749999999998

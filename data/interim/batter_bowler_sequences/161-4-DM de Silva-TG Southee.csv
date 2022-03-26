@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2200,500,SRL,4,255,-12,DM de Silva,TG Southee,6,4,4,32.21,2715,55.76,Right-hand bat,62,24,1,14622.2,30.31,59.6,rmf,0,SRL,seam,no,9.247404844290658,22.19377162629758
-4,2201,501,SRL,4,255,-12,DM de Silva,TG Southee,6,4,5,32.21,2715,55.76,Right-hand bat,63,24,1,14622.2,30.31,59.6,rmf,4,SRL,seam,no,9.247404844290658,22.19377162629758
-4,2202,502,SRL,4,259,-8,DM de Silva,TG Southee,6,8,6,32.21,2715,55.76,Right-hand bat,64,28,1,14622.2,30.31,59.6,rmf,0,SRL,seam,no,9.247404844290658,22.19377162629758
-4,2203,503,SRL,4,259,-8,DM de Silva,TG Southee,6,8,7,32.21,2715,55.76,Right-hand bat,65,28,1,14622.2,30.31,59.6,rmf,0,SRL,seam,no,9.247404844290658,22.19377162629758
-4,2213,513,SRL,4,263,-4,DM de Silva,TG Southee,6,10,10,32.21,2715,55.76,Right-hand bat,69,29,1,14622.2,30.31,59.6,rmf,4,SRL,seam,no,9.247404844290658,22.19377162629758
-4,2214,514,SRL,4,267,0,DM de Silva,TG Southee,6,14,11,32.21,2715,55.76,Right-hand bat,70,33,1,14622.2,30.31,59.6,rmf,0,SRL,seam,no,9.247404844290658,22.19377162629758
-4,2215,515,SRL,4,267,0,DM de Silva,TG Southee,6,14,12,32.21,2715,55.76,Right-hand bat,71,33,1,14622.2,30.31,59.6,rmf,0,SRL,seam,no,9.247404844290658,22.19377162629758

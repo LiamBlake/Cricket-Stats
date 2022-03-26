@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1525,231,AUS,1,237,476,UT Khawaja,MD Craig,3,0,0,35,1189,47.09,Left-hand bat,70,69,1,2832.1,42.8,69,rob,0,AUS,spin,yes,36.53061224489796,14.612244897959185
-3,1526,232,AUS,1,237,476,UT Khawaja,MD Craig,3,0,1,35,1189,47.09,Left-hand bat,71,69,1,2832.1,42.8,69,rob,2,AUS,spin,yes,36.53061224489796,14.612244897959185
-3,1533,239,AUS,1,253,492,UT Khawaja,MD Craig,3,3,3,35,1189,47.09,Left-hand bat,72,71,1,2832.1,42.8,69,rob,1,AUS,spin,yes,36.53061224489796,14.612244897959185
-3,1535,241,AUS,2,254,493,UT Khawaja,MD Craig,3,4,4,35,1189,47.09,Left-hand bat,74,72,2,2832.1,42.8,69,rob,1,AUS,spin,yes,36.53061224489796,14.612244897959185
-3,1537,243,AUS,2,256,495,UT Khawaja,MD Craig,3,5,5,35,1189,47.09,Left-hand bat,76,74,2,2832.1,42.8,69,rob,0,AUS,spin,yes,36.53061224489796,14.612244897959185
-3,1538,244,AUS,2,256,495,UT Khawaja,MD Craig,3,5,6,35,1189,47.09,Left-hand bat,77,74,2,2832.1,42.8,69,rob,1,AUS,spin,yes,36.53061224489796,14.612244897959185
-3,1545,251,AUS,3,260,499,UT Khawaja,MD Craig,3,8,9,35,1189,47.09,Left-hand bat,78,75,2,2832.1,42.8,69,rob,1lb,AUS,spin,yes,36.53061224489796,14.612244897959185
-3,1547,253,AUS,3,262,501,UT Khawaja,MD Craig,3,8,10,35,1189,47.09,Left-hand bat,80,76,2,2832.1,42.8,69,rob,1,AUS,spin,yes,36.53061224489796,14.612244897959185

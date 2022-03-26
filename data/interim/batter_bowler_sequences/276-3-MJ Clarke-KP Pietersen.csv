@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1895,462,AUS,3,230,-145,MJ Clarke,KP Pietersen,4,75,129,48.33,8720,53.21,Right-hand bat,0,0,0,870.3,116.8,174.6,rob,0,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,1896,463,AUS,3,230,-145,MJ Clarke,KP Pietersen,4,75,130,48.33,8720,53.21,Right-hand bat,1,0,0,870.3,116.8,174.6,rob,1,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,1898,465,AUS,3,234,-141,MJ Clarke,KP Pietersen,4,76,131,48.33,8720,53.21,Right-hand bat,3,4,0,870.3,116.8,174.6,rob,1,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,1907,474,AUS,3,238,-137,MJ Clarke,KP Pietersen,4,80,137,48.33,8720,53.21,Right-hand bat,6,5,0,870.3,116.8,174.6,rob,0,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,1908,475,AUS,3,238,-137,MJ Clarke,KP Pietersen,4,80,138,48.33,8720,53.21,Right-hand bat,7,5,0,870.3,116.8,174.6,rob,W,AUS,spin,yes,28.055999999999997,18.703999999999997

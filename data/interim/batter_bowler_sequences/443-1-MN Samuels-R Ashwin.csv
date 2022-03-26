@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,114,114,WIN,2,68,68,MN Samuels,R Ashwin,4,19,13,37.31,5805,48.85,Right-hand bat,30,11,0,5670.3,28.07,58.4,rob,0,IND,spin,yes,14.25,14.25
-1,115,115,WIN,2,68,68,MN Samuels,R Ashwin,4,19,14,37.31,5805,48.85,Right-hand bat,31,11,0,5670.3,28.07,58.4,rob,0,IND,spin,yes,14.25,14.25
-1,116,116,WIN,2,68,68,MN Samuels,R Ashwin,4,19,15,37.31,5805,48.85,Right-hand bat,32,11,0,5670.3,28.07,58.4,rob,0,IND,spin,yes,14.25,14.25
-1,117,117,WIN,2,68,68,MN Samuels,R Ashwin,4,19,16,37.31,5805,48.85,Right-hand bat,33,11,0,5670.3,28.07,58.4,rob,0,IND,spin,yes,14.25,14.25
-1,118,118,WIN,2,68,68,MN Samuels,R Ashwin,4,19,17,37.31,5805,48.85,Right-hand bat,34,11,0,5670.3,28.07,58.4,rob,0,IND,spin,yes,14.25,14.25
-1,119,119,WIN,2,68,68,MN Samuels,R Ashwin,4,19,18,37.31,5805,48.85,Right-hand bat,35,11,0,5670.3,28.07,58.4,rob,1,IND,spin,yes,14.25,14.25

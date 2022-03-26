@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1051,83,IRE,8,36,-145,TJ Murtagh,CR Woakes,10,0,0,27.25,132,82.57,Left-hand bat,41,15,5,4704.2,31.06,60.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
-4,1058,90,IRE,9,36,-145,TJ Murtagh,CR Woakes,10,0,1,27.25,132,82.57,Left-hand bat,42,15,5,4704.2,31.06,60.3,rfm,2,ENG,seam,no,15.033750000000001,0.79125
-4,1059,91,IRE,9,38,-143,TJ Murtagh,CR Woakes,10,2,2,27.25,132,82.57,Left-hand bat,43,17,5,4704.2,31.06,60.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
-4,1060,92,IRE,9,38,-143,TJ Murtagh,CR Woakes,10,2,3,27.25,132,82.57,Left-hand bat,44,17,5,4704.2,31.06,60.3,rfm,0,ENG,seam,no,15.033750000000001,0.79125
-4,1061,93,IRE,9,38,-143,TJ Murtagh,CR Woakes,10,2,4,27.25,132,82.57,Left-hand bat,45,17,5,4704.2,31.06,60.3,rfm,W,ENG,seam,no,15.033750000000001,0.79125

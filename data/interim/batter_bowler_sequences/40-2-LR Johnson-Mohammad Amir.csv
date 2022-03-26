@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,551,1,WIN,0,1,-280,LR Johnson,Mohammad Amir,2,0,0,25.18,832,48.43,Left-hand bat,1,1,0,4320.1,32.23,62.6,lf,0,PAK,seam,no,16,12
-2,552,2,WIN,0,1,-280,LR Johnson,Mohammad Amir,2,0,1,25.18,832,48.43,Left-hand bat,2,1,0,4320.1,32.23,62.6,lf,0,PAK,seam,no,16,12
-2,553,3,WIN,0,1,-280,LR Johnson,Mohammad Amir,2,0,2,25.18,832,48.43,Left-hand bat,3,1,0,4320.1,32.23,62.6,lf,0,PAK,seam,no,16,12
-2,554,4,WIN,0,1,-280,LR Johnson,Mohammad Amir,2,0,3,25.18,832,48.43,Left-hand bat,4,1,0,4320.1,32.23,62.6,lf,0,PAK,seam,no,16,12
-2,555,5,WIN,0,1,-280,LR Johnson,Mohammad Amir,2,0,4,25.18,832,48.43,Left-hand bat,5,1,0,4320.1,32.23,62.6,lf,0,PAK,seam,no,16,12
-2,562,12,WIN,0,5,-276,LR Johnson,Mohammad Amir,2,1,6,25.18,832,48.43,Left-hand bat,6,1,0,4320.1,32.23,62.6,lf,0,PAK,seam,no,16,12
-2,563,13,WIN,0,5,-276,LR Johnson,Mohammad Amir,2,1,7,25.18,832,48.43,Left-hand bat,7,1,0,4320.1,32.23,62.6,lf,0,PAK,seam,no,16,12
-2,564,14,WIN,0,5,-276,LR Johnson,Mohammad Amir,2,1,8,25.18,832,48.43,Left-hand bat,8,1,0,4320.1,32.23,62.6,lf,1lb,PAK,seam,no,16,12

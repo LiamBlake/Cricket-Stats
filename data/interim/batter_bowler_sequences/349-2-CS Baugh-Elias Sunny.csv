@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1045,303,WIN,5,137,-213,CS Baugh,Elias Sunny,7,0,0,21.18,832,56,Right-hand bat,94,52,4,174,18.28,24.8,lo,4,BAN,spin,no,9.880208333333334,23.994791666666668
-2,1046,304,WIN,5,141,-209,CS Baugh,Elias Sunny,7,4,1,21.18,832,56,Right-hand bat,95,56,4,174,18.28,24.8,lo,0,BAN,spin,no,9.880208333333334,23.994791666666668
-2,1080,338,WIN,6,173,-177,CS Baugh,Elias Sunny,7,14,16,21.18,832,56,Right-hand bat,111,75,5,174,18.28,24.8,lo,2,BAN,spin,no,9.880208333333334,23.994791666666668
-2,1081,339,WIN,6,175,-175,CS Baugh,Elias Sunny,7,16,17,21.18,832,56,Right-hand bat,112,77,5,174,18.28,24.8,lo,0,BAN,spin,no,9.880208333333334,23.994791666666668
-2,1082,340,WIN,6,175,-175,CS Baugh,Elias Sunny,7,16,18,21.18,832,56,Right-hand bat,113,77,5,174,18.28,24.8,lo,0,BAN,spin,no,9.880208333333334,23.994791666666668
-2,1110,368,WIN,6,212,-138,CS Baugh,Elias Sunny,7,30,30,21.18,832,56,Right-hand bat,115,78,5,174,18.28,24.8,lo,0,BAN,spin,no,9.880208333333334,23.994791666666668
-2,1111,369,WIN,6,212,-138,CS Baugh,Elias Sunny,7,30,31,21.18,832,56,Right-hand bat,116,78,5,174,18.28,24.8,lo,W,BAN,spin,no,9.880208333333334,23.994791666666668

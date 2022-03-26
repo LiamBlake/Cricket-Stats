@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1619,567,ENG,8,252,-80,MM Ali,MG Johnson,9,12,30,31.2,1526,49.08,Left-hand bat,91,59,1,15552.5,27.94,50.8,lf,0,ENG,seam,yes,22.391111111111112,8.142222222222223
-3,1620,568,ENG,8,252,-80,MM Ali,MG Johnson,9,12,31,31.2,1526,49.08,Left-hand bat,92,59,1,15552.5,27.94,50.8,lf,4,ENG,seam,yes,22.391111111111112,8.142222222222223
-3,1621,569,ENG,8,256,-76,MM Ali,MG Johnson,9,16,32,31.2,1526,49.08,Left-hand bat,93,63,1,15552.5,27.94,50.8,lf,0,ENG,seam,yes,22.391111111111112,8.142222222222223
-3,1622,570,ENG,8,256,-76,MM Ali,MG Johnson,9,16,33,31.2,1526,49.08,Left-hand bat,94,63,1,15552.5,27.94,50.8,lf,1wd,ENG,seam,yes,22.391111111111112,8.142222222222223
-3,1623,571,ENG,8,257,-75,MM Ali,MG Johnson,9,16,33,31.2,1526,49.08,Left-hand bat,95,64,1,15552.5,27.94,50.8,lf,0,ENG,seam,yes,22.391111111111112,8.142222222222223
-3,1624,572,ENG,8,257,-75,MM Ali,MG Johnson,9,16,34,31.2,1526,49.08,Left-hand bat,96,64,1,15552.5,27.94,50.8,lf,1,ENG,seam,yes,22.391111111111112,8.142222222222223

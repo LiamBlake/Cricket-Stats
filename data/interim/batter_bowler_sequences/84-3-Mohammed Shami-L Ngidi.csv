@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1312,448,IND,7,236,229,Mohammed Shami,L Ngidi,9,25,24,14.74,517,76.98,Right-hand bat,54,28,0,318.2,17.22,35.5,rf,0,IND,seam,yes,20.125,0
-3,1313,449,IND,7,236,229,Mohammed Shami,L Ngidi,9,25,25,14.74,517,76.98,Right-hand bat,55,28,0,318.2,17.22,35.5,rf,0,IND,seam,yes,20.125,0
-3,1314,450,IND,7,236,229,Mohammed Shami,L Ngidi,9,25,26,14.74,517,76.98,Right-hand bat,56,28,0,318.2,17.22,35.5,rf,2,IND,seam,yes,20.125,0
-3,1315,451,IND,7,238,231,Mohammed Shami,L Ngidi,9,27,27,14.74,517,76.98,Right-hand bat,57,30,0,318.2,17.22,35.5,rf,W,IND,seam,yes,20.125,0

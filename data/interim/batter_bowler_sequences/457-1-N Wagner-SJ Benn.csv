@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,426,426,NZL,8,274,274,N Wagner,SJ Benn,10,1,17,12.25,519,37.76,Left-hand bat,135,82,4,5634,40.6,86.6,lo,0,WIN,spin,yes,23.56829802775749,8.728999269539809
-1,427,427,NZL,8,274,274,N Wagner,SJ Benn,10,1,18,12.25,519,37.76,Left-hand bat,136,82,4,5634,40.6,86.6,lo,0,WIN,spin,yes,23.56829802775749,8.728999269539809
-1,428,428,NZL,8,274,274,N Wagner,SJ Benn,10,1,19,12.25,519,37.76,Left-hand bat,137,82,4,5634,40.6,86.6,lo,0,WIN,spin,yes,23.56829802775749,8.728999269539809
-1,438,438,NZL,8,276,276,N Wagner,SJ Benn,10,1,21,12.25,519,37.76,Left-hand bat,141,82,4,5634,40.6,86.6,lo,0,WIN,spin,yes,23.56829802775749,8.728999269539809
-1,439,439,NZL,8,276,276,N Wagner,SJ Benn,10,1,22,12.25,519,37.76,Left-hand bat,142,82,4,5634,40.6,86.6,lo,0,WIN,spin,yes,23.56829802775749,8.728999269539809
-1,440,440,NZL,8,276,276,N Wagner,SJ Benn,10,1,23,12.25,519,37.76,Left-hand bat,143,82,4,5634,40.6,86.6,lo,1,WIN,spin,yes,23.56829802775749,8.728999269539809

@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,2191,960,PAK,5,374,126,Kamran Akmal,MJ Guptill,7,2,19,34.48,3927,63.22,Right-hand bat,69,29,2,78.2,12.33,26.6,rob,0,NZL,spin,yes,24.779999999999998,16.52
-3,2192,961,PAK,5,374,126,Kamran Akmal,MJ Guptill,7,2,20,34.48,3927,63.22,Right-hand bat,70,29,2,78.2,12.33,26.6,rob,0,NZL,spin,yes,24.779999999999998,16.52
-3,2193,962,PAK,5,374,126,Kamran Akmal,MJ Guptill,7,2,21,34.48,3927,63.22,Right-hand bat,71,29,2,78.2,12.33,26.6,rob,0,NZL,spin,yes,24.779999999999998,16.52
-3,2201,970,PAK,5,376,128,Kamran Akmal,MJ Guptill,7,2,26,34.48,3927,63.22,Right-hand bat,73,30,2,78.2,12.33,26.6,rob,4,NZL,spin,yes,24.779999999999998,16.52
-3,2202,971,PAK,5,380,132,Kamran Akmal,MJ Guptill,7,6,27,34.48,3927,63.22,Right-hand bat,74,34,2,78.2,12.33,26.6,rob,0,NZL,spin,yes,24.779999999999998,16.52
-3,2203,972,PAK,5,380,132,Kamran Akmal,MJ Guptill,7,6,28,34.48,3927,63.22,Right-hand bat,75,34,2,78.2,12.33,26.6,rob,1,NZL,spin,yes,24.779999999999998,16.52
-3,2205,974,PAK,5,382,134,Kamran Akmal,MJ Guptill,7,7,29,34.48,3927,63.22,Right-hand bat,77,36,2,78.2,12.33,26.6,rob,1,NZL,spin,yes,24.779999999999998,16.52

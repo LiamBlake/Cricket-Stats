@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,998,564,ENG,7,266,-84,SCJ Broad,TG Southee,9,0,0,23.08,3410,67,Left-hand bat,154,62,3,8940.5,31.63,62.1,rmf,1,ENG,seam,yes,27.3213296398892,9.757617728531855
-2,1007,573,ENG,8,268,-82,SCJ Broad,TG Southee,9,2,3,23.08,3410,67,Left-hand bat,157,63,4,8940.5,31.63,62.1,rmf,4,ENG,seam,yes,27.3213296398892,9.757617728531855
-2,1008,574,ENG,8,272,-78,SCJ Broad,TG Southee,9,6,4,23.08,3410,67,Left-hand bat,158,67,4,8940.5,31.63,62.1,rmf,3,ENG,seam,yes,27.3213296398892,9.757617728531855
-2,1032,598,ENG,8,303,-47,SCJ Broad,TG Southee,9,17,11,23.08,3410,67,Left-hand bat,169,73,4,8940.5,31.63,62.1,rmf,1lb,ENG,seam,yes,27.3213296398892,9.757617728531855
-2,1050,616,ENG,9,318,-32,SCJ Broad,TG Southee,9,26,17,23.08,3410,67,Left-hand bat,175,77,4,8940.5,31.63,62.1,rmf,1wd,ENG,seam,yes,27.3213296398892,9.757617728531855
-2,1051,617,ENG,9,319,-31,SCJ Broad,TG Southee,9,26,17,23.08,3410,67,Left-hand bat,176,78,4,8940.5,31.63,62.1,rmf,1,ENG,seam,yes,27.3213296398892,9.757617728531855
-2,1054,620,ENG,9,321,-29,SCJ Broad,TG Southee,9,27,18,23.08,3410,67,Left-hand bat,179,80,4,8940.5,31.63,62.1,rmf,1,ENG,seam,yes,27.3213296398892,9.757617728531855
-2,1056,622,ENG,9,323,-27,SCJ Broad,TG Southee,9,28,19,23.08,3410,67,Left-hand bat,181,82,4,8940.5,31.63,62.1,rmf,1,ENG,seam,yes,27.3213296398892,9.757617728531855

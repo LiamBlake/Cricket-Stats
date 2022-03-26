@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1830,10,SRL,1,11,-110,KC Sangakkara,Harbhajan Singh,3,0,0,54.79,11380,55.85,Left-hand bat,4,1,1,18948.4,30.87,65.1,rob,0,SRL,spin,no,12.140625,20.234375
-4,1831,11,SRL,1,11,-110,KC Sangakkara,Harbhajan Singh,3,0,1,54.79,11380,55.85,Left-hand bat,5,1,1,18948.4,30.87,65.1,rob,0,SRL,spin,no,12.140625,20.234375
-4,1838,18,SRL,1,11,-110,KC Sangakkara,Harbhajan Singh,3,0,2,54.79,11380,55.85,Left-hand bat,6,1,1,18948.4,30.87,65.1,rob,1,SRL,spin,no,12.140625,20.234375
-4,1843,23,SRL,1,15,-106,KC Sangakkara,Harbhajan Singh,3,1,3,54.79,11380,55.85,Left-hand bat,11,5,1,18948.4,30.87,65.1,rob,0,SRL,spin,no,12.140625,20.234375
-4,1850,30,SRL,1,19,-102,KC Sangakkara,Harbhajan Singh,3,1,4,54.79,11380,55.85,Left-hand bat,12,5,1,18948.4,30.87,65.1,rob,1,SRL,spin,no,12.140625,20.234375

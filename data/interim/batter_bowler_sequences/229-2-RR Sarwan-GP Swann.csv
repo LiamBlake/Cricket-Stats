@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1109,144,WIN,2,97,-449,RR Sarwan,GP Swann,4,0,1,42.57,11922,46.42,Right-hand bat,37,23,0,1680.5,28.62,62.4,rob,3,WIN,spin,no,25.61777777777778,22.415555555555557
-2,1112,147,WIN,2,101,-445,RR Sarwan,GP Swann,4,3,2,42.57,11922,46.42,Right-hand bat,40,27,0,1680.5,28.62,62.4,rob,0,WIN,spin,no,25.61777777777778,22.415555555555557
-2,1113,148,WIN,2,101,-445,RR Sarwan,GP Swann,4,3,3,42.57,11922,46.42,Right-hand bat,41,27,0,1680.5,28.62,62.4,rob,4,WIN,spin,no,25.61777777777778,22.415555555555557

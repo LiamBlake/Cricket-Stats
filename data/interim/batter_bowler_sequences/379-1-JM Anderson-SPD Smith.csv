@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,514,514,ENG,7,283,283,JM Anderson,SPD Smith,9,0,0,10.61,1970,38.78,Left-hand bat,27,16,3,552,45.75,69,rls,0,ENG,spin,yes,17.243243243243242,11.756756756756756
-1,515,515,ENG,7,283,283,JM Anderson,SPD Smith,9,0,1,10.61,1970,38.78,Left-hand bat,28,16,3,552,45.75,69,rls,0,ENG,spin,yes,17.243243243243242,11.756756756756756
-1,516,516,ENG,7,283,283,JM Anderson,SPD Smith,9,0,2,10.61,1970,38.78,Left-hand bat,29,16,3,552,45.75,69,rls,0,ENG,spin,yes,17.243243243243242,11.756756756756756
-1,523,523,ENG,7,285,285,JM Anderson,SPD Smith,9,1,6,10.61,1970,38.78,Left-hand bat,30,16,3,552,45.75,69,rls,1,ENG,spin,yes,17.243243243243242,11.756756756756756
-1,526,526,ENG,7,287,287,JM Anderson,SPD Smith,9,2,7,10.61,1970,38.78,Left-hand bat,33,18,3,552,45.75,69,rls,0,ENG,spin,yes,17.243243243243242,11.756756756756756
-1,527,527,ENG,7,287,287,JM Anderson,SPD Smith,9,2,8,10.61,1970,38.78,Left-hand bat,34,18,3,552,45.75,69,rls,0,ENG,spin,yes,17.243243243243242,11.756756756756756
-1,528,528,ENG,7,287,287,JM Anderson,SPD Smith,9,2,9,10.61,1970,38.78,Left-hand bat,35,18,3,552,45.75,69,rls,0,ENG,spin,yes,17.243243243243242,11.756756756756756

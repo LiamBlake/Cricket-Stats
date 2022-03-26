@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,494,494,SRL,6,335,335,KMDN Kulasekara,S Sreesanth,8,0,3,16.33,541,45.28,Right-hand bat,75,50,1,3240.5,31.25,55.9,rfm,4,IND,seam,yes,18.677764565992863,30.56361474435196
-1,495,495,SRL,6,339,339,KMDN Kulasekara,S Sreesanth,8,4,4,16.33,541,45.28,Right-hand bat,76,54,1,3240.5,31.25,55.9,rfm,0,IND,seam,yes,18.677764565992863,30.56361474435196
-1,496,496,SRL,6,339,339,KMDN Kulasekara,S Sreesanth,8,4,5,16.33,541,45.28,Right-hand bat,77,54,1,3240.5,31.25,55.9,rfm,1wd,IND,seam,yes,18.677764565992863,30.56361474435196
-1,497,497,SRL,6,340,340,KMDN Kulasekara,S Sreesanth,8,4,5,16.33,541,45.28,Right-hand bat,78,55,1,3240.5,31.25,55.9,rfm,4,IND,seam,yes,18.677764565992863,30.56361474435196
-1,507,507,SRL,6,354,354,KMDN Kulasekara,S Sreesanth,8,8,8,16.33,541,45.28,Right-hand bat,82,62,1,3240.5,31.25,55.9,rfm,0,IND,seam,yes,18.677764565992863,30.56361474435196
-1,508,508,SRL,6,354,354,KMDN Kulasekara,S Sreesanth,8,8,9,16.33,541,45.28,Right-hand bat,83,62,1,3240.5,31.25,55.9,rfm,4,IND,seam,yes,18.677764565992863,30.56361474435196
-1,509,509,SRL,6,358,358,KMDN Kulasekara,S Sreesanth,8,12,10,16.33,541,45.28,Right-hand bat,84,66,1,3240.5,31.25,55.9,rfm,0,IND,seam,yes,18.677764565992863,30.56361474435196

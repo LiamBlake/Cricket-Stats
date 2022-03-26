@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,309,309,RSA,3,190,190,TB de Bruyn,Hasan Ali,4,25,49,20.35,738,46.88,Right-hand bat,61,58,0,1734.3,28.9,56,rmf,0,RSA,seam,yes,22.378125,3.196875
-1,310,310,RSA,3,190,190,TB de Bruyn,Hasan Ali,4,25,50,20.35,738,46.88,Right-hand bat,62,58,0,1734.3,28.9,56,rmf,0,RSA,seam,yes,22.378125,3.196875
-1,311,311,RSA,3,190,190,TB de Bruyn,Hasan Ali,4,25,51,20.35,738,46.88,Right-hand bat,63,58,0,1734.3,28.9,56,rmf,0,RSA,seam,yes,22.378125,3.196875
-1,312,312,RSA,3,190,190,TB de Bruyn,Hasan Ali,4,25,52,20.35,738,46.88,Right-hand bat,64,58,0,1734.3,28.9,56,rmf,1,RSA,seam,yes,22.378125,3.196875
-1,321,321,RSA,3,200,200,TB de Bruyn,Hasan Ali,4,31,59,20.35,738,46.88,Right-hand bat,67,63,0,1734.3,28.9,56,rmf,4,RSA,seam,yes,22.378125,3.196875
-1,322,322,RSA,3,204,204,TB de Bruyn,Hasan Ali,4,35,60,20.35,738,46.88,Right-hand bat,68,67,0,1734.3,28.9,56,rmf,0,RSA,seam,yes,22.378125,3.196875
-1,323,323,RSA,3,204,204,TB de Bruyn,Hasan Ali,4,35,61,20.35,738,46.88,Right-hand bat,69,67,0,1734.3,28.9,56,rmf,4,RSA,seam,yes,22.378125,3.196875
-1,324,324,RSA,3,208,208,TB de Bruyn,Hasan Ali,4,39,62,20.35,738,46.88,Right-hand bat,70,71,0,1734.3,28.9,56,rmf,1,RSA,seam,yes,22.378125,3.196875

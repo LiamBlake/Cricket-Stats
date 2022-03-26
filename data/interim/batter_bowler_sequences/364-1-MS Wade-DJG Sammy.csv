@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,631,631,AUS,8,267,267,MS Wade,DJG Sammy,7,51,110,39.6,414,47.82,Left-hand bat,117,39,1,4284.4,30.89,67,rm,1wd,WIN,seam,yes,9.61625,17.85875
-1,632,632,AUS,8,268,268,MS Wade,DJG Sammy,7,51,110,39.6,414,47.82,Left-hand bat,118,40,1,4284.4,30.89,67,rm,0,WIN,seam,yes,9.61625,17.85875
-1,633,633,AUS,8,268,268,MS Wade,DJG Sammy,7,51,111,39.6,414,47.82,Left-hand bat,119,40,1,4284.4,30.89,67,rm,1,WIN,seam,yes,9.61625,17.85875
-1,641,641,AUS,8,278,278,MS Wade,DJG Sammy,7,60,116,39.6,414,47.82,Left-hand bat,121,41,1,4284.4,30.89,67,rm,4,WIN,seam,yes,9.61625,17.85875
-1,642,642,AUS,8,282,282,MS Wade,DJG Sammy,7,64,117,39.6,414,47.82,Left-hand bat,122,45,1,4284.4,30.89,67,rm,1,WIN,seam,yes,9.61625,17.85875
-1,646,646,AUS,8,284,284,MS Wade,DJG Sammy,7,65,118,39.6,414,47.82,Left-hand bat,126,47,1,4284.4,30.89,67,rm,1,WIN,seam,yes,9.61625,17.85875

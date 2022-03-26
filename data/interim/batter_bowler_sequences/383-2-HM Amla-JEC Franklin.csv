@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,232,115,RSA,1,90,45,HM Amla,JEC Franklin,3,54,62,50.83,10296,52.34,Right-hand bat,0,0,0,4764.3,33.97,58.1,lm,1,RSA,seam,no,22.970663265306122,0.850765306122449
-2,236,119,RSA,1,92,47,HM Amla,JEC Franklin,3,55,63,50.83,10296,52.34,Right-hand bat,4,2,0,4764.3,33.97,58.1,lm,1,RSA,seam,no,22.970663265306122,0.850765306122449
-2,248,131,RSA,1,100,55,HM Amla,JEC Franklin,3,61,68,50.83,10296,52.34,Right-hand bat,10,4,0,4764.3,33.97,58.1,lm,1,RSA,seam,no,22.970663265306122,0.850765306122449
-2,256,139,RSA,1,102,57,HM Amla,JEC Franklin,3,63,70,50.83,10296,52.34,Right-hand bat,12,5,0,4764.3,33.97,58.1,lm,2,RSA,seam,no,22.970663265306122,0.850765306122449
-2,257,140,RSA,1,104,59,HM Amla,JEC Franklin,3,65,71,50.83,10296,52.34,Right-hand bat,13,7,0,4764.3,33.97,58.1,lm,1,RSA,seam,no,22.970663265306122,0.850765306122449
-2,268,151,RSA,1,108,63,HM Amla,JEC Franklin,3,66,72,50.83,10296,52.34,Right-hand bat,18,9,0,4764.3,33.97,58.1,lm,0,RSA,seam,no,22.970663265306122,0.850765306122449
-2,269,152,RSA,1,108,63,HM Amla,JEC Franklin,3,66,73,50.83,10296,52.34,Right-hand bat,19,9,0,4764.3,33.97,58.1,lm,W,RSA,seam,no,22.970663265306122,0.850765306122449

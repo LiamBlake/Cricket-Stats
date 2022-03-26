@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,175,175,AUS,7,99,99,MA Starc,SCJ Broad,9,1,4,26.77,913,64.51,Left-hand bat,48,31,0,17220.5,29.67,57.6,rfm,0,ENG,seam,yes,22.0390625,3.1484375
-1,176,176,AUS,7,99,99,MA Starc,SCJ Broad,9,1,5,26.77,913,64.51,Left-hand bat,49,31,0,17220.5,29.67,57.6,rfm,0,ENG,seam,yes,22.0390625,3.1484375
-1,177,177,AUS,7,99,99,MA Starc,SCJ Broad,9,1,6,26.77,913,64.51,Left-hand bat,50,31,0,17220.5,29.67,57.6,rfm,0,ENG,seam,yes,22.0390625,3.1484375
-1,178,178,AUS,7,99,99,MA Starc,SCJ Broad,9,1,7,26.77,913,64.51,Left-hand bat,51,31,0,17220.5,29.67,57.6,rfm,0,ENG,seam,yes,22.0390625,3.1484375
-1,179,179,AUS,7,99,99,MA Starc,SCJ Broad,9,1,8,26.77,913,64.51,Left-hand bat,52,31,0,17220.5,29.67,57.6,rfm,3,ENG,seam,yes,22.0390625,3.1484375
-1,199,199,AUS,8,119,119,MA Starc,SCJ Broad,9,11,17,26.77,913,64.51,Left-hand bat,60,36,1,17220.5,29.67,57.6,rfm,0,ENG,seam,yes,22.0390625,3.1484375
-1,200,200,AUS,8,119,119,MA Starc,SCJ Broad,9,11,18,26.77,913,64.51,Left-hand bat,61,36,1,17220.5,29.67,57.6,rfm,0,ENG,seam,yes,22.0390625,3.1484375
-1,201,201,AUS,8,119,119,MA Starc,SCJ Broad,9,11,19,26.77,913,64.51,Left-hand bat,62,36,1,17220.5,29.67,57.6,rfm,W,ENG,seam,yes,22.0390625,3.1484375

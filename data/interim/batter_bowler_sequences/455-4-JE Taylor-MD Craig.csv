@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2122,216,WIN,7,115,-287,JE Taylor,MD Craig,9,0,0,15.57,1108,59.02,Right-hand bat,59,33,4,234,23.5,29.2,rob,0,WIN,spin,no,12.119183673469387,20.50938775510204
-4,2129,223,WIN,8,121,-281,JE Taylor,MD Craig,9,5,5,15.57,1108,59.02,Right-hand bat,60,33,4,234,23.5,29.2,rob,6,WIN,spin,no,12.119183673469387,20.50938775510204
-4,2130,224,WIN,8,127,-275,JE Taylor,MD Craig,9,11,6,15.57,1108,59.02,Right-hand bat,61,39,4,234,23.5,29.2,rob,0,WIN,spin,no,12.119183673469387,20.50938775510204
-4,2131,225,WIN,8,127,-275,JE Taylor,MD Craig,9,11,7,15.57,1108,59.02,Right-hand bat,62,39,4,234,23.5,29.2,rob,0,WIN,spin,no,12.119183673469387,20.50938775510204
-4,2132,226,WIN,8,127,-275,JE Taylor,MD Craig,9,11,8,15.57,1108,59.02,Right-hand bat,63,39,4,234,23.5,29.2,rob,6,WIN,spin,no,12.119183673469387,20.50938775510204
-4,2133,227,WIN,8,133,-269,JE Taylor,MD Craig,9,17,9,15.57,1108,59.02,Right-hand bat,64,45,4,234,23.5,29.2,rob,0,WIN,spin,no,12.119183673469387,20.50938775510204
-4,2134,228,WIN,8,133,-269,JE Taylor,MD Craig,9,17,10,15.57,1108,59.02,Right-hand bat,65,45,4,234,23.5,29.2,rob,1,WIN,spin,no,12.119183673469387,20.50938775510204

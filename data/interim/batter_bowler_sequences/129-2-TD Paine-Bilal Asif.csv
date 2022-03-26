@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1384,395,AUS,5,171,-311,TD Paine,Bilal Asif,7,0,0,42.33,1685,45.22,Right-hand bat,83,27,4,348.3,20.5,58.5,rob,0,PAK,spin,no,12.737024221453286,23.35121107266436
-2,1424,435,AUS,5,180,-302,TD Paine,Bilal Asif,7,6,21,42.33,1685,45.22,Right-hand bat,99,28,4,348.3,20.5,58.5,rob,0,PAK,spin,no,12.737024221453286,23.35121107266436
-2,1425,436,AUS,5,180,-302,TD Paine,Bilal Asif,7,6,22,42.33,1685,45.22,Right-hand bat,100,28,4,348.3,20.5,58.5,rob,0,PAK,spin,no,12.737024221453286,23.35121107266436
-2,1426,437,AUS,5,180,-302,TD Paine,Bilal Asif,7,6,23,42.33,1685,45.22,Right-hand bat,101,28,4,348.3,20.5,58.5,rob,0,PAK,spin,no,12.737024221453286,23.35121107266436
-2,1439,450,AUS,6,183,-299,TD Paine,Bilal Asif,7,7,26,42.33,1685,45.22,Right-hand bat,102,28,4,348.3,20.5,58.5,rob,W,PAK,spin,no,12.737024221453286,23.35121107266436

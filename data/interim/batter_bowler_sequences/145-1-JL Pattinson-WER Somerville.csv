@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,842,842,AUS,7,420,420,JL Pattinson,WER Somerville,8,2,7,26.06,971,42.94,Left-hand bat,168,99,1,1050.2,32.46,70.1,rob,0,AUS,spin,yes,16.609375,15.5712890625
-1,843,843,AUS,7,420,420,JL Pattinson,WER Somerville,8,2,8,26.06,971,42.94,Left-hand bat,169,99,1,1050.2,32.46,70.1,rob,0,AUS,spin,yes,16.609375,15.5712890625
-1,844,844,AUS,7,420,420,JL Pattinson,WER Somerville,8,2,9,26.06,971,42.94,Left-hand bat,170,99,1,1050.2,32.46,70.1,rob,2lb,AUS,spin,yes,16.609375,15.5712890625
-1,845,845,AUS,7,422,422,JL Pattinson,WER Somerville,8,2,10,26.06,971,42.94,Left-hand bat,171,99,1,1050.2,32.46,70.1,rob,0,AUS,spin,yes,16.609375,15.5712890625
-1,846,846,AUS,7,422,422,JL Pattinson,WER Somerville,8,2,11,26.06,971,42.94,Left-hand bat,172,99,1,1050.2,32.46,70.1,rob,0,AUS,spin,yes,16.609375,15.5712890625
-1,847,847,AUS,7,422,422,JL Pattinson,WER Somerville,8,2,12,26.06,971,42.94,Left-hand bat,173,99,1,1050.2,32.46,70.1,rob,0,AUS,spin,yes,16.609375,15.5712890625

@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1742,365,SRL,6,192,-134,N Dickwella,MM Ali,8,5,7,29.62,1916,69.57,Left-hand bat,78,48,2,10134.2,37.44,62.1,rob,1,ENG,spin,no,3.40625,23.84375
-4,1746,369,SRL,6,194,-132,N Dickwella,MM Ali,8,6,8,29.62,1916,69.57,Left-hand bat,82,50,2,10134.2,37.44,62.1,rob,0,ENG,spin,no,3.40625,23.84375
-4,1747,370,SRL,6,194,-132,N Dickwella,MM Ali,8,6,9,29.62,1916,69.57,Left-hand bat,83,50,2,10134.2,37.44,62.1,rob,0,ENG,spin,no,3.40625,23.84375
-4,1754,377,SRL,6,194,-132,N Dickwella,MM Ali,8,6,10,29.62,1916,69.57,Left-hand bat,84,50,2,10134.2,37.44,62.1,rob,1,ENG,spin,no,3.40625,23.84375
-4,1759,382,SRL,6,198,-128,N Dickwella,MM Ali,8,7,11,29.62,1916,69.57,Left-hand bat,89,54,2,10134.2,37.44,62.1,rob,0,ENG,spin,no,3.40625,23.84375
-4,1767,390,SRL,6,203,-123,N Dickwella,MM Ali,8,9,14,29.62,1916,69.57,Left-hand bat,90,54,2,10134.2,37.44,62.1,rob,1,ENG,spin,no,3.40625,23.84375
-4,1770,393,SRL,6,205,-121,N Dickwella,MM Ali,8,10,15,29.62,1916,69.57,Left-hand bat,93,56,2,10134.2,37.44,62.1,rob,4,ENG,spin,no,3.40625,23.84375
-4,1771,394,SRL,6,209,-117,N Dickwella,MM Ali,8,14,16,29.62,1916,69.57,Left-hand bat,94,60,2,10134.2,37.44,62.1,rob,1,ENG,spin,no,3.40625,23.84375

@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,476,476,NZL,4,311,311,JEC Franklin,V Sehwag,6,5,27,20.71,1458,39.78,Left-hand bat,20,24,0,2412.1,42.75,83.2,rob,1,NZL,spin,yes,34.40453686200378,26.46502835538752
-1,479,479,NZL,4,313,313,JEC Franklin,V Sehwag,6,6,28,20.71,1458,39.78,Left-hand bat,23,26,0,2412.1,42.75,83.2,rob,0,NZL,spin,yes,34.40453686200378,26.46502835538752
-1,491,491,NZL,4,319,319,JEC Franklin,V Sehwag,6,6,30,20.71,1458,39.78,Left-hand bat,29,31,0,2412.1,42.75,83.2,rob,1nb,NZL,spin,yes,34.40453686200378,26.46502835538752

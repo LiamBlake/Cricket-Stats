@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1897,464,AUS,3,231,-144,MEK Hussey,KP Pietersen,5,41,88,52,9124,48.44,Left-hand bat,2,1,0,870.3,116.8,174.6,rob,3,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,1899,466,AUS,3,235,-140,MEK Hussey,KP Pietersen,5,44,89,52,9124,48.44,Left-hand bat,4,5,0,870.3,116.8,174.6,rob,0,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,1900,467,AUS,3,235,-140,MEK Hussey,KP Pietersen,5,44,90,52,9124,48.44,Left-hand bat,5,5,0,870.3,116.8,174.6,rob,0,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,1911,478,AUS,4,239,-136,MEK Hussey,KP Pietersen,5,44,92,52,9124,48.44,Left-hand bat,10,6,1,870.3,116.8,174.6,rob,0,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,1912,479,AUS,4,239,-136,MEK Hussey,KP Pietersen,5,44,93,52,9124,48.44,Left-hand bat,11,6,1,870.3,116.8,174.6,rob,0,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,1919,486,AUS,4,239,-136,MEK Hussey,KP Pietersen,5,44,94,52,9124,48.44,Left-hand bat,12,6,1,870.3,116.8,174.6,rob,0,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,1920,487,AUS,4,239,-136,MEK Hussey,KP Pietersen,5,44,95,52,9124,48.44,Left-hand bat,13,6,1,870.3,116.8,174.6,rob,1,AUS,spin,yes,28.055999999999997,18.703999999999997
-3,1922,489,AUS,4,241,-134,MEK Hussey,KP Pietersen,5,45,96,52,9124,48.44,Left-hand bat,15,8,1,870.3,116.8,174.6,rob,1,AUS,spin,yes,28.055999999999997,18.703999999999997

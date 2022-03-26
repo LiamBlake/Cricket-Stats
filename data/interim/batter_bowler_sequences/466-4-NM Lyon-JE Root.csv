@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1965,416,AUS,9,242,-169,NM Lyon,JE Root,11,0,0,14.75,1060,38.96,Right-hand bat,31,28,2,894,39,89.4,rob,0,ENG,spin,no,21.414375,10.310625
-4,1966,417,AUS,9,242,-169,NM Lyon,JE Root,11,0,1,14.75,1060,38.96,Right-hand bat,32,28,2,894,39,89.4,rob,0,ENG,spin,no,21.414375,10.310625
-4,1967,418,AUS,9,242,-169,NM Lyon,JE Root,11,0,2,14.75,1060,38.96,Right-hand bat,33,28,2,894,39,89.4,rob,0,ENG,spin,no,21.414375,10.310625
-4,1968,419,AUS,9,242,-169,NM Lyon,JE Root,11,0,3,14.75,1060,38.96,Right-hand bat,34,28,2,894,39,89.4,rob,0,ENG,spin,no,21.414375,10.310625
-4,1969,420,AUS,9,242,-169,NM Lyon,JE Root,11,0,4,14.75,1060,38.96,Right-hand bat,35,28,2,894,39,89.4,rob,0,ENG,spin,no,21.414375,10.310625

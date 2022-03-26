@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1750,606,ENG,8,313,342,MJ Leach,TA Boult,10,0,0,30,74,40.54,Left-hand bat,151,70,2,12060.3,27.84,56.1,lfm,0,ENG,seam,no,29.628926223520818,2.6143170197224253
-3,1751,607,ENG,8,313,342,MJ Leach,TA Boult,10,0,1,30,74,40.54,Left-hand bat,152,70,2,12060.3,27.84,56.1,lfm,0,ENG,seam,no,29.628926223520818,2.6143170197224253
-3,1752,608,ENG,8,313,342,MJ Leach,TA Boult,10,0,2,30,74,40.54,Left-hand bat,153,70,2,12060.3,27.84,56.1,lfm,0,ENG,seam,no,29.628926223520818,2.6143170197224253
-3,1753,609,ENG,8,313,342,MJ Leach,TA Boult,10,0,3,30,74,40.54,Left-hand bat,154,70,2,12060.3,27.84,56.1,lfm,1,ENG,seam,no,29.628926223520818,2.6143170197224253
-3,1761,617,ENG,8,325,354,MJ Leach,TA Boult,10,5,6,30,74,40.54,Left-hand bat,156,72,2,12060.3,27.84,56.1,lfm,1,ENG,seam,no,29.628926223520818,2.6143170197224253

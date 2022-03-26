@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1117,658,AUS,7,327,68,JR Hazlewood,VD Philander,9,0,0,16.33,523,46.84,Left-hand bat,170,91,2,6894.2,22.21,48.5,rfm,0,AUS,seam,no,23.8828125,7.9609375
-2,1128,669,AUS,7,337,78,JR Hazlewood,VD Philander,9,0,1,16.33,523,46.84,Left-hand bat,175,98,2,6894.2,22.21,48.5,rfm,0,AUS,seam,no,23.8828125,7.9609375
-2,1129,670,AUS,7,337,78,JR Hazlewood,VD Philander,9,0,2,16.33,523,46.84,Left-hand bat,176,98,2,6894.2,22.21,48.5,rfm,1,AUS,seam,no,23.8828125,7.9609375

@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1369,408,ENG,8,152,-369,SCJ Broad,R Ashwin,10,7,5,26.32,2484,64.65,Left-hand bat,144,58,3,2982.2,28.22,56.3,rob,4,IND,spin,no,11.395957193816885,29.914387633769323
-2,1370,409,ENG,8,156,-365,SCJ Broad,R Ashwin,10,11,6,26.32,2484,64.65,Left-hand bat,145,62,3,2982.2,28.22,56.3,rob,0,IND,spin,no,11.395957193816885,29.914387633769323
-2,1371,410,ENG,8,156,-365,SCJ Broad,R Ashwin,10,11,7,26.32,2484,64.65,Left-hand bat,146,62,3,2982.2,28.22,56.3,rob,1,IND,spin,no,11.395957193816885,29.914387633769323
-2,1373,412,ENG,8,158,-363,SCJ Broad,R Ashwin,10,12,8,26.32,2484,64.65,Left-hand bat,148,64,3,2982.2,28.22,56.3,rob,2,IND,spin,no,11.395957193816885,29.914387633769323
-2,1374,413,ENG,8,160,-361,SCJ Broad,R Ashwin,10,14,9,26.32,2484,64.65,Left-hand bat,149,66,3,2982.2,28.22,56.3,rob,6,IND,spin,no,11.395957193816885,29.914387633769323
-2,1398,437,ENG,8,178,-343,SCJ Broad,R Ashwin,10,21,19,26.32,2484,64.65,Left-hand bat,161,79,3,2982.2,28.22,56.3,rob,1,IND,spin,no,11.395957193816885,29.914387633769323

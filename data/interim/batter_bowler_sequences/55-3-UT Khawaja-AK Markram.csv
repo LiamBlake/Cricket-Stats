@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1480,337,AUS,4,162,23,UT Khawaja,AK Markram,3,66,124,44.08,4146,52.09,Left-hand bat,0,0,0,36,NA,NA,rob,0,AUS,spin,yes,24.23356401384083,4.178200692041522
-3,1481,338,AUS,4,162,23,UT Khawaja,AK Markram,3,66,125,44.08,4146,52.09,Left-hand bat,1,0,0,36,NA,NA,rob,1,AUS,spin,yes,24.23356401384083,4.178200692041522
-3,1483,340,AUS,4,164,25,UT Khawaja,AK Markram,3,67,126,44.08,4146,52.09,Left-hand bat,3,2,0,36,NA,NA,rob,0,AUS,spin,yes,24.23356401384083,4.178200692041522
-3,1484,341,AUS,4,164,25,UT Khawaja,AK Markram,3,67,127,44.08,4146,52.09,Left-hand bat,4,2,0,36,NA,NA,rob,0,AUS,spin,yes,24.23356401384083,4.178200692041522
-3,1485,342,AUS,4,164,25,UT Khawaja,AK Markram,3,67,128,44.08,4146,52.09,Left-hand bat,5,2,0,36,NA,NA,rob,0,AUS,spin,yes,24.23356401384083,4.178200692041522
-3,1504,361,AUS,4,172,33,UT Khawaja,AK Markram,3,74,134,44.08,4146,52.09,Left-hand bat,12,2,0,36,NA,NA,rob,1,AUS,spin,yes,24.23356401384083,4.178200692041522

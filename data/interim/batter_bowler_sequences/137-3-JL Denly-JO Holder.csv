@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1281,125,ENG,2,54,-65,JL Denly,JO Holder,2,14,54,11.5,85,27.05,Right-hand bat,28,19,2,5904,27.69,63.4,rmf,0,WIN,seam,no,19.259999999999998,2.1399999999999997
-3,1282,126,ENG,2,54,-65,JL Denly,JO Holder,2,14,55,11.5,85,27.05,Right-hand bat,29,19,2,5904,27.69,63.4,rmf,0,WIN,seam,no,19.259999999999998,2.1399999999999997
-3,1289,133,ENG,3,56,-63,JL Denly,JO Holder,2,14,56,11.5,85,27.05,Right-hand bat,30,19,2,5904,27.69,63.4,rmf,2,WIN,seam,no,19.259999999999998,2.1399999999999997
-3,1290,134,ENG,3,58,-61,JL Denly,JO Holder,2,16,57,11.5,85,27.05,Right-hand bat,31,21,2,5904,27.69,63.4,rmf,0,WIN,seam,no,19.259999999999998,2.1399999999999997
-3,1291,135,ENG,3,58,-61,JL Denly,JO Holder,2,16,58,11.5,85,27.05,Right-hand bat,32,21,2,5904,27.69,63.4,rmf,0,WIN,seam,no,19.259999999999998,2.1399999999999997
-3,1292,136,ENG,3,58,-61,JL Denly,JO Holder,2,16,59,11.5,85,27.05,Right-hand bat,33,21,2,5904,27.69,63.4,rmf,1,WIN,seam,no,19.259999999999998,2.1399999999999997

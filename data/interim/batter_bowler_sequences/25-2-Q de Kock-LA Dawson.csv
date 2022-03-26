@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1115,473,RSA,6,244,-214,Q de Kock,LA Dawson,8,0,0,50.07,1936,72.41,Left-hand bat,50,45,1,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
-2,1116,474,RSA,6,244,-214,Q de Kock,LA Dawson,8,0,1,50.07,1936,72.41,Left-hand bat,51,45,1,414.4,38.33,69.6,lo,3,ENG,spin,no,16.10125,13.173749999999998
-2,1118,476,RSA,6,248,-210,Q de Kock,LA Dawson,8,3,2,50.07,1936,72.41,Left-hand bat,53,49,1,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
-2,1125,483,RSA,7,248,-210,Q de Kock,LA Dawson,8,3,3,50.07,1936,72.41,Left-hand bat,54,49,1,414.4,38.33,69.6,lo,4,ENG,spin,no,16.10125,13.173749999999998
-2,1126,484,RSA,7,252,-206,Q de Kock,LA Dawson,8,7,4,50.07,1936,72.41,Left-hand bat,55,53,1,414.4,38.33,69.6,lo,0,ENG,spin,no,16.10125,13.173749999999998
-2,1127,485,RSA,7,252,-206,Q de Kock,LA Dawson,8,7,5,50.07,1936,72.41,Left-hand bat,56,53,1,414.4,38.33,69.6,lo,1,ENG,spin,no,16.10125,13.173749999999998

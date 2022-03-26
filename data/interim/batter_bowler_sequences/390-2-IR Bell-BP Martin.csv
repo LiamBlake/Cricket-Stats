@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1049,133,ENG,2,49,-394,IR Bell,BP Martin,4,5,16,46.44,11729,49.89,Right-hand bat,30,5,0,1026,43.66,114,lo,0,NZL,spin,yes,27.497142857142858,6.8742857142857146
-2,1050,134,ENG,2,49,-394,IR Bell,BP Martin,4,5,17,46.44,11729,49.89,Right-hand bat,31,5,0,1026,43.66,114,lo,0,NZL,spin,yes,27.497142857142858,6.8742857142857146
-2,1051,135,ENG,2,49,-394,IR Bell,BP Martin,4,5,18,46.44,11729,49.89,Right-hand bat,32,5,0,1026,43.66,114,lo,0,NZL,spin,yes,27.497142857142858,6.8742857142857146
-2,1052,136,ENG,2,49,-394,IR Bell,BP Martin,4,5,19,46.44,11729,49.89,Right-hand bat,33,5,0,1026,43.66,114,lo,0,NZL,spin,yes,27.497142857142858,6.8742857142857146
-2,1053,137,ENG,2,49,-394,IR Bell,BP Martin,4,5,20,46.44,11729,49.89,Right-hand bat,34,5,0,1026,43.66,114,lo,1,NZL,spin,yes,27.497142857142858,6.8742857142857146

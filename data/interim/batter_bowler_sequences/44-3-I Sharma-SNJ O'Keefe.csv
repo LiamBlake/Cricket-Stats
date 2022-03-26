@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1741,573,IND,9,274,187,I Sharma,SNJ O'Keefe,11,6,22,8.45,1957,28.51,Right-hand bat,121,36,1,1302.1,20.86,44.9,lo,0,IND,spin,yes,7.446249999999999,13.82875
-3,1742,574,IND,9,274,187,I Sharma,SNJ O'Keefe,11,6,23,8.45,1957,28.51,Right-hand bat,122,36,1,1302.1,20.86,44.9,lo,0,IND,spin,yes,7.446249999999999,13.82875
-3,1743,575,IND,9,274,187,I Sharma,SNJ O'Keefe,11,6,24,8.45,1957,28.51,Right-hand bat,123,36,1,1302.1,20.86,44.9,lo,0,IND,spin,yes,7.446249999999999,13.82875
-3,1744,576,IND,9,274,187,I Sharma,SNJ O'Keefe,11,6,25,8.45,1957,28.51,Right-hand bat,124,36,1,1302.1,20.86,44.9,lo,0,IND,spin,yes,7.446249999999999,13.82875
-3,1745,577,IND,9,274,187,I Sharma,SNJ O'Keefe,11,6,26,8.45,1957,28.51,Right-hand bat,125,36,1,1302.1,20.86,44.9,lo,0,IND,spin,yes,7.446249999999999,13.82875
-3,1752,584,IND,9,274,187,I Sharma,SNJ O'Keefe,11,6,27,8.45,1957,28.51,Right-hand bat,126,36,1,1302.1,20.86,44.9,lo,W,IND,spin,yes,7.446249999999999,13.82875

@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,511,511,AUS,9,212,212,JR Hazlewood,J Yadav,11,0,7,16,581,44.06,Left-hand bat,70,51,1,624.3,33.36,57,rob,0,IND,spin,yes,4.258125000000001,14.666875000000001
-1,512,512,AUS,9,212,212,JR Hazlewood,J Yadav,11,0,8,16,581,44.06,Left-hand bat,71,51,1,624.3,33.36,57,rob,0,IND,spin,yes,4.258125000000001,14.666875000000001
-1,513,513,AUS,9,212,212,JR Hazlewood,J Yadav,11,0,9,16,581,44.06,Left-hand bat,72,51,1,624.3,33.36,57,rob,0,IND,spin,yes,4.258125000000001,14.666875000000001
-1,524,524,AUS,9,226,226,JR Hazlewood,J Yadav,11,0,10,16,581,44.06,Left-hand bat,77,58,1,624.3,33.36,57,rob,0,IND,spin,yes,4.258125000000001,14.666875000000001
-1,525,525,AUS,9,226,226,JR Hazlewood,J Yadav,11,0,11,16,581,44.06,Left-hand bat,78,58,1,624.3,33.36,57,rob,0,IND,spin,yes,4.258125000000001,14.666875000000001

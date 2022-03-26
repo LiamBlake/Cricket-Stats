@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,918,90,NZL,2,32,10,KS Williamson,PM Siddle,3,1,6,48.36,7646,47.43,Right-hand bat,36,9,0,12294.5,30.02,61.4,rfm,0,AUS,seam,yes,17.991234477720965,4.197954711468225
-3,919,91,NZL,2,32,10,KS Williamson,PM Siddle,3,1,7,48.36,7646,47.43,Right-hand bat,37,9,0,12294.5,30.02,61.4,rfm,0,AUS,seam,yes,17.991234477720965,4.197954711468225
-3,920,92,NZL,2,32,10,KS Williamson,PM Siddle,3,1,8,48.36,7646,47.43,Right-hand bat,38,9,0,12294.5,30.02,61.4,rfm,0,AUS,seam,yes,17.991234477720965,4.197954711468225
-3,921,93,NZL,2,32,10,KS Williamson,PM Siddle,3,1,9,48.36,7646,47.43,Right-hand bat,39,9,0,12294.5,30.02,61.4,rfm,4b,AUS,seam,yes,17.991234477720965,4.197954711468225
-3,922,94,NZL,2,36,14,KS Williamson,PM Siddle,3,1,10,48.36,7646,47.43,Right-hand bat,40,9,0,12294.5,30.02,61.4,rfm,0,AUS,seam,yes,17.991234477720965,4.197954711468225
-3,923,95,NZL,2,36,14,KS Williamson,PM Siddle,3,1,11,48.36,7646,47.43,Right-hand bat,41,9,0,12294.5,30.02,61.4,rfm,0,AUS,seam,yes,17.991234477720965,4.197954711468225

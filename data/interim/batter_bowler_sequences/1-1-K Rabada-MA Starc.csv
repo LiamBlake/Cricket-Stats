@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,368,368,RSA,9,227,227,K Rabada,MA Starc,10,0,0,17.66,239,44.35,Left-hand bat,104,65,3,5808.1,27.76,48.4,lf,0,AUS,seam,yes,28.81578947368421,7.684210526315789
-1,369,369,RSA,9,227,227,K Rabada,MA Starc,10,0,1,17.66,239,44.35,Left-hand bat,105,65,3,5808.1,27.76,48.4,lf,0,AUS,seam,yes,28.81578947368421,7.684210526315789
-1,370,370,RSA,9,227,227,K Rabada,MA Starc,10,0,2,17.66,239,44.35,Left-hand bat,106,65,3,5808.1,27.76,48.4,lf,0,AUS,seam,yes,28.81578947368421,7.684210526315789
-1,371,371,RSA,9,227,227,K Rabada,MA Starc,10,0,3,17.66,239,44.35,Left-hand bat,107,65,3,5808.1,27.76,48.4,lf,0,AUS,seam,yes,28.81578947368421,7.684210526315789
-1,372,372,RSA,9,227,227,K Rabada,MA Starc,10,0,4,17.66,239,44.35,Left-hand bat,108,65,3,5808.1,27.76,48.4,lf,1,AUS,seam,yes,28.81578947368421,7.684210526315789
-1,380,380,RSA,9,241,241,K Rabada,MA Starc,10,10,11,17.66,239,44.35,Left-hand bat,110,70,3,5808.1,27.76,48.4,lf,1,AUS,seam,yes,28.81578947368421,7.684210526315789

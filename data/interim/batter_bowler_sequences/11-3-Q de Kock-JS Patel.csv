@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,2011,583,RSA,5,218,185,Q de Kock,JS Patel,7,4,5,47.37,1587,71.64,Left-hand bat,198,70,1,5634.1,47.88,90.8,rob,0,NZL,spin,yes,20.662721893491128,12.914201183431954
-3,2012,584,RSA,5,218,185,Q de Kock,JS Patel,7,4,6,47.37,1587,71.64,Left-hand bat,199,70,1,5634.1,47.88,90.8,rob,0,NZL,spin,yes,20.662721893491128,12.914201183431954
-3,2013,585,RSA,5,218,185,Q de Kock,JS Patel,7,4,7,47.37,1587,71.64,Left-hand bat,200,70,1,5634.1,47.88,90.8,rob,0,NZL,spin,yes,20.662721893491128,12.914201183431954
-3,2014,586,RSA,5,218,185,Q de Kock,JS Patel,7,4,8,47.37,1587,71.64,Left-hand bat,201,70,1,5634.1,47.88,90.8,rob,0,NZL,spin,yes,20.662721893491128,12.914201183431954
-3,2015,587,RSA,5,218,185,Q de Kock,JS Patel,7,4,9,47.37,1587,71.64,Left-hand bat,202,70,1,5634.1,47.88,90.8,rob,W,NZL,spin,yes,20.662721893491128,12.914201183431954

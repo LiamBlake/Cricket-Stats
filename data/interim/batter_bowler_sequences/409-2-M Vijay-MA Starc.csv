@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,798,0,IND,0,0,-380,M Vijay,MA Starc,1,0,0,28.4,1283,48.71,Right-hand bat,0,0,0,1524.5,32,54.6,lf,0,IND,seam,no,9.7109375,29.1328125
-2,799,1,IND,0,0,-380,M Vijay,MA Starc,1,0,1,28.4,1283,48.71,Right-hand bat,1,0,0,1524.5,32,54.6,lf,0,IND,seam,no,9.7109375,29.1328125
-2,800,2,IND,0,0,-380,M Vijay,MA Starc,1,0,2,28.4,1283,48.71,Right-hand bat,2,0,0,1524.5,32,54.6,lf,0,IND,seam,no,9.7109375,29.1328125
-2,801,3,IND,0,0,-380,M Vijay,MA Starc,1,0,3,28.4,1283,48.71,Right-hand bat,3,0,0,1524.5,32,54.6,lf,0,IND,seam,no,9.7109375,29.1328125
-2,802,4,IND,0,0,-380,M Vijay,MA Starc,1,0,4,28.4,1283,48.71,Right-hand bat,4,0,0,1524.5,32,54.6,lf,1,IND,seam,no,9.7109375,29.1328125
-2,811,13,IND,0,6,-374,M Vijay,MA Starc,1,5,11,28.4,1283,48.71,Right-hand bat,7,2,0,1524.5,32,54.6,lf,4,IND,seam,no,9.7109375,29.1328125
-2,812,14,IND,0,10,-370,M Vijay,MA Starc,1,9,12,28.4,1283,48.71,Right-hand bat,8,6,0,1524.5,32,54.6,lf,1,IND,seam,no,9.7109375,29.1328125

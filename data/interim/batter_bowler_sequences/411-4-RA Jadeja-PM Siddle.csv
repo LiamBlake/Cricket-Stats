@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2380,194,IND,4,116,-16,RA Jadeja,PM Siddle,6,0,0,13.5,103,52.42,Left-hand bat,61,26,2,8580,28.77,57.5,rfm,0,IND,seam,no,17.52249134948097,19.71280276816609
-4,2381,195,IND,4,116,-16,RA Jadeja,PM Siddle,6,0,1,13.5,103,52.42,Left-hand bat,62,26,2,8580,28.77,57.5,rfm,4,IND,seam,no,17.52249134948097,19.71280276816609
-4,2382,196,IND,4,120,-12,RA Jadeja,PM Siddle,6,4,2,13.5,103,52.42,Left-hand bat,63,30,2,8580,28.77,57.5,rfm,0,IND,seam,no,17.52249134948097,19.71280276816609
-4,2383,197,IND,4,120,-12,RA Jadeja,PM Siddle,6,4,3,13.5,103,52.42,Left-hand bat,64,30,2,8580,28.77,57.5,rfm,4,IND,seam,no,17.52249134948097,19.71280276816609
-4,2384,198,IND,4,124,-8,RA Jadeja,PM Siddle,6,8,4,13.5,103,52.42,Left-hand bat,65,34,2,8580,28.77,57.5,rfm,0,IND,seam,no,17.52249134948097,19.71280276816609

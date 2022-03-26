@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1549,294,PAK,6,188,-192,Faheem Ashraf,D Olivier,8,4,5,23,197,70.05,Left-hand bat,78,63,3,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
-4,1558,303,PAK,6,192,-188,Faheem Ashraf,D Olivier,8,4,7,23,197,70.05,Left-hand bat,81,64,3,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875
-4,1559,304,PAK,6,192,-188,Faheem Ashraf,D Olivier,8,4,8,23,197,70.05,Left-hand bat,82,64,3,1134,18.19,27.6,rfm,4,RSA,seam,no,22.378125,3.196875
-4,1560,305,PAK,6,196,-184,Faheem Ashraf,D Olivier,8,8,9,23,197,70.05,Left-hand bat,83,68,3,1134,18.19,27.6,rfm,4,RSA,seam,no,22.378125,3.196875
-4,1561,306,PAK,6,200,-180,Faheem Ashraf,D Olivier,8,12,10,23,197,70.05,Left-hand bat,84,72,3,1134,18.19,27.6,rfm,0,RSA,seam,no,22.378125,3.196875

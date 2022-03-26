@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1057,623,ENG,9,324,-26,SCJ Broad,MD Craig,9,29,20,23.08,3410,67,Left-hand bat,138,38,3,2562.1,40.02,67.4,rob,1,ENG,spin,yes,27.3213296398892,9.757617728531855
-2,1082,648,ENG,9,349,-1,SCJ Broad,MD Craig,9,45,33,23.08,3410,67,Left-hand bat,150,47,3,2562.1,40.02,67.4,rob,0,ENG,spin,yes,27.3213296398892,9.757617728531855
-2,1083,649,ENG,9,349,-1,SCJ Broad,MD Craig,9,45,34,23.08,3410,67,Left-hand bat,151,47,3,2562.1,40.02,67.4,rob,0,ENG,spin,yes,27.3213296398892,9.757617728531855
-2,1084,650,ENG,9,349,-1,SCJ Broad,MD Craig,9,45,35,23.08,3410,67,Left-hand bat,152,47,3,2562.1,40.02,67.4,rob,0,ENG,spin,yes,27.3213296398892,9.757617728531855
-2,1085,651,ENG,9,349,-1,SCJ Broad,MD Craig,9,45,36,23.08,3410,67,Left-hand bat,153,47,3,2562.1,40.02,67.4,rob,1,ENG,spin,yes,27.3213296398892,9.757617728531855

@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,980,7,WIN,0,4,-166,SD Hope,MA Starc,2,0,1,13,128,40.62,Right-hand bat,1,1,0,3336,33,59.5,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
-3,981,8,WIN,0,4,-166,SD Hope,MA Starc,2,0,2,13,128,40.62,Right-hand bat,2,1,0,3336,33,59.5,lf,4lb,WIN,seam,yes,15.171696149843912,8.344432882414152
-3,982,9,WIN,0,8,-162,SD Hope,MA Starc,2,0,3,13,128,40.62,Right-hand bat,3,1,0,3336,33,59.5,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
-3,983,10,WIN,0,8,-162,SD Hope,MA Starc,2,0,4,13,128,40.62,Right-hand bat,4,1,0,3336,33,59.5,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
-3,984,11,WIN,0,8,-162,SD Hope,MA Starc,2,0,5,13,128,40.62,Right-hand bat,5,1,0,3336,33,59.5,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
-3,994,21,WIN,0,12,-158,SD Hope,MA Starc,2,0,9,13,128,40.62,Right-hand bat,9,4,0,3336,33,59.5,lf,2,WIN,seam,yes,15.171696149843912,8.344432882414152
-3,995,22,WIN,0,14,-156,SD Hope,MA Starc,2,2,10,13,128,40.62,Right-hand bat,10,6,0,3336,33,59.5,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152
-3,996,23,WIN,0,14,-156,SD Hope,MA Starc,2,2,11,13,128,40.62,Right-hand bat,11,6,0,3336,33,59.5,lf,0,WIN,seam,yes,15.171696149843912,8.344432882414152

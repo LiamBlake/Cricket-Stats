@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1911,331,SRL,5,212,376,DAS Gunaratne,AG Cremer,7,1,2,70,124,56.45,Right-hand bat,73,54,0,2550.2,56.56,85,rls,1,ZIM,spin,yes,17.616512345679013,19.689043209876544
-3,1914,334,SRL,5,214,378,DAS Gunaratne,AG Cremer,7,2,3,70,124,56.45,Right-hand bat,76,56,0,2550.2,56.56,85,rls,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
-3,1915,335,SRL,5,214,378,DAS Gunaratne,AG Cremer,7,2,4,70,124,56.45,Right-hand bat,77,56,0,2550.2,56.56,85,rls,2,ZIM,spin,yes,17.616512345679013,19.689043209876544
-3,1916,336,SRL,5,216,380,DAS Gunaratne,AG Cremer,7,4,5,70,124,56.45,Right-hand bat,78,58,0,2550.2,56.56,85,rls,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
-3,1926,346,SRL,5,226,390,DAS Gunaratne,AG Cremer,7,9,9,70,124,56.45,Right-hand bat,82,61,0,2550.2,56.56,85,rls,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
-3,1927,347,SRL,5,226,390,DAS Gunaratne,AG Cremer,7,9,10,70,124,56.45,Right-hand bat,83,61,0,2550.2,56.56,85,rls,1,ZIM,spin,yes,17.616512345679013,19.689043209876544

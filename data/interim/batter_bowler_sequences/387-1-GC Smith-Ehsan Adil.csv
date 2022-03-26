@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,57,57,RSA,1,38,38,GC Smith,Ehsan Adil,1,5,18,48.62,14683,59.61,Left-hand bat,0,0,0,72.1,27,36.5,rfm,0,RSA,seam,yes,24.888888888888893,1.777777777777778
-1,58,58,RSA,1,38,38,GC Smith,Ehsan Adil,1,5,19,48.62,14683,59.61,Left-hand bat,1,0,0,72.1,27,36.5,rfm,0,RSA,seam,yes,24.888888888888893,1.777777777777778
-1,59,59,RSA,1,38,38,GC Smith,Ehsan Adil,1,5,20,48.62,14683,59.61,Left-hand bat,2,0,0,72.1,27,36.5,rfm,W,RSA,seam,yes,24.888888888888893,1.777777777777778

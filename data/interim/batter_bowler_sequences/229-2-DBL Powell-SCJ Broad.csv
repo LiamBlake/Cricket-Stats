@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1090,125,WIN,1,92,-454,DBL Powell,SCJ Broad,3,0,5,7.82,1141,35.67,Right-hand bat,30,19,0,2952.2,40.6,77.7,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
-2,1091,126,WIN,1,92,-454,DBL Powell,SCJ Broad,3,0,6,7.82,1141,35.67,Right-hand bat,31,19,0,2952.2,40.6,77.7,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
-2,1092,127,WIN,1,92,-454,DBL Powell,SCJ Broad,3,0,7,7.82,1141,35.67,Right-hand bat,32,19,0,2952.2,40.6,77.7,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
-2,1093,128,WIN,1,92,-454,DBL Powell,SCJ Broad,3,0,8,7.82,1141,35.67,Right-hand bat,33,19,0,2952.2,40.6,77.7,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
-2,1094,129,WIN,1,92,-454,DBL Powell,SCJ Broad,3,0,9,7.82,1141,35.67,Right-hand bat,34,19,0,2952.2,40.6,77.7,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
-2,1095,130,WIN,1,92,-454,DBL Powell,SCJ Broad,3,0,10,7.82,1141,35.67,Right-hand bat,35,19,0,2952.2,40.6,77.7,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
-2,1105,140,WIN,1,96,-450,DBL Powell,SCJ Broad,3,0,12,7.82,1141,35.67,Right-hand bat,39,22,0,2952.2,40.6,77.7,rfm,0,WIN,seam,no,25.61777777777778,22.415555555555557
-2,1106,141,WIN,1,96,-450,DBL Powell,SCJ Broad,3,0,13,7.82,1141,35.67,Right-hand bat,40,22,0,2952.2,40.6,77.7,rfm,W,WIN,seam,no,25.61777777777778,22.415555555555557

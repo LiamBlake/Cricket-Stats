@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1908,461,WIN,9,277,-179,NT Pascal,PL Harris,11,0,1,6,27,44.44,Right-hand bat,152,85,2,6804.1,35.64,76.4,lo,2,WIN,spin,no,14.839100346020762,13.190311418685122
-4,1915,468,WIN,9,283,-173,NT Pascal,PL Harris,11,2,2,6,27,44.44,Right-hand bat,153,87,2,6804.1,35.64,76.4,lo,0,WIN,spin,no,14.839100346020762,13.190311418685122
-4,1916,469,WIN,9,283,-173,NT Pascal,PL Harris,11,2,3,6,27,44.44,Right-hand bat,154,87,2,6804.1,35.64,76.4,lo,0,WIN,spin,no,14.839100346020762,13.190311418685122
-4,1917,470,WIN,9,283,-173,NT Pascal,PL Harris,11,2,4,6,27,44.44,Right-hand bat,155,87,2,6804.1,35.64,76.4,lo,4,WIN,spin,no,14.839100346020762,13.190311418685122
-4,1918,471,WIN,9,287,-169,NT Pascal,PL Harris,11,6,5,6,27,44.44,Right-hand bat,156,91,2,6804.1,35.64,76.4,lo,0,WIN,spin,no,14.839100346020762,13.190311418685122
-4,1919,472,WIN,9,287,-169,NT Pascal,PL Harris,11,6,6,6,27,44.44,Right-hand bat,157,91,2,6804.1,35.64,76.4,lo,0,WIN,spin,no,14.839100346020762,13.190311418685122
-4,1920,473,WIN,9,287,-169,NT Pascal,PL Harris,11,6,7,6,27,44.44,Right-hand bat,158,91,2,6804.1,35.64,76.4,lo,0,WIN,spin,no,14.839100346020762,13.190311418685122

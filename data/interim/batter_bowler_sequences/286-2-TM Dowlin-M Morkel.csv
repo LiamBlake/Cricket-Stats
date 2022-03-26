@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,907,6,WIN,0,4,-539,TM Dowlin,M Morkel,2,3,4,31.18,742,46.22,Right-hand bat,0,0,0,4710,31.25,53.5,rf,0,WIN,seam,no,36.67590027700831,33.008310249307485
-2,908,7,WIN,0,4,-539,TM Dowlin,M Morkel,2,3,5,31.18,742,46.22,Right-hand bat,1,0,0,4710,31.25,53.5,rf,1nb,WIN,seam,no,36.67590027700831,33.008310249307485
-2,909,8,WIN,0,7,-536,TM Dowlin,M Morkel,2,5,6,31.18,742,46.22,Right-hand bat,2,1,0,4710,31.25,53.5,rf,0,WIN,seam,no,36.67590027700831,33.008310249307485
-2,910,9,WIN,0,7,-536,TM Dowlin,M Morkel,2,5,7,31.18,742,46.22,Right-hand bat,3,1,0,4710,31.25,53.5,rf,1,WIN,seam,no,36.67590027700831,33.008310249307485
-2,922,21,WIN,0,13,-530,TM Dowlin,M Morkel,2,10,14,31.18,742,46.22,Right-hand bat,9,3,0,4710,31.25,53.5,rf,0,WIN,seam,no,36.67590027700831,33.008310249307485
-2,923,22,WIN,0,13,-530,TM Dowlin,M Morkel,2,10,15,31.18,742,46.22,Right-hand bat,10,3,0,4710,31.25,53.5,rf,W,WIN,seam,no,36.67590027700831,33.008310249307485

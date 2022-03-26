@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1154,96,IND,0,77,114,V Sehwag,BAW Mendis,2,43,39,53.14,6608,77.2,Right-hand bat,0,0,0,606.1,18.94,33.7,rob,1lb,SRL,spin,yes,5.77125,19.87875
-3,1158,100,IND,0,81,118,V Sehwag,BAW Mendis,2,43,40,53.14,6608,77.2,Right-hand bat,4,3,0,606.1,18.94,33.7,rob,0,SRL,spin,yes,5.77125,19.87875
-3,1159,101,IND,0,81,118,V Sehwag,BAW Mendis,2,43,41,53.14,6608,77.2,Right-hand bat,5,3,0,606.1,18.94,33.7,rob,1,SRL,spin,yes,5.77125,19.87875
-3,1169,111,IND,0,85,122,V Sehwag,BAW Mendis,2,45,46,53.14,6608,77.2,Right-hand bat,9,5,0,606.1,18.94,33.7,rob,4,SRL,spin,yes,5.77125,19.87875
-3,1170,112,IND,0,89,126,V Sehwag,BAW Mendis,2,49,47,53.14,6608,77.2,Right-hand bat,10,9,0,606.1,18.94,33.7,rob,0,SRL,spin,yes,5.77125,19.87875
-3,1171,113,IND,0,89,126,V Sehwag,BAW Mendis,2,49,48,53.14,6608,77.2,Right-hand bat,11,9,0,606.1,18.94,33.7,rob,1,SRL,spin,yes,5.77125,19.87875

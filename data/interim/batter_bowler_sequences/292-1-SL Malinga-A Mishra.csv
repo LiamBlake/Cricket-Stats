@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,757,757,SRL,7,382,382,SL Malinga,A Mishra,9,0,0,11.45,619,44.42,Right-hand bat,224,117,0,2850,39.69,79.1,rls,0,SRL,spin,yes,9.051428571428572,30.54857142857143
-1,758,758,SRL,7,382,382,SL Malinga,A Mishra,9,0,1,11.45,619,44.42,Right-hand bat,225,117,0,2850,39.69,79.1,rls,4,SRL,spin,yes,9.051428571428572,30.54857142857143
-1,759,759,SRL,7,386,386,SL Malinga,A Mishra,9,4,2,11.45,619,44.42,Right-hand bat,226,121,0,2850,39.69,79.1,rls,0,SRL,spin,yes,9.051428571428572,30.54857142857143
-1,760,760,SRL,7,386,386,SL Malinga,A Mishra,9,4,3,11.45,619,44.42,Right-hand bat,227,121,0,2850,39.69,79.1,rls,W,SRL,spin,yes,9.051428571428572,30.54857142857143

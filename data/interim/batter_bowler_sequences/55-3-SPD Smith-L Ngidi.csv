@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1273,130,AUS,2,62,-77,SPD Smith,L Ngidi,4,0,0,62.49,11132,55.57,Right-hand bat,21,5,1,474.5,16.42,34.2,rf,4,AUS,seam,yes,24.23356401384083,4.178200692041522
-3,1274,131,AUS,2,66,-73,SPD Smith,L Ngidi,4,4,1,62.49,11132,55.57,Right-hand bat,22,9,1,474.5,16.42,34.2,rf,0,AUS,seam,yes,24.23356401384083,4.178200692041522
-3,1275,132,AUS,2,66,-73,SPD Smith,L Ngidi,4,4,2,62.49,11132,55.57,Right-hand bat,23,9,1,474.5,16.42,34.2,rf,0,AUS,seam,yes,24.23356401384083,4.178200692041522
-3,1297,154,AUS,2,74,-65,SPD Smith,L Ngidi,4,10,12,62.49,11132,55.57,Right-hand bat,33,10,1,474.5,16.42,34.2,rf,0,AUS,seam,yes,24.23356401384083,4.178200692041522
-3,1298,155,AUS,2,74,-65,SPD Smith,L Ngidi,4,10,13,62.49,11132,55.57,Right-hand bat,34,10,1,474.5,16.42,34.2,rf,0,AUS,seam,yes,24.23356401384083,4.178200692041522
-3,1299,156,AUS,2,74,-65,SPD Smith,L Ngidi,4,10,14,62.49,11132,55.57,Right-hand bat,35,10,1,474.5,16.42,34.2,rf,1lb,AUS,seam,yes,24.23356401384083,4.178200692041522

@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,873,873,SRL,7,499,499,HMRKB Herath,AG Cremer,9,0,0,14.59,2563,50.09,Left-hand bat,225,128,5,2550.2,56.56,85,rls,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
-1,874,874,SRL,7,499,499,HMRKB Herath,AG Cremer,9,0,1,14.59,2563,50.09,Left-hand bat,226,128,5,2550.2,56.56,85,rls,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
-1,875,875,SRL,7,499,499,HMRKB Herath,AG Cremer,9,0,2,14.59,2563,50.09,Left-hand bat,227,128,5,2550.2,56.56,85,rls,2b,ZIM,spin,yes,17.616512345679013,19.689043209876544
-1,882,882,SRL,7,503,503,HMRKB Herath,AG Cremer,9,0,3,14.59,2563,50.09,Left-hand bat,228,128,5,2550.2,56.56,85,rls,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
-1,883,883,SRL,7,503,503,HMRKB Herath,AG Cremer,9,0,4,14.59,2563,50.09,Left-hand bat,229,128,5,2550.2,56.56,85,rls,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
-1,884,884,SRL,7,503,503,HMRKB Herath,AG Cremer,9,0,5,14.59,2563,50.09,Left-hand bat,230,128,5,2550.2,56.56,85,rls,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
-1,885,885,SRL,7,503,503,HMRKB Herath,AG Cremer,9,0,6,14.59,2563,50.09,Left-hand bat,231,128,5,2550.2,56.56,85,rls,0,ZIM,spin,yes,17.616512345679013,19.689043209876544
-1,886,886,SRL,7,503,503,HMRKB Herath,AG Cremer,9,0,7,14.59,2563,50.09,Left-hand bat,232,128,5,2550.2,56.56,85,rls,1,ZIM,spin,yes,17.616512345679013,19.689043209876544

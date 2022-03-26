@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1548,472,PAK,9,215,282,Rahat Ali,CR Woakes,11,0,0,7.53,268,36.56,Right-hand bat,105,32,5,1494.5,28.22,55.5,rfm,0,ENG,seam,yes,18.0775,7.7475
-3,1549,473,PAK,9,215,282,Rahat Ali,CR Woakes,11,0,1,7.53,268,36.56,Right-hand bat,106,32,5,1494.5,28.22,55.5,rfm,0,ENG,seam,yes,18.0775,7.7475
-3,1550,474,PAK,9,215,282,Rahat Ali,CR Woakes,11,0,2,7.53,268,36.56,Right-hand bat,107,32,5,1494.5,28.22,55.5,rfm,0,ENG,seam,yes,18.0775,7.7475

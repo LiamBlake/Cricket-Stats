@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,898,898,NZL,8,579,579,N Wagner,TL Best,10,15,29,13.72,403,37.46,Left-hand bat,195,132,3,3462.2,40.3,66.6,rf,4,NZL,seam,no,28.444444444444443,14.222222222222221
-1,899,899,NZL,8,583,583,N Wagner,TL Best,10,19,30,13.72,403,37.46,Left-hand bat,196,136,3,3462.2,40.3,66.6,rf,0,NZL,seam,no,28.444444444444443,14.222222222222221
-1,900,900,NZL,8,583,583,N Wagner,TL Best,10,19,31,13.72,403,37.46,Left-hand bat,197,136,3,3462.2,40.3,66.6,rf,6,NZL,seam,no,28.444444444444443,14.222222222222221
-1,909,909,NZL,8,601,601,N Wagner,TL Best,10,32,35,13.72,403,37.46,Left-hand bat,200,145,3,3462.2,40.3,66.6,rf,1,NZL,seam,no,28.444444444444443,14.222222222222221
-1,919,919,NZL,8,609,609,N Wagner,TL Best,10,37,39,13.72,403,37.46,Left-hand bat,204,148,3,3462.2,40.3,66.6,rf,W,NZL,seam,no,28.444444444444443,14.222222222222221

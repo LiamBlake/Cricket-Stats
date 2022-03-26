@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,49,49,ENG,3,16,16,BA Stokes,TA Boult,5,0,0,35.64,4005,62.29,Left-hand bat,25,7,3,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
-1,50,50,ENG,3,16,16,BA Stokes,TA Boult,5,0,1,35.64,4005,62.29,Left-hand bat,26,7,3,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
-1,51,51,ENG,3,16,16,BA Stokes,TA Boult,5,0,2,35.64,4005,62.29,Left-hand bat,27,7,3,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
-1,52,52,ENG,3,16,16,BA Stokes,TA Boult,5,0,3,35.64,4005,62.29,Left-hand bat,28,7,3,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
-1,53,53,ENG,3,16,16,BA Stokes,TA Boult,5,0,4,35.64,4005,62.29,Left-hand bat,29,7,3,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
-1,60,60,ENG,4,18,18,BA Stokes,TA Boult,5,0,5,35.64,4005,62.29,Left-hand bat,30,7,3,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
-1,61,61,ENG,4,18,18,BA Stokes,TA Boult,5,0,6,35.64,4005,62.29,Left-hand bat,31,7,3,11718.4,27.8,56,lfm,0,ENG,seam,no,24.642857142857142,4.107142857142857
-1,62,62,ENG,4,18,18,BA Stokes,TA Boult,5,0,7,35.64,4005,62.29,Left-hand bat,32,7,3,11718.4,27.8,56,lfm,W,ENG,seam,no,24.642857142857142,4.107142857142857

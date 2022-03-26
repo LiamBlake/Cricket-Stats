@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1524,126,ENG,2,40,-94,JM Bairstow,R Ashwin,4,1,6,42.18,4201,55.22,Right-hand bat,54,11,2,11928.3,24.75,50.7,rob,0,IND,spin,yes,14.21875,18.28125
-3,1525,127,ENG,2,40,-94,JM Bairstow,R Ashwin,4,1,7,42.18,4201,55.22,Right-hand bat,55,11,2,11928.3,24.75,50.7,rob,1,IND,spin,yes,14.21875,18.28125
-3,1539,141,ENG,2,48,-86,JM Bairstow,R Ashwin,4,2,14,42.18,4201,55.22,Right-hand bat,63,19,2,11928.3,24.75,50.7,rob,0,IND,spin,yes,14.21875,18.28125
-3,1540,142,ENG,2,48,-86,JM Bairstow,R Ashwin,4,2,15,42.18,4201,55.22,Right-hand bat,64,19,2,11928.3,24.75,50.7,rob,0,IND,spin,yes,14.21875,18.28125
-3,1541,143,ENG,2,48,-86,JM Bairstow,R Ashwin,4,2,16,42.18,4201,55.22,Right-hand bat,65,19,2,11928.3,24.75,50.7,rob,0,IND,spin,yes,14.21875,18.28125

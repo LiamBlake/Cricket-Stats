@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1396,923,AUS,8,467,207,PM Siddle,GP Swann,10,1,2,15.41,541,48.42,Right-hand bat,240,122,2,6420.2,27.49,55.8,rob,0,AUS,spin,no,47.94421487603306,14.101239669421489
-2,1397,924,AUS,8,467,207,PM Siddle,GP Swann,10,1,3,15.41,541,48.42,Right-hand bat,241,122,2,6420.2,27.49,55.8,rob,0,AUS,spin,no,47.94421487603306,14.101239669421489
-2,1398,925,AUS,8,467,207,PM Siddle,GP Swann,10,1,4,15.41,541,48.42,Right-hand bat,242,122,2,6420.2,27.49,55.8,rob,0,AUS,spin,no,47.94421487603306,14.101239669421489
-2,1399,926,AUS,8,467,207,PM Siddle,GP Swann,10,1,5,15.41,541,48.42,Right-hand bat,243,122,2,6420.2,27.49,55.8,rob,0,AUS,spin,no,47.94421487603306,14.101239669421489
-2,1400,927,AUS,8,467,207,PM Siddle,GP Swann,10,1,6,15.41,541,48.42,Right-hand bat,244,122,2,6420.2,27.49,55.8,rob,1,AUS,spin,no,47.94421487603306,14.101239669421489

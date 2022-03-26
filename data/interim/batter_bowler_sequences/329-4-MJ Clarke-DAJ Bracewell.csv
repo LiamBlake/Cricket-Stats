@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1335,274,AUS,3,159,-81,MJ Clarke,DAJ Bracewell,5,0,0,46.34,9852,53.62,Right-hand bat,46,14,1,606,19.25,37.8,rfm,0,AUS,seam,yes,17.228125,1.396875
-4,1336,275,AUS,3,159,-81,MJ Clarke,DAJ Bracewell,5,0,1,46.34,9852,53.62,Right-hand bat,47,14,1,606,19.25,37.8,rfm,0,AUS,seam,yes,17.228125,1.396875
-4,1343,282,AUS,3,159,-81,MJ Clarke,DAJ Bracewell,5,0,2,46.34,9852,53.62,Right-hand bat,48,14,1,606,19.25,37.8,rfm,0,AUS,seam,yes,17.228125,1.396875
-4,1344,283,AUS,3,159,-81,MJ Clarke,DAJ Bracewell,5,0,3,46.34,9852,53.62,Right-hand bat,49,14,1,606,19.25,37.8,rfm,0,AUS,seam,yes,17.228125,1.396875
-4,1345,284,AUS,3,159,-81,MJ Clarke,DAJ Bracewell,5,0,4,46.34,9852,53.62,Right-hand bat,50,14,1,606,19.25,37.8,rfm,0,AUS,seam,yes,17.228125,1.396875
-4,1346,285,AUS,3,159,-81,MJ Clarke,DAJ Bracewell,5,0,5,46.34,9852,53.62,Right-hand bat,51,14,1,606,19.25,37.8,rfm,0,AUS,seam,yes,17.228125,1.396875
-4,1347,286,AUS,3,159,-81,MJ Clarke,DAJ Bracewell,5,0,6,46.34,9852,53.62,Right-hand bat,52,14,1,606,19.25,37.8,rfm,W,AUS,seam,yes,17.228125,1.396875

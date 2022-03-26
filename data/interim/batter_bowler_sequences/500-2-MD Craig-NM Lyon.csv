@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1141,349,NZL,6,219,-337,MD Craig,NM Lyon,8,19,23,42.81,875,53.82,Left-hand bat,48,22,0,10710,33.93,64.5,rob,1,AUS,spin,no,36.53061224489796,14.612244897959185
-2,1145,353,NZL,6,221,-335,MD Craig,NM Lyon,8,20,24,42.81,875,53.82,Left-hand bat,52,23,0,10710,33.93,64.5,rob,1,AUS,spin,no,36.53061224489796,14.612244897959185
-2,1153,361,NZL,6,227,-329,MD Craig,NM Lyon,8,21,25,42.81,875,53.82,Left-hand bat,54,25,0,10710,33.93,64.5,rob,0,AUS,spin,no,36.53061224489796,14.612244897959185
-2,1154,362,NZL,6,227,-329,MD Craig,NM Lyon,8,21,26,42.81,875,53.82,Left-hand bat,55,25,0,10710,33.93,64.5,rob,3,AUS,spin,no,36.53061224489796,14.612244897959185
-2,1156,364,NZL,6,231,-325,MD Craig,NM Lyon,8,24,27,42.81,875,53.82,Left-hand bat,57,29,0,10710,33.93,64.5,rob,0,AUS,spin,no,36.53061224489796,14.612244897959185
-2,1157,365,NZL,6,231,-325,MD Craig,NM Lyon,8,24,28,42.81,875,53.82,Left-hand bat,58,29,0,10710,33.93,64.5,rob,0,AUS,spin,no,36.53061224489796,14.612244897959185
-2,1158,366,NZL,6,231,-325,MD Craig,NM Lyon,8,24,29,42.81,875,53.82,Left-hand bat,59,29,0,10710,33.93,64.5,rob,0,AUS,spin,no,36.53061224489796,14.612244897959185
-2,1165,373,NZL,6,231,-325,MD Craig,NM Lyon,8,24,30,42.81,875,53.82,Left-hand bat,60,29,0,10710,33.93,64.5,rob,W,AUS,spin,no,36.53061224489796,14.612244897959185

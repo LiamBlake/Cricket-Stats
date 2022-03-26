@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,263,263,WIN,7,149,149,JO Holder,A Mishra,8,7,7,29.34,1043,64.71,Right-hand bat,31,18,0,4644.4,34.36,65.4,rls,0,WIN,spin,yes,17.344,26.016
-1,264,264,WIN,7,149,149,JO Holder,A Mishra,8,7,8,29.34,1043,64.71,Right-hand bat,32,18,0,4644.4,34.36,65.4,rls,1,WIN,spin,yes,17.344,26.016
-1,275,275,WIN,8,151,151,JO Holder,A Mishra,8,8,9,29.34,1043,64.71,Right-hand bat,37,20,0,4644.4,34.36,65.4,rls,1,WIN,spin,yes,17.344,26.016
-1,278,278,WIN,8,153,153,JO Holder,A Mishra,8,9,10,29.34,1043,64.71,Right-hand bat,40,22,0,4644.4,34.36,65.4,rls,0,WIN,spin,yes,17.344,26.016
-1,279,279,WIN,8,153,153,JO Holder,A Mishra,8,9,11,29.34,1043,64.71,Right-hand bat,41,22,0,4644.4,34.36,65.4,rls,0,WIN,spin,yes,17.344,26.016
-1,280,280,WIN,8,153,153,JO Holder,A Mishra,8,9,12,29.34,1043,64.71,Right-hand bat,42,22,0,4644.4,34.36,65.4,rls,4,WIN,spin,yes,17.344,26.016

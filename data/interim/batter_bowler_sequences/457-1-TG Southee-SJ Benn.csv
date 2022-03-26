@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,258,258,NZL,6,172,172,TG Southee,SJ Benn,8,0,0,18.34,1057,86.75,Right-hand bat,77,52,3,5634,40.6,86.6,lo,0,WIN,spin,yes,23.56829802775749,8.728999269539809
-1,265,265,NZL,6,180,180,TG Southee,SJ Benn,8,1,4,18.34,1057,86.75,Right-hand bat,78,52,3,5634,40.6,86.6,lo,0,WIN,spin,yes,23.56829802775749,8.728999269539809
-1,266,266,NZL,6,180,180,TG Southee,SJ Benn,8,1,5,18.34,1057,86.75,Right-hand bat,79,52,3,5634,40.6,86.6,lo,0,WIN,spin,yes,23.56829802775749,8.728999269539809
-1,267,267,NZL,6,180,180,TG Southee,SJ Benn,8,1,6,18.34,1057,86.75,Right-hand bat,80,52,3,5634,40.6,86.6,lo,1,WIN,spin,yes,23.56829802775749,8.728999269539809
-1,280,280,NZL,6,190,190,TG Southee,SJ Benn,8,3,8,18.34,1057,86.75,Right-hand bat,87,55,3,5634,40.6,86.6,lo,1,WIN,spin,yes,23.56829802775749,8.728999269539809
-1,289,289,NZL,6,194,194,TG Southee,SJ Benn,8,6,12,18.34,1057,86.75,Right-hand bat,90,56,3,5634,40.6,86.6,lo,0,WIN,spin,yes,23.56829802775749,8.728999269539809
-1,290,290,NZL,6,194,194,TG Southee,SJ Benn,8,6,13,18.34,1057,86.75,Right-hand bat,91,56,3,5634,40.6,86.6,lo,0,WIN,spin,yes,23.56829802775749,8.728999269539809
-1,291,291,NZL,6,194,194,TG Southee,SJ Benn,8,6,14,18.34,1057,86.75,Right-hand bat,92,56,3,5634,40.6,86.6,lo,W,WIN,spin,yes,23.56829802775749,8.728999269539809

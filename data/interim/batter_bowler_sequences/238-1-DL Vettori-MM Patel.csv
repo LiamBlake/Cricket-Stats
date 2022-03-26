@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,798,798,NZL,6,507,507,DL Vettori,MM Patel,8,6,16,28.26,5676,56.27,Left-hand bat,157,114,0,2268,36,68.7,rmf,0,NZL,seam,yes,34.40453686200378,26.46502835538752
-1,810,810,NZL,6,517,517,DL Vettori,MM Patel,8,9,20,28.26,5676,56.27,Left-hand bat,163,119,0,2268,36,68.7,rmf,0,NZL,seam,yes,34.40453686200378,26.46502835538752
-1,820,820,NZL,6,525,525,DL Vettori,MM Patel,8,9,21,28.26,5676,56.27,Left-hand bat,167,124,0,2268,36,68.7,rmf,0,NZL,seam,yes,34.40453686200378,26.46502835538752
-1,821,821,NZL,6,525,525,DL Vettori,MM Patel,8,9,22,28.26,5676,56.27,Left-hand bat,168,124,0,2268,36,68.7,rmf,0,NZL,seam,yes,34.40453686200378,26.46502835538752
-1,822,822,NZL,6,525,525,DL Vettori,MM Patel,8,9,23,28.26,5676,56.27,Left-hand bat,169,124,0,2268,36,68.7,rmf,4,NZL,seam,yes,34.40453686200378,26.46502835538752

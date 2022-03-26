@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,925,170,ZIM,9,51,-444,BV Vitori,TG Southee,11,0,0,6.6,48,68.75,Left-hand bat,20,8,2,3030.2,41.42,72.1,rmf,0,NZL,seam,yes,21.737997256515776,4.725651577503429
-2,926,171,ZIM,9,51,-444,BV Vitori,TG Southee,11,0,1,6.6,48,68.75,Left-hand bat,21,8,2,3030.2,41.42,72.1,rmf,0,NZL,seam,yes,21.737997256515776,4.725651577503429
-2,927,172,ZIM,9,51,-444,BV Vitori,TG Southee,11,0,2,6.6,48,68.75,Left-hand bat,22,8,2,3030.2,41.42,72.1,rmf,W,NZL,seam,yes,21.737997256515776,4.725651577503429

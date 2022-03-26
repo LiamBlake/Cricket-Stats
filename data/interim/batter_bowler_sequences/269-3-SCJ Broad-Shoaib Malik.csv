@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1291,334,ENG,7,191,363,SCJ Broad,Shoaib Malik,9,20,12,24.94,1454,60.04,Left-hand bat,0,0,0,2214.1,60.52,105.4,rob,1,ENG,spin,yes,20.781065088757398,1.7317554240631166
-3,1296,339,ENG,7,197,369,SCJ Broad,Shoaib Malik,9,21,13,24.94,1454,60.04,Left-hand bat,5,6,0,2214.1,60.52,105.4,rob,0,ENG,spin,yes,20.781065088757398,1.7317554240631166
-3,1304,347,ENG,7,199,371,SCJ Broad,Shoaib Malik,9,21,18,24.94,1454,60.04,Left-hand bat,7,7,0,2214.1,60.52,105.4,rob,1,ENG,spin,yes,20.781065088757398,1.7317554240631166
-3,1306,349,ENG,7,201,373,SCJ Broad,Shoaib Malik,9,22,19,24.94,1454,60.04,Left-hand bat,9,9,0,2214.1,60.52,105.4,rob,0,ENG,spin,yes,20.781065088757398,1.7317554240631166
-3,1307,350,ENG,7,201,373,SCJ Broad,Shoaib Malik,9,22,20,24.94,1454,60.04,Left-hand bat,10,9,0,2214.1,60.52,105.4,rob,0,ENG,spin,yes,20.781065088757398,1.7317554240631166
-3,1308,351,ENG,7,201,373,SCJ Broad,Shoaib Malik,9,22,21,24.94,1454,60.04,Left-hand bat,11,9,0,2214.1,60.52,105.4,rob,1,ENG,spin,yes,20.781065088757398,1.7317554240631166
-3,1315,358,ENG,7,203,375,SCJ Broad,Shoaib Malik,9,24,28,24.94,1454,60.04,Left-hand bat,12,10,0,2214.1,60.52,105.4,rob,W,ENG,spin,yes,20.781065088757398,1.7317554240631166

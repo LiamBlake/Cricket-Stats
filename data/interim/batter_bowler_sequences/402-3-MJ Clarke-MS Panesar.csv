@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1482,114,AUS,2,61,459,MJ Clarke,MS Panesar,4,20,47,52.58,14129,56.19,Right-hand bat,6,1,0,12372.2,34.56,74.5,lo,0,AUS,spin,yes,28.955078125,8.107421875
-3,1483,115,AUS,2,61,459,MJ Clarke,MS Panesar,4,20,48,52.58,14129,56.19,Right-hand bat,7,1,0,12372.2,34.56,74.5,lo,1,AUS,spin,yes,28.955078125,8.107421875
-3,1494,126,AUS,2,65,463,MJ Clarke,MS Panesar,4,22,50,52.58,14129,56.19,Right-hand bat,12,2,0,12372.2,34.56,74.5,lo,W,AUS,spin,yes,28.955078125,8.107421875

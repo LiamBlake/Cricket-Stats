@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1325,38,NZL,1,10,-122,DAJ Bracewell,JL Pattinson,3,0,0,1,44,6.81,Right-hand bat,19,1,1,156,15.16,26,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
-3,1326,39,NZL,1,10,-122,DAJ Bracewell,JL Pattinson,3,0,1,1,44,6.81,Right-hand bat,20,1,1,156,15.16,26,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
-3,1327,40,NZL,1,10,-122,DAJ Bracewell,JL Pattinson,3,0,2,1,44,6.81,Right-hand bat,21,1,1,156,15.16,26,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
-3,1328,41,NZL,1,10,-122,DAJ Bracewell,JL Pattinson,3,0,3,1,44,6.81,Right-hand bat,22,1,1,156,15.16,26,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
-3,1329,42,NZL,1,10,-122,DAJ Bracewell,JL Pattinson,3,0,4,1,44,6.81,Right-hand bat,23,1,1,156,15.16,26,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
-3,1360,73,NZL,4,28,-104,DAJ Bracewell,JL Pattinson,3,2,17,1,44,6.81,Right-hand bat,36,7,4,156,15.16,26,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
-3,1361,74,NZL,4,28,-104,DAJ Bracewell,JL Pattinson,3,2,18,1,44,6.81,Right-hand bat,37,7,4,156,15.16,26,rfm,0,AUS,seam,yes,18.54318418314256,10.198751300728409
-3,1362,75,NZL,4,28,-104,DAJ Bracewell,JL Pattinson,3,2,19,1,44,6.81,Right-hand bat,38,7,4,156,15.16,26,rfm,W,AUS,seam,yes,18.54318418314256,10.198751300728409

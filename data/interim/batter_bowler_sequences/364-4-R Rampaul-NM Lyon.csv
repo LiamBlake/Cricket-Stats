@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2245,506,WIN,8,234,-135,R Rampaul,NM Lyon,10,0,0,16.89,570,56.31,Left-hand bat,158,66,2,2412.5,27.83,57.5,rob,0,WIN,spin,no,9.61625,17.85875
-4,2246,507,WIN,8,234,-135,R Rampaul,NM Lyon,10,0,1,16.89,570,56.31,Left-hand bat,159,66,2,2412.5,27.83,57.5,rob,0,WIN,spin,no,9.61625,17.85875
-4,2247,508,WIN,8,234,-135,R Rampaul,NM Lyon,10,0,2,16.89,570,56.31,Left-hand bat,160,66,2,2412.5,27.83,57.5,rob,0,WIN,spin,no,9.61625,17.85875
-4,2248,509,WIN,8,234,-135,R Rampaul,NM Lyon,10,0,3,16.89,570,56.31,Left-hand bat,161,66,2,2412.5,27.83,57.5,rob,1,WIN,spin,no,9.61625,17.85875

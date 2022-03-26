@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,520,520,ENG,9,294,294,SCJ Broad,PJ Cummins,11,0,0,19.08,4887,64.43,Left-hand bat,152,84,3,5664.3,21.45,46,rf,0,ENG,seam,no,20.83125,6.94375
-1,521,521,ENG,9,294,294,SCJ Broad,PJ Cummins,11,0,1,19.08,4887,64.43,Left-hand bat,153,84,3,5664.3,21.45,46,rf,0,ENG,seam,no,20.83125,6.94375
-1,522,522,ENG,9,294,294,SCJ Broad,PJ Cummins,11,0,2,19.08,4887,64.43,Left-hand bat,154,84,3,5664.3,21.45,46,rf,0,ENG,seam,no,20.83125,6.94375
-1,523,523,ENG,9,294,294,SCJ Broad,PJ Cummins,11,0,3,19.08,4887,64.43,Left-hand bat,155,84,3,5664.3,21.45,46,rf,0,ENG,seam,no,20.83125,6.94375
-1,524,524,ENG,9,294,294,SCJ Broad,PJ Cummins,11,0,4,19.08,4887,64.43,Left-hand bat,156,84,3,5664.3,21.45,46,rf,0,ENG,seam,no,20.83125,6.94375

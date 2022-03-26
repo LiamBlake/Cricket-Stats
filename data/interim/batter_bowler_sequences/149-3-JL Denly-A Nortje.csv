@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1148,139,ENG,1,65,282,JL Denly,A Nortje,3,0,8,30,1958,39.83,Right-hand bat,37,25,0,1044.3,35.1,55.1,rf,4,RSA,seam,yes,26.934375,0.690625
-3,1149,140,ENG,1,69,286,JL Denly,A Nortje,3,4,9,30,1958,39.83,Right-hand bat,38,29,0,1044.3,35.1,55.1,rf,0,RSA,seam,yes,26.934375,0.690625
-3,1150,141,ENG,1,69,286,JL Denly,A Nortje,3,4,10,30,1958,39.83,Right-hand bat,39,29,0,1044.3,35.1,55.1,rf,0,RSA,seam,yes,26.934375,0.690625
-3,1151,142,ENG,1,69,286,JL Denly,A Nortje,3,4,11,30,1958,39.83,Right-hand bat,40,29,0,1044.3,35.1,55.1,rf,3,RSA,seam,yes,26.934375,0.690625

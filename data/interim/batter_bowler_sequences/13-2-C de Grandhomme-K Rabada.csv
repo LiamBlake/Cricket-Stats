@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1373,834,NZL,6,397,83,C de Grandhomme,K Rabada,8,0,0,25.75,227,90.74,Right-hand bat,184,109,3,2898.2,23.69,40.8,rf,1,NZL,seam,no,28.256,7.064
-2,1385,846,NZL,6,399,85,C de Grandhomme,K Rabada,8,1,7,25.75,227,90.74,Right-hand bat,190,111,3,2898.2,23.69,40.8,rf,0,NZL,seam,no,28.256,7.064
-2,1386,847,NZL,6,399,85,C de Grandhomme,K Rabada,8,1,8,25.75,227,90.74,Right-hand bat,191,111,3,2898.2,23.69,40.8,rf,1,NZL,seam,no,28.256,7.064
-2,1396,857,NZL,6,407,93,C de Grandhomme,K Rabada,8,3,14,25.75,227,90.74,Right-hand bat,195,117,3,2898.2,23.69,40.8,rf,0,NZL,seam,no,28.256,7.064
-2,1397,858,NZL,6,407,93,C de Grandhomme,K Rabada,8,3,15,25.75,227,90.74,Right-hand bat,196,117,3,2898.2,23.69,40.8,rf,4,NZL,seam,no,28.256,7.064
-2,1398,859,NZL,6,411,97,C de Grandhomme,K Rabada,8,7,16,25.75,227,90.74,Right-hand bat,197,121,3,2898.2,23.69,40.8,rf,0,NZL,seam,no,28.256,7.064
-2,1399,860,NZL,6,411,97,C de Grandhomme,K Rabada,8,7,17,25.75,227,90.74,Right-hand bat,198,121,3,2898.2,23.69,40.8,rf,1,NZL,seam,no,28.256,7.064

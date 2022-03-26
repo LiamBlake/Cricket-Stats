@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,965,70,ENG,2,34,-408,JE Root,PJ Cummins,4,0,2,53.05,9739,56.11,Right-hand bat,10,3,0,1572.4,25.96,56.2,rf,0,AUS,seam,yes,23.047091412742382,4.321329639889197
-2,966,71,ENG,2,34,-408,JE Root,PJ Cummins,4,0,3,53.05,9739,56.11,Right-hand bat,11,3,0,1572.4,25.96,56.2,rf,0,AUS,seam,yes,23.047091412742382,4.321329639889197
-2,973,78,ENG,2,40,-402,JE Root,PJ Cummins,4,0,4,53.05,9739,56.11,Right-hand bat,12,3,0,1572.4,25.96,56.2,rf,2,AUS,seam,yes,23.047091412742382,4.321329639889197
-2,974,79,ENG,2,42,-400,JE Root,PJ Cummins,4,2,5,53.05,9739,56.11,Right-hand bat,13,5,0,1572.4,25.96,56.2,rf,0,AUS,seam,yes,23.047091412742382,4.321329639889197
-2,975,80,ENG,2,42,-400,JE Root,PJ Cummins,4,2,6,53.05,9739,56.11,Right-hand bat,14,5,0,1572.4,25.96,56.2,rf,3,AUS,seam,yes,23.047091412742382,4.321329639889197
-2,985,90,ENG,2,46,-396,JE Root,PJ Cummins,4,5,7,53.05,9739,56.11,Right-hand bat,18,9,0,1572.4,25.96,56.2,rf,0,AUS,seam,yes,23.047091412742382,4.321329639889197
-2,986,91,ENG,2,46,-396,JE Root,PJ Cummins,4,5,8,53.05,9739,56.11,Right-hand bat,19,9,0,1572.4,25.96,56.2,rf,4,AUS,seam,yes,23.047091412742382,4.321329639889197
-2,987,92,ENG,2,50,-392,JE Root,PJ Cummins,4,9,9,53.05,9739,56.11,Right-hand bat,20,13,0,1572.4,25.96,56.2,rf,W,AUS,seam,yes,23.047091412742382,4.321329639889197

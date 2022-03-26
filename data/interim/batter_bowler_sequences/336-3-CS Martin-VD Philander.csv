@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1239,402,NZL,9,168,100,CS Martin,VD Philander,11,0,0,2.38,584,20.03,Right-hand bat,90,44,5,1122,13.6,24.9,rfm,0,NZL,seam,no,19.91987513007284,2.9510926118626433
-3,1240,403,NZL,9,168,100,CS Martin,VD Philander,11,0,1,2.38,584,20.03,Right-hand bat,91,44,5,1122,13.6,24.9,rfm,0,NZL,seam,no,19.91987513007284,2.9510926118626433
-3,1241,404,NZL,9,168,100,CS Martin,VD Philander,11,0,2,2.38,584,20.03,Right-hand bat,92,44,5,1122,13.6,24.9,rfm,0,NZL,seam,no,19.91987513007284,2.9510926118626433
-3,1242,405,NZL,9,168,100,CS Martin,VD Philander,11,0,3,2.38,584,20.03,Right-hand bat,93,44,5,1122,13.6,24.9,rfm,0,NZL,seam,no,19.91987513007284,2.9510926118626433
-3,1243,406,NZL,9,168,100,CS Martin,VD Philander,11,0,4,2.38,584,20.03,Right-hand bat,94,44,5,1122,13.6,24.9,rfm,W,NZL,seam,no,19.91987513007284,2.9510926118626433

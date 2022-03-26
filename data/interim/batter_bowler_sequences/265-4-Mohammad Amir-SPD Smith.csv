@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1737,461,PAK,6,252,-187,Mohammad Amir,SPD Smith,8,8,23,14.71,684,30.11,Left-hand bat,81,37,1,126,17,42,rls,0,AUS,spin,yes,16.64,8.96
-4,1738,462,PAK,6,252,-187,Mohammad Amir,SPD Smith,8,8,24,14.71,684,30.11,Left-hand bat,82,37,1,126,17,42,rls,0,AUS,spin,yes,16.64,8.96
-4,1739,463,PAK,6,252,-187,Mohammad Amir,SPD Smith,8,8,25,14.71,684,30.11,Left-hand bat,83,37,1,126,17,42,rls,0,AUS,spin,yes,16.64,8.96

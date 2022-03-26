@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1654,592,NZL,9,260,242,AY Patel,CBRLS Kumara,11,0,0,7,149,32.88,Left-hand bat,56,30,2,2904.5,36.34,55.9,rf,0,SRL,seam,yes,9.247404844290658,22.19377162629758
-3,1655,593,NZL,9,260,242,AY Patel,CBRLS Kumara,11,0,1,7,149,32.88,Left-hand bat,57,30,2,2904.5,36.34,55.9,rf,0,SRL,seam,yes,9.247404844290658,22.19377162629758
-3,1656,594,NZL,9,260,242,AY Patel,CBRLS Kumara,11,0,2,7,149,32.88,Left-hand bat,58,30,2,2904.5,36.34,55.9,rf,1,SRL,seam,yes,9.247404844290658,22.19377162629758

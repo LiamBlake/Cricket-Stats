@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1150,468,SRL,6,280,194,BKG Mendis,SPD Smith,4,167,233,40.23,894,58.5,Right-hand bat,0,0,0,1164,52.37,72.7,rls,0,SRL,spin,yes,7.297500000000001,13.5525
-3,1151,469,SRL,6,280,194,BKG Mendis,SPD Smith,4,167,234,40.23,894,58.5,Right-hand bat,1,0,0,1164,52.37,72.7,rls,0,SRL,spin,yes,7.297500000000001,13.5525
-3,1152,470,SRL,6,280,194,BKG Mendis,SPD Smith,4,167,235,40.23,894,58.5,Right-hand bat,2,0,0,1164,52.37,72.7,rls,0,SRL,spin,yes,7.297500000000001,13.5525
-3,1153,471,SRL,6,280,194,BKG Mendis,SPD Smith,4,167,236,40.23,894,58.5,Right-hand bat,3,0,0,1164,52.37,72.7,rls,0,SRL,spin,yes,7.297500000000001,13.5525
-3,1154,472,SRL,6,280,194,BKG Mendis,SPD Smith,4,167,237,40.23,894,58.5,Right-hand bat,4,0,0,1164,52.37,72.7,rls,1,SRL,spin,yes,7.297500000000001,13.5525

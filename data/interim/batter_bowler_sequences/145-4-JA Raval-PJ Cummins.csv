@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1833,42,NZL,2,10,-410,JA Raval,PJ Cummins,3,4,6,30.07,2670,42.8,Left-hand bat,18,2,0,6756.5,21.82,47.2,rf,0,AUS,seam,no,16.609375,15.5712890625
-4,1834,43,NZL,2,10,-410,JA Raval,PJ Cummins,3,4,7,30.07,2670,42.8,Left-hand bat,19,2,0,6756.5,21.82,47.2,rf,2,AUS,seam,no,16.609375,15.5712890625
-4,1835,44,NZL,2,12,-408,JA Raval,PJ Cummins,3,6,8,30.07,2670,42.8,Left-hand bat,20,4,0,6756.5,21.82,47.2,rf,0,AUS,seam,no,16.609375,15.5712890625
-4,1836,45,NZL,2,12,-408,JA Raval,PJ Cummins,3,6,9,30.07,2670,42.8,Left-hand bat,21,4,0,6756.5,21.82,47.2,rf,2,AUS,seam,no,16.609375,15.5712890625
-4,1837,46,NZL,2,14,-406,JA Raval,PJ Cummins,3,8,10,30.07,2670,42.8,Left-hand bat,22,6,0,6756.5,21.82,47.2,rf,4,AUS,seam,no,16.609375,15.5712890625
-4,1838,47,NZL,2,18,-402,JA Raval,PJ Cummins,3,12,11,30.07,2670,42.8,Left-hand bat,23,10,0,6756.5,21.82,47.2,rf,0,AUS,seam,no,16.609375,15.5712890625

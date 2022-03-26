@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,2424,514,ENG,8,210,-42,GP Swann,DW Steyn,10,0,0,21.73,1266,78.98,Right-hand bat,109,48,4,11436.5,23.16,41,rf,0,ENG,seam,yes,46.933884297520656,10.429752066115704
-3,2425,515,ENG,8,210,-42,GP Swann,DW Steyn,10,0,1,21.73,1266,78.98,Right-hand bat,110,48,4,11436.5,23.16,41,rf,3,ENG,seam,yes,46.933884297520656,10.429752066115704
-3,2439,529,ENG,8,218,-34,GP Swann,DW Steyn,10,7,8,21.73,1266,78.98,Right-hand bat,118,52,4,11436.5,23.16,41,rf,W,ENG,seam,yes,46.933884297520656,10.429752066115704

@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1820,161,NZL,3,46,-342,DG Brownlie,M de Lange,5,0,17,39,640,48.75,Right-hand bat,29,18,0,444.4,30.77,49.7,rf,0,NZL,seam,yes,37.73979591836735,2.903061224489796
-4,1827,168,NZL,3,46,-342,DG Brownlie,M de Lange,5,0,18,39,640,48.75,Right-hand bat,30,18,0,444.4,30.77,49.7,rf,4,NZL,seam,yes,37.73979591836735,2.903061224489796
-4,1828,169,NZL,3,50,-338,DG Brownlie,M de Lange,5,4,19,39,640,48.75,Right-hand bat,31,22,0,444.4,30.77,49.7,rf,2,NZL,seam,yes,37.73979591836735,2.903061224489796
-4,1829,170,NZL,3,52,-336,DG Brownlie,M de Lange,5,6,20,39,640,48.75,Right-hand bat,32,24,0,444.4,30.77,49.7,rf,0,NZL,seam,yes,37.73979591836735,2.903061224489796
-4,1830,171,NZL,3,52,-336,DG Brownlie,M de Lange,5,6,21,39,640,48.75,Right-hand bat,33,24,0,444.4,30.77,49.7,rf,4,NZL,seam,yes,37.73979591836735,2.903061224489796
-4,1831,172,NZL,3,56,-332,DG Brownlie,M de Lange,5,10,22,39,640,48.75,Right-hand bat,34,28,0,444.4,30.77,49.7,rf,4,NZL,seam,yes,37.73979591836735,2.903061224489796
-4,1832,173,NZL,3,60,-328,DG Brownlie,M de Lange,5,14,23,39,640,48.75,Right-hand bat,35,32,0,444.4,30.77,49.7,rf,0,NZL,seam,yes,37.73979591836735,2.903061224489796
-4,1842,183,NZL,3,64,-324,DG Brownlie,M de Lange,5,14,29,39,640,48.75,Right-hand bat,39,35,0,444.4,30.77,49.7,rf,1,NZL,seam,yes,37.73979591836735,2.903061224489796

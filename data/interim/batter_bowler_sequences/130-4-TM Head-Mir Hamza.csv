@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1525,9,AUS,1,10,-527,TM Head,Mir Hamza,3,0,0,30.5,259,47.1,Left-hand bat,3,3,1,90,67,90,lm,0,PAK,seam,no,11.076265614727152,13.682445759368834
-4,1526,10,AUS,1,10,-527,TM Head,Mir Hamza,3,0,1,30.5,259,47.1,Left-hand bat,4,3,1,90,67,90,lm,3,PAK,seam,no,11.076265614727152,13.682445759368834
-4,1547,31,AUS,1,26,-511,TM Head,Mir Hamza,3,4,7,30.5,259,47.1,Left-hand bat,13,15,1,90,67,90,lm,0,PAK,seam,no,11.076265614727152,13.682445759368834
-4,1548,32,AUS,1,26,-511,TM Head,Mir Hamza,3,4,8,30.5,259,47.1,Left-hand bat,14,15,1,90,67,90,lm,0,PAK,seam,no,11.076265614727152,13.682445759368834
-4,1549,33,AUS,1,26,-511,TM Head,Mir Hamza,3,4,9,30.5,259,47.1,Left-hand bat,15,15,1,90,67,90,lm,0,PAK,seam,no,11.076265614727152,13.682445759368834
-4,1550,34,AUS,1,26,-511,TM Head,Mir Hamza,3,4,10,30.5,259,47.1,Left-hand bat,16,15,1,90,67,90,lm,4,PAK,seam,no,11.076265614727152,13.682445759368834
-4,1551,35,AUS,1,30,-507,TM Head,Mir Hamza,3,8,11,30.5,259,47.1,Left-hand bat,17,19,1,90,67,90,lm,0,PAK,seam,no,11.076265614727152,13.682445759368834

@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1278,568,NZL,7,231,-221,DL Vettori,NT Paranavitana,9,3,20,28.69,5932,56.11,Left-hand bat,0,0,0,78,67,78,rob,0,SRL,spin,yes,16.885813148788927,18.996539792387544
-2,1279,569,NZL,7,231,-221,DL Vettori,NT Paranavitana,9,3,21,28.69,5932,56.11,Left-hand bat,1,0,0,78,67,78,rob,0,SRL,spin,yes,16.885813148788927,18.996539792387544
-2,1280,570,NZL,7,231,-221,DL Vettori,NT Paranavitana,9,3,22,28.69,5932,56.11,Left-hand bat,2,0,0,78,67,78,rob,0,SRL,spin,yes,16.885813148788927,18.996539792387544
-2,1281,571,NZL,7,231,-221,DL Vettori,NT Paranavitana,9,3,23,28.69,5932,56.11,Left-hand bat,3,0,0,78,67,78,rob,1,SRL,spin,yes,16.885813148788927,18.996539792387544
-2,1293,583,NZL,7,239,-213,DL Vettori,NT Paranavitana,9,6,30,28.69,5932,56.11,Left-hand bat,9,6,0,78,67,78,rob,1,SRL,spin,yes,16.885813148788927,18.996539792387544

@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1515,803,ENG,4,397,-3,IR Bell,BAW Mendis,6,58,99,45.21,8442,50.87,Right-hand bat,109,43,1,3990.3,32.48,64.4,rob,1,ENG,spin,no,23.471999999999998,15.648
-2,1520,808,ENG,4,401,1,IR Bell,BAW Mendis,6,59,100,45.21,8442,50.87,Right-hand bat,114,47,1,3990.3,32.48,64.4,rob,0,ENG,spin,no,23.471999999999998,15.648
-2,1527,815,ENG,4,407,7,IR Bell,BAW Mendis,6,59,101,45.21,8442,50.87,Right-hand bat,115,47,1,3990.3,32.48,64.4,rob,2,ENG,spin,no,23.471999999999998,15.648
-2,1528,816,ENG,4,409,9,IR Bell,BAW Mendis,6,61,102,45.21,8442,50.87,Right-hand bat,116,49,1,3990.3,32.48,64.4,rob,1,ENG,spin,no,23.471999999999998,15.648
-2,1530,818,ENG,4,411,11,IR Bell,BAW Mendis,6,62,103,45.21,8442,50.87,Right-hand bat,118,51,1,3990.3,32.48,64.4,rob,2,ENG,spin,no,23.471999999999998,15.648
-2,1531,819,ENG,4,413,13,IR Bell,BAW Mendis,6,64,104,45.21,8442,50.87,Right-hand bat,119,53,1,3990.3,32.48,64.4,rob,0,ENG,spin,no,23.471999999999998,15.648
-2,1532,820,ENG,4,413,13,IR Bell,BAW Mendis,6,64,105,45.21,8442,50.87,Right-hand bat,120,53,1,3990.3,32.48,64.4,rob,2,ENG,spin,no,23.471999999999998,15.648
-2,1550,838,ENG,4,436,36,IR Bell,BAW Mendis,6,71,112,45.21,8442,50.87,Right-hand bat,126,64,1,3990.3,32.48,64.4,rob,2,ENG,spin,no,23.471999999999998,15.648

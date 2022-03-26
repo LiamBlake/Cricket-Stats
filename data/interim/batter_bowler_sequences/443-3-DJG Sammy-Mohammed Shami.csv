@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1488,238,WIN,5,131,-88,DJG Sammy,Mohammed Shami,7,0,2,22,1719,69.1,Right-hand bat,52,37,2,180.1,13.11,20.1,rf,0,IND,seam,yes,14.25,14.25
-3,1489,239,WIN,5,131,-88,DJG Sammy,Mohammed Shami,7,0,3,22,1719,69.1,Right-hand bat,53,37,2,180.1,13.11,20.1,rf,0,IND,seam,yes,14.25,14.25
-3,1496,246,WIN,5,133,-86,DJG Sammy,Mohammed Shami,7,1,7,22,1719,69.1,Right-hand bat,54,37,2,180.1,13.11,20.1,rf,0,IND,seam,yes,14.25,14.25
-3,1497,247,WIN,5,133,-86,DJG Sammy,Mohammed Shami,7,1,8,22,1719,69.1,Right-hand bat,55,37,2,180.1,13.11,20.1,rf,1lb,IND,seam,yes,14.25,14.25
-3,1500,250,WIN,5,135,-84,DJG Sammy,Mohammed Shami,7,1,9,22,1719,69.1,Right-hand bat,58,38,2,180.1,13.11,20.1,rf,1,IND,seam,yes,14.25,14.25
-3,1538,288,WIN,5,152,-67,DJG Sammy,Mohammed Shami,7,8,27,22,1719,69.1,Right-hand bat,60,39,2,180.1,13.11,20.1,rf,0,IND,seam,yes,14.25,14.25
-3,1539,289,WIN,5,152,-67,DJG Sammy,Mohammed Shami,7,8,28,22,1719,69.1,Right-hand bat,61,39,2,180.1,13.11,20.1,rf,W,IND,seam,yes,14.25,14.25

@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,953,314,SRL,7,199,374,HMRKB Herath,JM Holland,9,14,39,14.4,2469,50.18,Left-hand bat,37,44,0,150,66.5,75,lo,1,SRL,spin,yes,7.565625,12.609375
-3,976,337,SRL,7,217,392,HMRKB Herath,JM Holland,9,21,50,14.4,2469,50.18,Left-hand bat,48,55,0,150,66.5,75,lo,2,SRL,spin,yes,7.565625,12.609375
-3,977,338,SRL,7,219,394,HMRKB Herath,JM Holland,9,23,51,14.4,2469,50.18,Left-hand bat,49,57,0,150,66.5,75,lo,1,SRL,spin,yes,7.565625,12.609375
-3,980,341,SRL,7,221,396,HMRKB Herath,JM Holland,9,24,52,14.4,2469,50.18,Left-hand bat,52,59,0,150,66.5,75,lo,1,SRL,spin,yes,7.565625,12.609375
-3,988,349,SRL,7,225,400,HMRKB Herath,JM Holland,9,25,53,14.4,2469,50.18,Left-hand bat,54,61,0,150,66.5,75,lo,1,SRL,spin,yes,7.565625,12.609375
-3,993,354,SRL,7,233,408,HMRKB Herath,JM Holland,9,26,54,14.4,2469,50.18,Left-hand bat,59,69,0,150,66.5,75,lo,W,SRL,spin,yes,7.565625,12.609375

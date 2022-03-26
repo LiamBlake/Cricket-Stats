@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1401,511,WIN,4,183,-193,VA Singh,Mohammad Abbas,6,8,36,10.5,199,31.65,Left-hand bat,103,38,0,756,19.2,50.4,rmf,0,WIN,seam,yes,13.836565096952908,12.452908587257618
-2,1402,512,WIN,4,183,-193,VA Singh,Mohammad Abbas,6,8,37,10.5,199,31.65,Left-hand bat,104,38,0,756,19.2,50.4,rmf,0,WIN,seam,yes,13.836565096952908,12.452908587257618
-2,1403,513,WIN,4,183,-193,VA Singh,Mohammad Abbas,6,8,38,10.5,199,31.65,Left-hand bat,105,38,0,756,19.2,50.4,rmf,0,WIN,seam,yes,13.836565096952908,12.452908587257618
-2,1404,514,WIN,4,183,-193,VA Singh,Mohammad Abbas,6,8,39,10.5,199,31.65,Left-hand bat,106,38,0,756,19.2,50.4,rmf,0,WIN,seam,yes,13.836565096952908,12.452908587257618
-2,1405,515,WIN,4,183,-193,VA Singh,Mohammad Abbas,6,8,40,10.5,199,31.65,Left-hand bat,107,38,0,756,19.2,50.4,rmf,0,WIN,seam,yes,13.836565096952908,12.452908587257618
-2,1406,516,WIN,4,183,-193,VA Singh,Mohammad Abbas,6,8,41,10.5,199,31.65,Left-hand bat,108,38,0,756,19.2,50.4,rmf,0,WIN,seam,yes,13.836565096952908,12.452908587257618
-2,1413,523,WIN,4,189,-187,VA Singh,Mohammad Abbas,6,8,42,10.5,199,31.65,Left-hand bat,109,38,0,756,19.2,50.4,rmf,0,WIN,seam,yes,13.836565096952908,12.452908587257618
-2,1414,524,WIN,4,189,-187,VA Singh,Mohammad Abbas,6,8,43,10.5,199,31.65,Left-hand bat,110,38,0,756,19.2,50.4,rmf,W,WIN,seam,yes,13.836565096952908,12.452908587257618

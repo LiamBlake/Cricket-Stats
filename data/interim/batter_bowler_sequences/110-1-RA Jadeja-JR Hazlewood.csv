@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,1017,1017,IND,6,439,439,RA Jadeja,JR Hazlewood,8,0,0,31.2,2185,64.25,Left-hand bat,187,82,0,9360.5,26.83,57.8,rfm,4,AUS,seam,yes,22.75020408163265,4.706938775510204
-1,1018,1018,IND,6,443,443,RA Jadeja,JR Hazlewood,8,4,1,31.2,2185,64.25,Left-hand bat,188,86,0,9360.5,26.83,57.8,rfm,0,AUS,seam,yes,22.75020408163265,4.706938775510204
-1,1019,1019,IND,6,443,443,RA Jadeja,JR Hazlewood,8,4,2,31.2,2185,64.25,Left-hand bat,189,86,0,9360.5,26.83,57.8,rfm,W,AUS,seam,yes,22.75020408163265,4.706938775510204

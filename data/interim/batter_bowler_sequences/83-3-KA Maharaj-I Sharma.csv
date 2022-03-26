@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1683,443,RSA,6,209,237,KA Maharaj,I Sharma,8,0,0,18,446,68.6,Right-hand bat,88,33,1,15420,36.13,66.7,rfm,2,RSA,seam,yes,22.33375,3.9412499999999993
-3,1684,444,RSA,6,211,239,KA Maharaj,I Sharma,8,2,1,18,446,68.6,Right-hand bat,89,35,1,15420,36.13,66.7,rfm,0,RSA,seam,yes,22.33375,3.9412499999999993
-3,1691,451,RSA,6,211,239,KA Maharaj,I Sharma,8,2,2,18,446,68.6,Right-hand bat,90,35,1,15420,36.13,66.7,rfm,0,RSA,seam,yes,22.33375,3.9412499999999993
-3,1692,452,RSA,6,211,239,KA Maharaj,I Sharma,8,2,3,18,446,68.6,Right-hand bat,91,35,1,15420,36.13,66.7,rfm,0,RSA,seam,yes,22.33375,3.9412499999999993
-3,1693,453,RSA,6,211,239,KA Maharaj,I Sharma,8,2,4,18,446,68.6,Right-hand bat,92,35,1,15420,36.13,66.7,rfm,4,RSA,seam,yes,22.33375,3.9412499999999993
-3,1694,454,RSA,6,215,243,KA Maharaj,I Sharma,8,6,5,18,446,68.6,Right-hand bat,93,39,1,15420,36.13,66.7,rfm,0,RSA,seam,yes,22.33375,3.9412499999999993
-3,1695,455,RSA,6,215,243,KA Maharaj,I Sharma,8,6,6,18,446,68.6,Right-hand bat,94,39,1,15420,36.13,66.7,rfm,0,RSA,seam,yes,22.33375,3.9412499999999993
-3,1696,456,RSA,6,215,243,KA Maharaj,I Sharma,8,6,7,18,446,68.6,Right-hand bat,95,39,1,15420,36.13,66.7,rfm,W,RSA,seam,yes,22.33375,3.9412499999999993

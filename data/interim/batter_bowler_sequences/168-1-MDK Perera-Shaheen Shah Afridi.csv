@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,510,510,SRL,6,256,256,MDK Perera,Shaheen Shah Afridi,8,0,0,18.33,2464,46.87,Right-hand bat,114,44,2,1134.1,32.57,59.7,lf,0,PAK,seam,yes,70,0
-1,511,511,SRL,6,256,256,MDK Perera,Shaheen Shah Afridi,8,0,1,18.33,2464,46.87,Right-hand bat,115,44,2,1134.1,32.57,59.7,lf,0,PAK,seam,yes,70,0
-1,512,512,SRL,6,256,256,MDK Perera,Shaheen Shah Afridi,8,0,2,18.33,2464,46.87,Right-hand bat,116,44,2,1134.1,32.57,59.7,lf,1lb,PAK,seam,yes,70,0
-1,519,519,SRL,6,262,262,MDK Perera,Shaheen Shah Afridi,8,1,5,18.33,2464,46.87,Right-hand bat,117,44,2,1134.1,32.57,59.7,lf,1,PAK,seam,yes,70,0
-1,534,534,SRL,6,270,270,MDK Perera,Shaheen Shah Afridi,8,2,12,18.33,2464,46.87,Right-hand bat,126,52,2,1134.1,32.57,59.7,lf,1,PAK,seam,yes,70,0
-1,547,547,SRL,6,278,278,MDK Perera,Shaheen Shah Afridi,8,6,16,18.33,2464,46.87,Right-hand bat,133,56,2,1134.1,32.57,59.7,lf,0,PAK,seam,yes,70,0
-1,548,548,SRL,6,278,278,MDK Perera,Shaheen Shah Afridi,8,6,17,18.33,2464,46.87,Right-hand bat,134,56,2,1134.1,32.57,59.7,lf,0,PAK,seam,yes,70,0

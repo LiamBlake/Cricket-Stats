@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1893,380,WIN,8,201,-242,ML Cummins,MJ Santner,10,7,16,6.9,156,44.23,Left-hand bat,25,11,0,2700.2,37.05,79.4,lo,2,NZL,spin,yes,25.617728531855956,3.0138504155124655
-4,1894,381,WIN,8,203,-240,ML Cummins,MJ Santner,10,9,17,6.9,156,44.23,Left-hand bat,26,13,0,2700.2,37.05,79.4,lo,0,NZL,spin,yes,25.617728531855956,3.0138504155124655
-4,1895,382,WIN,8,203,-240,ML Cummins,MJ Santner,10,9,18,6.9,156,44.23,Left-hand bat,27,13,0,2700.2,37.05,79.4,lo,W,NZL,spin,yes,25.617728531855956,3.0138504155124655

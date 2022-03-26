@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1714,549,SRL,5,235,223,N Dickwella,Wahab Riaz,7,13,31,27.6,212,65.09,Left-hand bat,117,55,0,1254.2,32.34,54.6,lf,0,SRL,seam,yes,9.61625,17.171875
-3,1715,550,SRL,5,235,223,N Dickwella,Wahab Riaz,7,13,32,27.6,212,65.09,Left-hand bat,118,55,0,1254.2,32.34,54.6,lf,0,SRL,seam,yes,9.61625,17.171875
-3,1716,551,SRL,5,235,223,N Dickwella,Wahab Riaz,7,13,33,27.6,212,65.09,Left-hand bat,119,55,0,1254.2,32.34,54.6,lf,2,SRL,seam,yes,9.61625,17.171875
-3,1717,552,SRL,5,237,225,N Dickwella,Wahab Riaz,7,15,34,27.6,212,65.09,Left-hand bat,120,57,0,1254.2,32.34,54.6,lf,0,SRL,seam,yes,9.61625,17.171875
-3,1718,553,SRL,5,237,225,N Dickwella,Wahab Riaz,7,15,35,27.6,212,65.09,Left-hand bat,121,57,0,1254.2,32.34,54.6,lf,4,SRL,seam,yes,9.61625,17.171875
-3,1737,572,SRL,5,247,235,N Dickwella,Wahab Riaz,7,21,40,27.6,212,65.09,Left-hand bat,128,62,0,1254.2,32.34,54.6,lf,W,SRL,seam,yes,9.61625,17.171875

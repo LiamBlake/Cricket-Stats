@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,949,28,AUS,1,13,-437,RJ Quiney,DW Steyn,3,0,0,9,12,75,Left-hand bat,16,2,1,12096.5,23.86,42,rf,2,AUS,seam,no,44.2875,11.809999999999999
-2,950,29,AUS,1,15,-435,RJ Quiney,DW Steyn,3,2,1,9,12,75,Left-hand bat,17,4,1,12096.5,23.86,42,rf,4,AUS,seam,no,44.2875,11.809999999999999
-2,957,36,AUS,1,23,-427,RJ Quiney,DW Steyn,3,6,2,9,12,75,Left-hand bat,18,8,1,12096.5,23.86,42,rf,2,AUS,seam,no,44.2875,11.809999999999999
-2,958,37,AUS,1,25,-425,RJ Quiney,DW Steyn,3,8,3,9,12,75,Left-hand bat,19,10,1,12096.5,23.86,42,rf,0,AUS,seam,no,44.2875,11.809999999999999
-2,959,38,AUS,1,25,-425,RJ Quiney,DW Steyn,3,8,4,9,12,75,Left-hand bat,20,10,1,12096.5,23.86,42,rf,0,AUS,seam,no,44.2875,11.809999999999999
-2,960,39,AUS,1,25,-425,RJ Quiney,DW Steyn,3,8,5,9,12,75,Left-hand bat,21,10,1,12096.5,23.86,42,rf,0,AUS,seam,no,44.2875,11.809999999999999
-2,961,40,AUS,1,25,-425,RJ Quiney,DW Steyn,3,8,6,9,12,75,Left-hand bat,22,10,1,12096.5,23.86,42,rf,0,AUS,seam,no,44.2875,11.809999999999999
-2,962,41,AUS,1,25,-425,RJ Quiney,DW Steyn,3,8,7,9,12,75,Left-hand bat,23,10,1,12096.5,23.86,42,rf,1,AUS,seam,no,44.2875,11.809999999999999

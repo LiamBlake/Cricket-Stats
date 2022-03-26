@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1759,496,BAN,8,271,380,Sajedul Islam,SW Masakadza,10,1,8,3,47,38.29,Left-hand bat,126,49,3,528.1,24.54,48,rfm,0,ZIM,seam,no,20.871794871794872,10.435897435897436
-3,1766,503,BAN,8,271,380,Sajedul Islam,SW Masakadza,10,1,9,3,47,38.29,Left-hand bat,127,49,3,528.1,24.54,48,rfm,1lb,ZIM,seam,no,20.871794871794872,10.435897435897436
-3,1769,506,BAN,8,273,382,Sajedul Islam,SW Masakadza,10,1,10,3,47,38.29,Left-hand bat,130,50,3,528.1,24.54,48,rfm,0,ZIM,seam,no,20.871794871794872,10.435897435897436
-3,1770,507,BAN,8,273,382,Sajedul Islam,SW Masakadza,10,1,11,3,47,38.29,Left-hand bat,131,50,3,528.1,24.54,48,rfm,0,ZIM,seam,no,20.871794871794872,10.435897435897436
-3,1771,508,BAN,8,273,382,Sajedul Islam,SW Masakadza,10,1,12,3,47,38.29,Left-hand bat,132,50,3,528.1,24.54,48,rfm,0,ZIM,seam,no,20.871794871794872,10.435897435897436
-3,1780,517,BAN,8,279,388,Sajedul Islam,SW Masakadza,10,4,14,3,47,38.29,Left-hand bat,135,51,3,528.1,24.54,48,rfm,W,ZIM,seam,no,20.871794871794872,10.435897435897436

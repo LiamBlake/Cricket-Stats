@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,525,525,ENG,3,261,261,IR Bell,M Morkel,5,8,14,47.4,10525,51.79,Right-hand bat,97,41,2,7800.5,29.77,54.2,rf,0,ENG,seam,yes,46.933884297520656,10.429752066115704
-1,526,526,ENG,3,261,261,IR Bell,M Morkel,5,8,15,47.4,10525,51.79,Right-hand bat,98,41,2,7800.5,29.77,54.2,rf,0,ENG,seam,yes,46.933884297520656,10.429752066115704
-1,527,527,ENG,3,261,261,IR Bell,M Morkel,5,8,16,47.4,10525,51.79,Right-hand bat,99,41,2,7800.5,29.77,54.2,rf,0,ENG,seam,yes,46.933884297520656,10.429752066115704
-1,539,539,ENG,3,263,263,IR Bell,M Morkel,5,8,19,47.4,10525,51.79,Right-hand bat,105,42,2,7800.5,29.77,54.2,rf,0,ENG,seam,yes,46.933884297520656,10.429752066115704
-1,546,546,ENG,3,265,265,IR Bell,M Morkel,5,9,25,47.4,10525,51.79,Right-hand bat,106,42,2,7800.5,29.77,54.2,rf,1,ENG,seam,yes,46.933884297520656,10.429752066115704
-1,549,549,ENG,3,267,267,IR Bell,M Morkel,5,10,26,47.4,10525,51.79,Right-hand bat,109,44,2,7800.5,29.77,54.2,rf,0,ENG,seam,yes,46.933884297520656,10.429752066115704
-1,550,550,ENG,3,267,267,IR Bell,M Morkel,5,10,27,47.4,10525,51.79,Right-hand bat,110,44,2,7800.5,29.77,54.2,rf,0,ENG,seam,yes,46.933884297520656,10.429752066115704
-1,551,551,ENG,3,267,267,IR Bell,M Morkel,5,10,28,47.4,10525,51.79,Right-hand bat,111,44,2,7800.5,29.77,54.2,rf,0,ENG,seam,yes,46.933884297520656,10.429752066115704

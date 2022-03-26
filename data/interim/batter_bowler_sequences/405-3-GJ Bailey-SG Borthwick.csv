@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,977,156,AUS,4,131,302,GJ Bailey,SG Borthwick,6,16,19,26.14,311,58.84,Right-hand bat,0,0,0,78,20.5,19.5,rls,1,AUS,spin,no,19.036875000000002,4.038125
-3,979,158,AUS,4,133,304,GJ Bailey,SG Borthwick,6,17,20,26.14,311,58.84,Right-hand bat,2,2,0,78,20.5,19.5,rls,1,AUS,spin,no,19.036875000000002,4.038125
-3,981,160,AUS,4,135,306,GJ Bailey,SG Borthwick,6,18,21,26.14,311,58.84,Right-hand bat,4,4,0,78,20.5,19.5,rls,0,AUS,spin,no,19.036875000000002,4.038125
-3,982,161,AUS,4,135,306,GJ Bailey,SG Borthwick,6,18,22,26.14,311,58.84,Right-hand bat,5,4,0,78,20.5,19.5,rls,0,AUS,spin,no,19.036875000000002,4.038125
-3,990,169,AUS,4,137,308,GJ Bailey,SG Borthwick,6,18,23,26.14,311,58.84,Right-hand bat,7,5,0,78,20.5,19.5,rls,0,AUS,spin,no,19.036875000000002,4.038125
-3,991,170,AUS,4,137,308,GJ Bailey,SG Borthwick,6,18,24,26.14,311,58.84,Right-hand bat,8,5,0,78,20.5,19.5,rls,1,AUS,spin,no,19.036875000000002,4.038125
-3,994,173,AUS,4,139,310,GJ Bailey,SG Borthwick,6,19,25,26.14,311,58.84,Right-hand bat,11,7,0,78,20.5,19.5,rls,1,AUS,spin,no,19.036875000000002,4.038125

@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1933,698,WIN,7,308,153,KAJ Roach,JM Anderson,9,0,2,9.29,717,31.1,Right-hand bat,187,55,0,14994.2,30.3,57.4,rfm,0,ENG,seam,no,28.873469387755097,4.812244897959183
-3,1934,699,WIN,7,308,153,KAJ Roach,JM Anderson,9,0,3,9.29,717,31.1,Right-hand bat,188,55,0,14994.2,30.3,57.4,rfm,0,ENG,seam,no,28.873469387755097,4.812244897959183
-3,1935,700,WIN,7,308,153,KAJ Roach,JM Anderson,9,0,4,9.29,717,31.1,Right-hand bat,189,55,0,14994.2,30.3,57.4,rfm,0,ENG,seam,no,28.873469387755097,4.812244897959183
-3,1936,701,WIN,7,308,153,KAJ Roach,JM Anderson,9,0,5,9.29,717,31.1,Right-hand bat,190,55,0,14994.2,30.3,57.4,rfm,4,ENG,seam,no,28.873469387755097,4.812244897959183
-3,1937,702,WIN,7,312,157,KAJ Roach,JM Anderson,9,4,6,9.29,717,31.1,Right-hand bat,191,59,0,14994.2,30.3,57.4,rfm,0,ENG,seam,no,28.873469387755097,4.812244897959183

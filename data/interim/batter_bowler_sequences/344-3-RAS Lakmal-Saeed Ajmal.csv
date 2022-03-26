@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1969,637,SRL,9,247,83,RAS Lakmal,Saeed Ajmal,11,0,0,6.87,126,43.65,Right-hand bat,173,63,4,4722.2,31.17,70.5,rob,0,PAK,spin,yes,12.399583766909469,19.63267429760666
-3,1988,656,SRL,9,253,89,RAS Lakmal,Saeed Ajmal,11,4,4,6.87,126,43.65,Right-hand bat,180,64,4,4722.2,31.17,70.5,rob,0,PAK,spin,yes,12.399583766909469,19.63267429760666
-3,1989,657,SRL,9,253,89,RAS Lakmal,Saeed Ajmal,11,4,5,6.87,126,43.65,Right-hand bat,181,64,4,4722.2,31.17,70.5,rob,0,PAK,spin,yes,12.399583766909469,19.63267429760666
-3,1990,658,SRL,9,253,89,RAS Lakmal,Saeed Ajmal,11,4,6,6.87,126,43.65,Right-hand bat,182,64,4,4722.2,31.17,70.5,rob,4,PAK,spin,yes,12.399583766909469,19.63267429760666
-3,1991,659,SRL,9,257,93,RAS Lakmal,Saeed Ajmal,11,8,7,6.87,126,43.65,Right-hand bat,183,68,4,4722.2,31.17,70.5,rob,0,PAK,spin,yes,12.399583766909469,19.63267429760666
-3,1992,660,SRL,9,257,93,RAS Lakmal,Saeed Ajmal,11,8,8,6.87,126,43.65,Right-hand bat,184,68,4,4722.2,31.17,70.5,rob,W,PAK,spin,yes,12.399583766909469,19.63267429760666

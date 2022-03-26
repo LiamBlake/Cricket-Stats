@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,905,131,RSA,3,95,-399,AB de Villiers,MG Johnson,5,0,0,51.94,13229,54.18,Right-hand bat,38,17,1,13224.3,27.42,50.1,lf,0,RSA,seam,no,34.251953125,7.904296875
-2,906,132,RSA,3,95,-399,AB de Villiers,MG Johnson,5,0,1,51.94,13229,54.18,Right-hand bat,39,17,1,13224.3,27.42,50.1,lf,1,RSA,seam,no,34.251953125,7.904296875
-2,975,201,RSA,4,127,-367,AB de Villiers,MG Johnson,5,13,32,51.94,13229,54.18,Right-hand bat,48,22,1,13224.3,27.42,50.1,lf,1,RSA,seam,no,34.251953125,7.904296875
-2,981,207,RSA,4,129,-365,AB de Villiers,MG Johnson,5,14,33,51.94,13229,54.18,Right-hand bat,54,24,1,13224.3,27.42,50.1,lf,0,RSA,seam,no,34.251953125,7.904296875
-2,991,217,RSA,4,133,-361,AB de Villiers,MG Johnson,5,14,36,51.94,13229,54.18,Right-hand bat,58,25,1,13224.3,27.42,50.1,lf,W,RSA,seam,no,34.251953125,7.904296875

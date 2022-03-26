@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1708,159,AUS,2,97,-314,MJ Clarke,MM Ali,4,0,0,50.31,15280,55.97,Right-hand bat,15,22,1,1968.3,31.73,51.8,rob,0,ENG,spin,no,21.414375,10.310625
-4,1709,160,AUS,2,97,-314,MJ Clarke,MM Ali,4,0,1,50.31,15280,55.97,Right-hand bat,16,22,1,1968.3,31.73,51.8,rob,0,ENG,spin,no,21.414375,10.310625
-4,1710,161,AUS,2,97,-314,MJ Clarke,MM Ali,4,0,2,50.31,15280,55.97,Right-hand bat,17,22,1,1968.3,31.73,51.8,rob,0,ENG,spin,no,21.414375,10.310625

@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,235,235,PAK,3,81,81,Umar Akmal,DL Vettori,3,11,19,75.5,415,72.77,Right-hand bat,60,30,2,23652.1,33.41,76,lo,2,NZL,spin,no,16.21875,5.40625
-1,236,236,PAK,3,83,83,Umar Akmal,DL Vettori,3,13,20,75.5,415,72.77,Right-hand bat,61,32,2,23652.1,33.41,76,lo,0,NZL,spin,no,16.21875,5.40625
-1,237,237,PAK,3,83,83,Umar Akmal,DL Vettori,3,13,21,75.5,415,72.77,Right-hand bat,62,32,2,23652.1,33.41,76,lo,0,NZL,spin,no,16.21875,5.40625
-1,238,238,PAK,3,83,83,Umar Akmal,DL Vettori,3,13,22,75.5,415,72.77,Right-hand bat,63,32,2,23652.1,33.41,76,lo,0,NZL,spin,no,16.21875,5.40625
-1,239,239,PAK,3,83,83,Umar Akmal,DL Vettori,3,13,23,75.5,415,72.77,Right-hand bat,64,32,2,23652.1,33.41,76,lo,6,NZL,spin,no,16.21875,5.40625
-1,240,240,PAK,3,89,89,Umar Akmal,DL Vettori,3,19,24,75.5,415,72.77,Right-hand bat,65,38,2,23652.1,33.41,76,lo,1,NZL,spin,no,16.21875,5.40625

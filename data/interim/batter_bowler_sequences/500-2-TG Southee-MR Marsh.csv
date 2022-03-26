@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1247,455,NZL,8,273,-283,TG Southee,MR Marsh,10,0,0,17.46,1271,86.54,Right-hand bat,24,17,1,720.1,30.83,60,rm,0,AUS,seam,no,36.53061224489796,14.612244897959185
-2,1248,456,NZL,8,273,-283,TG Southee,MR Marsh,10,0,1,17.46,1271,86.54,Right-hand bat,25,17,1,720.1,30.83,60,rm,4,AUS,seam,no,36.53061224489796,14.612244897959185
-2,1257,465,NZL,8,283,-273,TG Southee,MR Marsh,10,4,4,17.46,1271,86.54,Right-hand bat,28,22,1,720.1,30.83,60,rm,1nb,AUS,seam,no,36.53061224489796,14.612244897959185
-2,1258,466,NZL,8,284,-272,TG Southee,MR Marsh,10,4,5,17.46,1271,86.54,Right-hand bat,29,23,1,720.1,30.83,60,rm,4,AUS,seam,no,36.53061224489796,14.612244897959185
-2,1259,467,NZL,8,288,-268,TG Southee,MR Marsh,10,8,6,17.46,1271,86.54,Right-hand bat,30,27,1,720.1,30.83,60,rm,2,AUS,seam,no,36.53061224489796,14.612244897959185
-2,1260,468,NZL,8,290,-266,TG Southee,MR Marsh,10,10,7,17.46,1271,86.54,Right-hand bat,31,29,1,720.1,30.83,60,rm,0,AUS,seam,no,36.53061224489796,14.612244897959185
-2,1261,469,NZL,8,290,-266,TG Southee,MR Marsh,10,10,8,17.46,1271,86.54,Right-hand bat,32,29,1,720.1,30.83,60,rm,2,AUS,seam,no,36.53061224489796,14.612244897959185

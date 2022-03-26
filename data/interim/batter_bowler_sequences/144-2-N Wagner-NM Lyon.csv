@@ -1,3 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1262,327,NZL,9,140,-327,N Wagner,NM Lyon,10,10,18,12.59,1238,44.74,Left-hand bat,52,27,0,24282.1,32.11,63.9,rob,2,AUS,spin,yes,21.712653061224486,6.680816326530612
-2,1263,328,NZL,9,142,-325,N Wagner,NM Lyon,10,12,19,12.59,1238,44.74,Left-hand bat,53,29,0,24282.1,32.11,63.9,rob,6,AUS,spin,yes,21.712653061224486,6.680816326530612

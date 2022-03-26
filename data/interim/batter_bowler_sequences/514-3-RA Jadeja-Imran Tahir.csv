@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,879,207,IND,6,122,258,RA Jadeja,Imran Tahir,8,0,0,21.38,714,62.88,Left-hand bat,31,11,4,3672,39.16,66.7,rls,4,IND,spin,yes,2.8525,13.4475
-3,880,208,IND,6,126,262,RA Jadeja,Imran Tahir,8,4,1,21.38,714,62.88,Left-hand bat,32,15,4,3672,39.16,66.7,rls,1nb,IND,spin,yes,2.8525,13.4475
-3,881,209,IND,6,127,263,RA Jadeja,Imran Tahir,8,4,2,21.38,714,62.88,Left-hand bat,33,16,4,3672,39.16,66.7,rls,1,IND,spin,yes,2.8525,13.4475

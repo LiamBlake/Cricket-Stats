@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1474,823,ENG,5,438,95,MJ Prior,PL Harris,7,31,60,42.12,2185,63.61,Right-hand bat,141,95,1,5682.4,33.35,71.9,lo,0,RSA,spin,no,19.976218787158142,16.230677764565993
-2,1475,824,ENG,5,438,95,MJ Prior,PL Harris,7,31,61,42.12,2185,63.61,Right-hand bat,142,95,1,5682.4,33.35,71.9,lo,1,RSA,spin,no,19.976218787158142,16.230677764565993
-2,1483,832,ENG,5,440,97,MJ Prior,PL Harris,7,33,64,42.12,2185,63.61,Right-hand bat,144,96,1,5682.4,33.35,71.9,lo,1,RSA,spin,no,19.976218787158142,16.230677764565993
-2,1509,858,ENG,5,452,109,MJ Prior,PL Harris,7,40,71,42.12,2185,63.61,Right-hand bat,158,98,1,5682.4,33.35,71.9,lo,0,RSA,spin,no,19.976218787158142,16.230677764565993
-2,1510,859,ENG,5,452,109,MJ Prior,PL Harris,7,40,72,42.12,2185,63.61,Right-hand bat,159,98,1,5682.4,33.35,71.9,lo,1,RSA,spin,no,19.976218787158142,16.230677764565993
-2,1520,869,ENG,5,468,125,MJ Prior,PL Harris,7,53,77,42.12,2185,63.61,Right-hand bat,163,100,1,5682.4,33.35,71.9,lo,4,RSA,spin,no,19.976218787158142,16.230677764565993
-2,1521,870,ENG,5,472,129,MJ Prior,PL Harris,7,57,78,42.12,2185,63.61,Right-hand bat,164,104,1,5682.4,33.35,71.9,lo,1,RSA,spin,no,19.976218787158142,16.230677764565993

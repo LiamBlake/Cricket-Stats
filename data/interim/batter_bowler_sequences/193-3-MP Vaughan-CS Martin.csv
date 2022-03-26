@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,875,1,ENG,0,1,86,MP Vaughan,CS Martin,2,0,0,42.47,10630,51.54,Right-hand bat,1,1,0,7740.4,32.66,56.9,rfm,0,NZL,seam,yes,22.159970781592403,13.488677867056245
-3,876,2,ENG,0,1,86,MP Vaughan,CS Martin,2,0,1,42.47,10630,51.54,Right-hand bat,2,1,0,7740.4,32.66,56.9,rfm,0,NZL,seam,yes,22.159970781592403,13.488677867056245
-3,877,3,ENG,0,1,86,MP Vaughan,CS Martin,2,0,2,42.47,10630,51.54,Right-hand bat,3,1,0,7740.4,32.66,56.9,rfm,4,NZL,seam,yes,22.159970781592403,13.488677867056245
-3,878,4,ENG,0,5,90,MP Vaughan,CS Martin,2,4,3,42.47,10630,51.54,Right-hand bat,4,5,0,7740.4,32.66,56.9,rfm,W,NZL,seam,yes,22.159970781592403,13.488677867056245

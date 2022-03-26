@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,754,184,ENG,6,110,-219,CR Woakes,HH Pandya,8,0,0,30.66,2021,50.07,Right-hand bat,20,16,2,834.1,27.68,52.1,rmf,0,IND,seam,yes,27.091307523739953,4.233016800584368
-2,755,185,ENG,6,110,-219,CR Woakes,HH Pandya,8,0,1,30.66,2021,50.07,Right-hand bat,21,16,2,834.1,27.68,52.1,rmf,4,IND,seam,yes,27.091307523739953,4.233016800584368
-2,756,186,ENG,6,114,-215,CR Woakes,HH Pandya,8,4,2,30.66,2021,50.07,Right-hand bat,22,20,2,834.1,27.68,52.1,rmf,4,IND,seam,yes,27.091307523739953,4.233016800584368
-2,757,187,ENG,6,118,-211,CR Woakes,HH Pandya,8,8,3,30.66,2021,50.07,Right-hand bat,23,24,2,834.1,27.68,52.1,rmf,0,IND,seam,yes,27.091307523739953,4.233016800584368
-2,758,188,ENG,6,118,-211,CR Woakes,HH Pandya,8,8,4,30.66,2021,50.07,Right-hand bat,24,24,2,834.1,27.68,52.1,rmf,W,IND,seam,yes,27.091307523739953,4.233016800584368

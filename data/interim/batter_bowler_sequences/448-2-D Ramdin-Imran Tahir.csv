@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1162,420,WIN,4,246,-171,D Ramdin,Imran Tahir,5,9,10,26.7,4897,50.17,Right-hand bat,126,92,0,3354.1,46.39,78,rls,0,RSA,spin,yes,28.73356401384083,11.972318339100344
-2,1163,421,WIN,4,246,-171,D Ramdin,Imran Tahir,5,9,11,26.7,4897,50.17,Right-hand bat,127,92,0,3354.1,46.39,78,rls,4,RSA,spin,yes,28.73356401384083,11.972318339100344
-2,1164,422,WIN,4,250,-167,D Ramdin,Imran Tahir,5,13,12,26.7,4897,50.17,Right-hand bat,128,96,0,3354.1,46.39,78,rls,0,RSA,spin,yes,28.73356401384083,11.972318339100344
-2,1165,423,WIN,4,250,-167,D Ramdin,Imran Tahir,5,13,13,26.7,4897,50.17,Right-hand bat,129,96,0,3354.1,46.39,78,rls,0,RSA,spin,yes,28.73356401384083,11.972318339100344
-2,1166,424,WIN,4,250,-167,D Ramdin,Imran Tahir,5,13,14,26.7,4897,50.17,Right-hand bat,130,96,0,3354.1,46.39,78,rls,0,RSA,spin,yes,28.73356401384083,11.972318339100344
-2,1167,425,WIN,4,250,-167,D Ramdin,Imran Tahir,5,13,15,26.7,4897,50.17,Right-hand bat,131,96,0,3354.1,46.39,78,rls,0,RSA,spin,yes,28.73356401384083,11.972318339100344
-2,1186,444,WIN,4,260,-157,D Ramdin,Imran Tahir,5,20,23,26.7,4897,50.17,Right-hand bat,138,96,0,3354.1,46.39,78,rls,W,RSA,spin,yes,28.73356401384083,11.972318339100344

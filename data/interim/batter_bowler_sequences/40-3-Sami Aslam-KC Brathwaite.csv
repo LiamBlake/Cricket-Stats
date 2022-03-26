@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1308,56,PAK,0,28,-28,Sami Aslam,KC Brathwaite,1,12,32,41.25,1164,42.52,Left-hand bat,1,1,0,1074,50.91,89.5,rob,1,PAK,spin,yes,16,12
-3,1310,58,PAK,0,30,-26,Sami Aslam,KC Brathwaite,1,13,33,41.25,1164,42.52,Left-hand bat,3,3,0,1074,50.91,89.5,rob,0,PAK,spin,yes,16,12
-3,1311,59,PAK,0,30,-26,Sami Aslam,KC Brathwaite,1,13,34,41.25,1164,42.52,Left-hand bat,4,3,0,1074,50.91,89.5,rob,2,PAK,spin,yes,16,12
-3,1312,60,PAK,0,32,-24,Sami Aslam,KC Brathwaite,1,15,35,41.25,1164,42.52,Left-hand bat,5,5,0,1074,50.91,89.5,rob,0,PAK,spin,yes,16,12

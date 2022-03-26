@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2086,474,RSA,2,74,-406,AB de Villiers,CA Pujara,4,12,114,51.39,14597,53.87,Right-hand bat,0,0,0,6,NA,NA,rls,1,IND,spin,no,10.591836734693878,14.122448979591837
-4,2088,476,RSA,2,76,-404,AB de Villiers,CA Pujara,4,13,115,51.39,14597,53.87,Right-hand bat,2,2,0,6,NA,NA,rls,0,IND,spin,no,10.591836734693878,14.122448979591837
-4,2089,477,RSA,2,76,-404,AB de Villiers,CA Pujara,4,13,116,51.39,14597,53.87,Right-hand bat,3,2,0,6,NA,NA,rls,0,IND,spin,no,10.591836734693878,14.122448979591837
-4,2090,478,RSA,2,76,-404,AB de Villiers,CA Pujara,4,13,117,51.39,14597,53.87,Right-hand bat,4,2,0,6,NA,NA,rls,0,IND,spin,no,10.591836734693878,14.122448979591837
-4,2091,479,RSA,2,76,-404,AB de Villiers,CA Pujara,4,13,118,51.39,14597,53.87,Right-hand bat,5,2,0,6,NA,NA,rls,0,IND,spin,no,10.591836734693878,14.122448979591837

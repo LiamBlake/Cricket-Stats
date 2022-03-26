@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,611,611,IND,6,453,453,Harbhajan Singh,Shakib Al Hasan,7,0,0,18.4,3394,65.08,Right-hand bat,142,104,4,9666.2,33.1,66.2,lo,0,BAN,spin,yes,2.89453125,43.41796875
-1,612,612,IND,6,453,453,Harbhajan Singh,Shakib Al Hasan,7,0,1,18.4,3394,65.08,Right-hand bat,143,104,4,9666.2,33.1,66.2,lo,0,BAN,spin,yes,2.89453125,43.41796875
-1,619,619,IND,6,461,461,Harbhajan Singh,Shakib Al Hasan,7,6,6,18.4,3394,65.08,Right-hand bat,144,104,4,9666.2,33.1,66.2,lo,0,BAN,spin,yes,2.89453125,43.41796875
-1,620,620,IND,6,461,461,Harbhajan Singh,Shakib Al Hasan,7,6,7,18.4,3394,65.08,Right-hand bat,145,104,4,9666.2,33.1,66.2,lo,1,BAN,spin,yes,2.89453125,43.41796875

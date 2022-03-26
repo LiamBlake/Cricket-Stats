@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,487,487,AUS,6,297,297,B Lee,M Ntini,8,24,38,20.31,2697,52.72,Right-hand bat,91,54,2,19272.2,27.71,51.5,rf,1,AUS,seam,yes,33.64359861591695,7.209342560553633
-1,491,491,AUS,7,298,298,B Lee,M Ntini,8,25,39,20.31,2697,52.72,Right-hand bat,95,55,3,19272.2,27.71,51.5,rf,0,AUS,seam,yes,33.64359861591695,7.209342560553633
-1,492,492,AUS,7,298,298,B Lee,M Ntini,8,25,40,20.31,2697,52.72,Right-hand bat,96,55,3,19272.2,27.71,51.5,rf,1lb,AUS,seam,yes,33.64359861591695,7.209342560553633

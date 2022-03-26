@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,657,65,AUS,2,61,-250,SPD Smith,M Morkel,4,0,0,61.37,11171,55.49,Right-hand bat,3,5,1,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
-2,658,66,AUS,2,61,-250,SPD Smith,M Morkel,4,0,1,61.37,11171,55.49,Right-hand bat,4,5,1,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
-2,659,67,AUS,2,61,-250,SPD Smith,M Morkel,4,0,2,61.37,11171,55.49,Right-hand bat,5,5,1,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
-2,679,87,AUS,2,72,-239,SPD Smith,M Morkel,4,5,14,61.37,11171,55.49,Right-hand bat,12,9,1,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
-2,680,88,AUS,2,72,-239,SPD Smith,M Morkel,4,5,15,61.37,11171,55.49,Right-hand bat,13,9,1,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
-2,681,89,AUS,2,72,-239,SPD Smith,M Morkel,4,5,16,61.37,11171,55.49,Right-hand bat,14,9,1,16356.4,27.73,53.4,rf,0,RSA,seam,no,20.26625,5.88375
-2,682,90,AUS,2,72,-239,SPD Smith,M Morkel,4,5,17,61.37,11171,55.49,Right-hand bat,15,9,1,16356.4,27.73,53.4,rf,W,RSA,seam,no,20.26625,5.88375

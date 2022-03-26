@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2080,94,ENG,2,36,-247,JE Root,Shoaib Malik,4,0,0,54.9,5754,52.48,Right-hand bat,33,5,2,2712,47.46,84.7,rob,0,ENG,spin,no,9.19625,17.07875
-4,2081,95,ENG,2,36,-247,JE Root,Shoaib Malik,4,0,1,54.9,5754,52.48,Right-hand bat,34,5,2,2712,47.46,84.7,rob,0,ENG,spin,no,9.19625,17.07875
-4,2082,96,ENG,2,36,-247,JE Root,Shoaib Malik,4,0,2,54.9,5754,52.48,Right-hand bat,35,5,2,2712,47.46,84.7,rob,1,ENG,spin,no,9.19625,17.07875
-4,2089,103,ENG,2,38,-245,JE Root,Shoaib Malik,4,2,8,54.9,5754,52.48,Right-hand bat,36,6,2,2712,47.46,84.7,rob,0,ENG,spin,no,9.19625,17.07875
-4,2090,104,ENG,2,38,-245,JE Root,Shoaib Malik,4,2,9,54.9,5754,52.48,Right-hand bat,37,6,2,2712,47.46,84.7,rob,1,ENG,spin,no,9.19625,17.07875
-4,2094,108,ENG,2,40,-243,JE Root,Shoaib Malik,4,3,10,54.9,5754,52.48,Right-hand bat,41,8,2,2712,47.46,84.7,rob,0,ENG,spin,no,9.19625,17.07875

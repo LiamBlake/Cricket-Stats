@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,729,372,SRL,7,219,47,HMRKB Herath,V Kohli,9,16,29,15.32,3178,50.62,Left-hand bat,1,0,0,156.1,NA,NA,rm,0,IND,seam,yes,23.327346938775513,2.186938775510204
-2,730,373,SRL,7,219,47,HMRKB Herath,V Kohli,9,16,30,15.32,3178,50.62,Left-hand bat,2,0,0,156.1,NA,NA,rm,4,IND,seam,yes,23.327346938775513,2.186938775510204
-2,731,374,SRL,7,223,51,HMRKB Herath,V Kohli,9,20,31,15.32,3178,50.62,Left-hand bat,3,4,0,156.1,NA,NA,rm,0,IND,seam,yes,23.327346938775513,2.186938775510204
-2,732,375,SRL,7,223,51,HMRKB Herath,V Kohli,9,20,32,15.32,3178,50.62,Left-hand bat,4,4,0,156.1,NA,NA,rm,0,IND,seam,yes,23.327346938775513,2.186938775510204
-2,733,376,SRL,7,223,51,HMRKB Herath,V Kohli,9,20,33,15.32,3178,50.62,Left-hand bat,5,4,0,156.1,NA,NA,rm,0,IND,seam,yes,23.327346938775513,2.186938775510204
-2,734,377,SRL,7,223,51,HMRKB Herath,V Kohli,9,20,34,15.32,3178,50.62,Left-hand bat,6,4,0,156.1,NA,NA,rm,1,IND,seam,yes,23.327346938775513,2.186938775510204

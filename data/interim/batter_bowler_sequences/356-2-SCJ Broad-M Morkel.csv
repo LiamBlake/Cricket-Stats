@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1130,521,ENG,6,243,-66,SCJ Broad,M Morkel,8,8,15,26.74,2450,64.4,Left-hand bat,136,61,2,8328.2,30.36,55.5,rf,0,ENG,seam,no,26.966250000000002,4.758750000000001
-2,1131,522,ENG,6,243,-66,SCJ Broad,M Morkel,8,8,16,26.74,2450,64.4,Left-hand bat,137,61,2,8328.2,30.36,55.5,rf,2,ENG,seam,no,26.966250000000002,4.758750000000001
-2,1132,523,ENG,6,245,-64,SCJ Broad,M Morkel,8,10,17,26.74,2450,64.4,Left-hand bat,138,63,2,8328.2,30.36,55.5,rf,0,ENG,seam,no,26.966250000000002,4.758750000000001
-2,1133,524,ENG,6,245,-64,SCJ Broad,M Morkel,8,10,18,26.74,2450,64.4,Left-hand bat,139,63,2,8328.2,30.36,55.5,rf,4,ENG,seam,no,26.966250000000002,4.758750000000001
-2,1134,525,ENG,6,249,-60,SCJ Broad,M Morkel,8,14,19,26.74,2450,64.4,Left-hand bat,140,67,2,8328.2,30.36,55.5,rf,0,ENG,seam,no,26.966250000000002,4.758750000000001
-2,1135,526,ENG,6,249,-60,SCJ Broad,M Morkel,8,14,20,26.74,2450,64.4,Left-hand bat,141,67,2,8328.2,30.36,55.5,rf,2,ENG,seam,no,26.966250000000002,4.758750000000001

@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1954,342,IND,3,240,311,V Kohli,DL Piedt,5,1,1,53.12,11903,57.12,Right-hand bat,84,79,0,1716,42.96,68.6,rob,1,IND,spin,yes,13.551508844953174,33.125910509885536
-3,1959,347,IND,3,244,315,V Kohli,DL Piedt,5,2,2,53.12,11903,57.12,Right-hand bat,89,83,0,1716,42.96,68.6,rob,0,IND,spin,yes,13.551508844953174,33.125910509885536
-3,1969,357,IND,3,254,325,V Kohli,DL Piedt,5,7,5,53.12,11903,57.12,Right-hand bat,93,84,0,1716,42.96,68.6,rob,0,IND,spin,yes,13.551508844953174,33.125910509885536
-3,1970,358,IND,3,254,325,V Kohli,DL Piedt,5,7,6,53.12,11903,57.12,Right-hand bat,94,84,0,1716,42.96,68.6,rob,0,IND,spin,yes,13.551508844953174,33.125910509885536
-3,1971,359,IND,3,254,325,V Kohli,DL Piedt,5,7,7,53.12,11903,57.12,Right-hand bat,95,84,0,1716,42.96,68.6,rob,0,IND,spin,yes,13.551508844953174,33.125910509885536
-3,1983,371,IND,3,284,355,V Kohli,DL Piedt,5,19,13,53.12,11903,57.12,Right-hand bat,101,101,0,1716,42.96,68.6,rob,1,IND,spin,yes,13.551508844953174,33.125910509885536

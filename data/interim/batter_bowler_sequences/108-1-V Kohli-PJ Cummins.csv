@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,60,60,IND,2,19,19,V Kohli,PJ Cummins,4,3,13,53.96,10985,57.96,Right-hand bat,0,0,0,3438.5,24.64,50.6,rf,0,IND,seam,yes,17.59875,9.47625
-1,61,61,IND,2,19,19,V Kohli,PJ Cummins,4,3,14,53.96,10985,57.96,Right-hand bat,1,0,0,3438.5,24.64,50.6,rf,0,IND,seam,yes,17.59875,9.47625
-1,62,62,IND,2,19,19,V Kohli,PJ Cummins,4,3,15,53.96,10985,57.96,Right-hand bat,2,0,0,3438.5,24.64,50.6,rf,W,IND,seam,yes,17.59875,9.47625

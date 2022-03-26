@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,642,20,BAN,0,15,-447,Tamim Iqbal,R Ashwin,1,7,10,39.67,5484,55.7,Left-hand bat,8,7,0,7542.4,30.2,60.8,rob,4,BAN,spin,no,2.89453125,43.41796875
-2,643,21,BAN,0,19,-443,Tamim Iqbal,R Ashwin,1,11,11,39.67,5484,55.7,Left-hand bat,9,11,0,7542.4,30.2,60.8,rob,1,BAN,spin,no,2.89453125,43.41796875
-2,652,30,BAN,0,23,-439,Tamim Iqbal,R Ashwin,1,15,15,39.67,5484,55.7,Left-hand bat,12,12,0,7542.4,30.2,60.8,rob,0,BAN,spin,no,2.89453125,43.41796875
-2,653,31,BAN,0,23,-439,Tamim Iqbal,R Ashwin,1,15,16,39.67,5484,55.7,Left-hand bat,13,12,0,7542.4,30.2,60.8,rob,4,BAN,spin,no,2.89453125,43.41796875
-2,654,32,BAN,0,27,-435,Tamim Iqbal,R Ashwin,1,19,17,39.67,5484,55.7,Left-hand bat,14,16,0,7542.4,30.2,60.8,rob,0,BAN,spin,no,2.89453125,43.41796875
-2,655,33,BAN,0,27,-435,Tamim Iqbal,R Ashwin,1,19,18,39.67,5484,55.7,Left-hand bat,15,16,0,7542.4,30.2,60.8,rob,0,BAN,spin,no,2.89453125,43.41796875
-2,656,34,BAN,0,27,-435,Tamim Iqbal,R Ashwin,1,19,19,39.67,5484,55.7,Left-hand bat,16,16,0,7542.4,30.2,60.8,rob,0,BAN,spin,no,2.89453125,43.41796875
-2,657,35,BAN,0,27,-435,Tamim Iqbal,R Ashwin,1,19,20,39.67,5484,55.7,Left-hand bat,17,16,0,7542.4,30.2,60.8,rob,W,BAN,spin,no,2.89453125,43.41796875

@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1638,531,IND,5,323,-267,MS Dhoni,FH Edwards,7,0,0,38.28,5674,60.04,Right-hand bat,114,87,1,8772.1,37.45,56.9,rf,0,IND,seam,no,14.280078895463513,22.848126232741617
-2,1639,532,IND,5,323,-267,MS Dhoni,FH Edwards,7,0,1,38.28,5674,60.04,Right-hand bat,115,87,1,8772.1,37.45,56.9,rf,0,IND,seam,no,14.280078895463513,22.848126232741617
-2,1640,533,IND,5,323,-267,MS Dhoni,FH Edwards,7,0,2,38.28,5674,60.04,Right-hand bat,116,87,1,8772.1,37.45,56.9,rf,0,IND,seam,no,14.280078895463513,22.848126232741617
-2,1641,534,IND,5,323,-267,MS Dhoni,FH Edwards,7,0,3,38.28,5674,60.04,Right-hand bat,117,87,1,8772.1,37.45,56.9,rf,0,IND,seam,no,14.280078895463513,22.848126232741617
-2,1642,535,IND,5,323,-267,MS Dhoni,FH Edwards,7,0,4,38.28,5674,60.04,Right-hand bat,118,87,1,8772.1,37.45,56.9,rf,1,IND,seam,no,14.280078895463513,22.848126232741617

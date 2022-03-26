@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,195,195,RSA,3,103,103,F du Plessis,TA Boult,5,0,3,40.59,4322,39.44,Right-hand bat,63,14,1,9084.2,28.73,58.2,lfm,0,RSA,seam,yes,19.305555555555557,3.861111111111111
-1,196,196,RSA,3,103,103,F du Plessis,TA Boult,5,0,4,40.59,4322,39.44,Right-hand bat,64,14,1,9084.2,28.73,58.2,lfm,0,RSA,seam,yes,19.305555555555557,3.861111111111111
-1,197,197,RSA,3,103,103,F du Plessis,TA Boult,5,0,5,40.59,4322,39.44,Right-hand bat,65,14,1,9084.2,28.73,58.2,lfm,0,RSA,seam,yes,19.305555555555557,3.861111111111111
-1,220,220,RSA,4,115,115,F du Plessis,TA Boult,5,8,14,40.59,4322,39.44,Right-hand bat,76,17,2,9084.2,28.73,58.2,lfm,0,RSA,seam,yes,19.305555555555557,3.861111111111111
-1,221,221,RSA,4,115,115,F du Plessis,TA Boult,5,8,15,40.59,4322,39.44,Right-hand bat,77,17,2,9084.2,28.73,58.2,lfm,1,RSA,seam,yes,19.305555555555557,3.861111111111111
-1,340,340,RSA,4,151,151,F du Plessis,TA Boult,5,18,80,40.59,4322,39.44,Right-hand bat,88,23,2,9084.2,28.73,58.2,lfm,1,RSA,seam,yes,19.305555555555557,3.861111111111111

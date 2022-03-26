@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,996,475,PAK,2,237,-60,Azhar Ali,JM Vince,2,130,256,42.85,8967,40.62,Right-hand bat,0,0,0,24,NA,NA,rm,0,ENG,seam,yes,32.12422839506173,5.181327160493827
-2,997,476,PAK,2,237,-60,Azhar Ali,JM Vince,2,130,257,42.85,8967,40.62,Right-hand bat,1,0,0,24,NA,NA,rm,0,ENG,seam,yes,32.12422839506173,5.181327160493827
-2,998,477,PAK,2,237,-60,Azhar Ali,JM Vince,2,130,258,42.85,8967,40.62,Right-hand bat,2,0,0,24,NA,NA,rm,0,ENG,seam,yes,32.12422839506173,5.181327160493827
-2,999,478,PAK,2,237,-60,Azhar Ali,JM Vince,2,130,259,42.85,8967,40.62,Right-hand bat,3,0,0,24,NA,NA,rm,0,ENG,seam,yes,32.12422839506173,5.181327160493827
-2,1000,479,PAK,2,237,-60,Azhar Ali,JM Vince,2,130,260,42.85,8967,40.62,Right-hand bat,4,0,0,24,NA,NA,rm,1,ENG,seam,yes,32.12422839506173,5.181327160493827

@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,740,66,WIN,1,20,-379,DM Bravo,CJ Jordan,3,0,4,42.78,5044,46.64,Left-hand bat,6,1,0,1152,34.7,67.7,rfm,0,WIN,seam,yes,26.205882352941178,14.294117647058824
-2,741,67,WIN,1,20,-379,DM Bravo,CJ Jordan,3,0,5,42.78,5044,46.64,Left-hand bat,7,1,0,1152,34.7,67.7,rfm,0,WIN,seam,yes,26.205882352941178,14.294117647058824
-2,742,68,WIN,1,20,-379,DM Bravo,CJ Jordan,3,0,6,42.78,5044,46.64,Left-hand bat,8,1,0,1152,34.7,67.7,rfm,4,WIN,seam,yes,26.205882352941178,14.294117647058824
-2,743,69,WIN,1,24,-375,DM Bravo,CJ Jordan,3,4,7,42.78,5044,46.64,Left-hand bat,9,5,0,1152,34.7,67.7,rfm,0,WIN,seam,yes,26.205882352941178,14.294117647058824
-2,744,70,WIN,1,24,-375,DM Bravo,CJ Jordan,3,4,8,42.78,5044,46.64,Left-hand bat,10,5,0,1152,34.7,67.7,rfm,1,WIN,seam,yes,26.205882352941178,14.294117647058824
-2,765,91,WIN,1,32,-367,DM Bravo,CJ Jordan,3,6,18,42.78,5044,46.64,Left-hand bat,19,11,0,1152,34.7,67.7,rfm,0,WIN,seam,yes,26.205882352941178,14.294117647058824
-2,766,92,WIN,1,32,-367,DM Bravo,CJ Jordan,3,6,19,42.78,5044,46.64,Left-hand bat,20,11,0,1152,34.7,67.7,rfm,1,WIN,seam,yes,26.205882352941178,14.294117647058824
-2,777,103,WIN,1,42,-357,DM Bravo,CJ Jordan,3,10,24,42.78,5044,46.64,Left-hand bat,25,17,0,1152,34.7,67.7,rfm,W,WIN,seam,yes,26.205882352941178,14.294117647058824

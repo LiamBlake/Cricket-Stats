@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2361,90,NZL,3,42,-69,LRPL Taylor,ST Gabriel,4,2,16,45.55,6683,57.93,Right-hand bat,5,1,0,648,38.09,58.9,rf,2,NZL,seam,no,28.444444444444443,14.222222222222221
-4,2380,109,NZL,4,50,-61,LRPL Taylor,ST Gabriel,4,5,19,45.55,6683,57.93,Right-hand bat,12,7,0,648,38.09,58.9,rf,1lb,NZL,seam,no,28.444444444444443,14.222222222222221
-4,2394,123,NZL,4,60,-51,LRPL Taylor,ST Gabriel,4,9,26,45.55,6683,57.93,Right-hand bat,20,11,0,648,38.09,58.9,rf,0,NZL,seam,no,28.444444444444443,14.222222222222221
-4,2395,124,NZL,4,60,-51,LRPL Taylor,ST Gabriel,4,9,27,45.55,6683,57.93,Right-hand bat,21,11,0,648,38.09,58.9,rf,0,NZL,seam,no,28.444444444444443,14.222222222222221
-4,2396,125,NZL,4,60,-51,LRPL Taylor,ST Gabriel,4,9,28,45.55,6683,57.93,Right-hand bat,22,11,0,648,38.09,58.9,rf,0,NZL,seam,no,28.444444444444443,14.222222222222221
-4,2397,126,NZL,4,60,-51,LRPL Taylor,ST Gabriel,4,9,29,45.55,6683,57.93,Right-hand bat,23,11,0,648,38.09,58.9,rf,0,NZL,seam,no,28.444444444444443,14.222222222222221
-4,2405,134,NZL,4,62,-49,LRPL Taylor,ST Gabriel,4,9,34,45.55,6683,57.93,Right-hand bat,25,11,0,648,38.09,58.9,rf,0,NZL,seam,no,28.444444444444443,14.222222222222221
-4,2406,135,NZL,4,62,-49,LRPL Taylor,ST Gabriel,4,9,35,45.55,6683,57.93,Right-hand bat,26,11,0,648,38.09,58.9,rf,1,NZL,seam,no,28.444444444444443,14.222222222222221

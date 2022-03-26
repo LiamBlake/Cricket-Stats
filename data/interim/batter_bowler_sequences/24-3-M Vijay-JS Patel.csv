@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1578,18,IND,0,11,274,M Vijay,JS Patel,1,5,10,39.76,6068,46.52,Right-hand bat,6,4,0,5220.1,48.48,90,rob,0,IND,spin,yes,4.6875,39.0625
-3,1579,19,IND,0,11,274,M Vijay,JS Patel,1,5,11,39.76,6068,46.52,Right-hand bat,7,4,0,5220.1,48.48,90,rob,0,IND,spin,yes,4.6875,39.0625
-3,1580,20,IND,0,11,274,M Vijay,JS Patel,1,5,12,39.76,6068,46.52,Right-hand bat,8,4,0,5220.1,48.48,90,rob,0,IND,spin,yes,4.6875,39.0625
-3,1581,21,IND,0,11,274,M Vijay,JS Patel,1,5,13,39.76,6068,46.52,Right-hand bat,9,4,0,5220.1,48.48,90,rob,0,IND,spin,yes,4.6875,39.0625
-3,1582,22,IND,0,11,274,M Vijay,JS Patel,1,5,14,39.76,6068,46.52,Right-hand bat,10,4,0,5220.1,48.48,90,rob,0,IND,spin,yes,4.6875,39.0625
-3,1583,23,IND,0,11,274,M Vijay,JS Patel,1,5,15,39.76,6068,46.52,Right-hand bat,11,4,0,5220.1,48.48,90,rob,4,IND,spin,yes,4.6875,39.0625

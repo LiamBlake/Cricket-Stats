@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1017,265,AUS,2,173,-268,MEK Hussey,SR Tendulkar,4,35,90,66.31,5400,50.35,Left-hand bat,0,0,0,3876.4,53.02,92.3,NA,4,IND,seam,no,11.375,21.125
-2,1018,266,AUS,2,177,-264,MEK Hussey,SR Tendulkar,4,39,91,66.31,5400,50.35,Left-hand bat,1,4,0,3876.4,53.02,92.3,NA,1,IND,seam,no,11.375,21.125
-2,1020,268,AUS,2,179,-262,MEK Hussey,SR Tendulkar,4,40,92,66.31,5400,50.35,Left-hand bat,3,6,0,3876.4,53.02,92.3,NA,0,IND,seam,no,11.375,21.125
-2,1021,269,AUS,2,179,-262,MEK Hussey,SR Tendulkar,4,40,93,66.31,5400,50.35,Left-hand bat,4,6,0,3876.4,53.02,92.3,NA,0,IND,seam,no,11.375,21.125
-2,1022,270,AUS,2,179,-262,MEK Hussey,SR Tendulkar,4,40,94,66.31,5400,50.35,Left-hand bat,5,6,0,3876.4,53.02,92.3,NA,0,IND,seam,no,11.375,21.125
-2,1031,279,AUS,2,181,-260,MEK Hussey,SR Tendulkar,4,40,99,66.31,5400,50.35,Left-hand bat,8,7,0,3876.4,53.02,92.3,NA,0,IND,seam,no,11.375,21.125
-2,1032,280,AUS,2,181,-260,MEK Hussey,SR Tendulkar,4,40,100,66.31,5400,50.35,Left-hand bat,9,7,0,3876.4,53.02,92.3,NA,4,IND,seam,no,11.375,21.125
-2,1033,281,AUS,2,185,-256,MEK Hussey,SR Tendulkar,4,44,101,66.31,5400,50.35,Left-hand bat,10,11,0,3876.4,53.02,92.3,NA,1,IND,seam,no,11.375,21.125

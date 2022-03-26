@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1896,592,AUS,5,401,311,TD Paine,MM Ali,7,27,38,34.1,2336,43.79,Right-hand bat,147,108,1,10968.4,36.59,60.6,rob,0,ENG,spin,yes,23.575602629656686,11.316289262235209
-3,1897,593,AUS,5,401,311,TD Paine,MM Ali,7,27,39,34.1,2336,43.79,Right-hand bat,148,108,1,10968.4,36.59,60.6,rob,4,ENG,spin,yes,23.575602629656686,11.316289262235209
-3,1898,594,AUS,5,405,315,TD Paine,MM Ali,7,31,40,34.1,2336,43.79,Right-hand bat,149,112,1,10968.4,36.59,60.6,rob,2,ENG,spin,yes,23.575602629656686,11.316289262235209
-3,1899,595,AUS,5,407,317,TD Paine,MM Ali,7,33,41,34.1,2336,43.79,Right-hand bat,150,114,1,10968.4,36.59,60.6,rob,0,ENG,spin,yes,23.575602629656686,11.316289262235209
-3,1906,602,AUS,6,407,317,TD Paine,MM Ali,7,33,42,34.1,2336,43.79,Right-hand bat,151,114,1,10968.4,36.59,60.6,rob,1,ENG,spin,yes,23.575602629656686,11.316289262235209
-3,1909,605,AUS,6,409,319,TD Paine,MM Ali,7,34,43,34.1,2336,43.79,Right-hand bat,154,116,1,10968.4,36.59,60.6,rob,W,ENG,spin,yes,23.575602629656686,11.316289262235209

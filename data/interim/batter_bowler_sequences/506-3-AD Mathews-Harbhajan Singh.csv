@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1134,112,SRL,3,70,-122,AD Mathews,Harbhajan Singh,5,24,36,51.66,7210,49.44,Right-hand bat,17,9,0,28578.2,32.46,68.5,rob,0,SRL,spin,yes,5.833125000000001,20.091875
-3,1142,120,SRL,3,74,-118,AD Mathews,Harbhajan Singh,5,25,40,51.66,7210,49.44,Right-hand bat,19,10,0,28578.2,32.46,68.5,rob,0,SRL,spin,yes,5.833125000000001,20.091875
-3,1143,121,SRL,3,74,-118,AD Mathews,Harbhajan Singh,5,25,41,51.66,7210,49.44,Right-hand bat,20,10,0,28578.2,32.46,68.5,rob,0,SRL,spin,yes,5.833125000000001,20.091875
-3,1144,122,SRL,3,74,-118,AD Mathews,Harbhajan Singh,5,25,42,51.66,7210,49.44,Right-hand bat,21,10,0,28578.2,32.46,68.5,rob,1,SRL,spin,yes,5.833125000000001,20.091875
-3,1153,131,SRL,3,76,-116,AD Mathews,Harbhajan Singh,5,27,48,51.66,7210,49.44,Right-hand bat,24,11,0,28578.2,32.46,68.5,rob,0,SRL,spin,yes,5.833125000000001,20.091875
-3,1154,132,SRL,3,76,-116,AD Mathews,Harbhajan Singh,5,27,49,51.66,7210,49.44,Right-hand bat,25,11,0,28578.2,32.46,68.5,rob,2,SRL,spin,yes,5.833125000000001,20.091875
-3,1155,133,SRL,3,78,-114,AD Mathews,Harbhajan Singh,5,29,50,51.66,7210,49.44,Right-hand bat,26,13,0,28578.2,32.46,68.5,rob,1,SRL,spin,yes,5.833125000000001,20.091875
-3,1165,143,SRL,3,90,-102,AD Mathews,Harbhajan Singh,5,36,55,51.66,7210,49.44,Right-hand bat,30,18,0,28578.2,32.46,68.5,rob,1,SRL,spin,yes,5.833125000000001,20.091875

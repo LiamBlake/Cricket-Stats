@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1554,585,RSA,9,313,191,M Ntini,MS Panesar,11,0,0,9.53,1252,51.03,Right-hand bat,95,34,2,7698.1,31.95,67.5,lo,0,ENG,spin,yes,23.963667820069205,6.21280276816609
-3,1563,594,RSA,9,315,193,M Ntini,MS Panesar,11,0,4,9.53,1252,51.03,Right-hand bat,98,35,2,7698.1,31.95,67.5,lo,2,ENG,spin,yes,23.963667820069205,6.21280276816609
-3,1564,595,RSA,9,317,195,M Ntini,MS Panesar,11,2,5,9.53,1252,51.03,Right-hand bat,99,37,2,7698.1,31.95,67.5,lo,0,ENG,spin,yes,23.963667820069205,6.21280276816609
-3,1565,596,RSA,9,317,195,M Ntini,MS Panesar,11,2,6,9.53,1252,51.03,Right-hand bat,100,37,2,7698.1,31.95,67.5,lo,0,ENG,spin,yes,23.963667820069205,6.21280276816609
-3,1566,597,RSA,9,317,195,M Ntini,MS Panesar,11,2,7,9.53,1252,51.03,Right-hand bat,101,37,2,7698.1,31.95,67.5,lo,0,ENG,spin,yes,23.963667820069205,6.21280276816609

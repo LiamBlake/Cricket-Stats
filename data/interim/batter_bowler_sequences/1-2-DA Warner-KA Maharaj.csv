@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,497,113,AUS,0,89,-153,DA Warner,KA Maharaj,1,59,53,48.98,6175,77.74,Left-hand bat,2,3,0,348.3,37.5,87.7,lo,0,AUS,spin,no,28.81578947368421,7.684210526315789
-2,498,114,AUS,0,89,-153,DA Warner,KA Maharaj,1,59,54,48.98,6175,77.74,Left-hand bat,3,3,0,348.3,37.5,87.7,lo,1,AUS,spin,no,28.81578947368421,7.684210526315789
-2,507,123,AUS,0,93,-149,DA Warner,KA Maharaj,1,61,56,48.98,6175,77.74,Left-hand bat,6,4,0,348.3,37.5,87.7,lo,4,AUS,spin,no,28.81578947368421,7.684210526315789
-2,508,124,AUS,0,97,-145,DA Warner,KA Maharaj,1,65,57,48.98,6175,77.74,Left-hand bat,7,8,0,348.3,37.5,87.7,lo,0,AUS,spin,no,28.81578947368421,7.684210526315789
-2,509,125,AUS,0,97,-145,DA Warner,KA Maharaj,1,65,58,48.98,6175,77.74,Left-hand bat,8,8,0,348.3,37.5,87.7,lo,0,AUS,spin,no,28.81578947368421,7.684210526315789
-2,510,126,AUS,0,97,-145,DA Warner,KA Maharaj,1,65,59,48.98,6175,77.74,Left-hand bat,9,8,0,348.3,37.5,87.7,lo,4,AUS,spin,no,28.81578947368421,7.684210526315789
-2,511,127,AUS,0,101,-141,DA Warner,KA Maharaj,1,69,60,48.98,6175,77.74,Left-hand bat,10,12,0,348.3,37.5,87.7,lo,4,AUS,spin,no,28.81578947368421,7.684210526315789
-2,512,128,AUS,0,105,-137,DA Warner,KA Maharaj,1,73,61,48.98,6175,77.74,Left-hand bat,11,16,0,348.3,37.5,87.7,lo,0,AUS,spin,no,28.81578947368421,7.684210526315789

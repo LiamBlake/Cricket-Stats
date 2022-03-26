@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,252,252,IND,6,98,98,RA Jadeja,RAS Lakmal,8,8,10,29.17,1801,64.79,Left-hand bat,90,7,3,7572.2,42.77,79.7,rfm,4,IND,seam,no,23.327346938775513,2.186938775510204
-1,253,253,IND,6,102,102,RA Jadeja,RAS Lakmal,8,12,11,29.17,1801,64.79,Left-hand bat,91,11,3,7572.2,42.77,79.7,rfm,0,IND,seam,no,23.327346938775513,2.186938775510204
-1,254,254,IND,6,102,102,RA Jadeja,RAS Lakmal,8,12,12,29.17,1801,64.79,Left-hand bat,92,11,3,7572.2,42.77,79.7,rfm,0,IND,seam,no,23.327346938775513,2.186938775510204
-1,255,255,IND,6,102,102,RA Jadeja,RAS Lakmal,8,12,13,29.17,1801,64.79,Left-hand bat,93,11,3,7572.2,42.77,79.7,rfm,0,IND,seam,no,23.327346938775513,2.186938775510204
-1,256,256,IND,6,102,102,RA Jadeja,RAS Lakmal,8,12,14,29.17,1801,64.79,Left-hand bat,94,11,3,7572.2,42.77,79.7,rfm,0,IND,seam,no,23.327346938775513,2.186938775510204
-1,257,257,IND,6,102,102,RA Jadeja,RAS Lakmal,8,12,15,29.17,1801,64.79,Left-hand bat,95,11,3,7572.2,42.77,79.7,rfm,0,IND,seam,no,23.327346938775513,2.186938775510204
-1,264,264,IND,6,106,106,RA Jadeja,RAS Lakmal,8,12,16,29.17,1801,64.79,Left-hand bat,96,11,3,7572.2,42.77,79.7,rfm,2,IND,seam,no,23.327346938775513,2.186938775510204
-1,265,265,IND,6,108,108,RA Jadeja,RAS Lakmal,8,14,17,29.17,1801,64.79,Left-hand bat,97,13,3,7572.2,42.77,79.7,rfm,1lb,IND,seam,no,23.327346938775513,2.186938775510204

@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1568,171,NZL,5,93,-280,KS Williamson,Harbhajan Singh,7,0,0,42.4,485,43.71,Right-hand bat,45,16,3,25656.3,31.94,67.8,rob,0,IND,spin,yes,15.487244897959183,17.86989795918367
-3,1569,172,NZL,5,93,-280,KS Williamson,Harbhajan Singh,7,0,1,42.4,485,43.71,Right-hand bat,46,16,3,25656.3,31.94,67.8,rob,0,IND,spin,yes,15.487244897959183,17.86989795918367
-3,1570,173,NZL,5,93,-280,KS Williamson,Harbhajan Singh,7,0,2,42.4,485,43.71,Right-hand bat,47,16,3,25656.3,31.94,67.8,rob,0,IND,spin,yes,15.487244897959183,17.86989795918367
-3,1578,181,NZL,5,97,-276,KS Williamson,Harbhajan Singh,7,2,8,42.4,485,43.71,Right-hand bat,49,17,3,25656.3,31.94,67.8,rob,1,IND,spin,yes,15.487244897959183,17.86989795918367
-3,1581,184,NZL,5,99,-274,KS Williamson,Harbhajan Singh,7,3,9,42.4,485,43.71,Right-hand bat,52,19,3,25656.3,31.94,67.8,rob,0,IND,spin,yes,15.487244897959183,17.86989795918367
-3,1582,185,NZL,5,99,-274,KS Williamson,Harbhajan Singh,7,3,10,42.4,485,43.71,Right-hand bat,53,19,3,25656.3,31.94,67.8,rob,0,IND,spin,yes,15.487244897959183,17.86989795918367
-3,1590,193,NZL,5,101,-272,KS Williamson,Harbhajan Singh,7,3,15,42.4,485,43.71,Right-hand bat,55,20,3,25656.3,31.94,67.8,rob,1,IND,spin,yes,15.487244897959183,17.86989795918367
-3,1601,204,NZL,5,107,-266,KS Williamson,Harbhajan Singh,7,7,20,42.4,485,43.71,Right-hand bat,60,21,3,25656.3,31.94,67.8,rob,1,IND,spin,yes,15.487244897959183,17.86989795918367

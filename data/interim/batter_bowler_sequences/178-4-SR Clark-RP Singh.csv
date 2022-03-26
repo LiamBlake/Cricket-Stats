@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1899,493,AUS,8,307,-105,SR Clark,RP Singh,10,14,23,14.08,232,72.84,Right-hand bat,110,70,1,1986.2,32.87,49.7,lfm,0,AUS,seam,no,24.99,4.409999999999999
-4,1900,494,AUS,8,307,-105,SR Clark,RP Singh,10,14,24,14.08,232,72.84,Right-hand bat,111,70,1,1986.2,32.87,49.7,lfm,6,AUS,seam,no,24.99,4.409999999999999
-4,1901,495,AUS,8,313,-99,SR Clark,RP Singh,10,20,25,14.08,232,72.84,Right-hand bat,112,76,1,1986.2,32.87,49.7,lfm,1,AUS,seam,no,24.99,4.409999999999999
-4,1911,505,AUS,8,315,-97,SR Clark,RP Singh,10,22,27,14.08,232,72.84,Right-hand bat,116,77,1,1986.2,32.87,49.7,lfm,4,AUS,seam,no,24.99,4.409999999999999
-4,1912,506,AUS,8,319,-93,SR Clark,RP Singh,10,26,28,14.08,232,72.84,Right-hand bat,117,81,1,1986.2,32.87,49.7,lfm,0,AUS,seam,no,24.99,4.409999999999999
-4,1913,507,AUS,8,319,-93,SR Clark,RP Singh,10,26,29,14.08,232,72.84,Right-hand bat,118,81,1,1986.2,32.87,49.7,lfm,4,AUS,seam,no,24.99,4.409999999999999
-4,1914,508,AUS,8,323,-89,SR Clark,RP Singh,10,30,30,14.08,232,72.84,Right-hand bat,119,85,1,1986.2,32.87,49.7,lfm,1,AUS,seam,no,24.99,4.409999999999999

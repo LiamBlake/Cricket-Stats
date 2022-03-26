@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1477,83,RSA,1,50,48,PL Harris,Harbhajan Singh,3,0,0,10.69,1357,33.89,Right-hand bat,10,3,1,26478.5,31.85,67.3,rob,0,RSA,spin,no,27.173553719008265,10.1900826446281
-3,1478,84,RSA,1,50,48,PL Harris,Harbhajan Singh,3,0,1,10.69,1357,33.89,Right-hand bat,11,3,1,26478.5,31.85,67.3,rob,0,RSA,spin,no,27.173553719008265,10.1900826446281
-3,1486,92,RSA,1,52,50,PL Harris,Harbhajan Singh,3,0,7,10.69,1357,33.89,Right-hand bat,13,4,1,26478.5,31.85,67.3,rob,W,RSA,spin,no,27.173553719008265,10.1900826446281

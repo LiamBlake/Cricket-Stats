@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1258,305,ENG,5,117,-453,MJ Prior,MG Johnson,7,0,0,41.34,6245,62.22,Right-hand bat,82,24,2,11814.1,29.53,53.2,lf,0,AUS,seam,no,28.955078125,8.107421875
-2,1259,306,ENG,5,117,-453,MJ Prior,MG Johnson,7,0,1,41.34,6245,62.22,Right-hand bat,83,24,2,11814.1,29.53,53.2,lf,0,AUS,seam,no,28.955078125,8.107421875
-2,1260,307,ENG,5,117,-453,MJ Prior,MG Johnson,7,0,2,41.34,6245,62.22,Right-hand bat,84,24,2,11814.1,29.53,53.2,lf,0,AUS,seam,no,28.955078125,8.107421875
-2,1261,308,ENG,5,117,-453,MJ Prior,MG Johnson,7,0,3,41.34,6245,62.22,Right-hand bat,85,24,2,11814.1,29.53,53.2,lf,W,AUS,seam,no,28.955078125,8.107421875

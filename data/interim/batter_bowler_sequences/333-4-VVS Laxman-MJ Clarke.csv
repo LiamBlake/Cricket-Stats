@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2091,297,IND,4,147,-352,VVS Laxman,MJ Clarke,5,25,75,45.97,17785,49.37,Right-hand bat,3,1,0,1896,38.16,79,lo,1,AUS,spin,no,25.51171875,13.36328125
-4,2102,308,IND,4,154,-345,VVS Laxman,MJ Clarke,5,30,82,45.97,17785,49.37,Right-hand bat,7,3,0,1896,38.16,79,lo,0,AUS,spin,no,25.51171875,13.36328125
-4,2103,309,IND,4,154,-345,VVS Laxman,MJ Clarke,5,30,83,45.97,17785,49.37,Right-hand bat,8,3,0,1896,38.16,79,lo,1,AUS,spin,no,25.51171875,13.36328125
-4,2105,311,IND,4,156,-343,VVS Laxman,MJ Clarke,5,31,84,45.97,17785,49.37,Right-hand bat,10,5,0,1896,38.16,79,lo,4,AUS,spin,no,25.51171875,13.36328125
-4,2106,312,IND,4,160,-339,VVS Laxman,MJ Clarke,5,35,85,45.97,17785,49.37,Right-hand bat,11,9,0,1896,38.16,79,lo,0,AUS,spin,no,25.51171875,13.36328125

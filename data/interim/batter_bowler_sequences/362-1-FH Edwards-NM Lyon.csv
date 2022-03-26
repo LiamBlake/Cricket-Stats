@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,831,831,WIN,8,406,406,FH Edwards,NM Lyon,10,0,1,6.55,1332,28.52,Right-hand bat,143,85,2,1866.2,31.5,62.2,rob,0,WIN,spin,yes,25.36326530612245,8.779591836734696
-1,838,838,WIN,8,416,416,FH Edwards,NM Lyon,10,9,6,6.55,1332,28.52,Right-hand bat,144,85,2,1866.2,31.5,62.2,rob,0,WIN,spin,yes,25.36326530612245,8.779591836734696
-1,839,839,WIN,8,416,416,FH Edwards,NM Lyon,10,9,7,6.55,1332,28.52,Right-hand bat,145,85,2,1866.2,31.5,62.2,rob,0,WIN,spin,yes,25.36326530612245,8.779591836734696
-1,840,840,WIN,8,416,416,FH Edwards,NM Lyon,10,9,8,6.55,1332,28.52,Right-hand bat,146,85,2,1866.2,31.5,62.2,rob,0,WIN,spin,yes,25.36326530612245,8.779591836734696
-1,841,841,WIN,8,416,416,FH Edwards,NM Lyon,10,9,9,6.55,1332,28.52,Right-hand bat,147,85,2,1866.2,31.5,62.2,rob,1,WIN,spin,yes,25.36326530612245,8.779591836734696
-1,843,843,WIN,8,418,418,FH Edwards,NM Lyon,10,10,10,6.55,1332,28.52,Right-hand bat,149,87,2,1866.2,31.5,62.2,rob,0,WIN,spin,yes,25.36326530612245,8.779591836734696

@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,521,66,RSA,1,46,-238,HM Amla,MG Johnson,3,2,8,47.2,7906,50.74,Right-hand bat,17,19,0,10392.3,30.73,55.2,lf,0,RSA,seam,yes,20.71875,0
-2,522,67,RSA,1,46,-238,HM Amla,MG Johnson,3,2,9,47.2,7906,50.74,Right-hand bat,18,19,0,10392.3,30.73,55.2,lf,0,RSA,seam,yes,20.71875,0
-2,529,74,RSA,1,46,-238,HM Amla,MG Johnson,3,2,10,47.2,7906,50.74,Right-hand bat,19,19,0,10392.3,30.73,55.2,lf,0,RSA,seam,yes,20.71875,0
-2,530,75,RSA,1,46,-238,HM Amla,MG Johnson,3,2,11,47.2,7906,50.74,Right-hand bat,20,19,0,10392.3,30.73,55.2,lf,0,RSA,seam,yes,20.71875,0
-2,531,76,RSA,1,46,-238,HM Amla,MG Johnson,3,2,12,47.2,7906,50.74,Right-hand bat,21,19,0,10392.3,30.73,55.2,lf,0,RSA,seam,yes,20.71875,0
-2,532,77,RSA,1,46,-238,HM Amla,MG Johnson,3,2,13,47.2,7906,50.74,Right-hand bat,22,19,0,10392.3,30.73,55.2,lf,1,RSA,seam,yes,20.71875,0

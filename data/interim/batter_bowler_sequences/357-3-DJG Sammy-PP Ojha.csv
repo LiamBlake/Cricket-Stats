@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1207,236,WIN,7,87,182,DJG Sammy,PP Ojha,9,1,4,17.59,891,63.18,Right-hand bat,68,21,1,3828.1,36.85,78.1,lo,4,IND,spin,yes,11.074285714285715,16.611428571428572
-3,1208,237,WIN,7,91,186,DJG Sammy,PP Ojha,9,5,5,17.59,891,63.18,Right-hand bat,69,25,1,3828.1,36.85,78.1,lo,1,IND,spin,yes,11.074285714285715,16.611428571428572
-3,1210,239,WIN,7,93,188,DJG Sammy,PP Ojha,9,6,6,17.59,891,63.18,Right-hand bat,71,26,1,3828.1,36.85,78.1,lo,0,IND,spin,yes,11.074285714285715,16.611428571428572

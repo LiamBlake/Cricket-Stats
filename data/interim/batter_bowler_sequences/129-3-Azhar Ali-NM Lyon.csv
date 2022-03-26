@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1582,92,PAK,2,40,320,Azhar Ali,NM Lyon,4,0,5,44.27,12622,41.38,Right-hand bat,44,19,1,19656.5,32.35,63.4,rob,0,PAK,spin,yes,12.737024221453286,23.35121107266436
-3,1583,93,PAK,2,40,320,Azhar Ali,NM Lyon,4,0,6,44.27,12622,41.38,Right-hand bat,45,19,1,19656.5,32.35,63.4,rob,4,PAK,spin,yes,12.737024221453286,23.35121107266436
-3,1584,94,PAK,2,44,324,Azhar Ali,NM Lyon,4,4,7,44.27,12622,41.38,Right-hand bat,46,23,1,19656.5,32.35,63.4,rob,0,PAK,spin,yes,12.737024221453286,23.35121107266436
-3,1585,95,PAK,2,44,324,Azhar Ali,NM Lyon,4,4,8,44.27,12622,41.38,Right-hand bat,47,23,1,19656.5,32.35,63.4,rob,0,PAK,spin,yes,12.737024221453286,23.35121107266436

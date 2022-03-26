@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1830,152,ENG,2,71,-432,KP Pietersen,MG Johnson,4,6,15,47.64,12985,62.01,Right-hand bat,38,12,0,12096.3,29.37,53,lf,2,AUS,seam,no,30.38734567901234,7.334876543209877
-4,1831,153,ENG,2,73,-430,KP Pietersen,MG Johnson,4,8,16,47.64,12985,62.01,Right-hand bat,39,14,0,12096.3,29.37,53,lf,1,AUS,seam,no,30.38734567901234,7.334876543209877
-4,1855,177,ENG,3,81,-422,KP Pietersen,MG Johnson,4,12,25,47.64,12985,62.01,Right-hand bat,51,18,1,12096.3,29.37,53,lf,0,AUS,seam,no,30.38734567901234,7.334876543209877
-4,1856,178,ENG,3,81,-422,KP Pietersen,MG Johnson,4,12,26,47.64,12985,62.01,Right-hand bat,52,18,1,12096.3,29.37,53,lf,0,AUS,seam,no,30.38734567901234,7.334876543209877
-4,1857,179,ENG,3,81,-422,KP Pietersen,MG Johnson,4,12,27,47.64,12985,62.01,Right-hand bat,53,18,1,12096.3,29.37,53,lf,0,AUS,seam,no,30.38734567901234,7.334876543209877
-4,1858,180,ENG,3,81,-422,KP Pietersen,MG Johnson,4,12,28,47.64,12985,62.01,Right-hand bat,54,18,1,12096.3,29.37,53,lf,4,AUS,seam,no,30.38734567901234,7.334876543209877

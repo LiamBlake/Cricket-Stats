@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1551,58,SRL,0,32,21,NT Paranavitana,V Sehwag,1,16,40,35.73,1652,49.75,Left-hand bat,1,1,0,3138.1,40.97,80.4,rob,0,SRL,spin,yes,9.051428571428572,30.54857142857143
-3,1552,59,SRL,0,32,21,NT Paranavitana,V Sehwag,1,16,41,35.73,1652,49.75,Left-hand bat,2,1,0,3138.1,40.97,80.4,rob,0,SRL,spin,yes,9.051428571428572,30.54857142857143
-3,1553,60,SRL,0,32,21,NT Paranavitana,V Sehwag,1,16,42,35.73,1652,49.75,Left-hand bat,3,1,0,3138.1,40.97,80.4,rob,0,SRL,spin,yes,9.051428571428572,30.54857142857143
-3,1554,61,SRL,0,32,21,NT Paranavitana,V Sehwag,1,16,43,35.73,1652,49.75,Left-hand bat,4,1,0,3138.1,40.97,80.4,rob,W,SRL,spin,yes,9.051428571428572,30.54857142857143

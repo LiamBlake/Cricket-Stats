@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,898,216,SRL,4,104,18,BKG Mendis,DA Warner,4,76,125,40.23,894,58.5,Right-hand bat,0,0,0,336,66,84,rls,4,SRL,spin,yes,7.297500000000001,13.5525
-3,899,217,SRL,4,108,22,BKG Mendis,DA Warner,4,80,126,40.23,894,58.5,Right-hand bat,1,4,0,336,66,84,rls,4,SRL,spin,yes,7.297500000000001,13.5525
-3,900,218,SRL,4,112,26,BKG Mendis,DA Warner,4,84,127,40.23,894,58.5,Right-hand bat,2,8,0,336,66,84,rls,1,SRL,spin,yes,7.297500000000001,13.5525
-3,903,221,SRL,4,114,28,BKG Mendis,DA Warner,4,85,128,40.23,894,58.5,Right-hand bat,5,10,0,336,66,84,rls,0,SRL,spin,yes,7.297500000000001,13.5525

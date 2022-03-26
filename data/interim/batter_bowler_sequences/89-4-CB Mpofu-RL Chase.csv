@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2140,518,ZIM,9,286,-147,CB Mpofu,RL Chase,11,10,12,6.31,240,42.08,Right-hand bat,66,34,2,2190.5,47.61,84.4,rob,6,WIN,spin,no,6.66875,20.00625
-4,2141,519,ZIM,9,292,-141,CB Mpofu,RL Chase,11,16,13,6.31,240,42.08,Right-hand bat,67,40,2,2190.5,47.61,84.4,rob,1,WIN,spin,no,6.66875,20.00625
-4,2153,531,ZIM,9,296,-137,CB Mpofu,RL Chase,11,17,17,6.31,240,42.08,Right-hand bat,73,43,2,2190.5,47.61,84.4,rob,4,WIN,spin,no,6.66875,20.00625
-4,2154,532,ZIM,9,300,-133,CB Mpofu,RL Chase,11,21,18,6.31,240,42.08,Right-hand bat,74,47,2,2190.5,47.61,84.4,rob,4,WIN,spin,no,6.66875,20.00625
-4,2155,533,ZIM,9,304,-129,CB Mpofu,RL Chase,11,25,19,6.31,240,42.08,Right-hand bat,75,51,2,2190.5,47.61,84.4,rob,1,WIN,spin,no,6.66875,20.00625
-4,2165,543,ZIM,9,310,-123,CB Mpofu,RL Chase,11,27,22,6.31,240,42.08,Right-hand bat,79,54,2,2190.5,47.61,84.4,rob,4,WIN,spin,no,6.66875,20.00625
-4,2166,544,ZIM,9,314,-119,CB Mpofu,RL Chase,11,31,23,6.31,240,42.08,Right-hand bat,80,58,2,2190.5,47.61,84.4,rob,2,WIN,spin,no,6.66875,20.00625
-4,2167,545,ZIM,9,316,-117,CB Mpofu,RL Chase,11,33,24,6.31,240,42.08,Right-hand bat,81,60,2,2190.5,47.61,84.4,rob,W,WIN,spin,no,6.66875,20.00625

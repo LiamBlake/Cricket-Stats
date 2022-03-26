@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,465,1,RSA,0,1,-186,AK Markram,B Kumar,2,0,0,52,795,65.4,Right-hand bat,1,1,0,3348,26.09,53.1,rm,0,IND,seam,no,20.125,0
-2,466,2,RSA,0,1,-186,AK Markram,B Kumar,2,0,1,52,795,65.4,Right-hand bat,2,1,0,3348,26.09,53.1,rm,0,IND,seam,no,20.125,0
-2,467,3,RSA,0,1,-186,AK Markram,B Kumar,2,0,2,52,795,65.4,Right-hand bat,3,1,0,3348,26.09,53.1,rm,2,IND,seam,no,20.125,0
-2,468,4,RSA,0,3,-184,AK Markram,B Kumar,2,2,3,52,795,65.4,Right-hand bat,4,3,0,3348,26.09,53.1,rm,0,IND,seam,no,20.125,0
-2,469,5,RSA,0,3,-184,AK Markram,B Kumar,2,2,4,52,795,65.4,Right-hand bat,5,3,0,3348,26.09,53.1,rm,0,IND,seam,no,20.125,0
-2,476,12,RSA,0,3,-184,AK Markram,B Kumar,2,2,5,52,795,65.4,Right-hand bat,6,3,0,3348,26.09,53.1,rm,0,IND,seam,no,20.125,0
-2,477,13,RSA,0,3,-184,AK Markram,B Kumar,2,2,6,52,795,65.4,Right-hand bat,7,3,0,3348,26.09,53.1,rm,0,IND,seam,no,20.125,0
-2,478,14,RSA,0,3,-184,AK Markram,B Kumar,2,2,7,52,795,65.4,Right-hand bat,8,3,0,3348,26.09,53.1,rm,W,IND,seam,no,20.125,0

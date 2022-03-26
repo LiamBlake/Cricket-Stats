@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1183,299,ENG,3,134,306,AJ Strauss,MJ Clarke,1,67,177,44.62,10639,49.49,Left-hand bat,0,0,0,1536.4,39.73,81,lo,0,ENG,spin,yes,19.937541091387246,11.165023011176858
-3,1184,300,ENG,3,134,306,AJ Strauss,MJ Clarke,1,67,178,44.62,10639,49.49,Left-hand bat,1,0,0,1536.4,39.73,81,lo,4,ENG,spin,yes,19.937541091387246,11.165023011176858
-3,1185,301,ENG,3,138,310,AJ Strauss,MJ Clarke,1,71,179,44.62,10639,49.49,Left-hand bat,2,4,0,1536.4,39.73,81,lo,1,ENG,spin,yes,19.937541091387246,11.165023011176858
-3,1187,303,ENG,3,140,312,AJ Strauss,MJ Clarke,1,72,180,44.62,10639,49.49,Left-hand bat,4,6,0,1536.4,39.73,81,lo,2,ENG,spin,yes,19.937541091387246,11.165023011176858
-3,1188,304,ENG,3,142,314,AJ Strauss,MJ Clarke,1,74,181,44.62,10639,49.49,Left-hand bat,5,8,0,1536.4,39.73,81,lo,0,ENG,spin,yes,19.937541091387246,11.165023011176858
-3,1195,311,ENG,3,144,316,AJ Strauss,MJ Clarke,1,74,182,44.62,10639,49.49,Left-hand bat,6,8,0,1536.4,39.73,81,lo,0,ENG,spin,yes,19.937541091387246,11.165023011176858
-3,1196,312,ENG,3,144,316,AJ Strauss,MJ Clarke,1,74,183,44.62,10639,49.49,Left-hand bat,7,8,0,1536.4,39.73,81,lo,1,ENG,spin,yes,19.937541091387246,11.165023011176858
-3,1200,316,ENG,3,146,318,AJ Strauss,MJ Clarke,1,75,184,44.62,10639,49.49,Left-hand bat,11,10,0,1536.4,39.73,81,lo,0,ENG,spin,yes,19.937541091387246,11.165023011176858

@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1534,433,ENG,5,232,200,TT Bresnan,SPD Smith,7,3,11,30.05,1367,39.57,Right-hand bat,1,1,0,570,46.62,71.2,rls,0,ENG,spin,yes,19.24875,7.3012500000000005
-3,1535,434,ENG,5,232,200,TT Bresnan,SPD Smith,7,3,12,30.05,1367,39.57,Right-hand bat,2,1,0,570,46.62,71.2,rls,0,ENG,spin,yes,19.24875,7.3012500000000005
-3,1536,435,ENG,5,232,200,TT Bresnan,SPD Smith,7,3,13,30.05,1367,39.57,Right-hand bat,3,1,0,570,46.62,71.2,rls,0,ENG,spin,yes,19.24875,7.3012500000000005
-3,1537,436,ENG,5,232,200,TT Bresnan,SPD Smith,7,3,14,30.05,1367,39.57,Right-hand bat,4,1,0,570,46.62,71.2,rls,0,ENG,spin,yes,19.24875,7.3012500000000005
-3,1538,437,ENG,5,232,200,TT Bresnan,SPD Smith,7,3,15,30.05,1367,39.57,Right-hand bat,5,1,0,570,46.62,71.2,rls,0,ENG,spin,yes,19.24875,7.3012500000000005

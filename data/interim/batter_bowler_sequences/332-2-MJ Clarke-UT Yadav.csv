@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,634,271,AUS,3,242,81,MJ Clarke,UT Yadav,5,0,0,48.39,10430,54.28,Right-hand bat,66,70,3,822.3,27.76,39.2,rf,0,AUS,seam,yes,22.587777777777777,0.7788888888888889
-2,644,281,AUS,3,248,87,MJ Clarke,UT Yadav,5,0,6,48.39,10430,54.28,Right-hand bat,70,75,3,822.3,27.76,39.2,rf,2,AUS,seam,yes,22.587777777777777,0.7788888888888889
-2,645,282,AUS,3,250,89,MJ Clarke,UT Yadav,5,2,7,48.39,10430,54.28,Right-hand bat,71,77,3,822.3,27.76,39.2,rf,0,AUS,seam,yes,22.587777777777777,0.7788888888888889
-2,646,283,AUS,3,250,89,MJ Clarke,UT Yadav,5,2,8,48.39,10430,54.28,Right-hand bat,72,77,3,822.3,27.76,39.2,rf,0,AUS,seam,yes,22.587777777777777,0.7788888888888889
-2,654,291,AUS,3,254,93,MJ Clarke,UT Yadav,5,2,10,48.39,10430,54.28,Right-hand bat,74,78,3,822.3,27.76,39.2,rf,0,AUS,seam,yes,22.587777777777777,0.7788888888888889
-2,655,292,AUS,3,254,93,MJ Clarke,UT Yadav,5,2,11,48.39,10430,54.28,Right-hand bat,75,78,3,822.3,27.76,39.2,rf,1,AUS,seam,yes,22.587777777777777,0.7788888888888889
-2,658,295,AUS,3,256,95,MJ Clarke,UT Yadav,5,3,12,48.39,10430,54.28,Right-hand bat,78,80,3,822.3,27.76,39.2,rf,0,AUS,seam,yes,22.587777777777777,0.7788888888888889

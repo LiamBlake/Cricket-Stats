@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1298,463,AUS,2,207,174,SM Katich,MS Sinclair,2,79,228,46.83,7654,49.56,Left-hand bat,12,1,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
-3,1299,464,AUS,2,207,174,SM Katich,MS Sinclair,2,79,229,46.83,7654,49.56,Left-hand bat,13,1,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
-3,1300,465,AUS,2,207,174,SM Katich,MS Sinclair,2,79,230,46.83,7654,49.56,Left-hand bat,14,1,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
-3,1301,466,AUS,2,207,174,SM Katich,MS Sinclair,2,79,231,46.83,7654,49.56,Left-hand bat,15,1,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
-3,1302,467,AUS,2,207,174,SM Katich,MS Sinclair,2,79,232,46.83,7654,49.56,Left-hand bat,16,1,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589
-3,1303,468,AUS,2,207,174,SM Katich,MS Sinclair,2,79,233,46.83,7654,49.56,Left-hand bat,17,1,0,42,NA,NA,rm,0,NZL,seam,yes,24.457063711911356,9.963988919667589

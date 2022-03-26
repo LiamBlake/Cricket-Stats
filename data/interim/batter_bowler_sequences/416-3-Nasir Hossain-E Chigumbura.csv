@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1648,385,BAN,5,206,315,Nasir Hossain,E Chigumbura,7,13,57,46.7,1384,57.36,Right-hand bat,69,43,0,1308.3,47.37,81.9,rfm,1,ZIM,seam,no,20.871794871794872,10.435897435897436
-3,1650,387,BAN,5,208,317,Nasir Hossain,E Chigumbura,7,14,58,46.7,1384,57.36,Right-hand bat,71,45,0,1308.3,47.37,81.9,rfm,0,ZIM,seam,no,20.871794871794872,10.435897435897436
-3,1651,388,BAN,5,208,317,Nasir Hossain,E Chigumbura,7,14,59,46.7,1384,57.36,Right-hand bat,72,45,0,1308.3,47.37,81.9,rfm,0,ZIM,seam,no,20.871794871794872,10.435897435897436
-3,1660,397,BAN,5,214,323,Nasir Hossain,E Chigumbura,7,17,63,46.7,1384,57.36,Right-hand bat,75,46,0,1308.3,47.37,81.9,rfm,4,ZIM,seam,no,20.871794871794872,10.435897435897436
-3,1661,398,BAN,5,218,327,Nasir Hossain,E Chigumbura,7,21,64,46.7,1384,57.36,Right-hand bat,76,50,0,1308.3,47.37,81.9,rfm,1,ZIM,seam,no,20.871794871794872,10.435897435897436
-3,1663,400,BAN,5,220,329,Nasir Hossain,E Chigumbura,7,22,65,46.7,1384,57.36,Right-hand bat,78,51,0,1308.3,47.37,81.9,rfm,0,ZIM,seam,no,20.871794871794872,10.435897435897436
-3,1673,410,BAN,5,224,333,Nasir Hossain,E Chigumbura,7,23,67,46.7,1384,57.36,Right-hand bat,82,52,0,1308.3,47.37,81.9,rfm,1,ZIM,seam,no,20.871794871794872,10.435897435897436
-3,1675,412,BAN,5,226,335,Nasir Hossain,E Chigumbura,7,24,68,46.7,1384,57.36,Right-hand bat,84,54,0,1308.3,47.37,81.9,rfm,0,ZIM,seam,no,20.871794871794872,10.435897435897436

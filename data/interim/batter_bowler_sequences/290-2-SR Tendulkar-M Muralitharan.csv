@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,863,114,IND,2,79,-441,SR Tendulkar,M Muralitharan,4,3,15,55.48,NA,NA,Right-hand bat,6,1,0,44034.5,22.72,55,rob,0,SRL,spin,no,26.67091836734694,17.25765306122449
-2,864,115,IND,2,79,-441,SR Tendulkar,M Muralitharan,4,3,16,55.48,NA,NA,Right-hand bat,7,1,0,44034.5,22.72,55,rob,1,SRL,spin,no,26.67091836734694,17.25765306122449
-2,868,119,IND,2,91,-429,SR Tendulkar,M Muralitharan,4,4,17,55.48,NA,NA,Right-hand bat,11,13,0,44034.5,22.72,55,rob,0,SRL,spin,no,26.67091836734694,17.25765306122449
-2,877,128,IND,2,97,-423,SR Tendulkar,M Muralitharan,4,4,19,55.48,NA,NA,Right-hand bat,14,18,0,44034.5,22.72,55,rob,4,SRL,spin,no,26.67091836734694,17.25765306122449
-2,878,129,IND,2,101,-419,SR Tendulkar,M Muralitharan,4,8,20,55.48,NA,NA,Right-hand bat,15,22,0,44034.5,22.72,55,rob,W,SRL,spin,no,26.67091836734694,17.25765306122449

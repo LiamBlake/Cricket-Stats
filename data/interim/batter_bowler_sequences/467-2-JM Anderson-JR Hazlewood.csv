@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1424,528,ENG,9,306,-260,JM Anderson,JR Hazlewood,11,0,0,10.52,2505,40.31,Left-hand bat,126,62,3,1488.1,19.94,43.7,rfm,0,ENG,seam,no,31.56111111111111,10.977777777777778
-2,1431,535,ENG,9,306,-260,JM Anderson,JR Hazlewood,11,0,1,10.52,2505,40.31,Left-hand bat,127,62,3,1488.1,19.94,43.7,rfm,4,ENG,seam,no,31.56111111111111,10.977777777777778
-2,1432,536,ENG,9,310,-256,JM Anderson,JR Hazlewood,11,4,2,10.52,2505,40.31,Left-hand bat,128,66,3,1488.1,19.94,43.7,rfm,0,ENG,seam,no,31.56111111111111,10.977777777777778
-2,1433,537,ENG,9,310,-256,JM Anderson,JR Hazlewood,11,4,3,10.52,2505,40.31,Left-hand bat,129,66,3,1488.1,19.94,43.7,rfm,2,ENG,seam,no,31.56111111111111,10.977777777777778
-2,1434,538,ENG,9,312,-254,JM Anderson,JR Hazlewood,11,6,4,10.52,2505,40.31,Left-hand bat,130,68,3,1488.1,19.94,43.7,rfm,0,ENG,seam,no,31.56111111111111,10.977777777777778
-2,1435,539,ENG,9,312,-254,JM Anderson,JR Hazlewood,11,6,5,10.52,2505,40.31,Left-hand bat,131,68,3,1488.1,19.94,43.7,rfm,0,ENG,seam,no,31.56111111111111,10.977777777777778
-2,1436,540,ENG,9,312,-254,JM Anderson,JR Hazlewood,11,6,6,10.52,2505,40.31,Left-hand bat,132,68,3,1488.1,19.94,43.7,rfm,0,ENG,seam,no,31.56111111111111,10.977777777777778

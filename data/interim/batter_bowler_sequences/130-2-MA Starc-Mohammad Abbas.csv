@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,782,292,AUS,9,141,-141,MA Starc,Mohammad Abbas,9,30,37,21.27,1814,68.02,Left-hand bat,70,30,4,2244,15.64,38,rmf,0,PAK,seam,no,11.076265614727152,13.682445759368834
-2,783,293,AUS,9,141,-141,MA Starc,Mohammad Abbas,9,30,38,21.27,1814,68.02,Left-hand bat,71,30,4,2244,15.64,38,rmf,1,PAK,seam,no,11.076265614727152,13.682445759368834
-2,790,300,AUS,9,143,-139,MA Starc,Mohammad Abbas,9,32,41,21.27,1814,68.02,Left-hand bat,72,31,4,2244,15.64,38,rmf,2,PAK,seam,no,11.076265614727152,13.682445759368834
-2,791,301,AUS,9,145,-137,MA Starc,Mohammad Abbas,9,34,42,21.27,1814,68.02,Left-hand bat,73,33,4,2244,15.64,38,rmf,0,PAK,seam,no,11.076265614727152,13.682445759368834
-2,792,302,AUS,9,145,-137,MA Starc,Mohammad Abbas,9,34,43,21.27,1814,68.02,Left-hand bat,74,33,4,2244,15.64,38,rmf,0,PAK,seam,no,11.076265614727152,13.682445759368834
-2,793,303,AUS,9,145,-137,MA Starc,Mohammad Abbas,9,34,44,21.27,1814,68.02,Left-hand bat,75,33,4,2244,15.64,38,rmf,W,PAK,seam,no,11.076265614727152,13.682445759368834

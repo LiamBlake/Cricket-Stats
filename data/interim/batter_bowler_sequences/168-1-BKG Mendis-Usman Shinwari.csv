@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,235,235,SRL,2,116,116,BKG Mendis,Usman Shinwari,3,8,35,35.89,4887,56.55,Right-hand bat,30,17,0,90,54,90,lmf,0,PAK,seam,yes,70,0
-1,236,236,SRL,2,116,116,BKG Mendis,Usman Shinwari,3,8,36,35.89,4887,56.55,Right-hand bat,31,17,0,90,54,90,lmf,1,PAK,seam,yes,70,0
-1,247,247,SRL,2,120,120,BKG Mendis,Usman Shinwari,3,10,41,35.89,4887,56.55,Right-hand bat,36,20,0,90,54,90,lmf,0,PAK,seam,yes,70,0
-1,248,248,SRL,2,120,120,BKG Mendis,Usman Shinwari,3,10,42,35.89,4887,56.55,Right-hand bat,37,20,0,90,54,90,lmf,0,PAK,seam,yes,70,0
-1,249,249,SRL,2,120,120,BKG Mendis,Usman Shinwari,3,10,43,35.89,4887,56.55,Right-hand bat,38,20,0,90,54,90,lmf,0,PAK,seam,yes,70,0
-1,250,250,SRL,2,120,120,BKG Mendis,Usman Shinwari,3,10,44,35.89,4887,56.55,Right-hand bat,39,20,0,90,54,90,lmf,0,PAK,seam,yes,70,0
-1,251,251,SRL,2,120,120,BKG Mendis,Usman Shinwari,3,10,45,35.89,4887,56.55,Right-hand bat,40,20,0,90,54,90,lmf,0,PAK,seam,yes,70,0
-1,252,252,SRL,2,120,120,BKG Mendis,Usman Shinwari,3,10,46,35.89,4887,56.55,Right-hand bat,41,20,0,90,54,90,lmf,W,PAK,seam,yes,70,0

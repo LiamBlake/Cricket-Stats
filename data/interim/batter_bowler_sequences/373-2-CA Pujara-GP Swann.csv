@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,995,120,IND,1,57,-273,CA Pujara,GP Swann,3,25,63,58.53,1571,48.44,Right-hand bat,6,0,0,12708.1,29.13,59.9,rob,1,IND,spin,no,15.243856332703215,28.58223062381853
-2,1008,133,IND,1,59,-271,CA Pujara,GP Swann,3,26,70,58.53,1571,48.44,Right-hand bat,13,2,0,12708.1,29.13,59.9,rob,0,IND,spin,no,15.243856332703215,28.58223062381853
-2,1009,134,IND,1,59,-271,CA Pujara,GP Swann,3,26,71,58.53,1571,48.44,Right-hand bat,14,2,0,12708.1,29.13,59.9,rob,W,IND,spin,no,15.243856332703215,28.58223062381853

@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,2044,11,IND,1,2,-35,R Dravid,MG Johnson,3,0,0,55.11,23582,42.06,Right-hand bat,5,1,1,1500.1,32.12,62.5,lf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
-3,2056,23,IND,1,4,-33,R Dravid,MG Johnson,3,0,4,55.11,23582,42.06,Right-hand bat,11,2,1,1500.1,32.12,62.5,lf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
-3,2079,46,IND,1,11,-26,R Dravid,MG Johnson,3,1,9,55.11,23582,42.06,Right-hand bat,22,5,1,1500.1,32.12,62.5,lf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
-3,2080,47,IND,1,11,-26,R Dravid,MG Johnson,3,1,10,55.11,23582,42.06,Right-hand bat,23,5,1,1500.1,32.12,62.5,lf,0,AUS,seam,yes,39.11934156378601,13.039780521262003
-3,2081,48,IND,1,11,-26,R Dravid,MG Johnson,3,1,11,55.11,23582,42.06,Right-hand bat,24,5,1,1500.1,32.12,62.5,lf,0,AUS,seam,yes,39.11934156378601,13.039780521262003

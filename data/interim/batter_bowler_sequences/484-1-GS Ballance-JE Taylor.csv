@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,25,25,ENG,1,6,6,GS Ballance,JE Taylor,3,1,5,62.35,2164,48.98,Left-hand bat,13,5,0,6870.5,34.35,60.3,rf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
-1,26,26,ENG,1,6,6,GS Ballance,JE Taylor,3,1,6,62.35,2164,48.98,Left-hand bat,14,5,0,6870.5,34.35,60.3,rf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
-1,27,27,ENG,1,6,6,GS Ballance,JE Taylor,3,1,7,62.35,2164,48.98,Left-hand bat,15,5,0,6870.5,34.35,60.3,rf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
-1,28,28,ENG,1,6,6,GS Ballance,JE Taylor,3,1,8,62.35,2164,48.98,Left-hand bat,16,5,0,6870.5,34.35,60.3,rf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
-1,29,29,ENG,1,6,6,GS Ballance,JE Taylor,3,1,9,62.35,2164,48.98,Left-hand bat,17,5,0,6870.5,34.35,60.3,rf,0,WIN,seam,yes,16.194285714285716,5.605714285714286
-1,30,30,ENG,1,6,6,GS Ballance,JE Taylor,3,1,10,62.35,2164,48.98,Left-hand bat,18,5,0,6870.5,34.35,60.3,rf,0,WIN,seam,yes,16.194285714285716,5.605714285714286

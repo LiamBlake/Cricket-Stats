@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1374,36,PAK,2,11,-276,Babar Azam,MA Starc,4,0,0,37.05,2703,53.45,Right-hand bat,18,4,1,11214,27.57,48.9,lf,2,AUS,seam,no,38.449905482041586,10.680529300567107
-3,1375,37,PAK,2,13,-274,Babar Azam,MA Starc,4,2,1,37.05,2703,53.45,Right-hand bat,19,6,1,11214,27.57,48.9,lf,0,AUS,seam,no,38.449905482041586,10.680529300567107
-3,1376,38,PAK,2,13,-274,Babar Azam,MA Starc,4,2,2,37.05,2703,53.45,Right-hand bat,20,6,1,11214,27.57,48.9,lf,4,AUS,seam,no,38.449905482041586,10.680529300567107
-3,1377,39,PAK,2,17,-270,Babar Azam,MA Starc,4,6,3,37.05,2703,53.45,Right-hand bat,21,10,1,11214,27.57,48.9,lf,0,AUS,seam,no,38.449905482041586,10.680529300567107
-3,1378,40,PAK,2,17,-270,Babar Azam,MA Starc,4,6,4,37.05,2703,53.45,Right-hand bat,22,10,1,11214,27.57,48.9,lf,0,AUS,seam,no,38.449905482041586,10.680529300567107
-3,1379,41,PAK,2,17,-270,Babar Azam,MA Starc,4,6,5,37.05,2703,53.45,Right-hand bat,23,10,1,11214,27.57,48.9,lf,0,AUS,seam,no,38.449905482041586,10.680529300567107

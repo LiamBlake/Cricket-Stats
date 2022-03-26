@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2263,564,WIN,7,282,-173,SD Hope,Rahat Ali,7,28,59,17.15,554,40.25,Right-hand bat,126,60,1,3720.4,37.9,71.6,lfm,2,PAK,seam,no,19.140625,19.140625
-4,2264,565,WIN,7,284,-171,SD Hope,Rahat Ali,7,30,60,17.15,554,40.25,Right-hand bat,127,62,1,3720.4,37.9,71.6,lfm,0,PAK,seam,no,19.140625,19.140625
-4,2265,566,WIN,7,284,-171,SD Hope,Rahat Ali,7,30,61,17.15,554,40.25,Right-hand bat,128,62,1,3720.4,37.9,71.6,lfm,1,PAK,seam,no,19.140625,19.140625
-4,2267,568,WIN,7,286,-169,SD Hope,Rahat Ali,7,31,62,17.15,554,40.25,Right-hand bat,130,64,1,3720.4,37.9,71.6,lfm,0,PAK,seam,no,19.140625,19.140625
-4,2268,569,WIN,7,286,-169,SD Hope,Rahat Ali,7,31,63,17.15,554,40.25,Right-hand bat,131,64,1,3720.4,37.9,71.6,lfm,0,PAK,seam,no,19.140625,19.140625
-4,2279,580,WIN,7,288,-167,SD Hope,Rahat Ali,7,31,69,17.15,554,40.25,Right-hand bat,136,65,1,3720.4,37.9,71.6,lfm,4,PAK,seam,no,19.140625,19.140625
-4,2280,581,WIN,7,292,-163,SD Hope,Rahat Ali,7,35,70,17.15,554,40.25,Right-hand bat,137,69,1,3720.4,37.9,71.6,lfm,0,PAK,seam,no,19.140625,19.140625

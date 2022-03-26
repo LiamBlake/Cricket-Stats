@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1485,226,NZL,4,127,-199,LRPL Taylor,MJ Clarke,4,55,84,37.6,1226,61.33,Right-hand bat,0,0,0,1290.4,33.5,71.8,lo,1,AUS,spin,yes,18.846875,1.528125
-4,1487,228,NZL,4,129,-197,LRPL Taylor,MJ Clarke,4,56,85,37.6,1226,61.33,Right-hand bat,2,2,0,1290.4,33.5,71.8,lo,0,AUS,spin,yes,18.846875,1.528125
-4,1488,229,NZL,4,129,-197,LRPL Taylor,MJ Clarke,4,56,86,37.6,1226,61.33,Right-hand bat,3,2,0,1290.4,33.5,71.8,lo,0,AUS,spin,yes,18.846875,1.528125
-4,1489,230,NZL,4,129,-197,LRPL Taylor,MJ Clarke,4,56,87,37.6,1226,61.33,Right-hand bat,4,2,0,1290.4,33.5,71.8,lo,0,AUS,spin,yes,18.846875,1.528125
-4,1490,231,NZL,4,129,-197,LRPL Taylor,MJ Clarke,4,56,88,37.6,1226,61.33,Right-hand bat,5,2,0,1290.4,33.5,71.8,lo,0,AUS,spin,yes,18.846875,1.528125
-4,1497,238,NZL,4,129,-197,LRPL Taylor,MJ Clarke,4,56,89,37.6,1226,61.33,Right-hand bat,6,2,0,1290.4,33.5,71.8,lo,2,AUS,spin,yes,18.846875,1.528125
-4,1498,239,NZL,4,131,-195,LRPL Taylor,MJ Clarke,4,58,90,37.6,1226,61.33,Right-hand bat,7,4,0,1290.4,33.5,71.8,lo,1,AUS,spin,yes,18.846875,1.528125

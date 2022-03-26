@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,2438,89,NZL,2,44,-276,LRPL Taylor,MG Johnson,4,0,0,46.98,8785,58.29,Right-hand bat,29,8,2,15996.5,28.4,51.1,lf,0,AUS,seam,no,46.91836734693878,12.795918367346939
-4,2445,96,NZL,2,54,-266,LRPL Taylor,MG Johnson,4,5,4,46.98,8785,58.29,Right-hand bat,30,8,2,15996.5,28.4,51.1,lf,0,AUS,seam,no,46.91836734693878,12.795918367346939
-4,2446,97,NZL,2,54,-266,LRPL Taylor,MG Johnson,4,5,5,46.98,8785,58.29,Right-hand bat,31,8,2,15996.5,28.4,51.1,lf,4,AUS,seam,no,46.91836734693878,12.795918367346939
-4,2447,98,NZL,2,58,-262,LRPL Taylor,MG Johnson,4,9,6,46.98,8785,58.29,Right-hand bat,32,12,2,15996.5,28.4,51.1,lf,0,AUS,seam,no,46.91836734693878,12.795918367346939
-4,2448,99,NZL,2,58,-262,LRPL Taylor,MG Johnson,4,9,7,46.98,8785,58.29,Right-hand bat,33,12,2,15996.5,28.4,51.1,lf,3,AUS,seam,no,46.91836734693878,12.795918367346939
-4,2450,101,NZL,2,62,-258,LRPL Taylor,MG Johnson,4,12,8,46.98,8785,58.29,Right-hand bat,35,16,2,15996.5,28.4,51.1,lf,4,AUS,seam,no,46.91836734693878,12.795918367346939

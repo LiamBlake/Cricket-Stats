@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,327,327,AUS,2,173,173,MEK Hussey,RR Sarwan,4,0,0,71.71,4451,51.56,Left-hand bat,21,12,0,1956,48.69,85,rls,0,WIN,spin,yes,42.76147959183674,5.1313775510204085
-1,328,328,AUS,2,173,173,MEK Hussey,RR Sarwan,4,0,1,71.71,4451,51.56,Left-hand bat,22,12,0,1956,48.69,85,rls,0,WIN,spin,yes,42.76147959183674,5.1313775510204085
-1,329,329,AUS,2,173,173,MEK Hussey,RR Sarwan,4,0,2,71.71,4451,51.56,Left-hand bat,23,12,0,1956,48.69,85,rls,0,WIN,spin,yes,42.76147959183674,5.1313775510204085
-1,336,336,AUS,2,173,173,MEK Hussey,RR Sarwan,4,0,3,71.71,4451,51.56,Left-hand bat,24,12,0,1956,48.69,85,rls,1,WIN,spin,yes,42.76147959183674,5.1313775510204085
-1,338,338,AUS,2,175,175,MEK Hussey,RR Sarwan,4,1,4,71.71,4451,51.56,Left-hand bat,26,14,0,1956,48.69,85,rls,1,WIN,spin,yes,42.76147959183674,5.1313775510204085
-1,340,340,AUS,2,177,177,MEK Hussey,RR Sarwan,4,2,5,71.71,4451,51.56,Left-hand bat,28,16,0,1956,48.69,85,rls,0,WIN,spin,yes,42.76147959183674,5.1313775510204085
-1,341,341,AUS,2,177,177,MEK Hussey,RR Sarwan,4,2,6,71.71,4451,51.56,Left-hand bat,29,16,0,1956,48.69,85,rls,0,WIN,spin,yes,42.76147959183674,5.1313775510204085

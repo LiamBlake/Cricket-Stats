@@ -1,3 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1546,212,IND,5,110,13,R Ashwin,SR Watson,8,14,23,37.92,1442,65.74,Right-hand bat,48,7,0,5016.5,32.71,71.7,rfm,0,AUS,seam,yes,28.35108024691358,6.843364197530864
-3,1547,213,IND,5,110,13,R Ashwin,SR Watson,8,14,24,37.92,1442,65.74,Right-hand bat,49,7,0,5016.5,32.71,71.7,rfm,3,AUS,seam,yes,28.35108024691358,6.843364197530864

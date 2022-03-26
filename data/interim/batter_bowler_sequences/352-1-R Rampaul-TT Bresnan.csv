@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,643,643,WIN,9,360,360,R Rampaul,TT Bresnan,11,0,0,16.35,582,56.18,Left-hand bat,156,98,4,2838.3,25.46,54.6,rmf,0,ENG,seam,yes,26.82206035379813,7.823100936524454
-1,650,650,WIN,9,364,364,R Rampaul,TT Bresnan,11,0,1,16.35,582,56.18,Left-hand bat,157,98,4,2838.3,25.46,54.6,rmf,2,ENG,seam,yes,26.82206035379813,7.823100936524454
-1,651,651,WIN,9,366,366,R Rampaul,TT Bresnan,11,2,2,16.35,582,56.18,Left-hand bat,158,100,4,2838.3,25.46,54.6,rmf,0,ENG,seam,yes,26.82206035379813,7.823100936524454
-1,652,652,WIN,9,366,366,R Rampaul,TT Bresnan,11,2,3,16.35,582,56.18,Left-hand bat,159,100,4,2838.3,25.46,54.6,rmf,0,ENG,seam,yes,26.82206035379813,7.823100936524454
-1,653,653,WIN,9,366,366,R Rampaul,TT Bresnan,11,2,4,16.35,582,56.18,Left-hand bat,160,100,4,2838.3,25.46,54.6,rmf,0,ENG,seam,yes,26.82206035379813,7.823100936524454
-1,654,654,WIN,9,366,366,R Rampaul,TT Bresnan,11,2,5,16.35,582,56.18,Left-hand bat,161,100,4,2838.3,25.46,54.6,rmf,0,ENG,seam,yes,26.82206035379813,7.823100936524454
-1,655,655,WIN,9,366,366,R Rampaul,TT Bresnan,11,2,6,16.35,582,56.18,Left-hand bat,162,100,4,2838.3,25.46,54.6,rmf,4,ENG,seam,yes,26.82206035379813,7.823100936524454

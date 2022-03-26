@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1516,276,RSA,4,151,179,Q de Kock,Mohammed Shami,6,0,0,41.02,2252,72.86,Left-hand bat,53,22,2,5484.3,29.86,52.7,rf,0,RSA,seam,yes,22.33375,3.9412499999999993
-3,1523,283,RSA,4,151,179,Q de Kock,Mohammed Shami,6,0,1,41.02,2252,72.86,Left-hand bat,54,22,2,5484.3,29.86,52.7,rf,4,RSA,seam,yes,22.33375,3.9412499999999993
-3,1524,284,RSA,4,155,183,Q de Kock,Mohammed Shami,6,4,2,41.02,2252,72.86,Left-hand bat,55,26,2,5484.3,29.86,52.7,rf,4,RSA,seam,yes,22.33375,3.9412499999999993
-3,1525,285,RSA,4,159,187,Q de Kock,Mohammed Shami,6,8,3,41.02,2252,72.86,Left-hand bat,56,30,2,5484.3,29.86,52.7,rf,4,RSA,seam,yes,22.33375,3.9412499999999993
-3,1526,286,RSA,4,163,191,Q de Kock,Mohammed Shami,6,12,4,41.02,2252,72.86,Left-hand bat,57,34,2,5484.3,29.86,52.7,rf,W,RSA,seam,yes,22.33375,3.9412499999999993

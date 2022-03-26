@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1582,150,NZL,1,66,-145,KS Williamson,IJL Trott,3,14,44,31.86,2960,40.91,Right-hand bat,0,0,0,612,118.33,204,rm,0,NZL,seam,yes,27.303719008264466,12.741735537190083
-3,1583,151,NZL,1,66,-145,KS Williamson,IJL Trott,3,14,45,31.86,2960,40.91,Right-hand bat,1,0,0,612,118.33,204,rm,0,NZL,seam,yes,27.303719008264466,12.741735537190083
-3,1584,152,NZL,1,66,-145,KS Williamson,IJL Trott,3,14,46,31.86,2960,40.91,Right-hand bat,2,0,0,612,118.33,204,rm,0,NZL,seam,yes,27.303719008264466,12.741735537190083
-3,1585,153,NZL,1,66,-145,KS Williamson,IJL Trott,3,14,47,31.86,2960,40.91,Right-hand bat,3,0,0,612,118.33,204,rm,1,NZL,seam,yes,27.303719008264466,12.741735537190083
-3,1803,371,NZL,2,153,-58,KS Williamson,IJL Trott,3,51,156,31.86,2960,40.91,Right-hand bat,16,10,0,612,118.33,204,rm,0,NZL,seam,yes,27.303719008264466,12.741735537190083
-3,1804,372,NZL,2,153,-58,KS Williamson,IJL Trott,3,51,157,31.86,2960,40.91,Right-hand bat,17,10,0,612,118.33,204,rm,0,NZL,seam,yes,27.303719008264466,12.741735537190083

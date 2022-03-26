@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,878,878,SRL,6,388,388,HMRKB Herath,Mohammad Amir,8,0,3,14.54,2980,50.26,Left-hand bat,156,62,0,6300.1,32.43,67,lf,1,SRL,seam,yes,8.880624999999998,18.444375
-1,882,882,SRL,6,390,390,HMRKB Herath,Mohammad Amir,8,1,4,14.54,2980,50.26,Left-hand bat,160,63,0,6300.1,32.43,67,lf,0,SRL,seam,yes,8.880624999999998,18.444375
-1,883,883,SRL,6,390,390,HMRKB Herath,Mohammad Amir,8,1,5,14.54,2980,50.26,Left-hand bat,161,63,0,6300.1,32.43,67,lf,0,SRL,seam,yes,8.880624999999998,18.444375

@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,733,733,IND,6,451,451,HH Pandya,HMRKB Herath,8,0,0,35,69,101.44,Right-hand bat,191,109,3,23460.5,28.25,60.3,lo,0,IND,spin,yes,9.913198573127229,31.15576694411415
-1,745,745,IND,6,459,459,HH Pandya,HMRKB Herath,8,0,2,35,69,101.44,Right-hand bat,197,114,3,23460.5,28.25,60.3,lo,0,IND,spin,yes,9.913198573127229,31.15576694411415
-1,752,752,IND,6,465,465,HH Pandya,HMRKB Herath,8,2,5,35,69,101.44,Right-hand bat,198,114,3,23460.5,28.25,60.3,lo,1,IND,spin,yes,9.913198573127229,31.15576694411415
-1,757,757,IND,6,467,467,HH Pandya,HMRKB Herath,8,3,6,35,69,101.44,Right-hand bat,203,116,3,23460.5,28.25,60.3,lo,0,IND,spin,yes,9.913198573127229,31.15576694411415
-1,793,793,IND,6,487,487,HH Pandya,HMRKB Herath,8,11,15,35,69,101.44,Right-hand bat,221,119,3,23460.5,28.25,60.3,lo,1,IND,spin,yes,9.913198573127229,31.15576694411415

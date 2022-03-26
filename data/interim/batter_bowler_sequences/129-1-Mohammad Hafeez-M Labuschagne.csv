@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,259,259,PAK,0,131,131,Mohammad Hafeez,M Labuschagne,2,71,129,39.94,6374,56.4,Right-hand bat,0,0,0,66,19,33,rls,1,PAK,spin,yes,12.737024221453286,23.35121107266436
-1,262,262,PAK,0,133,133,Mohammad Hafeez,M Labuschagne,2,72,130,39.94,6374,56.4,Right-hand bat,3,2,0,66,19,33,rls,1,PAK,spin,yes,12.737024221453286,23.35121107266436
-1,264,264,PAK,0,135,135,Mohammad Hafeez,M Labuschagne,2,73,131,39.94,6374,56.4,Right-hand bat,5,3,0,66,19,33,rls,1,PAK,spin,yes,12.737024221453286,23.35121107266436
-1,272,272,PAK,0,141,141,Mohammad Hafeez,M Labuschagne,2,78,138,39.94,6374,56.4,Right-hand bat,7,5,0,66,19,33,rls,0,PAK,spin,yes,12.737024221453286,23.35121107266436
-1,273,273,PAK,0,141,141,Mohammad Hafeez,M Labuschagne,2,78,139,39.94,6374,56.4,Right-hand bat,8,5,0,66,19,33,rls,1,PAK,spin,yes,12.737024221453286,23.35121107266436
-1,275,275,PAK,0,143,143,Mohammad Hafeez,M Labuschagne,2,79,140,39.94,6374,56.4,Right-hand bat,10,7,0,66,19,33,rls,2,PAK,spin,yes,12.737024221453286,23.35121107266436
-1,276,276,PAK,0,145,145,Mohammad Hafeez,M Labuschagne,2,81,141,39.94,6374,56.4,Right-hand bat,11,9,0,66,19,33,rls,0,PAK,spin,yes,12.737024221453286,23.35121107266436

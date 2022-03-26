@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,320,320,SRL,2,147,147,HDRL Thirimanne,Yasir Shah,4,4,9,26.65,1928,40.09,Left-hand bat,69,29,0,2238.5,26.19,48.7,rls,1,SRL,spin,no,11.277777777777779,22.555555555555557
-1,329,329,SRL,2,151,151,HDRL Thirimanne,Yasir Shah,4,5,10,26.65,1928,40.09,Left-hand bat,72,33,0,2238.5,26.19,48.7,rls,0,SRL,spin,no,11.277777777777779,22.555555555555557
-1,330,330,SRL,2,151,151,HDRL Thirimanne,Yasir Shah,4,5,11,26.65,1928,40.09,Left-hand bat,73,33,0,2238.5,26.19,48.7,rls,1,SRL,spin,no,11.277777777777779,22.555555555555557

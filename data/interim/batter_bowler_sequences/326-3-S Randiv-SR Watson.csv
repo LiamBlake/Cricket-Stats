@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1869,680,SRL,6,313,76,S Randiv,SR Watson,8,0,7,7.16,137,31.38,Right-hand bat,115,39,1,2892.3,29.4,59,rfm,0,SRL,seam,yes,28.98676748582231,10.23062381852552
-3,1870,681,SRL,6,313,76,S Randiv,SR Watson,8,0,8,7.16,137,31.38,Right-hand bat,116,39,1,2892.3,29.4,59,rfm,4,SRL,seam,yes,28.98676748582231,10.23062381852552
-3,1871,682,SRL,6,317,80,S Randiv,SR Watson,8,4,9,7.16,137,31.38,Right-hand bat,117,43,1,2892.3,29.4,59,rfm,0,SRL,seam,yes,28.98676748582231,10.23062381852552
-3,1872,683,SRL,6,317,80,S Randiv,SR Watson,8,4,10,7.16,137,31.38,Right-hand bat,118,43,1,2892.3,29.4,59,rfm,0,SRL,seam,yes,28.98676748582231,10.23062381852552
-3,1873,684,SRL,6,317,80,S Randiv,SR Watson,8,4,11,7.16,137,31.38,Right-hand bat,119,43,1,2892.3,29.4,59,rfm,0,SRL,seam,yes,28.98676748582231,10.23062381852552

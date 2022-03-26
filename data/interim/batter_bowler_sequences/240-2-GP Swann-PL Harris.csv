@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1640,989,ENG,7,537,194,GP Swann,PL Harris,9,1,1,35.61,562,82.38,Right-hand bat,223,141,1,5682.4,33.35,71.9,lo,1,RSA,spin,no,19.976218787158142,16.230677764565993
-2,1642,991,ENG,7,539,196,GP Swann,PL Harris,9,2,2,35.61,562,82.38,Right-hand bat,225,143,1,5682.4,33.35,71.9,lo,2,RSA,spin,no,19.976218787158142,16.230677764565993
-2,1643,992,ENG,7,541,198,GP Swann,PL Harris,9,4,3,35.61,562,82.38,Right-hand bat,226,145,1,5682.4,33.35,71.9,lo,0,RSA,spin,no,19.976218787158142,16.230677764565993
-2,1644,993,ENG,7,541,198,GP Swann,PL Harris,9,4,4,35.61,562,82.38,Right-hand bat,227,145,1,5682.4,33.35,71.9,lo,1,RSA,spin,no,19.976218787158142,16.230677764565993

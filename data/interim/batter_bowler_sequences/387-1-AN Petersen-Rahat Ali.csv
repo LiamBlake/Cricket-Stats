@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,6,6,RSA,0,0,0,AN Petersen,Rahat Ali,2,0,0,38.75,3124,50.86,Right-hand bat,0,0,0,312.2,37.83,52.3,lfm,0,RSA,seam,yes,24.888888888888893,1.777777777777778
-1,7,7,RSA,0,0,0,AN Petersen,Rahat Ali,2,0,1,38.75,3124,50.86,Right-hand bat,1,0,0,312.2,37.83,52.3,lfm,1nb,RSA,seam,yes,24.888888888888893,1.777777777777778
-1,8,8,RSA,0,1,1,AN Petersen,Rahat Ali,2,0,2,38.75,3124,50.86,Right-hand bat,2,1,0,312.2,37.83,52.3,lfm,4,RSA,seam,yes,24.888888888888893,1.777777777777778
-1,9,9,RSA,0,5,5,AN Petersen,Rahat Ali,2,4,3,38.75,3124,50.86,Right-hand bat,3,5,0,312.2,37.83,52.3,lfm,4,RSA,seam,yes,24.888888888888893,1.777777777777778
-1,10,10,RSA,0,9,9,AN Petersen,Rahat Ali,2,8,4,38.75,3124,50.86,Right-hand bat,4,9,0,312.2,37.83,52.3,lfm,0,RSA,seam,yes,24.888888888888893,1.777777777777778
-1,11,11,RSA,0,9,9,AN Petersen,Rahat Ali,2,8,5,38.75,3124,50.86,Right-hand bat,5,9,0,312.2,37.83,52.3,lfm,2,RSA,seam,yes,24.888888888888893,1.777777777777778
-1,12,12,RSA,0,11,11,AN Petersen,Rahat Ali,2,10,6,38.75,3124,50.86,Right-hand bat,6,11,0,312.2,37.83,52.3,lfm,0,RSA,seam,yes,24.888888888888893,1.777777777777778
-1,19,19,RSA,0,13,13,AN Petersen,Rahat Ali,2,10,10,38.75,3124,50.86,Right-hand bat,7,11,0,312.2,37.83,52.3,lfm,W,RSA,seam,yes,24.888888888888893,1.777777777777778

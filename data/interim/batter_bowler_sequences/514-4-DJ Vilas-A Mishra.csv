@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1389,435,RSA,6,135,-174,DJ Vilas,A Mishra,8,0,0,7.2,88,40.9,Right-hand bat,83,32,3,4224.5,33.96,65,rls,0,IND,spin,no,2.8525,13.4475
-4,1401,447,RSA,6,141,-168,DJ Vilas,A Mishra,8,0,2,7.2,88,40.9,Right-hand bat,89,37,3,4224.5,33.96,65,rls,0,IND,spin,no,2.8525,13.4475
-4,1412,458,RSA,6,149,-160,DJ Vilas,A Mishra,8,0,5,7.2,88,40.9,Right-hand bat,94,38,3,4224.5,33.96,65,rls,2,IND,spin,no,2.8525,13.4475
-4,1413,459,RSA,6,151,-158,DJ Vilas,A Mishra,8,2,6,7.2,88,40.9,Right-hand bat,95,40,3,4224.5,33.96,65,rls,0,IND,spin,no,2.8525,13.4475
-4,1420,466,RSA,6,151,-158,DJ Vilas,A Mishra,8,2,7,7.2,88,40.9,Right-hand bat,96,40,3,4224.5,33.96,65,rls,1,IND,spin,no,2.8525,13.4475
-4,1424,470,RSA,6,153,-156,DJ Vilas,A Mishra,8,3,8,7.2,88,40.9,Right-hand bat,100,42,3,4224.5,33.96,65,rls,0,IND,spin,no,2.8525,13.4475
-4,1425,471,RSA,6,153,-156,DJ Vilas,A Mishra,8,3,9,7.2,88,40.9,Right-hand bat,101,42,3,4224.5,33.96,65,rls,4,IND,spin,no,2.8525,13.4475
-4,1434,480,RSA,6,159,-150,DJ Vilas,A Mishra,8,7,10,7.2,88,40.9,Right-hand bat,104,47,3,4224.5,33.96,65,rls,1,IND,spin,no,2.8525,13.4475

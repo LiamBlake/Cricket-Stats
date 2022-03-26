@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,890,890,IND,8,418,418,A Mishra,MS Panesar,10,0,0,10.5,58,72.41,Right-hand bat,128,78,2,8172.1,32.88,68.1,lo,0,IND,spin,yes,17.74234693877551,20.471938775510207
-1,891,891,IND,8,418,418,A Mishra,MS Panesar,10,0,1,10.5,58,72.41,Right-hand bat,129,78,2,8172.1,32.88,68.1,lo,1,IND,spin,yes,17.74234693877551,20.471938775510207
-1,900,900,IND,8,420,420,A Mishra,MS Panesar,10,2,6,10.5,58,72.41,Right-hand bat,132,79,2,8172.1,32.88,68.1,lo,6,IND,spin,yes,17.74234693877551,20.471938775510207
-1,901,901,IND,8,426,426,A Mishra,MS Panesar,10,8,7,10.5,58,72.41,Right-hand bat,133,85,2,8172.1,32.88,68.1,lo,2,IND,spin,yes,17.74234693877551,20.471938775510207
-1,902,902,IND,8,428,428,A Mishra,MS Panesar,10,10,8,10.5,58,72.41,Right-hand bat,134,87,2,8172.1,32.88,68.1,lo,0,IND,spin,yes,17.74234693877551,20.471938775510207
-1,903,903,IND,8,428,428,A Mishra,MS Panesar,10,10,9,10.5,58,72.41,Right-hand bat,135,87,2,8172.1,32.88,68.1,lo,2,IND,spin,yes,17.74234693877551,20.471938775510207
-1,904,904,IND,8,430,430,A Mishra,MS Panesar,10,12,10,10.5,58,72.41,Right-hand bat,136,89,2,8172.1,32.88,68.1,lo,0,IND,spin,yes,17.74234693877551,20.471938775510207
-1,905,905,IND,8,430,430,A Mishra,MS Panesar,10,12,11,10.5,58,72.41,Right-hand bat,137,89,2,8172.1,32.88,68.1,lo,0,IND,spin,yes,17.74234693877551,20.471938775510207

@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,48,48,ENG,3,32,32,PD Collingwood,M Morkel,5,0,0,43.43,8501,45.98,Right-hand bat,24,17,2,3978.5,31.45,53.8,rf,0,RSA,seam,yes,24.35665294924554,4.23593964334705
-1,165,165,ENG,4,108,108,PD Collingwood,M Morkel,5,44,55,43.43,8501,45.98,Right-hand bat,38,20,3,3978.5,31.45,53.8,rf,0,RSA,seam,yes,24.35665294924554,4.23593964334705
-1,166,166,ENG,4,108,108,PD Collingwood,M Morkel,5,44,56,43.43,8501,45.98,Right-hand bat,39,20,3,3978.5,31.45,53.8,rf,1lb,RSA,seam,yes,24.35665294924554,4.23593964334705
-1,177,177,ENG,4,110,110,PD Collingwood,M Morkel,5,44,57,43.43,8501,45.98,Right-hand bat,44,21,3,3978.5,31.45,53.8,rf,3,RSA,seam,yes,24.35665294924554,4.23593964334705

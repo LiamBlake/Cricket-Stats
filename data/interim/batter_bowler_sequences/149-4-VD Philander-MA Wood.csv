@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-4,1807,428,RSA,6,240,-225,VD Philander,MA Wood,8,0,1,24.04,3995,44.53,Right-hand bat,78,34,1,2754.5,31.41,57.4,rf,0,RSA,seam,no,26.934375,0.690625
-4,1808,429,RSA,6,240,-225,VD Philander,MA Wood,8,0,2,24.04,3995,44.53,Right-hand bat,79,34,1,2754.5,31.41,57.4,rf,4,RSA,seam,no,26.934375,0.690625
-4,1809,430,RSA,6,244,-221,VD Philander,MA Wood,8,4,3,24.04,3995,44.53,Right-hand bat,80,38,1,2754.5,31.41,57.4,rf,4,RSA,seam,no,26.934375,0.690625
-4,1810,431,RSA,6,248,-217,VD Philander,MA Wood,8,8,4,24.04,3995,44.53,Right-hand bat,81,42,1,2754.5,31.41,57.4,rf,0,RSA,seam,no,26.934375,0.690625
-4,1811,432,RSA,6,248,-217,VD Philander,MA Wood,8,8,5,24.04,3995,44.53,Right-hand bat,82,42,1,2754.5,31.41,57.4,rf,1,RSA,seam,no,26.934375,0.690625
-4,1819,440,RSA,6,260,-205,VD Philander,MA Wood,8,10,9,24.04,3995,44.53,Right-hand bat,84,47,1,2754.5,31.41,57.4,rf,0,RSA,seam,no,26.934375,0.690625
-4,1820,441,RSA,6,260,-205,VD Philander,MA Wood,8,10,10,24.04,3995,44.53,Right-hand bat,85,47,1,2754.5,31.41,57.4,rf,W,RSA,seam,no,26.934375,0.690625

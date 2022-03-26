@@ -1,3 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1665,285,AUS,5,161,357,BJ Haddin,Mohammad Amir,7,0,0,41.29,2427,57.84,Right-hand bat,109,60,4,1356,41.5,75.3,lf,0,AUS,seam,yes,26.181818181818183,9.818181818181818
-3,1666,286,AUS,5,161,357,BJ Haddin,Mohammad Amir,7,0,1,41.29,2427,57.84,Right-hand bat,110,60,4,1356,41.5,75.3,lf,W,AUS,seam,yes,26.181818181818183,9.818181818181818

@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1005,403,AUS,7,152,-103,RJ Harris,MS Panesar,9,0,4,19.65,664,59.18,Right-hand bat,49,14,0,12474.1,34.71,74.7,lo,0,AUS,spin,yes,20.3671875,6.7890625
-2,1006,404,AUS,7,152,-103,RJ Harris,MS Panesar,9,0,5,19.65,664,59.18,Right-hand bat,50,14,0,12474.1,34.71,74.7,lo,4,AUS,spin,yes,20.3671875,6.7890625
-2,1007,405,AUS,7,156,-99,RJ Harris,MS Panesar,9,4,6,19.65,664,59.18,Right-hand bat,51,18,0,12474.1,34.71,74.7,lo,0,AUS,spin,yes,20.3671875,6.7890625
-2,1008,406,AUS,7,156,-99,RJ Harris,MS Panesar,9,4,7,19.65,664,59.18,Right-hand bat,52,18,0,12474.1,34.71,74.7,lo,0,AUS,spin,yes,20.3671875,6.7890625
-2,1009,407,AUS,7,156,-99,RJ Harris,MS Panesar,9,4,8,19.65,664,59.18,Right-hand bat,53,18,0,12474.1,34.71,74.7,lo,0,AUS,spin,yes,20.3671875,6.7890625

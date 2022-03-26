@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,18,18,WIN,0,7,7,CH Gayle,M Morkel,1,7,10,40.31,10297,58.33,Left-hand bat,6,0,0,4854.1,30.77,52.7,rf,4,WIN,seam,yes,13.730945821854913,10.117539026629936
-1,19,19,WIN,0,11,11,CH Gayle,M Morkel,1,11,11,40.31,10297,58.33,Left-hand bat,7,4,0,4854.1,30.77,52.7,rf,0,WIN,seam,yes,13.730945821854913,10.117539026629936
-1,20,20,WIN,0,11,11,CH Gayle,M Morkel,1,11,12,40.31,10297,58.33,Left-hand bat,8,4,0,4854.1,30.77,52.7,rf,1,WIN,seam,yes,13.730945821854913,10.117539026629936

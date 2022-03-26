@@ -1,9 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,1123,518,RSA,4,279,-50,T Bavuma,ST Gabriel,6,10,33,12.5,76,32.89,Right-hand bat,82,41,0,1602.3,37.32,64.2,rf,1,RSA,seam,no,18.0791015625,15.9521484375
-2,1126,521,RSA,4,281,-48,T Bavuma,ST Gabriel,6,11,34,12.5,76,32.89,Right-hand bat,85,43,0,1602.3,37.32,64.2,rf,0,RSA,seam,no,18.0791015625,15.9521484375
-2,1133,528,RSA,4,283,-46,T Bavuma,ST Gabriel,6,11,35,12.5,76,32.89,Right-hand bat,86,43,0,1602.3,37.32,64.2,rf,4,RSA,seam,no,18.0791015625,15.9521484375
-2,1134,529,RSA,4,287,-42,T Bavuma,ST Gabriel,6,15,36,12.5,76,32.89,Right-hand bat,87,47,0,1602.3,37.32,64.2,rf,0,RSA,seam,no,18.0791015625,15.9521484375
-2,1135,530,RSA,4,287,-42,T Bavuma,ST Gabriel,6,15,37,12.5,76,32.89,Right-hand bat,88,47,0,1602.3,37.32,64.2,rf,1nb,RSA,seam,no,18.0791015625,15.9521484375
-2,1136,531,RSA,4,288,-41,T Bavuma,ST Gabriel,6,15,38,12.5,76,32.89,Right-hand bat,89,48,0,1602.3,37.32,64.2,rf,0,RSA,seam,no,18.0791015625,15.9521484375
-2,1137,532,RSA,4,288,-41,T Bavuma,ST Gabriel,6,15,39,12.5,76,32.89,Right-hand bat,90,48,0,1602.3,37.32,64.2,rf,0,RSA,seam,no,18.0791015625,15.9521484375
-2,1138,533,RSA,4,288,-41,T Bavuma,ST Gabriel,6,15,40,12.5,76,32.89,Right-hand bat,91,48,0,1602.3,37.32,64.2,rf,W,RSA,seam,no,18.0791015625,15.9521484375

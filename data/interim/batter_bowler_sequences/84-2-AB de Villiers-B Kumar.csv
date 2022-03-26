@@ -1,6 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,670,206,RSA,3,83,-104,AB de Villiers,B Kumar,5,1,10,49.92,15422,54.06,Right-hand bat,72,17,2,3348,26.09,53.1,rm,0,IND,seam,no,20.125,0
-2,671,207,RSA,3,83,-104,AB de Villiers,B Kumar,5,1,11,49.92,15422,54.06,Right-hand bat,73,17,2,3348,26.09,53.1,rm,0,IND,seam,no,20.125,0
-2,672,208,RSA,3,83,-104,AB de Villiers,B Kumar,5,1,12,49.92,15422,54.06,Right-hand bat,74,17,2,3348,26.09,53.1,rm,1,IND,seam,no,20.125,0
-2,674,210,RSA,3,85,-102,AB de Villiers,B Kumar,5,2,13,49.92,15422,54.06,Right-hand bat,76,18,2,3348,26.09,53.1,rm,3,IND,seam,no,20.125,0
-2,686,222,RSA,3,92,-95,AB de Villiers,B Kumar,5,5,18,49.92,15422,54.06,Right-hand bat,82,24,2,3348,26.09,53.1,rm,W,IND,seam,no,20.125,0

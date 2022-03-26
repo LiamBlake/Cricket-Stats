@@ -1,5 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-2,878,320,SRL,3,199,-137,AD Mathews,AU Rashid,5,4,2,43.05,10602,49.95,Right-hand bat,43,24,2,3660,37.88,61,rls,0,ENG,spin,no,3.40625,23.84375
-2,879,321,SRL,3,199,-137,AD Mathews,AU Rashid,5,4,3,43.05,10602,49.95,Right-hand bat,44,24,2,3660,37.88,61,rls,0,ENG,spin,no,3.40625,23.84375
-2,880,322,SRL,3,199,-137,AD Mathews,AU Rashid,5,4,4,43.05,10602,49.95,Right-hand bat,45,24,2,3660,37.88,61,rls,0,ENG,spin,no,3.40625,23.84375
-2,881,323,SRL,3,199,-137,AD Mathews,AU Rashid,5,4,5,43.05,10602,49.95,Right-hand bat,46,24,2,3660,37.88,61,rls,1,ENG,spin,no,3.40625,23.84375

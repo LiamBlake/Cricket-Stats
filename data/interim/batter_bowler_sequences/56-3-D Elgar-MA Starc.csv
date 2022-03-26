@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1039,24,RSA,0,15,71,D Elgar,MA Starc,2,4,10,42.38,6748,45.85,Left-hand bat,12,8,0,8982.4,28.17,49.3,lf,0,RSA,seam,yes,20.26625,5.88375
-3,1040,25,RSA,0,15,71,D Elgar,MA Starc,2,4,11,42.38,6748,45.85,Left-hand bat,13,8,0,8982.4,28.17,49.3,lf,4,RSA,seam,yes,20.26625,5.88375
-3,1041,26,RSA,0,19,75,D Elgar,MA Starc,2,8,12,42.38,6748,45.85,Left-hand bat,14,12,0,8982.4,28.17,49.3,lf,2,RSA,seam,yes,20.26625,5.88375
-3,1042,27,RSA,0,21,77,D Elgar,MA Starc,2,10,13,42.38,6748,45.85,Left-hand bat,15,14,0,8982.4,28.17,49.3,lf,0,RSA,seam,yes,20.26625,5.88375
-3,1043,28,RSA,0,21,77,D Elgar,MA Starc,2,10,14,42.38,6748,45.85,Left-hand bat,16,14,0,8982.4,28.17,49.3,lf,0,RSA,seam,yes,20.26625,5.88375
-3,1044,29,RSA,0,21,77,D Elgar,MA Starc,2,10,15,42.38,6748,45.85,Left-hand bat,17,14,0,8982.4,28.17,49.3,lf,0,RSA,seam,yes,20.26625,5.88375

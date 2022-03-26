@@ -1,8 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-1,716,716,IND,5,501,501,R Ashwin,PLS Gamage,7,0,1,31.13,3756,54.71,Right-hand bat,133,82,1,864.2,46.3,86.6,rfm,1,IND,seam,yes,21.939643347050758,33.90672153635117
-1,729,729,IND,5,515,515,R Ashwin,PLS Gamage,7,3,6,31.13,3756,54.71,Right-hand bat,140,93,1,864.2,46.3,86.6,rfm,0,IND,seam,yes,21.939643347050758,33.90672153635117
-1,730,730,IND,5,515,515,R Ashwin,PLS Gamage,7,3,7,31.13,3756,54.71,Right-hand bat,141,93,1,864.2,46.3,86.6,rfm,0,IND,seam,yes,21.939643347050758,33.90672153635117
-1,731,731,IND,5,515,515,R Ashwin,PLS Gamage,7,3,8,31.13,3756,54.71,Right-hand bat,142,93,1,864.2,46.3,86.6,rfm,0,IND,seam,yes,21.939643347050758,33.90672153635117
-1,732,732,IND,5,515,515,R Ashwin,PLS Gamage,7,3,9,31.13,3756,54.71,Right-hand bat,143,93,1,864.2,46.3,86.6,rfm,0,IND,seam,yes,21.939643347050758,33.90672153635117
-1,741,741,IND,5,519,519,R Ashwin,PLS Gamage,7,4,14,31.13,3756,54.71,Right-hand bat,146,94,1,864.2,46.3,86.6,rfm,0,IND,seam,yes,21.939643347050758,33.90672153635117
-1,742,742,IND,5,519,519,R Ashwin,PLS Gamage,7,4,15,31.13,3756,54.71,Right-hand bat,147,94,1,864.2,46.3,86.6,rfm,W,IND,seam,yes,21.939643347050758,33.90672153635117

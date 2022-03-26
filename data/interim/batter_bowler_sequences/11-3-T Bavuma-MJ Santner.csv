@@ -1,4 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1987,559,RSA,4,204,171,T Bavuma,MJ Santner,6,4,16,30.41,1672,43.66,Right-hand bat,90,28,0,2496.3,39.7,83.3,lo,0,NZL,spin,yes,20.662721893491128,12.914201183431954
-3,1988,560,RSA,4,204,171,T Bavuma,MJ Santner,6,4,17,30.41,1672,43.66,Right-hand bat,91,28,0,2496.3,39.7,83.3,lo,1,NZL,spin,yes,20.662721893491128,12.914201183431954
-3,1999,571,RSA,4,206,173,T Bavuma,MJ Santner,6,6,22,30.41,1672,43.66,Right-hand bat,96,29,0,2496.3,39.7,83.3,lo,W,NZL,spin,yes,20.662721893491128,12.914201183431954

@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1553,329,AUS,4,170,280,MEK Hussey,KAJ Roach,6,0,5,50.07,11600,49.2,Left-hand bat,65,39,2,3312.4,28.67,53.4,rfm,1nb,WIN,seam,yes,9.61625,17.85875
-3,1554,330,AUS,4,171,281,MEK Hussey,KAJ Roach,6,0,6,50.07,11600,49.2,Left-hand bat,66,40,2,3312.4,28.67,53.4,rfm,0,WIN,seam,yes,9.61625,17.85875
-3,1555,331,AUS,4,171,281,MEK Hussey,KAJ Roach,6,0,7,50.07,11600,49.2,Left-hand bat,67,40,2,3312.4,28.67,53.4,rfm,0,WIN,seam,yes,9.61625,17.85875
-3,1556,332,AUS,4,171,281,MEK Hussey,KAJ Roach,6,0,8,50.07,11600,49.2,Left-hand bat,68,40,2,3312.4,28.67,53.4,rfm,0,WIN,seam,yes,9.61625,17.85875
-3,1557,333,AUS,4,171,281,MEK Hussey,KAJ Roach,6,0,9,50.07,11600,49.2,Left-hand bat,69,40,2,3312.4,28.67,53.4,rfm,0,WIN,seam,yes,9.61625,17.85875
-3,1558,334,AUS,4,171,281,MEK Hussey,KAJ Roach,6,0,10,50.07,11600,49.2,Left-hand bat,70,40,2,3312.4,28.67,53.4,rfm,0,WIN,seam,yes,9.61625,17.85875

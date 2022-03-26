@@ -1,7 +1,0 @@
-innings,match_balls,inn_balls,bat_team,team_wkts,team_score,team_lead,batter,bowler,bat_position,bat_score,bat_balls,bat_avg,career_bat_balls,bat_sr,bat_arm,bowl_balls,bowl_runs,bowl_wkts,career_bowl_balls,bowl_avg,bowl_sr,bowl_type,outcome,host_country,bowl_class,bat_win_toss,seam_factor,spin_factor
-3,1844,6,ENG,0,1,-302,AN Cook,JR Hazlewood,1,1,2,46.35,25515,47.05,Left-hand bat,0,0,0,7698.4,25.77,55.4,rfm,0,ENG,seam,yes,32.23593964334705,11.282578875171467
-3,1845,7,ENG,0,1,-302,AN Cook,JR Hazlewood,1,1,3,46.35,25515,47.05,Left-hand bat,1,0,0,7698.4,25.77,55.4,rfm,0,ENG,seam,yes,32.23593964334705,11.282578875171467
-3,1846,8,ENG,0,1,-302,AN Cook,JR Hazlewood,1,1,4,46.35,25515,47.05,Left-hand bat,2,0,0,7698.4,25.77,55.4,rfm,2,ENG,seam,yes,32.23593964334705,11.282578875171467
-3,1847,9,ENG,0,3,-300,AN Cook,JR Hazlewood,1,3,5,46.35,25515,47.05,Left-hand bat,3,2,0,7698.4,25.77,55.4,rfm,0,ENG,seam,yes,32.23593964334705,11.282578875171467
-3,1848,10,ENG,0,3,-300,AN Cook,JR Hazlewood,1,3,6,46.35,25515,47.05,Left-hand bat,4,2,0,7698.4,25.77,55.4,rfm,1,ENG,seam,yes,32.23593964334705,11.282578875171467
-3,1856,18,ENG,1,5,-298,AN Cook,JR Hazlewood,1,5,9,46.35,25515,47.05,Left-hand bat,6,3,0,7698.4,25.77,55.4,rfm,1,ENG,seam,yes,32.23593964334705,11.282578875171467
